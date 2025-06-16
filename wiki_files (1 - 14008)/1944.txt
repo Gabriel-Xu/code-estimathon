@@ -1,0 +1,1 @@
+1) The sine of an angle is the ratio of the length of the opposite side to the length of the hypotenuse. In our caseNote that since all those triangles are similar, this ratio does not depend on the particular right triangle that is chosen, as long as it contains the angle "A".The set of zeroes of sine (that is, the values of formula_2 for which formula_3) is
