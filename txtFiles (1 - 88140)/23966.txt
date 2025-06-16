@@ -1,0 +1,1 @@
+Cloudant is a non-relational, distributed database service of the same name.Cloudant is based on the Apache-backed CouchDB project and the open source BigCouch project.Cloudant scales databases on the CouchDB framework and provides hosting, administrative tools, analytics and commercial support for CouchDB and BigCouch.

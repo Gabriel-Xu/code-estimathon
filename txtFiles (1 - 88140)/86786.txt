@@ -1,0 +1,1 @@
+When the real physical space is used for data input, the human interacts with the machine performing actions using an input device that should know the relative position and distance of the user action, among other things.
