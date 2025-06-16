@@ -1,16 +1,22 @@
-import os
+import re
 
-# Set the folder where the files are stored
-folder = "txtFiles (1 - 100000)"  # Replace with the correct folder name if different
+input_filename = "complete_list_bytes(admin).txt"
+output_filename = "complete_list_bytes(admin).txt"  # Overwrite same file
 
-# Loop through all numbers from 1 to 100000
-for i in range(1, 100001):
-    old_name = f"{i}.txt"
-    new_name = f"FILE-{i}.txt"
-    
-    old_path = os.path.join(folder, old_name)
-    new_path = os.path.join(folder, new_name)
+pattern = re.compile(r"^FILE-(\d+)\.txt - (\d+)$")
 
-    # Rename if the file exists
-    if os.path.exists(old_path):
-        os.rename(old_path, new_path)
+with open(input_filename, "r", encoding="utf-8") as infile:
+    lines = infile.readlines()
+
+with open(output_filename, "w", encoding="utf-8") as outfile:
+    for line in lines:
+        line = line.strip()
+        match = pattern.match(line)
+        if match:
+            number = int(match.group(1))
+            size = match.group(2)
+            padded_number = f"{number:06d}"
+            new_line = f"FILE-{padded_number}.txt - {size}"
+            outfile.write(new_line + "\n")
+        else:
+            outfile.write(line + "\n")  # Leave unmatching lines unchanged
