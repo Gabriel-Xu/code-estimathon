@@ -1,14 +1,14 @@
 import os
 import random
 
-INPUT_FILENAME = "wikisent2.txt"  
-OUTPUT_DIR = "txtFiles (1 - 14008)"   
+INPUT_FILENAME = "combined.txt"  
+OUTPUT_DIR = "txtFiles (1 - 88140)"   
 SUMMARY_FILE = "complete_list_bytes.txt" 
 MIN_BYTES = 200
 MAX_BYTES = 25000
-MAX_FILES = 1000000
+MAX_FILES = 100000
 ENCODING = 'utf-8'
-STARTFILE = 14106 
+STARTFILE = 88141
 
 def parse_wiki_lines(filename):
     lines = []
