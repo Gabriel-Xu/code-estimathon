@@ -1,0 +1,263 @@
+The tool of gene sequencing at SNP level is also used to pinpoint functional variants from association studies and improve the knowledge available to researchers interested in evolutionary biology, and hence may lay the foundation for predicting disease susceptibility and drug response.
+
+The tool of the trade of the theatrical master electrician is the adjustable spanner or crescent wrench, used to secure stage lighting instruments from lighting positions in the theater.
+
+The Tooloom Creek, a perennial stream of the Clarence River catchment, is located in the Northern Rivers region in the state of New South Wales, Australia.
+
+The tool provides a GUI to visualize, control and diagnose the workflow, for example with instant notification of failures.
+
+The tool provides reachability analysis and refinement checking, both implemented using the data structure BDD.
+
+The tools and equipment that an individual engineer may need are similarly variable, ranging from a simple voltmeter to a top end analyzer to sophisticated design and manufacturing software.
+
+The tools and materials used by flavorists are almost the same as that used by perfumers with the exception that flavorists seek to mimic or modify both the olfactory and gustatory properties of various food products rather than creating just abstract smells.
+
+The tools are all usually made of tungsten carbide-based compounds.
+
+The tools are also capable of compiling executables for Windows NT Embedded as well.
+
+The tools are built using the Java programming language.
+
+The tools are managed and installed by Portage itself; on a Gentoo Linux system one can install gentoolkit by issuing the following command: emerge gentoolkit.
+
+The tools are Olduwan-like and mainly made of quartz.
+
+The tools are split into two related packages: gentoolkit and gentoolkit-dev.
+
+The tools are the result of a research project from the University of Oldenburg and have been developed by the Dr. Garbage Ltd. & Co KG.
+
+The tools available to designers of log-space reductions have been greatly expanded by the result that L = SL; see SL for a list of some SL-complete problems that can now be used as subroutines in log-space reductions.
+
+The tool's axes of movement may be literally a straight line, or they may be along some set of curves or angles, but they are essentially linear (in the non mathematical sense).
+
+The tools can be also downloaded from video software distributors and FOSS repositories.
+
+The tools can be used for both web and print media design and graphics.
+
+The tools can be used for viewing and editing virtual machines (VMs) managed by libvirt and files inside VMs, scripting changes to VMs, creating VMs, and much else besides.
+
+libguestfs can access nearly any type of file system including: all known types of Linux filesystem (ext2/3/4, XFS, btrfs, etc.), any Windows filesystem (VFAT and NTFS), any Mac OS X and BSD filesystems, LVM2 volume management, MBR and GPT disk partitions, raw disks, qcow2, VirtualBox VDI, VMWare VMDK, Hyper-V VHD/VHDX, on files, local devices, CD and DVD ISOs, SD cards, or remotely over FTP, HTTP, SSH, iSCSI, NBD, GlusterFS, Ceph, Sheepdog, and much more.
+
+The tools can include everything from extra commands for the command line to general interest programs like 3D Paint to network-related tools to performance monitoring tools to interpreters for programming languages like Perl, Rexx, and others to interoperability tools like Windows versions of some Unix commands and shells.
+
+The TOOLS conference series started next year, in 1989.
+
+The TOOLS conference series was a long-running conferences on object technology, component-based development, model-based development and other advanced software technologies.
+
+The tool's coverage includes blogs, news sites, forums, videos, reviews, images and social networks such as Twitter and Facebook.
+
+The tools, dated between about 6,000 and 8,000 BC, include Cody knives and Scottsbluff and diamond-shaped Eden projectile points.
+
+The tool's design makes it only suitable for minor flames or glows within a limited area.
+
+The tools developed by DELPH-IN adopt two linguistic formalisms for deep linguistic analysis, viz.
+
+The tools developed within SIMILE are meant to allow people who are not Semantic Web developers to create ontologies which describe their specialized metadata, create RDF and convert other types of metadata into RDF.
+
+The tool selected is usually determined by characteristics of the measurement system itself.
+
+The tools enable engineers and security teams to find defects and security vulnerabilities in custom source code written in C, C++, Java, C#, JavaScript and more.
+
+The tool serves in the field of metagenomic analysis where it allows inference of the functional profile of a microbial community based on marker gene survey along one or more samples.
+
+The toolset is fully integrated - objects identified during analysis carry forward into design without redefinition.
+
+The toolset originally supported the information engineering methodology developed by Clive Finkelstein, James Martin and others in the early 1980s.
+
+The toolsets and libraries of OpenSCDP are provided as Open Source under the GNU General Public License (GPL).
+
+The toolset was founded by Jan Friso Groote and is currently developed by the Formal Systems Analysis group at Eindhoven University of Technology, The Netherlands.
+
+The tools have been incorporated into several popular text editors, as well as some plug-ins developed by the Emmet team and others implemented independently.
+
+The tools have different approaches to testing and thus have different sets of features.
+
+The tool ships with a plugin for Visual Studio and a standalone app that use the same repositories and file formats.
+
+The tools identify different forms of names and phrases.
+
+The tools include a semantic interpreter WOCADI, which translates natural language expressions (phrases, sentences, texts) into formal MultiNet expressions, a workbench MWR+ for the knowledge engineer (comprising modules for automatic knowledge acquisition and reasoning), and a workbench LIA+ for the computer lexicographer supporting the creation of large semantically based computational lexica.
+
+The tools include, but are not limited to, a Table Builder, a Database Manager, editor, debugger and programming language, a forms designer for creating data entry forms, User Interface tools, reporting tools, and deployment tools.
+
+The tools included in Gezel allows for simulation, cosimulation as well as compiling into VHDL code.
+
+The tools included pebble tools, bifaces and lithic flakes that were suggested to be amongst the oldest evidence of human occupation in Iraq.
+
+The tools in the 123D group were replaced by Tinkercad, Fusion 360, and ReMake.
+
+The tools is based on ideas of the "Ptolemy Project", done at the University if California Berkeley (UC Berkeley).
+
+The tools made available through GIS help in data collection, its storage and retrieval, its manipulation for customized circumstances and, finally, the display of the data so that it is visually comprehensible by the user.
+
+The tools may be used to create, update, and view the tables that contain the filtering rules, similarly to the iptables program from which it was developed.
+
+The tools of the CAFM are called CAFM software, CAFM applications or CAFM systems.
+
+The tools of the iceman were wires (to tie the bags of cubes), hooks, tongs, and ice picks.
+
+The tools of this culture are characterized by a lack of bifaces and use of Levallois technique is absent.
+
+The tool's primary purpose is to sift through trash during the overhaul stage of a dumpster fire.
+
+The tools provide some facilities offered by a fully integrated development environment.
+
+The tools reads an RFID tag's meta information: tag ID, tag type, manufacturer etc.
+
+The tools run directly in the web browser allowing for swift analysis of structures, sequence similarities, receptor relationships, homology models, drug trends, genetic variants and ligand target profiles.
+
+The tools serve to add automation to the ubiquitous language that is a central theme of BDD.
+
+The tools, techniques, programs etc. required to manage both process and occupational safety can sometimes be the same (for example a work permit system) and in other cases may have very different approaches.
+
+The tools themselves run on desktop operating systems such as Windows 98, Windows NT, Windows XP and subsequent.
+
+The tool's toe and cline hang behind the figure's back.
+
+The tool supporting a saw in such a cut is known as the "underbuck".
+
+The tool supports a large number of code metrics, allowing to visualize dependencies using directed graphs and dependency matrix.
+
+The tool supports and manages certificates from file key stores (PFX/PKCS#12), smartcards, USB sticks (PKCS#11) and internal Microsoft Windows key store.
+
+The tools used for manual technical drawing have been displaced by the advent of the personal computer and its common utilization as the main tool in computer-aided drawing, draughting and design (CADD).
+
+The tools uses parallelization to speed up parts of the build process.
+
+The tools use the Norcroft compiler suite and were authored by Codemist and Acorn Computers.
+
+The tools use the technique of compiling to bytecode prior to encoding so that source code is eliminated, and runtime overheads are reduced.
+
+The tools were delivered via the Internet onto the user's workstation to permit local and unrestricted use of EDA tools not unlike tool use under traditional licensing schemes.
+
+The tools were implemented as browser add-ons so that they could be used on any web site or any page that a user might create in Unicoded HTML.
+
+The tools were originally developed by Albert J. Dremel, who founded the Dremel Company in 1932 in Racine, Wisconsin.
+
+The tools were sold in Sears, sister retailer Kmart, and several other retailers.
+
+The tool translates the heavy rotational inertia of the sleeve to the lighter core to generate large amounts of torque.
+
+The tool uses classification techniques like random forest analysis.
+
+The tool uses directed graphs and regular algebra to represent the program under analysis.
+
+The tool uses Logicnets as its platform, a logic tree search engine.
+
+The tool was also used when correspondence by letter writing was more formal and an art.
+
+The tool was a major component in the Fire Department of New York during the early 20th century.
+
+The tool was created by Stephen Hsu, founder of SafeWeb, which later stopped support and distribution of the tool.
+
+The tool was developed by Kiira Triea based on a concept by Suzanne Kessler and is used to demonstrate concerns with the medical treatment of intersex bodies.
+
+The tool was developed by Oppenheimer et al.
+
+The tool was developed in 1985 by clinical nurse teacher Judy Waterlow.
+
+The tool was first described by F. J. Cheshire in 1921.
+
+The tool was initially released in 2007.
+
+The tool was invented in the 1920s by Polish-American Leo Gerstenzang after he watched his wife attach wads of cotton to toothpicks.
+
+The tool was launched in November 2015 by EIU Canback, a management consulting firm that leverages predictive analytics for strategic purposes.
+
+The tool was modeled after a statistical model created by Statistics Canada and operates using continuous-time microsimulation.
+
+The tool was released in July during the 2006 Lebanon War.
+
+The tool will cut through any undergrowth that may be burning and overturn some soil further assisting in creating a fire break, smothering fire, and lowering the temperature of burning materials below their threshold of ignition.
+
+The tool will simulate the production and analyze the product's environmental footprint in a standardized way.
+
+The tool will then store and track the inputs and outputs of the flow in its database, automatically detecting changes as they occur.
+
+The tool Woof can build a Puppy Linux distribution from the binary packages of other Linux distributions.
+
+The Toombs County School District is a public school district in Toombs County, Georgia, United States, based in Lyons.
+
+The Toombs family owned the property from the 1830s until 1981.
+
+It was listed on the National Register of Historic Places in 2000.
+
+The Too Much Coffee Man comic book won the 1995 Eisner Award for Best New Series.
+
+The Toongabbie Government Farm Archeological Site is the heritage-listed site of a former convict government farm at Goliath Avenue, Winston Hills, City of Parramatta, New South Wales, Australia.
+
+The Toontown Online online servers were shut down and/or merged over the years, with the final server to close being the United States (then merged with the United Kingdom) on September 19, 2013.
+
+The Tooperang Hall on Bull Creek Road hosts the Astronomical Society of South Australia (ASSA) on a regular basis where members take advantage of the geography of the region which blocks light spill from metropolitan Adelaide to create ideal conditions for astronomy.
+
+The Toormakeady Ambush or Battle of Toormakeady occurred on 3 May 1921 during the Irish War of Independence.
+
+The Toorongo River is a perennial river of the West Gippsland catchment, located in the West Gippsland region of the Australian state of Victoria.
+
+The Toosey First Nation reserve community and offices are located at Riske Creek, which is on the Fraser River just southwest of the city of Williams Lake.
+
+The Toot-a-Loop came in several colors including white, red, blue, and yellow.
+
+The Toot-a-Loop Radio or Panasonic R-72 is a novelty radio made by Panasonic Japan in the early 1970s.
+
+The tooth bears two rows of cusps, one at the inner (lingual) side and the other at the outer (labial) side, which are connected by transverse ridges separated by deep valleys.
+
+The tooth-billed pigeons are the only genus (Didunculus) of the subfamily Didunculinae, in the pigeon and dove family, (Columbidae).
+
+The tooth-billed wren (Odontorchilus cinereus) is a species of bird in the Troglodytidae family.
+
+The Toothbrush Family is a 1977 Australian children's animated television series featuring a group of anthropomorphic toiletry products.
+
+The toothbrush is an oral hygiene instrument used to clean the teeth, gums, and tongue.
+
+The toothbrush is officially accredited by the British Dental Health Foundation.
+
+The toothbrush mustache is a mustache style, shaved at the edges, except for three to five centimeters above the center of the lip.
+
+The toothcarp is threatened by the water loss of Lake Burdur due to the feeds into the lake being dammed, excessive water being taken from the lake, and a reduction in rainfall due to climate change.
+
+The toothed, deeply lobed leaves are up to 12 centimeters long and borne on petioles.
+
+The toothed fruit is up to 2 centimeters long by 1 centimeter wide.
+
+The toothed lance-shaped leaves are found in pairs or triplets at stem nodes, their bases often clasping the stem.
+
+The toothed, lance-shaped leaves are up to 6 centimeters long.
+
+The toothed leaf chameleon, Brookesia dentata, is a species of chameleons endemic to northwestern Madagascar.
+
+The toothed leaflets are sometimes twisted on their axes and overlapping.
+
+The toothed leaves are 1 to 4 centimeters long.
+
+The toothed leaves are largest at the base of the plant, and reduced farther up.
+
+The toothed leaves are up to 3.
+
+5 inches long.
+
+The toothed oblong to oval leaves are alternately arranged and there are small ovate to triangular stipules.
+
+The toothed or serrated leaf blades are up to 3 to 5 centimeters in length.
+
+The toothed or wavy-edged leaves are up to 1.
+
+5 centimeters long and wide, the hairy blades borne on short petioles.
+
+The toothed, oval leaves are 3 to 6 centimeters long.
+
+The toothed oval leaves are under 2 centimeters long.
+
+The toothed river herring or Papuan river sprat (Clupeoides papuensis) is a species of fish in the Clupeidae family.
+
+The toothed seadevil, spiny seadevil or netbeard seadevil, (Neoceratias spinifer), is a rarely seen deep-sea anglerfish found in the mesopelagic and bathypelagic zones of the western central Pacific Ocean.
+
+The toothette is also known by other various names, such as disposable oral swab, sponge swab, swabs for oral care, foam swab, sponge toothette, mouth swab, and oral swabstick.
+
+The Tooth Fairy is a fantasy figure of early childhood in Western and Western-influenced cultures.
+
+The Tooth Fairy is an English-language horror film.
+
+The Tooth Fairy is the third book of the Horrid Henry series.
+
+The "toothfriendliness" of a product is tested by means of intraoral pH telemetry.

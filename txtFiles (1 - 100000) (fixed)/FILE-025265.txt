@@ -1,0 +1,61 @@
+Data can be georeferenced in time (date/time or geological age) and space (latitude, longitude, depth/height).
+
+Data can be input via the traditional desktop platform or mobile devices, with campaigns and games used to incentivize input.
+
+Data can include object Global Positioning System (GPS) coordinates, weather station telemetry, text messages, announcements, queries, and other telemetry.
+
+Datacap (an IBM Company), a privately owned company, manufactures and sells computer software, and services.
+
+Datacap sells products through a value-added distribution network worldwide.
+
+Datacap's first product, Paper Keyboard, was a "forms processing" product and shipped in 1989.
+
+Data captured by Slowly Changing Dimensions (SCDs) change slowly but unpredictably, rather than according to a regular schedule.
+
+DataCash is a payment processing company which offers a global gateway to secure multi-channel payment processing, fraud and risk management services.
+
+Datacasting (data broadcasting) is the broadcasting of data over a wide area via radio waves.
+
+Data Catalog Vocabulary (DCAT) is an RDF vocabulary designed to facilitate interoperability between data catalogs published on the Web.
+
+Data CDs of Bulmer Directories are available from publishers in the UK.
+
+Data center bridging (DCB) is a set of enhancements to the Ethernet local area network communication protocol for use in data center environments, in particular for use with clustering and storage area networks.
+
+Data center environmental control is a constructive generic framework for maintaining temperature, humidity, and other physical qualities of air within a specific range in order to allow the equipment housed in a data center to perform optimally throughout its lifespan.
+
+Data center infrastructure efficiency (DCIE), is a performance improvement metric used to calculate the energy efficiency of a data center.
+
+Data center managers run into resource limits on electrical power, cooling, and space.
+
+Data Center Markup Language (DCML) is an XML-based markup language which provides a means for describing data center environments such as dependencies between data center components and managerial policies governing those environments with an open, vendor-neutral language.
+
+Data center physical security controls.
+
+Data center services encompass all of the services and facility-related components or activities that support the implementation, maintenance, operation, and enhancement of a data center, which is an environment that provides processing, storage, networking, management and the distribution of data within an enterprise.
+
+Data centers face challenges in power protection and management solutions.
+
+Data center storage management applications run on Windows, Linux (RHEL)-(SUSE), Apple snow leopard, Oracle's Solaris, XenServer and VMware ESX servers.
+
+Data-centric programming language defines a category of programming languages where the primary function is the management and manipulation of data.
+
+Data-centric programming languages are typically declarative and often dataflow-oriented, and define the processing result desired; the specific processing steps required to perform the processing are left to the language compiler.
+
+Data-centric security also allows organizations to overcome the disconnect between IT security technology and the objectives of business strategy by relating security services directly to the data they implicitly protect; a relationship that is often obscured by the presentation of security as an end in itself.
+
+Data-centric security is an approach to security that emphasizes the security of the data itself rather than the security of networks, servers, or applications.
+
+Data-centric security is evolving rapidly as enterprises increasingly rely on digital information to run their business and big data projects become mainstream.
+
+DataCite is an international not-for-profit organization which aims to improve data citation in order to: establish easier access to research data on the Internet increase acceptance of research data as legitimate, citable contributions to the scholarly record support data archiving that will permit results to be verified and re-purposed for future study.
+
+Data cleansing for the national area of non-EEA members and the international area is carried out by UNEP-WCMC systems.
+
+Data cleansing may also involve activities like, harmonization of data, and standardization of data.
+
+Data cleansing may be performed interactively with data wrangling tools, or as batch processing through scripting.
+
+Data cleansing may be required in order to ensure data quality.
+
+Data cleansing or data cleaning is the process of detecting and correcting (or removing) corrupt or inaccurate records from a record set, table, or database and refers to identifying incomplete, incorrect, inaccurate or irrelevant parts of the data and then replacing, modifying, or deleting the dirty or coarse data.

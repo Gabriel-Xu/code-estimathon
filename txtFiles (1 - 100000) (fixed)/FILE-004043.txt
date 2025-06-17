@@ -1,0 +1,53 @@
+The Riemann hypothesis is a conjecture about the distribution of the zeros of the Riemann zeta function. Many mathematicians consider the Riemann hypothesis to be the most important unsolved problem in pure mathematics.
+
+When using mathematical symbols to describe the Riemann zeta function, it is represented as an analytic continuation of infinite series:where formula_2 is the real part of the complex number formula_3. For example, if formula_4, then formula_5 (where formula_6).
+
+This makes a sequence. The first few terms of this sequence would be,However, this doesn't apply for numbers where formula_8, since if we interpret this function as an infinite sum, the sum does not converge. Instead, it diverges. This means that instead of nearing a specific value, it will get infinitely large. Riemann used analytic continuation, so that he could give a value to all numbers except 1. formula_9 does not have a limit in that point and thus the function is not defined there.
+
+Leonhard Euler discovered the first results about the series that this function represents in the eighteenth century. He proved that the Zeta function can be written as an infinite product of prime numbers. In mathematical notation:formula_10This is an infinite product. formula_11 means that only prime numbers are included in the product. The first few terms of the product would look like:Mathematicians are interested in those values of formula_3 for which the function is equal to zero. The Riemann hypothesis conjectures that all the "non-trivial zeros" lie on the critical line formula_14, meaning they are guessed to be of the form formula_15 for some real value "t". It is already known that all of the non-trivial zeroes must lie in a region called the "critical strip" for which formula_16. So far, all of the computed nontrivial zeros are on the critical line.
+
+Proving or disproving the hypothesis has been very difficult, and is still troubling mathematicians to this day.
+
+Repeating for the next term:Subtracting again we get:where all elements having a factor of 3 or 2 (or both) are removed.
+
+It can be seen that the right side is being sieved. Repeating infinitely for formula_19 where formula_20 is prime, we get:Dividing both sides by everything but the ζ("s") we obtain:Eva González (Leonese language writer)Eva González was a Spanish writer. She was born in Palacios del Sil (province of Llión, Spain) in 1918. She died in León in 2007. She has a dedicated street in León city for her contribution to the literature in Leonese language.
+
+She wrote:Collective books:Barbadian BritishBarbadian British people are people in the United Kingdom who were either born in Barbados or have ancestors who were born there. In 2001 over 20,000 British people were born in Barbados, and as stated above there were also many British born people of Barbadian descent. They are a subgroup of the larger Black British community. There are many famous Barbadian British people including footballer Ashley Cole.
+
+Star Trek: The Motion PictureStar Trek: The Motion Picture was the first movie set in the "Star Trek" universe. It was made in 1979 by Paramount Pictures. A strange and dangerous alien cloud called V'ger is coming straight at Earth, destroying everything in its path. Admiral James T. Kirk becomes captain of his old ship - the USS Enterprise - to save the Earth.
+
+Star Trek III: The Search for SpockStar Trek III: The Search for Spock was the third movie set in the Star Trek universe. It was made in 1984 by Paramount Pictures. It happens after the events of the last movie, "". The crew of the USS Enterprise go home to Earth after losing their friend Spock. Admiral James T. Kirk finds out that Spock's essence (his soul) is inside Leonard McCoy. They return to Genesis, where Spock died, to find his remains and take them to Vulcan.
+
+Star Trek V: The Final FrontierStar Trek V: The Final Frontier was the fifth movie set in the Star Trek universe. It was made in 1989 by Paramount Pictures. It happens after the events of "". Spock's half-brother Sybok goes on a spiritual journey to find "God" and takes the Enterprise to the centre of the galaxy.
+
+Dracaena sanderianaDracaena sanderiana, also called Ribbon Dracaena, Lucky Bamboo, Belgian Evergreen or sometimes Ribbon Plant, is a kind of "Dracaena". It comes from . It is one of a group of small, shrubby plants with slender stems and flexible strap-shaped leaves. They grow in rainforests as an upright shrub that can be up to 1.
+
+5 m tall. Its leaves are 15-25 cm long and 1.
+
+5-4 cm broad at the base. It is sold in the developed world as "Lucky Bamboo" often cited as being good for feng shui. This name is a misnomer however, as the plant is not related to bamboo. New plants come from short cuttings which are often kept in water."
+
+Dracaena sanderiana" and related plants are popular houseplants. There are many cultivars. The plant can survive in many indoor conditions, but indirect lighting is best. Direct sunlight can cause the leaves to turn yellow and burn.
+
+Although it grows better in soil, it often is sold with the roots in water. The water should be completely changed every two weeks. The water should be bottled water, soft tap water with very little fluoride, or even water from a filtered, established aquarium. It does best in bright, indirect lighting and temperatures between 15 °C and 25 °C.
+
+Pet stores often sell this plant in black plastic pots with slots in them. They say that it can live under the water. "Dracaena sanderiana" will only live for a few months under the water. It will start to rot unless the leaves are allowed to grow above the water's surface.
+
+Yellow or brown leaf edges may be caused by too much direct light, crowded roots, or fluoridated or chlorinated water. Salty or softened water can also cause brown leaf edges.
+
+Twisted shapes are made by rotating the plant so that it bends towards the light. This is hard to do for many people, but patient people can make the plant take on new shapes.
+
+1974 Atlantic hurricane seasonThe 1974 Atlantic hurricane season began on June 1, 1974 and ended on November 30, 1974. This season was about average in activity 11 storms, 7 of which got named. This season was one of the deadliest on record, most deaths were caused by Hurricane Fifi. This season also had the most Subtropical storms (4).
+
+In 1975 the names Carmen and Fifi were retired.
+
+1972 Atlantic hurricane seasonThe 1972 Atlantic hurricane season began on June 1, 1972 and ended on November 30, 1972. 1972 had a very inactive hurricane season with only 7 storms all were named this was one of the seasons that subtropical storms had a separate naming list. One of the only notable storms this season Hurricane Agnes which at that time it was the costliest hurricane in US history.
+
+This is the list of names that were set aside for the 1972 Atlantic hurricane season. Name that were not used are marked inAgnes was retired in 1973.
+
+DracaenaDracaena is a genus of about 40 trees and succulent shrubs.
+
+The name comes from Ancient Greek "drakaina", meaning female dragon. Most of them are native to tropical Africa, some occur in Southeast Asia, and tropical South America. They are usually classified into "Dragon trees" and "shrubby dracenas" according to how they grow. The latter are also often grown as house plants.
+
+Probable primeIn mathematics, particularly number theory, a probable prime is a whole number that is likely to be prime by having passed a probabilistic test such as Fermat's primality test. Probable primes may be composite, but the tests are designed so they are really unlikely to be composite. These probabilistic tests are easier to do than tests that actually guarantee primality, and the composite probable primes are useful too in encryption that uses prime numbers.
+
+1960 Atlantic hurricane season

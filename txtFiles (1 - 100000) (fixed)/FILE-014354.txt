@@ -1,0 +1,477 @@
+3166-2:AR is the entry for Argentina in ISO 3166-2, part of the ISO 3166 standard published by the International Organization for Standardization (ISO), which defines codes for the names of the principal subdivisions (e.
+
+g., provinces or states) of all countries coded in ISO 3166-1.
+
+3166-2:BS is the entry for the Bahamas in ISO 3166-2, part of the ISO 3166 standard published by the International Organization for Standardization (ISO), which defines codes for the names of the principal subdivisions (e.
+
+g., provinces or states) of all countries coded in ISO 3166-1.
+
+3166-2:BT is the entry for Bhutan in ISO 3166-2, part of the ISO 3166 standard published by the International Organization for Standardization (ISO), which defines codes for the names of the principal subdivisions (e.
+
+g., provinces or states) of all countries coded in ISO 3166-1.
+
+3166-2:BW is the entry for Botswana in ISO 3166-2, part of the ISO 3166 standard published by the International Organization for Standardization (ISO), which defines codes for the names of the principal subdivisions (e.
+
+g., provinces or states) of all countries coded in ISO 3166-1.
+
+3166-2:CD is the entry for the Democratic Republic of the Congo in ISO 3166-2, part of the ISO 3166 standard published by the International Organization for Standardization (ISO), which defines codes for the names of the principal subdivisions (e.
+
+g., provinces or states) of all countries coded in ISO 3166-1.
+
+3166-2:CK is the entry for the Cook Islands in ISO 3166-2, part of the ISO 3166 standard published by the International Organization for Standardization (ISO), which defines codes for the names of the principal subdivisions (e.
+
+g., provinces or states) of all countries coded in ISO 3166-1.
+
+3166-2:CM is the entry for Cameroon in ISO 3166-2, part of the ISO 3166 standard published by the International Organization for Standardization (ISO), which defines codes for the names of the principal subdivisions (e.
+
+g., provinces or states) of all countries coded in ISO 3166-1.
+
+3166-2:CN is the entry for China in ISO 3166-2, part of the ISO 3166 standard published by the International Organization for Standardization (ISO), which defines codes for the names of the principal subdivisions (e.
+
+g. provinces or states) of all countries coded in ISO 3166-1.
+
+3166-2:CR is the entry for Costa Rica in ISO 3166-2, part of the ISO 3166 standard published by the International Organization for Standardization (ISO), which defines codes for the names of the principal subdivisions (e.
+
+g., provinces or states) of all countries coded in ISO 3166-1.
+
+3166-2:FJ is the entry for Fiji in ISO 3166-2, part of the ISO 3166 standard published by the International Organization for Standardization (ISO), which defines codes for the names of the principal subdivisions (e.
+
+g., provinces or states) of all countries coded in ISO 3166-1.
+
+3166-2:GM is the entry for the Gambia in ISO 3166-2, part of the ISO 3166 standard published by the International Organization for Standardization (ISO), which defines codes for the names of the principal subdivisions (e.
+
+g., provinces or states) of all countries coded in ISO 3166-1.
+
+3166-2:HN is the entry for Honduras in ISO 3166-2, part of the ISO 3166 standard published by the International Organization for Standardization (ISO), which defines codes for the names of the principal subdivisions (e.
+
+g., provinces or states) of all countries coded in ISO 3166-1.
+
+3166-2:IE is the entry for Ireland in ISO 3166-2, part of the ISO 3166 standard published by the International Organization for Standardization (ISO), which defines codes for the names of the principal subdivisions (e.
+
+g., provinces or states) of all countries coded in ISO 3166-1.
+
+3166-2:KZ is the entry for Kazakhstan in ISO 3166-2, part of the ISO 3166 standard published by the International Organization for Standardization (ISO), which defines codes for the names of the principal subdivisions (e.
+
+g., provinces or states) of all countries coded in ISO 3166-1.
+
+3166-2:MC is the entry for Monaco in ISO 3166-2, part of the ISO 3166 standard published by the International Organization for Standardization (ISO), which defines codes for the names of the principal subdivisions (e.
+
+g., provinces or states) of all countries coded in ISO 3166-1.
+
+3166-2:MP is the entry for the Northern Mariana Islands in ISO 3166-2, part of the ISO 3166 standard published by the International Organization for Standardization (ISO), which defines codes for the names of the principal subdivisions (e.
+
+g., provinces or states) of all countries coded in ISO 3166-1.
+
+3166-2:MU is the entry for Mauritius in ISO 3166-2, part of the ISO 3166 standard published by the International Organization for Standardization (ISO), which defines codes for the names of the principal subdivisions (e.
+
+g., provinces or states) of all countries coded in ISO 3166-1.
+
+3166-2:NI is the entry for Nicaragua in ISO 3166-2, part of the ISO 3166 standard published by the International Organization for Standardization (ISO), which defines codes for the names of the principal subdivisions (e.
+
+g., provinces or states) of all countries coded in ISO 3166-1.
+
+3166-2:PK is the entry for Pakistan in ISO 3166-2, part of the ISO 3166 standard published by the International Organization for Standardization (ISO), which defines codes for the names of the principal subdivisions (e.
+
+g., provinces or states) of all countries coded in ISO 3166-1.
+
+3166-2:SB is the entry for the Solomon Islands in ISO 3166-2, part of the ISO 3166 standard published by the International Organization for Standardization (ISO), which defines codes for the names of the principal subdivisions (e.
+
+g., provinces or states) of all countries coded in ISO 3166-1.
+
+3166-2:SL is the entry for Sierra Leone in ISO 3166-2, part of the ISO 3166 standard published by the International Organization for Standardization (ISO), which defines codes for the names of the principal subdivisions (e.
+
+g., provinces or states) of all countries coded in ISO 3166-1.
+
+3166-2:SV is the entry for El Salvador in ISO 3166-2, part of the ISO 3166 standard published by the International Organization for Standardization (ISO), which defines codes for the names of the principal subdivisions (e.
+
+g., provinces or states) of all countries coded in ISO 3166-1.
+
+3166-2:TH is the entry for Thailand in ISO 3166-2, part of the ISO 3166 standard published by the International Organization for Standardization (ISO), which defines codes for the names of the principal subdivisions (e.
+
+g., provinces or states) of all countries coded in ISO 3166-1.
+
+3166-2:TK is the entry for Tokelau in ISO 3166-2, part of the ISO 3166 standard published by the International Organization for Standardization (ISO), which defines codes for the names of the principal subdivisions (e.
+
+g., provinces or states) of all countries coded in ISO 3166-1.
+
+3166-2:TN is the entry for Tunisia in ISO 3166-2, part of the ISO 3166 standard published by the International Organization for Standardization (ISO), which defines codes for the names of the principal subdivisions (e.
+
+g., provinces or states) of all countries coded in ISO 3166-1.
+
+3166-2:TW is the entry for Taiwan (Republic of China) in ISO 3166-2, part of the ISO 3166 standard published by the International Organization for Standardization (ISO), which defines codes for the names of the principal subdivisions (e.
+
+g., provinces or states) of all countries coded in ISO 3166-1.
+
+3166-2:UG is the entry for Uganda in ISO 3166-2, part of the ISO 3166 standard published by the International Organization for Standardization (ISO), which defines codes for the names of the principal subdivisions (e.
+
+g., provinces or states) of all countries coded in ISO 3166-1.
+
+3166-2:VG is the entry for the British Virgin Islands in ISO 3166-2, part of the ISO 3166 standard published by the International Organization for Standardization (ISO), which defines codes for the names of the principal subdivisions (e.
+
+g., provinces or states) of all countries coded in ISO 3166-1.
+
+3166-2:VI is the entry for the United States Virgin Islands in ISO 3166-2, part of the ISO 3166 standard published by the International Organization for Standardization (ISO), which defines codes for the names of the principal subdivisions (e.
+
+g., provinces or states) of all countries coded in ISO 3166-1.
+
+3169 Ostro, provisional designation 1981 LA, is a Hungaria asteroid from the innermost regions of the asteroid belt, approximately 5 kilometers in diameter.
+
+316 competitors, 279 men and 37 women, took part in 135 events in 20 sports.
+
+316 stainless steel, also referred to as marine grade stainless steel, is a chromium, nickel, molybdenum alloy of steel that exhibits relatively good strength and corrosion resistance.
+
+3-172 IN (MTN) draws strong heritage from the original 10th Mountain Division (Alpine) of World War II fame both in the type of training they conduct and in the specialized equipment the unit maintains.
+
+3173 is a protein that in humans is encoded by the MIR3173 gene.
+
+31,745This was the first All-Star Game ever where no Boston Celtics or New York Knicks had been selected as All-Stars.
+
+3174 Alcock, provisional designation 1984 UV, is a carbonaceous Themistian asteroid from the outer region of the asteroid belt, approximately 19 kilometers in diameter.
+
+317 competitors, 254 men and 63 women, took part in 154 events in 19 sports.
+
+317 is the original area code, while 463 is an overlay covering the same area, making ten-digit dialing mandatory for all calls in the region.
+
+31824 Elatus, provisional designation 1999 UG5, is a dark centaur from the outer Solar System, approximately 48 kilometers in diameter.
+
+318 had been assigned, temporarily, for San Francisco, because Oakland and San Francisco had separate toll switches, so calls had to be routed accordingly depending on the final destination.
+
+318 is the natural number following 317 and preceding 319.
+
+3192 A'Hearn, provisional designation 1982 BY1, is a carbonaceous asteroid from the inner regions of the asteroid belt, about 6 kilometers in diameter.
+
+3,196 ballots were spoiled.
+
+31.
+
+96 remained his career best time.
+
+319 candidates contested for the 85 constituencies in the Assembly.
+
+319 covered the eastern third, and stretched along the entire border with Wisconsin and Illinois.
+
+319 Dark Street is a webcomic written and drawn by David Wade.
+
+319, is a polka composed by Johann Strauss II.
+
+319 Leona, provisional designation A920 HE, is a dark asteroid and tumbling slow rotator from the outermost regions of the asteroid belt, approximately 70 kilometers in diameter.
+
+31 athletes, all men, competed in 46 events in 9 sports.
+
+31 athletes from 12 countries competed.
+
+31 athletes from 14 countries competed.
+
+31 athletes from 15 countries competed.
+
+31 Battalion was a light infantry battalion in the South African Army and in later years became part of the SWATF.
+
+31 beating huge names like Saif Ali Khan and Arjun Kapoor.
+
+31 buildings, of which 25 are considered contributing buildings, are included in the district.
+
+31 CAZY GH_31 comprises enzymes with several known activities; alpha-glucosidase (EC 3.
+
+2.
+
+1.
+
+20), alpha-galactosidase (EC 3.
+
+2.
+
+1.
+
+22); glucoamylase (EC 3.
+
+2.
+
+1.
+
+3), sucrase-isomaltase (EC 3.
+
+2.
+
+1.
+
+48) (EC 3.
+
+2.
+
+1.
+
+10); alpha-xylosidase (EC 3.
+
+2.
+
+1); alpha-glucan lyase (EC 4.
+
+2.
+
+2.
+
+13).
+
+31 clubs will be divided into 2 groups (regions).
+
+31 Comae Berenices (31 Com) is a yellow giant star in the constellation Coma Berenices.
+
+31 competitive awards and eight honorary awards were presented.
+
+31 competitors, 25 men and 6 women, took part in 14 events in 8 sports.
+
+31 competitors, 26 men and 5 women, took part in 40 events in 11 sports.
+
+31 competitors, 27 men and 4 women, took part in 25 events in 10 sports.
+
+31 competitors, 30 men and 1 woman, took part in 11 events in 6 sports.
+
+31 competitors, 30 men and 1 woman, took part in 19 events in 5 sports.
+
+31 competitors, all men, took part in 14 events in 4 sports.
+
+31 competitors, all men, took part in 20 events in 3 sports.
+
+31 competitors, all men, took part in 8 events in 3 sports.
+
+31 competitors from Austria won 20 medals including 8 gold, 3 silver and 9 bronze and finished 4th in the medal table.
+
+31 competitors from Yugoslavia won 18 medals including 4 gold, 5 silver and 9 bronze and finished 23rd in the medal table.
+
+31 contestants of the Mexican Republic will compete for the national title.
+
+31 councilors were elected from six electoral divisions by PR-STV voting for a five-year term of office.
+
+31 counties played in the tournament (Kilkenny did not participate).
+
+31 Crateris is a binary star system in the constellation Corvus.
+
+31 Days of Oscar is a programming franchise aired each Oscar season by the U.
+
+S. and Asian Turner Classic Movies cable networks during the month of the Academy Awards.
+
+31 December 1940.
+
+The recipients of honors are displayed here as they were styled before their new honor.
+
+31 December 1997.
+
+The Honors list is a list of people who have been awarded one of the various orders, decorations, and medals of the United Kingdom.
+
+31 December 2010.
+
+The recipients of honors are displayed here as they were styled before their new honor.
+
+31 December 2014.
+
+The recipients of honors are displayed here as they were styled before their new honor.
+
+31 episodes were produced in this series, one fewer than previous.
+
+31E. Uno originally was known locally as a trading point of moonshine.
+
+31 events were staged for amputee athletes.
+
+31 females were entered in the event, 28 of whom swam.
+
+31 General Reconnaissance School was a Royal Air Force Second World War flight training school located at RCAF Station Charlottetown, PEI.
+
+31G Records, or Three One G, is a San Diego, California-based independent record label, started by musician Justin Pearson in 1994 and focusing on punk and experimental music.
+
+31 holes in 3 different sizes have been drilled for the attachment of a head-dress (possibly a lotus flower or uraeus) in metal; the sculpture has also lost eyes in metal, ivory or colored stone.
+
+31 in overall viewership and was no. 9 in the 18-49 key demographic.
+
+31 in the UK charts and was performed by Foxx with three keyboard players on UK music show Top of the Pops.
+
+31 in the UK Singles Chart, but the group never charted again.
+
+31 is a 1915 opera by the German composer Max von Schillings on a libretto by Beatrice von Dovsky.
+
+31 is a 2016 American horror film written and directed by Rob Zombie, and starring an ensemble cast featuring Sheri Moon Zombie, Jeff Daniel Phillips, Lawrence Hilton-Jacobs, Meg Foster, Richard Brake, Malcolm McDowell, E.
+
+G. Daily, Judy Geeson, and Jane Carr.
+
+31, is a classical composition for wind quintet by Samuel Barber.
+
+31, is an Irish annal, covering the years 1582 to 1665.
+
+31, is a song cycle written in 1943 by English composer Benjamin Britten for tenor accompanied by a solo horn and a small string orchestra.
+
+31 January 2015, Bravo announced his retirement from Test cricket.
+
+31 km is a passing loop in Yurginsky District, Russia.
+
+31Knots is a band based in Portland, Oregon by guitarist Joe Haege and bassist Jay Winebrenner.
+
+31 Lyncis, also named Alsciaukat, is the fourth-brightest star in the constellation of Lynx.
+
+31 March 2001.
+
+It has a seating capacity of around 30,000 spectators.
+
+31 May. 2 Dubbo independent MLA Tony McGrane died of liver cancer on 15 September 2004.
+
+31 members are indirectly elected by the state legislators.
+
+21 members are elected from Local Authorities Constituency, 7 from Graduates Constituency and 7 from Teachers Constituency.
+
+31 Minutes to Takeoff is the debut studio album by American singer Mike Posner.
+
+31 MPs who opposed Gandhi became the Indian National Congress (Organization) party.
+
+31 Nights of Halloween (formerly 13 Days of Halloween and 13 Nights of Halloween) is a seasonal programming block on Freeform.
+
+31 No. 1, was composed between 1801 and 1802.
+
+31% of registered voters turned out to vote in the election.
+
+31 of the 32 Counties of Ireland participated, with Kilkenny, as in previous years, declining to take part.
+
+31 of the Constitution adopted in 1993: Citizens of the Russian Federation shall have the right to gather peacefully, without weapons, and to hold meetings, rallies, demonstrations, marches and pickets.
+
+31 of those were in the first class, the other 82 in the second class.
+
+31 on the UK Albums Chart, and produced the singles "Whirring" and "A Heavy Abacus", which reached No. 7 and No. 25 on the US Alternative Songs Chart, respectively.
+
+31 on the US Billboard Hot 100.
+
+A music video was filmed to promote the single.
+
+31 Operational Training Unit RAF (31 OTU) 31 OTU was formed in May 1941 at Debert, Nova Scotia as part of No. 3 Training Command to general reconnaissance crews using the Lockheed Hudson and Avro Anson Carried out operational patrols in the Western Atlantic from Dartmouth.
+
+31 or Now 31 was released in 1995 on vinyl, audio cassette and Compact Disk.
+
+31 participants who are not invited to the 2013 NCAA Tournament, the 2013 National Invitation Tournament, or the 2013 College Basketball Invitational made up the field, as well as the winner of the Great West conference tournament winner, Chicago State.
+
+31 percent of the hospitals patients are children.
+
+31 quarterbacks have started for the National Football League's Kansas City Chiefs since their franchise began.
+
+31 Questions was a half-hour television quiz show hosted by "comedian" David M. Green and produced by RMITV in Melbourne, Australia.
+
+31 races were scheduled in the 1973 season.
+
+31 RC-31 or Bahour-Karaimedu Road branches out from RC-18 at Bahour and ends at Karaimedu.
+
+31 runners from six nations competed.
+
+31 Senior High School is also one of 28 schools in Indonesia which is in cooperation with the German government through the Goethe-Institut's project "Schulen: Partner der Zukunft" or Schools: Partners of the Future.
+
+31 Service Battalion is a combat service support unit of The Canadian Army Reserve.
+
+31 shooters from 8 nations competed.
+
+31 singles have occupied the number-one spot including 15 new entries.
+
+31 species have been described, of which 12 are accepted.
+
+31 Squadron IAF, nicknamed the Lions, is a Ground Attack squadron of the Indian Air Force, equipped with Su-30MKI aircraft operating from Jodhpur Air Force Station.
+
+31 Squadron is a Royal Australian Air Force (RAAF) airbase support squadron.
+
+31 Squadron of the Royal Air Force (RAF), known as the 'Goldstars', currently operates the Tornado GR4 from RAF Marham, Norfolk.
+
+31 Squadron was a squadron of the Royal New Zealand Air Force.
+
+31 Squadron was initially a World War II Coastal bomber/reconnaissance squadron South African Air Force.
+
+31 started at number one with 169,000 in July 2009.
+
+31st AVN Awards was an event during which Adult Video News (AVN) presented its annual AVN Awards to honor the best pornographic movies and adult entertainment products of 2013.
+
+31st Century Combat and the last BattleTech game made by Activision.
+
+31st FA was then withdrawn from the Combat Arms Regimental System 16 March 1989, reorganized under the United States Army Regimental System, and transferred to the United States Army Training and Doctrine Command (TRADOC).
+
+31st infantry battalion is an Estonian Ground Force rapid reaction unit, which is based on the army reservists.
+
+31st October is an Indian Hindi historical action drama film written and produced by Harry Sachdeva and directed by Shivaji Lotan Patil.
+
+31st opened on June 6, 1892, and closed on August 1, 1949.
+
+31st was a station on the Chicago Transit Authority's South Side Main Line, which is now part of the Green Line.
+
+31st was situated south of 29th and north of 33rd.
+
+31st World Orienteering Championships was held in the Trentino and Veneto regions of Italy, from 5 to 12 July 2014.
+
+31 teams from 26 universities of 17 European countries participated in the tournament.
+
+31 teams involved in this season.
+
+31 teams participate (16 in Senior A and 15 in Senior B), with the winner representing Dublin in the Leinster Senior Club Football Championship.
+
+31 teams take part.
+
+31 teams were awarded an automatic bid as champions of their conference, and 33 teams were selected at-large by the NCAA Division I Softball Selection Committee.
+
+31 (thirty-one) is the natural number following 30 and preceding 32.
+
+31 vacant seats were filled through by-elections.
+
+31 Vestas V90-3MW turbines, each rated at 3MW with three 45m long blades.
+
+31, was composed by a French female composer named Louise Farrenc in 1840.
+
+31 was released on June 30, 2009.
+
+31 Whistler Walk was where Strummer lived at the time with his girlfriend Gaby Salter, her two younger brothers and her mother.
+
+31 women and one man answered yes, and thus a task-force was formed and a national meeting was planned.
+
+31 years later, the MGL has more than 70 member including 30 ordained priests.
+
+3 2005 marked the only time two teams have tied for the combined award, as noted in the girls items.
+
+3 (2007) both achieved gold status.
+
+32009 IFMAR 1:10 scale Electric Off-Road World Championships was the 13th running of the IFMAR 1:10 Electric Off-Road World Championship for 1:10 radio-controlled electric off-road buggies sanctioned by the International Federation of Model Auto Racing (IFMAR) that ran over two separate classes (2WD and 4WD).
+
+3,200 people are commuting into Falkenberg.
+
+3202 Graff, provisional designation A908 AA, is a carbonaceous Hilda asteroid from the outermost region of the asteroid belt, approximately 36 kilometers in diameter.
+
+3204 crore multi-product, multi-location public company providing engineering products to customers across 90 countries.
+
+3206 or Barnum Class consisted of 20 locomotives built at Swindon Works for the Great Western Railway in 1889, and was William Dean's most successful 2-4-0 design.
+
+3 #20 (July 2006), becoming Freedom Ring in the next issue.
+
+320 now borders every Minnesota area code, except 612.
+
+3.
+
+20% or 17,120 of Makati residents also live in this area, or 17 residents per 1,000 square meters.
+
+320 sailors and civilians were instantly killed on July 17, 1944, when the ships they were loading with ammunition and bombs exploded.
+
+32145 Katberman, provisional designation 2000 LE30, is a stony asteroid from the inner regions of the asteroid belt, approximately 4 kilometers in diameter.
+
+321 also is the area code used for SatCom Satellite Phone units.
+
+321 competitors, 216 men and 105 women, took part in 165 events in 27 sports.
+
+3-2-1 Contact is an American science educational television show that aired on PBS from 1980 to 1988, and an adjoining children's magazine.
+
+321 EOD & Search Squadron 11 EOD Regiment RLC is a unit of the British Army responsible for Explosive Ordnance Disposal and Search duties in Northern Ireland.
+
+321 Faeta is a Czech ultralight and light-sport aircraft, designed and produced by ATEC v.
+
+o.
+
+s. of Libice nad Cidlinou.
+
+321 Florentina is a typical Main belt asteroid.
+
+321 is a well equipped unit and has been at the forefront of developing new equipment.
+
+321 is the only area code in North America that is the overlay of one area code, and the sole area code elsewhere.
+
+321 kinematic structure is a design method for robotic arms (serial manipulators), invented by Donald L. Pieper and used in most commercially produced robotic arms.
+
+32.
+
+1% of Canberra's population were born overseas, a large majority which come from North-West Europe, Southern and Eastern Europe and South-East Asia.
+
+3-2-1 Penguins! is a sci-fi computer-animated children's television series aimed at children under 12, initially launched on November 14, 2000 as a direct-to-video film.

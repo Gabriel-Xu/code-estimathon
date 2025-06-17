@@ -1,0 +1,29 @@
+The protein encoded by this gene is an abundant integral membrane protein of cholinergic synaptic vesicles and is thought to be involved in vesicular transport.
+
+The protein encoded by this gene is an acatalytic member of the alpha-carbonic anhydrase subgroup, and it is thought to play a role in the central nervous system, especially in brain development.
+
+The protein encoded by this gene is an activator of MAP3K7/TAK1, which is required for the IL-1 induced activation of nuclear factor kappaB and MAPK8/JNK.
+
+The protein encoded by this gene is an acyltransferase that converts lysophosphatidic acid into phosphatidic acid, which is the second step in the de novo phospholipid biosynthetic pathway.
+
+The protein encoded by this gene is an aminopeptidase which is most closely related in sequence to leukotriene A4 hydrolase (LTA4H).
+
+The protein encoded by this gene is an apolipoprotein and an important determinant of plasma triglyceride levels, a major risk factor for coronary artery disease.
+
+The protein encoded by this gene is an apolipoprotein and member of the lipocalin protein family.
+
+The protein encoded by this gene is an aquaporin protein, which functions as a water channel in cells.
+
+The protein encoded by this gene is an ATP-specific SCS beta subunit that dimerizes with the SCS alpha subunit to form SCS-A, an essential component of the tricarboxylic acid cycle.
+
+The protein encoded by this gene is an atypical member of the family of growth factor receptor protein tyrosine kinases, differing from other members at a number of conserved residues in the activation and nucleotide binding domains.
+
+The protein encoded by this gene is an auxiliary beta subunit which may partially inactivate or slightly decrease the activation time of MaxiK alpha subunit currents.
+
+The protein encoded by this gene is an auxiliary beta subunit which slows activation kinetics, leads to steeper calcium sensitivity, and shifts the voltage range of current activation to more negative potentials than does the beta 1 subunit.
+
+The protein encoded by this gene is a negative regulator of granulocyte and monocyte function.
+
+The protein encoded by this gene is an endogenous calpain (calcium-dependent cysteine protease) inhibitor.
+
+The protein encoded by this gene is an enzyme belonging to the class II family of aminoacyl-tRNA synthetases.

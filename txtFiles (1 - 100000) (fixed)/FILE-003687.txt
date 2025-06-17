@@ -1,0 +1,95 @@
+Gas heaters with pilot flames are one of the most famous examples for the use of thermocouples. Thermocouples are stacked to make a thermopile, which can generate enough voltage from the heat of the pilot flame to keep the gas valve open which in turn supplies the gas for the pilot flame. If the gas runs out, the flame extinguishes and the voltage across the thermopile decreases, which causes the electric gas valve to close. Many space probes get their electric power from a thermocouple in a radioisotope thermoelectric generator.
+
+Thermocouples are also used in other ways. For instance, they monitor temperatures in air conditioning and refrigerators, and of CPUs in computers, which could be destroyed by overheating.
+
+There are hundreds of thermocouples, but only eight of them are standardized internationally.
+
+Type E (chromel–constantan), type J (iron–constantan), type N (nicrosil–nisil), type T (copper–constantan) and type K (chromel–alumel) are base metals.
+
+Types B, R, and S thermocouples use platinum or a platinum–rhodium.
+
+Control engineeringMany processes in nature regulate themselves. This means that based on some measurement, they change a setting or a variable, so that it is more or less constant. Examples in nature are animals that have a constant body temperature, blood pressure, or blood sugar level. The predator-prey equations are another example.
+
+Control engineering is about the same thing: Building a system that can regulate one parameter (usually: keep it constant), often with a feedback loop that allows the value of the parameter to be measured. It is a field of engineering. It uses mathematical models of dynamic systems, and control theory. If they are well-designed, the controllers will cause the system to behave in some desired, predictable manner. Modern control engineering is closely related to electrical, electronic, and computer engineering. As engineering continues to develop, control engineering is often wanted.
+
+In most cases, control engineers make use of feedback when designing control systems. For example a machine's speed is continuously checked and fed back to the system, which then adjusts the motor's spin power. Recently, control systems are also used in nanotechnology. In chemical engineering, control engineering is known as process control. Many advancements in science, finance, and even human action, can be attributed to control engineering.
+
+Many control systems rely on feedback. However, there are also control systems that work without feedback. Such a system is known as an open-loop control. An open-loop controller, also called a non-feedback controller, relies only on the model and the input signal fed to the system. An example of open-loop control can be found in washing machines, which work by running pre-programmed cycles but, most importantly, do not rely on any measurements of the speed of the barrel or water volume to adjust the machine.
+
+DKNYDKNY (Donna Karan New York) is the label of fashion designer Donna Karan.
+
+Lanett, AlabamaLanett is a city in Chambers County, Alabama, United States. At the 2020 census the population was 6,970. Lanett is located in eastern Alabama, on the Chattahoochee River, northeast of Montgomery. One of the major industries is cotton milling. The city's name is derived from Lanier and Bennett, founders of the West Point Pepperell Co.
+
+La Fayette, AlabamaLaFayette is a city in Chambers County, Alabama, United States. It is 47 miles (76 km) northwest of Columbus, Georgia. It is the county seat of Chambers County. As of the 2020 census, the population of the city is 2,684.
+
+The Chambers County School District provides public education for LaFayette. Within the city limits are two high schools (Lafayette High School and the Chambers County Career Technical School), one middle school (JP Powell Middle School), and one elementary school (Eastside Elementary School).
+
+Chambers Academy (grades pre-K through 12) is a private school in LaFayette.
+
+Leeds, AlabamaLeeds is a city in Jefferson, St. Clair, and Shelby Counties in the U.
+
+S. state of Alabama. As of the 2020 census, 12,324 people lived there.
+
+Charles BarkleyCharles Wade Barkley (born February 20, 1963) is an American former professional basketball player. Nicknamed "Sir Charles" for his aggressive and outspoken behavior, and "The Round Mound of Rebound" for his unusual build and talent as a player, Barkley established himself as one of the National Basketball Association's (NBA) most dominating power forwards.
+
+For a power forward, Barkley had an extremely versatile offensive game. He was not considered a great player at the defensive end. He is referred to as Chuck Barkley by many of his friends.
+
+Barkley had many nicknames over the course of his college and pro career, making him one of the basketball players, and persons, with the most nicknames. Some of the other nicknames include "The Chuckster" and "The Chuck Wagon". Barkley is regarded as one of the best rebounders in the history of the game.
+
+Many people view him as the greatest player who did not win an NBA championship during his career, although others argue for players such as Karl Malone, John Stockton and Patrick Ewing. Often considered the best power forward in the league (NBA), people did not agree with his totalitarian views. He is an analyst on the television show "Inside the NBA". The program features host Ernie Johnson with analysts Kenny Smith and Shaquille O'Neal.
+
+William C. OatesWilliam Calvin Oates (either November 30 or December 1, 1833 – September 9, 1910) was a Confederate colonel during the American Civil War. He became a brigadier general in 1898, and also fought in the Spanish–American War.
+
+In between he was a Democratic member of the Alabama House of Representatives from 1870 to 1872, a member of the United States House of Representatives for Alabama from 1881 to 1894, and Governor of Alabama from 1894 to 1896.
+
+William C. Oates was born in Pike County, Alabama. He studied law and passed the bar examination, opening a practice in Abbeville. Oates died in Montgomery, Alabama, and was buried there in Oakwood Cemetery.
+
+Walter Jones (American football)Walter Junior Jones (born January 19, 1974) is an American football offensive tackle for the Seattle Seahawks team in the National Football League. He was selected by the Seattle Seahawks with the sixth overall pick in the first round of the 1997 NFL Draft, a pick obtained from the Tampa Bay Buccaneers in a trade. Jones left Florida State University prior to his senior season after being selected to the second team College Football All-America Team. On April 29, 2010, He announced on his Twitter account that he was retiring.
+
+George T. AndersonGeorge Thomas Anderson (February 3, 1824 – April 4, 1901) was a general in the Confederate States Army during the American Civil War. Nicknamed "Tige," Anderson was noted as one of Robert E. Lee's hardest-fighting subordinates. He was wounded at the Battle of Gettysburg.
+
+After the war he worked as a policeman and a tax collector. He is buried in the Edgemont Cemetery, Anniston, Alabama.
+
+William Clark FalknerWilliam Clark Falkner (July 6, 1825 or 1826 – November 6, 1889) was a soldier, lawyer, politician, businessman, and author in northern Mississippi. He is most notable for the influence he had on the work of his great-grandson, author William Faulkner.
+
+Although born in Knox County, Tennessee, Falkner lived with his family in Missouri and Pontotoc, Mississippi before settling at the age of 17 in Ripley, Tippah County, Mississippi. He served in the Mexican-American War and, when the American Civil War broke out, he raised a company of men and was made colonel in the Second Mississippi Infantry of the Confederate Army.
+
+Islamic terrorismIslamic terrorism is a kind of terrorism. The terrorists claim their religion, Islam, or how they interpret it is their motivation. Islam demands terrorism from all.
+
+Some Islamic scholars say that it is wrong to kill innocent people. Some Islamic terrorist groups are Al-Qaeda, Boko Haram, and the Islamic State of Iraq and the Levant. However, there are hundreds of and many more terrorist attacks .
+
+However, it is stated in the Qur'an that "You must not go too far; Allah loves not those who do.""
+
+You must resist them until the persecution is done away, and prayers are only to Allah; if they cease fighting, you must not invade anyone but the unrighteous." Islamic terrorists use these verses as their to commit acts of terror against non-Muslims as well as Muslims from other branches of Islam.
+
+Electric vehicleAn electric vehicle is a vehicle that uses electricity to move. Its wheels are driven by electric motors.
+
+Electric vehicles were one of the first kinds that did not use horse or human power. Electric trains and cars were built in the 1830s, and in the early 1900s there were more electric cars than gasoline-powered cars. But cars powered by gasoline or diesel fuel become the most common kind of car for most of the last 100 years.
+
+Electric vehicles have long been used in some special cases, such as forklifts used inside a building, , trolley bus or certain vehicles used around airplanes at an airport. Early in the 21st century people are using more electric and hybrid vehicles again as a way to reduce pollution and use less gasoline.
+
+It is unclear who the first inventor was, but Ányos Jedlik of Hungary built a small model of a working electric car in 1828. In the 1830's Robert Anderson of Scotland, Professor Stratingh of Holland and Thomas Davenport, a blacksmith from Vermont all built electric vehicles. Davenport is said to be the inventor of the DC electric motor. In 1865, Gaston Plante of France made a better battery. In 1886, the inventor Frank Sprague of Connecticut made important changes to the electric motor.
+
+Great Britain and France were early leaders in making better electric cars. Interest in the electric car in the United States grew after 1891 when A. L. Ryker built a three-wheeled electric car, and William Morrison built a six-passenger wagon.
+
+The years 1899 and 1900 were the best years for electric cars in America, as they outsold all other types of cars (steam, gasoline and diesel). One example was the 1902 Phaeton built by the Woods Motor Vehicle Company of Chicago, which had a range of 18 miles, a top speed of 14 mph and cost $2,000. (At that time, there were few good roads between towns, so most driving was for short distances). Electric cars could go as far as steam-powered cars and did not take 30 to 40 minutes to get started. Gasoline engines were smelly and noisy.
+
+But then the internal combustion engine (that used gasoline and diesel) were greatly improved, and cars that used those engines could go much farther and faster than other cars.
+
+Some people would make electric cars in their garages by taking out the engine and putting in an electric motor and batteries, but for a long time, no big car company made an electric car. Only in the late 1990's did big car companies start making electric cars again. The most famous was the GM's EV-1. Now interest in alternative fuel vehicles is growing.
+
+These types of cars do not have any kind of internal combustion engine, but are driven entirely using electric motors, which gets its power in different ways other than an engine.
+
+A hybrid is a combination of two things. In this case, it is an electric motor, and another type of power, such as an engine. Because of this, hybrid vehicles are not true electric vehicles.
+
+There are many other types of electric vehicles. A trolley bus (also called a trackless trolley) uses overhead electric lines to power it. Many trains use a railway electrification system to supply power. A few high-speed rail lines use powered magnets in the track to move the train, in a system called 'mag-lev' (magnetic levitation). There are electric bicycles and motorcycles and some tricycles (trikes) like the Corbin Motors Sparrow, which was also seen in the Austin Powers movie Goldmember.
+
+Most freight trains are diesel-electric. The locomotive has a diesel engine which provides electricity, and an electric motor which makes the wheels turn. In recent years, however, there are buses and trains that store their power in a battery or use some other source like fuel cells. These kinds of vehicles do not need wires.
+
+Advantages:These vehicles use an electric motor, so they are very quiet, no smell and no pollution from exhaust gases that is why UK is considering stopping sale of diesel, petrol and hybrid vehicles by 2035. They can even be used indoors, in tunnels and mines. Petroleum for vehicles is a limited resource - it will not last forever and is becoming more expensive. If the electricity for a battery-electric vehicle comes from a renewable energy source, like a windmill, solar cells, geothermal or hydroelectric, then it will not produce as many global warming gases.
+
+Electric vehicles save on operating costs. An electric vehicle can be fully charged for max $20 where full tank of fuel will cost $50-60. Maintenance is also cheaper (E.
+
+g. No Oil Change, No Check Engine Light).
+
+Electric bicycles also have benefits and advantages. If you have a short daily commute to work or store, it is suggested to get an electric bicycle instead of a car. They are way cheaper and cost you less to run. Also an exclusive advantage of electric bikes are discounts and coupons. Many retailers offer discounts to attract customers and to stand out from the rival retailors. There competition always ends up in advantage of customers.

@@ -1,0 +1,29 @@
+A single X chromosome can have either a black allele of the coloration gene or an orange version, but not both. However, a female cat has two X chromosomes, so it can have both versions, black on one chromosome and orange on the other, making the cat a calico. A male cat usually has one X chromosome and one Y chromosome. A Y chromosome does not have a color gene, so the cat can have either an orange or a black gene, but not both. Calico cats are often used as an example in biology classes when discussing sex chromosomes.
+
+During the early stages of development, when the cat is still an embryo, in each cell one of the X chromosomes (either the black one or the orange one) deactivates. It is called X-inactivation. All cells that were copied from a cell with a deactivated X chromosome will also have the same X chromosome deactivated. This is what leads to formation of the spots. The earlier in development the X chromosomes deactivate, the larger the spots will be. Deactivation of one of the X chromosomes happens in all female mammals. The white coloring on a calico is from a separate gene unrelated to the orange or black genes. Whether or not a cat is a calico is determined by genetics, but the actual layout of the spots is not. The layout of the spots is almost random. It is not possible to selectively breed or clone calico cats: an attempt to clone a calico cat will produce a black and white cat or orange and white tabby cat. The tortoiseshell cat is similar, although on a tortoiseshell cat the spots are usually smaller and closer together and there is less or no white.
+
+It is possible for a male cat to be a calico if it has Klinefelter's syndrome, where it has two X chromosomes and one Y chromosome, though not all cats with Klinefelter's syndrome are calico.
+
+In Japan, calico cats are said to bring good luck. In many Japanese shops there is a calico Japanese Bobtail figurine called the Maneki Neko, which is said to bring good luck to the shop's owner.
+
+Calico cats were, and still are, popular choices for a ship's cat. They are said to bring good luck to the ship's crew.
+
+Bruce BeutlerBruce Alan Beutler M.
+
+D. (born December 29, 1957 in Chicago, Illinois) is an American immunologist and geneticist of Jewish descent. Together with Jules Hoffmann, he received one-half of the 2011 Nobel Prize in Physiology or Medicine, for "discoveries concerning the activation of innate immunity" (the other half went to Ralph Steinman for "his discovery of the dendritic cell and its role in adaptive immunity").
+
+Beutler is currently Director of the Center for the Genetics of Host Defense at the University of Texas Southwestern Medical Center in Dallas, Texas and Professor and Chairman of the Department of Genetics at The Scripps Research Institute, in La Jolla, California. His father, Ernest Beutler, a hematologist and medical geneticist, was also a Professor and Department Chairman at Scripps.
+
+Beutler is best known for his pioneering molecular and genetic studies of inflammation and innate immunity. Interested in the mechanism by which lipopolysacchride (LPS) activates mammalian immune cells, Beutler identified the LPS receptor. Identification of the receptor hinged on the positional cloning (a method of gene identification) of the mammalian "Lps" locus, which had been known since the 1960s as a key gene for biological responses to LPS.
+
+Beutler thus discovered the key sensors of microbial infection in mammals. He found that one of the mammalian toll-like receptors, TLR4, acts as the membrane-spanning component of the mammalian LPS receptor complex. The TLRs work in the perception of microbes. Ten are now known in humans. Each detects signature molecules produced early in an infection. These receptors also work in severe illness, including shock and systemic inflammation as it occurs in the course of an infection. They are also active in sterile inflammatory and autoimmune diseases such as systemic lupus erythematosus. The research on TLRs won him the Nobel Prize in 2011.
+
+The positional cloning of "Lps" was completed in 1998. Beutler continued to analyse immunity in mammals. His work found numerous signalling molecules of the innate immune response, and helped to work out the biochemistry of innate immunity.
+
+Jules HoffmannJules A. Hoffmann (born 2 August 1941) is a Luxembourg-born French biologist. He is a research director and member of the board of administrators of the National Center of Scientific Research (CNRS) in Strasbourg, France. In 2007, he became President of the French Academy of Sciences.
+
+Together with Bruce Beutler, Hoffmann received one-half of the 2011 Nobel Prize in Physiology or Medicine for "their discoveries concerning the activation of innate immunity". Hoffmann discovered the function of the fruit fly "Toll" gene in innate immunity. Its mammalian homologues, the toll-like receptors, were discovered by Beutler. Toll-like receptors identify constituents of other organisms like fungi and bacteria, and trigger an immune response. This explains how septic shock can be triggered by bacterial remains.
+
+Hoffmann completed his PhD in biology at the University of Strasbourg in 1969. His post-doctoral training was at the Institut für Physiologische Chemie at Philipps-Universität in Marburg an der Lahn, Germany in 1973–1974.
+
+Hoffmann was a research assistant at CNRS from 1964 to 1968, and became a research associate in 1969. Since 1974 he has been a Research Director of CNRS. Between 1978 and 2005 he was Director of the CNRS research unit "Immune Response and Development in Insects", and from 1993 to 2005 he was director of the Institute of Molecular and Cellular Biology of CNRS in Strasbourg.

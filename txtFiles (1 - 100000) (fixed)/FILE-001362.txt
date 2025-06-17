@@ -1,0 +1,105 @@
+Curitiba was also one of the 18 cities that held games of the 2014 FIFA World Cup."
+
+Bairros" (neighbourhoods) of Curitiba are geographical divisions of the city. There is no delegation of administrative powers to neighborhoods, although there are several neighborhood associations devoted to improve their own standards of living. The centre ("Downtown" in American English or "CBD" - central business district - in other English use), is the place where the city was founded. It is the busiest area, most of the financial institutions of Curitiba are there.
+
+The executive is currently exercised by the mayor Beto Richa (elected in 2004, reelected in 2008 and with a mandate until 2012), by the deputy mayor (vice mayor) Luciano Ducci and the municipal secretaries appointed by the mayor. The City Council of Curitiba was created in 1693, and has a total of 38 Councillors elected since 2004.
+
+Curitiba is divided into nine regional governments, who manage the 75 districts of the municipality. The "Rua da Cidadania" ("Street of Citizenship") is the symbol of administrative decentralization; it is a reference point and meeting place for the user of municipal utilities. In a regional context, taking into account the needs and rights of the citizen in trade, leisure and services, facilitating the access of the population for different services in the areas of health, justice, policing, education, sport, housing, environment, urban planning, social service and supply, etc. Several units work annexed to the terminals of public transport in Curitiba. Their nuclei offer services in the local, state and federal areas.
+
+The official symbols of the city are the flag, the seal, and the hymn composed by Ciro Silva and Bento Mossurunga. In addition, through the municipal Law 10,236, was introduced as "place symbol of the city of Curitiba" the historic building of the Federal University of Paraná.
+
+Greater Curitiba is the 118th largest metropolitan area in the world. Estimates from the 2007 Census show that the Metropolitan Area of Curitiba has 3,172,357 inhabitants, the second most populated in the south of Brazil with an area of 15.
+
+418,543 km².
+
+Created in 1973, the Metropolitan Area of Curitiba is currently composed of 26 municipalities, including the capital.
+
+With an industrial park of 43 million square meters, the Metropolitan Area of Curitiba has attracted large companies such as Audi, VW, Nissan, Renault, New Holland, Volvo, Fiat, ExxonMobil, Sadia, Kraft Foods, Esso, HSBC and Siemens.
+
+The Greater Curitiba is home to the Afonso Pena International Airport (in the city of São José dos Pinhais) and the motorsports circuit Autódromo Internacional de Curitiba (in the city of Pinhais).
+
+The twin towns of Curitiba are:CrocodiliaThe order Crocodilia is a group of archosaur reptiles. There are three living families of crocodilians.
+
+Some crocodilians are crocodiles, alligators, gharials, and caimans.
+
+Crocodilians are first found in the Upper Cretaceous period. They are descendents of a much wider group of archosaurs called the crocodylomorphs. These, in the Upper Triassic, were slender land-living animals.
+
+The crocodylomorphs, in turn, were part of an even larger group, the Crurotarsi, which are first seen early in the Triassic.
+
+Crocodilians are the the sister group of the dinosaurs. This means crocodilians are the closest living relatives to birds. They are both survivors of the Archosauria.
+
+BiometricsBiometrics is a field of study which identifies or recognises people by the traits they have. Not to be confused with biometry, the application of statistics to biology.
+
+Given those traits, a system can be trained to recognise certain people, with a certain probability. Training lowers the probability of falsely identifying someone.
+
+The traits used are of two types:Most often, the two types are combined, as in voice or signature recognition. Most of these biometrics are seen as "behavioral", but some are linked to the physiology, e.
+
+g. of the vocal tract, or of the hand.
+
+A person may be identified by a fingerprint, or by letting the person sign a document. The data could then be kept. Someone who is checking can again take the fingerprint or the signature, and compare it to the old version.
+
+When selecting features, those choosing must also look at social acceptance. Taking a fingerprint may be ok, taking a blood test may not be. Some biometric data is also easier to fake, e.
+
+g. signatures.
+
+Also, when voice samples are taken, they may be distorted, if only a telephone line is available. Telephone lines cut off some bandwidth from the signal.
+
+Other than for passports, biometric methods are also used in many banks.
+
+Bandwidth (signal processing)Bandwidth is used to measure electronic and other types of communication. This includes radio, electronics, and other forms of electromagnetic radiation, Bandwidth is the difference between the electronic signal having highest-frequency and the signal having the lowest-frequency.
+
+In computer networks, bandwidth is often used as a term for the data transfer bit rate. More easily, the amount of data that is carried or passed from one point to another in a network, in a given time period (usually a second).
+
+Many systems work by means of continuous movements, or "oscillations". Each complete "back and forth" it makes is called a "cycle". The number of cycles every second is its "frequency". Frequency is measured in "cycles per second", most often called "Hertz", or "Hz" for short.
+
+Systems have at least one frequency, and usually many different frequencies. For example, sound waves travel as vibrations. People can hear sound frequencies low as 20 Hz, and high as 20,000 Hz. A "band" of frequencies is a continuous range of frequencies; the band of frequencies people can hear is from 20 Hz to 20,000 Hz.
+
+Bandwidth is the width of a frequency band; The width is the highest frequency minus the lowest frequency. In the hearing example, the bandwidth of a person's ears is about 20,000 Hz - 20 Hz = 19,980 Hz.
+
+Bandwidth is used with electromagnetic spectrum (for example, radio waves, light waves and X-rays). Such waves are oscillations of electric and magnetic fields. For example, the lowest United States AM radio channel has the band of frequencies from 535,000 Hz to 545,000 Hz. It has a bandwidth of 10,000 Hz (545,000 - 535,000 = 10,000). All United States AM radio broadcasting stations have this bandwidth (But, the location of each band is distinct). The lowest United States FM radio channel has the band from 88,000,000 Hz (88 MHz) to 88,200,000 Hz (88.
+
+2 MHz). It has a bandwidth of 200 kHz. You can see that the width of an FM band is 20 times the width of an AM band.
+
+The word "bandwidth" has been used incorrectly in digital data communication to mean "data carrying capacity". There is no such thing as "digital bandwidth"; the proper term for the data carrying capacity of a communication channel is channel capacity.
+
+In general, the channel capacity of a system increases with the bandwidth used for communication. However, many other parts are also important. Therefore, in most systems, the channel capacity is different from the channel bandwidth.
+
+HertzThe hertz (symbol: Hz, definition: 1/s) is a unit derived from time which measures frequency in the International System of Units (SI). Frequency is how often something happens. A frequency of 1 hertz means that something happens once a second. While hertz or Hz are the standard ways to express this unit, other expressions are sometimes used, as shown in the table.
+
+The note Middle C (the C in the middle of the piano) is 261.
+
+65 (262) Hz. This means there are 262 vibrations every second, which is heard as the note Middle C, when that piano key is played.
+
+Humans are able to hear sounds between 20 and 20 000 Hz. Owls are able to hear sounds between 200 and 12000 Hz.
+
+The basic unit is 1/second. The unit is named after a German physicist Heinrich Rudolf Hertz.
+
+1000 hertz is 1 kilohertz. 1000 kilohertz is 1 megahertz, 1000 megahertz is 1 gigahertz: (see table)Batman ReturnsBatman Returns was the second Batman movie directed by Tim Burton. It was released on June 19, 1992 worldwide to audience and financial success.
+
+One year after the events of "Batman", Batman falls in love with the beautiful and crafty vigilante Catwoman. Meanwhile, he has to stop a deformed psychopath called Penguin and the greedy and cruel Max Shriek.
+
+A couple throws their child into the sewers because he is a deformed monster that killed their cat and showed violent tendecies. 33 years later, the child becomes the criminal Penguin. He kidnaps businessman Max Shreck, blackmailing him into helping him become a citizen of Gotham City using evidence of his corporate crimes. Meanwhile, Max finds out his secretary, Selina Kyle, has found out he is planning to build a power plant which will drain Gotham City of its electricity. Max pushes her out of a window, ensuring that she will not tell anyone. However, a flock of alley cats lick her semi-corpse, reviving her. She returns home, suffering a mental breakdown, becoming the antiheroine Catwoman.
+
+Penguin makes one of his costumed henchman to kidnap the mayor's baby while he "saves" him, becoming a hero in the eyes of the people however, billionaire Bruce Wayne is suspicious of the Penguin and finds out that he is the leader of the Red Triangle Circus Gang who commits crimes throughout Gotham. As Batman, Bruce decides to protect Gotham from the gang. After Penguin finds out his parents are dead and his name is Oswald Cobblepot, Max decides to make Penguin the mayor of Gotham City because the current mayor will not approve Max's power plant.
+
+To do this, Penguin makes the Red Triangle Circus Gang create a riot, making the people lose all faith in the mayor but Batman stops it. During the riot, Catwoman vandalizes Shreck's Department Store. When Batman and Penguin confront each other, she intervenes, saying "Meow" before the store blows up(she rigged it to blow). Penguin escapes but Catwoman fights Batman. Batman pushes her off a rooftop but a sandbox on a truck saves her. The next day, Penguin and Catwoman work together to destroy Batman. Bruce and Selina also have a romantic relationship. Penguin and Catwoman kidnap the Ice Princess, an actress chosen to turn on the Gotham City Christmas Tree Lights, framing Batman for it. Batman finds her but Catwoman takes her to a rooftop where Penguin releases a swarm of flying bats which make the Princess retreat backwards, falling off, making the people believe Batman killed her. Catwoman is shocked that the Penguin killed the Princess and rejects Penguin's advances, prompting him to kill her, unsuccessfully though. Batman enters the Batmobile and finds out that Penguin has control over it. Penguin takes it on a devastating rampage but Batman regains control over it, escaping death.
+
+During the rampage, Batman recorded Penguin's evil plans and plays it during Penguin's election speech, turning the people against him. Penguin goes mad with rage and kidnaps all the first-born sons of Gotham City and Max too. Batman saves all the babies and pushes Penguin into toxic liquid. Catwoman tries to kill Max but Batman stops her. Max shoots Batman, knocking him out and Catwoman claims that she has six of her nine lives left but Max shoots her four times, leaving her with two lives. Catwoman kisses Max with an electrical taser between their lips and connects it to a broken wire, creating an explosion which kills Max but Batman cannot find Selina's corpse. Penguin emerges from the water but the heat kills him.
+
+Afterwards, Alfred, Bruce's butler, drives Bruce home. Suddenly, Bruce spots Selina's shadow in an alley. He investigates the area, only finding her black cat, Miss Kitty, taking her with him. He and Alfred exchange Christmas wishes. Finally, Batsignal lights up in the night sky and Catwoman rises up, staring at it, confirming that she is alive.
+
+Tim Burton was not willing to direct a second Batman. However, when the studio told him if it was a Burton movie, not a Batman movie, it got his attention and he agreed to direct it. They cast Michael Keaton as Batman, Danny DeVito as Penguin and Annette Bening as Catwoman. However, Bening dropped out due to pregnancy and every actress from 20 to 45 on the planet wanted to be Catwoman. When Michelle Pfeiffer expressed an interest, something clicked to the producers thinking "You know, she's perfect. She also could be both Selina Kyle and Catwoman." The final shot of Catwoman staring at the Batsignal was shot during post-production and cost US$250 000.
+
+The movie was released on June 19, 1992 worldwide. It received a score of 81% approval on Rotten Tomatoes and grossed $282,822,354 worldwide, being the sixth highest-grossing film of 1992. It is then and now, the best reviewed Batman movie from the Burton/Schumacher movie series.
+
+Ulster Scots dialectUlster Scots, sometimes called Ullans, is a dialect of Scots spoken in some of the northern parts of Ireland, across Ulster. It is closely related to the English language.
+
+Sara CoxSara Cox (born 13 December 1974) is an English broadcaster. She was born in Bolton, Greater Manchester. She presents shows for BBC Radio 1 and has hosted many television programmes.
+
+Star Trek: Deep Space NineStar Trek: Deep Space Nine (DS9) is the third "Star Trek" television series. Most of the series takes place on a space station called "Deep Space Nine". It was the first and so far only "Star Trek" show to be based on a space station rather than a starship.
+
+On the space station Deep Space Nine, the crew gets sick with an aphasia virus, which makes them say random words in place of what they mean to say.
+
+Winx ClubWinx Club is an Italian/American animated TV show made by Rainbow SpA and Nickelodeon. It is about six fictional fairies named Bloom, Stella, Flora, Musa, Tecna, and Aisha (called Layla in some languages). In the episodes of the series, the girls have to fight lots of different enemies, such as witches and fairy hunters. Together with their school's principal, Miss Faragonda, they learn to use their magical powers and defeat their enemies.
+
+In the beginning of the season, Bloom, a normal girl from Earth, lives a normal life with her parents and her pet bunny, Kiko. But one day, she walks in on a fight between an ogre and a fairy. After she helps the fairy defeat the ogre, the fairy tells Bloom that her name is Stella. Bloom goes with Stella to the Alfea college for fairies in the enchanted realm of Magix. There, she meets three other fairies, Flora, Musa, and Tecna. The five girls form the Winx Club. Early in the season, they also meet four guys from another school, Redfountain. These guys, called Specialists, are named Sky, Brandon, Riven, and Timmy. They also meet their enemies of the season, Icy, Darcy, and Stormy, three witches who call themselves the Trix. The Trix go to a school for witches called Cloudtower. Late in the season, the Trix steal Bloom's power, the Dragon's Flame, and use it to summon the Army of Darkness. By the end of the season, Bloom gets her powers back and the Winx girls defeat the Trix, saving Magix. Bloom wears a teal sleeveless cropped sweatshirt with dark blue trim, a pale yellow short-sleeve shirt underneath, blue slightly flared jeans that have stars on the bottom of the legs, and yellow wedge-sandals over the instep.

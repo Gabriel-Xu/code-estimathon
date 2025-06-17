@@ -1,0 +1,35 @@
+The constant field and the pulse field are usually set perpendicular to each other. This maximizes the NMR signal strength. The resulting response by the total magnetization (M) of the nuclear spins is what is used in NMR spectroscopy and magnetic resonance imaging. Both use intense applied magnetic fields (H) in order to achieve dispersion and very high stability to deliver spectral resolution. Scientist explain their readings as chemical shifts, the Zeeman effect, and Knight shifts (in metals).
+
+NMR is used in low-field NMR, NMR spectroscopy and MRI in the Earth's magnetic field (referred to as Earth's field NMR), and in several types of magnetometers.
+
+Nuclear magnetic resonance was first described and measured in molecular beams by Isidor Rabi in 1938. In 1944, Rabi was awarded the Nobel Prize in Physics for this work. In 1946, Felix Bloch and Edward Mills Purcell expanded the technique for use on liquids and solids. They shared the Nobel Prize in Physics in 1952 for this discovery.
+
+Purcell had worked on the development of radar during World War II at the Massachusetts Institute of Technology's Radiation Laboratory. His work during that project on the production and detection of radio frequency power and on the absorption of such RF power by matter laid the background for Rabi's discovery of NMR.
+
+Rabi, Bloch, and Purcell noticed that magnetic nuclei, like H and P, could absorb RF energy when placed in a magnetic field of a strength specific to the identity of the nuclei. When this absorption occurs, the nucleus is described as being "in resonance". Different atomic nuclei within a molecule resonate at different (radio) frequencies for the same magnetic field strength. The observation of such magnetic resonance frequencies of the nuclei present in a molecule allows any trained user to discover essential, chemical and structural information about the molecule.
+
+After World War II, the development of NMR as a technique in analytical chemistry and biochemistry happened at the same time as the development of electromagnetic technology and advanced electronics and their introduction into civilian use. In the 1960s, William Lipscomb was a pioneer in using NMR to study chemical structures. He worked out how to look at NMR data to tell what atoms are connected together in a molecule. This is called chemical shift.
+
+Herbert A. HauptmanHerbert Aaron Hauptman (February 14, 1917 – October 23, 2011) was an American mathematician. He won a Nobel Prize. He made a mathematical method to find a molecular structures based on the X-ray patterns of crystallized materials. With Jerome Karle, he won the 1985 Nobel Prize in Chemistry.
+
+He was born in New York City. He was the oldest child of Israel Hauptman and Leah Rosenfeld, and of Jewish descent.
+
+Hauptman was interested in science and mathematics from an early age. He studied at Townsend Harris High School. He graduated from the City College of New York (1937). He earned an M.
+
+A. degree in mathematics from Columbia University in 1939. He married Edith Citrynell on November 10, 1940, and had two daughters.
+
+After World War II, he began working together with Jerome Karle, a physical chemist, at the Naval Research Laboratory in Washington, D.
+
+C.. He also enrolled in the Ph.
+
+D. program at the University of Maryland, College Park. They used their mathematics and physical chemistry skills to solve the phase problem of X-ray crystallography. By 1955, he had received his Ph.
+
+D. in mathematics, and they had worked out the direct methods in X-ray crystallography. Their 1953 article, "Solution of the Phase Problem I. The Centrosymmetric Crystal", contained the main ideas, the most important of which was the introduction of probabilistic methods.
+
+In 1970 he joined the Medical Foundation of Buffalo, becoming its Research Director in 1972. At this time he developed the neighborhood principle and extension concept. These theories were further developed during the following years.
+
+Hauptman who was an atheist, signed with 21 other Nobel laureates the Humanist Manifesto in 2003.
+
+Viking programThe Viking program was a NASA mission that sent two spacecraft to the planet Mars. These spacecraft were called Viking 1 and Viking 2. Each spacecraft was made of an orbiter and a lander. The orbiters took pictures of Mars from their orbit and sent information to Earth. The landers gathered scientific data on the surface of the planet.
+
+Both Viking spacecraft were launched in 1975 and both reached Mars in 1976. Scientists chose landing places for both landers from the pictures that the orbiters had taken. Then the landers were released from the orbiters and they went down to their landing places. The orbiters continued to take pictures while the landers studied the surface of the planet and did other things. All of the spacecraft, including both orbiters and both landers, kept working for longer than they had been planned to. Eventually, they broke down. Viking 2 Orbiter stopped working in 1978, Viking 1 Orbiter and Viking 2 Lander in 1980, and Viking 1 Lander in 1982.

@@ -2,7 +2,7 @@
 // index.php
 
 // Configuration
-define('TEXT_DIR', __DIR__ . '/txtFiles (1 - 100000)');
+define('TEXT_DIR', __DIR__ . '/txtFiles (1 - 100000) (fixed)');
 define('MIN_FILE', 1);
 define('MAX_FILE', 100000);
 

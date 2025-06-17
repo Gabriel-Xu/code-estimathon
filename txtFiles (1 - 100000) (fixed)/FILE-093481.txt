@@ -1,0 +1,61 @@
+Uveal melanoma is most common among middle-aged Caucasians of European descent. Unlike cutaneous melanomas, uveal melanomas have no known association with ultraviolet (UV) light; nor is smoking believed to be a risk factor. However, we do know several obscure and controversial risk factors for the disease, including exposure to welding and use of L-dopa. Furthermore, the literature documents possible associations with melanosis oculi, neurofibromatosis, dysplastic nevus syndrome, myotonic dystrophy and BRCA-associated protein-1 (BAP-1) hereditary cancer syndrome.
+
+2Females are typically diagnosed on routine ophthalmic exam, while males commonly present with visual symptoms and are subsequently found to have uveal melanoma. We can diagnose the disease clinically with a high degree of accuracy, so it does not warrant biopsy for diagnosis. Nonetheless, many centers perform biopsies to help determine prognosis based on molecular analysis of the tumor.
+
+Prognosis and GeneticsAlthough 97 to 98 percent of patients with uveal melanoma have no evidence of metastatic disease at the time of diagnosis, and though the success rate for local treatment surpasses 90 percent, half of all patients ultimately develop metastatic disease. For this reason, there is great interest in narrowing in on prognosis for primary intraocular melanoma in patients with different risk profiles. This can be achieved with a limited degree of certainty. For instance, older and male patients are considered at higher risk for metastases. Uveal melanomas can also be divided by size, e.
+
+g., into small, medium and large, as was done by the Collaborative Ocular Melanoma Study; increasing size portends a higher risk for developing metastases. Finally, tumors occurring in the ciliary body or with extraocular extension have a poorer prognosis.
+
+For tumors with adequate specimen (typically those that are enucleated), metastatic risk can be established with histopathological findings. For instance, epithelioid versus spindle cells are considered poorer prognosis. High mitotic index, increased lymphatic invasion and a diffuse infiltrating pattern are also considered higher-risk. Furthermore, microvascular networks or vasculogenic mimicry patterns have been identified in tumors with higher metastatic potential.
+
+3Cytogenetics can further refine risk assessment for uveal melanoma.
+
+4 Many chromosomal and copy number alterations have been determined, including those on chromosomes 1, 6 and 8. Perhaps the most profound chromosomal alteration associated with poor prognosis in uveal melanoma is either a partial or complete loss of chromosome 3. This was confirmed with the discovery of somatic BAP1 mutations on the short arm of chromosome 3, which are present in the majority of higher-risk uveal melanomas.
+
+5It has been theorized that BAP1 is essential for the preservation of melanocyte identity in uveal melanoma, and that depletion of BAP1 results in uveal melanomas assuming a stem-like cell phenotype. Unlike with cutaneous melanoma, the genetic aberrations in uveal melanoma are comparatively bland. Other mutations besides BAP1 mutations do exist and confer either a neutral or a relatively better prognosis. For instance, guanine nucleotide-binding protein, Q polypeptide (GNAQ) or alpha 11 (GNA11) encodes a G-protein alpha-subunit that mediates signals from G-protein-coupled receptors (GPCRs) to the mitogen-activated protein kinase (MAPK) pathway.
+
+6 Somatic mutations, most often mutually exclusive in either codon 183 or 209 of GNAQ or GNA11, have been revealed in a number of melanocytic neoplasms, including over 85 percent of uveal melanomas.
+
+Finally, about 15 percent of uveal melanomas are believed to have somatic mutations in SF3B1 and EIF1AX.
+
+7,8 An overwhelming majority of these mutations occur in disomy 3 tumors compared to monosomy 3 tumors and with a male patient predominance; these are associated with favorable prognostic features and better diagnosis. At the level of ribonucleic acids, a gene expression profile generated from only a few tumor cells can differentiate uveal melanoma into three classes: class Ia with a low risk of metastasis, class Ib with a risk of late metastasis and class II with a higher risk of metastasis.
+
+9 mRNA expression of PRAME (preferentially expressed antigen in melanoma) may be a prognostic biomarker for seemingly lower-risk tumors (class 1 or disomy 3).
+
+Regardless of the prognostication method, the dichotomous theory of risk we have outlined here has its limitations and does not fully consider clonal heterogeneity nor clonal evolution of an individual tumor.
+
+Treatment of Primary Uveal MelanomaThe Collaborative Ocular Melanoma Study (COMS) was a multicenter randomized clinical trial with patient accrual spanning over a decade (1987 to 1998), and it has guided our present management of primary uveal melanoma.
+
+10 It revealed that small melanomas (<2.
+
+5/3.
+
+0 mm height, <16 mm diameter) could be managed with observation and were associated with a 5-year melanoma-specific mortality of 1 percent. Medium melanomas (2.
+
+5/3.
+
+0-10 mm height, <16 mm diameter) had equivalent melanoma-specific mortality if treated with either plaque brachytherapy or enucleation (complete removal of the eye), thus making either treatment option reasonable.
+
+11 Large melanomas (>10 mm height, >16 mm diameter) had equivalent melanoma-specific mortality if treated with enucleation either with or without preoperative external beam radiation (EBR); thus, preoperative EBR has since fallen out of favor.
+
+12Our group at Memorial Sloan Kettering Cancer Center was the largest center in the COMS, and we led the trial of selumetinib (a targeted oral MEK inhibitor), the first study ever to demonstrate a benefit (in progression-free survival) for the treatment of metastatic uveal melanoma.
+
+17 Our center and others offer integrated programs utilizing the following treatments:Radiation TherapyRadiation therapy (RT) has been used to treat uveal melanoma since 1930.
+
+13 Today, approximately 75 to 85 percent of uveal melanomas are treated with radiotherapy, primarily in two forms: plaque brachytherapy and proton beam radiotherapy (teletherapy). Brachytherapy is more common, and refers to the application of a radioactive source near the tumor: The advantage is that the radiation is physically brought directly to the melanoma, and does not traverse healthy tissues and organs, thus enabling delivery of high-dose radiation to the tumor while limiting side effects. We attach the radioactive source to a shielding device (“plaque”) and secure it to the sclera during a surgical procedure; this stays in place for several days (3 to 7) while we deliver the desired dose of radiation (70-100 Gy). Teletherapy refers to the projection of radiation through space as a beam. Multiple photon beams produced by a linear accelerator or fixed radioactive sources can be directed to converge at the tumor in a procedure called “stereotactic radiosurgery.” Alternatively, a charged particle beam (particle teletherapy) can be directed at the tumor. The advantage of teletherapy is that tumors of any size or location are accessible. The total dose of radiation delivered during teletherapy may be divided into several “fractions” (usually 4 to 10) to maximize the therapeutic index of treatment.
+
+Several important randomized controlled trials have demonstrated the effect of RT for uveal melanoma. A study of 1,317 patients comparing enucleation of the eye to plaque brachytherapy in patients with medium-sized uveal melanoma found no difference in metastasis-free or overall survival.
+
+11 Local tumor recurrence occurred in 10 percent of the RT patients. Another study compared particle teletherapy to plaque brachytherapy, and reported higher rates of local control with the former, but found no difference in cause-specific or overall survival.
+
+14 In another study, based on the hypothesis that surgical manipulation of “large” uveal melanomas at the time of enucleation fostered metastatic spread, researchers undertook a controlled trial of 1,003 patients randomized to either neoadjuvant pre-enucleation teletherapy or no preoperative treatment. This study found no difference in metastasis-free or overall survival in patients receiving RT before surgery.
+
+12In many instances, and using a variety of techniques, RT allows for effective destruction of the primary tumor, while preserving the eye and vision. Nevertheless, eye damage after RT is common, and important efforts are under way or planned to mitigate these effects through technique refinement and biologic modulation. A randomized study of two different radiation doses of teletherapy suggested that lower doses may produce fewer side effects and comparable cancer control rates.
+
+15 We need similar prospective studies of brachytherapy. As most long-term side effects of radiation are related to vascular and immunologic effects, we need to study the use of agents that modulate these processes. Early and ongoing studies suggest that agents such as bevacizumab and corticosteroids may be beneficial, but further study is necessary.
+
+EnucleationEnucleation had been the standard of care for uveal melanoma since the latter part of the 19th century. Following the results of COMS, this treatment method is now predominantly performed on large melanomas, while patients with medium tumors have a choice of two treatments that are identical for patient survival. An enucleation involves removing the globe (or eye) and optic nerve and retaining the surrounding orbital adnexal tissue (extraocular muscles, orbital fat, periosteum, cranial nerves, etc.). During the surgery, the six extraocular muscles are detached from the globe and the optic nerve is severed near its exit at the optic foramen. Once the eye is removed, a spherical orbital implant replaces it (various materials are available), and the conjunctiva and Tenon’s capsule are closed over this. Based on the surgical technique used, we may attach the extraocular muscles to the implant. A conformer, similar to a thick contact lens, is placed in the intrapalpebral fissure (the space between the eyelids) during the immediate postoperative period. Approximately four weeks after the surgery, we replace the conformer with a custom-made prosthesis, which is designed to cosmetically emulate the fellow normal eye. The prosthesis has optimal cosmesis in primary gaze, but may not move to the same degree as the fellow eye, particularly in extreme gazes.
+
+Other TreatmentsLess commonly used treatments for primary intraocular melanoma include local resection of the tumor, often combined with neoadjuvant or adjuvant radiation therapy. Lasers can also be used, possibly with dye or agent-enhancement, but this treatment is restricted by tumor size and location.
+
+Current Treatment of Metastatic Uveal Melanoma

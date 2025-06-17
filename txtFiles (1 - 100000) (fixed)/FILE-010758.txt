@@ -1,0 +1,79 @@
+An unconventional war is rarely announced as a war. No declaration of war is made. Usually, the only feature which is noticed is the presence in a country of organised fighters. The fighters come from a neighbouring country or from parts of the existing country. There are no set rules.
+
+This kind of warfare has been quite common since 1900. Terrorism is the intimidation of the native civilian population by armed fighters or insurgents, often known as "guerrillas". Warfare inside a state by citizens who wish to overthrow the state, also generally called terrorism by the government, has also been common.
+
+Struggle between regular forces (armies in uniforms) may happen without a formal declaration of war. Red versus white after the end of royal rule in Russia (Russian Civil War) is a good example. It was a semi-formal war, fought with regular troops on both sides. So was the seizing of Manchuria (Manchukuo) by Japan in the early 1930s. Regular Japanese army forces were used.
+
+After World War I and World War II unconventional forces were used to drive out colonial powers or to try and do so. The struggle against colonialism was usually by irregular forces supported by weapons and men from powers interested in removing the colonies (usually Russia or China).
+
+The dividing line between conventional and unconventional warfare is not clear-cut. In general conventional war is fought between regular armies, navies, air forces. Unconventional warfare is usually fought on the ground with at least one side not in uniform, usually against forces of the established government. It is an attempt to overthrow a government or to replace in it some part of the country.
+
+The USA Department of Defense defines unconventional warfare as activities conducted to enable a resistance movement or insurgency to coerce, disrupt, or overthrow a government or occupying power by operating through or with an underground, auxiliary, and guerrilla force in a denied area. Also called UW.
+
+Tombstone, ArizonaTombstone is a historic city in Cochise County, Arizona, United States. It was founded in 1877.
+
+In 2020, 1,308 people lived here.
+
+Doc HollidayJohn Henry "Doc" Holliday (August 14, 1851 – November 8, 1887) was an American gambler, gunfighter, and dentist. He was a close friend and associate of lawman Wyatt Earp.
+
+Holliday is best known for his role in the events leading up to and following the Gunfight at the O.
+
+K. Corral. He killed more than a dozen men, but modern researchers have said that Holliday killed only one to three men. He was born in Griffin, Georgia.
+
+Holliday died of tuberculosis at a hotel room in Glenwood Springs, Colorado on November 8, 1887 at the age of 36.
+
+Griffin, GeorgiaGriffin is a city in and the county seat of Spalding County, Georgia. It is part of the Atlanta metropolitan area. As of the 2020 census, the city had a population of 23,478.
+
+Wesley ClarkWesley Kanne Clark, Sr. (born December 23, 1944) is a retired general of the United States Army. He spent 34 years in the U.
+
+S. Army. He was honored with the Presidential Medal of Freedom. Clark was born in Chicago.
+
+In 2004, he unsuccessfully ran for the Democratic nomination for President of the United States.
+
+R (programming language)R is a programming language and free software environment for statistics. R is a language built for a specific purpose. It is strictly designed for statistical analysis. The algorithms for many statistical models are devised in R. Precisely R is the language of Statistical Analyzers. It’s an open source and the best suite for the statisticians to develop statistical softwares.
+
+The R language was originally made for statistics. But today, it is also used in many scientific fields including ecology.
+
+A list of changes in R releases is maintained in various "news" files at CRAN (Comprehensive R Archive Network). Some highlights are listed below for several major releases.
+
+R has local communities worldwide for users to share ideas and learn.
+
+There are a growing number of R events bringing its users together, such as conferences (e.
+
+g. useR!, WhyR?, conectaR, SatRdays) and other meetups.
+
+The official annual gathering of R users is called "useR!". The first such event was useR! 2004 in May 2004, Vienna, Austria. After skipping 2005, the useR! conference has been held annually. Subsequent conferences have included:Future conferences planned are as follows:"The R Journal" is the open access refereed journal of the R project. It features articles on the use and development of the R language.
+
+The following examples illustrate the basic syntax of the language and use of the command-line interface.
+
+In R, the generally preferred assignment operator is an arrow made from two characters codice_1. Although codice_2 can be used instead.> x <- 1:6 # Create vector.> y <- x^2 # Create vector by formula.> print(y) # Print the vector’s contents.[
+
+1] 1 4 9 16 25 36> mean(y) # Arithmetic mean of vector.[
+
+1] 15.
+
+16667> var(y) # Sample variance of vector.[
+
+1] 178.
+
+9667> model <- lm(y ~ x) # Linear regression model y = A + B * x.> print(model) # Print the model’s results.
+
+Call:lm(formula = y ~ x)Coefficients:(Intercept) x> summary(model) # Display an in-depth summary of the model.
+
+Call:lm(formula = y ~ x)Residuals:Coefficients:(Intercept) -9.
+
+3333 2.
+
+8441 -3.
+
+282 0.
+
+030453 *x 7.
+
+0000 0.
+
+7303 9.
+
+585 0.
+
+000662 ***

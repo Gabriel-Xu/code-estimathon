@@ -1,0 +1,97 @@
+All versions of Windows 2000 have things in common, including many system utilities such as the Microsoft Management Console (MMC) and standard system management applications such as a disk defragmentation utility. There is lots of support for different languages and for people with disabilities. Windows 2000 supports the Windows NT file system NTFS 5, the Encrypted File System (EFS), as well as basic and dynamic disk storage. Dynamic disk storage allows different types of volumes to be used (a volume is an area of storage on a hard disk that has been formatted with its own file system structure). The Windows 2000 Server version has many more features, including the ability to provide Active Directory services (a way of organising resources such as printers, users and group), a distributed file system (a file system that supports sharing of files) and fault-redundant storage volumes.
+
+Windows 2000 can be installed and deployed to an enterprise through either an attended or unattended installation. Unattended installations rely on the use of answer files to fill in installation information, and can be performed through a bootable CD using Microsoft Systems Management Server (SMS), by the System Preparation Tool (Sysprep).
+
+Windows 2000 was created from the Microsoft Windows NT operating system versions. It was originally called Windows NT 5.
+
+0 but Microsoft changed the name to Windows 2000 on October 27, 1998. The first software test version (also known as a beta version) for Windows 2000 was released on September 27, 1997. Several more test versions were released until Beta 3, which was released on April 29, 1999. Microsoft further issued three more test versions from between July to November 1999. They then finally released Windows 2000 to partners on December 12, 1999 . The public received the full version of Windows 2000 on February 17, 2000 and the press immediately called it the most stable operating system Microsoft had ever released. Novell (a competitor of Microsoft) did not think that Microsoft's new directory service product (part of Windows 2000) was as good as their own Novell Directory Services (NDS) technology . On September 29, 2000, Microsoft released Windows 2000 Datacenter. Microsoft released Service Pack 1 (SP1) on August 15, 2000, Service Pack 2 (SP2) on May 16, 2001, Service Pack 3 (SP3) on August 29, 2002 and its last Service Pack (SP4) on June 26, 2003. Microsoft has said that they will not release a Service Pack 5, but instead, have offered an "Update Rollup" for Service Pack 4. Microsoft stopped developing their Java Virtual Machine (JVM) for Windows 2000 in Service Pack 3.
+
+Microsoft has replaced Windows 2000 Professional with Windows XP Professional, and Windows 2000 Server products with Windows Server 2003. A project code named "Neptune" started development in 1999. Neptune was based on Windows 2000, and it was supposed to be a home-user replacement for Windows 98. However, the project took a long time to create and only one pre-test (alpha version) release was created. Windows Me was released instead, and the Neptune project later turned into part of a project that became Windows XP. The only elements of the Neptune project which were included in Windows 2000 were the ability to upgrade from Windows 95 or Windows 98, and support for the FAT32 file system.
+
+Several notable security flaws have been found in Windows 2000. Code Red and Code Red II were famous computer worms that used problems with the indexing service from Windows 2000's Internet Information Services (IIS) to cause security problems. In August 2003, two major worms named the Sobig worm and the Blaster worm began to attack millions of Microsoft Windows computers and caused many problems for system administrators and computer operators who used Windows 2000. This was very embarrassing for Microsoft, and caused many corporations and governments to look carefully at Microsoft's security problems.
+
+Windows 2000 is the last version of Windows that does not require any Pentium instructions, and is therefore the last version that will run on an Intel i486.
+
+Junior CertificateThe Junior Certificate is earned by passing a required exam that takes place in secondary schools in the Republic of Ireland.
+
+The exams take place every June, with English always the first exam. For example, the English exam took place on June 8 this year (2005). Exams usually end with the subjects that the fewest people take. For example, Italian took place on June 24 this year (2005).
+
+Three exams must be passed in order to receive a certificate: They are English, Mathematics, and Irish. If a student has not lived in Ireland for at least seven years before the exam, he is not required to sit for the Irish exam. A student may then take 3-6 other subjects to get his certifcate.
+
+The results of the exams are given in mid-September.
+
+Leaving CertificateThe Leaving Certificate is the final exam in the Republic of Ireland secondary school education system. Students have to do the Junior Certificate before they can take the Leaving Certificate. Students also have to take Maths and English. If they took Irish during the Junior Certificate, they also have to take Irish.
+
+Students have to take exams on at least six subjects. They can take either High or Ordinary level tests. In Irish and Maths, there is also a Foundation level. This is for people who have trouble with that subject.
+
+The results are given out in the middle of August. A leaving certificate is required in order to go on to college or university.
+
+EmpireAn empire is a set of lands, regions or countries that are ruled by an Emperor. An empire usually also has many different cultures. In history, many empires were usually formed when a country began to invade or colonise nearby countries.
+
+Usually, an empire is ruled by one dominant country. For example, the British Empire was largely controlled by the United Kingdom's government.
+
+Well-known empires include the Persian Empire, the Roman Empire, the Arab Rashidun Caliphate, also known as the Rashidun Empire, the Arab Umayyad Caliphate, also known as the Umayyad Empire, the Russian Empire, the Greek Macedonian Empire, the Holy Roman Empire and the British Empire. The oldest empire was the Akkadian Empire, whose founder was Sargon of Akkad.
+
+Empires that conquered much territory with speed included the Greek Macedonian Empire and the Arab Empire. According to Scottish historian James Buchan: "In speed and extent, the first Arab conquests were matched only by those of Alexander the Great, and they were more lasting." The Aztec Empire and the Mongol Empire were land empires.
+
+Sea empires grew mostly by sailing to distant places and conquering them. Mediterranean sea empires were the Phoenician states of Tyre, Sidon and Carthage; the Italian maritime republics of Venice and Genoa. Others were the Chola dynasty of Tamil Nadu in India; the Omani Empire of Arabia; and the Austronesian empires of Srivijaya and Majapahit in Maritime Southeast Asia.
+
+Before Christopher Columbus, there were several empires in America including Vikings (who owned Greenland), the Aztec Empire, and the Inca Empire. The Spanish and the Portuguese were the first Europeans to discover America. Later came the English, later to be called the British Empire controlled most of North America, and the Spanish Empire controlled most of South America and Latin America.
+
+The newest created empire was The Soviet Union created in 1922, which included Russia, Kazakhstan, Kyrgyzstan, Tajikistan, Uzbekistan, Turkmenistan, Latvia, Estonia, Lithuania, Belarus, Ukraine, Moldova, Azerbaijan, Armenia and Georgia.
+
+Today, the only monarch to use the title "emperor" is the Emperor of Japan although his power is mostly ceremonial and the "de facto" head of government is the Prime Minister of Japan.
+
+WriterA writer can mean anyone who makes a written work or who writes, but the word more usually means people who write creatively or as a job, or those who have written in many different forms. Skilled writers demonstrate skills in using language to portray certain ideas and images, whether in fiction or non-fiction.
+
+A "person who writes books or articles to be published"; That is one of the ways that media explains what a writer does. lThis list is only a few examples of the many types of writing there are.
+
+Writers often specialize in one of the following categories:InventorAn inventor is a person who makes new inventions, devices that perform some kind of function. The devices are mostly electrical or mechanical. Someone that invents new ideas or methods on how to do things may also be called an inventor. Inventors can receive a patent.
+
+Many inventors make small changes to old inventions. For example, people have invented new ways to make clocks over history. Early clocks were sundials, later clocks used water, and pendulums. Modern clocks are often electronic. Other machines such as vehicles are made of many inventions.
+
+BearBear are a group of large mammals found all over the world in many different habitats. They form the family Ursidae, in the suborder Caniformia of the order Carnivora. There are 8 living bear species.
+
+Bears usually have a big body with short and thick legs. They have a broad head and a very short tail. They have small eyes and round ears. They usually have longer, shaggy fur. On each foot they have five claws, which they cannot pull back. They use their claws for digging, climbing, and hunting. They can stand up on their back legs and their front paws are flexible. Usually bears can climb and swim very well. Males are usually bigger than females. Most bears except the giant panda are only one color. Most bears are russet, brown, or black.
+
+Bears do not have good hearing. They have powerful senses of smell and sight. They have good sight and can see colors, which is different from other carnivores. Bears mostly use their sense of smell to know what is around them. They can smell better than dogs. Bears also have good memory, which lets them remember where they can find food.
+
+They are mostly active at night, except for the Polar Bear. Some bears hibernate, meaning they sleep during the winter to save energy.
+
+Bears are usually omnivorous, which means that they eat plants and meat. They eat berries, grass, and fish. An exception is the polar bear, which eats mostly meat.
+
+Bears usually live alone, except when they are mating season or if they have cubs. The father does not raise the cubs. The mother raises the cubs for months or a few years depending on how much food there is. The mother protects her young, even at the cost of her life.
+
+Bears live all over the world, mostly in the Northern hemisphere. They are found in North America, South America, Europe, and Asia. There used to be bears in northern Africa but they are now extinct.
+
+Some fictional bears include, Yogi Bear, The Berenstain Bears, and Winnie the Pooh.
+
+MeteorologyMeteorology is the science that focuses on the Earth's atmosphere. People who study meteorology are called meteorologists. Meteorologists record air pressure, wind speed and direction, temperature, humidity, weather patterns, and other information. Meteorologists use this data to understand weather and to predict it. Meteorology is a major branch of earth science. Meteorologists study the causes of particular weather conditions using information obtained from the land, sea and upper atmosphere.
+
+They use computerized and mathematical models to make short and long-range forecasts concerning weather and climate patterns. A variety of organizations use meteorological forecasts including:In addition to forecasting, meteorologists study the impact of weather on the environment and conduct research into weather patterns, climate change and models of weather prediction.
+
+TechnologyTechnology is the skills, methods, and processes used to achieve goals. The word has been in use since the 17th century.
+
+People can use technology to:Technology can be knowledge of how to do things. Some machiness have automatic controls. This lets others use the machines without knowing how they work. Technological systems use technology by taking something, changing it, then producing a result. They are also known as technology systems.
+
+The most simple form of technology is the development and use of basic tools. The discovery of fire and the Neolithic Revolution made food easier to get. Other inventions, such as the wheel and the ship, helped people to transport goods and themselves. Information technology, such as the printing press, the telephone, and the Internet, has led to globalization.
+
+People have used technology for millions of years. Without food technology, most people would die.
+
+The word "technology" comes from two Greek words:Wonders of the WorldThe Seven Wonders of the World (or the Seven Wonders of the Ancient World) is a widely-known list of seven great buildings or structures from the classical time period.
+
+This is a list put together in the 2nd century BC byAntipater of Sidon and Philon of Byzantium. This explains why it only lists monuments of the Mediterranean world. There are other slightly different versions: this is the most usual one.
+
+Out of those structures only the Great Pyramid still exists in the 21st century. Most of the wonders were built by the Greeks. Earlier versions listed the Walls of Babylon and the Palace of Cyrus the Great.
+
+This version was decided by the American Society of Civil Engineers.
+
+There is no single list of seven natural wonders of the world. One of the many lists was compiled by CNN:New7Wonders of the World was an idea to choose new wonders of the world from a selection of 200 existing monuments. The mission began in 2001 and ended in 2007 with the announcement of the winners. The popularity poll was led by Canadian-Swiss Bernard Weber and organized by the New7Wonders Foundation in Zürich, Switzerland. Voting took place through the Internet or by telephone.
+
+The program caused different reactions from countries and organisations. Some countries praised their finalist and tried to get more people to vote for it. Others criticized the contest or did not think it was very important.
+
+Among the strongest criticism was from UNESCO, who said in a press release in 2007:Winners:From a variety of modern lists of wonders made by man, some items occur several times:DaughterA daughter is a female child. A daughter is a sister, if she has siblings.
+
+SonA son is a male child of a mother and father. A female child is a daughter.
+
+Oliver Stone

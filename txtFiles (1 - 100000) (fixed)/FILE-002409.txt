@@ -1,0 +1,173 @@
+In physics, angular frequency," ω, "(also called the angular speed, radial frequency, and radian frequency) is a measure of rotation rate. A high rate of angular frequency means something is turning very fast. The angular frequency is the magnitude of the vector quantity angular velocity which is also known as angular frequency vector formula_1.
+
+It is useful in many areas of maths and science as it allows understanding of many properties of physical objects in our world. In SI units, angular frequency is measured in radians per second, with dimensions t since radians are dimensionless.
+
+Angular frequency is often given in radians per second (formula_2) as it is easier to work with. In this way, the angular frequency is given by,where formula_4 is the time (period) of a single rotation (revolution) and formula_5 is the frequency. This can be derived by considering formula_6 when formula_7 and formula_8.
+
+If a wheel turns by an angle formula_9 in a time formula_10 then the angular frequency at any moment is given by,If the rotation speed is constant, this becomes,and so it is similar to a speed.
+
+For objects which are going in circles, the angular frequency may also be given as (in radians),where formula_14 is the speed and formula_15 is the distance from the center of the circle.
+
+This can be derived by considering formula_16 where formula_17 is the distance along the arc.
+
+Thuswhere formula_19 is the velocity.
+
+The angular frequency is important in determining whether an object can stay above the ground against gravity, or whether a spinning top can stay standing. It also is important in creating the frequency of mains electricity supplies and reducing the heat due to friction in engines.
+
+Objects are pulled towards the earth because of gravity. To oppose this, a satellite must go fast enough it misses the ground. For the forces to equal each other,where formula_21 is the mass of the larger body and formula_22 is the Gravitational constant. To make a circle, the angular frequency must be equal to,which leads to one of Johannes Kepler's Laws.
+
+Generators in power stations rotate at some frequency. The speed at which these turn gives us the frequency that our electricity supplies are at. These can be slowed by large brakes or big heavy wheels which stop the generators from turning too quickly.
+
+PseudovectorIn physics and mathematics, a pseudovector (or axial vector) is a quantity that transforms like a vector under a proper rotation, but gains an additional sign flip under an improper rotation (a transformation that can be expressed as an inversion followed by a proper rotation).
+
+Physical examples of pseudovectors include the magnetic field, torque, vorticity, and the angular momentum.
+
+Twister (1996 movie)Twister is a 1996 American disaster movie directed by Jan de Bont, and based upon a screenplay by Michael Crichton and Anne-Marie Martin. It follows a group of storm chasers attempting to prevent all tornadoes from destroying everything in Oklahoma. The movie has a famous scene of a flying cattle. It is a scene that was the subject of many parodies. It was the first movie to be commercially released on DVD and the last movie released on HD DVD."
+
+Twister" was released in VHS by Warner Home Video in October 1996. It was later released on DVD on March 26, 1997. It is considered to be the first home release of a movie to use this now widely-used optical media technology.
+
+SpokeA spoke is one of several rods radiating from the center of a wheel (the hub where the axle connects), connecting the hub with the round traction surface.
+
+The term originally meant the portions of a log which one had split lengthwise into four or six sections. The radial members of a wagon wheel were made by carving a spoke (from a log) into their finished shape. Eventually, the term spoke was applied to the finished product of the wheelwright's work.
+
+These pages are in German:ExaminationAn examination (exam) is a test. Many things may be examined, but the word is most often used for an assessment of a person. It measures a test-taker's knowledge, skill, aptitude, physical fitness or ability or standing in some other topic. It is a set of questions designed to measure those things. Examinations change and evolve. They have been used since ancient times.
+
+In its widest sense, to examine is to look at something very carefully, perhaps to find the cause of a problem. Someone who is ill may need to go to a doctor for a medical examination. A mechanic may examine a machine to find why it is not working properly.
+
+In education an examination is a test to show the knowledge and ability of a student. A student who takes an examination is a candidate. The person who decides how well the student has performed is the examiner. An examination may be a written test, an on-screen test or a practical test. Examples of a practical test may be: driving a car, speaking a language, playing a musical instrument and doing a scientific experiment. An on-screen test is a test which uses the computer.
+
+If the candidate is successful he will have passed the examination. If he is unsuccessful he will have failed. In some cases it is possible for a student who has failed to take the exam again another time.
+
+A student who passes an examination may get a certificate or diploma. Some certificates are professional qualifications, allowing the person to do a particular job, e.
+
+g. plumber, teacher, doctor, lawyer.
+
+Irish RepublicThe Irish Republic (Irish: "Saorstát Éireann" ) was a declared independent state of the United Kingdom in the Easter Rising of 1916 and established in 1919 by the First Dáil. It only existed during the Irish War of Independence of 1919-1922 between the Irish Republican Army and the forces of the United Kingdom.
+
+It formally ceased to exist in 1922 with the ratification of the Anglo-Irish Treaty that ended the war, when 26 of the country's 32 counties became the Irish Free State and the other six remained within the United Kingdom as Northern Ireland. Sinn Féin refused to accept the treaty, said that the Irish Republic existed, even if it did not control any territory. This is why elected Sinn Féin TDs never took their seats in the parliaments of the Irish Free State or the United KingdomIn English, the revolutionary state was known as the 'Irish Republic'. Two different Irish language names were used:"Saorstát Éireann" was also the official Irish title of the Irish Free State.
+
+This was Dáil Éireann. It was made up of the majority of Irish Members of Parliament elected in the 1918 general election. Two further general elections called by the Lord Lieutenant of Ireland, the head of the British administration in Dublin Castle, were treated by nationalists as elections to the Dáil. The Second Dáil's members were elected in the 1921 elections for the Parliaments of Northern Ireland and Southern Ireland; the Third Dáil was elected in 1922 as the provisional parliament of Southern Ireland, as provided for by the Anglo-Irish Treaty.
+
+At its first meeting the Dáil adopted the Dáil Constitution. It also passed a Declaration of Independence.
+
+The Dáil Constitution gave executive authority in a cabinet called the "Aireacht" or "Ministry". The Aireacht' head was first known as the "Príomh Aire". He in turn appointed the ministers. According to the original version of the constitution enacted in January 1919, there were to be four ministers:In April 1919, the ministry was increased in size to not more than nine ministers. In August 1921 it underwent a final overhaul when the post of president was created. The six ministers wereA number of previous cabinet ministers, notably Constance Markiewicz, were demoted to under-secretary level. Countess Markiewicz was the first women elected to the British House of Commons. She never took her seat, but instead she sat as a member of the first DáilThe Aireacht met as often as secrecy and safety allowed.
+
+The Anglo-Irish Treaty was signed on 6 December 1921. Then it had to be confirmed three times:House of Commons of Southern Ireland and Dáil Éireann were the same people, except for 4 pro-British members of the House of Commons.
+
+Super Smash Bros. BrawlSuper Smash Bros. Brawl (commonly known as SSBB or Brawl) is the third video game in the "Super Smash Bros." series. It was made by Sora and published by Nintendo for the Wii video game console.
+
+There are 39 characters in "Brawl". 25 characters are unlocked at the start, and 14 characters are hidden and have to be unlocked by the player. Most of the characters from the second game in the series, "Super Smash Bros. Melee", are also in Brawl. Some characters from "Melee" (Mewtwo, Roy, Dr. Mario, Pichu, and Young Link) are not in Brawl. Two new characters (Solid Snake and Sonic the Hedgehog) were in games that Nintendo did not own. The game is best known for the tripping mechanic (fighters will trip at random when running), introducing third-party characters, and the Smash BallLike the other "Super Smash Bros." games, items appear in the middle of the game that characters can use. However, "Brawl" adds many more items, such as the "Assist Trophy" (where a character appears to help players defeat opponents) and the "Smash Ball", an item that lets players use a powerful attack called a "Final Smash".
+
+Final Fantasy Tactics AdvanceFinal Fantasy Tactics Advance is a role-playing game made by Square Enix for the Nintendo Game Boy Advance. The story of the game is about four children who are pulled into their friends' dream by a magical book. The player plays as the boy Marche, his friend Montblanc, and many other characters who can join your group.
+
+X-Men (movie)X-Men is a 2000 superhero movie based upon the fictional characters the X-Men. The movie is about mutants who are the next evolutionary step of humanity. These mutants are feared and hated by most of humanity.
+
+The movie was directed by Bryan Singer. It deals with the ideas of prejudice and discrimination in the United States. The screenplay was written by David Hayter. A sequel, "X2", was released in 2003 and a third movie, "", was released in 2006. A fourth film, "". A prequel trilogy has been made, the prequel series is currently formed by "", "" and "Dark Phoenix".
+
+Professor Charles Xavier (the world's most powerful telepath) takes gifted children and teaches them to control their powers for good. He does this at Xavier's Academy for Gifted Youngsters, his school for mutants. This school is the home to the X-Men. The story is about the X-Men trying to stop Erik Lehnsherr (also known as Magneto), a mutant who blames humanity for the death of his family during the Holocaust. Magneto does not believe that humans and mutants can live together in peace. He builds a machine that turns humans into mutants.
+
+Filming took place from September 22, 1999 to March 3, 2000 in Toronto. Wolverine's claws required a full silicone cast of Hugh Jackman's arm, and 700 versions for Jackman and his stunt doubles.
+
+Bryan Singer asked John Williams to compose the music for the movie, but Williams was too busy composing for "Saving Private Ryan".
+
+The movie was one of the biggest hits of 2000. It earned more than $296 million worldwide and was the 8th highest grossing movie in the United States that year.
+
+Kingston upon HullKingston upon Hull is usually called just Hull. It is an English city.
+
+It is the "unitary authority" for the region of Yorkshire and the Humber. The region is in the Ceremonial county of the East Riding of Yorkshire.
+
+The city is on the North side of the River Hull where it meets the Humber Estuary (see diagram), from the North Sea.
+
+Hull has been a market town, military supply port, trading centre, fishing and whaling port, and industrial giant. Hull was also an early battleground in the English Civil Wars, and was the backdrop to events leading to the abolition of the slave trade in Britain. Hull was heavily damaged during the Second World War, and after a period of decline, when many factories closed; the city has started to regenerate.
+
+The Port of Hull is one of the UK's largest goods and passenger ports.
+
+Meaux Abbey was founded between 1150 and 1179. This is the earliest date people are known to have lived in the area.
+
+Edward I used the port to help supply his troops when he was fighting the Scots. as a site from which to supply his troops as they engaged their northern foesThe king granted a royal charter, dated 1 April 1299, that renamed the settlement of Wyke to "King's town upon Hull", or Kingston upon Hull. The charter remains preserved in the archives of the city's Guildhall.
+
+In 1440, a new charter allowed the town to choose a mayor, a sheriff, and twelve aldermen to run its own affairs. The charter also said that the aldermen also be justices of the peace (that is, judges) for the town and its county.
+
+Hull's port grew busier in the Middle Ages, sending wool, cloth, and leather to north Germany, towns on the Baltic Sea, and the Low Countries, bringing back timber, wine, furs, and dyes.
+
+Sir William de la Pole was the town's first mayor.
+
+The town grew rich during the 16th and early 17th centuries. At this time Wilberforce House was built. It is now a museum about William Wilberforce. who campaigned to abolish the slave trade.
+
+In 1642 Hull decided to support for Parliament and refused to let Charles I enter the town. This meant the king could not have Hull's arsenal. Named a traitor, Hotham was eventually executed, in spite of a pardon issued by Parliament. Charles I besieged the town, that is he ordered his army to surround the town and force Hull to surrender. This siege helped start the fighting in the Civil War.
+
+Hull became a city in 1897 This was then time when the city was the richest it had ever been. Catching whales and fishing were very important. Whaling is now banned, and fishing is limited by EU rules. But Hull is still a major port sending bulk goods and commercial road traffic by RORO ferry to and from the Dutch ports of Rotterdam and Zeebrugge and on to Europe. Hull is also an important centre of food-processing for the United Kingdom.
+
+In the Second World War much of the city centre was completely destroyed. Hull was the most severely-bombed city or town apart from London during World War II, with 95% of houses being damaged or destroyed.
+
+Hull was hit hard by the June 2007 floods. There was standing water over a wide area affecting 20% of the city's housing and damaging 90 out of its 105 schools. But the flooding was not as dramatic as the localised flooding in Sheffield and Doncaster. Newspapers and television reported about other areas, and Hull Council leader Carl Minns said Hull was the "forgotten city" of the floods.
+
+Damage to schools alone has been estimated at £100 million.
+
+Kingston upon Hull's city centre is close to the Humber. The city is surrounded by the rural East Riding of Yorkshire, isolating it from the rest of the United Kingdom.
+
+Much of Hull is on reclaimed land at or below sea level. The Hull Tidal Surge Barrier is where the River Hull joins the Humber Estuary and is lowered at times when unusually high tides are expected. It is used between 8 and 12 times per year and protects about 10,000 people from flooding.
+
+Due to its low level, Hull is expected to be at increasing levels of risk from flooding due to global warming.
+
+The city is quite small, but there are many villages in the metropolitan area. The largest of these suburbs is Cottingham.
+
+Hull was a county borough in the East Riding of Yorkshire from 1889 to 1974. Then it became a non-metropolitan district of the new Humberside county. When that county was abolished in 1996 it was made a unitary authority.
+
+The governing body of the city is now Hull City Council, based in the Guildhall in the city centre.
+
+The council has adopted the "leader and cabinet" model. This means that most decision are made by the leader of the council and a "Cabinet"The council was the UK's worst council in both 2004 and 2005, but is now rated as a two star "improving adequate" council after its recent "corporate performance assessment".
+
+Hull has the following twin towns:Hull, Massachusetts in the USA is named after this city, as is Hull, Quebec, which is part of Canada's national capital region.
+
+Hull is the only city in the UK with its own independent telephone network company, now called KCom. On 24 May 2007, the council sold their remaining stake in the company for over £107 million.
+
+People linked to the city include:Riding (division)In the United Kingdom, a riding is a division of certain large historic counties. It is usually one of three parts; the word itself comes from Old English "trithing" (itself from Old Norse "thrithjungr") which means 'third part'.
+
+Several counties are divided into ridings, but are usually governed by a council bearing the same name as the county. However, the ridings of Yorkshire are so large that each riding was given its own county council. Thus there were county councils for the East Riding, the North Riding and the West Riding. In 1974 when all the administrative counties of England and Wales were reorganised, these councils were replaced by six new ones within Yorkshire (either wholly or in part) called North Yorkshire, South Yorkshire, West Yorkshire, Cleveland, Durham and Humberside.
+
+In Canada, a riding is a federal constituency, or "electoral division" as they are known in Canada.
+
+PulkkilaPulkkila is a former municipality in Northern Finland. It was in Northern Ostrobothnia, "Pohjois-Pohjanmaa", Oulu province, Finland, and its original name (with diacritics) is Pulkkila. The population of Pulkkila is about 1,600. Pulkkila is best known for its metal works.
+
+Since 2009, it was merged to form the new municipality of Siikalatva.
+
+Emmental cheeseEmmental cheese (sometimes also called Emmentaler or Emmenthal) is a Swiss cheese. It first came from Switzerland. It is named after the "Emmental", the valley of a river, near Berne. Emmental cheese was first made around 1353 when Bern joined the confederacy.
+
+Today, most cheese-producing countries make a cheese called "Emmental cheese" - These cheeses often have little in common with the original though, except for the holes in the cheese. In 1882 was the first time, products could be protected in Europe. Already at that time, Emmentaler was made in countries other than Switzerland.
+
+Emmental cheese is amongst the best-known types of cheese. It is made from cow's milk. Two of the features that make Emmental distinctive are its holes and sweetness. The holes are there because of the way the cheese is made with bacteria which produce the cheese and over time (usually several months) create bubbles of carbon dioxide gas.
+
+Today, Switzerland, France, Austria, and Germany produce Emmental cheeses that have a Protected Designation of Origin. In Switzerland, Austria and Germany, untreated milk is used; most of the other countries use pasteurized milk. About 12 litres of milk are needed to make 1 kg of cheese.
+
+Emmental is produced in loaves of 70–80 kg. Usually, Emmental cheese is left to ripen for a period of 6–7 weeks. Ripening it for 8–12 weeks gives a more spicy (salty) cheese. In Europe, about 464 200 tons of Emmental are produced each year. This means that about 6% of the total amount of milk these countries produce is used to make Emmental cheese. France is the biggest producer of Emmental. In 2005, 247 069 tons were produced there. For this, 13.
+
+1% of national milk production was used. About 19% of the production was exported.
+
+French and Swiss people eat the most of this kind of cheese, about 3.
+
+3 kg per person per year. Germans eat about half that amount, 1.
+
+7 kg per person, per year.
+
+Emmental is also widely used in convenience food products, because it is so widely known.
+
+EmmentalEmmental is a part of Switzerland. It is made of low hills. Most of it is in the Canton of Berne. Its biggest rivers are the Emme and the Ilfis. The biggest localities are Burgdorf, Langnau and Huttwil.
+
+The landscape is mostly made of meadows. There are some forests too. Most of the people live from raising cattle (mostly cows), or from things closely related to cattle-raising. Emmental cheese has its name from this region. Langnau is known for Ceramics. Pottery from the region is also well-known.
+
+There is also some industry. The Emmental had one of the first fully-electric railway lines in Switzerland.
+
+Jeremias Gotthelf was a famous writer who spent most of his life in the Emmental.
+
+2001 Pacific hurricane seasonThe 2001 Pacific hurricane season officially started on May 15, 2001 in the eastern Pacific, and on June 1, 2001 in the central Pacific, and lasted until November 30, 2001. These dates conventionally delimit the period of each year when most tropical cyclones form in the northeastern Pacific Ocean. The first storm formed on May 25 and the last storm dissipated on November 3.
+
+There were no significant storms during the 2001 Pacific hurricane season. Hurricanes Adolph and Hurricane Juliette both reached Category 4 strength, while Juliette made landfall in the Baja California peninsula as a weak Category 1 hurricane, causing two deaths.
+
+2000 Pacific hurricane seasonThe 2000 Pacific hurricane season was an event in tropical cyclone meteorology. There were few notable storms this year. Tropical Storms Miriam, Norman, and Rosa all made landfall in Mexico with only small impacts. Hurricane Daniel for a short time, threatened the U.
+
+S. state of Hawaii while weakening. Hurricane Carlotta was the strongest storm of the year and the second strongest June hurricane in recorded history. It killed 18 people when it sank a ship.
+
+2006 Pacific hurricane seasonThe 2006 Pacific hurricane season was an above normal hurricane season with 19 named storms of 11 which were hurricanes and 6 were major hurricanes it was the most active season since 2000 Pacific hurricane season It officially began May 15, 2006 in the eastern Pacific, designated as the area east of 140°W, and began on June 1 2006 in the central Pacific, which is between the International Date Line and 140°W. Both seasons officially ended on November 30, 2006. These dates conventionally delimit the period of each year when most tropical cyclones form in the eastern Pacific basin.
+
+On May 27 Tropical Depression One-E formed. It became Tropical Storm Aletta later on. Aletta stalled offshore Mexico causing minor damage. Tropical Storm Aletta weakened to a tropical depression and died on May 30.

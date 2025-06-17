@@ -1,0 +1,35 @@
+formula_7 is a number which, when multiplied by itself, makes 5: formula_8.
+
+The golden ratio is called an irrational number. That means that if a person tries to write it, it will never stop and never make a pattern, but it will start like this: 1.
+
+6180339887... An important thing about this number is that if you subtract 1 from it or divide 1 by it, you'll get the same number.
+
+If the length of a rectangle divided by its width is equal to the golden ratio, then the rectangle is a "golden rectangle". If a square is cut off from one end of a golden rectangle, then the other end is a new golden rectangle. In the picture, the big rectangle (blue and pink together) is a golden rectangle because formula_10. The blue part (B) is a square, and the pink part by itself (A) is another golden rectangle because formula_11. The big rectangle and the pink rectangle have the same form, but the pink rectangle is smaller and is turned.
+
+The Fibonacci numbers are a list of numbers. A person can find the next number in the list by adding the last two numbers together. If a person divides a number in the list by the number that came before it, this ratio comes closer and closer to the golden ratio.
+
+In nature, the golden ratio is often used for the arrangement of leaves or flowers. These use the golden angle of approximately 137.
+
+5 degrees. Leaves or flowers arranged in that angle best use sunlight.
+
+In addition, the distance between the center of a person's body and the floor and the distance between the crown of the head and the base of the spine are both in accordance with the golden ratio. Despite its absence from common architectural and design patterns, Leonardo Fibonacci's finding is widely recognized as groundbreaking. It can take the form of hurricanes, elephant tusks, ants, sea urchins, starfish, honeybees, and many other things.
+
+The Fibonacci sequence begins with 0 and goes on forever: 1, 1, 2, 3, 5, 8, 13, 21, 34, 55. There is a sum of two digits before each digit. The pattern itself is rather elementary and unremarkable.
+
+That is until you learn that this ratio underlies the beauty of the Mona Lisa, the human limbs, data encryption, and even the number of spirals on a sunflower's head. It looks like the universe has a natural way of keeping track of numbers.
+
+Flowers always have an odd number of petals conforming to the Fibonacci sequence. For example, the peace lily has three petals, buttercups have five, chicory has 21, daisies have 34, and so on.
+
+Here are some more natural occurrences of the Golden Ratio:Seed heads. Flowers produce seeds at their core, which then spiral outward to fill the flower's head.
+
+Pineapples, cauliflowers, and Romanesco broccoli. Similarly, these conform to the Fibonacci sequence.
+
+Pine cones. Pinecones have spiral patterns on their seed pods, with two spirals on each cone growing in opposite directions as they grow.
+
+Branches of a tree. In nature, this pattern is seen when a tree develops a branch and then splits into two new growth points. Then, just one of the two new stems will actively grow, while the other will lie dormant.
+
+Methods of birds flying. The hawk's best angle of attack is perpendicular to the target's flight path, which is the same as the pitch of the spiral.
+
+Spiral galaxies. There are several spiral arms in the Milky Way, each with a logarithmic spiral around 12 degrees.
+
+Relational database

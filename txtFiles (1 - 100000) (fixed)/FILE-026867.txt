@@ -1,0 +1,211 @@
+Dynamic asset allocation is a strategy used by investment products such as hedge funds, mutual funds, credit derivatives, index funds, principal protected notes (also known as guaranteed linked notes) and other structured investment products to achieve exposure to various investment opportunities and provide 100% principal protection.
+
+Dynamic augment' is the US term for the same force.
+
+Dynamica was a record label, founded by Jor and Anna Rosen after the success of Machinery Records specifically to release industrial metal music, hence the slogan Metal-Hacking-Industrialism.
+
+Dynamic balance is the ability of an object to balance while in motion or switching between positions.
+
+Dynamic balance is the branch of mechanics that is concerned with the effects of forces on the motion of a body or system of bodies, especially of forces that do not originate within the system itself, which is also called kinetics.
+
+Dynamic braking is the use of an electric traction motor as a generator when slowing a vehicle such as an electric or diesel-electric locomotive.
+
+Dynamic braking may also be used on railcars with multiple units, light rail vehicles, electric trams, trolleybuses and electric and hybrid electric automobiles.
+
+Dynamic braking reduces wear on friction-based braking components, and regeneration lowers net energy consumption.
+
+Dynamic business process management (dynamic BPM) is a solution which enables enterprises to react to changing conditions of operation (both interior and/or exterior) and cater to the individual needs of their clients in a timely fashion (and even provide a practically instant response in case of critical conditions), in accordance with process adaptations executed in real time by their direct process owners with access to the codified knowledge of their enterprises.
+
+Dynamic causal modeling (DCM) is a method for the interpretation of functional neuroimaging data developed in 2003.
+
+Dynamic checking means that type errors are reported based on a program's dynamic (run-time) behavior.
+
+Dynamic Chiropractic is a magazine for chiropractors that is indexed by CINAHL.
+
+Dynamic Chord is a Japanese otome musical-themed visual novel game series developed and published by Honeybee Black.
+
+Dynamic Cock-up splint is a special kind of spica splint, which is used in nerve palsies of the hand for preventing contractures and physical therapy.
+
+Dynamic combinatorial chemistry (DCC); also known as constitutional dynamic chemistry (CDC) is a method to the generation of new molecules formed by reversible reaction of simple building blocks under thermodynamic control.
+
+Dynamic compilation is a process used by some programming language implementations to gain performance during program execution.
+
+Dynamic compression is achieved either by attaching a tension device to a plate or by using a special dynamic compression plate.
+
+Dynamic consent is a new approach to consent that engages individuals in decisions about how their personal information should be used.
+
+Dynamic correlation, representing the contribution to the energy brought by the instantaneous interaction between electrons, is normally small and can be recovered with good accuracy by means of perturbative evaluations, such as CASPT2 and NEVPT.
+
+Dynamic covalent chemistry (DCvC) is a synthetic strategy employed by chemists to make complex supramolecular assemblies from discrete molecular building blocks.
+
+Dynamic creative optimization (DCO), is a form of programmatic advertising that allows advertisers to optimize the performance of their creative using real-time technology.
+
+Dynamic CSS, or DCSS, is an umbrella term for a collection of technologies used together to create dynamic style sheets, by using a combination of any server-sided programming language (such as PHP/ASP/Perl/JSP) and Cascading Style Sheets (CSS).
+
+Dynamic currency conversion (DCC) or cardholder preferred currency (CPC) is a process whereby the amount of a Visa or MasterCard transaction is converted by a merchant or ATM to the currency of the payment card's country of issue at the point of sale.
+
+Dynamic data (also known as transactional data) is information that is asynchronously updated as new information becomes available.
+
+Dynamic Data Driven Applications Systems (DDDAS) is a new paradigm whereby the computation and instrumentation aspects of an application system are dynamically integrated in a feed-back control loop, in the sense that instrumentation data can be dynamically incorporated into the executing model of the application, and in reverse the executing model can control the instrumentation.
+
+Dynamic data is also different from streaming data, which is a constant flow of information.
+
+Dynamic data may be updated at any time, with periods of inactivity in between.
+
+Dynamic data or transactional data is information that is periodically updated, meaning it changes asynchronously over time as new information becomes available.
+
+Dynamic decision-making (DDM) is interdependent decision-making that takes place in an environment that changes over time either due to the previous actions of the decision maker or due to events that are outside of the control of the decision maker.
+
+Dynamic deconstructive psychotherapy (DDP) is a manual-based treatment for borderline personality disorder.
+
+Dynamic dispatch contrasts with static dispatch, in which the implementation of a polymorphic operation is selected at compile-time.
+
+Dynamic dispatch is different from late binding (also known as dynamic binding).
+
+Dynamic DNS (DDNS or DynDNS) is a method of automatically updating a name server in the Domain Name System (DNS), often in real time, with the active DDNS configuration of its configured hostnames, addresses or other information.
+
+Dynamic Duo is the seventh studio album by American country music duo Conway Twitty & Loretta Lynn.
+
+Dynamic Earth is an interactive science museum in Greater Sudbury, Ontario, Canada.
+
+Dynamic Earth (originally known as Our Dynamic Earth) is a visitor attraction in Edinburgh, and also functions as a conference venue.
+
+Dynamic Enterprise Architecture (DYA) is an enterprise architecture framework developed by the consulting company Sogeti.
+
+Dynamic equalization involves variation of the equalizer characteristics in the time domain as a function of the input.
+
+Dynamic examples include rotating pump shafts and hydraulic cylinder pistons.
+
+Dynamic flanker Sam Betty joined Worcester Warriors after agreeing a move from Cornish Pirates in July 2011.
+
+Dynamic frequency scaling (also known as CPU throttling) is a technique in computer architecture whereby the frequency of a microprocessor can be automatically adjusted "on the fly" depending on the actual needs, to conserve power and reduce the amount of heat generated by the chip.
+
+Dynamic frequency scaling helps preserve battery on mobile devices and decrease cooling cost and noise on quiet computing settings, or can be useful as a security measure for overheated systems (e.
+
+g. after poor overclocking).
+
+Dynamic frequency scaling is used in all ranges of computing systems, ranging from mobile systems to data centers to reduce the power at the times of low workload.
+
+Dynamic functional connectivity (DFC) refers to the observed phenomenon that functional connectivity changes over a short time.
+
+Dynamic functional connectivity is a recent expansion on traditional functional connectivity analysis which typically assumes that functional networks are static in time.
+
+Dynamic height can be computed using the normal gravity at 45 degree latitude and the locations geopotential number.
+
+Dynamic height is the most appropriate height measure when working with the level of water over a large geographic area, and is used by the Great Lakes Datum in the US and Canada.
+
+Dynamic hip screw (DHS) or Sliding Screw Fixation is a type of orthopedic implant designed for fixation of certain types of hip fractures which allows controlled dynamic sliding of the femoral head component along the construct.
+
+Dynamic HTML, or DHTML, is an umbrella term for a collection of technologies used together to create interactive and animated websites by using a combination of a static markup language (such as HTML), a client-side scripting language (such as JavaScript), a presentation definition language (such as CSS), and the Document Object Model (DOM).
+
+Dynamic hyperinflation is a phenomenon that occurs when a new breath begins before the lung has reached the static equilibrium volume.
+
+Dynamic imaging is the amalgamation of digital imaging, image editing, and workflow automation.
+
+Dynamic impairments are the result of land degradation, such as soil acidification, loss of soil carbon, water erosion, and wind erosion.
+
+Dynamic infrastructures also provide the fundamental business continuity and high availability requirements to facilitate cloud or grid computing.
+
+Dynamic Infrastructures may also be used to provide security and data protection when workloads are moved during migrations, provisioning, enhancing performance or building co-location facilities.
+
+Dynamic infrastructures were promoted to enhance performance, scalability, system availability and uptime, increasing server utilization and the ability to perform routine maintenance on either physical or virtual systems all while minimizing interruption to business operations and reducing cost for IT.
+
+Dynamic Intelligent Currency Encryption (DICE) is an AI-controlled security technology, which devaluates banknotes and assets remotely that have been stolen or are illegal.
+
+Dynamic International University College is a private university located in Addis Ababa, Ethiopia.
+
+Dynamic Internet Technology estimates Freegate had 200,000 users in 2004.
+
+Dynamic: In this mode, users write their signature in a digitizing tablet, which acquires the signature in real time.
+
+Dynamic is a fictional multinational conglomerate company from the TV series Fringe that develops the advancement of weapons testing, robotics, medical equipment, aeronautics, genetics, pharmaceuticals, telecommunication, energy, transportation, and entertainment technology.
+
+Dynamic is an Abbotsford, British Columbia-based custom window and door manufacturing company that supplies modern rustic and traditional architecturally-designed luxury residences across North America.
+
+Dynamic is an Italian independent record label located in Genoa.
+
+Dynamic keyword insertion is a feature provided by Google Adwords, Microsoft adCenter and Yahoo!
+
+Dynamic languages are frequently (but not always) referred to as "scripting languages", although the term "scripting language" in its narrowest sense refers to languages specific to a given run-time environment.
+
+Dynamic line rating (DLR), also known as real-time thermal rating (RTTR), and in German Freileitungsmonitoring (FLM), is an electric power transmission operation philosophy aiming at maximizing load, when environmental conditions allow it, without compromising safety.
+
+Dynamic linking loaders use the rpath to find required libraries.
+
+Dynamic load control is a form of back busying to the telephone switch.
+
+Dynamic loading is a mechanism by which a computer program can, at run time, load a library (or other binary) into memory, retrieve the addresses of functions and variables contained in the library, execute those functions or access those variables, and unload the library from memory.
+
+Dynamic load testing is a high strain dynamic test which can be applied after pile installation for concrete piles.
+
+Dynamic load testing (or dynamic loading) is a method to assess a pile's bearing capacity by applying a dynamic load to the pile head (a falling mass) while recording acceleration and strain on the pile head.
+
+Dynamic load testing takes a further step in analyzing the data and computing static capacity and resistance distribution.
+
+Dynamic Man is a fictional comic book superhero appearing in American comic books published by Marvel Comics.
+
+Dynamic Mobile Steel Sculpture is an abstract sculpture by Canadian artist George A. Norris, hanging in the atrium of the Central Branch of Greater Victoria Public Library in Victoria, British Columbia, Canada.
+
+Dynamic model: The dynamic model represents a state/transition view on the model.
+
+Dynamic money supply reduces volatility.
+
+Dynamic Multipoint Virtual Private Network (DMVPN) is a dynamic tunneling form of a virtual private network (VPN) supported on Cisco IOS-based routers, Huawei AR G3 routers and USG firewalls, and on Unix-like operating systems.
+
+Dynamic network analysis (DNA) is an emergent scientific field that brings together traditional social network analysis (SNA), link analysis (LA), social simulation and multi-agent systems (MAS) within network science and network theory.
+
+Dynamic Network Authentication System (DNAS) was a proprietary authentication system created by Sony Computer Entertainment Inc. DNAS retrieved information about a user's hardware and software for authentication, copy protection, account blocking, system, rules, or game management and other purposes.
+
+Dynamic nuclear polarization (DNP) results from transferring spin polarization from electrons to nuclei, thereby aligning the nuclear spins to the extent that electron spins are aligned.
+
+Dynamic occlusion is also termed as articulation.
+
+DynamicOps develops cloud automation and management solutions.
+
+DynamicOps was a private software company headquartered in Burlington, Massachusetts, USA, that is backed by Credit Suisse, Intel Capital, Sierra Ventures, and Next World Capital.
+
+Dynamic optimization problems, including optimal control, trajectory optimization, parameter optimization and model calibration can be formulated and solved using JModelica.
+
+org.
+
+Dynamic packages are primarily sold online, but online travel agencies will also sell by phone owing to the strong margins and high sale price of the product.
+
+Dynamic packages are similar in that often the air, hotel, and car rates are available only as part of a package or only from a specific seller.
+
+Dynamic packages differ from traditional package tours in that the pricing is always based on current availability, escorted group tours are rarely included, and trip-specific add-ons such as airport parking and show tickets are often available.
+
+Dynamic packaging is a method used in package holiday bookings to enable consumers to build their own package of flights, accommodation, and car rental instead of purchasing a pre-defined package.
+
+Dynamic packaging is dynamic at several levels.
+
+Dynamic packet transport (DPT) is a Cisco transport protocol designed for use in optical fiber ring networks.
+
+Dynamic page publishing is a method of designing publications in which layout templates are created which can contain different content in different publications.
+
+Dynamic Party was a Nigerian political party headed by the mathematician and erudite scholar Chike Obi.
+
+Dynamic Photo HDR is a photography software developed by Mediachance for Microsoft Windows, designed to create and tone map high dynamic range photos by combining multiple JPG or RAW camera images taken using multiple exposures.
+
+Dynamic Pictures Inc. was a San Jose-based company which produced the Oxygen line of high-end 3D graphics cards.
+
+Dynamic pile monitoring takes advantage of the fact that, for driven piles, it is possible to compute the energy delivered to the pile, compression stresses at the pile top and toe and tension stresses along the shaft.
+
+Dynamic positioning (DP) is a computer-controlled system to automatically maintain a vessel's position and heading by using its own propellers and thrusters.
+
+Dynamic positioning is used by much of the offshore oil industry, for example in the North Sea, Persian Gulf, Gulf of Mexico, West Africa, and off the coast of Brazil.
+
+Dynamic positioning may either be absolute in that the position is locked to a fixed point over the bottom, or relative to a moving object like another ship or an underwater vehicle.
+
+Dynamic Praise has shared the stage with such artists as Richard Smallwood, Kirk Franklin, Yolanda Adams, Donnie McClurkin, CeCe Winans, Dottie Peoples, Byron Cage, Lamar Campbell, Jonathan Nelson, Dathan Thigpen, Kelly Price, and many more.
+
+Dynamic pricing algorithms usually rely on one or more of the following data.
+
+Dynamic pricing, also referred to as surge pricing, demand pricing, or time-based pricing is a pricing strategy in which businesses set flexible prices for products or service based on current market demands.
+
+Dynamic pricing can be unpopular with consumers and favors the wealthy, who are less likely to be priced out of a market when there is high demand, such as for electricity during a heat wave or for food during a famine.
+
+Dynamic pricing is a common practice in several industries such as hospitality, travel, entertainment, retail, electricity, and public transport.
+
+Dynamic pricing is the concept in which retailers can fluctuate pricing to match demand, online competition, inventory levels, shelf-life of items, and to create promotions.
+
+Dynamic priority scheduling is a type of scheduling algorithm in which the priorities are calculated during the execution of the system.

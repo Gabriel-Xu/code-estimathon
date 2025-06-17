@@ -1,0 +1,63 @@
+British Railways Class D3/7 were diesel shunters built from May 1939 through to July 1942 by the London, Midland and Scottish Railway at their Derby Works. Like the earlier British Rail Class D3/6, they had the English Electric 6K diesel engine of . But a big change was having a "Jackshaft" type of connection between engine and wheels (like a diesel mechanical shunter). These were given LMS numbers 7080–7119. Ten were loaned to the War Department in 1941, and sold to the WD the following year. All ten survived the war; six were then sold to Egyptian Railways and four to Italian State Railways (Ferrovie dello Stato—FS).
+
+British Rail Class D3/9British Rail Class D3/9 was a class of four locomotives built by the London and North Eastern Railway at their Doncaster Works in England. It was a diesel powered locomotive in the pre-TOPS period.
+
+British Rail Class D3/10British Rail Class D3/10 was a locomotive commissioned by the Great Western Railway in England, and later taken over by British Railways. It was a diesel powered locomotive in the pre-TOPS period.
+
+British Rail Class D3/11British Rail Class D3/11 was a locomotive commissioned by the Great Western Railway, but delivered to its successor British Rail in England. It was a diesel powered locomotive in the pre-TOPS period.
+
+British Rail Class D3/12British Rail class D3/12 was a class of three diesel electric shunting trains built by the Southern Railway in 1937. They were numbered 1 to 3 in a separate list from the SR's steam-powered trains. They were later renumbered by British Railways 15201–15203. Later, twenty-six similar trains were built after nationalisation as British Rail Class 12.
+
+British Rail Class D3/14British Rail Class D3/14 was a diesel-electric locomotive built by the London and North Eastern Railway at its Doncaster Works. It had a Petter engine, and Brush Traction electricals. It was absorbed by British Railways on nationalisation, but was withdrawn in the pre-TOPS era.
+
+British Rail Class D16/1British Railways Class D16/1 or 10000 and 10001 were the first mainline diesel locomotives in Great Britain. They were built by the London, Midland and Scottish Railway at its Derby Works, using the EE16SVT 1600 hp diesel engine with electric transmission, in association with English Electric and the Vulcan Foundry, with whom the LMS had had a long working relationship.
+
+British Rail 10100British Railways 10100 was an unusual experimental diesel locomotive known informally as "The Fell Diesel Locomotive" (after Lt. Col. L.
+
+F.
+
+R. Fell, who was one of the designers). It was the joint production of Davey Paxman & Co, Shell Refining & Marketing Co and Lt-Col L.
+
+F.
+
+R. Fell, built for them by the London, Midland and Scottish Railway at Derby. Sir Harry Ricardo was also involved. By the time it emerged in 1950, nationalisation had taken place and it carried British Railways livery. The locomotive had six diesel engines, four of them used for traction. The auxiliary engines drove the pressure-chargers for the main engines and the purpose of this arrangement was to enable the main engines to deliver very high torque at low crankshaft speed.
+
+British Rail Class D16/2British Railways Class D16/2 was a class of prototype diesel locomotive built by BR at Ashford Works and introduced in 1950–1951, with a third example being introduced in 1954. They had been designed by Oliver Bulleid for the Southern Railway before the 1948 nationalisation but did not appear until after nationalisation. The diesel engine and transmission were supplied by the English Electric company but the Bulleid influence was obvious. The box-like body style closely resembled Bulleid's electric locomotives and was quite different from the usual English Electric style, typified by British Rail Class D16/1.
+
+British Rail 10800British Railways 10800 was a diesel locomotive built by the North British Locomotive Company for British Railways in 1950. It had been ordered by the London, Midland and Scottish Railway in 1946 but did not appear until after the 1948 nationalisation of the railways.
+
+British Rail Class D20/2The British Railways Class D20/2 diesel-hydraulic locomotives were built by the North British Locomotive Company in Glasgow during 1957 and 1958. Although never assigned a TOPS class as they were withdrawn before TOPS was introduced British Loco enthusiasts coined the term "Class 41". All were named after Royal Navy vessels, hence the nameplates each bore a subtitle "Warship Class".
+
+KVIrcKVIrc is a multilanguage, graphical IRC client for Windows, Linux, Unix and Mac OS. The "K" in "K Visual IRC" was for a dependancy to KDE, which became optional from version 2.
+
+0.
+
+0.
+
+KVIrc is able to connect to several servers at the same time (optional with SSL and/or IPv6). Unicode, ISO-8859-*-Codes, Asian and windows-native char sets are supported. A special feature is the smart encoding, which allows you to use 2 encodings at the same time; you can send unicode and read unicode and cp-1252 for example.
+
+Additional to the mIRC-Codes for bold, underlined and colored fonts, KVIrc owns a graphical emoticon and avatar system. This feature can be turned off.
+
+KVIrc has its own script language named "KVS" for extensions, addons and scripts.
+
+Every channel, term and DCC Chat is encryptable with Blowfish or AES/Rijndael.
+
+With "split window mode", "users" can divide their channel window into 2, one for chat messages and one for "commands" like joins/parts/mode changes. The size of the windows is variable, so they can hide the command window.
+
+The "Socket spy" feature helps developers and users to watch the raw communication between client and server to debug.
+
+Official stable releases are not often made, but in SVN is mostly a stable version to use.
+
+KVIrc 4.
+
+2.
+
+0 was released on July, 3rd 2012.
+
+Steam locomotives of British RailwaysThe steam locomotives of British Railways were used by British Railways over the period 1948-1968. The majority of these were inherited from the Big Four British railway companies. In the 1950s, new British Railways Standard steam locomotives were introduced.
+
+BR locomotives were numbered in the following series:British Rail Class 98TOPS Class 98 has been used to cover all steam locomotives used on the mainline in Britain, but also has a particular usage for the three Vale of Rheidol Railway-design 2-6-2T locomotives that remained in the ownership of British Rail after the end of mainline steam traction in August 1968. The locomotives on the Vale of Rheidol Railway were the only steam locomotives ever officially to carry the British Rail corporate blue and the double arrow logo.
+
+Gatwick ExpressGatwick Express is the name of a fast train service that runs on the Brighton Main Line, a railway line between Victoria station in London and the city of Brighton and Hove in South East England, stopping at Gatwick Airport on the way. It is fast because it does not stop at any stations between London Victoria and Gatwick Airport.
+
+A Gatwick Express train leaves London Victoria station every 15 minutes and takes 30 minutes to get to Gatwick Airport station. After arriving at Gatwick Airport, at least every other train on weekdays and Saturdays continues non-stop to Brighton railway station. At peak hours, every train continues to Brighton, but makes two stops between Gatwick and Brighton. On Sundays, all trains end at Gatwick Airport; there are no trains to and from Brighton.

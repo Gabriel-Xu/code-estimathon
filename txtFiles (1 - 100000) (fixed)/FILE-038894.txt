@@ -1,0 +1,179 @@
+In computer networking, the term link aggregation applies to various methods of combining (aggregating) multiple network connections in parallel in order to increase throughput beyond what a single connection could sustain, and to provide redundancy in case one of the links should fail.
+
+In computer networking, the transport layer is a conceptual division of methods in the layered architecture of protocols in the network stack in the Internet Protocol Suite and the Open Systems Interconnection (OSI) reference model.
+
+In computer networking, the Tunnel Setup Protocol (TSP) is a networking control protocol used to negotiate IP tunnel setup parameters between a tunnel client host and a tunnel broker server, the tunnel end-points.
+
+In computer networking, TTL prevents a data packet from circulating indefinitely.
+
+In computer networking, TUN and TAP are virtual network kernel interfaces.
+
+In computer networking, unicast refers to a one-to-one transmission from one point in the network to another point; that is, one sender and one receiver, each identified by a network address.
+
+In computer networking, upstream refers to the direction in which data can be transferred from the client to the server (uploading).
+
+In computer networking, xinetd (extended Internet daemon) is an open-source super-server daemon, runs on many Unix-like systems and manages Internet-based connectivity.
+
+In computer network research, network simulation is a technique whereby a software program models the behavior of a network by calculating the interaction between the different network entities (routers, switches, nodes, access points, links etc.).
+
+In computer networks and telecommunications, a dedicated line is a communications cable or other facility dedicated to a specific application, in contrast with a shared resource such as the telephone network or the Internet.
+
+In computer networks, a network element is a manageable logical entity uniting one or more physical devices.
+
+In computer networks, a Path Computation Element (PCE) is a system component, application, or network node that is capable of determining and finding a suitable route for conveying data between a source and a destination.
+
+In computer networks, a proxy server is a server (a computer system or an application) that acts as an intermediary for requests from clients seeking resources from other servers.
+
+In computer networks, a reverse proxy is a type of proxy server that retrieves resources on behalf of a client from one or more servers.
+
+In computer networks, a tunneling protocol is a communications protocol that allows for the secure movement of data from one network to another.
+
+In computer networks, computing devices exchange data with each other using connections (data links) between nodes.
+
+In computer networks, goodput is the application-level throughput (i.
+
+e. the number of useful information bits delivered by the network to a certain destination per unit of time).
+
+In computer networks, location transparency is the use of names to identify network resources, rather than their actual location.
+
+In computer networks, network traffic measurement is the process of measuring the amount and type of traffic on a particular network.
+
+In computer networks, out-of-band management involves the use of a dedicated channel for managing network devices.
+
+In computer networks, rate limiting is used to control the rate of traffic sent or received by a network interface controller and is used to prevent DoS attacks.
+
+In computer networks, to download (abbreviation DL) is to receive data from a remote system, typically a server such as a web server, an FTP server, an email server, or other similar systems.
+
+In computer networks, to upload is to send data to a remote system such as a server or another client so that the remote system can store a copy.
+
+In computer operating systems, a light-weight process (LWP) is a means of achieving multitasking.
+
+In computer operating systems, a process (or task) may wait on another process to complete its execution.
+
+In computer operating systems, mkfs is a command used to format a block storage device with a specific filesystem.
+
+In computer operating systems, paging is a memory management scheme by which a computer stores and retrieves data from secondary storage for use in main memory.
+
+In computer operating systems, union mounting is a way of combining multiple directories into one that appears to contain their combined contents.
+
+In computer performance testing, Khornerstone is a multipurpose benchmark from Workstation Labs used in various periodicals such as UNIX Review.
+
+In computer performance, the instruction path length is the number of machine code instructions required to execute a section of a computer program.
+
+In computer processors the carry flag (usually indicated as the C flag) is a single bit in a system status (flag) register used to indicate when an arithmetic carry or borrow has been generated out of the most significant ALU bit position.
+
+In computer processors, the overflow flag (sometime called V flag) is usually a single bit in a system status register used to indicate when an arithmetic overflow has occurred in an operation, indicating that the signed two's-complement result would not fit in the number of bits used for the operation (the ALU width).
+
+In computer processors the parity flag indicates if the number of set bits is odd or even in the binary representation of the result of the last operation.
+
+In computer programming, a block or code block is a lexical structure of source code which is grouped together.
+
+In computer programming, a branch table or jump table is a method of transferring program control (branching) to another part of a program (or a different program that may have been dynamically loaded) using a table of branch or jump instructions.
+
+In computer programming, abstraction inversion is an anti-pattern arising when users of a construct need functions implemented within it but not exposed by its interface.
+
+In computer programming, a callback, also known as a "call-after" function, is any executable code that is passed as an argument to other code, which is expected to call back (execute) the argument at a given time.
+
+In computer programming, a characterization test (also known as Golden Master Testing) is a means to describe (characterize) the actual behavior of an existing piece of software, and therefore protect existing behavior of legacy code against unintended changes via automated testing.
+
+In computer programming, a code smell is any characteristic in the source code of a program that possibly indicates a deeper problem.
+
+In computer programming, a constant is a value that cannot be altered by the program during normal execution, i.
+
+e., the value is constant.
+
+In computer programming a control break is a change in the value of one of the keys on which a file is sorted which requires some extra processing.
+
+In computer programming, addressing modes are primarily of interest to compiler writers and to those who write in assembly languages.
+
+In computer programming, a declaration is a language construct that specifies properties of an identifier: it declares what a word (identifier) "means".
+
+In computer programming, a default argument is an argument to a function that a programmer is not required to specify.
+
+In computer programming, a dope vector is a data structure used to hold information about a data object,, especially its memory layout.
+
+In computer programming, a flip-flop is a seldom-used syntactic construct which allows a boolean to flip from false to true when a first condition is met and then back to false when a second condition is met.
+
+In computer programming, a forward declaration is a declaration of an identifier (denoting an entity such as a type, a variable, a constant, or a function) for which the programmer has not yet given a complete definition.
+
+In computer programming, a free-form language is a programming language in which the positioning of characters on the page in program text is insignificant.
+
+In computer programming, a function object is a construct allowing an object to be invoked or called as if it were an ordinary function, usually with the same syntax (a function parameter that can also be a function).
+
+In computer programming, a function prototype or function interface is a declaration of a function that specifies the function's name and type signature (arity, data types of parameters, and return type), but omits the function body.
+
+In computer programming, a generic function is a function defined for polymorphism.
+
+In computer programming, a global variable is a variable with global scope, meaning that it is visible (hence accessible) throughout the program, unless shadowed.
+
+In computer programming, a handle is an abstract reference to a resource.
+
+In computer programming, a local variable that is assigned a value but is not read by any subsequent instruction is referred to as a dead store.
+
+In computer programming, a logic error is a bug in a program that causes it to operate incorrectly, but not to terminate abnormally (or crash).
+
+In computer programming, a magic string is an input that a programmer believes will never come externally and which activates otherwise hidden functionality.
+
+In computer programming, a mirror is a reflection mechanism that is completely decoupled from the object whose structure is being introspected.
+
+In computer programming, a miswart is an inelegant behavior of a program that turns out to be the best of several possible solutions.
+
+In computer programming, a naming convention is a set of rules for choosing the character sequence to be used for identifiers which denote variables, types, functions, and other entities in source code and documentation.
+
+In computer programming, an application framework consists of a software framework used by software developers to implement the standard structure of application software.
+
+In computer programming, an application programming interface (API) is a set of subroutine definitions, communication protocols, and tools for building software.
+
+In computer programming and computer science, "maximal munch" or "longest match" is the principle that when creating some construct, as much of the available input as possible should be consumed.
+
+In computer programming and computer science, programmers and developers employ a technique called automated unit testing to enhance the quality of the software.
+
+In computer programming and computer security, privilege separation is a technique in which a program is divided into parts which are limited to the specific privileges they require in order to perform a specific task.
+
+In computer programming and software engineering, software brittleness is the increased difficulty in fixing older software that may appear reliable, but fails badly when presented with unusual data or altered in a seemingly minor way.
+
+In computer programming and software testing, smoke testing (also confidence testing, sanity testing, build verification test (BVT) and build acceptance test) is preliminary testing to reveal simple failures severe enough to, for example, reject a prospective software release.
+
+In computer programming, an entry point is where control is transferred from the operating system to a computer program, at which place the processor enters a program or a code fragment and execution begins.
+
+In computer programming, a nested function (or nested procedure or subroutine) is a function which is defined within another function, the enclosing function.
+
+In computer programming, a netstring is a formatting method for byte strings that uses a declarative notation to indicate the size of the string.
+
+In computer programming, an indentation style is a convention governing the indentation of blocks of code to convey program structure.
+
+In computer programming, an inline assembler is a feature of some compilers that allows low-level code written in assembly language to be embedded within a program, among code that otherwise has been compiled from a higher-level language such as C or Ada.
+
+In computer programming, an input kludge is a type of failure in software (an anti-pattern) where simple user input is not handled.
+
+In computer programming, an input mask refers to a string expression, defined by a developer, that constrains user input .
+
+In computer programming, an iterator is an object that enables a programmer to traverse a container, particularly lists.
+
+In computer programming, an opaque pointer is a special case of an opaque data type, a datatype declared to be a pointer to a record or data structure of some unspecified type.
+
+In computer programming, a nullary constructor is a constructor that takes no arguments.
+
+In computer programming, a null-terminated string is a character string stored as an array containing the characters and terminated with a null character ('\0', called NUL in ASCII).
+
+In computer programming, a one-pass compiler is a compiler that passes through the parts of each compilation unit only once, immediately translating each part into its final machine code.
+
+In computer programming, a parameter (often called formal parameter or formal argument) is a special kind of variable, used in a subroutine to refer to one of the pieces of data provided as input to the subroutine.
+
+In computer programming, a poltergeist (or gypsy wagon) is a short-lived, typically stateless object used to perform initialization or to invoke methods in another, more permanent class.
+
+In computer programming, a postcondition is a condition or predicate that must always be true just after the execution of some section of code or after an operation in a formal specification.
+
+In computer programming, a precompiled header is a (C or C++) header file that is compiled into an intermediate form that is faster to process for the compiler.
+
+In computer programming, a precondition is a condition or predicate that must always be true just prior to the execution of some section of code or before an operation in a formal specification.
+
+In computer programming, a prefix header is a feature found in some C or C++ compilers used to ensure that a certain snippet of code is inserted at the beginning of every file.
+
+In computer programming, a pure function is a function that has the following properties: Its return value depends only on its parameters and not on any internal or external state (such as local static variables, non-local variables or inputs from I/O devices).
+
+In computer programming, a return code or an error code is an enumerated message that corresponds to the status of a specific software application.
+
+In computer programming, a return statement causes execution to leave the current subroutine and resume at the point in the code immediately after where the subroutine was called, known as its return address.
+
+In computer programming, a rope, or cord, is a data structure composed of smaller strings that is used to efficiently store and manipulate a very long string.

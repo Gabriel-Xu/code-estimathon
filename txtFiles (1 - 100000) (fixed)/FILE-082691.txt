@@ -1,0 +1,227 @@
+This gene encodes a member of the glutathione peroxidase family.
+
+This gene encodes a member of the glycosyltransferase 22 family.
+
+This gene encodes a member of the glycosyltransferase superfamily.
+
+This gene encodes a member of the Golgi-localized, gamma adaptin ear-containing, ARF-binding (GGA) family.
+
+This gene encodes a member of the Golgi-localized, gamma adaptin ear-containing, ARF-binding (GGA) protein family.
+
+This gene encodes a member of the golgin family of proteins which are localized to the Golgi.
+
+This gene encodes a member of the golgin family of proteins, whose members localize to the Golgi.
+
+This gene encodes a member of the G protein-coupled receptor family.
+
+This gene encodes a member of the GTP-binding translation elongation factor family.
+
+This gene encodes a member of the H2B histone family that is specifically expressed in sperm nuclei.
+
+This gene encodes a member of the histidine triad (HIT) superfamily, some of which have nucleotide-binding and diadenosine polyphosphate hydrolase activities.
+
+This gene encodes a member of the histo-blood group ABO gene family that encodes glycosyltransferases with related but distinct substrate specificity.
+
+This gene encodes a member of the histone H1 family.
+
+This gene encodes a member of the histone H2B family.
+
+This gene encodes a member of the histone H2B family, and generates two transcripts through the use of the conserved stem-loop termination motif, and the polyA addition motif.
+
+This gene encodes a member of the homeobox family of transcription factors, many of which are involved in developmental processes.
+
+This gene encodes a member of the homer family of dendritic proteins.
+
+This gene encodes a member of the immunoglobulin receptor superfamily and is one of several Fc receptor-like glycoproteins clustered on the long arm of chromosome 1.
+
+This gene encodes a member of the junctophilin family of transmembrane proteins that are involved in the formation of the junctional membrane complexes between the plasma membrane and the endoplasmic/sarcoplasmic reticulum in excitable cells.
+
+This gene encodes a member of the KH domain protein subfamily.
+
+This gene encodes a member of the KH-domain protein subfamily.
+
+This gene encodes a member of the K homology domain-containing, RNA-binding, signal transduction-associated protein family.
+
+This gene encodes a member of the kinesin light chain family.
+
+This gene encodes a member of the latrophilin subfamily of G-protein coupled receptors (GPCR).
+
+This gene encodes a member of the leucine-rich repeat-containing subgroup of the G protein-coupled 7-transmembrane protein superfamily.
+
+This gene encodes a member of the LMBR1-like membrane protein family.
+
+This gene encodes a member of the M20 metalloprotease family.
+
+This gene encodes a member of the membrane-spanning 4A gene family, members of which are characterized by common structural features and similar intron/exon splice boundaries and display unique expression patterns in hematopoietic cells and nonlymphoid tissues.
+
+This gene encodes a member of the metallocarboxypeptidase family.
+
+This gene encodes a member of the monocarboxylate transporter family and the major facilitator superfamily.
+
+This gene encodes a member of the MutT family of nucleotide pyrophosphatases, a subset of the larger NUDIX hydrolase family.
+
+This gene encodes a member of the myosin superfamily.
+
+This gene encodes a member of the myotubularin dual specificity protein phosphatase gene family.
+
+This gene encodes a member of the myotubularin related family of proteins.
+
+This gene encodes a member of the natural killer cell receptor C-type lectin family.
+
+This gene encodes a member of the neurexin family which functions in the vertebrate nervous system as cell adhesion molecules and receptors.
+
+This gene encodes a member of the neuropilin family of receptor proteins.
+
+This gene encodes a member of the neurotrophic tyrosine kinase receptor (NTKR) family.
+
+This gene encodes a member of the nucleoporin family that shares 87% sequence identity with rat nucleoporin p58.
+
+This gene encodes a member of the nucleosome assembly protein (NAP) family.
+
+This gene encodes a member of the nucleosome assembly protein (NAP) family which can interact with both core and linker histones.
+
+This gene encodes a member of the oxysterol-binding protein (OSBP) family, a group of intravenous lipid receptors.
+
+This gene encodes a member of the p34Cdc2 protein kinase family.
+
+This gene encodes a member of the paralemmin protein family.
+
+This gene encodes a member of the paraoxonase gene family, which includes three known members located adjacent to each other on the long arm of chromosome 7.
+
+This gene encodes a member of the PDE protein superfamily.
+
+This gene encodes a member of the peptidase S9B family, a small family of dipeptidyl peptidases that are able to cleave peptide substrates at a prolyl bond.
+
+This gene encodes a member of the peroxiredoxin family of antioxidant enzymes, which reduce hydrogen peroxide and alkyl hydroperoxides.
+
+This gene encodes a member of the PIWI subfamily of Argonaute proteins, evolutionarily conserved proteins containing both PAZ and Piwi motifs that play important roles in stem cell self-renewal, RNA silencing, and translational regulation in diverse organisms.
+
+This gene encodes a member of the plakin protein family of adhesion junction plaque proteins.
+
+This gene encodes a member of the polycystin protein family, called TRPP2, previously known as polycystin-2, PC2 or APKD2.
+
+This gene encodes a member of the potassium channel, voltage-gated, shaker-related subfamily.
+
+This gene encodes a member of the potassium channel, voltage-gated, shal-related subfamily, members of which form voltage-activated A-type potassium ion channels and are prominent in the repolarization phase of the action potential.
+
+This gene encodes a member of the potassium channel, voltage-gated, subfamily G. This gene is abundantly expressed in skeletal muscle.
+
+This gene encodes a member of the prefoldin alpha subunit family.
+
+This gene encodes a member of the Rab family of proteins.
+
+This gene encodes a member of the RCC1-related GEF family.
+
+This gene encodes a member of the regulator of G-protein signaling family.
+
+This gene encodes a member of the regulator of G-protein signaling (RGS) family.
+
+This gene encodes a member of the 'regulator of G protein signaling' (RGS) gene family.
+
+This gene encodes a member of the retinoid X receptor (RXR) family of nuclear receptors which are involved in mediating the effects of retinoic acid (RA).
+
+This gene encodes a member of the RING zinc finger protein family found in striated muscle and iris.
+
+This gene encodes a member of the RSK (ribosomal S6 kinase) family of serine and threonine kinases.
+
+This gene encodes a member of the RSK (ribosomal S6 kinase) family of serine/threonine kinases.
+
+This gene encodes a member of the R-spondin family of proteins that share a common domain organization consisting of a signal peptide, cysteine-rich/furin-like domain, thrombospondin domain and a C-terminal basic region.
+
+This gene encodes a member of the serine protease family.
+
+This gene encodes a member of the serine/threonine protein kinase family, that is highly similar to yeast SPS1/STE20 kinase.
+
+This gene encodes a member of the sestrin family.
+
+This gene encodes a member of the SFRP family that contains a cysteine-rich domain homologous to the putative Wnt-binding site of Frizzled proteins.
+
+This gene encodes a member of the short-chain dehydrogenase/reductase gene family.
+
+This gene encodes a member of the SIGLEC3-like subfamily of SIGLECs.
+
+This gene encodes a member of the sirtuin family of proteins, homologs to the yeast Sir2 protein.
+
+This gene encodes a member of the SLC2A facilitative glucose transporter family.
+
+This gene encodes a member of the sorting nexin family, a diverse group of cytoplasmic and membrane-associated proteins involved in endocytosis of plasma membrane receptors and protein trafficking through these compartments.
+
+This gene encodes a member of the SOX (SRY-related HMG-box) family of transcription factors involved in the regulation of embryonic brain development and in determination of cell fate.
+
+This gene encodes a member of the Ste20 family of serine/threonine protein kinases, and is similar to several known polo-like kinase kinases.
+
+This gene encodes a member of the sulfotransferase family.
+
+This gene encodes a member of the superoxide dismutase (SOD) protein family.
+
+This gene encodes a member of the SWI2/SNF2 family of proteins, which play a critical role in altering protein-DNA interactions.
+
+This gene encodes a member of the T cell factor/lymphoid enhancer factor family of transcription factors.
+
+This gene encodes a member of the tectonic gene family which functions in Hedgehog signal transduction and development of the neural tube.
+
+This gene encodes a member of the theta class glutathione S-transferase-like (GSTTL) protein family.
+
+This gene encodes a member of the thioesterase superfamily.
+
+This gene encodes a member of the trinucleotide repeat containing 6 protein family.
+
+This gene encodes a member of the tripartite motif family.
+
+This gene encodes a member of the tripartite motif (TRIM) family.
+
+This gene encodes a member of the tropomyosin family of actin-binding proteins involved in the contractile system of striated and smooth muscles and the cytoskeleton of non-muscle cells.
+
+This gene encodes a member of the Tubby family of bipartite transcription factors.
+
+This gene encodes a member of the type II sodium-phosphate cotransporter family.
+
+This gene encodes a member of the ubiquitin-specific protease family of proteases that is a deubiquitinating enzyme (DUB) with His and Cys domains.
+
+This gene encodes a member of the unconventional myosin protein family, which are actin-based molecular motors.
+
+This gene encodes a member of the von Willebrand factor A domain containing protein family.
+
+This gene encodes a member of the WAP-type four disulfide core domain family.
+
+This gene encodes a member of the WAP-type four-disulfide core (WFDC) domain family.
+
+This gene encodes a member of the WD-protein subfamily.
+
+This gene encodes a member of the wingless-type MMTV integration site (WNT) family of highly conserved, secreted signaling factors.
+
+This gene encodes a member of the Wiskott-Aldrich syndrome protein family.
+
+This gene encodes a member of the zinc fingers and homeoboxes (ZHX) gene family.
+
+This gene encodes a membrane-anchored protein with a hydrophobic amino terminal domain and a cyclophilin-like PPIase domain.
+
+This gene encodes a membrane-bound glycoprotein from the family of dipeptidases (EC 3.
+
+4.
+
+13.
+
+19) involved in hydrolytic metabolism of various dipeptides, including penem and carbapenem beta-lactam antibiotics.
+
+This gene encodes a membrane-bound member of the mammalian triglyceride lipase family.
+
+This gene encodes a membrane bound protein with several transient phosphorylation sites and PEST motifs.
+
+This gene encodes a membrane protein that belongs to the FRAS1 family.
+
+This gene encodes a membrane protein that functions as part of a receptor complex for a small neuropeptide that increases intracellular cAMP levels.
+
+This gene encodes a membrane protein that mediates apical cell adhesion between trophoblastic cells and luminal epithelial cells of the endometrium and is implicated in the initial attachment during the process of embryo implantation.
+
+This gene encodes a microtubule-associated protein (MAP).
+
+This gene encodes a mitochondrial ATPase inhibitor.
+
+This gene encodes a mitochondrial enzyme that belongs to the Amidinotransferase family.
+
+This gene encodes a mitochondrial enzyme that catalyzes the conversion of oxaloacetate (OAA) to phosphoenolpyruvate (PEP) in the presence of guanosine triphosphate (GTP).
+
+This gene encodes a mitochondrially-localized protein which is classified under the Bcl-2 protein family.
+
+This gene encodes a mitochondrial NAD-dependent malic enzyme, a homotetrameric protein, that catalyzes the oxidative decarboxylation of malate to pyruvate.

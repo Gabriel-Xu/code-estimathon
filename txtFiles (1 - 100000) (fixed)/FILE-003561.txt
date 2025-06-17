@@ -1,0 +1,133 @@
+Kraken Mare is believed to be the largest of seas and lakes near Titan's north pole. It was discovered as a sea of hydrocarbons by radar pictures. Only a small part of the sea has been pictured by radar, but its full size is seen in visible light pictures. Kraken Mare is believed to be similar in size to the Caspian Sea.
+
+An island in the sea is named Mayda Insula.
+
+Ligeia MareLigeia Mare is a lake on Titan at 79.
+
+0° N, 248.
+
+0° W, measuring around 500 km in width. It is named after Ligeia, one of the sirens in Greek mythology. Ligeia Mare has been a proposed lake to land the Titan Lake In-situ Sampling Propelled Explorer space probeKeystreamIn cryptography, a keystream is a stream of random or pseudorandom characters that are combined with a plaintext message to produce an encrypted message (the ciphertext).
+
+The "characters" in the keystream can be bits, bytes, numbers or actual characters like A-Z depending on the usage case.
+
+Usually each character in the keystream is either added, subtracted or XORed with a character in the plaintext to produce the ciphertext, using modular arithmetic.
+
+Keystreams are used in the one-time pad cipher and in most stream ciphers. Block ciphers can also be used to produce keystreams. For example, the CTR mode (also known as Integer Counter Mode (ICM)) is a block mode that makes a block cipher produce a keystream then turns the block cipher into a stream cipher.
+
+In this simple example we will use only the English alphabet of 26 characters from a-z, therefore we will not encrypt numbers, commas, spaces and other symbols. As we have only 26 characters the random numbers in the keystream have to be at least between 0 and 25.
+
+To encrypt we add the keystream numbers to the plaintext. And to decrypt we subtract the same keystream numbers from the ciphertext to get the plaintext.
+
+If a ciphertext number becomes larger than 25 we wrap it to a value between 0-25. I.
+
+e. 26 becomes 0 and 27 becomes 1 and so on. (Such wrapping is called modular arithmetic.)
+
+Here the plaintext message "attack at dawn" is combined by addition with the keystream "kjcngmlhylyu" and produces the ciphertext "kcvniwlabluh".
+
+Noor JehanNoor Jehan () was the adopted stage name for Allah Wasai (September 21, 1926 – December 23, 2000). She was a Punjabi singer and actress. She is renowned as one of the greatest singers of her time in the Indian subcontinent and was given the honorific title of "Mallika-e-Tarranum" (, English: the queen of melody). She achieved special national recognition and popularity in Punjab with her patriotic songs of 1965, which elevated her to an iconic level.
+
+Along with Ahmed Rushdi, she has given voice to the mny number of film songs in the history of Punjabi cinema. She is also considered to be one of the best female Punjabi film director.
+
+Noor Jehan moved to Pakistan shortly after.
+
+Noor Jehan was awarded the Pakistan President's Award in 1965.
+
+She married Shaukat Hussain Rizvi in 1942. The marriage ended in 1953 with divorce. The couple had three children, including their singer daughter Zil-e-Huma. She then married Ejaz Durrani in 1959. The second marriage also produced three children. It ended in divorce in 1970.
+
+In 2000, Jehan was hospitalized in Karachi and suffered a heart attack. Jehan died as a result of heart failure.
+
+Nusrat Fateh Ali KhanNusrat Fateh Ali Khan (, October 13, 1948 – August 16, 1997), was a Pakistani musician. He was a singer of qawwali, the devotional music of the Sufis. In 2006, "Time" magazine included him in their list of "Asian Heroes'.
+
+Traditionally, qawwali is a performing art which is passed down with in the family. Nusrat's family has been performing qawwali for the last 600 years. Among other honorary titles given to him, Nusrat was called "Shahenshah-e-Qawwali", meaning "The Emperor of Qawwali".
+
+Aziz MianAziz Mian Qawwal () (April 17, 1942 – December 6, 2000) was a Pakistani singer, most famous for his performing of Qawwalis. Aziz Mian was born as Abdul Aziz () in Delhi, British India. The exclamation "Mian", which he often used in his qawwalis, became part of his stage name. He began to introduce himself as Aziz Mian Mairthi. The word "Mairthi" refers to Meerut, a city in northern India, from which he migrated to Pakistan in 1947.
+
+At the age of ten, he began learning the art of Qawwali under the tutelage of Ustad Abdul Wahid Khan. He received sixteen years of training at the Data Ganj Baksh School of Lahore, and obtained a degree in Urdu literature from the University of Punjab, Lahore.
+
+Kashmir Solidarity DayKashmir Solidarity Day has been celebrated on 5 February each year since 1990. It is a day of protest against Indian control of part of Kashmir. It is a national holiday in Pakistan.
+
+National emblem of BangladeshThe National Emblem of Bangladesh was adopted shortly after independence in 1971.
+
+Located on the emblem is a White water lily, that is bordered on two sides by rice sheaves. Above the water lilly are four stars and a three-leaf clover of jute leaves. The water lily is the country's national flower, and is representative of the many rivers that run through Bangladesh. Rice represents its presence as the staple food of Bangladesh, and for the agriculture of that nation. The four stars represent the four founding principles that were originally enshrined in the first constitution of Bangladesh in 1972: Nationalism, Secularism, Socialism, and Democracy.
+
+The details of the emblem is given as quoted below:"The national emblem of the Republic is the national flower Shapla (Nymphaea pubescens) resting on water, having on each side an ear of paddy and being surmounted by three connected leaves of jute with two stars on each side of the leaves." - Constitution of Bangladesh Article 4(3)The Government of Bangladesh has adopted Education, Nationalism and Democracy as its ""National Motto"".
+
+Pakistani Instrument of SurrenderThe Instrument of Surrender () was a written agreement that enabled the surrender of the Pakistan Armed Forces in the Bangladesh Liberation War. The surrender took place at the Ramna Race Course in Dacca on December 16, 1971. Lieutenant-General A A K Niazi, joint commander of the Pakistan Armed Forces in East Pakistan, and Lieutenant General Jagjit Singh Aurora, joint commander of the Bangladesh-India Allied Forces, signed the instrument amid thousands of cheering crowds at the race course. Air Commodore A. K. Khandker, Deputy Commander-in-Chief of the Bangladesh Armed Forces, and Lieutenant General J F R Jacob of the Indian Eastern Command, acted as witnesses to the surrender.
+
+Eastern Command was a Corps level formation in the former East Pakistan consisting of 9th, 14th and 16th Infantry Divisions. Subsequently, around 30,000-32,000 Pakistani troops and officials were taken as prisoners-of-war by the Indian Army. The usually inflated figure of 93000 POWs is completely incorrect and misleading, as far as number of military troops is concerned. 3 Divisions of army do not add up to such a number in any Army in the world. However, there were thousands of civilians belonging from West Pakistan, working or otherwise in East Pakistan, who were also taken as prisoners and thus the total number of 'POWs' increased..
+
+They were later repatriated in 1973 under the terms of the Delhi Agreement.
+
+The Pakistan Eastern Command agree to surrender all Pakistan Armed Forces in Bangladesh to Lieutenant-General Jagjit Singh Aurora, General Officer Commanding in Chief of the Indian and Bangladesh forces in the Eastern Theatre. This surrender includes all Pakistan land, air and naval forces as also all para-military forces and civil armed forces. These forces will lay down their arms and surrender at the places where they are currently located to the nearest regular troops under the command of Lieutenant- General Jagjit Singh Aurora.
+
+The Pakistan Eastern Command shall come under the orders of Lieutenant-General Jagjit Singh Aurora as soon as this instrument has been signed. Disobedience of orders will be regarded as a breach of the surrender terms and will be dealt with in accordance with the accepted laws and usages of war. The decision of Lieutenant-General Jagjit Singh Aurora will be final, should any doubt arise as to the meaning or interpretation of the surrender terms.
+
+Lieutenant- General Jagjit Singh Aurora gives a solemn assurance that personnel who surrender will be treated with dignity and respect that soldiers are entitled to in accordance with the provisions of the Geneva Convention and guarantees the safety and well-being of all PAKISTAN military and para-military forces who surrender. Protection will be provided to foreign nationals, ethnic minorities and personnel of Western Pakistan origin by the forces under the command of Lieutenant - General Jagjit Singh Aurora.
+
+Signed:(Jagjit Singh Aurora) Lieutenant-General General Officer Commanding in Chief Indian and Bangladesh Forces in the Eastern Theatre(Amir Abdullah Khan Niazi) Lieutenant-General Martial Law Administrator Zone B and Commander Eastern Command (Pakistan)16 December 1971"This document can be seen on display in the National Museum in Delhi (as of January 2012)Product cipherIn cryptography, a product cipher is a popular type of stream ciphers that works by executing in sequence a number of simple transformations such as substitution, permutation, and modular arithmetic.
+
+Product ciphers usually consist of iterations of several "rounds" of the same algorithm. Individual "rounds" themselves are not secure. However, it is hoped that a sufficiently long chain of "rounds" loads the cipher with sufficient confusion and diffusion properties to make it resistant to cryptanalysis.
+
+A product cipher that uses only substitutions and permutations is called a SP-network. Feistel ciphers are another important class of product ciphers.
+
+Islamic republicIslamic Republic is the name given to forms of government of several states. These states have Islam as a state religion and are governed by the principles of the Islamic law called Sharia. Some of these countries have both Sharia and civil law. Laws made by the state cannot contradict Sharia in some of these countries, and in other countries civil law is more dominant than Sharia law.
+
+The following states call themselves Islamic Republic (non-exhaustive list)Despite the similar name the countries differ greatly in their governments and laws. Of the Islamic republics, only Iran is a theocracy.
+
+Key scheduleIn cryptography, the so-called product ciphers are a certain kind of ciphers, where the decryption of data is done in ""rounds"". The general setup of each "round" is the same, except for some hard-coded parameters and a part of the cipher key, called a subkey. A key schedule is an algorithm that, given the key, calculates the subkeys for these "rounds".
+
+Knudsen and Mathiassen (2004) give some experimental evidence that indicate that the key schedule plays a part in providing strength against linear and differential cryptanalysis. For toy Feistel ciphers, it was observed that those with complex and well-designed key schedules can reach a uniform distribution for the probabilities of differentials and linear hulls faster than those with poorly-designed key schedules.
+
+EFF DES crackerIn cryptography, the EFF DES cracker (nicknamed "Deep Crack") is a machine built by the Electronic Frontier Foundation (EFF) to perform a brute force search of DES cipher's key space — that is, to decrypt an encrypted message by trying every possible key. The aim in doing this was to prove that DES's key is not long enough to be secure.
+
+The DES uses a 56-bit key, meaning that there are 2 possible keys under which a message can be encrypted. This is approximately 7.
+
+21 (more than 72 quadrillion). When DES was approved as a federal standard in 1976, a machine fast enough to test such a number of keys in a reasonable time would have cost an unreasonable amount of money to build.
+
+Classified informationClassified information is sensitive information to which access is restricted by law or regulation to particular classes of people. A formal security clearance is required to handle classified documents or access classified data. The clearance process requires a satisfactory background investigation. There are usually several levels of sensitivity, with differing clearance requirements. This sort of hierarchical system of sharing information among a group of people is used by most national governments. Deciding the level of sensitivity of data is called data classification.
+
+The purpose of classification is to protect information from being used to damage or cause danger to national security. Classification says what is a "state secret" and deals with different levels of protection based on the damage the information might cause if it reached the wrong hands.
+
+Some non-government organizations and corporations also have their own secret information, normally referred to as trade secrets.
+
+Although the classification systems vary from country to country, most have levels like the following British definitions (from the highest level to lowest):Depending on the level of classification there are different rules controlling the level of clearance needed to view the information, and how it must be stored, transmitted, and destroyed. Access is restricted on a "need to know" basis. Simply possessing a clearance does not automatically authorize the individual to view all material classified at that level or below that level. The individual must have a "need to know" in addition to the proper level of clearance.
+
+Security clearanceA security clearance is a status granted (approved) to individuals allowing them access to classified information, e.
+
+g. state secrets. It is something like permission or a license. The term "security clearance" is also sometimes used in private organizations that have a formal process of selecting employees to access ""sensitive information"".
+
+A clearance by itself is normally not sufficient to gain access; the organization must determine that the cleared person ""needs to know"" the information. No one is supposed to be granted access to classified information only because of rank, position, or a security clearance.
+
+Sensitive informationSensitive information is information or knowledge that might result in loss of an advantage or level of security if exposed to others who might be unfriends or have low or unknown trustability.
+
+Loss, misuse, modification or unauthorized access to sensitive information can negatively affect the privacy of an individual, trade secrets of a business or even the security, internal and foreign affairs of a nation depending on the level of sensitivity and nature of the information.
+
+The term classified information generally refers to information that is subject to special security classification regulations imposed by many national governments. The term "Unclassified" as used in the below refers to information that is not subject to security classification regulations. Information can be reclassified to a different level or declassified (made available to the public) depending on changes of situation or new intelligence.
+
+Trade secretA trade secret is a formula, practice, process, design, instrument, pattern, or a collection of information which is not generally known, invented or created, by which a business can obtain an economic advantage over competitors or customers. In some jurisdictions, such secrets are referred to as "confidential information" or "classified information".
+
+With its broad definition of eligible subject matter, trade secret law protects a wide range of valuable information, including information that would not be eligible for protection under existing patent, trademark, or copyright law. This could include formulae and recipes, proprietary databases, business processes and methods, information about costs, pricing, margins, overhead, manufacturing processes, proprietary computer software programs, customer lists, and strategic plans and marketing programs.
+
+There are three factors that are common to all definitions of a trade secret, a trade secret is information that:The unauthorized acquisition, use, or disclosure of such secret information in a manner contrary to honest commercial practices by others is regarded as an unfair practice and a violation of the trade secret protection.
+
+Rock Steady (album)Rock Steady is the fifth studio album by the American alternative rock band No Doubt. It was released on December 11, 2001. The album was influenced a lot by reggae, dancehall, and electronica, compared to their previous albums. A lot of music critics saw this and gave the album good reviews. For example, "Rolling Stone" magazine put the album as the 316th greatest album of all time in their book "Rolling Stone's List of the 500 Greatest Albums of All Time". It was nominated for Best Pop Vocal Album at the 2003 Grammy Awards. Four singles were released from the album. The first single, "Hey Baby", won the Grammy Award for Best Pop Performance by a Duo or Group with Vocal. The second single was nominated for Best Dance Recording. The third single, "Underneath It All", was released August 15 2002. It won a Grammy Award for Best Pop Performance by a Duo or Group with Vocal at the 2004 Grammy Awards. The album's last single, "Running", was released July 1 2003.
+
+The iTunes version of the album has two extra songs.
+
+Key whiteningIn cryptography, key whitening is a technique used to increase the security of block ciphers. It consists of steps that combine the data with portions of the key (most commonly using a simple XOR) before the first round and after the last round of encryption. DES-X was the first block cipher that used key whitening. Most recently, the Q/ZIN network would implement it as a key feature in their software, hardware online.
+
+ESTREAMeSTREAM is a project to identify "new stream ciphers that might become suitable for widespread adoption", organized by the EU ECRYPT network. It was set up because of the failure of all six stream ciphers submitted to the New European Schemes for Signatures, Integrity and Encryption project. The call for cryptographic primitives was first issued in November 2004. The project was completed in April 2008. The project was divided into separate phases and the project goal was to find algorithms suitable for different kinds of application.
+
+MacGuffin (cipher)In cryptography, MacGuffin is a block cipher created in 1994 by Bruce Schneier and Matt Blaze at a Fast Software Encryption workshop. It was intended as a catalyst for analysis of a new cipher structure, known as Generalized Unbalanced Feistel Networks (GUFNs).
+
+Schneier and Blaze based MacGuffin on DES, their main change was spliting the DES 64 bits data block into two unequal halves in the Feistel network, 48 bits of the 64-bit data block are fed through the round function, whose output is XORed with the other 16 bits of the data block.
+
+MacGuffin's key schedule is a modified version of the encryption algorithm itself. Since MacGuffin is a Feistel network, decryption is easy; simply run the encryption algorithm in reverse.
+
+The algorithm was experimental, intended to explore the security properties of unbalanced Feistel networks. The cryptanalysis proceeded very quickly, so quickly that the cipher was broken using differential cryptanalysis at the same workshop by Vincent Rijmen and Bart Preneel. They also tried attacking MacGuffin with different S-boxes, taken directly from DES. This version was slightly stronger.
+
+Rijmen and Preneel warn that designing an algorithm to resist only known attacks is generally not a good design principle.
+
+Schneier and Blaze recommended using 32 "rounds", and specified MacGuffin with a 128-bit key.
+
+Feistel cipher

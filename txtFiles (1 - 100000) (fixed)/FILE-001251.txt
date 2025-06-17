@@ -1,0 +1,5 @@
+Benzene, also known as benzol, is an organic chemical compound with the formula CH. It is a colorless and flammable liquid with a sweet smell. Benzene molecules are a ring of six carbon atoms that are each bonded to one hydrogen atom. It is an "aromatic" compound, meaning the ring has alternating double bonds.
+
+Benzene is carcinogenic, which means it can cause cancer. It has many real-world uses. It is used as an additive in gasoline, plastics, synthetic rubber, dyes and it is an industrial solvent, which means it can dissolve many other chemical molecules. Benzene is also a natural part of crude oil and is therefore present in gasoline. Many medicines contain parts made from benzene.
+
+Benzene has special properties called aromaticity. All six carbon atoms in the ring are on the same flat plane. To account for all the bonds on a six carbon ring, there must be alternating double carbon bonds (Conjugated system):

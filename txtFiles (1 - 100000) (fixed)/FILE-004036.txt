@@ -1,0 +1,61 @@
+The double-slit experiment has been of great interest to philosophers, because the quantum mechanical behavior it shows has forced them to rethink their ideas about classical concepts such as:Experience in the micro world of sub-atomic particles forces us to re-conceptualise some of our most ordinary ideas.
+
+ZoneAlarmZoneAlarm is a software firewall originally developed by Zone Labs, which was acquired in March 2004 by Check Point. It includes an inbound intrusion detection system, as well as the ability to control which programs can create outbound connections—the latter not available in the Windows XP Service Pack 2 firewall. , the newest release is ZoneAlarm Internet Security Suite 2009. ZoneAlarm was formerly known as Zone Labs, the usage of which is declining.
+
+In ZoneAlarm, program access is controlled by way of "zones", into which all computer networking connections are divided. The "trusted zone" generally includes the user's local area network and can share resources such as files and printers, while the "Internet zone" includes everything not in the trusted zone. The user can specify which "permissions" (trusted zone client, trusted zone server, Internet zone client, Internet zone server) to give to a program before it attempts to access the Internet (e.
+
+g. before running it for the first time) or, alternatively, ZoneAlarm will ask the user to give the program permission on its first access attempt."
+
+True Vector Internet Monitor", also known as "TrueVector Security Engine", is the core of ZoneAlarm. It is a Windows service which runs as "vsmon.
+
+exe" in the processes list. This monitors internet traffic and generates alerts for disallowed access.
+
+Operating System Firewall, OSFirewall for short, is a feature in ZoneAlarm paid versions only. This monitors programs and generates alerts when they perform suspicious behaviors.
+
+SmartDefense Advisor is a service only available in premium versions of ZoneAlarm that helps the user with certain types of alerts. This utilizes a large database of trusted program signatures in order to provide the user with further advice upon requests from the program in regards to allowing or denying access to the Internet.
+
+64-bit versions of the ZoneAlarm product line will be made available for Windows Vista in the first half of 2009.
+
+Antivirus softwareAntivirus software (or anti-virus software) helps prevent access to a computer system by an unwanted computer malware. Viruses, worms or trojan horses can be used by criminals or mischievous people (called 'hackers'). They can steal information or damage system files. If no antivirus software is installed on the device, hackers will be able to access the information in the computer.
+
+There are many different types of antivirus software, and many antivirus programs that can be downloaded for free. These free antiviruses usually have some features missing, and the missing features are only available to those who buy the full version. Even still, many free antiviruses today have great virus scanning capabilities and can give people suitable internet security protections without the need to buying additional protections.
+
+Antivirus software protects computers in many different ways. For starters, most antiviruses offer more than just "virus" protection. They protect computers from all different kinds of malware, like spyware, rootkits, phishing, and ransomware. For this reason, antiviruses are frequently interchangeably referred to as "anti-malware" programs. There are a few more ways that antiviruses protect against malware, but the most used way is through a regular scan of all the data and files on a computer's hard disk. In an antivirus scan, the software will look through every file on a computer, and it will compare each computer file's genetic makeup with the genetic makeup of already-known viruses. If a file has the same genetic makeup as a known piece of malware, it will be flagged as a problem. This is known as signature-based detection, and it is only effective when a malware file has been previously identified and shared with the community of malware researchers who maintain the malware database. Another typical kind of malware detection is through behavior analysis. This is when the antivirus software identifies an abnormal behavior in a computer file or program, causing the antivirus to flag that issue and assess whether or not the abnormality has been caused by malware or by something else.
+
+Most tests and experts claim that while antivirus software is extremely useful in preventing some cyber attacks, but it is unable to all attacks. That is because once a piece of malware has been identified, hackers know that this malware will be added to the list of already-known viruses, and it will no longer be able to pass through most signature-based detection systems. Also, antivirus software is not completely perfect, and there are more new and emerging threats that mostly sneak by a computer's defenses.
+
+Installing more than one antivirus is never a good idea. The two different antivirus software may interfere with each other and causes damage.
+
+Sometimes antivirus software sees viruses in files that do not actually have viruses. This is called a false positive. The antivirus software will may remove files from the computer that do not have to be removed. This may cause other programs to not work correctly.
+
+Tangerine DreamTangerine Dream is a German music band that was started in 1967. The band was very important for the development of what is known as electronic music today. Together with Ash Ra Tempel and Agitation Free they made Berlin School possible. Their early works are usually seen as a type of Krautrock. Many people classify their music as New Age. The band does not see itself in this category though. Their music is sometimes seen as symphonic, or as a kind of ambient music, with a focus on electronically making the sounds used. They often let themselves be influenced by rock music.
+
+Fulton CountyFulton County can be any one of the following eight counties in the United States:SteeplechaseThe steeplechase is a kind of horse racing that is done in the United Kingdom, United States, France, Ireland and Australia. The horses have to jump a number of hurdles (like a fence) that are put up across the track.
+
+Maley &amp; TauntonMaley & Taunton were a tram and tramway engineering company. They were at Wednesfield in Staffordshire, England.
+
+Maley & Taunton sent its products all over the world. Its trucks used in the Lisbon trams and in the UK on the Blackpool tramway. The company principals were Alfred Walter Maley and Edmund MacKenzie Taunton. They held patents for Tram and tramway machinery and equipment.
+
+Their equipment was used on the Manx Electric Railway.
+
+AalstAalst can be any of the following:AlkenAlken, as a person, may refer to:Alken, as a place, may refer to:BeaumontBeaumont can refer to:BeverBever may refer to:BeringenBeringen may mean:BeloeilThe name Beloeil or Belœil is the name of two municipalities. It has also been applied to various events and locations linked with these two municipalities.
+
+The name has been applied to two municipalities. Despite the similarity, it appears the two names have independent linguistic origins.
+
+BreeBree may refer to:Dr. MarioThe gameplay of 1 player "Dr. Mario" is to make sure vitamins of the same color are lined-up together to defeat viruses. There are three colors of vitamins (red, blue, yellow). The goal is to clear all the capsules without going to the top. The player can pick any default level from 0-20, with a set number of viruses to clear depending what level the player is on. The virus count goes as high as 84, and does not increase after you pass level 20. There are over 40 levels in the game.
+
+The player can also set up the skill level and music (Fever, Chill).
+
+The gameplay of 2-Player Vs. is to defeat your opponent by killing all the viruses first, or making your opponent lose. By clearing viruses enough, halves of vitamins fall onto the opponents screen. They must wait until all the vitamins fall down before they make their next move."
+
+Dr. Mario" was rated the 134th best game made on a Nintendo System in Nintendo Power's Top 200 Games list. "Dr. Mario" was also rated by ScrewAttack as the seventh best "Mario" game of all time. Overall, Dr. Mario has scored a press average of 7.
+
+6 on GameStats.
+
+Convergent boundaryA convergent plate boundary is the boundary that occurs when two tectonic plates collide with each other. This causes very large earth movements. Plate collisions can produce earthquakes, volcanoes, the formation of mountains, and other geological events over time. The Himalayas were formed by such a collision. Earthquakes and volcanoes are common near convergent boundaries. This is because of pressure, friction, and plate material melting in the mantle.
+
+The diagram shows some differences between the two types of subduction.
+
+Scottish Tramway and Transport SocietyThe Scottish Tramway and Transport Society was set up on the 27th June 1951. It was called the "Scottish Tramway Museum Society". It had that name until 1983 when it changed to the current one. It was made by people interested in trams and tramways. They wanted to preserve a Glasgow "Room and Kitchen" type single deck tramcar. There is now one at the Glasgow Museum of Transport.
+
+Alexandre GuilmantAlexandre Guilmant (born Boulogne-sur-Mer, 12 March 1837; died Meudon 29 March 1911) was a French organist and composer.

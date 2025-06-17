@@ -1,0 +1,355 @@
+Systems of "degrees" and "removals" are used in the English-speaking world to describe the exact relationship between two cousins (in the broad sense) and the ancestor they have in common.
+
+Systems of electrostatic lenses can be designed in the same way as optical lenses, so electrostatic lenses easily magnify or converge the electron trajectories.
+
+Systems of Enterprise-Resource-Planning (ERP), Supply-Chain-Management (SCM) and Customer-Relationship-Management (CRM) are examples of a VLBA.
+
+Systems of fertility awareness rely on observation of changes in one or more of the primary fertility signs (basal body temperature, cervical mucus, and cervical position), tracking menstrual cycle length and identifying the fertile window based on this information, or both.
+
+Systems of governance and regulation - the arrangements for planning, funding, quality-assuring and regulating learning, and for its local administration - are becoming increasingly differentiated across the four home countries.
+
+Systems of juggling notation have been created to describe juggling patterns and tricks.
+
+Systems of justice among the Bedouin are varied among the tribes.
+
+Systems of measurement have historically been important, regulated and defined for the purposes of science and commerce.
+
+Systems of measurement in modern use include the metric system, the imperial system, and United States customary units.
+
+Systems of musical notation have been in use in China for over two thousand years.
+
+Systems of natural circulation include tornadoes and other weather systems, ocean currents, and household ventilation.
+
+Systems of polynomial equations, which are a special case of non linear systems, better solved by specific solvers.
+
+Systems of Romance, released on 8 September 1978, is the third album by British new wave band Ultravox (an exclamation mark having been dropped from the moniker earlier in the year).
+
+Systems of servitude and slavery were common in parts of Africa, as they were in much of the ancient world.
+
+SystemSoft Alpha Corporation is a Japanese software development company.
+
+Systems often incorporate redundancy or fault tolerance so that they do not fail when an individual component fails.
+
+Systems of the company can manage the patient information efficiently, which help the patients to redesign patient care and other workflow processes.
+
+Systems of this kind, with no mechanical connection, are sometimes called "drive by wire" or "steer by wire", by analogy with aviation's "fly-by-wire".
+
+Systems of this type are also known as Course Management Systems (CMS), Learning Management Systems (LMS), or Virtual Learning Environments (VLE).
+
+Systems of this type are intended to aid retail florists with all aspects of their business.
+
+System software includes software categories such as operating systems, utility software, device drivers, compilers, and linkers.
+
+System software is computer software designed to provide a platform to other software.
+
+System software underlies applications and the programming process itself, and is often developed separately.
+
+System software updates have added various features including a web browser, Adobe Flash Player 6 support, additional codecs for images, audio, and video, PlayStation 3 connectivity, as well as patches against several security exploits, vulnerabilities, and execution of homebrew programs.
+
+Systems-oriented design (S.
+
+O.
+
+D.) uses system thinking in order to capture the complexity of systems addressed in design practice.
+
+Systems Pharmacology (QSP) is a discipline within biomedical research that uses mathematical computer models to characterize biological systems, disease processes and drug pharmacology.
+
+Systems philosophy is a discipline aimed at constructing a new philosophy (in the sense of worldview) by using systems concepts.
+
+Systems Plus College Foundation (SPCF) is a Private, Non-Sectarian school in Angeles City, Pampanga, Philippines.
+
+Systems programmer Bruce Perens went on to co-found the Open Source Initiative.
+
+Systems psychology is a branch of both theoretical psychology and applied psychology that studies human behavior and experience in complex systems.
+
+Systems resources can be moved to a different computer at any time without disrupting any software systems running on them.
+
+Systems science and systemics are names for all research related to systems theory.
+
+Systems science is the interdisciplinary field of science surrounding systems theory, cybernetics, the science of complex systems.
+
+Systems similar to ASIC identification card system exists in Canada (known as Restricted Area Identity Card or RAIC), New Zealand (known as the Airport Identity Card) and in the United States (known as Security identification display area or SIDA).
+
+Systems similar to SIDA identification card system exists in Australia (known as Aviation Security Identification Card or ASIC) and in Canada (known as Restricted Area Identity Card or RAIC).
+
+Systems simulation is a set of techniques that use computers to imitate the operations of various real-world tasks or processes through simulation.
+
+System's successor and younger brother Peter died in 2002.
+
+Systems such as the Dahlgren and Thorne systems (more recent than the Takhtajan and Cronquist systems) refer to this group by the name Liliidae (a name in the rank of subclass).
+
+Systems supposedly allow the gambler to have an edge or an advantage.
+
+SystemStarter is a system program in Mac OS X, started by Mac OS X's BSD-style init prior to Mac OS X v10.
+
+4 and by launchd in Mac OS X v10.
+
+4 and later releases, that starts system processes specified by a set of property lists.
+
+System state can be either discrete or continuous.
+
+Systems that are "complex" have distinct properties that arise from these relationships, such as nonlinearity, emergence, spontaneous order, adaptation, and feedback loops, among others.
+
+Systems that can automate the process of identifying adverse drug events, are currently being used, and are being compared to traditional written reports of such events.
+
+Systems that detect hydrodynamic stimuli are also used for sensing other stimuli.
+
+Systems that do not implement dynamic routing are described as using static routing, where routes through a network are described by fixed paths.
+
+Systems that do not need the duplex capability may instead use simplex communication, in which one device transmits and the others can only "listen".
+
+Systems that do not offer a fallback font typically display black or white rectangles, question marks, the Unicode Replacement Character (U+FFFD), or nothing at all, in place of missing characters.
+
+Systems that do not use training are called "speaker independent" systems.
+
+Systems that generate email backscatter may be listed on various email blacklists and may be in violation of internet service providers' Terms of Service.
+
+Systems that handle strings (trains) of cars to spot them one after another are known as car progressors or car indexers.
+
+Systems that have attempted to formally organize circus skills into pragmatic teaching groupings include the Gurevich system (the basis of the Russian Circus School's curriculum) and the Hovey Burgess system.
+
+Systems that implement ECM generally provide a secure repository for managed items, be they analog or digital, that indexes them.
+
+Systems that implement the 32-bit and 64-bit versions of the Windows API, such as Windows 9x and Windows NT, provide the system time as both SYSTEMTIME, represented as a year/month/day/hour/minute/second/milliseconds value, and FILETIME, represented as a count of the number of 100-nanosecond ticks since 1 January 1601 00:00:00 UT as reckoned in the proleptic Gregorian calendar.
+
+Systems that need external instructions and data to operate require the counterpart of telemetry, telecommand.
+
+Systems that need remote measurement and reporting of information of interest to the system designer or operator require the counterpart of telecommand, telemetry.
+
+Systems that offered this facility included Harris/Concurrent's CX/UX, Convex's Convex/OS, Apollo's Domain/OS (version 10 only), Pyramid's DC/OSx (dropped in SVR4-based version 2), Concurrent's Masscomp/RTU and Siemens' SINIX.
+
+Systems that operate under high vacuum, such as electron microscopes, require electrical connections through the pressure vessel.
+
+Systems that present a voice browser to a user, typically provide interfaces to the public switched telephone network or to a private branch exchange.
+
+Systems that provide calling party camp-on monitor the system facilities until the necessary facilities become available, and then proceed to complete the requested access.
+
+Systems that provide this feature monitor the busy user until the user blocking signal ends, and then proceed to complete the requested access.
+
+Systems that use training are called "speaker dependent".
+
+Systems that use UV, ozone and copper/silver ion disinfection techniques are examples of non natural methods and, by definition, are not Natural Swimming Pools.
+
+Systems that were fielded in those military branches showed at least 52% reduction in fuel consumption and an 80% reduction in generator runtime.
+
+Systems theoretical problems the society focuses on are, for example evolution, innovation, selection, variation, translation, participation and methodological innovation.
+
+Systems theorist Russell L. Ackoff, his co-author Herbert J. Addison and Sally Bibb invented the term in 2006 to describe their series of over 100 distilled observations of bad leadership and the misplaced wisdom that often surrounds management in organizations.
+
+Systems theory, following Talcott Parsons, began as a structural-functionalist theory, that is, social structures were stressed and placed at the center of analysis, and social functions were deduced from these structures.
+
+Systems theory in archeology is the application of systems theory and systems thinking in archeology.
+
+Systems theory in political science is a highly abstract, partly holistic view of politics, influenced by cybernetics.
+
+Systems theory is the interdisciplinary study of systems.
+
+Systems thinking used in conjunction with scenario planning leads to plausible scenario storylines because the causal relationship between factors can be demonstrated .
+
+Systems to deal with paupers were initiated by the Scottish Parliament in the 15th century when a 1424 statute categorized vagrants into those deemed fit for work or those who were not able-bodied; several other ineffective statutes followed until the Scottish Poor Law Act of 1579 was put in place.
+
+Systems to ensure quality are implemented in all aspects of the trial.
+
+Systems Tool Kit (formerly Satellite Tool Kit), often referred to by its initials STK, is a physics-based software package from Analytical Graphics, Inc. that allows engineers and scientists to perform complex analyzes of ground, sea, air, and space assets, and share results in one integrated solution.
+
+System Support Program (SSP) was an operating system for the IBM System/34 and System/36 minicomputers.
+
+System surveillance is the process of monitoring the performance of objects, a population, or process within a system to understand or to achieve a desired standard of performance.
+
+Systems used for many mission critical applications must be real-time, such as for control of fly-by-wire aircraft, or anti-lock brakes on a vehicle, which must produce maximum deceleration but intermittently stop braking to prevent skidding.
+
+Systems using artificial neural networks have been used to great effect.
+
+Systems using electric motors with variable speed controls have been tried on a number of occasions, but have not entered widespread service.
+
+Systems vary widely from country to country, and sometimes from institution to institution.
+
+Systems were installed in the FAA's 20 en route Air Route Traffic Control Centers (ARTCCs), beginning in the late 1960s.
+
+Systems were organized in 1986-87 to coordinate and provide regional career and technical programming among its members, collect and report data to the Illinois State Board of Education, act as the flow-through of federal and state resources, and market career and technology education throughout its region.
+
+Systems were variously destroyed or overwhelmed by loads greater than they were designed to carry, or failed to operate as intended or desired.
+
+Systems where props are used incorporate lighter beams while the prop line allows for structural cross support.
+
+Systems which display a virtual reality indirectly to the user (for example by placing the viewer in a room made up entirely of rear projection screens) do not qualify.
+
+Systems which do not support UDF (such as Windows 98) will only present a HTML page (stored on the disk, outside the UDF part), explaining the problem and linking to a free UDF reader software.
+
+Systems which guide evacuees during an emergency by the emission of pink noise to the exits are often also called "directional sound" systems.
+
+Systems which use device trees usually pass a static device tree (perhaps stored in ROM) to the operating system, but can also generate a device tree in the early stages of booting.
+
+Systems which warn the driver and, if no action is taken, automatically take steps to ensure the vehicle stays in its lane (lane keeping system, LKS) Systems which take over steering, keep the car centered in the lane, and ask the driver to take over in challenging situations.
+
+Systems with a massive number of processors generally take one of two paths: in one approach, e.
+
+g., in grid computing the processing power of a large number of computers in distributed, diverse administrative domains, is opportunistically used whenever a computer is available.
+
+Systems with controlled foreign corporation rules may provide deemed paid credits with respect to deemed income inclusions under such rules.
+
+Systems with de facto second-class citizenry are generally regarded as violating human rights.
+
+Systems with four or more components are less likely to occur.
+
+Systems with higher mass and metallicity tend to have more planets and more massive planets.
+
+Systems with more than adequate RAM for any expected task may want to drastically lower the setting.
+
+Systems without SIMD intrinsics support can also use it as pure ANSI C, forgoing any extra acceleration provided by SIMD multimedia instructions.
+
+Systems with relative values of ascendency plotting below the window tend to fall apart due to lack of significant internal constraints, whereas systems above the window tend to be so "brittle" that they become vulnerable to external perturbations.
+
+Systems with response capabilities are typically referred to as an intrusion prevention system.
+
+System Syn is an electro-industrial and futurepop music group that began in 1997.
+
+SystemTap consists of free and open-source software and includes contributions from Red Hat, IBM, Intel, Hitachi, Oracle, and other community members.
+
+System testing falls within the scope of black-box testing, and as such, should require no knowledge of the inner design of the code or logic.
+
+System time can be converted into calendar time, which is a form more suitable for human comprehension.
+
+System time is measured by a system clock, which is typically implemented as a simple count of the number of ticks that have transpired since some arbitrary starting date, called the epoch.
+
+SystemT is available as part of IBM BigInsights , and has also been taught in multiple universities around the globe.
+
+System under test (SUT) refers to a system that is being tested for correct operation.
+
+System up-times of more than 10 years have been reported, and features such as rolling upgrades and clustering allow clustered applications and data to remain continuously accessible while operating system software and hardware maintenance and upgrades are performed, or when a whole data center is destroyed.
+
+SystemVerilog attempts to combine HDL and HVL constructs into a single standard.
+
+SystemVerilog, OpenVera, e, and SystemC are the most commonly used HVLs.
+
+System V Release 4, or SVR4, was commercially the most successful version, being the result of an effort, marketed as "Unix System Unification", which solicited the collaboration of the major Unix vendors.
+
+System was a groundbreaking form of distance education using interactive television that drew national media attention.
+
+System, which is still the torch-bearer as the main Marvel CCG.
+
+System-wide visitation in 2016 was 7,500,000.
+
+SystemWorks was discontinued in 2009, allowing Norton Utilities to return as Symantec's main utility suite.
+
+SystemWorks was innovative in that it combined several applications into an all-in-one software for managing computer health, thus saving significant costs and time often spent on using different unrelated programs.
+
+SystemWorks, which was introduced in 1998 has since inspired a host of competitors such as iolo System Mechanic, McAfee Nuts And Bolts, Badosoft First Aid and many others.
+
+System x is a line of x86 servers produced by IBM, and later Lenovo.
+
+System X was the 2nd national digital telephone exchange system to be used in the United Kingdom.
+
+System z provides a high level of security and massive workload handling, assuring the execution of its administrative tasks and guaranteeing an enduring connectivity to a huge number of clients.
+
+Systena blanda, the palestriped flea beetle, is a species of flea beetle in the family Chrysomelidae.
+
+Systena corni, the dogwood systena, is a species of flea beetle in the family Chrysomelidae.
+
+Systena elongata, the elongate flea beetle, is a species of flea beetle in the family Chrysomelidae.
+
+Systena frontalis, the red-headed flea beetle, is a species of flea beetle in the family Chrysomelidae.
+
+Systena gracilenta is a species of flea beetle in the family Chrysomelidae.
+
+Systena hudsonias, the black-headed flea beetle, is a species of flea beetle in the family Chrysomelidae.
+
+Systena is a genus of flea beetles in the family Chrysomelidae.
+
+Systena laevis is a species of flea beetle in the family Chrysomelidae.
+
+Systena marginalis, the margined systena, is a species of flea beetle in the family Chrysomelidae.
+
+Systena pallicornis is a species of flea beetle in the family Chrysomelidae.
+
+Systena sexnotata is a species of flea beetle in the family Chrysomelidae.
+
+Systenita is a genus of spiders in the Pholcidae family.
+
+Systenites is an extinct genus of flies in the family Dolichopodidae, known from Baltic amber.
+
+Systenocentrus is a genus of harvestmen in the family Sclerosomatidae.
+
+Systenoides is a genus of flies in the family Dolichopodidae.
+
+Systenoplacis is a genus of spiders in the Zodariidae family.
+
+Systenotheca is a monotypic plant genus in the buckwheat family containing the single species Systenotheca vortriedei, which is known by the common name Vortriede's spineflower.
+
+Systenus is a genus of fly in the family Dolichopodidae.
+
+Systers list members also sponsor the Systers' Pass-it-on grant, which awards money to established women in technology fields who help support upcoming women in technology.
+
+Systers members and Google Summer of Code participants customized the code to meet Systers' needs.
+
+Systers was credited as influential in persuading Mattel to remove the phrase.
+
+Systers, which was initiated by Ellis and 12 other female computer scientists who met at a Symposium on Operating Systems Principles (SOSP), has since grown to over 3000 members.
+
+SystmOne is a centrally hosted clinical computer system developed by Horsforth-based TPP (The Phoenix Partnership).
+
+Systoechus candidulus is a species of bee fly in the family Bombyliidae.
+
+Systoechus is a genus of bee flies in the family Bombyliidae.
+
+Systoechus oreas is a species of bee fly in the family Bombyliidae.
+
+Systoechus solitus is a species of bee fly in the family Bombyliidae.
+
+Systoechus vulgaris, the grasshopper bee fly, is a species of bee fly in the family Bombyliidae.
+
+Systolic heart failure involves a loss of effective actin-myosin cross bridges in the myocytes (heart muscle cells) of the left ventricle, which leads to a decreased ability of the heart to move blood through the body.
+
+Systolic heart murmurs are heart murmurs heard during systole.
+
+Systoloneura is a genus of moths in the family Gracillariidae.
+
+Systoloneura randiae is a moth of the Gracillariidae family.
+
+Systolosoma breve is a species of beetle in the genus Systolosoma.
+
+Systolosoma is a genus of beetles in the family Trachypachidae, containing two species, Systolosoma breve and Systolosoma lateritium.
+
+Systolosoma lateritium is a species of beetle in the genus Systolosoma.
+
+Systomus is a genus of fish in the family Cyprinidae native to tropical Asia.
+
+Systomus sewelli is a species of ray-finned fish in the genus Systomus.
+
+Systomus spilurus is a species of cyprinid fish endemic to Sri Lanka.
+
+Systomus subnasutus is a species of freshwater ray-finned fish from the family Cyprinidae which is found in India.
+
+Systomus timbiri, also known as Timbiri barb, is a species of cyprinid fish endemic to Sri Lanka.
+
+Syston Rugby Football Club is an English rugby union team based in Queniborough, Leicestershire.
+
+Syston Sports Stadium also known as Syston Greyhound Stadium was a greyhound racing and Motorcycle speedway track located at Central Avenue and East Avenue, off the Melton Road in Syston, Leicestershire.
+
+SYSTOR covers all aspects of Computer Systems technology.
+
+Systrace is a computer security utility which limits an application's access to the system by enforcing access policies for system calls.
+
+Systrace is particularly useful when running untrusted or binary-only applications and provides facilities for privilege elevation on a system call basis, helping to eliminate the need for potentially dangerous setuid programs.
+
+Systrace supports 64-bit Linux 2.
+
+6.
+
+1 via kernel patch.
+
+Systrace used to be integrated into OpenBSD, but was removed in April 2016 It is available for Linux and Mac OS X, although the OS X port is currently unmaintained.
+
+SYSTRA is an international engineering and consulting group specializing in rail (passenger and freight) and public transport.
+
+SYSTRA is present in 78 countries worldwide.
+
+SYSTRAN, founded by Dr. Peter Toma in 1968, is one of the oldest machine translation companies.
+
+SYSTRAN is used by the Dashboard Translation widget in OS X. Commercial versions of SYSTRAN can run on Microsoft Windows (including Windows Mobile), Linux, and Solaris.
+
+SYSTRAN provides the technology for Yahoo!
+
+Systremma is a genus of moths of the Noctuidae family.
+
+Systrip gathers bioinformatics and graph theoretical algorithms that can be assembled in different ways to help biologists in their visual mining process.

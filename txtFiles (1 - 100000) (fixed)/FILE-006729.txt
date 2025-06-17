@@ -1,0 +1,121 @@
+There are some problems where greedy algorithms do not produce the best possible solution. In such cases, they often produce the worst possible one. Again look at the coin-changing example above, and imagine that there are coins for 25 cent, 10 cent and 4 cent. Now imagine that the sum of 41 cent needs to be changed. A greedy algorithm would pick 25 cent, 10 cent, and 4 cent, for a total of 39 cent. The algorithm is then stuck, because the remaining 2 cent cannot be changed. One possible way of solving the is to use the 25 cent coin, and four coins of 4 cent.
+
+1968 United States presidential electionThe 1968 United States presidential election happened on November 5, 1968. Richard Nixon, the Republican candidate and former vice president of the United States, won the election. He defeated the incumbent vice president, Hubert Humphrey, the Incumbent Vice President and a Democrat, and George Wallace, the Governor of Alabama, who ran as a member of the American Independent PartyIncumbent United States President Lyndon B. Johnson was able to run, but decided against it. On March 31, 1968, Johnson withdrew his nomination and he said, "I shall not seek, and I will not accept, the nomination of my party for another term as your President".
+
+The incumbent Attorney General Robert F. Kennedy, brother of former United States President John F. Kennedy was a serious presidential candidate before his assassination on June 5, 1968 by Sirhan Sirhan in Los Angeles after winning the California and South Dakota primaries for the Democratic nomination for President of the United States.
+
+Richard Nixon won the election by 301 electoral votes. Hubert Humphrey got 191 electoral votes. George Wallace received 46 electoral votes and a faithless elector in North Carolina voted Wallace and running mate Curtis LeMay.
+
+Humphrey did not win the south because he was very liberal and favored civil rights. The only southern state he won was Texas (which he won narrowly).
+
+American Independent PartyAmerican Independent Party is a right-wing political party of the United States founded in California in 1967 by Bill and Eileen Shearer. It is most notable for George Wallace running in the 1968 US Election. That year, it was made up of Democrats opposed to the ending of racial segregation and was most successful in Southern states (Wallace was governor of the Southern state of Alabama).
+
+Over time, the party became closer to the conservative movement and it renounced its policy against racial equality. Today, the party still exists but many of its members have left: most of the earlier members returned to the Democratic Party after the 1969 election and its later members have moved to the Constitution Party. The AIP has endorsed the Constitution Party nominee for President in recent years.
+
+In 1967, the AIP was founded by Bill Shearer and his wife, Eileen Knowland Shearer. It nominated George C. Wallace (Democrat) as its presidential candidate and retired U.
+
+S. Air Force General Curtis E. LeMay as the vice-presidential candidate. Wallace ran on every state ballot in the election, though he did not represent the American Independent Party in all fifty states: in Connecticut, for instance, he was listed on the ballot as the nominee of the "George Wallace Party." The Wallace/LeMay ticket received 13.
+
+5 percent of the popular vote and 46 electoral votes from the states of Arkansas, Louisiana, Mississippi, Georgia, and Alabama. No third-party candidate has won more than one electoral vote since the 1968 election.
+
+Since the fracture of the American Independent Party between the King and Noonan factions, control of the State Party, and thus the ballot line, has been in the hands of the Noonan faction. Attempts to nominate Chuck Baldwin (the 2008 Constitution nominee) or Virgil Goode (the 2012 Constitution nominee) were unsuccessful, as were their independent efforts to make it onto the California presidential ballot.
+
+Zen at WarZen at War is a 1997 book by Brian Daizen Victoria. It reveals the close involvement of Zen Buddhist teachers with Japanese militarism from the Meiji period until WWII.
+
+Sunda clouded leopardThe Sunda clouded leopard ("Neofelis diardi"), or Bornean clouded leopard, is found on Sumatra and Borneo. It is a genetically distinct species, related to the Clouded leopard. It has now been filmed.
+
+The Sunda clouded leopard is the largest cat in Borneo, weighing around 12 to 25 kg (26 to 55 lb). The canine teeth are two inches long, which, in proportion, are longer than other living felines. Its tail, which may be as long as its body, helps it balance when running and jumping.
+
+In Borneo, they occur in lowland rainforest. In Sumatra, they appear to live more in hilly, montane areas. It is not known if there are still Sunda clouded leopards on the small Batu islands close to Sumatra.
+
+In December 2006, the genus Neofelis was reclassified into two distinct species:The Sunda clouded leopard in each island is different enough to be a separate subspecies.
+
+Dynamic programmingDynamic programming is a method of solving problems, which is used in computer science, mathematics and economics. Using this method, a complex problem is split into simpler problems, which are then solved. At the end, the solutions of the simpler problems are used to find the solution of the original complex problem.
+
+Dynamic programming can be used in cases where it is possible to split a problem into smaller problems, which are all quite similar.
+
+Richard Bellman, a US mathematician, first used the term in the 1940s when he wanted to solve problems in the field of Control theory. He also stated what is now known as :KarjalaKarjala is Finnish brand of beer. Sortavalan Panimo made the beer from 1932 to 1944. In 1948, it started to be made again. It is most popular in Finland.
+
+InfrasoundInfrasound is a type of sound with a frequency lower than humans can hear. This frequency is lower than 20 hertz. When the frequency is lower but the volume is loud enough, humans can feel the vibrations but cannot hear the infrasound. Younger people have the ability to hear lower and higher frequencies. Some animals including whales and elephants can communicate long distances by infrasound.
+
+Gorgias (Plato)Gorgias is a book of dialogue by Plato, written about the nature of rhetoric, virtue and justice.
+
+The book is created by dialogues among persons as follow;In the preliminary discussion, Socrates and Gorgias agree that "persuasion is the chief end (goal) of rhetoric".
+
+Socrates gets Gorgias to agree that there is a difference between belief and knowledge. A belief can be true or false, but there is no such thing as false knowledge (the word implies its correctness). The critical point in the dialogue is now reached:"Socrates": Shall we then assume two sorts of persuasion, one which is the source of belief without knowledge, as the other is of knowledge?"
+
+Gorgias": By all means."
+
+Socrates": And which sort of persuasion does rhetoric create in courts of law and other assemblies... the sort of persuasion which gives belief without knowledge, or that which gives knowledge?"
+
+Gorgias": Clearly, Socrates, that which only gives belief."
+
+Socrates": Then rhetoric, as would appear, is the artificer of a persuasion which creates belief about the just and unjust, but gives no instruction about them?
+
+A bit later, the dialogue changes direction:"Polus": I will ask; and do you answer me, Socrates, the same question which Gorgias, as you suppose, is unable to answer: What is rhetoric?"
+
+Socrates": I should say a sort of experience."
+
+Socrates": An experience in producing a sort of delight and gratification, Polus."
+
+Polus": Then are cookery and rhetoric the same?"
+
+Socrates": No, they are only different parts of the same profession.
+
+The dialogue continues. Socrates drives it towards a contrast between true knowledge produced by the art of philosophy, and the practical tricks of rhetoric. Rhetoric is pleasing and effective, but not an art, and is closer to flattery.
+
+Socrates says that virtue is more important than rhetoric. Rhetoric should depend on philosophy. Philosophy is an art, but rhetoric is just a skill.
+
+So what started as an academic discussion ends as a very direct attack on the way law and politics were done in Athens.
+
+Full-range speakerFull-range speaker is a type of loudspeaker that can be used to play sound at all or almost all frequencies that humans are able to hear. The frequency range can be anywhere from 55 to 17500 Hertz. The benefit is that all sound comes from the same point besides multi-way speakers. Also, audio crossover can be more simple.
+
+Concert bandA concert band is an ensemble for playing instruments using wind. The main constituents arewoodwind instrument family, brass instrument family and percussion instrument family. Sometimes, members of the string instrument family such as the cello and the double bass can be included.
+
+There are many other names for a concert band like wind band, symphonic band, symphonic winds, wind orchestra, wind symphony, wind ensemble, and symphonic wind ensemble. Many people confuse the concert band with brass band or marching band. The differences between them come from the orchestration (how the music is written for the different parts).
+
+The songs written for the concert band are much more easy to listen because of its repertoires. The repertoires are not only about the orchestral composition. Light music, jazz, march and popular tunes are also played. Even though people don't have special knowledge about it, anyone can enjoy the concert band music. It is highly acclaimed for both its quality and popularity. As the arrangement of concert band music is completed in the 20th century, its modern and dynamic style appeals general public. Plus, many conductors conduct concert bands because they are attracted by its unique orchestration.
+
+A concert band can be divided into four groups; Professional bands, Military bands, School bands, and Community bands. Except for the professional bands, others are named for the location where the performers play.
+
+Performers playing in professional bands for pay consider the band performance as their job. There are many professional bands in the world, such as Tokyo Kosei Wind Orchestra and Dallas Wind Symphony.
+
+A concert band in the military is called a military band. Because the repertoires are dynamic and active, concert bands usually perform in the army. Not only the military bands but also marching bands with brass often used for marching there.
+
+School bands refer to the groups consisting student players in school. In elementary, middle, high school and university, there are many students playing wind instruments for a concert or event. People included here also can be divided into two groups. Playing them as their hobbies or studying them as their majors.
+
+A community band is a community-based ensemble. It is sponsored by a town or city. Some members might be professional players but the others may not be.
+
+A wind instrument's sound is produced by the vibration of a reed in the mouthpiece, like in a bassoon, clarinet, oboe, or saxophone, or by passing air over the mouthpiece, as a flute.
+
+A brass instrument is defined as an “aerophone,” which means it is an instrument where the musician must blow air into the instrument. The musician produces the tone by buzzing their lips into what is generally a cup-shaped mouthpiece. It doesn’t mean that the instrument is necessarily made of brass, since some instruments that are made of other metals like wood, horn, or even animal bone are included in the family of brass instruments. Other instruments that are made of brass or metals such as the flute or saxophone are not brass instruments.
+
+A percussion instrument is an instrument, such as a drum, xylophone, piano, or marimba, in which sound is produced by one object striking another or by being scraped or shaken.
+
+Masato NakaeMasato Nakae (December 20, 1917-September 4, 1998) was a United States Army soldier. He received the Medal of Honor because of his actions in World War II.
+
+Nakae was born in Hawaii to Japanese immigrant parents. He is a "Nisei", which means that he is a second generation Japanese-American.
+
+Two months after the Japanese attack on Pearl Harbor, Nakae joined the US Army in February 1942.
+
+Nakae volunteered to be part of the all-"Nisei" 100th Infantry Battalion. This army unit was mostly made up of Japanese Americans from Hawaii and the mainland.
+
+For his actions in August 1944, Nakae was awarded the Army's second-highest decoration, the Distinguished Service Cross (DSC). In the 1990s, there was a review of service records of Asian Americans who received the DSC during World War II. Nakae's award was upgraded to the Medal of Honor. In a ceremony at the White House on June 21, 2000, his family was presented with his medal by President Bill Clinton. Twenty-one other Asian Americans also received the medal during the ceremony, but only seven of them were still alive.
+
+Nakae's Medal of Honor recognized his conduct in fighting in northern Italy in 1944. He held off an enemy attack and continued to fight after being wounded.
+
+The words of Nakae's citation explain:Private Masato Nakae distinguished himself by extraordinary heroism in action on August 19, 1944, near Pisa, Italy. When his submachine gun was damaged by a shell fragment during a fierce attack by a superior enemy force, Private Nakae quickly picked up his wounded comrade’s M-1 rifle and fired rifle grenades at the steadily advancing enemy. As the hostile force continued to close in on his position, Private Nakae threw six grenades and forced them to withdraw. During a concentrated enemy mortar barrage that preceded the next assault by the enemy force, a mortar shell fragment seriously wounded Private Nakae. Despite his injury, he refused to surrender his position and continued firing at the advancing enemy. By inflicting heavy casualties on the enemy force, he finally succeeded in breaking up the attack and caused the enemy to withdraw. Private Nakae’s extraordinary heroism and devotion to duty are in keeping with the highest traditions of military service and reflect great credit on him, his unit, and the United States Army.
+
+MaeshoweMaeshowe, also known as Orkhaugr, a burial mound in Orkney, Scotland, with underground passage graves. It was built during the Neolithic period, about 3000 years ago. It has been included in the World Heritage Site, Heart of Neolithic Orkney.
+
+The mound used to be taller, with a depression in the top, looking like a small volcano. It measured 11 meters in height and had a diameter of 30 meters. This was changed in 1861 when the mound was dug into by archaeologist James Farrer.
+
+It was built on a raised level area and surrounded by a ditch and a raised bank. It may have been built on top of an earlier structure. Research shows that the ditch used to be filled with water, and there was a large stone circle around the mound. The grave itself is a long narrow entrance opening into a large chamber. There are three smaller rooms which open into the main chamber. It has been built to line up with the sun at the Winter Solstice.
+
+Maeshowe had been dug up in the 12th century by the Vikings. It has many Norse carvings on the rocks.
+
+Clare Hall, CambridgeClare Hall is one of the colleges of the University of Cambridge, England. It was built in 1966. It has about 145 postgraduate students (students that already have a degree). It allows both men and women but no undergraduate students. It is one of the smallest colleges but has 125 Fellows (teachers), making the ratio fellows/students very high.
+
+The college was built by Clare College to make it easier for people who are not students anymore to come back to university and do further education. This is why the college has many facilities for families and for sports.
+
+Corpus Christi College, Cambridge

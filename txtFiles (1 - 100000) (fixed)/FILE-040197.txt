@@ -1,0 +1,145 @@
+Internet Explorer 9 or IE9 (officially Windows Internet Explorer 9) is a version of the Internet Explorer web browser from Microsoft.
+
+Internet Explorer 9 supports several CSS 3 properties, embedded ICC v2 or v4 color profiles support via Windows Color System, and has improved JavaScript performance.
+
+Internet Explorer allows users to preview the subscribed Web Slices in a fly-out preview window.
+
+Internet Explorer for Mac (also referred to as Internet Explorer for Macintosh, Internet Explorer Macintosh Edition, Internet Explorer:mac or IE:mac) is an unsupported inactive proprietary web browser developed by Microsoft for the Macintosh platform.
+
+Internet Explorer for Mac is not affected by this non-standard behavior.
+
+Internet Explorer (formerly Microsoft Internet Explorer and Windows Internet Explorer, commonly abbreviated IE or MSIE) is a series of graphical web browsers developed by Microsoft and included as part of the Microsoft Windows line of operating systems, starting in 1995.
+
+Internet Explorer for UNIX is a discontinued graphical web browser that was available free of charge and produced by Microsoft for use in the X Window System on Solaris or HP-UX.
+
+Internet Explorer has supported other operating systems with Internet Explorer for Mac (using Motorola 68020+, PowerPC) and Internet Explorer for UNIX (Solaris using SPARC and HP-UX using PA-RISC), which have been discontinued.
+
+Internet Explorer Mobile 11, the last version that was supported, is based on the desktop version of Internet Explorer 11 and came with Windows Phone 8.
+
+1.
+
+Internet Explorer Mobile (formerly named Pocket Internet Explorer; commonly abbreviated to IE Mobile) is a discontinued mobile browser developed by Microsoft, based on versions of the Trident layout engine.
+
+Internet Explorer officially supports VP8 with a separate codec.
+
+Internet Explorer supported SGC starting with patched versions of Internet Explorer 3.
+
+Internet Explorer versions 6 through 11 are supported.
+
+Internet facilities are restricted to Mulungushi University Lecturers, Researchers and registered Students.
+
+Internet fax, e-fax, or online fax is the use of the internet and internet protocols to send a fax (facsimile), rather than using a standard telephone connection and a fax machine.
+
+Internet Fiber Channel Protocol (iFCP) is a gateway-to-gateway network protocol standard that provides Fiber Channel fabric functionality to Fiber Channel devices over an IP network.
+
+Internet forums and the advent of social media have provided consumers with a new way to submit complaints.
+
+Internet forums are an important aspect of many clubs, allowing members to easily share information and experiences.
+
+Internet forums are a replacement for traditional bulletin boards.
+
+Internet forums in general and on complaint websites have made it possible for individual consumers to hold large corporations accountable in a public forum.
+
+Internet fraud can occur even if partly based on the use of internet services and is mostly or completely based on the use of the internet.
+
+Internet fraud is a type of fraud which makes use of the Internet.
+
+Internet genre refers to a type of genre explored in multimedia Studies.
+
+Internet geography, also called cybergeography, is a subdiscipline of geography that studies the spatial organization of the Internet, from social, economic, cultural, and technological perspectives.
+
+Internet Gold Golden Lines (Internet Gold) is a principal communication service group in Israel.
+
+Internet governance is the development and application of shared principles, norms, rules, decision-making procedures, and programs that shape the evolution and use of the Internet.
+
+Internet governance should not be confused with e-governance, which refers to governments' use of technology to carry out their governing duties.
+
+Internet Group do Brasil (iG) is a Brazilian Internet service provider that owns and operates web portals and provides a variety of services including online banking, shopping, stock information, chat rooms, and free e-mail.
+
+Internet groups such as Atheist and Agnostic Alliance Pakistan website have emerged which received over 17,000 hits within 48 hours of their launch.
+
+Internet Haganah also is an activist organization which attempts to convince businesses not to provide web-based services to such groups, and collects intelligence to store and pass on to government organizations.
+
+Internet Haganah is a "global intelligence network dedicated to confronting Internet activities by Islamists and their supporters, enablers and apologists."
+
+Internet hosts and other IP hosts have one or more IP addresses assigned to their network interfaces.
+
+Internet hunting is the practice of hunting via remotely controlled firearms that can be aimed and shot using online webcams.
+
+Internet Icon is an American film-making competition reality television show to find "the next Internet icon".
+
+Internet Icon was hosted by Chester See in season one and Chris Riedell in season two, and judged mainly by Ryan Higa and Christine Lakin in season one, with the addition of Timothy DeLaGhetto in the second season.
+
+Internet identity (IID), also online identity or internet persona, is a social identity that an Internet user establishes in online communities and websites.
+
+Internet-in-a-Box is a low-cost digital library, consisting of a wireless access point with storage, which users nearby can connect to.
+
+Internet in Christmas Island is supplied by SpeedCast.
+
+Internet Infidels, Inc. is a Colorado Springs, Colorado-based nonprofit educational organization founded in 1995 by Jeffery Jay Lowder and Brett Lemoine.
+
+Internet Infidels maintains a website of educational resources about agnosticism, atheism, freethought, humanism, secularism, and other nontheistic viewpoints particularly relevant to nonbelievers and skeptics of the paranormal.
+
+Internet Information Services' central metabase is eliminated in IIS version 7 in favor of a set of XML configuration files that are located centrally in the Machine.
+
+config and ApplicationHost.
+
+config files and within the web site's infrastructure using web.
+
+config files.
+
+Internet Information Services (IIS, formerly Internet Information Server) is an extensible web server created by Microsoft for use with the Windows NT family.
+
+Internet in the Czech Republic and Internet access are largely provided by the private sector and is available in a variety of forms, using a variety of technologies, at a wide range of speeds and costs.
+
+Internet in the Philippines first became available on March 29, 1994, with the Philippine Network Foundation (PHNet) connecting the country and its people to Sprint in the United States via a 64 kbit/s link.
+
+Internet in Tokelau is provided by Teletok, the government-owned communications corporation, and Taloha Inc., a private company formed by the Dutch Joost Zuurbier.
+
+Internet in Vietnam officially commenced on November 19, 1997, when Vietnam connected to the global Internet.
+
+Internet is not the first technology to result in time displacement.
+
+Internet is not widely available, and banking is carried out by local cooperatives.
+
+Internet Journal is a weekly newspaper published in Burma.
+
+Internet Leaks is the second EP released by American comedy musician "Weird Al" Yankovic.
+
+Internet Life was a monthly magazine published by Ziff Davis, which licensed the name from Yahoo!
+
+Internet linguistics is a domain of linguistics advocated by the English linguist David Crystal.
+
+Internet Listing Display (ILD) was a set of rules put forth by the National Association of Realtors in 2005 to regulate how homes and properties can be displayed on internet sites.
+
+Internet Low Bitrate Codec (iLBC) is an open source royalty-free narrowband speech audio coding format codec and reference implementation, developed by Global IP Solutions (GIPS) formerly Global IP Sound (acquired by Google Inc in 2011).
+
+Internet Magazine was a monthly print title launched in October 1994 by the UK publishing house, Emap.
+
+Internet Mail 2000 is an Internet mail architecture proposed by Daniel J. Bernstein (and in subsequent years separately proposed by several others), designed with the precept that the initial storage of mail messages be the responsibility of the sender, and not of the recipient as it is with the SMTP-based Internet mail architecture.
+
+Internet Mail is an e-mail client used on the Microsoft Windows operating systems and was developed by the Japanese company RimArts from Matsudo City, Chiba.
+
+Internet Map Server (IMS) provide maps through the Internet usually as images.
+
+Internet marketing executive Scott Delea obtained [1,336] votes.
+
+Internet Matters is a nonprofit organization, based in London, England.
+
+Internet media are growing in popularity due to the wide range of available opinions and viewpoints, lack of censorship and diverse content.
+
+Internet media comprise such services as email, social media sites, websites, and Internet-based radio and television.
+
+Internet-mediated research (IMR) is the practice of gathering medical, biomedical or health related research data via the internet directly from research subjects.
+
+Internet media type (MIME type) text/css is registered for use with CSS by RFC 2318 (March 1998).
+
+Internet Message Encapsulation (DIME) was a Microsoft-proposed internet standard in the early 2000s for the streaming of binary and other encapsulated data over the Internet.
+
+Internet Messaging Program is free and open-source software subject to the terms of the GNU General Public License (GPL).
+
+Internet Miniature Pinscher Service (IMPS) is a non-profit animal rescue organization based in United States of America.
+
+Internet Miniature Pinscher Service (IMPS) is the largest single breed rescue service in America.
+
+Internet Mix or IMIX refers to typical Internet traffic passing some network equipment such as routers, switches or firewalls.

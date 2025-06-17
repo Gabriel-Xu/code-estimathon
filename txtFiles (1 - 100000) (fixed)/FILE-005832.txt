@@ -1,0 +1,67 @@
+Paul John Flory (June 19, 1910 – September 9, 1985) was an American chemist and Nobel laureate. He worked in the field of polymers, or macromolecules. He was a leading pioneer in understanding how polymers dissolve in solutions. He won the Nobel Prize in Chemistry in 1974 "for his fundamental achievements, both theoretical and experimental, in the physical chemistry of macromolecules."
+
+He graduated from Elgin High School in Elgin, Illinois in 1927. Flory received a bachelor's degree from Manchester College (Indiana) in 1931 and a Ph.
+
+D. from the Ohio State University in 1934. His first position was at DuPont with Wallace Carothers.
+
+Flory's earliest work in polymer science was in the area of polymerization kinetics at the DuPont Experimental station. Most chemists studying condensation polymerization believed that the reactivity of the end group decreased as the macromolecule grew. Flory argued that the reactivity was independent of the polymer's size. He showed that the number of polymer chains present decreased with size exponentially.
+
+Flory introduced the important concept of chain transfer to the study of addition polymerization. This improved chemists' understanding of the kinetic equations. It also helped chemists to understand the distribution of the polymer sizes.
+
+In 1938, after Carothers' death, Flory moved to the Basic Science Research Laboratory at the University of Cincinnati. There he developed a mathematical theory for the polymerization of compounds with more than two functional groups. He also developed the theory of polymer networks or gels.
+
+In 1940, he joined the Linden, NJ laboratory of the Standard Oil Development Company. He developed a statistical mechanical theory for polymer mixtures there.
+
+In 1943, he left to join the research laboratories of Goodyear Tire and Rubber Company as head of a group on polymer fundamentals. In the Spring of 1948 Peter Debye, then chairman of the chemistry department at Cornell University, invited Flory to give the annual Baker Lectures. He then was offered a position with the faculty in the Fall of the same year. At Cornell, Flory expanded and refined his Baker Lectures into his best work (magnum opus), "Principles of Polymer Chemistry" which was published in 1953 by Cornell University Press. This quickly became a standard text for all workers in the field of polymers, and is still widely used to this day.
+
+Flory introduced the concept of excluded volume to polymers. (Werner Kuhn had already invented the term in 1934 for molecules in general.) "Excluded volume" refers to the idea that one part of a long chain molecule can not occupy space that is already occupied by another part of the same molecule. Excluded volume causes the ends of a polymer chain in a solution to be further apart (on average) than they would be were there no excluded volume. The recognition that excluded volume was an important factor in analyzing long-chain molecules in solutions provided an important conceptual breakthrough. Excluded volume explained several puzzling experimental results of that time. It also led to the concept of the theta point, the set of conditions at which an experiment can be conducted that causes the excluded volume effect to be neutralized. At the theta point, the chain reverts to ideal chain characteristics – the long-range interactions coming from the excluded volume are eliminated. This allows experimenters to more easily measure short-range features such as structural geometry, bond rotation potentials, and steric interactions between near-neighboring groups. Flory taught another advantage of performing the experiment at the theta point: the chain dimension in polymer melts would have the size computed for a chain in ideal solution. This works because excluded volume interactions are neutralized at the theta point.
+
+He also invented an original method for computing the probable size of a polymer in good solution. He invented the Flory-Huggins Solution Theory. He derived the Flory exponent, which helps characterize the movement of polymers in solution.
+
+Flory won the Perkin Medal and the Priestley Medal.
+
+In modeling the position vectors of atoms in macromolecules it is often necessary to convert from Cartesian coordinates (x,y,z) to generalized coordinates. The Flory convention for defining the variables involved is usually employed. For an example, a peptide bond can be described by the x,y,z positions of every atom in this bond or the Flory convention can be used. Here one must know the bond lengths formula_1, bond angles formula_2, and the dihedral angles formula_3. A three-dimensional structure can be described using the Flory convention by applying a vector conversion from the Cartesian coordinates to the generalized coordinates.
+
+He became a professor at Stanford University in 1961. He became the Jackson-Wood Professor there in 1966. He retired from Stanford in 1975. He was awarded the Nobel Prize in Chemistry in 1974 "for his fundamental achievements, both theoretical and experimental, in the physical chemistry of macromolecules." He remained active after his retirement, and consulted for IBM for some years. He and his wife Emily Catherine Tabor (now dead) had three children, Susan, Melinda and John. Susan has two children, Elizabeth and Mary. Elizabeth has three children, Katy Greer, Margaret Greer, and Sam Greer. Paul J Flory died of a heart attack in Big Sur, California in 1985.
+
+Alpine butterfly knotThe alpine butterfly loop is a knot used to form a loop in the middle of a rope. Once tied, the loop will not shift up and down the rope. It is good for adding a stationary loop in a continuous piece of rope, without bending the rope.
+
+List of knotsThis page is a list of knots.
+
+Reef knotThe reef knot (or square knot) is a knot. It is often used to tie two ropes together. It is used to “reef” sails on sailboats. That is, reduce the sail area when the wind gets stronger.
+
+Sheet bendThe sheet bend is a knot made to join two ends of rope together. Holds well when the ropes are different diameters.
+
+Extinction (astronomy)Interstellar extinction is when the electromagnetic radiation of an astronomical object is blocked and/or scattered by other astronomical objects and cosmic dust.
+
+Also known as galactic extinction when the object is in the Milky Way.
+
+Astronomical objectAn astronomical object is any natural body that floats in space. For example, stars, planets, meteoroids, moons, and other space objects.
+
+Masala (movie genre)Masala (; ) is a word used in South East Asia, mainly India, Pakistan and Bangladesh. It is used for a style of Indian movies where there is a mix of various styles of movies in one movie. For example, a movie can show action, comedy, drama, and romance. This movie style is used very often in South Indian films as it helps make the movies appeal to more viewers. Famous masala directors include S. Shankar, Perarasu and K. S. Ravikumar.
+
+Sharaf Khan BidlisiSharaf Khan Bidlisi (, 1543 1603), was a Kurdish prince and historian. In 1597 he wrote a book on Kurdish history, "Sharafnama".
+
+Informal economyThe informal economy is that part of economy which is not reported in official statistics such as the gross domestic product of a country. The informal economy is not taxed, and includes the black market. In developing countries over 70% of the people work in this form of economy. They are self-employed, because it is difficult to find an employer to hire them. People working in this form of economy have no social benefits or social security, which are usually only given by the state to those who have made tax contributions.
+
+Usually, most people working in this form of economy are women; they work in the most erratic and corrupt segments of the job market.
+
+Sixty percent of female workers in developing countries are employed by the informal sector. There are two main reasons why this is the case: First, the kind of employment that is available caters mostly to women. Secondly, most women either work from home, because they also have to take care of children, or they work as street vendors; both of these kinds of work are classified in the informal sector.
+
+What is more, most people at the top positions of the sector are men, and most people in the bottom positions are women.
+
+For example, very few women are employers who hire others and more women are likely to be involved in smaller scale operations. Labor markets, household decisions, and states all propagate this gender inequality. The gender gap in terms of wage is even higher in the informal sector than the formal sector.
+
+Two half-hitchesTwo half-hitches is a knot that is often used to attach rope to poles or other objects. It is one of many knots that are called hitches. When a clove hitch is tied around a rope, it forms the two half-hitches.
+
+Clove hitchA clove hitch is a knot that is tied around an object.
+
+It is a kind of hitch knot. When a clove hitch is tied around a rope, it forms a knot called Two half-hitches.
+
+The Hunchback of Notre Dame (1996 movie)The Hunchback of Notre Dame is a 1996 American-French animated musical drama movie based on Victor Hugo's novel. It was produced by Walt Disney Feature Animation and released by Walt Disney Pictures. It is the 34th Disney animated movie. It follows the deformed bell-ringer attempting to gain acceptance into society.
+
+The movie stars Tom Hulce, Demi Moore, Tony Jay, Kevin Kline, Paul Kandel, Jason Alexander, Charles Kimbrough, David Ogden Stiers and Mary Wickes in her final movie role. Produced during a period known as the Disney Renaissance, the movie is considered to be one of Disney's darkest animated movie because its narrative explores such mature themes as infanticide, lust, damnation, genocide, and sin, despite the changes made from the original source material in order to ensure a G rating received by the MPAA. The musical score was written by Alan Menken, with songs written by Menken and lyricist Stephen Schwartz, who had previously collaborated on "Pocahontas".
+
+The movie was released on June 21, 1996 to largely positive reviews and was a commercial success, grossing over $325 million worldwide and becoming the fifth highest-grossing release of 1996. The movie received Academy Award and Golden Globe Award nominations for Menken's musical score. A darker, more Gothic stage adaptation of the movie, was rewritten and directed by James Lapine and produced by Walt Disney Theatrical in Berlin, Germany, as "Der Glöckner von Notre Dame", and ran from 1999 to 2002. A direct-to-video sequel, "The Hunchback of Notre Dame II", was released in 2002.
+
+In 1482 Paris, Clopin, a Gypsy puppeteer tells a group of children the origin of the titular hunchback. Twenty years earlier, a group of gypsies are arrested by Judge Claude Frollo, the corrupt and fanatical Justice Minister, who pursues a woman and her deformed baby. After killing her near the Notre Dame Cathedral, Frollo attempts to drop the baby in the well, but the archdeacon stops him. Frollo decides to raise the child at the cathedral and atone for his sin. He names him Quasimodo.

@@ -1,0 +1,91 @@
+Tungsten has a higher melting point than any other non-alloy that exists. The pure form (only tungsten) is mainly used in electrical equipment. Its compounds and alloys are used for many things, the most well known being its use in electrical filaments for light bulbs. It is also used in the filament and target in most X-ray tubes, superalloys, and in glass-to-metal seals.
+
+Tungsten's density and hardness have many uses. In the military, for example, tungsten has been used in armor-piercing artillery. It is also used in machine tools.
+
+Tungsten's density is almost the same as gold. Gold-plated tungsten ingots have been fraudulently passed off as solid gold.
+
+ArcAn arc is a part of a circle. An arc is a curved line. The curve of an arc is constant and does not change (that is, an arc has constant curvature). It sometimes is portrayed as a dotted line.
+
+In a circle, the arc from point A to point B is written as formula_1. We call the length of an arc an arc length. For an arc on a circle with radius "formula_2" subtended by an angle formula_3, its arc length is precisely formula_4.
+
+ParticulateParticulates are very tiny pieces of a solid or liquid that are carried floating in a gas. When the tiny pieces are solid, it is called a smoke. When the tiny pieces are liquid, it is called an aerosol. Aerosols can be naturally found in clouds and geysers. There are also artificial aerosols such as haze and some air pollutants. Smokes can be found naturally in wildfires and volcanoes. Artificially, they can be found in cigarettes, factories and power plants. Both of them can cause air pollution and climate change. It is the job of a air filter to remove them.
+
+ShorthandShorthand or stenography is a way of writing. Shorthand systems allow people to write much faster. Shorthand systems have been in use since antiquity. Now, they are not used as much, because there are dictation machines to record voices.
+
+Sine waveA sine wave is a curve, a continuous function with this shape:This is a picture of a sine wave.
+
+All waves can be made by adding up sine waves. The sine wave has a pattern that repeats. The length of this repeating piece of the sine wave is called the wavelength. The wavelength can be found by measuring the length or distance between one peak of a sine wave and the next peak. The wavelength can be found in many other ways too.
+
+Waves are found everywhere in the natural world. Examples of waves:All of these waves are the sum total of many signals.
+
+Sine waves have a "length" called a wavelength. There are other properties of waves and sine waves, such as their frequency, amplitude, phase, and speed.
+
+Sine waves repeat over time, so this makes them periodic. The time it takes for a part of the sine wave (one cycle) to travel before it repeats itself is called the period, represented by the letter T. The frequency of a sine wave is the number of oscillations it makes in one second. This is measured in Hertz, which have units of s. The frequency can be found by dividing 1/T (this is also called taking the reciprocal).
+
+The amplitude of the wave corresponds to how powerful the signal is. For example, a higher amplitude in a sound wave means it is louder.
+
+Collingwood Football ClubCollingwood Football Club, the Magpies, is a club which plays Australian rules football in the AFL. It comes from Collingwood, a suburb of Melbourne in Victoria. In the AFL/VFL, it has won 16 premierships, which is a joint league record with Essendon and Carlton.
+
+The Collingwood Football Club was formed in February 1892. Collingwood played its first game in the Victorian Football Association on 7 May 1892, against Carlton. In 1902, Collingwood won its first premiership against the Essendon Football Club.
+
+The Victorian Football League (VFL) formed in 1897. Collingwood was one of the original teams (along with Fitzroy, Melbourne, St Kilda, Carlton, Essendon, South Melbourne and Geelong). In the early years of the VFL, Collingwood was the most successful team; it won 11 premierships in the first 40 years. They won the most recent AFL premiership against Brisbane in 2023.<
+
+poem>"Good old Collingwood forever,""They know how to play the game.""
+
+Side by side, they stick together,""To uphold the Magpies name.""
+
+See, the barrackers are shouting,""As all barrackers should.""
+
+Oh, the premiership's a cakewalk,""For the good old Collingwood."</
+
+poem>VibrationVibration means quickly moving back and forth (or up and down) about a point of equilibrium. The vibration may be periodic (having a pattern) or random. Something that is vibrating may shake at the same time. If it vibrates in a regular way, it may produce a musical note because it can make the air vibrate. This vibration will send sound waves to the ear and to the brain.
+
+In structural engineering including earthquake engineering, vibrations may be bad. They may cause the structure to fail.
+
+The time it takes a vibrating object to go back and forth completely is the period. The number of back-and-forth movements in one second is its frequency, measured in Hertz (Hz). The farthest possible distance from the equilibrium point is the amplitude.
+
+Free vibration occurs when vibration is set off with a push and allowed to vibrate freely. Examples of this type of vibration are pulling a child back on a swing and then letting go or hitting a tuning fork and letting it ring. The mechanical system will then vibrate at a 'Natural frequency' and gradually wind down.
+
+Forced vibration is when an alternating force or motion is applied to a mechanical system. Examples of this type of vibration includeIn forced vibration the frequency of the vibration is the frequency of the force or motion applied. The size of the effect depends on the actual mechanical system.
+
+MolybdenumMolybdenum is a chemical element. It has the chemical symbol Mo. It has the atomic number 42. It has 35 isotopes. The name Molybdenum is from the Greek meaning "leadlike". The color of pure molybdenum is silvery-white. It does not occur naturally, and is made from molybdenite.
+
+It is used in alloys with other metals like stainless steel. It helps to make metal stronger, especially in high temperatures, and makes it less likely to rust. This makes it good for use in high speed tools, such as drills and saw blades. It is used in aircraft and missile parts, as well as in nuclear reactors. It is also not toxic, so it is used in making metal bowls for use in making food, medicines and other chemicals.
+
+Molybdenum was used for many years before it was identified in 1778 by Swedish scientist, Carl Wilhelm Scheele. In 1782, Peter Jacob Hjelm was able to separate it into a dark powder he called "molybdenum". It was first mined in 1916 at Climax, near Leadville, in Colorado.
+
+Solution (chemistry)In chemistry, a solution is a homogeneous mixture of two or more substances. The substances that are dissolved are called solutes. The substance the solutes are dissolved in is called the solvent. An example from everyday experience is a solid like salt or sugar (which are crystalline solids), dissolved in a liquid (like water). Gases can dissolve in liquids. An example is carbon dioxide or oxygen in water. Liquids may dissolve in other liquids and gases in other gases.
+
+The amount of solute added to the solvent determines the concentration of the solution. The solution with the large amount of solute is called a concentrated solution; the solution with less solute is called a dilute solution.
+
+Examples of solid solutions are alloys and some minerals. For example, brass is an alloy of copper and zinc.
+
+InsuranceInsurance is a term in law and economics. It is something people buy to protect themselves from losing money. People who buy insurance pay a "premium" (often paid every month) and promise to be careful (a "duty of care"). In exchange for this, if something bad happens to the person or thing that is insured, the company that sold the insurance will pay the money back. (However, there are some times when the company will not have to pay the money back, such as if the person was not careful.)
+
+There are different kinds of insurance. There are life insurance and general insurance.
+
+In life insurance, someone ensures their life or someone else's life. At the death of the insured person or on the date of maturity whichever happens earlier, the amount insured will be paid.
+
+General insurance is a non-life policy, such as:Actuaries are the people who figure out how much the premium should be, forecast trends, evaluate the cost impact of medical programs, design and price new products, assist in designing formulary models, and forecast the impact of risk adjustment on revenues. They balance how much the insurer might have to pay out against the chances of having to pay out. If actuaries think there is a big chance that the company will have to pay out, they will make the premium higher.
+
+Bunsen burnerA Bunsen burner is a common piece of laboratory equipment. It is commonly used for heating chemical substances, sterilization, and combustion. It works by burning flammable gas. It is named after Robert Wilhelm Bunsen, a German chemist. He made important improvements on an earlier burner invented by Michael Faraday.
+
+The Bunsen burner can be adjusted to make a flame that is very hot without making much light. This allows seeing the different colors that various chemicals make when they are sprinkled into the flame.
+
+ReactionA reaction might refer to:Michael FaradayMichael Faraday (Newington Butts, Surrey, 22 September 1791 – Hampton Court, Surrey, 25 August 1867) was the son of a blacksmith who became one of the most famous scientists of the 19th century.
+
+He was sent to a local school to learn how to read and write. A local vicar paid for this, seeing his obvious intelligence. Faraday became the greatest experimental physicist of the nineteenth century.
+
+Faraday became a Fellow of the Royal Society, and was awarded the Royal, Copley and Rumford medals of the Society. Although Faraday had only primary school education, and did not know higher mathematics, he became one of the most influential scientists in history. For the most part, he was an autodidact: he taught himself.
+
+At the time when he lived, people like him were called "natural philosophers". Then, only a little was known about electricity. Michael Faraday discovered many things about the way electricity flowing in a wire can act like a magnet (now called electromagnetism). He also found out a lot about the way electricity can be used with chemicals to make them change (now called electrochemistry).
+
+He showed that magnetism is able to affect rays of light, as there is an underlying relationship between the two phenomena. His inventions of electromagnetic rotary devices formed the foundation of electric motor technology, and it was largely due to his efforts that electricity became viable for use in technology. He made the first electric motor. It is thanks to his early work that electricity has been made into a useful thing today.
+
+As a chemist, Michael Faraday discovered benzene, invented an early type of Bunsen burner and popularized terminology such as anode, cathode, electrode and ion. Faraday was the first Fullerian Professor of Chemistry at the Royal Institution of Great Britain, a position to which he was appointed for life. He was also the Director of the Royal Institution after Sir Humphrey Davy.
+
+Albert Einstein kept a photograph of Faraday on his study wall alongside pictures of Isaac Newton and James Clerk Maxwell.
+
+Michael Faraday's family was poor. His father, James, was a blacksmith. James Faraday had come to London in the 1780s from North-West England. The young Michael Faraday was one of four children and only had the most basic school education. At fourteen he went to learn how to be a bookbinder and bookseller from a man called George Riebau.
+
+During his seven-year study of making books with Riebau, he read many books. He read Isaac Watts's "The improvement of the mind". Faraday loved to use the ideas in this book in his work. He became interested in science, especially in electricity. He began to attend public lessons run by the best scientists in London at the time. He showed the notes he made the great chemist Sir Humphrey Davy. Davy liked him and offered him a job as an assistant in March 1813.

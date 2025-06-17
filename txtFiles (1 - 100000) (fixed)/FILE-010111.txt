@@ -1,0 +1,23 @@
+Cannonball Run is a 1981 American Hong Kong action comedy movie starring Burt Reynolds, Jackie Chan, Dom DeLuise and Farah Fawcett.
+
+Disposable and discretionary incomeDisposable income is the income someone has after they have paid their taxes. Mathematically, it is total personal income minus personal current taxes. In national accounts definitions, personal income minus personal current taxes equals disposable personal income.
+
+Autonomous consumptionAutonomous consumption (also exogenous consumption) is when people are paying for things when they have no income. In other words, it is the consumption expenditure that happens when income levels are zero. Such consumption is considered autonomous of income only when spending on these consumables does not change much income is changed; generally, it may be needed to pay for things that are needed and pay off debt. If income levels are actually zero, this consumption is called dissaving. This is because it is paid for by borrowing or using up savings. Autonomous consumption is different from induced consumption because it does not consistently change with income, whereas induced consumption does. The two are related, for all households, through the consumption function:whereConsumption functionIn economics, the consumption function shows a relationship between consumption and disposable income. It is believed that John Maynard Keynes introduced the idea in macroeconomics in 1936. He used it to develop the idea of a government spending multiplier.
+
+Its simplest form is the "linear consumption function". It is used often in simple Keynesian models:where formula_2 is the autonomous consumption that is independent of disposable income; in other words, consumption when there is no income. The term formula_3 is the induced consumption that is influenced by the economy's income level. It is generally assumed that there is no correlation or dependence between formula_4 and "C".
+
+Induced consumptionInduced consumption is the part of consumption that changes with disposable income. It is when there is a change in disposable income “induces” (persuades or makes someone want to do something) a change in consumption on goods and services. In contrast, spending for autonomous consumption do not change with income. For example, spending on a consumable that is considered a normal good would be considered to be induced.
+
+In the simple linear consumption function,formula_1induced consumption is represented by the term formula_2, where formula_3 shows disposable income. formula_4 is called the marginal propensity to consume.
+
+FerrodracoFerrodraco lentoni, "Lenton's Iron Dragon", is a species of pterosaur. The only known fossil of the pterosaur was found in 2017 north east of Winton, Queensland, Australia.
+
+The pterosaur had a wingspan of about four metres, and when on the ground walked on its four limbs. The name, "Ferrodraco lentoni", comes from the Latin word, "ferrum" (iron), for the ironstone in which the fossil was found, and "draco", the Latin word for dragon. The species also is named after Graham Thomas 'Butch' Lenton, who was the mayor of Winton.
+
+Only small parts of 15 different pterosaurs have been found in Australia. "Ferrodraco" is the most complete specimen found. Scientists have been able to identify five vertebrae, eight limb bones, a large part of the jaw and skull, and 40 teeth. They believe that the pterosaur lived about 96 million years ago. That is in the Upper Cretaceous.
+
+The fossil is similar to pterosaurs found in England, except that it has much smaller teeth. This might be because of the type of food it ate, perhaps a diet of fish. Bones of pterosaurs were thin, and hollow, and because of this, very few have survived.
+
+Winton is well known as an area where dinosaur fossils are found, but this was the first pterosaur discovered here.
+
+Marginal propensity to consume

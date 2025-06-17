@@ -1,0 +1,157 @@
+The adult male frog is about 19.
+
+6 to 23.
+
+8 mm long from nose to rear end and the adult female is 23.
+
+7 to 27.
+
+4 mm long. It has large eyes and a pointy nose. Its back is bright green and can have bronze on its sides.
+
+The female frog lays eggs in water that does not move. The eggs float to the surface of the water. The tadpoles have wide fins on their backs and narrow fins on their bellies. They have bands of color.
+
+The name "chloristona" comes from the Greek words "chloros" for "green," "elaschistos" for "small," and "ontos" for "living thing."
+
+C dynamic memory allocationIn the C programming language, dynamic memory allocation refers to allocating memory during a program's run time. Dynamically allocated memory is obtained from a storage pool called a heap. A group of functions in the C standard library are typically used for dynamic memory allocation.
+
+C dynamic memory allocation functions are defined in "stdlib.
+
+h" header.
+
+The C language does not by default check that the calls to these functions, or the accesses to the arrays they create, are used correctly. If the program does something invalid, such as accessing memory beyond what has been allocated, or using memory that has been freed, this can cause the program to crash or to behave in some other undesirable way. In some cases, improper use of these functions can create security vulnerabilities that allow hackers to read or modify sensitive data or run malicious code.
+
+int *array = malloc(10 * sizeof(int));free(array);Tom YewcicThomas J. Yewcic (May 9, 1932 – October 21, 2020) was an American football quarterback and punter and Major League Baseball player. In football, he played from 1961 to 1966 with the Boston Patriots of the American Football League (AFL). In baseball, he played one game for the Detroit Tigers in 1957.
+
+Yewcic was born in Conemaugh, Pennsylvania. He died on October 21, 2020 at the age of 88.
+
+Conemaugh Township, Cambria County, PennsylvaniaConemaugh Township is a township in Cambria County, Pennsylvania, United States. The population was 1,941 at the 2020 census. It is part of the Johnstown, Pennsylvania Metropolitan Statistical Area.
+
+CMYK color modelThe CMYK color model is a subtractive color model, based on the CMY color model, used in color printing. CMYK refers to the four inks used in printing: cyan, magenta, yellow, and key (black).
+
+The CMYK model is subtractive. It means that it "subtracts" or masks colors from white background of the paper. The ink reduces the reflected light. White light minus red leaves cyan, white light minus green leaves magenta, and white light minus blue leaves yellow.
+
+White is the natural color of the paper, while black results from a full combination of colored inks. To save cost on ink, and to produce deeper black tones, unsaturated and dark colors are produced by using black ink instead of pure mix of cyan, magenta, and yellow.
+
+The "black" produced by mixing usual cyan, magenta, and yellow inks is actually a dark grey color. So, modern four-color printing uses black ink in addition to the subtractive primary colors. Common reasons for using black ink include:Naini Narshimha ReddyNayini Narsimha Reddy (12 May 1944 – 22 October 2020) was an Indian politician. He was the first Home Minister of Telangana from 2014 to 2018. He was a member of the Telangana Legislative Assembly between 2004 until his death. Reddy was born in Devarakonda, Telangana.
+
+In September 2020, Reddy was tested positive for COVID-19. He died from respiratory failure on 22 October 2020 at a Hyderabad hospital, aged 76.
+
+Arolde de OliveiraArolde de Oliveira (11 March 1937 – 21 October 2020) was a Brazilian politician. He was born in São Luiz Gonzaga, Rio Grande do Sul.
+
+He was a member of the Liberal Front Party and Social Christian Party. Between 1984 to 2019, he was a member of the Chamber of Deputies. Between 2019 until his death, he was a member of the Brazilian Senate.
+
+Oliveira died on 21 October 2020 from COVID-19 at a hospital in Rio de Janeiro, aged 83.
+
+Paul LeducPaul Leduc (11 March 1942 – 21 October 2020) was a Mexican movie director. He was born in Mexico City. His career began in 1968. Leduc was known for directing "" (1973) and "Frida Still Life" (1983).
+
+Leduc died on 21 October 2020 from problems caused by chronic obstructive pulmonary disease in Mexico City, aged 78.
+
+Jackson L. KiserJackson L. Kiser (June 24, 1929 – October 21, 2020) was an American politician and lawyer. He was born in Welch, West Virginia. From 1981 until his death, he was a Judge on the District Court for the Western District of Virginia. From 1993 to 1997, he was Chief Judge. He was nominated to the court by President Ronald Reagan.
+
+Kiser died on October 21, 2020 in Danville, Virginia at the age of 91.
+
+Welch, West VirginiaWelch is a city located in McDowell County in the U.
+
+S. state of West Virginia, United States. The population was 3,590 at the 2020 census. It is the county seat of McDowell County.
+
+Healy, AlaskaHealy is a census-designated place (CDP) in Alaska. It is the borough seat of Denali Borough. In 2020, 966 people lived there.
+
+Gordon RiotsThe Gordon Riots were mass rioting in London, England in 1780.
+
+The riots started as a non-violent protest. In 1778 Parliament had passed the Catholic Relief Act, which stopped some oppression of people who practised the Roman Catholic Christian religion. For example, it said Catholics could join the army without saying an oath that was against their religion. British people who practised the Protestant religion did not like that. In 1780, Lord Gordon said Parliament should repeal (take back) that law.
+
+People who agreed with Gordon put blue cockade decorations in their hats and marched across London Bridge. Then they saw some Lords and called them names and attacked their carriages. Then they found some Roman Catholic churches and set them on fire.
+
+Frank HorvatFrank Horvat (28 April 1928 – 21 October 2020) was an Croatian-French photographer. He was best known for his fashion photography, published between the mid 1950s and the late 1980s.
+
+Horvat's photographic opus includes photojournalism, portraiture, landscape, nature, and sculpture.
+
+In 1988, he produced a book of interviews with fellow photographers such as Don McCullin, Robert Doisneau, Sarah Moon, Helmut Newton, and Marc Riboud.
+
+Horvat died in October 2020 at the age of 92.
+
+Mario HendersonMario Henderson (October 29, 1984 – October 21, 2020) was an American football offensive tackle. He spent the first four years of his career with the Oakland Raiders between 2007 to 2010. He also played for the San Diego Chargers in 2012. Henderson was born in Fort Myers, Florida.
+
+Henderson died on October 21, 2020 at the age of 35.
+
+Aldo ZarganiAldo Zargani (7 August 1933 – 18 October 2020) was an Italian Jewish writer and educator. He was born in Turin, Italy. He started writing in his early sixties: his first and best-known book, "Per violino solo" ("For Solo Violin"), appeared in 1995. He wrote about Italian Jews with essays, lectures, and school visits. He was a Holocaust survivor.
+
+Zargani died on 18 October 2020 in Rome, aged 87.
+
+Deanna DemuzioDeanna Demuzio (February 23, 1943 – October 20, 2020) was a Democratic politician. She was a member of the Illinois Senate between 2004 to 2011. From 2013 until her death, she was Mayor of Carlinville, Illinois.
+
+Demuzio died on October 20, 2020 in Carlinville at the age of 77.
+
+JärvsöfaksJärvsöfaks (23 June 1994 – 19 October 2020) was a Swedish trotter. He held the current coldblood trotter's world record in wins, consecutive wins (42), and the coldblood trotter world record time, 1:17.
+
+9 per kilometre.
+
+Järvsöfaks was driven and trained by Jan-Olov Persson.
+
+Järvsöfaks died on 19 October 2020 in Hudiksvall, Sweden, aged 26.
+
+Chet &quot;JR&quot; WhiteChet "JR" White (1979/1980 – October 18, 2020) was an American record producer, rock musician and mix engineer. He was a member of the indie rock band Girls until their disbandment in 2012. He produced the album "Goon" by Tobias Jesso Jr. and "Sob Story" by the Spectrals. White was born in Santa Cruz, California.
+
+White died of a heart attack on October 18, 2020 in Santa Cruz, aged 40.
+
+Agostino Giuseppe DelfinoAgostino Giuseppe Delfino (17 June 1935 – 18 October 2020) was an Italian-born Central African Republic Roman Catholic bishop. Delfino was born in Arenzano, Italy. He was ordained to the priesthood in 1959. He served as bishop of the Roman Catholic Diocese of Berbérati, Central African Republic from 1991 to 2010.
+
+Delfino died on 18 October 2020 in Savona, Italy at the age of 85.
+
+ArenzanoArenzano is a coastal town and "comune" in the Metropolitan City of Genoa, Liguria, northern Italy, facing the Ligurian Sea. , it has a population of 11,445.
+
+Metropolitan City of GenoaThe Metropolitan City of Genoa () is one of the fourteen Metropolitan cities of Italy, located in the region of Liguria. Its capital is the city of Genoa. It replaced the Province of Genoa.
+
+SavonaSavona () is a seaport and "comune "in the west part of the northern Italian region of Liguria, capital of the Province of Savona, in the Riviera di Ponente on the Mediterranean Sea.
+
+OSIRIS-RExOSIRIS-REx (Origins, Spectral Interpretation, Resource Identification, Security, Regolith Explorer) was a NASA asteroid-study and sample-return mission.
+
+The mission collected samples from 101955 Bennu, a carbonaceous near-Earth asteroid, and returned the samples to earth in September 2023.
+
+The material returned is expected to enable scientists to learn more about the formation and evolution of the Solar System, its initial stages of planet formation, and the source of organic compounds that led to the formation of life on Earth.
+
+OSIRIS-REx is the first United States spacecraft to return samples from an asteroid.
+
+Pan-SlavismPan-Slavism is a political idea. It originated in the 19th century. Pan-Slavism is an ideology that seeks to unify all Slavic countries into one nation.
+
+Louise RenaudLouise Renaud (August 3, 1922 – October 21, 2020) was a Canadian artist. She was born in Montreal. She worked with Les Automatistes. Renaud was also a governess for the children of art dealer Pierre Matisse, the son of Henri Matisse.
+
+She was one of the signatories on Paul-Émile Borduas's Refus Global.
+
+Renaud died on October 21, 2020 in Berkeley, California at the age of 98.
+
+Girl (Beatles song)"Girl" is a song by English rock band the Beatles. It was first released on the band's 1965 album "Rubber Soul". It was written by John Lennon, but listed as Lennon–McCartney. It is a sad love song.
+
+According to Ian MacDonald, except as noted:Jeanne RenaudJeanne Renaud (born August 27, 1928) is a Canadian dancer, choreographer and artistic director. She is thought to be one of the founders of modern dance in Quebec. She was born in Montreal.
+
+She went on to study with Merce Cunningham, Hanya Holm and Mary Anthony in New York City. In 1948, she gave a recital with Françoise Sullivan in Montreal. She taught dance in Paris from 1949 to 1954. In 1952, she joined with Les Automatistes.
+
+From 1959 to 1965, she was associated with Françoise Riopelle at the École de Danse Moderne de Montréal as dancer, teacher and choreographer. In 1966, she founded Le Groupe de la Place Royale.
+
+She was awarded the Prix Denise-Pelletier in 1989 and, in 1995, the Governor General's Award for the Performing Arts.
+
+In 1998, she was named to the Order of Canada.
+
+Dariusz GnatowskiDariusz Gnatowski (24 May 1961 – 20 October 2020) was a Polish actor. He was born in Ruda Śląska, Poland. His career began in 1983. He was known for his roles in "Demons of War" (1998), "With Fire and Sword" (1999) but mostly for his role as Boczek in the sitcom "Świat według Kiepskich".
+
+Gnatowski died on 20 October 2020 in Krakow, Poland, aged 59.
+
+Launch on warningLaunch on warning (LOW) is a strategy of using nuclear weapons that gained recognition during the Cold War between the United States and the Soviet Union. Launch on warning became an important part of mutually assured destruction (MAD) theory as a result of the invention of intercontinental ballistic missiles (ICBMs). Under the LOW strategy, nuclear weapons are launched as retaliation upon receiving warning signs of an enemy nuclear attack, even while the incoming missiles are still in the air and before detonation occurs. U.
+
+S. land-based missiles can reportedly be launchedwithin five minutes of a presidential decision to do so, and submarine-based missiles can be launched within 15 minutes.
+
+Navajo NationThe Navajo Nation () is an American Indian territory covering about , such as parts of northeastern Arizona, southeastern Utah, and northwestern New Mexico in the United States.
+
+This is the largest land area owned by an indigenous tribe in the United States, with a population of 173,667 as of 2010.
+
+The current President of the Navajo Nation is Jonathan Nez since 2019.
+
+President of the Navajo NationThe President of the Navajo Nation () is the head of government of the Navajo Nation. The office was created in 1991 following restructuring of the national government. The president and vice president are elected every four years, and can only serve two terms in office.
+
+Code talkerA code talker was a person who was hired by the United States military during wartime to use a little-known language as a means of secret communication through codes. The term is now usually known with United States service members during the World Wars who used their knowledge of Native American languages.
+
+About 400 to 500 Native Americans in the United States Marine Corps whose primary job was to transmit secret tactical messages.
+
+The code talkers improved the speed of encryption and decryption of communications in front line operations during World War II.
+
+Native soldiers developed two types of Native American Code Talking (NACT). First developed by Choctaw in World War I, Type one NACT contained coded vocabulary, collections of words or phrases that were assigned to military subjects, within their languages. Type two NACT simply used existing Native languages. Both forms worked as codes because they were based on languages unknown to the enemy and, as the new codes were not based on mathematical processes as found in most code and cipher systems, the enemy had nothing to which to compare them.

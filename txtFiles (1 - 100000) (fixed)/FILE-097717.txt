@@ -1,0 +1,157 @@
+By . Rob Waugh . PUBLISHED: . 03:58 EST, 30 March 2012 . | . UPDATED: . 12:02 EST, 6 April 2012 . Google is to launch an online store for Android tablets to help the machines take on Apple's iPad. The store will sell tablets such as Samsung's Galaxy Tab 10.
+
+1 - but will also feature Google-branded machines made in partnership with companies such as Asus. Google is also to manufacture its own tablets, due to its pending purchase of Motorola, which is awaiting approval in China. Google is to launch an online store for Android tablets this year to bolster flagging sales of the touchscreen machines . Google may also partner with Samsung to make tablets. Google already offers similar Google-branded smartphones, made in collaboration with Samsung. The report in the Wall Street Journal quoted unnamed sources familiar with the matter. There is no set release date for the new tablet store. Google has already tried selling direct to consumers with an earlier version of its own-branded 'Nexus' handsets, made by HTC, but the effort was not a success. Google recently rebranded its Android . Marketplace as Google Play, streamlining services such as its video . store, ebook store and app marketplace, so the timing would make sense. Leaks . from hi-tech suppliers in the Far East had already hinted that a small, . cheap Android 'entertainment tablet' might be released in the first . half of this year. The tablet could sell for as little as £130, and will have a seven-inch screen, according to a leak reported in Digitimes. Asus's hit EEEPad - the tablet maker is said to be developing a seven-inch tablet in collaboration with Google which would carry both Asus and Google branding . The . device would be a competitor to Amazon's Kindle Fire - and like Fire, . would be built to sell content such as video and music via Google's own . online store. In . an interview with Italian newspaper Corriere della Serra, Google . executive chairman Eric Schmidt reportedly said last year, 'In the next six . months, we plan to market a tablet of the highest quality.'
+
+The 21-year-old was a mainstay of Swensea City's under-21 side which won the Professional Development League in 2015, but did not make a first team appearance for the Swans.
+
+Born in Neath, the Wales under-19 international joined Swansea from Aberystwyth Town in 2014.
+
+Samuel also had loan spells with Greenock Morton and Newport County.
+
+Find all the latest football transfers on our dedicated page.
+
+That's the bigger picture at hand as Apple continues to fight an order to unlock a terrorist's iPhone.
+
+That fight made its way to Capitol Hill on Tuesday for a hearing in front of the House Judiciary Committee, the government body that covers matters relating to how law and order is enforced in the US.
+
+Over the course of four meandering hours, representatives dived headfirst into the complexities of the case FBI director James Comey said is the most difficult issue he has ever had to deal with.
+
+He told the committee that his organisation was seriously concerned by the growth of what law enforcement describe as "warrant-proof spaces" - the term given for methods of communication or storage that, even with the correct permission from the court, can't be accessed. Not by police and not by technology companies."
+
+If we're going to move to a place where it's not possible to overcome that," Mr Comey warned, "that's a world we've never lived in before in the United States."
+
+How did governments lose control of encryption?
+
+Apple v the FBI - a plain English guideJudge backs Apple in iPhone fightApple's boss hits back at FBI conductBill Gates calls for terror data debateHis demand that Apple assists his agency in weakening the iPhone's security was met with this from California Congresswoman Zoe Lofgren."
+
+The alternative [to strong encryption] is a world where nothing is private."
+
+Once you have holes in encryption, the rule is not a question of if, but when those holes will be exploited and everything you thought was protected will be revealed."
+
+Apple was represented in this hearing by its lead counsel, Bruce Sewell.
+
+Aside from customer letters, and a somewhat stage-managed interview with ABC, it's the first time the computing giant has been put under scrutiny over its refusal to comply with the FBI order.
+
+Mr Sewell put in a strong performance thanks, largely, to the testimony of cryptology expert Prof Susan Landau  - whose pivotal input I'll discuss later.
+
+Mr Sewell endured fierce exchanges with South Carolina Congressman Trey Gowdy, who was angry at what he deemed a lack of cooperation in this controversial case.
+
+How is it possible, the Congressman offered, to live in a world where the FBI has the authority to stick a finger up someone's rear in search of drugs, but not the power to look at the locked iPhone of that same suspect?
+
+There's no simple answer to that, of course, though Apple might contest that law enforcement's capability to carry out such physically intrusive actions doesn't increase the general public's risk of exposure to an unruly finger or two.
+
+But, crass comparison aside, Congressman Gowdy's heated questioning eventually arrived at this key point - if Apple won't comply with this order, he thinks the company must at least be forthcoming in sharing what it is actually prepared to do.
+
+In a similar vein, the session's soundbite moment came from the mouth of Congressman Jim Sensenbrenner, who scolded Apple for having the audacity to demand Congress do something without offering any solution itself."
+
+All you've been doing is saying 'no no no no'," the Congressman said."
+
+You're operating in a vacuum."
+
+You've told us what you don't like. You haven't told us one thing about what you do like. When are we going to hear about what you do like so Apple has a positive solution to what you are complaining about."
+
+Congress could, he added, continue unassisted by Apple, "but I can guarantee you aren't going to like the result".
+
+That's because, judging by some of the questioning during the session, some members of Congress consider it unfathomable that police cannot reach the information kept in Apple devices.
+
+It's a barrier hindering many, many cases. Mr Comey could not say exactly how many phones the FBI wanted to unlock nationwide, other than that it was "a lot".
+
+Later in the hearing, we learned that there are 205 locked iPhones currently held by police in New York alone.
+
+We were reminded about a case involving Brittany Mills, an expectant mother who was shot and killed on her doorstep in Louisiana last year. Her baby boy died soon after.
+
+Ms Mills - whose family attended the hearing - kept a personal diary on her phone that could contain crucial information about the murderer. The phone is locked, rendered unreachable by Apple's encryption software."
+
+I think about the nine-year-old girl who asked 'why can't they open the phone so we can see who killed my mother'," said Louisiana Congressman Cedric Richmond.
+
+Mr Sewell said Apple had done a lot to help with that investigation, but without creating the kind of tool demanded by the FBI in the San Bernardino case, it would be unable to assist further.
+
+But maybe someone else could?
+
+Republican Congressman Darrell Issa - a favourite among tech enthusiasts thanks to his opposition to several bills considered to be anti-internet - gave Mr Comey a hard time over the process leading up to asking for Apple's help.
+
+Mr Issa said the FBI had not explored all the options for accessing the data and circumventing Apple's security.
+
+He said the FBI should be investing in bringing in people with that expertise, not relying on companies like Apple to do the work for them.
+
+Point being - if the FBI could crack the phone itself, Apple's opposition would be irrelevant.
+
+This call was backed up by the thoughts of Prof Landau, an independent cryptology expert who argued, with some force, that there was no way the FBI's request in San Bernardino could be carried out safely.
+
+She said that while Apple could no doubt keep the code required to crack Syed Farook's phone a secret, the real issue is what will happen when Apple is subjected to possibly hundreds of requests to do the same thing on other devices.
+
+She said the surge of orders would mean Apple would need to create a faster process to handle the task, one that would by its nature be vulnerable to exploitation through interception, or perhaps a rogue employee.
+
+Prof Landau insisted the only real course of action was for the FBI to invest heavily in becoming smarter - rather than compelling Apple to make its products less secure.
+
+Because a weakened iPhone would have one critical side effect, she said. Criminals would simply use other, more secure methods to talk to each other - apps created by countries outside the US, offering encryption mechanisms even more secure than those offered by Apple currently.
+
+Should that happen, the wishes of Congress matter not a jot."
+
+What you're saying," Congressman Jerrold Nadler asked Prof Landau, "is that we're debating something that's… undoable?"
+
+That's right."
+
+Follow Dave Lee on Twitter @DaveLeeBBC or on Facebook(CNN) -- At least 200 people were evacuated from their homes, including 84 residents of an apartment building for the elderly, after a tanker truck carrying 9,000 gallons of gasoline erupted early Wednesday in a northern Boston suburb. Firefighters battle a blaze Wednesday north of Boston after a tanker overturned carrying 9,000 gallons of gas. No serious injuries were reported in the Everett, Massachusetts, blast, but witnesses recounted close calls to a local television station. One man said he narrowly escaped from his car before it exploded. "In consideration of everything that firefighters had to deal with, I think it's a miracle that we haven't seen some serious injuries," Everett Fire Chief David Butler said. The tanker overturned and caught fire at a traffic circle in the town of about 37,000 outside Boston. Officials are investigating whether the driver was speeding, Butler said. "Our major concerns right now are we still have an ongoing fire operation in the family dwellings, and we are still heavily engaged in those operations, and we have some concerns environmentally," Butler said.  Watch residents of an elderly housing complex describe their shock » . Flames from the truck engulfed at least 40 cars and three buildings, two of them houses, fire officials said. The truck was destroyed, but the driver was not seriously injured, the officials said. WCVB-TV in Boston identified the driver as Chad LaFrance of Dover, New Hampshire. Seven hours after the truck caught fire, firefighters were still battling a blaze in one of the homes, according to the television station. Evacuees were taken to an armory converted into a shelter, Red Cross official Amelia Aubourg told CNN. Local streets were closed temporarily, and a nearby school was shut down for the day, WCVB reported. One evacuee who fled a high-rise building told the television station he saw at least 15 cars burning. "And popping, they were popping. I don't know if it was tires that were blowing, but they were completely gone, the cars," Dan Savage told WCVB. Nearby resident Chris Barrow awoke to the sound of a "big bang," he told WCVB. At first, he thought it was a car accident, but when he went outside to investigate the noise, he saw fire "just coming down the hill toward the houses as fast as you could think." Barrow tried to escape in his car, but fire quickly surrounded the vehicle, he told the TV station. "I rode over the fire and my car caught fire," he told WCVB. "I got out just in time, and I ran a couple feet just before it blew up." E-mail to a friend . CNN's Michelle Cumbo and Saundra Booker contributed to this report.
+
+The girls were taken from their school in Borno state by suspected Islamist militants more than two weeks ago.
+
+Borno state's police chief told the BBC that the authorities needed to confirm exactly who was missing as the school records had been burned in the attack.
+
+He said it was now thought that 223 girls were still missing.
+
+The Islamist group Boko Haram has not made any response to the accusation that its fighters abducted the girls from the school in Chibok town in the middle of the night on 14 April 2014.
+
+The group, whose name means "Western education is forbidden" in the local Hausa language, has staged a wave of attacks in northern Nigeria in recent years, with an estimated 1,500 killed in the violence and subsequent security crackdown this year alone.
+
+Abduction sparks social media campaign 'My family is crying and grieving'Tanko Lawan, Borno state's police commissioner, said the headmistress of the school in Chibok had been working to produce a list of those believed to have been taking their final year exams.
+
+Her task had been hampered as students from surrounding areas had also come to the school to take the exams as it was believed the town was relatively safe from attack.
+
+He said current figures showed that 53 of the girls were believed to have escaped.
+
+But he added that it was difficult to know for sure, as some parents may not have informed the authorities if their daughters had returned home."
+
+That's why we're appealing to parents to come with their photographs so that we know actually [that] these are the numbers we are dealing with," he told the BBC Hausa service.
+
+Since the kidnapping, the number of missing girls has been disputed and parents have criticised the government's search and rescue efforts.
+
+Earlier this week, a community leader in Chibok said that 230 girls were missing - a significantly higher figure than officials had been quoting - and 43 had escaped.
+
+This week protests have been held across Nigeria, calling on the government to do more to help secure their release.
+
+It is thought that the militants initially took the girls to the Sambisa forest; there have been subsequent reports they have been taken over the borders into Chad and Cameroon and possibly forced to "marry" the insurgents.
+
+Swathes of north-eastern Nigeria are, in effect, off limits to the army, allowing the militants to move the girls with impunity, says the BBC's Will Ross in Abuja.
+
+A security source told Nigeria's Vanguard newspaper that four army battalions have been deployed to the area and an offensive on the forest was planned.
+
+Former British Prime Minister Gordon Brown has called for international military assistance to be offered to Nigeria in the hunt for the girls."
+
+We could provide military help to the Nigerians to track down the whereabouts of the girls before they're dispersed throughout Africa - like air support, for example, if that was thought necessary," he told the UK's Guardian newspaper.
+
+Last week, an advisor to Nigeria's president said the government would welcome international assistance.
+
+Boko Haram leader Abubakar Shekau first threatened to treat captured women and girls as slaves in a video released in May 2013.
+
+It fuelled concern at the time that the group was adhering to the ancient Islamic belief that women captured during war are slaves, with whom their "masters" can have sex, correspondents say.
+
+A teenager planned to carry out an attack on a soldier or a member of the Government, a court heard today. Muslim convert Brustchom Ziamani, 19, was arrested in East London on Tuesday with a rucksack containing a knife and hammer wrapped in an Islamic flag, it was alleged. Wearing a black Call of Duty t-shirt and dark tracksuit bottoms Ziamani, of Camberwell, south London, appeared at Westminster Magistrates' Court this morning charged with engaging in conduct in preparation of terrorist acts contrary to section 5 of the Terrorism Act 2006. Hearing Muslim convert Brustchom Ziamani, 19, appeared at Westminster Magistrates' Court today accused of planning an attack with a knife and hammer wrapped in an Islamic flag . He refused to sit down and stood through throughout the brief hearing. Prosecutor Mark Dawson said Ziamani had extreme ideological material in his rucksack. He added: 'He was arrested at 4.
+
+30pm on Tuesday with a knife and a hammer in a bag on his back wrapped in an Islamic flag. 'He is 19 and of previous good character. He said to (a female teenager) he is going to commit a ... terrorist atrocity either on troops or members of the government.' Mr Dawson told the court that officers had scoured Ziamani's computer and had 'three disks worth of material' to analyse. The young terror suspect, who is British born but whose family is of Congolese origin, stood in the dock with his hands in his pockets during the hearing. Judge John Zani, told the defendant he would be remanded in custody to appear at the Old Bailey on September 12. The was no application for bail. Sorry we are not currently accepting comments on this article.
+
+Thousands of workers paraded through central Dhaka on May Day to demand safer working conditions and the death penalty for the owner of a building housing garment factories that collapsed last week in the country's worst industrial disaster, killing at least 402 people and injuring 2,500.
+
+A woman grieves as she sticks a pposter of a portrait of her family member on the wall of a school turned make-shift morgue on Tuesday 30, April, 2013 in Savar, near Dhaka, Bangladesh. Emergency workers... (Associated Press)A elderly man holds up a picture of his family member, Tuesday 30, April, 2013, who has been missing since the garment factory building collapsed in Savar, near Dhaka, Bangladesh. Emergency workers hauling... (Associated Press)Workers, seen through shattered glass, toil in the collapsed garment factory building on Tuesday 30, April, 2013 in Savar, near Dhaka, Bangladesh. Emergency workers hauling large concrete slabs from a... (Associated Press)Army personnel watch as workers toil in the collapsed garment factory building, Tuesday, April 30, 2013 in Savar, near Dhaka, Bangladesh. Emergency workers hauling large concrete slabs from a collapsed... (Associated Press)As authorities buried the bodies of 18 unidentified workers killed in the collapse, Pope Francis and European Union officials criticized working conditions in the nation's $20 billion a year garment industry, which supplies many European and American retailers.
+
+Francis said he was shocked by a headline from the building collapse that said some of the workers were living on 38 euros a month.`'
+
+This was the payment of these people who have died ... And this is called `slave labor,'" he said. Vatican Radio said the pope made the remarks during a private Mass Wednesday morning at the Vatican.
+
+EU officials said they are considering action including changes to Bangladesh's duty-free and quota-free access to the giant EU market to "incentivize" responsible management of the nation's garment industry. Catherine Ashton, the EU's foreign affairs chief, and its trade commissioner, Karel De Gucht, called in a statement for Bangladesh authorities to act immediately to ensure factories comply with international labor standards.
+
+Pressure built inside Bangladesh as well, as a raucous procession of workers on foot, pickup trucks and motorcycles wound its way through central Dhaka on Wednesday. They waved the national flag and banners, beat drums and chanted "direct action!" and "death penalty!"
+
+From a loudspeaker on the back of a truck, a participant spoke for the group: "My brother has died. My sister has died. Their blood will not be valueless."
+
+May Day protests, customarily an opportunity for workers in this impoverished South Asian nation to vent their grievances, have taken on a poignant significance this year following the April 24 disaster.

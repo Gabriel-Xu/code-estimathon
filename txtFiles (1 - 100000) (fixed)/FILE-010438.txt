@@ -1,0 +1,145 @@
+The researchers used laboratory equipment to make pieces of the same proteins that are in SARS-CoV-2. They put the proteins inside the bodies of laboratory mice using a microneedle array, meaning a small patch with about 400 tiny needles made out of other protein and sugar. One of the scientists, Dr. Emrullah Korkmaz, said these needles melt away inside the skin after they release the vaccine. The skin is a good place to put a vaccine because it has many immune cells in it. Then the mice made antibodies, or protective molecules, in their blood. The scientists measured the amount of antibodies and guessed it would be enough to fight off the SARS-CoV-2 virus if the mice were exposed to it. It took about two weeks for the mice to make lots of antibodies.
+
+The scientists said it would be easy to make large amounts of vaccine and large numbers of microneedle arrays to use on people.
+
+Another team of scientists led by Dr. Josef Penninger of the University of British Columbia invented a medicine called APN01. They tested APN01 in engineered human tissue. These are human cells put together to act like part of the body, but they are not a whole animal or person. They added a protein called "human recombinant soluble angiotensin converting enzyme 2" (hrsACE2) and saw that it stopped the virus from taking over cells. They named their hrsACE2 APN01.
+
+Other scientists have developed vaccines that use messenger RNA to teach the body to recognize the virus. They say mRNA vaccines take less time to develop and make, than protein or whole-virus vaccines.
+
+Messenger RNA vaccines need to be stored at very cold temperatures. Ordinary refrigerators are not cold enough.
+
+In mid-May 2020, a company called Moderna said they tested their mRNA vaccine in forty-five people and eight of them produced antibodiesbut they did not publish the specific data or publish an article in a scientific journal. Anna Durbin of Johns Hopkins University said it was too soon to tell if people would keep the antibodies long enough for the vaccine to work. The United States Food and Drug Administration gave Moderna permission to test the vaccine again in more people. Moderna's chief medical officer said the vaccine could be ready in January 2021.
+
+The Moderna vaccine entered stage-three clinical trials on June 27, 2020. That means it is being tested on humans. Dr. Anthony Fauci said he did not think the vaccine would be dangerous.
+
+On November 16, Moderna said its vaccine was 94.
+
+5% effective. The vaccine has to kept colder than freezing but it does not have to be kept as cold as the Pfizer vaccine. Distribution began in February 2021.
+
+The German company BioNTech and Pfizer made a deal with the United States government to make 100 million doses of mRNA vaccine by December 2020. The vaccine completed phase I trials and started its next trial on July 27, 2020. Instead of being a phase II trial or a phase III trial, Pfizer's team was trying to do both phases at once. If the companies could make the vaccine on time, the U.
+
+S. government would give them almost US$2 billion. The vaccine is called BNT162b2. BioNTech paid its employees overtime to do extra work. They called this "Project Lightspeed" because they wanted to develop the vaccine quickly.
+
+Because they wanted people to trust the vaccine, Pfizer published the study protocols publicly. That means they told everyone exactly how they were testing the virus. This is information that companies usually keep secret so no one can steal their work.
+
+On November 9, 2020, Pfizer announced that BNT162 was 90% effective at preventing people from catching COVID-19. They asked the FDA to approve the vaccine for emergency use. The company had not yet published the results of the study in a formal scientific paper, so the FDA said they needed time to look at the results for themselves.
+
+The INN (International nonproprietary name) of this vaccine is tozinameran. INNs are a name for a particular vaccine or medicine to be used worldwide.
+
+The adenovirus is the virus that causes the common cold. It does not harm the human body much. Scientists have used the adenovirus in vaccines for many years against many diseases. Scientists take pieces of dangerous viruses and attach them to adenovirus to then inject the adenovirus into the human body. The human immune system learns to recognize the pieces of dangerous viruses. After, it can fight off the real dangerous viruses if the human is ever exposed to them.
+
+In late April 2020, a team from the University of Oxford said that they had developed a COVID-19 vaccine. The United States National Institutes of Health tested it in rhesus monkeys and it worked. Because they had already been working on a vaccine against a different coronavirus, they had a head start working on one for SARS-CoV-2. They would try to test their vaccine on 6000 people by the end of May 2020, and that their vaccine could be ready for people to use in September 2020.
+
+The team took the spike protein from SARS-CoV-2 and put it on an adenovirus. Then they injected that virus into test patients. The idea is that the patients' immune systems will learn to attack the spike protein no matter what virus it is on. This vaccine completed phase I trials and as of July 2020 is entering phase III trials. The vaccine is called ChAdOx1 nCoV-19.
+
+The Chinese company CanSino Biologics is making a viral vector vaccine. This vaccine uses an adenovirus that has the spike protein from SARS-CoV-2 on it. Then the immune system learns to recognize the spike protein. As of July 2020, this vaccine is in phase II trials, but the Chinese government gave CanSino Biologics permission to give it to people anyway. They are allowed to give it to people in the Chinese military.
+
+The Johnson & Johnson COVID-19 vaccine is made from the Johnson & Johnson company. Unlike many vaccines, it doesn't need special, unusual refrigeration.
+
+The company Sinovac in China and Bututan research center in Brazil worked together. This is an inactivated virus vaccine. This means the team took the SARS-CoV-2 virus and changed it to make it harmless. The patient's body learns to recognize the harmless virus and then it can recognize the harmful, wild virus too. The company got permission to start phase III trials on July 3. This virus is called CoronaVac.
+
+The company Sinopharm belongs to the government of China. It is an inactivated virus vaccine.
+
+This vaccine started phase III trials in the middle of July 2020. This vaccine does not have a name.
+
+The University of Melbourne and Murdoch Children's Research Institute are studying a vaccine that works against tuberculosis, the Bacillus Calmette-Guerin vaccine. It is a live-bacterium vaccine. The patiebt gets dead "Mycobacterium tuberculosis" bacteria injected into them while training their immune system to fight it. Over the years, scientists saw that the Bacillus Calmette-Guerin vaccine did not only protect people from tuberculosis, but it protected them from other diseases too. The scientists at the Murdoch Children's Research Institute and University of Melbourne are studying the Bacillus Calmette-Guerin vaccine to see if it will protect people from COVID-19. Because this vaccine has already been used for other diseases for more than one hundred years, doctors already knew it was safe to use. As of July 2020, this vaccine is in phase III trials to see if it works on COVID-19.
+
+Scientists believe a vaccine that doctors spray into the patient's nose would work better than a vaccine injected into the patient's veins. After a nasal vaccine, the body's immune cells look for the virus in the nose and mouth. The nose and mouth are where most people are infected with SARS-CoV-2. Scientists are not sure why this works. As of July 2020, teams in the Netherlands, the United States, and Canada are making nasal vaccines.
+
+Arthur's NoseArthur's Nose is the popular first book of the book series, written and illustrated by Marc Brown. It was published in 1976. Arthur is an aardvark. The character of Arthur inspired several other picture books and was also made into an animated television series.
+
+In this first book, Francine the monkey teases Arthur for having a big nose. As a result, Arthur decides to get his nose cut shorter. However, instead, he leaves his nose the same and his friends are happy, except Francine.
+
+Prey Veng provincePrey Veng is a province in Cambodia. The capital city is also named Prey Veng.
+
+It is on the east bank of the Mekong river. The Bassac River is also in the province.
+
+There are 12 districts and 1 municipality:Pursat provincePursat is a province in Cambodia. The capital city is also named Pursat.
+
+It is between the Tonlé Sap and the Cardamom Mountains. The Pursat River bisects the province. It is one of the nine provinces that are part of the Tonlé Sap Biosphere Reserve. Pursat is home to Wat Bakan, considered to be among the oldest active pagodas in Cambodia.
+
+The province is divided into 6 districts and 1 municipality:Ratanakiri provinceRatanakiri is a province in Cambodia. The capital city is Banlung. Ratanakiri Province was created in 1959 from land that had been the eastern area of Stung Treng Province.
+
+The Annamite Range of mountains is in the north. There are the Tonle San and Tonle Srepok rivers. Lomphat Wildlife Sanctuary and Virachey National Park are both in the province.
+
+There are 8 districts and 1 municipality:Siem Reap provinceSiem Reap is a province in Cambodia. Its capital and largest city is Siem Reap.
+
+It is one of the nine provinces of the Tonle Sap Biosphere Reserve. It is the site of Angkor and the Angkor Wat temple ruins, a UNESCO World Heritage Site. Phnom Kulen National Park is also in the province.
+
+The province is divided into 12 districts:Sihanoukville provinceSihanoukville Province or Preah Sihanouk Province is a province in Cambodia. The capital city is also named Sihanoukville. It has the only deep water port in Cambodia.
+
+First established as Kampong Som, the province was later renamed in honor of former King Norodom Sihanouk. The province has Ream National Park, which includes the islands of Koh Thmei and Koh Seh.
+
+Validated numericsValidated numerics (or reliable computation) is a numerical analysis with mathematically strict error evaluation. In order to do so, a technology called interval arithmetic is used. Validated numerics is needed for the following reasons.
+
+One of the most known implementation of validated numerics is INTLAB (Interval Laboratory). INTLAB was used to create other numerical libraries, and it was also used to solve the Hundred-dollar, Hundred-digit Challenge problems.
+
+Yūtokutaishi AkiyamaFrom 1999 until 2003, Akiyama was a professor at Sapporo University. From 1992 until around 2009, Akiyama joined Genpei Akasegawa and Yutaka Takanashi in the informal group Raika Dōmei.
+
+Akiyama died on April 3, 2020 in Tokyo at the age of 85.
+
+Stung Treng provinceStung Treng is a province in Cambodia. The capital city is also named Stung Treng.
+
+The Mekong River bisects the province. It one of the few provinces where you can see the rare and endangered Irrawaddy dolphins.
+
+There are 5 districts and 1 municipality:Ira EinhornIra Samuel Einhorn (May 15, 1940 – April 3, 2020), known as "The Unicorn Killer", was an American convicted of murdering his ex-girlfriend, Holly Maddux. He was born in Philadelphia, Pennsylvania.
+
+On September 9, 1977, Maddux disappeared following a trip to collect her belongings from the apartment she and Einhorn had shared in Philadelphia, Pennsylvania. Eighteen months later, police found her partially mummified body in a trunk in Einhorn's closet.
+
+After his arrest, Einhorn fled the country and spent twenty-three years in Europe before being taken back to the United States. He said that his ex-girlfriend had been killed by CIA agents who framed him for the crime because he knew too much about the agency's paranormal military research.
+
+He was convicted and served a life sentence at a prison in Pennsylvania until his death in prison in April 2020 of heart disease, aged 79.
+
+Synoptic GospelsIn the New Testament, the gospels of Matthew, Mark and Luke, are written in a very similar style. They are referred to as the synoptic gospels.
+
+The forth of the evangelists, John, also tells similar stories, but his style of writing is different. The synoptic problem is to explain why three of the four evangelists have a very similar structure, and the fourth does not.
+
+The strong parallelism among the three gospels suggests they were written at more or less the same time. Or, Matthew and Luke made use of the gospel of Mark as a source.
+
+Islam BibiIslam Bibi (; 1974 – 4 July 2013) was a female police officer from Afghanistan in the province of Helmand headquarters. She was also a pioneer in fighting for the rights of women in the country.
+
+She was the highest ranking policewoman at the time of her death in Afghanistan and led operations against the Talibans. She received many death threats and was killed on July 4, 2013.
+
+Anna SharyhinaAnna Borysivna Sharyhina (born c.
+
+1978) is a Ukrainian activist who fights for the rights of women and the LBGT community. She is one of the founders of the Sphere Women's Association, a lesbian feminist organisation from Kharkiv, and of the NGO Kyiv Pride, the organizing committee of the Pride Parade in Kiev.
+
+Sharyhina and her partner, Vira Chemygina, have been part of the Ukrainian LBGT community and lesbian organizations for years. They organized Kiev's first walks for equality. The second walk for equality in Kiev was held in 2015. Police officers and public figurs supported the walk. However, the walk only lasted for 15 minutes because of the violence against the marchers. Ten people, including police officers guarding the event, were injured.
+
+Maria Verónica ReinaMaria Verónica Reina (1960s – 27 October 2017) was an educational psychologist and an activist from Argentina who promoted the rights of persons with disabilities. Representing the International Disability and Development Consortium, she was a leading contributor to the talks on the United Nations Convention on the Rights of Persons with Disabilities.
+
+She was disabled in a car accident when she was 17 in Rosario, Argentina. She was unable to finish her schooling.
+
+Luisa CuestaMaria Luisa Cuesta Vila (26 May 1920 Soriano - 21 November 2018 Montevideo) was a Uruguayan acitivist who fought for human rights. She put her life in finding the missing prisoners during the time of Uruguayan military dictatorship. Her son Nebio Melo Cuesta also was gone during that period and is still missing today.
+
+Svay Rieng provinceSvay Rieng is a province in Cambodia. The capital is Svay Rieng while the largest city is Bavet.
+
+There are 6 districts and 2 municipalities:Takéo provinceTakeo is a province in Cambodia. The capital is Doun Kaev.
+
+Notable locations include the mountain Phnom Chisor and the temple Phnom Da.
+
+There are 9 districts and 1 municipality:Oddar Meanchey provinceOddar Meanchey is a province of Cambodia. The capital is Samraong. It is in the Dângrêk Mountains.
+
+There are 4 districts and 1 municipality:ÉÉ or é is a letter that is not regularly found in the English language. It is the letter E with an acute accent above it. It can be found in the Afrikaans, Catalan, Danish, Emilian-Romagnol, French, Galician, Hungarian, Icelandic, Irish, Italian, Kashubian, Luxembourgish, Occitan, Norwegian, Portuguese, Slovak, Spanish, Swedish, Vietnamese, and Welsh languages. In the English language, it can be found in loanwards (for example, "résumé" and "cliché") and romanizations (for example, "Pokémon").
+
+É is the 9th letter of the Czech alphabet and the Slovak alphabet. In the IPA, it represents /ɛː/ in these languages.
+
+In the Danish, Norwegian and Swedish languages, the letter É is used to show that the regular letter E is stressed. It is used to change the meaning of a word.
+
+É is found in foreign words, mostly from French. It is also used to tell apart the Dutch words "een" (meaning "a" or "an" in English) and "één" (meaning the number one in English). It adds stress in the same way English sometimes uses italics. In Dutch, some people may use the Dutch word "hé" to greet eachother, meaning "hey" or "hi".
+
+In Emilian, é is used as [e] in IPA (for example, "récc", meaning "rich" in English). In Romagnol, é is used as [eː] (for example, "lédar", meaning "thieves" in English).
+
+The letter É appears in words that came from the French language. For example, née, résumé, fiancée, sauté, and coupé. It is also used in names, such as Beyoncé, Breneé, JonBenét, and Théo.
+
+The letter É is widely used in French. It is pronounced as /e/ in IPA. Another french letter, È, is pronounced as /ɛ/. The two letters look the same, but they are not the same letter.
+
+É is the 9th letter of the Hungarian alphabet and is used as /eː/ in IPA.
+
+É is the 7th letter of the Icelandic alphabet and is used as /jɛː/ in IPA.
+
+In Irish, an acute accent is used to mark a vowel as a long vowel. É is used as /eː/ in IPA.
+
+É is used as /e/ in IPA and it carries a tonic accent. It is only used in the last letter of a word (except when a different wikt:pronunciation may change the meaning of a word). For example, "perché" (meaning "why" or "because" in English) and "pésca" (which means "fishing" in English). The letter È is also in the Italian alphabet, which is the letter E with a grave accent. Instead of /e/, the letter È is used as /ɛ/ in IPA.
+
+É is the 8th letter of the Kashubian alphabet and is used as /ɛ/ in IPA.

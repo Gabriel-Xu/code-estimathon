@@ -1,0 +1,75 @@
+Roles : DPS.
+
+Death Knights use runes and runic power to attack their enemies in melee range. Death Knights also have a number of ranged abilities to keep their targets from running away in battle.
+
+Roles : Tank, DPS.
+
+When a player gets to level 10, each level up afterward earns one talent point to be put into one of three class-specific talent trees. Different classes have different types of talents that are divided into three "talent trees", which are DPS (Damage Per Second), tanking (taking damage), and healing (healing damage). Putting points into the DPS tree may make them do more damage to enemies, putting points into the tanking tree may make them take less damage, while putting points into the healing tree may make them heal for more damage. However, a talent may not affect it directly.
+
+For example, if a priest character wants to do more damage to enemies, the priest would put talent points into the "Shadow" talent tree. If a priest wants to heal groupmates, the priest would put talent points into the "Holy" talent tree.
+
+Agility - This effects the characters dodge, critical strike and attack power (Although this is only true for certain classes).
+
+Intellect - This determines spell critical strike, and how much damage your spells does.
+
+Spirit - This increases the regeneration of health and mana.
+
+Stamina - Increases the total amount of health you have.
+
+Strength - Increases attack power and block value for a shield.
+
+Armor - Reduces physical damage taken by a percentage.
+
+Attack Power - Attack power increases the characters "melee" damage output.
+
+Hit Rating - This increases the chance to it an enemy. This is capped at 14%.
+
+Ignore Armour Rating - This enables the "melee" damage you cause to ignore a percentage of the opponents armor.
+
+Critical Strike Rating - This effects your chance to cause additional damage on any "melee" attack.
+
+Expertise Rating - Reduces the chance to be dodged or parried.
+
+Attack Power - Attack power increases the characters "Ranged" damage output.
+
+Hit Rating - This increases the chance to it an enemy. This is capped at 14%.
+
+Ignore Armour Rating - This enables the "Ranged" damage you cause to ignore a percentage of the opponents armor.
+
+Critical Strike Rating - This effects your chance to cause additional damage on any "Ranged" attack.
+
+Hit Rating - This increases the chance to it an enemy. This is capped at 8% (So do not go overboard and get 21% like I did, it is a waste of gold).
+
+Spell Penetration - This enables the "Spell / Magic" damage you cause to ignore magical resistance equal to the amount of spell penetration you have.
+
+Critical Strike Rating - This effects your chance to cause additional damage on any "Spell / Magic" attack.
+
+Speed Rating - Causes the cast time of your spells to be reduced. This is useless once it gets to one second, because of a global cooldown on all your spells.
+
+Mana Regeneration - Increases your mana regeneration out of combat and while casting. This is very important for healers so that they do not OOM part way through a fight.
+
+Bonus Damage / Bonus Healing - Some items specifically give you 'spell power' which is similar to attack power. Except it is separated into healing and damage. This is because some items give just these. Example: I help to kill a strong Boss, and I get a new robe. +23 spell power +30 healing power. (I am a DPS so I would give this to the groups healer instead.)
+
+Defense Rating - Increases your likely hood to dodge, block and parry. This is very important for tanks to have. (With cata Changes now does not exist in game.)
+
+Dodge - The ability to dodge an attack and suffer no damage. This is expressed as a percentage.
+
+Parry - The ability to deflect an oncoming attack with your weapon. This is expressed as a percentage.
+
+Resilience - Reduces the damage players, and their pets cause you.
+
+PvE - Stands for Player versus environment. Generally refers to all content in the game that is played against AI controlled units. This typically refers to raids and dungeons.
+
+PvP - Stands for Player versus Player. Refers to all content in the game that is played with / against other human controlled units. Typically refers to Battlegrounds (rated and non-rated), Arenas and City Raids.
+
+Mobs/Adds - A mob or add is a creature that is not player controlled. They are generally used in kill or collection quests. In Dungeons / Raids they can be used to swarm at your group, or to make the game a little bit more challenging. They do not often give very good loot, or experience.
+
+Boss - A Boss is a creature that is not player controlled. They are mainly found inside Dungeons / Raids and are often very difficult to kill. Each Boss is a different fight and requires a large amount of skill and awareness to kill. Bosses give higher than average items, these can range from gear, to mounts and tokens.
+
+Raid - A Raid is a specific area of the game, that is mostly cut off from the main world. The original World of Warcraft allowed up to 40 man Raids. Lately this has been reduced down to 10 mans and 25 mans. A Raid is a place to test your characters skills and interact with other players around the world. In each Raid there are Bosses and Mobs.
+
+Dungeon - A Dungeon is smaller than a raid only being 5 man. Dungeons are designed to take people who have just reached the top level and give them better gear, so that they can start Raiding. Dungeons are also open to people who are still leveling. So that people can get better gear to make leveling faster, Or to complete quests that are inside Dungeons.
+
+Threat - Threat is what causes a creature to attack a target. The Tank needs to generate enough threat to keep the Mobs / Boss attacking him. DPS also need to make sure they do not exceed the Tanks threat on the target. Example: I am a DPS, who is new. I cast lots of high threat spells during a Boss fight. The Boss turns around and kills me because I had more threat than the Tank. Since no one else had more Threat than the Tank the Boss re-focuses of him again. And I have to sit down and watch everyone fighting because I am dead.
+
+Aggro - Aggro is when a Mob / Boss is focused on you. Example: The Tank losses aggro, because you were generating to much threat.

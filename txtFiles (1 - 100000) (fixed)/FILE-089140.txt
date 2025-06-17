@@ -1,0 +1,95 @@
+“We’ve had well over 2,000 influenza-associated hospitalizations. That’s double our average number of cases we usually see this time of year,” Wolk told reporters in a briefing organized by ASTHO.
+
+Worried flu patients are flooding emergency rooms and Alexander-Scott said her state health department was trying to steer those who are not suffering emergencies away from emergency departments. Only the urgently sick or injured should be in the ER, she said – others should be calling their own primary care doctors or visiting urgent care clinics.
+
+Related: Flu might be airborneIt’s still not too late to get a flu shot, all the officials said. Pharmacies and drug stores reported they still had plenty of supplies, and the CDC predicts flu season will last several more weeks at the least.“
+
+It may be several months before this flu season ends,” Wolk said. ||||| All data are preliminary and may change as more reports are received.
+
+An overview of the CDC influenza surveillance system, including methodology and detailed descriptions of each data component, is available at http://www.
+
+cdc.
+
+gov/flu/weekly/overview.
+
+htm.
+
+Influenza activity remains elevated in the United States. Influenza A(H1N1)pdm09, influenza A(H3N2), and influenza B viruses continue to co-circulate. Below is a summary of the key influenza indicators for the week ending January 12, 2019:WHO and NREVSS collaborating laboratories, which include both public health and clinical laboratories located in all 50 states, Puerto Rico, Guam, and the District of Columbia, report to CDC the total number of respiratory specimens tested for influenza and the number positive for influenza by virus type. In addition, public health laboratories also report the influenza A subtype (H1 or H3) and influenza B lineage information of the viruses they test and the age or age group of the persons from whom the specimens were collected.
+
+Additional virologic data, including national, regional and select state-level data, can be found at: http://gis.
+
+cdc.
+
+gov/grasp/fluview/fluportaldashboard.
+
+html. Age group proportions and totals by influenza subtype reported by public health laboratories can be found at: http://gis.
+
+cdc.
+
+gov/grasp/fluview/flu_by_age_virus.
+
+html.
+
+The results of tests performed by clinical laboratories are summarized below.
+
+Week 2 Data Cumulative sinceSeptember 30, 2018 (Week 40) No. of specimens tested 31,051 407,503 No. of positive specimens (%) 3,856 (12.
+
+4%) 26,430 (7.
+
+3%) Positive specimens by type Influenza A 3,730 (96.
+
+7%) 30,028 (94.
+
+5%) Influenza B 126 (3.
+
+3%) 1,752 (5.
+
+5%)The results of tests performed by public health laboratories are summarized below.
+
+Week 2 Data Cumulative sinceSeptember 30, 2018 (Week 40) No. of specimens tested 1,399 21,296 No. of positive specimens* 752 7,035 Positive specimens by type/subtype Influenza A 743 (98.
+
+8%) 6,789 (96.
+
+6%) (H1N1)pdm09 605 (89.
+
+1%) 5,214 (81.
+
+6%) H3N2 74 (10.
+
+9%) 1,173 (18.
+
+4%) Subtyping not performed 64 411 Influenza B 9 (1.
+
+2%) 237 (3.
+
+4%) Yamagata lineage 4 (100%) 110 (59.
+
+5%) Victoria lineage 0 (0%) 75 (40.
+
+5%) Lineage not performed 5 52Influenza Virus Characterization:Close monitoring of influenza viruses is required to better assess the potential impact on public health. CDC characterizes influenza viruses through one or more tests including genomic sequencing, hemagglutination inhibition (HI) and/or neutralization assays based Focus Reduction assays (FRA). These data are used to compare how similar currently circulating influenza viruses are to the reference viruses used for developing new influenza vaccines and to monitor evolutionary changes that continually occur in influenza viruses circulating in humans. Antigenic and genetic characterization of circulating influenza viruses gives an indication of the influenza vaccine's ability to induce an immune response against the wide array of influenza viruses that are co-circulating every season. However, annual vaccine effectiveness estimates are needed to determine how much protection was provided to the population by vaccination.
+
+For nearly all influenza-positive surveillance samples received at CDC, next-generation sequencing is performed to determine the genetic identity of circulating influenza viruses and to monitor the evolutionary trajectory of viruses circulating in our population. Virus gene segments are classified into genetic clades/subclades based on phylogenetic analysis. However, genetic changes that classify the clades/subclades do not always result in antigenic changes. “Antigenic drift” is a term used to describe gradual antigenic change that occurs as viruses evolve changes to escape host immune pressure. Antigenic drift is evaluated by comparing antigenic properties of cell-propagated reference viruses representing currently recommended vaccine components with those of cell-propagated circulating viruses.
+
+CDC has antigenically or genetically characterized 562 influenza viruses collected September 30, 2018 – January 12, 2019, and submitted by U.
+
+S. laboratories, including 341 influenza A(H1N1)pdm09 viruses, 163 influenza A(H3N2) viruses, and 58 influenza B viruses.
+
+Influenza A VirusesA (H1N1)pdm09: Phylogenetic analysis of the HA genes from 341 A(H1N1)pdm09 viruses showed that all belonged to clade 6B.
+
+1. One hundred thirty-six A(H1N1)pdm09 viruses were antigenically characterized, and 134 (98.
+
+5%) were antigenically similar (analyzed using HI with ferret antisera) to A/Michigan/45/2015 (6B.
+
+1), a cell-propagated A/Michigan/45/2015-like reference virus representing the A(H1N1)pdm09 component for the 2018-19 Northern Hemisphere influenza vaccines.
+
+A (H3N2): Phylogenetic analysis of the HA genes from 163 A(H3N2) viruses revealed extensive genetic diversity with multiple clades/subclades co-circulating. The HA genes of circulating viruses belonged to clade 3C.
+
+2a (n=48), subclade 3C.
+
+2a1 (n=78) or clade 3C.
+
+3a (n=37). Six A(H3N2) viruses were antigenically characterized by FRA with ferret antisera, and all 6 (100%) A(H3N2) viruses tested were well-inhibited (reacting at titers that were within 4-fold of the homologous virus titer) by ferret antisera raised against A/Singapore/INFIMH-16-0019/2016 (3C.
+
+2a1), a cell-propagated A/Singapore/INFIMH-16-0019/2016-like reference virus representing the A(H3N2) component of 2018-19 Northern Hemisphere influenza vaccines.
+
+Influenza B Viruses

@@ -1,0 +1,249 @@
+Logically, all stardust are presolar grains; but not all presolar grains are stardust.
+
+Logically, each of us should own a submarine, a jet fighter, and so forth."
+
+It was adapted by Kalen Egan and Travis Sentell for the episode "Safe and Sound" of the 2017 TV series, Philip K. Dick's Electric Dreams.
+
+Logically, for every royalty in a person's family tree, there are bound to be virtually an unlimited number of undocumented individuals whose births, deaths and lives went completely unrecorded by history.
+
+Logically, the argument posed states that as growth in credit slows limited by incomes, so too shall the price growth in housing become more subdued.
+
+Logically, the page may be accessible to the process, but requires a mapping to be added to the process page tables, and may additionally require the actual page contents to be loaded from a backing store such as a disk.
+
+Logical Methods in Computer Science is a peer-reviewed open access scientific journal covering theoretical computer science and applied logic.
+
+Logical networks (including extended service sets) are identified by SSIDs, which serve as "network names" and are typically natural language labels.
+
+Logical Position is a digital marketing and SEO company based in Lake Oswego, Oregon with other offices in the United States.
+
+Logical positivism asserts that structural semantics is the study of relationships between the meanings of terms within a sentence, and how meaning can be composed from smaller elements.
+
+Logical positivism was a perhaps extreme version of this practice, though this claim is open to debate.
+
+Logical positivist philosophers in particular have significantly devoted their efforts in countering positions of the like of Wittgenstein's, and they aim at creating a "perfectly descriptive language" purified from ambiguities and confusions.
+
+Logical right shift differs from arithmetic right shift.
+
+Logical shifts can be useful as efficient ways to perform multiplication or division of unsigned integers by powers of two.
+
+Logical Spreadsheets relax these restrictions by dispensing with the distinction between directly specified cells and computed cells and generalizing from functional definitions to logical constraints.
+
+Logical systems such as propositional logic are decidable if membership in their set of logically valid formulas (or theorems) can be effectively determined.
+
+Logical topologies describe how signals act on the network.
+
+Logical topology is the arrangement of devices on a computer network and how they communicate with one another.
+
+Logical truth is one of the most fundamental concepts in logic, and there are different theories on its nature.
+
+Logical truths (including tautologies) are truths which are considered to be necessarily true.
+
+Logical Unit 6.
+
+2 is an IBM-originated communications protocol specification dating from 1974, and is part of IBM's Systems Network Architecture.
+
+Logical Unit Number Masking or LUN masking is an authorization process that makes a Logical Unit Number available to some hosts and unavailable to other hosts.
+
+Logic Analyzers have advanced triggering capabilities, and are useful when a user needs to see the timing relationships between many signals in a digital system.
+
+Logic and computation are distributed among these classes.
+
+Logic as a Positive Science is one of the major works of Italian Marxist philosopher Galvano Della Volpe.
+
+Logica Universalis is a peer-reviewed academic journal which covers research related to Universal logic.
+
+Logica was a multinational IT and management consultancy company headquartered in Reading, United Kingdom.
+
+Logic-based therapy (LBT) is a proposed modality of philosophical counseling developed by philosopher Elliot D. Cohen beginning in the mid-1980s.
+
+Logic blocks are the most common FPGA architecture, and are usually laid out within a logic block array.
+
+Logic blocks can be configured by the engineer to provide reconfigurable logic gates.
+
+LogicBoxes is a web products and consulting company that specializes in providing private labeled, web presence and communication applications to ICANN Registrars, Large Web Hosts, Domain Resellers, ISPs and Telcos.
+
+Logic built-in self-test (or LBIST) is a form of built-in self-test (BIST) in which hardware and/or software is built into integrated circuits allowing them to test their own operation, as opposed to reliance on external automated test equipment.
+
+Logic Centralization is a design pattern, applied within the service-orientation design paradigm, whose application aims to increase the reusability potential of agnostic logic by ensuring that services do not contain redundant agnostic logic and that any reusable logic should only be represented by a service that has the most suitable functional context.
+
+Logic Control is a control surface originally designed by Emagic in cooperation with Mackie.
+
+Logic errors occur in both compiled and interpreted languages.
+
+Logic Express 8 came with 36 software instruments and 73 effect plug-ins, including almost all of those in the Logic Pro Package.
+
+Logic Express was a "light" version of Logic Pro, a MIDI sequencer and digital audio workstation software application maintained by Apple that runs on the Mac OS X platform.
+
+Logic Express was discontinued in 2011, when Logic Pro moved to the Mac App Store for $199.
+
+99.
+
+Logic Express was limited to two-channel stereo mixdown, while Logic Pro can handle multichannel surround sound; Logic Express also lacked support for TDM/DAE systems, high-end control surfaces and Distributed Audio Processing.
+
+Logic for Computable Functions (LCF) is an interactive automated theorem prover developed at the universities of Edinburgh and Stanford by Robin Milner and others in 1972.
+
+Logic forms are simple, first-order logic knowledge representations of natural language sentences formed by the conjunction of concept predicates related through shared arguments.
+
+Logic forms are used in some natural language processing techniques, such as question answering, as well as in inference both for database systems and QA systems.
+
+Logic forms can be decorated with word senses to disambiguate the semantics of the word.
+
+Logic games, abbreviated LG, and officially referred to as analytical reasoning, is one of the sections which appear on the Law School Admission Test (LSAT).
+
+Logic gate use of multiple-emitter transistors was patented in 1961 in the UK and in the US in 1962.
+
+Logic Group of Schools is a privately owned day and boarding school located in Lagos State, South-western Nigeria.
+
+Logic has developed artificial languages, for example sentential calculus and predicate calculus partly with the purpose of revealing the underlying logic of natural languages statements, the surface grammar of which may conceal the underlying logical structure; see Analytic Philosophy.
+
+Logic has two certified gold albums and one platinum album by the Recording Industry Association of America (RIAA).
+
+Logicians study the criteria for the evaluation of arguments.
+
+Logic in computer science covers the overlap between the field of logic and that of computer science.
+
+Logic investigates and classifies the structure of statements and arguments, both through the study of formal systems of inference and the study of arguments in natural language.
+
+Logic is a collaboration between drum and bass producer brothers Dan Gresham (Nu:Tone) and Matt Gresham (Logistics), both of Cambridge, England."
+
+Logic is loose at both ends," he said, meaning that the process of logic initially depends on restrictive assumptions and is thus unable to fit its conclusions neatly into real world situations.
+
+Logic is the formal science of using reason and is considered a branch of both philosophy and mathematics.
+
+Logic Lane covered bridge is a short covered bridge over the lane at the High Street end (see below).
+
+Logic Lane is a small historic cobbled lane that runs through University College in Oxford, England, so called because it was the location of a school of logicians.
+
+Logic languages are traditionally interpreted, but Visual Prolog is compiled.
+
+Logic levels are usually represented by the voltage difference between the signal and ground, although other standards exist.
+
+Logic models are usually a graphical depiction of the logical relationships between the resources, activities, outputs and outcomes of a program.
+
+Logic of Computable Functions (LCF) is a deductive system for computable functions proposed by Dana Scott in 1969 in a memorandum unpublished until 1993.
+
+Logico is the fifth solo studio album by the Italian songwriter Cesare Cremonini, released on May 6, 2014 by Trecuori and distributed by Universal Music.
+
+Logico-linguistic modeling is a method for building knowledge-based systems with a learning capability using conceptual models from soft systems methodology, modal predicate logic, and the Prolog artificial intelligence language.
+
+Logicor is a European warehouse and logistics company.
+
+Logic Pro and Express shared most functionality and the same interface.
+
+Logic Programming Associates (LPA) is a company specializing in logic programming and artificial intelligence software.
+
+Logic puzzles and riddles are specific types of brain teasers.
+
+Logic quoted the lyrics: "Two words, Mos Def" in his 2015 song "City of Stars".
+
+Logic released his fifth mixtape, Bobby Tarantino, in 2016.
+
+Logic School of Management (LSM), a management training institute of South India, in association with WILEY is giving training for Certified Management Accountants (CMA).
+
+Logics for computability are formulations of logic which capture some aspect of computability as a basic notion.
+
+Logic simulation is the use of simulation software to predict the behavior of digital circuits and hardware description languages.
+
+Logic sought to create an album that would stand out as "beautiful, musical and melodic" while also including "raw lyricism".
+
+Logic Spectacles, Thomas Carlyle's name for eyes that can discern only the external relations of things, but not the inner nature of them.
+
+Logic's third studio album Everybody (2017) was his first to debut at number one in the U.
+
+S on the billboard 200.
+
+Logic synthesis is one aspect of electronic design automation.
+
+Logic Theorist is a computer program written in 1955 and 1956 by Allen Newell, Herbert A. Simon and Cliff Shaw.
+
+LogicTools Inc. provides strategic supply chain optimization software.
+
+Logic translated the storyline sonically by introducing scenes within the album, as well as offcuts within songs to help establish plot and context.
+
+Logic Trunked Radio (LTR) is a system developed in the late 1970s by the E. F. Johnson Company.
+
+LogicVision, Inc. was an electronic design automation (EDA) company, offering chip, board and system-level Design for Test (DFT) solutions and support to ASIC vendors based in San Jose, California, United States.
+
+Logic was laid down by American Shipbuilding Co., Lorain, Ohio, 27 October 1942; launched 10 April 1943; sponsored by Lt.
+
+Logic Wireless is a multinational corporation headquartered in Tucson, Arizona, United States.
+
+Logic Works Inc. was a software company based in Princeton, New Jersey.
+
+Logicworks is a cloud computing and managed hosting company headquartered in New York City with offices in Seattle, Washington D.
+
+C., and London.
+
+Logie Colin Leggatt (1894-1917) was an English sportsman and cricketer who was killed during the First World War.
+
+Logie Green was a football ground in the Bonnington area of Edinburgh, Scotland.
+
+Logie had one ranked title success during his career - by winning the 1985 Swiss Open.
+
+Logie holds a bachelors' and law degree from the University of Michigan.
+
+Logie is a residential area of the City of Dundee, Scotland.
+
+Logie played in the dominant West Indies team of the 1980s as a batsman, though he was almost equally well known as a strong fielder.
+
+Logierieve railway station was a railway station in Logierieve, Aberdeenshire.
+
+Logik is a San Francisco-based maker of e-discovery products.
+
+Logilvia is a genus of lichenized fungi in the family Pilocarpaceae.
+
+Login.
+
+gov is a single sign-on solution for US government websites.
+
+Login.
+
+gov was jointly developed by 18F and the US Digital Service.
+
+Login is a 2012 Indian suspense thriller film directed by Sanjeev Reddy.
+
+Loginov played in the Russian Superleague for Ak Bars Kazan and HC Neftekhimik Nizhnekamsk.
+
+Login PI is an active monitoring tool that constantly runs a single virtual user, to monitor and safeguard a good performance and availability of virtual desktop infrastructures and associated business applications.
+
+LOGINventory is an agentless network inventory tool written by Schmidt's LOGIN GmbH. LOGINventory is compatible with Vista, Windows 7, Windows 8, Windows 10, Windows Server 2008 and Windows Server 2012 including 64Bit versions.
+
+Login Virtual Session Indexer (Login VSI) is an IT company that specializes in software technology to test and monitor the performance and availability of centralized desktop environments, such as server-based computing, virtual desktop infrastructure (VDI) and desktop as a service (DaaS).
+
+Login VSI became a separate legal entity in 2012.
+
+Login VSI is a spin-off of VDI consultancy company Login Consultants.
+
+Login was released on 12 October 2012.
+
+LogiSense is a privately owned software development company headquartered in Cambridge, Ontario Canada.
+
+LogiSense's EngageIP software provides Telecommunications billing, Operational Support Systems, Captive Portal and Bandwidth management solutions.
+
+Logisim is a logic simulator which permits circuits to be designed and simulated using a graphical user interface.
+
+Logisim is unable to accommodate analog components.
+
+Logistic Air is an airline that offers short and long-term aircraft leasing, including wet and dry leases.
+
+Logistically, the front ensemble is very complicated and very intricate.
+
+Logistic involvement: living and financial arrangements, shared child-rearing, etc.
+
+Logistic model trees are based on the earlier idea of a model tree: a decision tree that has linear regression models at its leaves to provide a piecewise linear regression model (where ordinary decision trees with constants at their leaves would produce a piecewise constant model).
+
+Logistics and engineers are fully covered."
+
+Logistics", a term borrowed from the military environment, is also fashionably used in the same sense.
+
+Logistics considerations of holding a concert in a contemporary home include audience capacity, collecting cash or donations, whether the proceeds will be split with the host, marketing and whether to publicize the venue, the equipment or sound system, to provide refreshments or to hold a potluck, whether to have one show or present a series, and the choice of musicians.
+
+Logistics deals with demand planning, supplies and tool location.
+
+Logistics engineering is a complex science that considers trade-offs in component/system design, repair capability, training, spares inventory, demand history, storage and distribution points, transportation methods, etc.
+
+Logistics engineering is a field of engineering dedicated to the scientific organization of the purchase, transport, storage, distribution, and warehousing of materials and finished goods.
+
+Logistics for the club were contracted to Trainlines for Britain based in Wetherby, West Yorkshire.
+
+Logistics is generally the detailed organization and implementation of a complex operation.

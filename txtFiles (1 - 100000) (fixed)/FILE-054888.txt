@@ -1,0 +1,415 @@
+OpenWF Display includes the ability to perform mode-setting on internal and external displays as well as discovery and querying of newly connected displays.
+
+OpenWFE was a Java open source workflow engine.
+
+OpenWF is managed by the non-profit technology consortium Khronos Group.
+
+OpenWF is targeted primarily at handheld devices that require portable acceleration of composition whilst minimizing memory bandwidth usage and power levels.
+
+OpenWF (Open Windowing Foundation) is a royalty-free, cross-platform API that provides a low-level hardware abstraction interface for composited windowing systems to make use of composition and display hardware.
+
+OpenWGA is Web Content Management computer software running on the Java Enterprise Edition Platform.
+
+Open-wheel cars are usually built specifically for racing, frequently with a higher degree of technological sophistication than in other forms of motor sport.
+
+Open-wheel cars contrast with street cars, sports cars, stock cars, and touring cars, which have their wheels below the body or inside fenders.
+
+Open wheel, GT, Oval racing, Rallying and Off-road racing were all featured, and can be raced in either a detailed Pro Career mode or an open-ended World Tour.
+
+Open wheel racing in the Phoenix area dates back to 1915 on a dirt oval at the Arizona State Fairgrounds.
+
+Open-wheel racing journalist Robin Miller says that Road America is "the best test of road racing in North America".
+
+Open-wheel street cars, such as the Ariel Atom, are very scarce as they are often impractical for everyday use.
+
+Open when breathing and vibrating for speech or singing, the folds are controlled via the vagus nerve.
+
+Open Window currently has 330 enrolled students.
+
+Open Window School is an independent school for students in Kindergarten through Eighth Grade who have been formally identified as intellectually gifted.
+
+OpenWindows comprised four components: the OPEN LOOK Window Manager (olwm), the DeskSet productivity tools, the XView and OLIT widget toolkits, and the underlying X11/NeWS window server.
+
+OpenWindows implemented the OPEN LOOK GUI specification.
+
+Open Windows is a 2014 English-language Spanish found footage techno-thriller film directed and written by Nacho Vigalondo.
+
+OpenWindows was a desktop environment for Sun Microsystems workstations which combined SunView, NeWS, and X Window System protocols.
+
+OpenWindows was included in later releases of the SunOS 4 and Solaris operating systems, until its removal in Solaris 9 in favor of Common Desktop Environment (CDE) and GNOME 2.
+
+0.
+
+OpenWire is a binary protocol designed for working with message-oriented middleware.
+
+OpenWire is an open source dataflow programming library that extends the functionality of Embarcadero Delphi and C++ Builder by providing pin type component properties.
+
+OpenWire is available for Visual Component Library (VCL) and FireMonkey (FMX).
+
+Open without charge to visitors all year around, the stones are the site of a rag tree, a May Day morris dance, and various modern Pagan rituals.
+
+Open Wonderland is completely extensible; developers and graphic artists can extend its functionality to create entirely new worlds and add new features to existing worlds.
+
+Open Wonderland (originally Project Wonderland) is a Java open-source toolkit for creating collaborative 3D virtual worlds.
+
+Open Workbench is a free project management software focused on scheduling.
+
+Open World Entertainment is a South Korean independent record label and talent management company.
+
+Open World is a ten-day program which brings emerging leaders from Eurasia to the United States to engage with professional counterparts.
+
+Open World Press is a publisher of role-playing games, founded in 2001 by Ed Cha, best known for its "World of Whitethorn" series of adventure settings.
+
+Open World Press was nominated as "The Most Exciting New Company to Emerge" in 2003 by GameWyrd.
+
+OpenWorm is an international open science project to simulate the roundworm Caenorhabditis elegans at the cellular level as a simulation.
+
+OpenWrt can run on various types of devices, including CPE routers, residential gateways, smartphones, pocket computers (e.
+
+g. Ben NanoNote), and laptops.
+
+OpenWrt is an open source project for embedded operating system based on Linux, primarily used on embedded devices to route network traffic.
+
+OpenWrt is configured using a command-line interface (ash shell), or a web interface (LuCI).
+
+OpenWSN is a project created at the University of California Berkeley and extended at the INRIA and at the Open University of Catalonia (UOC) which aims to build an open standard-based and open source implementation of a complete constrained network protocol stack for wireless sensor networks and Internet of Things.
+
+OpenWSN is available for Linux, Windows and OS X platforms.
+
+OpenXava allows developers to define applications with POJOs, JPA and Java 5 annotations.
+
+OpenXava is a web framework for developing business applications in an effective way.
+
+OpenXava is based on the concept of the business component.
+
+Open-Xchange is a software company that develops, markets and sells web-based communication, collaboration and office productivity software, which enables full integration of email, documents, scheduling and social media.
+
+OpenXC is a hardware and software API for automobiles developed by Ford Bug Labs and proposed as an open standard.
+
+OpenXDF primarily focuses on electroencephalography and polysomnography.
+
+OpenX is a programmatic advertising technology company.
+
+Open XML Paper Specification (also referred to as OpenXPS) is an open specification for a page description language and a fixed-document format.
+
+OpenXR is a working group managed by the Khronos Group consortium with the aim to design a standard for Virtual reality and Augmented reality.
+
+OpenXR was announced by the Khronos Group on February 27 2017 during the GDC 2017.
+
+Open Yale Courses is a project of Yale University to share full video and course materials from its undergraduate courses.
+
+Open Yale Courses provides free access to a selection of introductory courses, and uses a Creative Commons Attribution-Noncommercial-Share Alike license."
+
+Open Your Eyes" as performed by Bobby Caldwell and the drums from "You're Gettin' a Little Too Smart" by The Detroit Emeralds.
+
+Open your eyes at least for a moment!
+
+Open Your Heart, Repeat, and Keep Mars Weird.
+
+OpenZaurus is a defunct embedded operating system for the Sharp Zaurus personal mobile tool PDA.
+
+OpenZFS brings together developers from the illumos, Linux, FreeBSD, and macOS platforms, and a wide range of companies.
+
+OpenZFS is an umbrella project aimed at bringing together individuals and companies that use the ZFS file system and work on its improvements, aiming as well at making ZFS more widely used and developed in a true open-source manner.
+
+Opeoluwa Sotonwa is a Deaf Nigerian American attorney, disability rights advocate and literary writer.
+
+Opeoluwa Sotonwa is the author of The Victim of The Silent Void, published in The Deaf Way II Anthology by Gallaudet University Press and has been featured prominently in the media.
+
+Opeoluwa worked as staff attorney with Nigerian Legal Aid Council.
+
+Opeongo River is a river in the Saint Lawrence River drainage basin in Nipissing District in northeastern Ontario, Canada.
+
+Opeongo River Provincial Park is a non-operating waterway park in Nipissing District in northeastern Ontario, Canada.
+
+Ope Pasquet Iribarne (born 10 January 1956 in Montevideo) is a Uruguayan political figure and lawyer.
+
+Opequon Golf Club, also known as the Stonebridge Golf Club and Martinsburg Golf Club, is a historic country club clubhouse located at Martinsburg, Berkeley County, West Virginia.
+
+Opequon Historic District is a national historic district located near Winchester, Frederick County, Virginia.
+
+Opequon is an unincorporated community along Opequon Creek in Frederick County, Virginia.
+
+Opequon is located on Cedar Creek Grade (VA 622) at Miller Road (VA 620) and also known as Kernstown, Virginia.
+
+Opequon Presbyterian Church is a historic Presbyterian church located near Winchester, in Frederick County, Virginia.
+
+Opequon School, which was in operation from 1884 to 1934, remains standing on Glass Spring Road in town.
+
+Opera, a dramatic staged genre in which singers are accompanied by instruments, arose at this time in Florence.
+
+Opera and Drama (German: Oper und Drama) is a book-length essay written by Richard Wagner in 1851 setting out his ideas on the ideal characteristics of opera as an art form.
+
+Opera and other forms of classical music, while mainly attractive to a middle class audience, were popular in concert and on the radio.
+
+Opera and Safari are not supported.
+
+Opera Atelier has collaborated with other music organizations in Toronto including the Tafelmusik Baroque Orchestra and the Royal Conservatory of Music.
+
+Opera Atelier is an opera company located in Toronto, Canada.
+
+Opera Atelier received a number of Ontario Lieutenant Governor's awards for the Arts before these awards were discontinued in 2003.
+
+Opera Atelier presents two operas per year and tours internationally biennially.
+
+Operabase is an online database of opera performances, opera houses and companies, and performers themselves as well as their agents.
+
+Operability also refers to whether or not a surgical operation can be performed to treat a patient with a reasonable degree of safety and chance of success.
+
+Operability is considered one of the ilities and is closely related to reliability, supportability and maintainability.
+
+Operability is the ability to keep an equipment, a system or a whole industrial installation in a safe and reliable functioning condition, according to pre-defined operational requirements.
+
+Operable from 1858 to 1942, it contributes to the Gettysburg Battlefield Historic District and is most notable as President Abraham Lincoln's point of arrival on November 18, 1863 and departure, following delivery of the Gettysburg Address.
+
+Opera Bohemia is an opera company based in Scotland that performs operas throughout the country.
+
+Opera Boston was an opera company in Boston, Massachusetts.
+
+Opera browsers have more than 350 million users worldwide across multiple platforms.
+
+Opera Cameos is a TV series which aired on the DuMont Television Network from November 8, 1953, to January 9, 1955.
+
+Opera came to the Russian Empire in the 18th century.
+
+Opera Canada is a quarterly music magazine published by Opera Canada Publications.
+
+Operacja Himmler (film) is a Polish historical film.
+
+Opera Coast was a free web browser developed for iOS devices by Opera Software.
+
+Opera Colorado is an opera company located in Denver, Colorado.
+
+Opera Company of Boston was an American opera company located in Boston, Massachusetts, that was active from the late 1950s through the 1980s.
+
+Opera Delaware has also presented 19 world premieres (18% of their repertoire) and three U.
+
+S. premieres.
+
+Opera Delaware is a professional opera company located in Wilmington, Delaware.
+
+Opera della Luna, founded in 1994, is a British touring theater troupe of actor-singers focusing on comic works.
+
+Opera della Luna is a registered British charity.
+
+Opera Dragonfly automatically updates to the latest version available, when connected to the Internet.
+
+Opera Dragonfly is a web development tool that was integrated into the Opera web browser from Opera versions 9.
+
+5 through 12.
+
+18, similar to Firebug and development tools built into Mozilla Firefox and Google Chrome.
+
+Opera Dragonfly is compatible with Presto 2.
+
+1 and later, specifically Opera Mobile 9.
+
+5 and above, Opera Desktop 9.
+
+5 and above, and Nintendo DS & Nintendo DSi Browser.
+
+Opera Dragonfly must be downloaded on first usage, and functions offline thereafter.
+
+Opera Europa is the international service organization for professional opera companies and opera festivals in Europe.
+
+Opera, Firefox, Chrome, and Chromium support playing VP8 video in HTML5 video tag.
+
+Opera for young audiences The Rabbits was named Best New Australian Work and Best Original Score.
+
+Opera Fuoco is a French lyrical ensemble conducted by David Stern.
+
+Opera genres are not exclusive.
+
+Opera had been performed in Graz since the 17th century, originally in a converted coach house on the Habsburg royal estates.
+
+Opera Hall Block, also known as the Farmers State Bank and Citizens National Bank Building, is a historic opera house and commercial block located at King City, Gentry County, Missouri.
+
+Opera has been present in Cuba since the latest part of the 18th century, when the first full-fledged theater, called Coliseo, was built.
+
+Opera has existed in Spain since the mid 17th century.
+
+Opera has long been part of the musical culture of New Orleans, Louisiana.
+
+Opera Holland Park is a summer opera company which produces an annual season of opera performances, staged under a temporary canopy in front of the remains of Holland House, a Blitz-damaged building in Holland Park, west central London.
+
+Opera Holland Park was named Best Opera Company 2010 by The Sunday Times (London).
+
+Opera House existed until the 2004 elections and was part of Mumbai South Lok Sabha constituency.
+
+Opera House (foaled February 24, 1988) was a British thoroughbred racehorse and sire.
+
+Opera House is a 1961 Hindi-language mystery film produced by A.
+
+A. Nadiadwala and directed by P.
+
+L. Santoshi.
+
+Opera houses such as the Valencia Opera House, the National Noh Theater in Tokyo, the Vienna State Opera in Vienna, the Liceu in Barcelona, the Royal Opera House in London and the Teatro degli Arcimboldi and La Scala (both in Milan) have added the electronic titles, the latter providing English and Italian translations in addition to the original language of the opera.
+
+Opera House-Starnes Jewelers Building, also known as Starnes Jewelers and Opera House, is a historic commercial building located at Albemarle, Stanly County, North Carolina.
+
+Opera House (Vidhan Sabha constituency) is one of the 288 constituencies in the Maharashtra Legislative Assembly of Maharashtra a south state of India.
+
+Opera House was best known for his performances as a five-year-old in 1993, when he won three Group One races, including the King George VI and Queen Elizabeth Stakes and was named European Champion Older Horse.
+
+Operahouse were a five-piece rock band based in Camden London.
+
+Opera in Atlanta has a long and uneven history.
+
+Opera in Azerbaijan has a history dating back to the 19th century Russian Empire.
+
+Opera in the Domain presented by Opera Australia is an open-air concert held in the Phillip Precinct of the Royal Botanical Gardens, Sydney.
+
+Opera in the Heights is a non-profit, regional opera company, which is housed in the historic Lambert Hall at 1703 Heights Boulevard in Houston, Texas.
+
+Opera Ireland was Ireland's first permanent national opera company.
+
+Opera is a station in the Antwerp premetro network, lying under the Leien near the Teniersplaats in the city center.
+
+Opera is a station of the yellow M1 (Millennium Underground) line of the Budapest Metro, in front of the Hungarian State Opera House.
+
+Opera is a web browser for Windows, macOS, and Linux operating systems developed by a Norwegian company Opera Software AS.
+
+Opera is part of the Western classical music tradition, and has long been performed for audiences on a large-scale format.
+
+Opera is the debut studio album by Austrian duo Tosca.
+
+Opera is the first compilation album of opera arias by Italian tenor Andrea Bocelli.
+
+Opera Jawa (Requiem from Java) is a 2006 Indonesian-Austrian musical film directed by Garin Nugroho that features traditional Javanese classical music and dance in a setting of opera that is inspired by the "Abduction of Sita" episode from the Ramayana.
+
+Operajita (also spelt Oopalee Operajita), is a Senior Advisor to India's Parliamentary leaders and world leaders on Public Policy and International Affairs, an Environmental Hero, polymath and a virtuoso classical Odissi and Bharatanatyam dancer and choreographer.
+
+Opera, Konqueror, Firefox, and others followed.
+
+Opera Las Vegas (OLV) is an opera company serving the Las Vegas Valley.
+
+Opera Lyra Ottawa (OLO) was a non-profit professional opera company based in Ottawa, Ontario.
+
+Opera Lyrica is an opera company based in Oxford, England, composed of young professionals.
+
+Opera magazine describes the Operabase website as "the most comprehensive source of data on operatic activity".
+
+Opera Magazine</ref> and was run for many years by American Media until the company, which had lost money for years, decided to cease publication of the magazine, focusing instead on their tabloid endeavors.
+
+Opera Mail can also use Bayesian filtering to automatically sort messages into other views.
+
+Opera Mail can display text and HTML emails and uses the Presto layout engine to display HTML.
+
+Opera Mail (formerly known as M2) is the email and news client developed by Opera Software.
+
+Opera Mail is at the end-of-life stage of its product lifecycle.
+
+Opera Mail uses one database that keeps an index of all mail and sorts the messages automatically into several "views" or access points.
+
+Opera Mail version 1.
+
+0 is available for OS X and Windows.
+
+Opera Memphis is a Memphis, Tennessee non-profit arts organization chartered in 1956 by a group of Memphians interested in producing regional opera.
+
+Opera Memphis is widely respected for its education and outreach programs, which currently reach over 25,000 children and adults per season.
+
+Opera Mini is a mobile web browser developed by the Opera Software AS company.
+
+Opera Mini was derived from the Opera web browser.
+
+Opera Mobile is a mobile web browser for smartphones and PDAs developed by Opera Software AS.
+
+Opera Multi Steel is known for its incorporation of medieval and renaissance elements in electronic music, lyrics and album artworks.
+
+Opera Nazionale Montessori (ONM) is an Italian cultural institution and publishing house set up on 8 August 1924.
+
+Operand addresses were determined by adding the contents of the selected base register and the 10-bit displacement field (m).
+
+Operand forwarding (or data forwarding) is an optimization in pipelined CPUs to limit performance deficits which occur due to pipeline stalls.
+
+Operando spectroscopy is an analytical methodology wherein the spectroscopic characterization of materials undergoing reaction is coupled simultaneously with measurement of catalytic activity and selectivity.
+
+Operands are always 1 byte long, and some instructions support two operands, such as "move 8-bit immediate to 8-bit memory address".
+
+Opera News has described her voice as a "rich, seamless flow of solid silk" and an actress "with always a strong presence on stage".
+
+Opera News is an American classical music magazine.
+
+Opera News was initially focused primarily on the Met, particularly providing information for listeners of the Saturday afternoon live Metropolitan Opera radio broadcasts.
+
+Opera News writes, "Opera Delaware continues to provide quality productions that both entertain and involve the community it serves... superbly produced and led by an all around stellar cast."
+
+Opera Nightclub has multiple environments and regularly hosts corporate and private events.
+
+Opera Nightclub is a nightclub located in Midtown Atlanta, Georgia, United States.
+
+Opera Nightclub is located close to the Loews Atlanta Hotel and The W Midtown.
+
+Opera Nightclub was awarded the Best Nightclub Award for 2013 in Jezebel magazine.
+
+Opera Noir is the sixth studio album by Austrian heavy metal band Stahlhammer released on March 31, 2006.
+
+Opera Nomadi is Italy's largest Romani organization.
+
+Opera North is a member of Opera America.
+
+Opera North is an American opera company based in Lebanon, New Hampshire, and is the region's oldest professional opera company.
+
+Opera North is an opera company based at The Grand Theater, Leeds.
+
+Opera North is an opera company based at The Grand Theater, Leeds, England.
+
+Opera North productions are staged at the Lebanon Opera House.
+
+Opera Nova also welcomes the scene of the Bydgoszcz Buratino Puppet Theater.
+
+Operant conditioning and reinforcement: this implies a behaviorist approach using schedules of reinforcement to "shape behavior".
+
+Operant conditioning involves voluntary behavior.
+
+Opera Pacific was an opera company located in the Orange County, California, United States city of Santa Ana.
+
+Opera performances and recitals take place in the cloisters, churches, piazzas in and around Lucca as well as in the city's Teatro del Giglio.
+
+Opera performances are at Lehman College's Lovinger Theater and Hunter College's Kaye Playhouse in Manhattan's Upper East Side; concerts are given in the Bronx and surrounding areas from Long Island to Delaware County.
+
+Opera Philadelphia first presented the revised version of the opera on 6 February 2015.
+
+Opera Philadelphia gave its first performance of the opera, in a slightly revised form, on 5 February 2016.
+
+Opera Philadelphia (prior to 2013 Opera Company of Philadelphia (OCP) ) is an American opera company in Philadelphia, Pennsylvania and is the city's only company producing grand opera.
+
+Operaphone Records was a record company in existence from 1915 until 1921, who released numerous phonograph records cut in the hill-and-dale and universal-cut methods.
+
+Opera Presents is a BBC2 comedy show.
+
+Opera productions are small-scale.
+
+Opera publica is the Latin name used by Ancient Rome for the building of public works, construction or engineering projects carried out under the direction of the state on behalf of the community, and the buildings themselves.
+
+OperaQ also nurtures and showcases emerging talent through its OperaQ Studio Project, which encourages the development of new music theater works.
+
+Opera Queensland is an opera company based in Brisbane, Queensland.
+
+Opera Queensland (OperaQ) is the state opera company.
+
+Opera Roanoke is professional opera company in Southwest Virginia presenting fully staged productions and a variety of smaller-scale presentations each year.
+
+Operas and musicals presented in concert version are performances with limited or no staging, sets and costumes.
+
+Operas are performed either in English translation or in the original language of the libretto, in the latter case usually with surtitles.
+
+Operas are produced by Iford Festival Opera.
+
+Operas based on the Orphean myths, and especially the story of Orpheus' journey to the underworld to rescue his wife, Eurydice, were amongst the earliest examples of the art form and continue to be written into the 21st century.
+
+OPERA scientists announced the results of the experiment in September 2011 with the stated intent of promoting further inquiry and debate.
+
+Opera seasons start in October and end in the early summer of the following year.
+
+Opera semiseria ('semi-serious opera') is an Italian genre of opera, popular in the early and middle 19th century.
+
+Opera seria was the most prestigious form of Italian opera, until Gluck reacted against its artificiality with his "reform" operas in the 1760s.
+
+Operas have regularly been performed in the city since the 1790s, and for the majority of the city's history since the early 19th century, New Orleans has had a resident company regularly performing opera in addition to theaters hosting traveling performers and companies.
+
+Operasi Fajar 8) was a naval operation carried out by the Royal Malaysian Navy against pirates in the Indian Ocean on 20 January 2011.
+
+Operas include Divide Light (with visual artist Lesley Dill) and Passion of Leyla (with librettist Ruth Margraff), and the experimental God Machine.

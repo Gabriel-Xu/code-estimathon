@@ -1,0 +1,155 @@
+Word length is measured by counting the letters in each word, or by counting syllables. Since most syllables have one vowel, some computer programs count vowels per average word. A few tests measure the percentage of words on a list; the list is based on the known frequency of words in a language.
+
+Sentence difficulty is usually measured by sentence length. This again is an index, because longer sentences are, on average, harder than short sentences. Computers count the number of words between full stops, but this is a second-best method. Humans can judge whether a semi-colon or colon should count as the end of a sentence for testing purposes.
+
+Since both factors may vary independently of each other, the best prediction is gained by devising a formula with makes use of both indices. What this means is that a single score is produced for a text, and that score is looked up on a table or graph. That tells you how difficult the text is in terms of either a) an American school grade level, or b) an artificial scale of 0% to 100%. Either way is effective. What really makes a difference is:It is possible to get a good prediction by getting a group of subjects to read through a passage, followed by multiple-choice questions. Even better is a method called cloze, where subjects fill in blanks on a text they have not seen before. The percentage of correctly completed blanks is an outstandingly good predictor of text difficulty.
+
+Naturally, this kind of direct measure requires subjects and a skilled experimenter. It also requires the prior preparation of texts suitable for the chosen sample of subjects. The method is therefore too expensive for widespread use.
+
+A person can perform readability tests himself by counting and doing some math, or by using word-processing software.
+
+Wikipedia Signposts 2015-06-24 surveyed recent studies of web information on medical topics, including articles in English wiki.
+
+Their summary was:That shows these articles, and presumably many other medical articles on English wiki, are written in prose far too difficult for the average member of the public.
+
+TheatreTheatre (British English and also American English), or Theater (mostly American English), has several meanings.
+
+The word comes originally from the Greek "Theatron", meaning roughly, 'a place for viewing'. In American English, the word 'theater' can mean either a place where films are shown (this is also called a cinema) or a place where live stage plays are performed. In British English, 'theatre' means a place where live plays are performed. Some people, both English and American, use the spelling 'theatre' to mean a place where live plays are performed, and the spelling 'theater' to mean a cinema.'
+
+Theatre' can also mean the business of putting on plays. An actor might say "I am in the theatre business", or a writer might say "I write for the theatre", meaning that they write plays, rather than writing for movies or television shows.
+
+The first people we know created plays were the Ancient Greeks, about the year 500 B.
+
+C. They divided plays into two kinds: tragedy and comedy. This division is still used today. The best known Ancient Greek writers of plays are Aeschylus, Sophocles, Euripides and Aristophanes. Some of their plays survived, and are still performed today.
+
+These ancient Greek plays were performed outdoors in large amphitheatres, so that many people could see them. There were contests among the playwrights (people who write plays are called playwrights) and the winner would get a prize.
+
+The Greeks had many brilliant ideas. They used mechanical devices like trap doors and the "machina": a crane for winching gods on and off the stage (hence 'Deus ex machina'). They had a "Greek chorus" that offered information to help the audience follow the performance. The chorus comments on themes, and shows how an audience might react to the drama. The players wore masks. Illustrations on vases show helmet-like masks, covering the entire face and head, with holes for the eyes and a small aperture for the mouth, plus a wig. The mask was to ‘melt’ into the face and allow the actor to vanish into the role. Therefore, onlookers did not think about the actor, but thought about the character.
+
+In the Middle Ages, the Catholic Church began to use theatre as a way of telling the stories from the Bible to people who did not know how to read. They wrote Mystery Plays, where each part of the Bible story would be a play put on by a different group of people. They wrote "miracle plays" which were about the lives of the saints. They wrote "morality plays" which taught the audiences how to live a good Christian life.
+
+In the 1500s, groups of actors toured around Italy performing comic plays to entertain townspeople. These plays were called Commedia dell'arte, and different stories would be created around the same group of characters. Often the spoken lines would be made up by the actors for each performance.
+
+Other kinds of plays called Neoclassical Dramas and Neoclassical Comedies were also popular in Italy and in France at this time. These plays were written to copy the style of the plays from Ancient Greece and Rome.
+
+At the end of the sixteenth century (before 1600), the traveling actors began to perform in fixed theatre buildings. This was the period when William Shakespeare wrote. He lived from 1564 to 1616. At that time, in England, women were not allowed to perform, so male actors would play female characters.
+
+His theatre was in London, England. It was called The Globe Theatre. It was an outdoor theatre and plays were performed in the daytime for large audiences. His plays were very popular and many are still performed today. Many people believe Shakespeare was one of the best playwrights (a writer of plays).
+
+Plays including Shakespeare's were banned during the Protectorate'. After that, many more were written and acted.
+
+After World War II, playwrights in Europe and the United States began doing plays in a new style called "Theatre of the Absurd." After seeing the horrors of war, these playwrights felt that all their old values had been destroyed. Playwrights such as Samuel Beckett, Eugène Ionesco, Harold Pinter, and Jean Genet wrote plays that are considered to be "Theatre of the Absurd."
+
+The "Theatre of the Absurd" plays have some of the same ideas that are found in the philosophy (a way of thinking) called existentialism. Existentialism is very different from many other "philosophies". Most religions and philosopies say that human life has a meaning (or a purpose). The philosophy of existentialism is that human life does not have a meaning (or a purpose). When something has no meaning, it is "absurd". (absurd means means silly and meaningless.)
+
+The plays written in this style make people think about questions like "what is it like to be a person in the world?" and "what does it mean for a person to be free?" They are often filled with sad emotions, such as worry, fear, and thoughts about death.
+
+Theatre breaks are a form of short holiday, based around viewing a theatrical convention show. Theatre breaks tend to include a nights hotel accommodation included in the price.
+
+TestA test is a way of checking something to see if it is true, or false, or if it is edible or not. If something can be tested, or finishes the tests correctly, it is testable. The "Concise Oxford English Dictionary" defines a test as: "a procedure intended to establish the quality, performance, or reliability of something".
+
+A test is different from an experiment: Before a test is done, there is an expected result. The test is performed, to show this result. In an experiment, the outcome is open. Very often, tests are performed as part of an experiment.
+
+Products are usually tested for quality, so customers will get good products.
+
+In software engineering, a test is used to see if the software system can do what it should. Software is tested before it is released. "Alpha" testing is where software developers check the software for bugs. Software can also be checked for quality and usability. "Beta" testing is done by groups of users.
+
+Tests of cars and other vehicles include a crash test. The car is put under severe conditions to see what will make it fail, or deliberately crashed to measure the damage. Other machines can also be crash tested. Crash test dummies can be used instead of humans. They are placed in the car seat to see if a human in the crash would have been injured or killed.
+
+People are tested to see what they have learned. This is often called an assessment or examination. In learning, a test item is a question, or set of questions.
+
+Many people think tests are valuable. They believe tests:However, academic tests are not perfect measures. Tests could only partly measure a student’s memory and maybe their understanding. The test would only be about a small part of the subject, and only at that moment in time.
+
+People, animals and plants can also be tested for illnesses. For example, a blood test can be used to check for disease.
+
+In science, tests can done to check for a presence of a substance, or to check the quality of something.
+
+Time horizonA time horizon is a future point in time when something must be "done" (a "deadline") or will be "over" (a "time limit"). Either way, the matter will be closed when the time horizon is reached.
+
+Common time horizons people use are:It is very important to know at what time horizon something you are doing will be scored, evaluated, marked or paid for.
+
+Sports, for example football (soccer) and basketball, often have time limits. Baseball and others do not, which sometimes causes problems.
+
+Time limitA time limit is a time horizon that is imposed on everyone at once.
+
+It may be used to try to achieve fairness in some system of ethics. For instance, if poor people and rich people are debating something, a time limit may be imposed so that the rich people cannot keep debating until the poor people have to go to work, and lose.
+
+Time limits are very important in accounting so that everyone can report their results (for tax and investment purposes) at the same time. This in turn creates deadlines for the accountant and those reporting.
+
+However, the deadline is imposed by an authority, whereas the time limit is imposed by a system. So there can be slack in a deadline, so that results do not have to be reported always very fast.
+
+For example, in the United States of America, the end of the calendar year on December 31 is the time limit for taxes, but the deadline for reporting is April 15. Sometimes the government allows more time, as it did for the families of those who were killed in the September 11, 2001 attacks.
+
+TaiwanRepublic of China (ROC; Chinese: 中華民國; pinyin: Zhōnghuá Mínguó), is a Chinese regime that migrated from the mainland to Taiwan. The Republic of China once governed all of China (from 1911 to 1949), but moved to the island of Taiwan after a Chinese civil war. In the years since, the PRC (People's Republic of China) has become the recognized government of China (replacing the ROC at the United Nations in 1971), and the status of the ROC has been left disputed.
+
+The ROC includes the main island of Taiwan plus nearby islands (Pescadores islands and parts of Fujian). Taiwan is located southeast of the Chinese mainland, south of Japan, and north of the Philippines. The capital is Taipei.
+
+Taiwan has also been called Formosa, a Portuguese name which means "beautiful" in Portuguese.
+
+Most people living in Taiwan (called Taiwanese) are Han. Taiwan has three large Han groups. They speak different dialects (variations) of Chinese and their ancestors came from different places: the Southern Fujianese (from China's Fujian Province), the Hakka (from China), and Mainlanders (from Mainland China after 1948).
+
+There are also Taiwanese Aborigines (native tribes) who lived in Taiwan before the Han came to live there.
+
+The largest cities in Taiwan are the capital, Taipei, and the port city of Kaohsiung.
+
+There are two Chinese governments: The People's Republic of China (PRC) and the Republic of China (ROC). Today, in reality, the PRC government controls mainland China, and the ROC government governs Taiwan. The ROC government governed most of China mainland from 1911 to 1949, before losing control of China mainland to the PRC. The ROC constitution still claims ownership of all of China.
+
+The People's Republic of China claims ownership of Taiwan, but it has never ruled over the island of Taiwan. The last time Taiwan and the mainland were united under one government was under the rule of the ROC.
+
+Although Taiwan's status prevents it from participating in some international organizations, polls show that most Taiwanese prefer to keep things as they are (referred to as the status quo), rather than declare formal independence (and risk inviting an attack by communist China), or to be "reunified" with China.
+
+Most countries of the world recognize the People's Republic of China as China. Although Taiwan is not recognized by the UN as a sovereign nation, most countries still have close economic and cultural relations with Taiwan. Countries often set up de facto embassies in Taiwan — officially non-government organizations — that perform the same functions as an embassy.
+
+In 1992, the ROC and PRC agreed to a consensus that there was only "one China" but that both sides could continue to disagree on what that meant.
+
+In March 2004, China's government passed a law called the Anti-Secession Law. The law requires the Chinese military to invade Taiwan immediately if they declare independence. Tsai Ing-wen, the elected President of Taiwan, says Taiwan is already an independent country and does not need to declare independence.
+
+President of communist China, President Xi Jinping, has vowed "reunification" with Taiwan by any means, including through military force. Joe Biden, President of The United States, has said that the US will defend Taiwan from Chinese attack. Australia has said they would join the US, and Japan has indicated they may as well.
+
+Polls show a majority of people in Taiwan want to never be a part of the People's Republic of China. Some of these people believe in complete Taiwan independence and want to rename the ROC (Taiwan) to "Republic of Taiwan" so Taiwan can participate in international affairs. Most others want the "status quo", which means keeping everything the way it is now. A small minority wish to someday unite with the People's Republic of China; they want Chinese reunification.
+
+The island of Taiwan is about 180 kilometers off the southeastern coast of China. It is across the Taiwan Strait. It has an area of .
+
+The East China Sea is to the north, the Philippine Sea to the east, the Luzon Strait directly to the south and the South China Sea to the southwest.
+
+Taiwan's highest point is Yu Shan (Jade Mountain). It is 3,952 meters high (12,966 ft). There are five other peaks over 3,500 meters.
+
+West of Taiwan Island, there are three small groups of islands that also belong to ROC. They are:The largest cities in Taiwan are:There are administrative divisions in different levels and types.
+
+157 Districts (區 qū ㄑㄩ), 17 Country-controlled cities (縣轄市 xiànxiáshì ㄒㄧㄢˋㄒㄧㄚˊㄕˋ), 41 Urban Townships (鎮 zhèn ㄓㄣˋ), and 153 Rural Townships (鄉 xiāng ㄒㄧㄤ) stand the 3rd level. Districts stand under either Special municipalities or Provincial cities; Country-controlled cities, Urban Townships, and Rural Townships stand under Counties.
+
+Villages (里 lǐ ㄌㄧˇ or 村 cūn ㄘㄨㄣ) stand the 4th level, and Neighborhoods (鄰 lín ㄌㄧㄣˊ) stand the 5th level.
+
+Most Taiwanese people speak Standard Chinese known as Mandarin, and others speak local dialects such as Min Nan (Taiwanese) or Hakka. The Cantonese language, spoken in parts of southern China (for example, the province of Guangdong, Hong Kong and Macau), is not spoken in Taiwan. A small percentage of Aboriginal Taiwanese speak aboriginal languages, but the rest of the Chinese people have treated them badly, and many of these people, and their languages, struggle to survive. Some older Taiwanese people who went to school while the country was under Japanese rule can speak Japanese.
+
+After the Nationalist government fled the Mainland in 1949, they brought Mandarin and promoted it in Taiwan. Then everyone in the ROC had to learn Mandarin. But, unlike the people in Mainland China, the Taiwanese never changed to simplified Chinese characters and so they have always used traditional Chinese characters. In the past, students were not allowed to speak their first language in school and were expected to speak only Mandarin. Taiwanese, Hakka, and native languages were considered bad until the early 1990s, when education in these languages began to be taught in some school systems. They were promoted, but by this time, many young people could speak only Mandarin.
+
+Currently, nearly one third of Taiwanese report knowing some amount of English. Full English fluency is not common, however. The government plans to expand English education and make it an official language by 2030.
+
+TrademarkA trademark (or trade mark) is a way for a business to help people identify the products that the business makes from the products made by another business. A trademark can be a name, word, phrase, symbol, logo, design, or picture. It can only be used on things made by the business that owns the trademark.
+
+For example, Coca-Cola and Coke are trademark names for a certain drink made by the Coca-Cola Company. No other business can use these names or any names similar to them. Other businesses can make a drink that is similar, like colas soft drinks, but they have to use a different name for their drink, such as Pepsi.
+
+Another example is the Nike company which makes sporting goods like shoes and clothes. The "swoosh" symbol used on their products is a trademark.
+
+Famous trademarks like Coca-Cola and Nike are used for branding whole families of products.
+
+Trademarks for bakers were first included in a law in the 13th century in England. France expanded trademark laws in the late 19th century and other countries followed.
+
+In the United States, the governing law for trademarks is the Lanham Act, in Germany the Markengesetz.
+
+Trademarks are protected by law. In some countries, a person or company can get a trademark simply by using the name, word, phrase, symbol, logo, design, or picture on its products.
+
+Trademarks can also be registered. In that case, the business tells the government of its country that it wants to use a certain name, word, phrase, symbol, logo, design or picture as a trademark for the products it sells. If no other person or business is using the trademark to sell those products, then the government will list that trademark. Once it is listed, no one else can use that trademark for those products. This is called "registering" the trademark.
+
+If someone uses the trademark in a wrong way, the trademark owner can sue the other person. If a court decides that the other person was not allowed to use the trademark, they might have to pay damages to the trademark owner.
+
+If another person wants to use a trademark that they do not own, they can ask the trademark owner for permission. The trademark owner can grant the other person a license. The other person usually must pay some money to the trademark owner for the license. This can be in the form of a percentage of the cost of the product that the other person sells called a royalty. For example, a person might pay Nike ten percent (10%) of the cost of each pair of shoes it sells for the right to include the Swoosh.
+
+When people write a word that is a trademark or show a picture or symbol that is a trademark, they should say that it is a trademark. If a trademark is not registered, they can write the word "Trademark", use the abbreviation "TM", or use the symbol ™ on their products.
+
+If a trademark is registered, they can use the letter R in a circle symbol: "®". People can also say it is a "registered trademark" or use the abbreviation "Reg.".
+
+Trademarks are used for products. Businesses that do things for people instead of making things are called service providers. They can get a service mark instead of a trademark. When people write or show a service mark, they can use the service mark symbol: "℠".
+
+Ten Commandments

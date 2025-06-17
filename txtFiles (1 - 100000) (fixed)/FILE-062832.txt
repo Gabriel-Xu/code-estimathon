@@ -1,0 +1,7 @@
+Stratification can be used to control for confounding variables (variables other than those the researcher is studying), thereby making it easier for the research to detect and interpret relationships between variables.
+
+Stratification can be used to ensure equal allocation of subgroups of participants to each experimental condition.
+
+Stratification in the field of ecology refers to the vertical layering of a habitat; the arrangement of vegetation in layers.
+
+Stratification of clinical trials, is the partitioning of subjects and results by a factor other than the treatment given.

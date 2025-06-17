@@ -1,0 +1,143 @@
+The database is compiled of data from digital scanning equipment based on people from six different regions in the People's Republic of China; Guangzhou, Hangzhou, Lanzhou, Chongqing, Beijing, and Shenyang.
+
+The database is co-produced by Standard & Poor's and SIX Financial Information.
+
+The database is created with information that users can upload with a program called Tunalyzer (available for Mac only).
+
+The database is devoted to scientific publications.
+
+The database is first established in 2002 with roughly 40 introns.
+
+The database is free and open to the public.
+
+The database is freely accessible via the internet and offers many possibilities to study the history of the handpress book in the Southern Netherlands.
+
+The database is freely available to academic researchers and commercially licensed to others.
+
+The database is freely available via the Internet with a client program, called Rundata, for Microsoft Windows and ASCII text files for other operating systems.
+
+The database is freely searchable.
+
+The database is funded through the FP6-2004-Food-3-A project EPIZONE and the European Commissions financial aid for running the European Community Reference Laboratory for Fish Diseases.
+
+The database is helpful for the comparison of protein structures.
+
+The database is hosted at the Weizmann Institute of Science.
+
+The database is hosted by the European Molecular Biology Laboratory in Heidelberg.
+
+The database is hosted by the Swiss Institute of Bioinformatics.
+
+The database is indexed using standard Medical Subject Headings (MeSH).
+
+The database is licensed under the Apache License.
+
+The database is made up of published materials encompassing, conference proceedings, trade publications, thesis, periodicals, books, patents, regulatory documents, and collected scientific literature.
+
+The database is maintained by Terminology and Reference Section, Documentation Division, Department of General Assembly and Conference Management, with its headquarters in New York City.
+
+The database is maintained by the Department of Biological Sciences at North Carolina State University.
+
+The database is maintained by the European Bioinformatics Institute (EMBL-EBI) and the development is funded by Biotechnology and Biological Sciences Research Council (BBSRC).
+
+The database is maintained by the National Consortium for the Study of Terrorism and Responses to Terrorism (START) at the University of Maryland, College Park in the United States.
+
+The database is maintained by the Office of Extramural Research at the National Institutes of Health.
+
+The database is manipulated by authorization data that defines specific capabilities and roles for users.
+
+The database is often incorporated into the procurement software utilized by the entity for use in e-procurement.
+
+The database is open access and consists of 40-item basic-vocabulary lists for well over half of the world's languages.
+
+The database is open, with ethical restrictions, to academic researchers.
+
+The database is overseen by the Treasury Board Secretariat.
+
+The database is part of a system that includes topographic map names and bibliographic references.
+
+The database is primarily used by researchers from different areas to analyze and improve air traffic control technologies and processes.
+
+The database is primarily used in advertising as a server-side cookie store, where read and write performance is paramount.
+
+The database is produced and maintained by the European Patent Office (EPO).
+
+The data base is provided by the users of the website themselves (crowdsourcing) who log the fuel ups of their vehicles in the system.
+
+The database is published on the National Center for Biotechnology Information Bookshelf site.
+
+The database is regularly updated with new versions being released every two months.
+
+The database is run and maintained by a group of researchers based at the Universidad Nacional de Quilmes in Argentina.
+
+The database is run by Medical Object Oriented Software Enterprises Ltd, a company based in London.
+
+The database is the official repository of foreign place-name decisions approved by the US BGN.
+
+The database is updated constantly with new releases.
+
+The database is updated monthly, with approximately 1600 new records added.
+
+The database is updated on a daily basis.
+
+The database is used as source of legal and reference information in universities and libraries all over the world.
+
+The database is used by financial institutions and corporations as a risk research and monitoring tool.
+
+The database is used by retailers in order to reduce the number of bad checks received.
+
+The database is used by the Rural Payments Agency to pay subsidies and grants under schemes including the Environmental Stewardship Scheme, Farm Woodland Scheme and the Single Payment Scheme.
+
+The database is used primarily by media players and CD ripper software.
+
+The database is used to estimate brand valuations, and each year since 2006, has been used to generate a list of the top 100 global brands.
+
+The database is useful for the study of metabolic evolution.
+
+The "database" is usually name, address, and transaction history details from internal sales or delivery systems, or a bought-in compiled "list" from another organization, which has captured that information from its customers.
+
+The database itself allows a user to input a search term and then narrow the listed search by date, region and newspaper, with the earliest possible articles to find being from the early 1980s.
+
+The database keeps track of those who have written outstanding bad checks to any retailer using the system, and retailers can determine, based on these records, whether or not to accept a check from a particular accountholder.
+
+The database "lets users check individual or groups of chemical substances against any or all of the regulations noted within the database" in order to identify the regulations that apply to those substances.
+
+The database library can optionally be run in-process with the application, eliminating client/server remote procedure calls.
+
+The database lists books by individual editions, recording standard bibliographic details for each edition as well as giving a brief census of known copies, organized by location.
+
+The database logs data on reception facilities detailing each category of ship-generated waste.
+
+The database machine contrasts with a database server, which is a computer in a local area network that holds a database.
+
+The database maintains up-to-date corporate organizational and data charts for all the world's private and public companies exceeding $100 million in revenue, which includes over 50,000 companies.
+
+The database makes accessible the various properties, behaviors, and materials in the materials science discipline.
+
+The database management systems currently supported are MySQL, PostgreSQL and SQLite.
+
+The database may be searched online, queried through a representational state transfer API, or downloaded.
+
+The database mixes a crowd-sourcing model with its own investigative and editorial teams.
+
+The database, named after Nicolaus Copernicus (who triggered the Copernican Revolution), has several assessment tools to track the impact of scientific works and publications, individual scientists, or research institutions.
+
+The database never removes an entry, "except in cases of obvious duplication."
+
+The database never removes an entry, "except in cases of obvious duplication".
+
+The DatabaseObjects library is an open source tool for mapping relational database systems (MySQL, SQL Server, SQL Server Compact Edition, SQLite, Microsoft Access, Pervasive and HyperSQL) to an object-oriented structures.
+
+The database of annotations of third-party image URL's is freely available directly from ImageNet; however, the actual images are not owned by ImageNet.
+
+The Database of Chinese Lakes provided data on China's salt lakes.
+
+The database offers access to articles and essays on social and cultural anthropology, Old and New World archeology, physical anthropology and anthropological aspects of related subjects emphasizing Mesoamerican, Native American and Andean archeology and ethnology.
+
+The database offers millions of English and French terms from various specialized fields.
+
+The database offers several different query tools in order to provide efficient access to the data available and facilitate the discovery of significant relationships within the database.
+
+The Database of Macromolecular Motions (molmovdb) is a bioinformatics database and software-as-a-service tool that attempts to categorize macromolecular motions, sometimes also known as conformational change.
+
+The Database of protein conformational diversity (PCDB) is a database of diversity of protein tertiary structures within protein domains as determined by X-ray crystallography.

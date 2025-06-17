@@ -1,0 +1,1 @@
+DSL was originally based on Model-K, a 22 MB stripped-down version of Knoppix, but soon after was based on Knoppix proper, allowing much easier remastering and improvements.

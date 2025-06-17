@@ -1,0 +1,43 @@
+A possible way of writing this algorithm in Java is shown below.
+
+public static int binarySearch(int[] array, int target) {Jemima GoldsmithJemima Marcelle Khan (née Goldsmith, born 30 January 1974) is a British TV, movie and documentary producer and founder of Instinct Productions, a television production company. She was also a journalist, and an editor of The New Statesman, a British political and cultural magazine. Goldsmith married Pakistani cricketer and politician Imran Khan in 1995, and had two sons. The couple divorced in 2004, although they still consider each other as good friends.
+
+Dmitry YazovDmitry Timofeyevich Yazov (; 8 November 1924 – 25 February 2020) was a Soviet military personnel. He served during World War II and the Soviet–Afghan War. He was born in Omsk Oblast, Soviet Union.
+
+He was the last Marshal of the Soviet Union to be appointed before the fall. He was the only Marshal of the Soviet Union to be born in Siberia. He is veteran of the Great Patriotic War. Yazov was the last surviving Soviet Marshal and the only military marshal not to have been awarded the title Hero of the Soviet Union.
+
+Reham KhanReham Khan is a British Pakistani journalist, author, and filmmaker.
+
+She married Pakistani former cricketer and politician Imran Khan in January 2015. The couple divorced after 9 months.
+
+Reham was born to Nayyar Ramzan, a Pakistani physician. She is ethnically of Pashtun origins from the Lughmani clan, a sub-clan of the Swati tribe.
+
+Her parents moved to Libya in the late 1960s, where Reham was born in Ajdabiya in 1973. She has one sister and one brother.
+
+Reham has a Bachelor's degree in Education from Jinnah College for Women, PeshawarShe married Ejaz Rehman, her first cousin and British psychiatrist, when she was 19. Following their divorce, Khan began working as a broadcast journalist. She has three children who have lived with her since the divorce.
+
+On 6 January 2015, Imran Khan confirmed his marriage to Reham which ended on 30 October 2015 in a divorce.
+
+Reham started her career in 2006 hosting shows on Legal TV. In 2007, Reham began presenting for Sunshine Radio Hereford and Worcester. In 2008, Khan joined BBC as broadcast journalist.
+
+In 2013, Khan joined Pakistani news channel News One. In 2014, following a brief stint at PTV, she joined Dawn News presenting the current affairs show "In Focus". In May 2015, she began to host "The Reham Khan Show", a programme celebrating Pakistani heroes. In December 2015, she started a new talk show by the name of "Tabdeeli" on Neo TV. "Tabdeeli" (change) is also a political slogan of Imran Khan, her former husband.
+
+Reham has also produced a Pakistani film "Janaan", the romantic comedy set in Swat which premiered on the occasion of Eid ul Adha on 13 September 2016.
+
+Samuel P. HuntingtonSamuel Phillips Huntington (April 18, 1927 – December 24, 2008) was an American political scientist, adviser and academic. He spent most of his career working at Harvard University, where he was director of Harvard's Center for International Affairs and the Albert J. Weatherhead III University Professor.
+
+During the Presidency of Jimmy Carter, Huntington was the White House Coordinator of Security Planning for the National Security Council.
+
+Huntington was best known for his 1993 theory, the "Clash of Civilizations", of a post-Cold War new world order. He argued that future wars would be fought not between countries, but between cultures. Many believed Hunting was responsible for helping to shape U.
+
+S. views on civilian-military relations, political development, and comparative government.
+
+Huntington died on December 24, 2008 in Martha's Vineyard, Massachusetts from congestive heart failure complicated by diabetes, aged 81.
+
+Keith ChristiansenKeith Raymond "Huffer" Christiansen (July 14, 1944 – November 5, 2018) was a professional Canadian-born American ice hockey player. He was born in Fort Frances, Ontario.
+
+Christiansen appeared in 138 World Hockey Association (WHA) regular season games with the Minnesota Fighting Saints between 1972 and 1974. Before turning professional, he was a member of the United States' 1972 Winter Olympics team that won the silver medal. He also represented the United States at the 1969, 1970 and 1971 Ice Hockey World Championships.
+
+He was inducted into the United States Hockey Hall of Fame in 2005. Christiansen died in Duluth, Minnesota on November 5, 2018 at the age of 74 from pneumonia complicated by lung cancer.
+
+Independence County, Arkansas

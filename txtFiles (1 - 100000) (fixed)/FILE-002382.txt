@@ -1,0 +1,13 @@
+In probability and statistics, Poisson distribution is a probability distribution. It is named after Siméon Denis Poisson. It measures the probability that a certain number of events occur within a certain period of time. The events need to be unrelated to each other. They also need to occur with a known average rate, represented by the symbol formula_1 (lambda).
+
+More specifically, if a random variable formula_2 follows Poisson distribution with rate formula_1, then the probability of the different values of formula_2 can be described as follows:Examples of Poisson distribution include:Samaná ProvinceSamaná is a Dominican province. It is in the northeastern part of the country. It takes up the whole Samaná Peninsula. Its capital city is Santa Bárbara de Samaná, usually called just "Samaná". It is one of the main tourist regions of the country with several important resorts.
+
+The word "Samaná", written as "Xamaná" centuries ago, is the Taíno name of the region. The meaning of the word is unknown.
+
+Samaná was visited by Christopher Columbus in January 1493, during his first travel to the Americas. At that moment, Samaná was occupied by "Ciguayos", a tribe of Native Americans with the same culture of the Taínos but a different language. They were the first Indians that fought against the Europeans.
+
+After the conquest of the Hispaniola island by the Spaniards, Samaná was occupied by different groups of Europeans, mainly French people. Some groups of "" (runaway slaves) lived in the mountains for many years.
+
+To fight against those European groups, Spain brought galleys (a galley was a narrow war ship where prisoners and slaves were used to move the ship), and founded in 1756 the town of Santa Bárbara de Samaná on the northern coast of Samaná Bay, with people from the Canary Islands.
+
+When the eastern part of the Hispaniola (the "Santo Domingo" colony) was given to France in 1795, the French government tried to develop the region, and many French families moved to Samaná to grow coffee; many places in Samaná have French names. Most of those French families left Samaná when Spain took again the colony in 1809.

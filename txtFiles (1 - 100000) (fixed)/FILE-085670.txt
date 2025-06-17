@@ -1,0 +1,325 @@
+User data is interspersed in-band with Telnet control information in an 8-bit byte oriented data connection over the Transmission Control Protocol (TCP).
+
+User data is stored in a subfolder, allowing the user to upgrade or move the software without affecting the data.
+
+User-defined languages can have several concrete notations that are defined declaratively with the GraSyLa language.
+
+User-defined library tags act as templates that dictate how program code is generated from information encoded in each dynamic tag.
+
+User defined programs can also be executed.
+
+User-defined settings and the rotational input speed of the shaft determine the speed at which an electronic zero-speed switch trips.
+
+User developed apps can be run in COMSOL Server through web browsers or a Windows-installed client.
+
+Use recycled wrapping paper, bows or gift bags.
+
+User environment management (also abbreviated to UEM) is the management of a computer user's experience within their desktop environment.
+
+USE represents the commitment of 21 Indian public sector banks, private banks, international banks (Standard Chartered) and corporate houses to build an institution of repute.
+
+Use results in a greater chance of twins.
+
+User exits are important because while they enable site specific customization they isolate such installation specific customization to defined and supported points enabling the site to upgrade to follow-on releases of the software package without adverse impact to preexisting customized functionality.
+
+User expectations refers to the consistency that users expect from products.
+
+User experience (UX) evaluation or user experience assessment (UXA) refers to a collection of methods, skills and tools utilized to uncover how a person perceives a system (product, service, non-commercial item, or a combination of them) before, during and after interacting with it.
+
+Userfarm management, led by Bruno Pellegrini, never recognized any financial responsibility for the company they acquired and refused to pay its outstanding debts.
+
+User fees pay for operating expenses.
+
+User Friendly (foaled 4 February 1989 in England) is a European Champion Thoroughbred racehorse.
+
+User Friendly is a daily webcomic about the staff of a small fictional Internet service provider, Columbia Internet.
+
+Userful Corporation is a Canadian software company that specializes in video walls, digital signage, interactive displays and desktop virtualization.
+
+Userful's head office is located in Calgary, Alberta and is a privately held for-profit company with resellers around the world.
+
+User generated content is a central aspect of the game, such that it uses the same "Play, Create, Share" adage as LittleBigPlanet to convey its basis in online user-generated content sharing and level creation tools.
+
+User-generated content is used for a wide range of applications, including problem processing, news, entertainment, advertising, gossip and research.
+
+User-generated content makes up the majority content on these sites; users therefore view content on the sites according to what interests them most.
+
+User-generated content, such as text posts or comments, digital photos or videos, and data generated through all online interactions, is the lifeblood of social media.
+
+User-generated content (UGC), alternatively known as user-created content (UCC), is any form of content created by users of a system or service and made available publicly on that system.
+
+User-Generated Television or UGTV refers to TV footage that was originally created by a member of the public and then uploaded to the internet.
+
+User groups later added support for the IBM 2260 video display terminal.
+
+User guides are most commonly associated with electronic goods, computer hardware and software.
+
+Userhat's wife was named Maiay.
+
+Userhat was the son of the judge Neh and his wife Senenu.
+
+Userhet was an overseer of the fields of the wind deity Amun.
+
+Userhet was the son of Khensemhab and the chantress of Montu, named Tausert.
+
+Userin is a municipality in the district Mecklenburgische Seenplatte, in Mecklenburg-Vorpommern, Germany.
+
+User innovation has a number of degrees: innovation of use, innovation in services, innovation in configuration of technologies, and finally the innovation of novel technologies themselves.
+
+User innovation refers to innovation by intermediate users (e.
+
+g. user firms) or consumer users (individual end-users or user communities), rather than by suppliers (producers or manufacturers).
+
+User innovation, therefore, is also socially and socio-technically distributed innovation.
+
+User input allows for the users to manipulate a system, and device's output allows the system to indicate the effects of the users' manipulation.
+
+User intent or query intent is the identification and categorization of what a user online intended or wanted when they typed their search terms into an online web search engine for the purpose of search engine optimization or conversion rate optimization.
+
+User Interface and the Fly Ball Cursor - Prior to Intellivision World Series Baseball in 1983 all hits in baseball games were grounders, since there was no way to display the ball in flight in 3D. After World Series Baseball, from 1983-1990 games had fly balls but used a ball-shaped shadow to trace the ball's path on the ground.
+
+User interface design (UI) or user interface engineering is the design of user interfaces for machines and software, such as computers, home appliances, mobile devices, and other electronic devices, with the focus on maximizing usability and the user experience.
+
+User interface: In a computer menu with a graphical user interface, some designs require more clicks from the user in order to make a selection.
+
+User interface libraries such as Windows Presentation Foundation, GTK+, and Cocoa, contain a collection of controls and the logic to render these.
+
+User Interface Library (YUI) is a discontinued open-source JavaScript library for building richly interactive web applications using techniques such as Ajax, DHTML, and DOM scripting.
+
+User interface markup languages, like most markup and programming languages, rely upon sub-application runtimes to interpret and render the markup code as program code that can be processed and put out in the desired form.
+
+User Interface (MUI) is the name of a Microsoft technology for Microsoft Windows, Microsoft Office and other applications that allows for the installation of multiple interface languages on a single system.
+
+User Interface Privilege Isolation (UIPI) is a technology introduced in Windows Vista and Windows Server 2008 to combat shatter attack exploits.
+
+User interfaces are commonly programmed using an event-driven architecture, so GUI builders also simplify creating event-driven code.
+
+User interfaces can easily be extended or modified by AutoHotkey (for example, overriding the default Windows control key commands with their Emacs equivalents).
+
+User interfaces could load extensions (plugins) from a common repository.
+
+User interfaces typically use modal windows to command user awareness and to display emergency states, though interaction designers argue they are ineffective for that use.
+
+User is also a person or process accessing an AIS by direct connections (e.
+
+g., via terminals) or indirect connections.
+
+User is a paper magazine that was launched by Linux New Media AG in May 2009.
+
+The publication is aimed at users of the Ubuntu operating system and focuses on reviews, community news, how to articles and troubleshooting tips.
+
+User is mainly known from a false door found at Khozam (ancient Iushenshen) in 1884.
+
+User journeys are focused on the user and what they see and what they click on, in comparison to the related term click path which is just a plain list of the text URLs that are hit when a user follows a particular Journey.
+
+User journeys describe at a high level of detail exactly what steps different users take to complete a specific task within a system, application or website.
+
+Userkare's relation to his predecessor Teti and successor Pepi I is unknown and his reign remains enigmatic.
+
+UserLand Software is a US-based software company, founded in 1988, that sells web content management, as well as blogging software packages and services.
+
+User-level processes could create supervisor-level processes, which were used to manage user-level processes and perform I/O. Processes of the same class were required to be grouped into one of seven user tasks and seven supervisor tasks.
+
+UserLinux was a project to create an operating system based on Debian, and targeted at business customers.
+
+Usermaatre Amenemope was an ancient Egyptian pharaoh of the 21st Dynasty.
+
+Usermaatre Ramesses III (also written Ramses and Rameses) was the second Pharaoh of the Twentieth Dynasty in Ancient Egypt.
+
+Usermaatre Setepenamun Osorkon II was the fifth pharaoh of the Twenty-second Dynasty of Ancient Egypt and the son of Takelot I and Queen Kapes.
+
+Usermaatre Setepenre Pami was an ancient Egyptian pharaoh of the 22nd Dynasty who ruled for 7 years.
+
+User maps are created by uploading and geotagging media.
+
+Usermare Akhenamun Ramesses VIII (also written Ramses and Rameses) or Ramesses Sethherkhepshef Meryamun ('Set is his Strength, beloved of Amun') (reigned 1130-1129 BC, or 1130 BC), was the seventh Pharaoh of the Twentieth Dynasty of the New Kingdom of Egypt and was one of the last surviving sons of Ramesses III.
+
+Usermin is a web-based user interface for Unix-like systems.
+
+Usermin is designed for normal users for the simple tasks of: Reading mail.
+
+User-mode Linux (UML) enables multiple virtual Linux kernel-based operating systems (known as guests) to run as an application within a normal Linux system (known as the host).
+
+User modification, or modding of games in the open-world sandbox Grand Theft Auto series is a popular trend in the PC gaming community.
+
+Usermontu is depicted in the tomb of Khonsu, called To (TT 31).
+
+Usermontu is said to be born of Maia.
+
+Usermontu is shown seated at a banquet with vizier Nebamun?!.
+
+A stela of Usermontu was found in Armant.
+
+Usermontu's wife Tiy was Chief of the Harim of Montu.
+
+Usermontu was an ancient Egyptian vizier from the reign of Tutankhamun to likely the reign of Horemheb, during the 18th Dynasty.
+
+User must also have a qualifying E-MU hardware such as a E-MU digital audio interface, E-MU Xmidi 2x2 or E-MU Xboard keyboard controller connected, powered on and installed correctly as the E-MU hardware also acts as a software copy protection dongle for the protected software.
+
+Username Password Homepage URLAny other critical settings should either be defined in the RSD file related to the website, or discoverable using the information provided.
+
+Usernames could contain only emoji and users could only communicate using emoji within the app.
+
+USERN organized exclusively for advancement of authentic, ethical and professional scientific research and education and consequently advancement of science for non-military purposes and public good.
+
+USERN prize is an international award, established by USERN which is annually bestowed on junior scientists or researchers less than 40 years of age for any novel advancement or achievement in scientific education, research, or serving the humanity in five scientific fields including medical sciences, life sciences, formal sciences, physical sciences, and social sciences.
+
+USERN, the official acronym of universal scientific education and research network, is established in 2015 and the Basic Statute of USERN was drafted on 21 January 2015, which was revised on 20 March 2016 to be signed by a number of top scientists worldwide.
+
+User numbers will be boosted by the roll out of BharatNet.
+
+User operates remote experiment via graphical user interface.
+
+User-owned and directed, it automates, centralizes, standardizes, and streamlines processes in the capital markets.
+
+User Part or ISUP is part of Signaling System No. 7 (SS7), which is used to set up telephone calls in the public switched telephone network (PSTN).
+
+User pays, or beneficiary pays, is a pricing approach based on the idea that the most efficient allocation of resources occurs when consumers pay the full cost of the goods that they consume.
+
+Userplane announced on their blog that they will be shutting down on Aug. 1, 2013.
+
+Userplane powers chat experiences for many of the top 25 dating sites and language learning sites.
+
+Userplane was a white label service that offers both group-chat and one-to-one messenger services, which gives website owners the ability to offer chat between their users in a wall-gardened experience.
+
+Userplane was founded in 2001 by Mike Jones, Nate Thelen, and Javier Hall, in Santa Monica, California.
+
+User presentations are organized into several tracks, including teaching with GIS, using GIS for administration and policy-making, community projects, using GIS in libraries and museums, and research on the impacts of GIS in educational settings.
+
+UserPress does not currently support any kind of wiki markup.
+
+UserPress is a wiki plugin for WordPress.
+
+User profiles can be found on operating systems, computer programs, recommender systems, or dynamic websites (such as online social networking sites or bulletin boards).
+
+User queries can range from multi-sentence full descriptions of an information need to a few words.
+
+User reports suggest most servers had already been turned off as of March 5, 2014 well in advance of the May 12th closure, prompting anger among remaining players who were told days earlier by EA to spend their remaining funds as no refund would be issued.
+
+User, reseller and administrator accounts may be created.
+
+User reviews are commonly provided by consumers who volunteer to write the review, rather than professionals who are paid to evaluate the product or service.
+
+User reviews might be compared to professional nonprofit reviews from a consumer organization, or to promotional reviews from an advertiser or company marketing a product.
+
+Users access a centralized database through a computer network which is able to give them access to the central CPU, which in turn maintains to the database itself.
+
+Users access each of the services through their web browser.
+
+Users added value to the card at CTA vending machines or at select retail locations, and turnstiles or fareboxes deducted value from the card.
+
+Users add web content using simple tools and then customize the design of their site using built-in options or with CSS and HTML.
+
+Users also can add an additional flavor such as curry powder or any readily made paste to enhance the flavor.
+
+Users also did not need to open a new window to continue using the site and browsing videos when they were uploading a video of their own.
+
+Users also had the option to add an additional 9 artists to customize a station further.
+
+Users also have access to a library of engaging educational content posters created by other students and educators worldwide.
+
+Users also have the choice to strip audio streams, subtitles and chapters.
+
+Users also need to download web content through the Webaroo control panel before they can browse it offline, however this feature is no longer functional.
+
+Users and practitioners tend to relate benefits both in relation to the quasi-scientific narrative of the ethology of horse behavior, viewing the horse as "other", but also to the idea of an anthropomorphic partnership.
+
+Users and providers may refer to such a message as a PXT, a picture message, or a multimedia message.
+
+Users and the computer press raved about Core's products.
+
+Users answer five basic household questions and are instantly presented with a personalized list of health coverage options, complete with program contact and cost information, sign-up checklists of important documents needed to enroll, and application links.
+
+Users are able to access a wider range of services, choose among more service providers.
+
+Users are able to boot their personal computers in seconds and immediately browse the Internet and perform other Web-based activities.
+
+Users are able to browse the site and search for channels to watch and chat with other viewers, or create their own channel.
+
+Users are able to choose which professional they want to submit their work to, and pay a fee that varies depending on the person they select.
+
+Users are able to connect directly to politicians and campaign managers and engage in political activities in new ways.
+
+Users are able to create and add custom tools or plugins using any JVM language.
+
+Users are able to create and design profiles, a friends list, blogs, galleries, compose articles and forums.
+
+Users are able to create a profile and upload their resume, as well as browse different job opportunities.
+
+Users are able to create, start, and stop servers as they require allowing rapid deployment where needed.
+
+Users are able to extend the Alexa capabilities by installing "skills" (additional functionality developed by third-party vendors, in other settings more commonly called apps such as weather programs and audio features).
+
+Users are able to navigate the sky by panning and zooming, or explore the 3D universe from the surface of Earth to past the Cosmic microwave background (CMB), viewing both visual imagery and scientific data (academic papers, etc.) about that area and the objects in it.
+
+Users are able to review and rate holiday accommodations out of 10 as well as the having the option to upload personal holiday photographs alongside their reviews.
+
+Users are able to set up and route workflows without additional programming and IT assistance.
+
+Users are able to skip unlimited times, like and ban a predetermined number of songs, alongside adjusting the variety, and add up to six artists onto the playlist.
+
+Users are able to use the location and date of their content to "pin" it to Google Maps.
+
+Users are able to view and generate their own models using a software tool available for download at the Photosynth website.
+
+Users are advised to use unorthodox methods (including manually deleting directories, unlocking files, stopping processes, unregistering DLL files and/or deleting registry entries) in order to completely remove the software.
+
+Users are allowed to choose between a New England prison, a modern U.
+
+S. Southwestern-style prison, and a West Coast-style prison modeled after San Quentin.
+
+Users are allowed to optionally share lists of magnet or URL links which are then searchable across all channels a user is joined to.
+
+Users are allowed to read, download, copy, distribute, print, search, or link to the full texts of the articles, or use them for any other lawful purpose.
+
+Users are also able to access extensive off-line and online help resources.
+
+Users are also able to block interactions with other users.
+
+Users are also able to control their phone wirelessly via the same interface.
+
+Users are also able to get the Instant Search function and the new All Programs feature in the Start Menu using ViStart.
+
+Users are also able to review details about the provider's practice as well as their credentials.
+
+Users are also encouraged to update the Wikipedia List.
+
+Users are asked to determine the best time and date to meet.
+
+Users are asked to give an opinion on 30 propositions, clustered within several issues.
+
+Users are charged a rate based on how much waste they present for collection to the municipality or local authority.
+
+Users are charged a small fee for sending and withdrawing money using the service.
+
+Users are encouraged to build in a shared world and undertake player vs environment and player vs player combat.
+
+Users are encouraged to capture an image on their phone and share it to a subject-approapriate album or "stream".
+
+Users are encouraged to create individual biographical pages of players and continue to add notable players to this list.
+
+Users are encouraged to donate after watching the films, and the highest earning to date has received almost $100,000.
+
+Users are encouraged to feed information in a crowdsourcing manner.
+
+Users are expected to use other paging programs, such as more and less.
+
+Users are free to take 3D models to a fabricator and have the hardware built for less cost than buying a manufactured limb.
+
+Users are given the option of independently verifying their buddies' device lists and are notified when a buddy's device list is modified and all updates are verified through the built-in update downloader.
+
+Users are in command of the ship and are responsible for the task of purchasing buildings and designing the layout.
+
+Users are invited to visit Sterling Publishing's website for more information on Pixiq's photography books.
+
+Users are now able to access the posts of other bloggers in the immediate area through a process called Georeferential Blogging; which utilizes geographical location to collectively group blogging activity.
+
+Users are occasionally given an opportunity to mark whether they wish to see more or fewer images of a similar type, and sometimes the images are overlaid with links to advertisements.
+
+Users are offered a map-based tool to select a center-point and radius to search within.
+
+Users are presented with a curated list of things to do, including last-minute classes and courses, which can be booked direct on the app or via the website.
+
+Users are provided with a link to access their files, which can be shared with anyone on the internet so that they can download the files associated with the particular link.
+
+Users are required to embed a piece of HTML code into their site, and the application automatically generates a slideshow using local images or a Flickr photostream.

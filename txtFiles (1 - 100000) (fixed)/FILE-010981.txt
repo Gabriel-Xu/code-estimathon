@@ -1,0 +1,139 @@
+Russell's teapot is an analogy by the philosopher Bertrand Russell (1872–1970) to show that the philosophic burden of proof belongs to a person making a claim that cannot be proven false, instead of other people "disproving" these claims.
+
+Russell used his analogy for religion. He wrote that if he were to say without proof, that a teapot, too small to be seen by telescopes, orbits the Sun somewhere in space between the Earth and Mars, he could not expect anyone to believe him because his claim could not be proven wrong.
+
+Russell's teapot is still used to talk about the existence of God.
+
+VeendamVeendam is a municipality in the province of Groningen, the Netherlands. In 2019, 27,491 people lived there.
+
+Burden of proof (philosophy)The burden of proof (Latin: onus probandi) is the job of a person who is involved in a debate to show proof for their claim.
+
+When people are in a discussion and one makes a claim that the other one does not agree with, the one who makes the claim has the burden "of proof". It means he must show proof of that claim, especially when it is controversial.
+
+Carl Sagan said that: "extraordinary claims require extraordinary evidence" – which is known as the Sagan standard.
+
+Often these philosophical debates moved from what the claim was to debating who has the "burden of proof" or the best proof for their claim.
+
+The burden of proof also exclaims when the accuser makes an accusation, they have the burden of proof to prove that what they said is true with evidence.
+
+LexicologyLexicology is the science of words and their meanings.
+
+The word "lexicology" is a combination of Greek λεξικόν "lexicon", which means "of" or "for words", and Greek -λογία "-logia", "the study of".
+
+FranekerFraneker () is a city in the province of Friesland, the Netherlands. It is the capital of the municipality of Waadhoeke. As of 1 January 2014, 12,781 people lived there.
+
+Best, NetherlandsBest is a municipality in the Dutch province of North Brabant. In 2019, 29,821 people lived there.
+
+HalderbergeHalderberge is a municipality in the Dutch province of North Brabant. In 2019, 30,194 people lived there.
+
+BoxtelBoxtel is a municipality in the Dutch province of North Brabant. In 2021, about 33,000 people live there.
+
+BoekelBoekel is a municipality in the Dutch province of North Brabant. In 2019, 10,588 people lived there.
+
+GoirleGoirle is a municipality in the Dutch province of North Brabant. In 2019, 23,793 people lived there.
+
+CuijkCuijk is a former municipality in the Dutch province of North Brabant. In 2021, about 25,400 people lived there.
+
+Cuijk has been a part of Land van Cuijk since 2022.
+
+LithLith is a former municipality in the Dutch province of North Brabant. Since 2011, it has been part of the municipality of Oss.
+
+Abyssal fanAbyssal fans are underwater geological formations formed by turbidity currents. It is also called deep-sea fans, underwater deltas, and submarine fans. They can be several kilometres long to several thousands of kilometres long. The largest abyssal fan is the Bengal Fan.
+
+Abyssal plainAn abyssal plain is an underwater plain on the deep ocean floor. It is usually found 3,000 metres (9,800 ft) and 6,000 metres (20,000 ft) below the surface of the water. Abyssal plains cover more than 50% of the Earth's surface. They are among the flattest and smoothest places on Earth.
+
+Abyssal plains are believed to have lots of biodiversity. They are also play an important role in ocean carbon cycling, dissolution of calcium carbonate, and atmospheric CO concentrations over hundreds or thousand years. Abyssal plains also have hydrothermal vents and cold seeps.
+
+MaasdonkMaasdonk is a former municipality in the Dutch province of North Brabant. In 2015, it has become a part of the existing municipalities of 's-Hertogenbosch and Oss.
+
+X-Men: ApocalypseX-Men: Apocalypse is a 2016 superhero action thriller epic fantasy movie. It is based on the fictional Marvel Comics group named X-Men.
+
+The movie is the ninth installment of the X-Men Cinematic Universe, is the sequel of "" and is the third movie of the "X-Men: Beginnings" quadrilogy.
+
+Loon op ZandLoon op Zand is a municipality in the Dutch province of North Brabant. In 2019, 23,327 people lived there.
+
+Altena, NetherlandsAltena is a municipality in the Dutch province of North Brabant. In 2019, 55,489 people lived there.
+
+It was created on 1 January 2019 from the former municipalities of Aalburg, Werkendam, and Woudrichem.
+
+Sint-MichielsgestelSint-Michielsgestel is a municipality in the Dutch province of North Brabant. In 2019, 28,991 people lived there.
+
+Asten, NetherlandsAsten is a municipality in the Dutch province of North Brabant. In 2019, 16,710 people lived there.
+
+BoxmeerBoxmeer is a former municipality in the Dutch province of North Brabant. In 2021, about 29,600 people lived there.
+
+Boxmeer has been a part of Land van Cuijk since 2022.
+
+Daredevil (movie)Daredevil is a 2003 American superhero movie directed and written by Mark Steven Johnson. It was based on the Marvel character Daredevil by Stan Lee. "Daredevil's" main actors are Ben Affleck, Jennifer Garner, Michael Clarke Duncan, and Collin Farrell.
+
+In November 2004, Johnson released a director's cut which restored 30 minutes of footage including a subplot with Coolio as Dante Jackson.
+
+Fantastic Four (2015 movie)Fantastic Four is a 2015 American superhero movie based on the Marvel Comics comic "Fantastic Four". The movie was released in the United States on August 7, 2015.
+
+It was very poorly received by audiences and critics.
+
+Natural archA natural arch is a natural rock formation where an arch has formed with an opening under the arch. It is also called a natural bridge, or (less commonly) rock arch. Natural arches commonly form where inland cliffs, coastal cliffs, fins or stacks are eroded by the sea, rivers or weathering.
+
+Most natural arches are formed from narrow fins and sea stacks that is made up of sandstone or limestone.
+
+Mortal Kombat 11Mortal Kombat 11 is a fighting video game. It was developed by NetherRealm Studios and published by Warner Bros. Interactive Entertainment. It is the eleventh main game in the "Mortal Kombat" series.
+
+Richard EpcarRichard Michael Epcar (born April 29, 1955) is an American voice actor. He is the voice of Raiden in "Mortal Kombat", of The Joker in "" and of Ansem in "Kingdom Hearts". He was also the voice of Brick Bully in Mighty Morphin Alien Rangers.
+
+Injustice: Gods Among UsInjustice: Gods Among Us is a fighting video game. It was developed by NetherRealm Studios and published by Warner Bros. Interactive Entertainment. It is the first main game in the "Injustice" series based on characters from DC Comics.
+
+Linked listIn computer science, a linked list is a data structure that is a linear collection of items whose order is not given by their physical placement in memory. Instead, each item links to the next item. The last item links to a terminator used to mark the end of the list.
+
+Item reverseList(Item head) {Injustice 2Injustice 2 is a fighting video game. It was developed by NetherRealm Studios and published by Warner Bros. Interactive Entertainment. It is the second main game in the "Injustice" series based on characters from DC Comics.
+
+Blade: TrinityBlade: Trinity is a 2004 American vampire superhero horror movie starring Wesley Snipes.
+
+Spawn (character)Spawn is a fictional character, a comic book superhero/antihero published by Image Comics. He was created by Todd McFarlane. He appears as a playable guest character in both Soulcalibur II and Mortal Kombat 11.
+
+Spawn has appeared in movies, TV series and video games; he was played by Michael Jai White in a 1997 movie. On animated shows/movies/games he is portrayed by Keith David and Kevin Michael Richardson.
+
+Tree (data structure)In computer science, a tree is a graph data structure composed of items that have child items. Trees have an item called a root. No item has the root as a child. Trees may not have cycles. Items may contain a reference to their parent. An item is a leaf if it has no children. The height of an item is the length of the longest downward path to a leaf from that item. The height of the root is the height of the tree. The depth of an item is the length of the path to the tree's root, tree roots can be infinite.
+
+Scorpion (Mortal Kombat)Scorpion is a fictional character in the "Mortal Kombat" games for video game consoles.
+
+He was portrayed in games by Ed Boon and Patrick Seitz.
+
+Saint-Léger-sous-BrienneSaint-Léger-sous-Brienne is a commune of the Aube "département" in the north-central part of France.
+
+Saint-Léger-sous-MargerieSaint-Léger-sous-Margerie is a commune of the Aube "département" in the north-central part of France.
+
+Saint-Loup-de-BuffignySaint-Loup-de-Buffigny is a commune of the Aube "département" in the north-central part of France.
+
+Saint-LupienSaint-Lupien is a commune of the Aube "département" in the north-central part of France.
+
+Saint-LyéSaint-Lyé is a commune of the Aube "département" in the north-central part of France.
+
+EerselEersel is a municipality in the Dutch province of North Brabant. As of 2021, about 19,500 people are living there.
+
+Bergen op ZoomBergen op Zoom is a municipality in the Dutch province of North Brabant. In 2019, 66,811 people lived there.
+
+BergeijkBergeijk is a municipality in the Dutch province of North Brabant. In 2019, 18,491 people lived there.
+
+Binary treeIn computer science, a binary tree is a type of tree (data structure) where each itemwithin the tree has at most two children.
+
+A binary tree can be implemented using an array by storing its level-order traversal. In a zero-indexed array, the root is often stored at index 1.
+
+For the "nth" item of the array its:In a programming language with references, binary trees are typically constructed by having a tree structure which contains references to its left child and its right child.
+
+The current item is visited, then the left branch is visited, and then the right branch is visited.
+
+void preOrder(Item item) {The left branch is visited, then the current item is visited, and then the right branch is visited.
+
+void inOrder(Item item) {The left branch is visited, the right branch is visited, and then the current item is visited.
+
+void postOrder(Item item) {New Democracy (Greece)New Democracy (ND; , "Nea Dimokratia") is a liberal-conservative political party in Greece. Konstantinos Karamanlis founded the party in 1974. It is a far-right party, with many liberal ideas. Its main rival is the Panhellenic Socialist Movement, commonly known as PASOK.
+
+João CanceloJoão Pedro Cavaco Cancelo (born 27 May 1994) is a Portuguese football player. He plays as either a right back, left back, or right winger for Barcelona on loan from Manchester City, and the Portugal national team.
+
+Cancelo was born in Barreiro, which is a city in the District of Setúbal. He joined SL Benfica's youth academy in 2007.
+
+He made his debut for Benfica on July 28, 2012. The match was a friendly match against Gil Vicente. Despite being registered with the reserve team, he was talked about as a possible replacement to Maxi Pereira. He made his professional debut on January 25, 2014. The match was a Taça da Liga 3rd round match against Gil Vicente, where he came on as a substitute for André Almeida in the 82nd minute. His only league match for Benfica was a 2-1 loss against FC Porto.
+
+Cancelo joined Valencia on August 20, 2014 on a one year loan, with an option to buy for €15 million. He made his La Liga debut on September 25 2014, in a 3-0 win against Córdoba. He was awarded the man of the match on April 12, 2015, after a 3-0 win against Levante. He only made 13 appearances in the 2014-15 season, as he was mainly the backup of Antonio Barragán. On May 25, Cancelo agreed a permanant contract with Valencia until June 30, 2021. The transfer fee was €15 million.
+
+On September 16, 2015, Cancelo made his UEFA Champions League debut. The match was a 3-2 loss against Zenit Saint Petersburg, where he scored 1 goal. The goal made him the 5th youngest Champions League scorer, aged 21 years and 107 days old. On April 20, 2016, he would score his first league goal for Valenica. The match was a 4-0 win against Eibar.

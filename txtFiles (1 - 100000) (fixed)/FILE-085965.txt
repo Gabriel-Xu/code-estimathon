@@ -1,0 +1,591 @@
+Version 1.
+
+0 was quickly succeeded by version 4.
+
+5 that same year.
+
+Version 1.
+
+0 was released in December 1995 as a Windows port of the TinTin++ Unix MUD client.
+
+Version 1.
+
+0 was released in December, 2003.
+
+Version 1.
+
+0 was released in Fall 2005.
+
+Version 1.
+
+0 was released in June 2005.
+
+Version 1.
+
+0 was released in March 1994, and replaced MicroTSP.
+
+Version 1.
+
+0 was released in March, 2003 as NMath Core.
+
+Version 1.
+
+0 was released in March 2005.
+
+Version 1.
+
+0 was released in revision 1.
+
+18, on May 5, 2000.
+
+Version 1.
+
+0 was released on 1 November 2016.
+
+Version 1.
+
+0 was released on December 23, 2013, after a lengthy beta testing period.
+
+Version 1.
+
+0 was released on December 3, 2012 and is available under the Apache License (version 2.
+
+0).
+
+Version 1.
+
+0 was released on January 25, 2007.
+
+Version 1.
+
+0 was released on May 8, 2006.
+
+Version 1.
+
+0 (with an update to 1.
+
+1 released shortly after), Inbox was also included for email capability.
+
+Version 1.
+
+10 is the final 1.
+
+x release.
+
+Version 1.
+
+10 was released in July 1993 simultaneously with Windows NT 3.
+
+1.
+
+Version 1.
+
+1.
+
+0 was released July 6, 2018.
+
+Version 1.
+
+13 was the first version to introduce a native 64-bit version of the plugin.
+
+Version 1.
+
+1 (April 2014) of ICAO's "Supplemental Access Control" Technical Report introduces the Chip Authentication protocol as an alternative to Active Authentication and integrates it with PACE, achieving a new protocol (Chip Authentication Mapping, PACE-CAM ) which allows faster execution than the separate protocols.
+
+Version 1.
+
+1 followed at the Oracle Developers and Integrators conference in 1992, followed shortly thereafter by the Mac version.
+
+Version 1.
+
+1 is based on the text of Mozilla Public License 1.
+
+1 with some definitions added and Netscape-specific texts changes.
+
+Version 1.
+
+1 is still compatible with version 1.
+
+0.
+
+Version 1.
+
+1 of the specification was released on April 11, 1994.
+
+Version 1.
+
+1 of XSL-FO was published in 2006.
+
+Version 1.
+
+1 was adapted by several projects to form derivative licenses like Sun Microsystems' own Common Development and Distribution License.
+
+Version 1.
+
+1 was announced and made publicly available on April 16, 2018.
+
+Version 1.
+
+1 was published in July 2011.
+
+Version 11 was published in October 2013; it has 20 "Mandatory Requirements" grouped into four policy areas.
+
+Version 1.
+
+1 was released in March 2009 and was followed by version 1.
+
+2 released in August 2011.
+
+Version 1.
+
+1 was released on 9 October 2017.
+
+Version 1.
+
+1 was released on June 27, 2010.
+
+Version 12.
+
+4 adds support for the C++11 language standard.
+
+Version 12.
+
+6 supports the C++14 language standard.
+
+Version 1.
+
+2 includes an interface, bytecode compiler, run-time system and documentation.
+
+Version 12 is the only version fully compatible with Mac OS X Lion.
+
+Version 12 of the software has received an "Excellent" rating by PC Magazine.
+
+Version 1.
+
+2 was published in September 2013.
+
+Version 1.
+
+2 was released as shareware in 1991, developed and self-published by Farr-Ware.
+
+Version 12 was released in October 2013, which extended platform support to include ChromeOS clients.
+
+Version 1.
+
+3.
+
+1 was re-structured and was approved as an ISO/IEC standard and technical report (ISO/IEC 16500 and ISO/IEC TR 16501).
+
+Version 1.
+
+3.
+
+1 will appear to allow edits to be made and file information to be saved, but none of the essential tagging information will be retained on an Intel Mac.
+
+Version 1.
+
+3b, which was widely available, contained a bug later corrected in version 1.
+
+4: after a save instruction, the Z-machine requires that a success code is saved in a particular place (which differs depending on the version).
+
+Version 13 came out in 2009, with improvements in the user interface and several new features.
+
+Version 1.
+
+3 introduced new features that allow you to add your own actions and elements and create more individual applications.
+
+Version 13 no longer supports the Windows XP platform.
+
+Version 1.
+
+3 was released in June 2013 and current version 2.
+
+0 was released in September 2017.
+
+Version 1.
+
+4 is required to use forms.
+
+Version 14 supports recognition of text in 192 languages and has a built-in spell check for 48 of them.
+
+Version 1.
+
+4 underwent extensive testing and is considered production-quality.
+
+Version 1.
+
+4, which is the first Universal Binary version of the software, is available with Logic Pro or Express 7.
+
+2.
+
+Version 1.
+
+5 of the license was published on July 15, 2007, and was approved by the Open Source Initiative as an open-source license.
+
+Version 15 (Professional Individual and Legal Individual), which supports 32-bit and 64-bit editions of Windows 7, 8 and Windows 10, was released in August 2016.
+
+Version 1.
+
+6.
+
+4 was the last freeware-release of IcoFX.
+
+Version 1.
+
+83 (as well as the convenient Lame plugin installer on the same site) from the developer site comes bundled with several adware like Funmoods Toolbar, Conduit Search, Zapp, VO Package, Browser Utility, AnyProtect.
+
+Version 1 is an Irish company specializing in international management consulting, managed services, software development, and outsourcing company.
+
+Version 1 lasts eighteen minutes and was premiered by the Silesian String Quartet in Berlin in 1989; the long version (2) was premiered in 1993 by the Soldier String Quartet in New York to accompany Brown's Another Story as in Falling; and version 2.
+
+5 was premiered by the Arditti Quartet in 2009 and lasts twenty-four minutes.
+
+Version 1 of NOS continued to be updated until about 1981; NOS version 2 was released early 1982.
+
+Version 1 of the extension included Save Set processing changes (to make embedding applications more reliable), selection notification events (add events sent when selection ownership is asserted) and cursor tracking (requests allowing the image to be tracked reliably).
+
+Version 1 only supports dynamic frequency scaling and is implemented in the Cyrix III Samuel (C5A) core and C3 Samuel 2 (C5B) stepping 0 core.
+
+Version 1 was based on Mandrake Linux (now Mandriva Linux), versions 2 and 3 used a mechanism independent of the distribution and were distributed mainly on a Debian basis.
+
+Version 1 was freeware.
+
+Version 1 was undergoing internal Intel testing as of 1981 and was scheduled to be released in 1982.
+
+Version 1 was written using the XF application builder, but because of functionality reasons this part was rewritten.
+
+Version 2009 has Windows 7 supported update already.
+
+Version 2.
+
+00 was released in 2001.
+
+Version 2017 of this product was released in October 2016.
+
+Version 2.
+
+0.
+
+5 was the latest offering of the software, boasting additional features such as increased speed and advanced server sorting abilities.
+
+Version 2.
+
+0 added support for multivoice score editing, and the 3.
+
+0 version is available for Microsoft Windows and in English.
+
+Version 2.
+
+0 adds IBIS-style keywords such as [Reference], which permits per-port definition of the reference environment.
+
+Version 2.
+
+0 adds support for truecolor images, alpha channels, resampling (for smooth resizing of truecolor images), and many other features.
+
+Version 2.
+
+0 also features support for modern graphics cards with hardware GPU acceleration.
+
+Version 2.
+
+0 also introduced several improvements for printing (such as automatically condensing parts with several rest measures), allowing production of professional quality scores.
+
+Version 2.
+
+0b24 of the original NewsWatcher was evaluated for the Good Netkeeping Seal of Approval, but did not receive it, with the evaluator noting as its "fatal flaw" that the application allowed posting from invalid email addresses.
+
+Version 2.
+
+0 is generally considered to have a more ergonomic and attractive interface than previous versions, which were designed with television sets as a lowest common denominator display.
+
+Version 2.
+
+0 is the second studio album by American alternative rock band Garbage.
+
+Version 2.
+
+0 (late 1993) introduced new user interface and improved color calibration.
+
+Version 2.
+
+0 of BPMN was released in January 2011, at which point the name was adapted to Business Process Model and Notation as execution semantics were also introduced alongside the notational and diagramming elements.
+
+Version 2.
+
+0 of the ECL came out of the Licensing and Policy Summit held in October 2006 in Indianapolis, Indiana where members of the academic community came together to address the concerns of releasing software written at an academic institution under a free/open source license.
+
+Version 2.
+
+0 of the protocol, known as "SIP2", is a de facto standard for library self-service applications.
+
+Version 2.
+
+0 of the protocol was released in 2002, the document was last updated in 2015.
+
+Version 2.
+
+0 of the software is slated to include a rewrite of the mail database back end.
+
+Version 2.
+
+0 of the specification was completed in 1997.
+
+Version 2.
+
+0 of the specification was introduced in November 2005 as a key part of the Service Component Architecture.
+
+Version 2.
+
+0 of the specification was released in May 2004.
+
+Version 2.
+
+0 received generally positive reviews from music critics, and was included by several publications in their year-end lists of 1998's best albums.
+
+Version 2.
+
+0, released in August 2013, supports backends for SPARC (32-bit), x86 (32- and 64-bit), MIPS, ARM, ia64, HPPA and PowerPC (32-bit).
+
+Version 2.
+
+0, released July 29, 2003, is also approved as a free software license by the Free Software Foundation (FSF) which finds it acceptable for developers to work on projects that are already covered by this license.
+
+Version 2.
+
+0 was published in 2018 (Version 1.
+
+3 was published in 2010, and is the reference model for the remaining information in this wiki article).
+
+Version 2.
+
+0 was released in June 2010, and OllyDbg has been rewritten from the ground up in this release.
+
+Version 2.
+
+0 was released November 29, 2005 after acceptance testing by Australian Research Repositories Online to the World.
+
+Version 2.
+
+0 was shipped in 1999.
+
+Version 2.
+
+0 was widely bundled with scanners from a number of companies, notably Canon.
+
+Version 2.
+
+0, which cost $495-695, provided additional modeling tools for users.
+
+Version 2.
+
+0, which included enhancements and improved performance, was released in October, 1984.
+
+Version 2.
+
+11 was released on May 15, 1986.
+
+Version 2.
+
+1 for Windows supported macros which has been removed in later versions.
+
+Version 2.
+
+1 is fully backward compatible with version 2.
+
+0, but it adds 34 new document schemas, bringing the total of business document types defined by UBL to 65.
+
+Version 2.
+
+1 of the software was rated 3.
+
+5 out of 5 by Macworld, which praised the software's extensive notification and report options.
+
+Version 2.
+
+1 was approved as an OASIS Standard in November 2013 and an ISO Standard (ISO/IEC 19845:2015) in December 2015.
+
+Version 2.
+
+1 was released on August 13, 2008.
+
+Version 2.
+
+2 (1988) corrected several bugs and improved compatibility with Mac Plus, SE and II.
+
+Version 22.
+
+2 was the first native 64-bit version of the text editor.
+
+Version 2.
+
+2 has been ported to the Apollo, DECstation, Data General AViiON, HP 9000 Series 300, Multimax, NeXT, PA-RISC, RS/6000, Sequent Symmetry, SGI IRIS, Sun-3, Sun-4 and others.
+
+Version 2.
+
+2 is fully backward compatible with version 2.
+
+1, and it adds another 16 document types for a total of 81.
+
+Version 2.
+
+2 was approved as an OASIS Standard in July 2018.
+
+Version 2.
+
+30 added improved SSH tunneling and better support for copy/paste features between client and server.
+
+Version 2.
+
+3M was the last release of Professional Composer.
+
+Version 24 is the current release for printed materials.
+
+Version 2.
+
+5 was released in late 2016.
+
+Version 26.
+
+1 for Mac OS X 10.
+
+6+ is also available.
+
+Version 2.
+
+6.
+
+2, released on January 27, 2011, was the last version based on Mozilla Firefox.
+
+Version 2.
+
+6 adds narrowing for the file open screen, adds status indicators in the open documents list and improves syntax highlighting.
+
+Version 2 adds voltage scaling and is implemented in the C3 Samuel 2 (C5B) stepping 1-7 and Ezra (C5C) cores.
+
+Version 2, a ground-up rewrite aimed at multi-format support (initially targeting Ogg Vorbis) and scalability, was started in 2001 and released in January 2004.
+
+Version 2 became operational as CFSv2 in 2011.
+
+Version 2 beta 2 is available for Microsoft Windows and a command-line version of KGB Archiver 1.
+
+0 is available for Unix-like operating systems.
+
+Version 2 (FFT2) covers battles from 1946 through 2010.
+
+Version 2 is available online from Professor McAfee.
+
+Version 2 is based on WebKit as well as some technologies from The Omni Group.
+
+Version 2 of iCal was released as part of Mac OS X v10.
+
+4, Version 3 as part of Mac OS X v10.
+
+5, Version 4 as part of Mac OS X v10.
+
+6, Version 5 as part of Mac OS X v10.
+
+7, Version 6 as part of OS X v10.
+
+8, Version 7 as part of OS X v10.
+
+9, Version 8 as part of OS X v10.
+
+10 and OS X v10.
+
+11, and version 9 as part of macOS v10.
+
+12.
+
+Version 2 of the DDI standard has been implemented in the Dataverse data repository and the data archives of the Inter-university Consortium for Political and Social Research.
+
+Version 2 of the extension adds region objects and cursor names.
+
+Version 2 of the format is defined in RFC 7970, which supersedes the previous version.
+
+Version 2 of the game was released in late 2004 on a new technology platform called Galapagos, created by Studiocom, and featuring new locations and a special double-reward 'Coca-Cola Red Room'.
+
+Version 2 of the software is based on jabberd2 2.
+
+0s9 and supports server federation, which allows chat clients to talk directly with other systems that support XMPP.
+
+Version 2 of the software was released in 1997 and supported multiple track territories.
+
+Version 2 uses SIP for managing sessions and audio streams between the server and the clients, whereas version 1 did not specify the underlying protocol.
+
+Version 2 was found on 2004 model products, and Version 3 on 2005 model products (Sony introduced native MP3 support on its music players in 2005).
+
+Version 2 was included in Microsoft Plus!
+
+Version 2 was modular and the programmer could choose what parts of the iMAX operating system to load; there were two standard configurations of iMAX version 2 named "Full" and "Minimal", with the minimal configuration being similar to Version 1 of iMAX.
+
+Version 2 was released in 2004 and is still the flagship product, receiving periodic updates.
+
+Version 2 was released in 2008 with the previously disjoint matching and mapping capabilities fully integrated for use in a web browser.
+
+Version 2 was released on the 21st of March, 2014.
+
+Version 3.
+
+0.
+
+0 was released on 2013-12-20.
+
+Version 3.
+
+0, also called Galactica Anno Dominari 3.
+
+0: Fog of War was released April 18, 2006.
+
+Version 3.
+
+0, although still a free download from Microsoft, removed direct Video CD burning, but supported a paid-for add-on from Sonic Solutions for exporting and burning the photo story to DVD.
+
+Version 3.
+
+0 came out mid-1998.
+
+Version 3.
+
+0 for Windows was released in 1995.
+
+MacIntosh versions were also published.
+
+Version 3.
+
+0 introduced html support and improved message security in comparison to version 2.
+
+0, however some features were not yet supported for html messages.
+
+Version 3.
+
+0 is planned.
+
+Version 3.
+
+0 is released and maintained by Invelos Software, a company set up by developer Ken Cole to focus entirely on DVD Profiler and related products & services.
+
+Version 3.
+
+0 is the third studio album by Canadian singer Marie-Mai.
+
+Version 3.
+
+0 of Netatalk was released in July 2012 and added ini style configuration, AppleDouble backend using filesytem Extended Attributes as default, and removed AppleTalk networking support.
+
+Version 3.
+
+0 of the CWE standard was released in November 2017.
+
+CWE has over 600 categories, including classes for buffer overflows, path/directory tree traversal errors, race conditions, cross-site scripting, hard-coded passwords, and insecure random numbers.
+
+Version 3.
+
+0 ran on Macintosh computers and supported a rich, user-friendly graphical interface.
+
+Version 3.
+
+0 supports the TI-73, 83+, and the 83+ SE so far.
+
+Version 3.
+
+0 was launched in August 1987 and introduced multi-user support on PC-based local area networks, with a price of $795 for a LAN license.

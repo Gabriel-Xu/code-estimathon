@@ -1,0 +1,169 @@
+Vaucluse is part of the region of Provence-Alpes-Côte d'Azur. The department is managed by the "Departamental Council of the Vaucluse" in Avignon.
+
+There are 3 "arrondissements" (districts), 17 "cantons" and 151 "communes" (municipalities) in Vaucluse.
+
+The following is a list of the 17 cantons of the Vaucluse department (with their INSEE codes), following the French canton reorganisation which came into effect in March 2015:The inhabitants of Vaucluse are known, in French, as "Vauclusiens" (women: "Vauclusiennes").
+
+Vaucluse has a population, in 2014, of 554,374, for a population density of inhabitants/km. The "arrondissement" of Avignon, with 296,303 inhabitants, is by far the largest. The other two, Carpentras and Apt, have respectively 129,623 and 128,448 inhabitants.
+
+The city with more people living in it is the capital, Avignon (92,209). The subprefectures of Carpentras and Apt have, respectively, 28,447 and 11,885 inhabitants.
+
+Evolution of the population in VaucluseThe 12 most important cities in the department are:Vaucluse has been always a rural department where farming is the main economic activity. The most important produces in the department are fruits (melons, cherries, strawberrys, apples, grapes and others) and vegetables (tomatoes).
+
+Another important product of the region is wine, mainly those wines known as "Côtes-du-Rhône".
+
+Diffie-Hellman key exchangeThe Diffie-Hellman key exchange (sometimes called an Exponential key exchange) is a protocol used to secretly share information with keys.
+
+In 1976, Whitfield Diffie and Martin Hellman invented a way for people to encrypt data and send it over an open channel. The idea was based on a concept by Ralph Merkle.
+
+Diffie and Hellman wanted to make Transport Layer Security (TLS), a secure way of computers communicating, more safe to perform. For example, while you can use a password to keep a file safe, if you need to tell the password to somebody there is a risk of the password being seen by third parties. Diffie-Hellman key agreement itself is an "anonymous" (non-"authenticated") key-agreement protocol: people involved in the trade do not need to prove who they are, but both people need to use their secret keys to fully decrypt the data.
+
+Alice and Bob both start at the same number ("10") and both do half of a sum, which means they both get the same result without seeing what the other person added (15 and 30). This is useful in cryptography because Alice and Bob do not share their private numbers, which means a third party cannot spy on the result (55) unless they can find both private numbers; even if a third party knows Alice sent "10" + 15 = 25, they don't know the result is 55 unless they also know Bob sent 30.
+
+Since only Alice and Bob know their private numbers, this is a good way of sending secure information if the numbers are very big and the calculations are difficult. Since computers can use very complicated math to encrypt things, this stops people from trying a brute force attack to guess the numbers until it works. One example of how big calculations are made this way is the original version of Diffie-Hellman, which used both multiplicative group of integers modulo n and primitive root modulo n.
+
+While very useful, Diffie-Hellman is at risk of a man-in-the-middle attack. Alice and Bob do not need to prove who they are to swap their information, which means there is a risk that Charlie can look at the information while it is being swapped, and can even pretend to be Alice or Bob to try and figure out their keys. One way this is avoided is to use authentication, where people perform extra steps to prove who they are.
+
+British royal familyThe British royal family are the people who are relatives (family) of the monarch, currently Charles III, of the United Kingdom. They often attend events and help the monarch carry out their duty.
+
+King Charles III and Queen Camilla <br>MQVMQV (Menezes-Qu-Vanstone) is an authenticated protocol for key agreement based on the Diffie-Hellman scheme. MQV provides protection against an active attacker.
+
+Cher (department)Cher is a department in the centre of France in the Centre-Val de Loire region. It is named after the Cher river, the most important river in the department.
+
+Its prefecture is Bourges.
+
+The department is one of the 83 French departments made during the French revolution, on 4 March 1790. The department was created from part of the former province of Berry.
+
+The new department had seven districts: Aubigny, Sancerre, Sancoins, Saint-Amand, Châteaumeillant, Bourges and Vierzon. The capital (now prefecture) was Bourges.
+
+In 1800, with the creation of the "arrondissements" in France, the seven districts were changed into three "arrondissements": Bourges, Saint-Amand-Mont-Rond and Sancerre.
+
+On 10 September 1926, the "arrondissement" of Sancerre was eliminated. In 1984, a new "arrondissement" was created: Vierzon.
+
+Cher is part of the Centre-Val de Loire region. It has an area of .
+
+The highest point of the department is "Le Magnoux" (), in the south end of the department in the "commune" of Préveranges, and that is above sea level.
+
+The department is bordered by 6 departments in 4 regions:The main rivers are:The Köppen climate classification type for the climate at Bourges is an "Oceanic climate" (also known as Marine West Coast Climate) and of the subtype Cfb.
+
+The average amount of precipitation for the year in Bourges is . The month with the most precipitation on average is November with of precipitation. The month with the least precipitation on average is February with an average of .
+
+The average temperature for the year in Bourges is . The warmest month, on average, is July with an average temperature of . The coolest month on average is January, with an average temperature of .
+
+The department is managed by the "Departmental Council of the Cher" in Bourges. Cher is part of the region of Centre-Val de Loire.
+
+There are 3 "arrondissements" (districts), 19 "cantons" and 290 "communes" (municipalities) in Cher.
+
+The following is a list of the 19 cantons of the Cher department, following the French canton reorganisation which came into effect in March 2015:The inhabitants of Cher are known, in French, as "Chériens" (women: "Chériennes") or "Berrichons" (women: "Berrichonnes").
+
+Cher has a population, in 2014, of 310,270, for a population density of inhabitants/km. The "arrondissement" of Bourges, with 173,889 inhabitants, is by far the largest.
+
+Evolution of the population in CherThe main cities in the department are:CorrèzeCorrèze () is a department in south-western France, named after the Corrèze river. It is in the Nouvelle-Aquitaine region and its capital is the city of Tulle.
+
+Corrèze is one of the 83 French departments made during the French revolution, on 4 March 1790. It was created from parts of the old province of Limousin (the "Bas Limousin").
+
+The new department had four districts: Uzerche, Ussel, Tulle and Brive. The capital (now prefecture) was Tulle.
+
+In 1800, with the creation of the "arrondissements" in France, the four districts were changed into three "arrondissements": Tulle, Brive and Ussel.
+
+On 10 September 1926, the "arrondissement" of Ussel was eliminated but, on 6 December 1943, it became again an "arrondissement".
+
+Corrèze is part of the Nouvelle-Aquitaine region; it is to the west of the Massif Central. It has an area of .
+
+The department is surrounded by 6 departments in 3 regions:The highest point of the department is the Mont Bessou, high; the lowest point is in the valley of the Vézère river and is high.
+
+The main rivers in the department are the Dordogne, the Vézère and the Corrèze that gives its name to the deparment.
+
+The climate in Brive-la-Gaillarde is an oceanic climate with template summers, Cfb (Marine West Coast Climate) in the Köppen climate classification.
+
+The annual rainfall in Brive-la-Gaillarde is . The month with the most precipitation on average is October with of precipitation. The month with the least precipitation on average is February with an average of .
+
+The average temperature for the year in Brive-la-Gaillarde is . The warmest month, on average, is July with an average temperature of . The coolest month on average is January, with an average temperature of .
+
+The department is managed by the "Departmental Council of the Corrèze" in Tulle. Corrèze is part of the region of Nouvelle-Aquitaine.
+
+There are 3 "arrondissements" (districts), 19 "cantons" and 283 "communes" (municipalities) in Corrèze.
+
+The following is a list of the 19 cantons of the Corrèze department (with their INSEE codes), following the French canton reorganisation which came into effect in March 2015:The inhabitants of Corrèze are known, in French, as "Corréziens" (women: "Corréziennes").
+
+Corrèze has a population, in 2014, of 241,340, for a population density of inhabitants/km. The "arrondissement" of Brive-la-Gaillarde, with 130,034 inhabitants, is by far the largest. The other two, Tulle and Ussel, have respectively 78,408 and 32,898 inhabitants.
+
+Evolution of the population in CorrèzeThe city with more people living in it is Brive-la-Gaillarde (46,961) and not the capitalː Tulle (14,325).
+
+The main cities in the department are:RuntimeIn computer science, runtime or run time describes the operation of a computer program, the duration of its execution, from beginning to termination.
+
+The term runtime can also refer to a virtual machine to manage a program written in a computer language while it is running.
+
+Run time is sometimes used to mean runtime library, a library of basic code that is used by a particular compiler but when used in this fashion, runtime library is more accurate.
+
+A runtime environment is a virtual machine state which provides software services for processes or programs while a computer is running.
+
+Runtime activities include loading and linking of the classes needed to execute a program, optional machine code generation and dynamic optimization of the program, and actual program execution.
+
+For example, a program written in Java calls for services from the Java Runtime Environment by issuing commands from which the expected result is returned by the Java Runtime. By providing these services, the Java Runtime Environment is considered the runtime environment of the program. Both the program and the Java Runtime Environment request services from the operating system. The operating system kernel provides services for itself and all processes and software running under its control. The Operating System may be considered as providing a runtime environment for itself.
+
+Java virtual machineA Java virtual machine (JVM) is a set of computer software programs and data structures which use a virtual machine model for the execution of other computer programs and scripts. The model used by a JVM accepts a form of computer intermediate language commonly referred to as Java bytecode.
+
+Java virtual machines operate on Java bytecode, which is normally (but not necessarily) generated from Java source code; a JVM can also be used to implement programming languages other than Java.
+
+The JVM is an important component of the Java Platform. Because JVMs are available for many hardware and software platforms, Java can be both middleware and a platform in its own right – hence the expression "write once, run anywhere." The use of the same bytecode for all platforms allows Java to be described as "compile once, run anywhere", as opposed to "write once, compile anywhere", which describes cross-platform compiled languages.
+
+Station-to-Station protocolThe Station-to-Station (STS) protocol is a cryptographic (information-hiding) key agreement scheme based on the classic Diffie-Hellman key exchange that provides mutual key and entity (party) authentication.
+
+In addition to protecting the established key from an attacker, the STS protocol uses no timestamps and provides perfect forward secrecy. It also requires two-way explicit key confirmation, making it an "Authenticated key agreement with Key Confirmation" (Acronym: AKC) protocol.
+
+STS was originally presented in 1987 in the context of ISDN security , finalized in 1989 and generally presented by Whitfield Diffie, Paul C. van Oorschot and Michael J. Wiener in 1992.
+
+Internet Key ExchangeInternet Key Exchange (IKE or IKEv2) is the protocol used to set up a security association (SA) in the IPsec protocol suite. IKE uses a Diffie-Hellman key exchange to set up a shared session secret, from which cryptographic keys are derived. Public key techniques or, alternatively, a pre-shared key, are used to mutually authenticate the communicating parties.
+
+IKE builds upon the Oakley protocol.
+
+IKE was originally defined in November 1998 by the Internet Engineering Task Force (IETF) in a series of publications (Request for Comments) known as , , and .
+
+IKE was updated to version two (IKEv2) in December 2005 by . IKEv2 has been further expanded by (Security Architecture for the Internet Protocol) through (DNS Security Extensions Mapping for the EPP). More RFCs are being added all the time as the need arises to further develop the features of the protocol.
+
+The parent organization of the IETF, The Internet Society (ISOC), has maintained the copyrights of these standards as being freely available to the Internet community.
+
+The following Open Source implementations of IKEv2 are currently available:Shared secretIn cryptography, a shared secret is a piece of data only known to the parties involved in a secure communication. The shared secret can be a password, a passphrase, a big number or an array of randomly chosen bytes.
+
+The shared secret is either shared before parties start to communicate; in this case it can also be called a pre-shared key. Or it is created at the start of the communication session by using a key-agreement protocol, for-instance using public-key cryptography such as Diffie-Hellman or using symmetric-key cryptography such as Kerberos.
+
+The shared secret can be used for authentication (for instance when logging in to a remote system) using methods such as challenge-response or it can be fed to a key derivation function to produce one or more keys to use for encryption and/or MACing of messages.
+
+To make unique session and message keys the shared secret is usually combined with an initialization vector (IV). An example of this is the derived unique key per transaction method.
+
+Styphnolobium japonicumPagoda Tree or Chinese Scholar Tree ("Styphnolobium") is a genus of flowering plants in the "Fabaceae" family. After the segregation of Sophora, this genus comprises 9 species.
+
+HorsforthHorsforth is a town and civil parish within the City of Leeds, in West Yorkshire, England, lying about five miles north-west of Leeds city centre. Historically within the West Riding of Yorkshire, it has a population of 18,895 according to the 2011 Census.[
+
+1] Horsforth was considered to have the largest population of any village in the United Kingdom during the latter part of the 19th century. It became part of the City of Leeds metropolitan borough in 1974. In 1999 the community created a civil parish to cover the area, which voted to rename itself a town council. The area sits within the Horsforth ward of Leeds City Council, which also includes the southern part of Rawdon.
+
+Pre-shared keyIn cryptography, a pre-shared key or PSK is a shared secret which was previously shared between the two parties using some secure channel before it is used. Such systems almost always use symmetric key cryptographic algorithms.
+
+The characteristics of this secret or key are determined by the system which uses it; some system require that such keys be in a specific format. It can be a password like 'bret13i', a passphrase like 'Idaho hung gear id gene', or a hexadecimal string like '65E4 E556 8622 EEE1'. The secret is used by all systems involved in the cryptographic processes used to secure the traffic between the systems.
+
+The term is used in Wi-Fi encryption such as WEP or WPA, where both the wireless access points (AP) and all clients "share" the same key.
+
+Since one weakpoint of the crypto system is the encryption algorithm's key, the key strength is important, and since the strength of a key is in part dependent on the key length, it is important to choose a key whose length is cryptographically secure (see password strength). There are several tools available to help one choose a strong key. The Diceware method is one example.
+
+Corse-du-SudCorse-du-Sud is a department in the south of France. Its prefecture is Ajaccio. As of 2006, about 125,000 people live there.
+
+Haute-CorseHaute-Corse is a department in the south of France. Its prefecture is Bastia. Haute-Corse has a population of about 148,000 (2006 estimation).
+
+Côte-d'OrCôte-d'Or (literally, "Slope of Gold", "Golden Slope") is a department in the eastern France. It is one of the 83 first French departments made during the French revolution and one of the eight departments of the Bourgogne-Franche-Comté region.
+
+Its prefecture (capital) is the city of Dijon. The inhabitants of the department are called "Costaloriens" (women:"Costaloriennes") or "Côte-d'Oriens" (women:"Côte d'Oriennes").
+
+Côte-d'Or is one of the original 83 departments created during the French Revolution on 4 March 1790. It was formed from part of the old province of Burgundy. It was divided in seven districts: Arnay-le-Duc, Beaune, Châtillon-sur-Seine, Dijon, Is-sur-Tille, Saint-Jean-de-Losne and Semur-en-Auxois.
+
+In 1800, with the creation of the "arrondissements" in France, the seven districts were changed into four "arrondissements": Dijon, Beaune, Châtillon-sur-Seine and Semur-en-Auxois.
+
+After the Battle of Waterloo (18 June 1815), the department was occupied by the Austrian army from June 1815 to November 1818.
+
+In 1926, the "arrondissement" of Montbard was made with the "arrondissements" of Châtillon-sur-Seine and Semur-en-Auxois.
+
+Côte-d'Or is the only French department who was not named after a geographical feature: a river, a mountain, and so on. The name was chosen by Charles-André-Rémy Arnoult, member of the National Constituent Assembly of 1789, who suggested the name, inspired by the golden hue that took the vineyards of the region in the autumn.
+
+The French word "" means, in this case, a slope that geologists usually name with the Spanish word "".
+
+Côte-d'Or is part of the region of Bourgogne-Franche-Comté. The department borders with 7 departments that are part of 2 regions:The department has an area of . The highest point of the department is Mont de Gien (), high; it is in the "commune" Ménessaire. The lowest point of the department, high, is where the river Saône leaves the department, in the "commune" Chivres.

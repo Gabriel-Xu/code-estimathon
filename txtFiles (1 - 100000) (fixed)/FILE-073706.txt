@@ -1,0 +1,353 @@
+The Modular Approach to Software Construction Operation and Test (MASCOT) is a software engineering methodology developed under the auspices of the United Kingdom Ministry of Defense starting in the early 1970s at the Royal Radar Establishment and continuing its evolution over the next twenty years.
+
+The modular board (along with randomly placed exploration tiles) serves to give the game a somewhat randomized feel, although the composition of the board tiles restricts their placement in some manners.
+
+The Modular Body Armor Vest (MBAV) is a bullet-proof vest made by Eagle Industries and used by the United States military.
+
+The Modular Boot System (MBS) is a multifunctional, multi-theater footwear system that will afford the soldier environmental protection and added capability in environmental conditions ranging from minus 20 to 110 degrees Fahrenheit.
+
+The Modular Buildings sets have been received with positive reviews, being considered by Lego designers and fans as "toys for adults".
+
+The Modular Common Spacecraft Bus (MCSB) is a fast-development, low-cost, general purpose spacecraft platform.
+
+The modular cord version of this was the 2702BM.
+
+The modular debugger (mdb) is an extensible, low-level debugger developed by Sun Microsystems for the Solaris 7 operating system.
+
+The Modular Engine Management System, or MEMS, is an electronic control system used on engines in passenger cars built by Rover Group in the 1990s.
+
+The Modular Equipment Transporter (MET) was a two-wheeled, hand-pulled vehicle that was used as an equipment hauling device on traverses across the lunar surface.
+
+The Modular Expandable Armor System (MEXAS) is a composite armor system developed by the German company IBD Deisenroth Engineering.
+
+The modular graphs contain as a special case the median graphs, in which every triple of vertices has a unique median; median graphs are related to distributive lattices in the same way that modular graphs are related to modular lattices.
+
+The Modular Handgun System was solicited by a Request for Proposals in September 2015 and is anticipated to be the next U.
+
+S. military standard side arm replacing the Beretta M9 pistol and the SIG Sauer M11.
+
+The modular house, comprising three rectangles and a flat roof, was constructed on a concrete slab with a welded steel framework.
+
+The Modular Integrated Communications Helmet (MICH) is a U.
+
+S. combat helmet and one of several used by the U.
+
+S. military.
+
+The modularity and adaptability of developmental systems reduces the number of regulatory changes needed to generate adaptive phenotypic variation, increases the probability that genetic mutation will be viable, and allows organisms to respond flexibly to novel environments.
+
+The Modular Man is a fictional character, a Marvel Comics supervillain.
+
+The Modular Man is a science fiction novel by American writer Roger MacBride Allen.
+
+The modular motors are used in BMW models as well as in MINI models.
+
+The modular nature of the chemistry allows the tuning of both the mechanical properties and bioactivities of the resulting self-assembled fibers and gels.
+
+The modular optoelectronic multispectral scanner (MOMS) is a scanning system for spaceborne, geoscientific remote sensing applications used in satellite navigation systems for sensing atmospheric and oceanic systems.
+
+The modular platform includes features and services such as registration and badging, match-making, meeting scheduling, mobile apps, NFC interactive USB devices, lead generation devices, gamification, access control and metrics reporting.
+
+The Modular Reachability Analyzer is a reachability analyzer for concurrent systems that uses Algebraic System Nets (a high-level variant of Petri nets) as its modeling formalism.
+
+The modular rear end was located to the chassis tub by a hinge joint.
+
+The Modular Sniper Rifle, or MSR, is a bolt-action sniper rifle developed and produced by Remington Arms for the United States Army.
+
+The modular structure was assembled from a truck, with a large white fabric in front as media screens for Moment Factory.
+
+The modular synthesizer is a type of synthesizer, which exists in both physical and virtual forms, consisting of separate specialized modules.
+
+The Modular System's polyphonic keyboard and sequencer are controlled by a microprocessor.
+
+The modular unit is designed to last twenty years and supply a system capability from 25kW to 25MW with five hour discharge duration.
+
+The modulated complex lapped transform (MCLT) is a lapped transform, similar to the modified discrete cosine transform, that explicitly represents the phase (complex values) of the signal.
+
+The modulation occurs through different types of receptors present in the VB.
+
+The modulation of the baseband signal with the quadrature carriers is not necessary with CAP, because it is part of the transmit pulse.
+
+The modulation produces a flickering effect from frame-to-frame in the video imagery.
+
+The modulations of irony, the subtle effects of tone, the humility in which, above all, the style reveals the man, will be lost on such as prefer vulgar colors, familiar platitudes, and the techniques of self-advertisement in which modern scholarship can report such notable advances.
+
+The Modulation sphere or M-space formulation is a scheme or theory representing the system of effects of phase modulation and amplitude modulation as applied together on a carrier wave.
+
+The Modulations were an American R&B vocal group from Durham, NC consisting of singer-songwriters Larry Allen, Larry Duncan, Hoyle Saunders, and Henry Chanel.
+
+The Modulator II is more sold on the side of the siren.
+
+The modulator quickly traps, then "injects" the effluent from the first dimension column onto the second dimension.
+
+The modulatory functions are primarily found in the rostral sector of the reticular formation and the premotor functions are localized in the neurons in more caudal regions.
+
+The module also includes various ISS systems, including additional life support systems.
+
+The module, a sequel to the D series of modules, was novelized in 2001.
+
+The module bears the code WG7 and was published by TSR, Inc. in 1988 for the first edition Advanced Dungeons & Dragons rules.
+
+The module bears the code WGS1 and was published by TSR, Inc. in 1991 for the second edition Advanced Dungeons & Dragons rules.
+
+The module bears the code WGS2 and was published by TSR, Inc. in 1991 for the second edition Advanced Dungeons & Dragons rules.
+
+The module can be compiled on FreeBSD release 5 and newer releases.
+
+The module can be played with the Battlesystem rules, but is designed to be run as a standalone wargame.
+
+The module consists of a forty page booklet with a large color map and an outer folder.
+
+The module consists of a length of a medium, either pigment-impregnated woven ribbon or pigment-coated polymer tape, and a transport mechanism involving two axles.
+
+The module contains around 20 encounters on the surface, a monastery, three dungeon levels and three new monsters.
+
+The module details a hidden complex known as the Caverns of Quasqueton.
+
+The module details a mysterious abandoned mansion at the edge of a town called Saltmarsh, and the secrets contained therein.
+
+The module has the code WG9 and was published by TSR, Inc. in 1989 for the second edition Advanced Dungeons & Dragons rules.
+
+The module includes game maps on the unattached outside cover.
+
+The module is a collection of adventures designed by Deborah A. Christian, Vince Garcia, Thomas M. Kane, David and Martha Ladyman, Christopher Mortika, John Nephew, Bruce Nesmith, Bill Slavicsek, Rick Swan, John Terra, and Ray Winninger.
+
+The module is a detector that measures antimatter in cosmic rays, this information is needed to understand the formation of the Universe and search for evidence of dark matter.
+
+The module is also officially supported by the GTK+ project.
+
+The module is a new generation module which can replace the Zarya Functional Cargo Block (FGB) originally used in the TKS spacecraft which was the basis for the Zarya FGB module.
+
+The module is being built by NanoRacks and Boeing, and will be used to deploy CubeSats, small satellites, and other external payloads for NASA, CASIS, and other commercial and governmental customers.
+
+The module is deprecated as of Qt 5.
+
+5.
+
+The module is designed for characters of any class or level, and was published as an in-game vehicle to explain the transition from the game's first to second edition.
+
+The module is for characters of levels 5-7.
+
+The module is in part an adaptation of Clark Ashton Smith's Averoigne stories, and set in the fictional medieval French province of that name.
+
+The module is intended for level 6-8 player characters.
+
+The module is intended for player characters of level 6-8.
+
+The module is intended for player characters of levels 6-10.
+
+The module is TSR product number 9342.
+
+The module launches players into the story of the second book of the Dragonlance Chronicles, Dragons of Winter Night.
+
+The module may itself include mechanisms that control the tension in the temporarily unwound portion of the medium.
+
+The module operates MiCO networking operating system that supports secondary development, users can take advantage MiCO the TCP / IP protocol stack, a variety of security encryption algorithm to achieve a variety of embedded Wi-Fi applications.
+
+The Module pack consisted of a Flat Module, with 2 cones and 2 globes as well as a "closed module" which also had impressions of the cones and globes on it as a second platform for the objects to be moved to and from.
+
+The module provides six berthing locations, but one of the locations is disabled, as modules originally planned to be attached to Tranquility were canceled.
+
+The module received mixed reviews from critics.
+
+The modules and actors who form the SLN are defined by the specific social learning process taking place.
+
+The modules and core provide users with the ability to create anything from minimal environments, to elaborate and heavily scripted desktops.
+
+The modules are built of steel with attached insulation and vapor barriers.
+
+The modules are later loaded onto trucks and transported to a cotton gin for processing.
+
+The modules are not hardwired together but are connected together with patch cords, a matrix patching system, or switches to create a patch.
+
+The module's associated code is X10 and its TSR product code is TSR 9160.
+
+The module's associated code is X12 and its TSR product code is TSR 9188.
+
+The module's associated code is X13 and its TSR product code is TSR 9218.
+
+The module's associated code is X9 and its TSR product code is TSR 9129.
+
+The modules can be distributed on different computers linked with a standard network connection, immediately allowing for remote access and management.
+
+The modules can be placed side-by-side, end-to-end, or stacked, allowing a variety of configurations and styles.
+
+The modules communicate with their carrier over a dedicated bus, and can have all kinds of special functions.
+
+The modules consist of traditional PHP code which is responsible for reading data from the data source into an array.
+
+The module scopeIngest (digital preservation) allows a gate to any archival storage products and works as interface between the description and the repository (e.
+
+g. Fedora Commons).
+
+The modules have been published for the third and fourth editions of Dungeons & Dragons and for the Dungeon Crawl Classics Role-Playing Game (DCC RPG).
+
+The modules incorporate data from the Job Duty Task Analysis (JDTA) process, which aids the revision and creation of training programs.
+
+The modules of the microcontroller were designed independently and released as new CPUs could be tested.
+
+The modules, or game worlds, which have been designed to run under the Legends game system include: Crown of Avalon (1988).
+
+The modules presented here are in separate lists based on the game or edition for which the adventure was published.
+
+The modules were called Flip-Chips because early versions of some of these modules, for example, the R107 module shown, used hybrid integrated circuits built using flip chip mounting of individual diode chips on a ceramic substrate.
+
+The modules were made for use with the first edition Advanced Dungeons & Dragons (AD&D) rules.
+
+The modules were well received by contemporary critics.
+
+The modules would be organized in rows.
+
+The module was attached to the ISS on 11 February 2008.
+
+The module was designed by Bruce and Beatrice Heard.
+
+The module was designed by Paul Jaquays.
+
+The module was designed by Robin Jenkins.
+
+The module was designed by Skip Williams.
+
+The module was designed by Tom Moldvay with additional design, development and editing by Bruce Heard, Karen Martin, Rick Swan, Paul Jaquays, Kevin Stein and Robin Jenkins.
+
+The module was first published by TSR, Inc. in 1982 and contains a 32-page adventure set in the World of Greyhawk campaign setting.
+
+The module was named for Italian polymath Leonardo da Vinci.
+
+The module was published by TSR, Inc. in 1982 for the first edition Advanced Dungeons & Dragons rules.
+
+The module was published by Wizards of the Coast in 1998 under its recently acquired "TSR" imprint for the second edition Advanced Dungeons & Dragons rules.
+
+The module was published in 1982 by TSR, Inc. for the first edition Advanced Dungeons & Dragons rules.
+
+The module was ranked as the 13th greatest Dungeons & Dragons adventure of all time by Dungeon magazine for the 30th anniversary of the Dungeons & Dragons game in 2004.
+
+The module was written by game designer David "Zeb" Cook, who partly ascribes his hiring by TSR to his work on this module.
+
+The module was written by Lincoln Stein and is now maintained by Lee Johnson.
+
+The module was written by Tracy and Laura Hickman; Tracy Hickman would later go on to help create the Dragonlance campaign setting.
+
+The modus antiquus was made up of a verse-by-verse commentary on the Gospel reading of the day while the modern sermon had its foundation on an individual selected thema.
+
+The Modus Challenge Cup takes place at the end of October between The Royal Grammar School Worcester and King's School Worcester.
+
+The Modus Group of Companies includes Modus Structures, the directing body of the company operating out of Crossfield, Alberta; Modus Clear Choice Windows, producing windows and operating out of Swift Current, Saskatchewan; and Modus Steel, producing steel components and buildings and operating out of Crossfield.
+
+The modus operandi of Off Color's founders when they began operation was to focus on brewing forgotten styles of beer, particularly those made in Germany before Reinheitsgebot (i.
+
+e. the Bavarian Purity Law) was proclaimed in the late 15th century, effectively condemning myriad styles of beer not made solely with barley, water and hops.
+
+The Modus Tenendi Parliamentum (Method of Holding Parliaments) is a 14th-century document that outlined an idealized version of English parliamentary procedure.
+
+The mod was created by Adam Foster.
+
+The mod was developed by Long War Studios, a team that came to include four core members, with assistance from 29 contributors, 20 voice actors, and three members of Firaxis Games, the developer of Enemy Unknown and Enemy Within.
+
+The mod was first released in 2005.
+
+The mod was released on June 25, 2015, for Microsoft Windows, OS X and Linux systems, available freely to users who own Portal 2 on Steam.
+
+The mod was released on Steam on April 30, 2013.
+
+The mod was released worldwide on 4 March 2013 and utilizes the Source game engine.
+
+The ModWeb comparative protein structure modeling webserver is based on Modeler and other tools for automatic protein structure modeling, with an option to deposit the resulting models into ModBase.
+
+The Modyford Baronetcy, of Lincoln's Inn, was created in the Baronetage of England on 1 March 1664 for Thomas Modyford, Governor of Jamaica from 1664 to 1670.
+
+The Modyford Baronetcy, of London, was created in the Baronetage of England on 16 February 1661 for James Modyford, Governor of Jamaica.
+
+The MOE certifies teachers, standardizes curriculum and textbooks, establishes standards, and monitors the entire education system in an effort to "modernize China through education".
+
+The Moederkerk (Mother Church), is a place of worship of the Nederduits Gereformeerde Kerk in George.
+
+The Moehau Range is the northernmost range on the Coromandel Peninsula, extending from the settlement of Colville northwards to the tip of the peninsula.
+
+The Moel Hiraddug Limestone is a geologic formation in Wales.
+
+The Moeller method, Moeller technique or whipping technique is a percussive stroke method that combines a variety of techniques with the goal of improving hand speed, power, and control while offering the flexibility to add accented notes at will.
+
+The Moengo Airstrip is one of the oldest airport in Suriname, in use since August 1953, when the Piper Cub (PZ-NAC) of Kappel-van Eyck named "Colibri" landed there from Zorg en Hoop Airport.
+
+The Moenkopi Formation is a geological formation that is spread across the U.
+
+S. states of New Mexico, northern Arizona, Nevada, southeastern California, eastern Utah and western Colorado.
+
+The Moen subsidiary is headquartered in North Olmsted, Ohio.
+
+The Moe Pipe Organ Company builds pipe organs, which are installed in many churches in Minnesota and neighboring states.
+
+The Moeraki River is a river of the West Coast Region of New Zealand's South Island.
+
+The MOE rating of an operator will travel with him as he moves from one machine to another.
+
+The Moe River is a perennial river of the West Gippsland catchment, located in the West Gippsland region of the Australian state of Victoria.
+
+The Moers Festival is an international jazz festival in Moers, Germany, happening yearly every Whitsun.
+
+The Moeschlin technique is a common technique for performing a splenic aspiration.
+
+The Moe Show is a New Zealand live-action preschool puppet series.
+
+The Moesian dialects are a group of closely related dialects of the Bulgarian language, part of the Eastern Bulgarian dialects.
+
+The Moesian dialects are spoken in northeastern Bulgaria and in the regions of Karnobat, Aytos, Burgas and Yambol in southern Bulgaria.
+
+The MOE stresses technical education over other subjects.
+
+The Moffat Library, officially Moffat Library of Washingtonville, serves a population of 25,000 people in the village of that name in Orange County, New York, as well as the surrounding towns of Blooming Grove, Hamptonburgh and New Windsor.
+
+The Moffat Museum by Eleanor Estes is the fourth and final novel in the children's series known as The Moffats.
+
+The Moffatts are a Canadian pop/rock country band, composed of brothers Scott, Clint, Bob and Dave Moffatt.
+
+The Moffat Tunnel finally provided Denver with a western link through the Continental Divide, as both Cheyenne, Wyoming, to the north and Pueblo to the south already enjoyed rail access to the West Coast.
+
+The Moffat Tunnel Improvement District was an independent entity of the State of Colorado created to build and manage the Moffat Tunnel, a railroad and water tunnel under James Peak and Rollins Pass.
+
+The Moffat Tunnel is a railroad and water tunnel that cuts through the Continental Divide in north-central Colorado.
+
+The Moffitt's Canada goose (Branta canadensis moffitti), also known as the western Canada goose, is a common bird west of the Rocky Mountains.
+
+The MOFO Project/Object is an album by Frank Zappa.
+
+The Mofwe Lagoon is the largest of several lagoons in the Luapula River swamps south of Lake Mweru, in the Luapula Province of Zambia.
+
+The Mogadishu-based Somali Tourism Association (SOMTA) provides on-the-ground consulting services.
+
+The Mogadishu Cathedral (Italian: Cattedrale di Mogadiscio) is a Roman Catholic cathedral located in Mogadishu, Somalia.
+
+The Mogadishu Line is the point at which foreign involvement in a conflict shifts from peacekeeping or diplomacy to combat operations.
+
+The Mogadishu Mile began at 05:42 and ended when all the troops exfiltrated to the rendezvous point and were loaded into APCs and Humvees, reaching either the Pakistani Stadium or the Airport by 06:30.
+
+The Mogadishu Mile refers to a route that was run by United States Army Rangers and Delta Force soldiers from a helicopter crash site to an appointed rally point held by the 10th Mountain Division on National Street during the Battle of Mogadishu on October 4, 1993.
+
+The Mogalakwena River (Afrikaans: Magalakwenarivier) is one of the main watercourses in Limpopo Province, South Africa.
+
+The Moggill Ferry is a cable ferry crossing the Brisbane River between the suburbs of Moggill in Brisbane and Riverview in Ipswich, Queensland Australia.
+
+The Moggs are an indie rock band from the San Francisco Bay Area of the United States comprising Justin Millar (aka Sir Plus) and Cara LP (aka Miss Minor).
+
+The Moghalrajpuram caves are located in Vijayawada, Andhra Pradesh, India.
+
+The Moghols sometimes call themselves "Shahjahan", because they joined the army of Mughal Emperor Shah Jahan.
+
+The Moghul and Colonial relics as preserved largely in and around New Delhi by the ASI manifests itself in amalgamation in the arches of the entrances and the layout of the few of the houses left in the village constructed by the masons of the pre-Independence era.
+
+The Moghul Emperor Humayun, son of Babar, recaptured his throne by invading Northern India in 1555, after being in exile in Persia.
+
+The Moghuls decisively defeated the Timurids as a result of the defection of 3,000 Uzbeks under the command of Muhammad Shaybani Khan.
+
+The Moghuls were turkicized Mongols who had converted to Islam.
+
+The Moglietti sanctuary (Italian: Santuario dei Moglietti) is a sanctuary devoted to Our Lady of Graces in the comune of Coggiola.
+
+The Mogno State Forest (Portuguese: Floresta estadual do Mogno) is a state forest in the state of Acre, Brazil.
+
+The Mogobane Dam is a dam on the Mogobane River in Botswana.
+
+The Mogo Creek, a perennial stream of the Hawkesbury-Nepean catchment, is located in the Blue Mountains region of New South Wales, Australia.
+
+The Mogods are Mountain ranges of Northern Tunisia, culminating at 500 meters height.

@@ -1,0 +1,273 @@
+C3D Modeler constructs geometric models, generates flat projections of models, performs triangulations, calculates the inertial characteristics of models, and determines whether collisions occur between the elements of models; C3D Modeler for Teigha enables advanced 3D modeling operations through the Teigha's standard "OdDb3DSolid" API from the Open Design Alliance; C3D Solver makes connections between the elements of geometric models, and considers the geometric constraints of models being edited; C3D Vision controls the quality of rendering for 3D models using mathematical apparatus and software, and the workstation hardware; C3D Converter reads and writes geometric models in a variety of standard exchange formats.
+
+C3D Toolkit is a geometric modeling kit originally developed by ASCON Group, now by C3D Labs, using C++ and written in Visual Studio.
+
+C3D Toolkit responsible for constructing and editing geometric models.
+
+C3 Entertainment, Inc., formerly Comedy III Productions, is an American entertainment and licensing company founded in 1959 by American comedy act The Three Stooges.
+
+C3 has been referenced in several books on the extreme programming (XP) methodology.
+
+C3iDE initially optimizes the subpopulations in a partially co-adaptive fashion.
+
+C3 is a para-cycling classification.
+
+C3 is a plant that uses the calvin cycle for the initial steps that incorporate CO2 into organic material.
+
+C3O can be classified as a ketene or an oxocumulene a kind of heterocumulene.
+
+C3orf58 is a human gene.
+
+C3orf62 has a KKXX-like motif and is predicted to be localized in the nucleus.
+
+C3orf62 is a glycine depleted protein relative to the amount of glycine in proteins in the rest of the genome.
+
+C3orf70 also known as Chromosome 3 Open Reading Frame 70, is a 250aa protein in humans that is encoded by the C3orf70 gene.
+
+C3 photosynthesis is the oldest and most common form.
+
+C3 Presents is a concert promotion, event production and artist management company based out of Austin, Texas.
+
+C3 Racing is a racing game released in 1998 by Infogrames for the PlayStation.
+
+C-3 station is a railway station of the Philippine National Railways as part of Caloocan - Dela Rosa Line.
+
+C3, were in essence a continuation, and conclusion, of the series of 517 Class built during Armstrong's long period of virtual autonomy at Wolverhampton.
+
+C-407/98 is a Swedish and EU labor law case, concerning positive action.
+
+C# 4.
+
+0 is a version of the C# programming language that was released on April 11, 2010.
+
+C41100 Lubaloy is a wrought copper alloy that is composed mainly of copper and zinc.
+
+C-413/13 is a European labor law case, concerning European competition law.
+
+C-41/74 was a case of the European Court of Justice concerning the free movement of workers between member states.
+
+C-41, also known as CN-16 by Fuji, CNK-4 by Konica, and AP-70 by AGFA, is the most popular film process in use, with most photofinishing labs devoting at least one machine to this development process.
+
+C-41 is a chromogenic color print film developing process introduced by Kodak in 1972, superseding the C-22 process.
+
+C424 BUV - Sold for preservation in West Yorkshire to be restored as a Halifax Joint Committee Metrobus.
+
+C-426/11 is an EU law and UK labor law case concerning whether an employer may agree to incorporate a collective agreement into an individual contract, and if that agreement has a provision for automatic updating of some terms, whether that transfers under the Transfer of Undertakings (Protection of Employment) Regulations 2006.
+
+C4 2 was only available on digital Freeview terrestrial and satellite platforms.
+
+C-432/04 is an EU law case, concerning the constitutional framework in the European Union.
+
+C-44/08 is a European labor law case, concerning the information and consultation in the European Union.
+
+C-443/98 is an EU law case, concerning the conflict of law between a national legal system and European Union law.
+
+C44 airs a range of local, interstate and international content that is relevant to the local community.
+
+C44 features locally and nationally made content and has been broadcasting since 23 April 2004.
+
+C-456/02 is an EU law case, concerning the free movement of persons and citizenship in the European Union.
+
+C45 is a highway in Namibia which begins at Oshakati and ends at Katanda, when traveling eastbound.
+
+C45 runs through the capital of the Ohangwena Region, Eenhana.
+
+C-484/04 is a European labor law and UK labor law case concerning the Working Time Directive, which is relevant for the Working Time Regulations 1998.
+
+C-488/11 is an EU law and consumer protection case, concerning the Unfair Terms in Consumer Contracts Directive.
+
+C-49/92 is an EU competition law case, concerning the requirements for finding that there has been a cartel, or unlawful collusion, within TFEU article 101.
+
+C4 and CAM Plants have special adaptations that save water.
+
+C4bC2b, (formerly C4bC2a)C3bBb, complement C.
+
+hivin.
+
+4.
+
+hivin2, complement C3 convertase) belongs to family of serine proteases and is necessary in innate immunity as a part of the complement system which eventuate in opsonisation of particles, release of inflammatory peptides, C5 convertase formation and cell lysis.
+
+C4-benzenes are found in petroleum.
+
+C4C described itself as being "supported by individuals across Europe".
+
+C4 contributes some sensory fibers to the supraclavicular nerves, responsible for sensation from the skin above the clavicle.
+
+C4C owned a room in a building opposite Adelaide railway station in which they engaged in evangelism.
+
+C4D recognizes that communication processes often reflect power relations and aims to address this by enabling people's capacities to understand, negotiate and take part in decision-making that affects their lives.
+
+C4 is a grime MC from Birmingham, England.
+
+C4 is a para-cycling classification.
+
+C4 is a plant that prefaces the calvin cycle with reactions that incorporate CO2 into four-carbon compounds.
+
+C4 is reflection.
+
+C4ISRNET is a digital brand with a magazine, offering unparalleled focus and coverage for the network-based defense community.
+
+C4ISRNET's headquarters is in Tysons, Virginia.
+
+C4ISRNET was established in 2002.
+
+C4I systems and has been contracted by the NATO C3 Agency to deliver the software components for the visualization capability in its interim Joint Common Operational Picture.
+
+C4 levels are low and C3 levels are normal.
+
+C4 lineages have only evolved in the PACMAD clade, whereas many lineages in the BOP clade have evolved adaptations to cold climate.
+
+C4mim is a shorthand for 1-n-butyl-3-methylimidazolium salts.
+
+C4mim is based on the parent compound 1-butyl-3-methylimidazole with one electron removed from the imidazole arene group.
+
+C-4 or Composition C-4 is a common variety of the plastic explosive family known as Composition C. A similar British plastic explosive, based on RDX but with different plasticizer than Composition C-4, is known as PE-4 (Plastic Explosive No. 4). C-4 is composed of explosives, plastic binder, plasticizer to make it malleable, and usually a marker or odorizing taggant chemical.
+
+C4 photosynthesis evolved independently a number of times in the subfamily, which presumably had a C3 ancestor.
+
+C4 programs help students in high schools decide what they are going to be before they get to college, so they do not waste their time taking classes they do not need in college or wasting their parents' money on classes and books they do not need.
+
+C4 shut down on 26 June 2014 at 1 am.
+
+C4s range from the small #0.
+
+3, to the rarely seen massive #6.
+
+C4 was a Macintosh software developers conference held in Chicago, Illinois.
+
+C4 was a New Zealand television channel owned and operated by MediaWorks New Zealand.
+
+C-513/06 is an EU competition law case, concerning the meaning of harm to "competition" under TFEU article 101.
+
+C-54/07 is an EU law case, concerning the free movement of goods in the European Union.
+
+C-544/10 is an EU law case, concerning the free movement of services in the European Union.
+
+C54, Dundee, IA (Central Design Office,Ames), NRHP-listed Backbone State Park, Richmond Springs (Area C), Jct. of Co. Hwy.
+
+C-565/08 is an EU law case, concerning the freedom of establishment in the European Union.
+
+C-566/15 is an EU law and European labor law case, concerning the scope of free movement of workers, in relation to democracy at work or codetermination.
+
+C57BL/6, often referred to as "C57 black 6", "C57" or "black 6" (standard abbreviation: B6), is a common inbred strain of laboratory mouse.
+
+C-58/08 is an EU law case relevant for UK enterprise law, concerning telecommunications.
+
+C-583/11 is an EU law case, concerning judicial review in the European Union.
+
+C59s were transferred to Kyushu after electrification of the trunk lines after the war.
+
+C5a anaphylatoxin chemotactic receptor C5a2 also known as C5L2, G protein-coupled receptor 77, is a protein that in humans is encoded by the C5AR2 gene.
+
+C5a is a chemotactic agent and an anaphylatoxin; it is essential in the innate immunity but it is also linked with the adaptive immunity.
+
+C5a is a protein fragment released from cleavage of complement component C5 by protease C5-convertase into C5a and C5b fragments.
+
+C5a receptor modulates inflammatory responses, obesity, development and cancers.
+
+C5a, the other cleavage product of C5, acts as a highly inflammatory peptide, encouraging complement activation, formation of the MAC, attraction of innate immune cells, and histamine release involved in allergic responses.
+
+C5b-6-7-8 subsequently binds to C9 and acts as a catalyst in the polymerization of C9.
+
+C5b forms the first part of the complement membrane attack complex.
+
+C5b is important in late events of the complement cascade, an orderly series of reactions which coordinates several basic defense mechanisms, including formation of the Membrane Attack Complex (MAC), one of the most basic weapons of the innate immune system, formed as an automatic response to intrusions from foreign particles and microbial invaders.
+
+C5 convertase is an enzyme belonging to a family of serine proteases that play key role in the innate immunity.
+
+C5H10 is the molecular formula of 13 hydrocarbon isomers (represented by their CAS numbers on the chart).
+
+C5 is a para-cycling classification.
+
+C5 is exclusion, permanent or term.
+
+C5orf34 (chromosome 5 open reading frame 34) is a protein that in humans is encoded by the C5orf34 gene (5p12).
+
+C5orf34 is conserved in mammals, birds and reptiles with the most distant ancestor being the Burmese python, Python bivittatus.
+
+C5-S-75a ships were built as break bulk cargo or Container ship, with 21,600 shp at 15,950 tons and a max speed of 21.
+
+0 knots.
+
+C-5 was a hydrogen inflated C class blimp operated by the U.
+
+S. Navy in 1918 and 1919.
+
+C.
+
+5 was a training biplane developed in Italy shortly before World War II.
+
+C60, formerly known as Cobalt 60, was a hard rock band from Boston, Massachusetts.
+
+C60rf204 is a gene which encodes a protein that has identified as a breast cancer antigen.
+
+C613 movies are recorded in QuickTime MPEG4 format with audio, available in VGA (640 x 480) at 15 frame/s and QVGA (320 x 240) at 30 frame/s quality settings, with lengths up to 80 minutes based on memory capacity.
+
+C-6/90 was a decision of the European Court of Justice which established that European Union member states could be liable to pay compensation to individuals who suffered a loss by reason of the member state's failure to transpose an EU directive into national law.
+
+C.
+
+6bis was a Latvian prototype dive bomber aircraft designed by Herberts Cukurs in 1940.
+
+C6G exhibits decreased immunosuppressive effects compared to codeine.
+
+C6H13NO4S. Synonyms include: 2-morpholinoethanesulfonic acid; 2-(4-morpholino)ethanesulfonic acid; 2-(N-morpholino)ethanesulfonic acid; 2-(4-morpholino)ethanesulfonic acid; MES; MES hydrate; and morpholine-4-ethanesulfonic acid hydrate.
+
+C6H4(CO2C4H9)2, it is a colorless oil, although commercial samples are often yellow.
+
+C6orf222 is a protein that in humans is encoded by the C6orf222 gene (6p21.
+
+31).
+
+C6orf222 is conserved in mammals, birds and reptiles with the most distant ortholog being the green sea turtle,Chelonia mydas.
+
+C6orf58 is a humangene located at locus 6q22.
+
+33 of chromosome 6 and encodes for UPF0762, a protein which is subsequently secreted after cleavage of a signal peptide.
+
+C6 pin of UICC is connected to CLF for SWP support.
+
+C6 tuning is one of the most common tunings for steel guitar, both on single and multiple neck instruments.
+
+C70 fullerene is the fullerene molecule consisting of 70 carbon atoms.
+
+C-72 was a blanket designation given to a variety of privately owned Waco enclosed-cabin biplanes pressed into service by the United States Army Air Forces in 1942.
+
+C7 is part of the membrane attack complex (MAC) which creates a hole on pathogen surfaces, leading to cell lysis and death.
+
+C7orf25 is located at the minus strand and encodes 12 proteins, one of them being UPF0415.
+
+C7orf25 protein UPF0415 (UPF0415) is a protein encoded on chromosome 7, in open reading frame 25 (C7orf25) and are located at domain of unknown function 1308.
+
+C7orf43 has no other human alias, but in mice can be found as BC037034.
+
+C7 protein is an engineered zinc finger protein based on the murine ZFP, Zif268 and discovered by Wu et al.
+
+C7 Sport was a pay-TV service in Australia, owned and run by Seven Network.
+
+C-8/08 is an EU competition law case, concerning the requirements for finding that firms have colluded with the "object" of harming competition.
+
+C-85/96 is an EU law case, concerning the free movement of citizens in the European Union.
+
+C8 and ATA Connection are the defunct IATA code designator and DBA name of Chicago Express Airlines, which in its later years was doing business as ATA Connection, and was the trademark codeshare name and brand used by the renamed parent company of ATA Holdings Inc. for ATA Airlines (formerly known as American Trans Air), the principal operating unit for flights to smaller Midwestern cities.
+
+C8orf46 is found to be highly expressed in regions of the brain and spinal cord.
+
+C8orf48 has been found to interact with proteins that are involved in the regulation of various cellular responses like gene expression, protein secretion, cell proliferation, and inflammatory responses.
+
+C8orf48 is a protein that in humans is encoded by the C8orf48 gene.
+
+C8 started broadcasting in Hungary on 1 April 2014, and in Romania on 5 May 2014.
+
+C8 was a general entertainment TV channel broadcasting to people in Hungary.
+
+C-92/11 is an EU law and consumer protection case, concerning the Unfair Terms in Consumer Contracts Directive.
+
+C93FM broadcast on 92.
+
+9 FM and, after it merged with Radio Avon, also broadcast on 1260 AM.
+
+C93FM has had several music formats during its time on the air.
+
+C93FM was a New Zealand radio station based in Christchurch.

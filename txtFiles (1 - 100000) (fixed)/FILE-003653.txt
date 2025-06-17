@@ -1,0 +1,175 @@
+Amazon.
+
+com played a key role in the development of cloud computing when upgrading their data centers after the dot-com bubble and providing access to their systems by way of Amazon Web Services in 2002 on a utility computing basis. They found the new cloud architecture resulted in significant internal efficiency improvements2007 observed increased activity, including Google, IBM and a number of universities starting large scale "cloud computing" research project, around the time the term started gaining popularity in the mainstream press. It was a hot topic by mid-2008 and numerous cloud computing events had been scheduled.
+
+In August 2008 Gartner observed that "organizations are switching from company-owned hardware and software assets to per-use service-based models" and that the "projected shift to cloud computing will result in dramatic growth in IT products in some areas and in significant reductions in other areas"."
+
+Clouds" cross many country borders and "may be the ultimate form of globalisation". As such it is the subject of complex geopolitical issues, whereby providers must satisfy many legal restrictions in order to deliver service to a global market. This dates back to the early days of the Internet, where libertarian thinkers felt that "cyberspace was a distinct place calling for laws and legal institutions of its own"; author Neal Stephenson envisaged this as a tiny island data haven in his science-fiction classic novel Cryptonomicon.
+
+Although there have been efforts to match the legal environment (such as US-EU Safe Harbor), providers like Amazon Web Services usually deal with international markets (typically the United States and European Union) by deploying local infrastructure and allowing customers to select their countries. However, there are still concerns about security and privacy for individual through various governmental levels, (for example the USA PATRIOT Act and use of national security letters and title II of the Electronic Communications Privacy Act, the Stored Communications Act).
+
+In March 2007, Dell applied to trademark the term '"cloud computing" in the United States. It received a "Notice of Allowance" in July 2008 which was subsequently canceled on August 6, resulting in a formal rejection of the trademark application in less than a week later.
+
+In November 2007, the Free Software Foundation released the Affero General Public License (abbreviated as Affero GPL and AGPL), a version of GPLv3 designed to close a perceived legal loophole associated with Free software designed to be run over a network, particularly software as a service. According to the AGPL license application service providers are required to release any changes they make to an AGPL open source code."
+
+Cloud architecture" is the systems architecture of the software systems involved in the delivery of "cloud computing" (e.
+
+g. hardware, software) as designed by a "cloud architect" who typically works for a "cloud integrator". It typically involves multiple "cloud components" communicating with each other over application programming interfaces (usually web services).
+
+This is very similar to the Unix philosophy of having multiple programs doing one thing well and working together over universal interfaces. Complexity is controlled and the resulting systems are more manageable than their monolithic counterparts."
+
+Cloud architecture" extends to the client where web browsers and/or software applications are used to access "cloud applications"."
+
+Cloud storage architecture" is loosely coupled where metadata operations are centralized enabling the data nodes to scale into the hundreds, each independently delivering data to applications or users.
+
+Cloud computing poses privacy concerns because the service provider can access the data that is in the cloud at any time. It could accidentally or deliberately alter or delete information. Many cloud providers can share information with third parties if necessary for purposes of law and order without a warrant. That is permitted in their privacy policies, which users must agree to before they start using cloud services. Solutions to privacy include policy and legislation as well as end-users' choices for how data is stored.
+
+A "cloud application" influences The Cloud model of software architecture, often eliminating the need to install and run the application on the customer's own computer, thus reducing software maintenance, ongoing operations, and support. For example:A "cloud client" is computer hardware and/or computer software which relies on The Cloud for application delivery, or which is specifically designed for delivery of cloud services, and which is in either case essentially useless without a Cloud. For example:"Cloud infrastructure" (e.
+
+g. Infrastructure as a service) is the delivery of computer infrastructure (typically a platform virtualization environment) as a service. For example:A "cloud platform" (e.
+
+g. Platform as a service) (the delivery of a computing platform and/or solution stack as a service) facilitates deployment of applications without the cost and complexity of buying and managing the underlying hardware and software layers. For example:A "cloud service" (e.
+
+g. Web Service) is "software system[s] designed to support interoperable machine-to-machine interaction over a network" which may be accessed by other cloud computing components, software (e.
+
+g. Software plus services) or end users directly. For example:"Cloud storage" is the delivery of data storage as a service (including database-like services), often billed on a utility computing basis (e.
+
+g. per gigabyte per month). For example:Traditional storage vendors have recently begun to offer their own flavor of cloud storage, sometimes in conjunction with their existing software products (e.
+
+g. Symantec's Online Storage for Backup Exec ). Others focus on providing a new kind of back-end storage optimally designed for delivering cloud storage (EMC's Atmos), categorically known as Cloud Optimized Storage.
+
+A "cloud computing provider" or "cloud computing service provider" owns and operates "cloud computing" systems serve someone else. Usually this needs building and managing new data centers. Some organisations get some of the benefits of cloud computing by becoming "internal" cloud providers and servicing themselves, though they do not benefit from the same economies of scale and still have to engineer for peak loads. The barrier to entry is also significantly higher with capital expenditure required and billing and management creates some overhead. However, significant operational efficiency and quickness advantages can be achieved even by small organizations, and server consolidation and virtualization rollouts are already in progress. Amazon.
+
+com was the first such provider, modernising its data centers which, like most computer networks were using as little as 10% of its capacity at any one time just to leave room for occasional spikes. They opened it up to outsiders as Amazon Web Services in 2002 on a utility computing basis.
+
+A user is a consumer of "cloud computing". The privacy of users in cloud computing has become of increasing concern. The rights of users is also an issue, which is being addressed via a community effort to create a bill of rights (currently in draft ).
+
+A vendor sells products and services that facilitate the delivery, adoption and use of "cloud computing". For example:A "cloud standard" is one of a number of existing (typically lightweight) open standards that have facilitated the growth of cloud computing, including:Avant-garde musicAvant-garde music, or experimental music, is a type of music that is meant to push the boundaries of "what music is." It started in the 1940s and 1950s after World War II. Some famous avant-garde composers were John Cage, Karlheinz Stockhausen, and Henry Cowell.
+
+This was a song written by John Cage that is 4 minutes and 33 seconds of complete silence. It is meant to make the audience listen to the sounds around them.
+
+This is a song by the popular English rock band The Beatles. It appeared on their album "The Beatles", also known as "The White Album" (released in 1968.) "Revolution 9" is over 8 minutes of random sounds, and someone repeatedly saying "number 9...
+
+number 9...
+
+number 9...
+
+number 9..." It was mostly the work of John Lennon and his wife, Yoko Ono.
+
+This is a song by the American grunge band Pearl Jam. It is the last song on their third album "Vitalogy", released in 1994. It is over seven minutes long. It is made up of conversations between mental patients in asylums, and psychiatrists, with distorted bass guitar and drums laid over them.
+
+Red deerThe red deer ("Cervus elaphus") is one of the largest deer species. The red deer lives in most of Europe, the Caucasus Mountains region, Asia Minor and parts of western and central Asia, in Kashmir as the state animal. They can also be found in the Atlas Mountains region between Algeria and Tunisia in northwestern Africa. They are the only species of deer in Africa. Red deer have been introduced to other areas including Australia, New Zealand and Argentina. In many parts of the world the meat (venison) from red deer is widely used as a food source.
+
+Lisa GerrardLisa Germaine Gerrard (born 12 April 1961) is an Australian musician, singer and composer who rose to fame as part of the group Dead Can Dance with former music partner Brendan Perry.
+
+Gerrard received a Golden Globe award and an Academy Award nomination for the score for the 2000 film "Gladiator" on which she teamed up with Hans Zimmer.
+
+Gerrard possesses the vocal range of a contralto, spanning from E3-F5. Her voice has been described as rich, deep, dark, mournful and unique.
+
+She also has the ability to extend upwards into the dramatic mezzo-soprano range, examples of such would be on the songs "The Host of Seraphim", "Elegy", "Space Weaver", "Come This Way" and "One Perfect Sunrise". Gerrard however performs more predominantly in the dramatic contralto range in her other songs, "Sanvean", "Sacrifice", "Largo" and "Not Yet".
+
+Gerrard sings many of her songs, such as "Now We Are Free", "Come Tenderness", "Serenity", "The Valley of the Moon", "Tempest", "Pilgrimage of Lost Children", "Coming Home" and "Sanvean" in an idioglossia (an idiosyncratic language) that she has developed since the age of twelve.
+
+Stop signThe stop sign is a sign that is often placed at crossroads, when a road does not have traffic lights. This sign instructs the drivers to stop when they reach the crossroad and wait for other vehicles to pass. They can only proceed when the road is clear. This sign is one of the most significant and well-known signs of road traffic.
+
+The stop sign is very common in every country. In some countries the stop sign is also written in the local language. For example in Japan, the stop sign is written in Japanese and English. Some decades ago a different symbol was used to indicate the stop sign.
+
+Salwar kameezSalwar kameez (also spelled shalwar kameez or shalwar qameez) is a traditional dress worn by both women and men in Southern Asia. Salvars or shalvars are loose pajama-like trousers. The legs are wide at the top, and narrow at the bottom. The kameez is a long shirt or tunic. The side seams (known as the chaak) are left open below the waist-line, which gives the wearer greater freedom of movement. It is the most common dress for men in Pakistan and Afghanistan.
+
+ZayinZayin is the seventh letter of the Hebrew alphabet. It is also spelled zain or zayn or simply zay.
+
+The Phoenician letter gave rise to the Greek zeta (Ζ), Etruscan "z" , Latin Z, and Cyrillic Ze З.
+
+ReshResh is the twentieth letter of the Hebrew alphabet.
+
+Ocimum tenuiflorumOcimum tenuiflorum (also known as Ocimum sanctum, Tulsi, Tulasī) is an plant in the family Lamiaceae. It is also called Holy Basil.
+
+Holy Basil, as the name suggest has a holy meaning for people of India, especially towards North and South India. It is usually placed or grown in every household in India and carries religious meanings. In bigger households, the holy basil or tulsi plant is placed in the centre of the house and prayers are offered in the morning time. People usually light an incense stick or agarbatti and pour water on the plant during the prayer.
+
+AllspiceAllspice (also called Jamaica pepper, Kurundu, Myrtle pepper, pimento, allspice berries, or newspice) is a spice which is the dried unripe fruit of the "Pimenta dioica" plant, a tree native to the West Indies, southern Mexico and Central America. The tree "Pimenta dioica" is from the myrtle family (Myrtaceae), and it is very valued for its berries. The allspice was named because the flavor of the berry is like a mixture of cloves, cinnamon, and nutmeg. It is used very much in baking, mostly for making mincemeat and mixed pickling spice. It was discovered first by the early Spanish explorers, who mistook it for a type of pepper.
+
+Allspice is the only spice grown in the Western Hemisphere. But after that, the wild trees were cut down to get the berries and only a few allspice are left. There are many plantations in Mexico and Central America, too. However, the best allspice comes from Jamaica where the weather and soil are best for the berries.
+
+Allspice was used by the Mayans and by other South American Indians when making chocolate. The name "Jamaica" comes from Xamayca. This means ‘land of wood and water’ in the language of the . The Arawaks used allspice to help keep the meat from rotting, or sometimes against their enemies.
+
+The spice was imported to Europe after it was discovered. There were many tries to plant it in the East, but it did not work because the trees could not give a lot of fruit. Even though it had a rich smell and a tasty flavor, allspice never had the same caché in Europe as cinnamon or pepper. The English started taking the spice by ship to England in 1737, but by that time the want for spices had been taken over by other kinds of products such as sugar and coffee. It was still a little popular in England though, where it came to be known as the "English Spice".
+
+In the Napoleonic war of 1812, Russian soldiers put the spice in their boots to keep their feet warm. Because of this, today the pimento oil from the allspice is usually used for the men’s dress.
+
+Dried allspice berries look like large brown peppercorns and their colors are cocoa brown. When the berries are not yet ripe, they are harvested and dried by the sun. They are different in size from between 4 and 7 mm (1/8 - 1/4 in) in diameter and are dark brown. Their skin is very wrinkled, and the outer case has two seeds. Allspice can be eaten ground or whole.
+
+Whole dried allspice can keep without a time limit if they are properly kept in airtight jars. They also must not face the light. It can be ground in a mill or an electric coffee grinder. After it is ground, the spice loses its flavor in a few days.
+
+PeonyThe peony or paeony (Paeonia) is the only genus in the flowering plant family Paeoniaceae. They are native to Asia, southern Europe and western North America. It is the national flower of China.<
+
+br>Liriodendron tulipiferaAmerican tulip tree ("Liriodendron tulipifera"), also called tulip poplar or yellow poplar is a type of tree. It is one of the two species in the genus "Liriodendron". "L. tulipifera" can be found in Eastern North America. The tree can grow to over . It often has no limbs until it reaches 25-30 m (80-100 feet) in height. This makes it a good tree for timber.
+
+ActionScriptActionScript is a scripting language similar to JavaScript. It is used for Adobe Flash and Adobe Flex.
+
+An example Hello World program in ActionScript 3.
+
+0:package com.
+
+exampleSean KingstonKisean Paul Anderson(born February 3, 1990) better known by his stage name Sean Kingston, is an American-Jamaican singer, songwriter, and rapper. He is best known for his number 1 single "Beautiful Girls", as well as "Fire Burning", "Take You There", and his collaboration with Justin Bieber: "Eenie Meenie".
+
+On May 29, 2011, Kingston was seriously injured along with a female passenger in a jet ski accident in Miami, Florida.
+
+GalagaGalaga is a sci-fi arcade game released by Namco in 1981. It is the sequel to "Galaxian". In this game, the player controls a spaceship and shoots enemies coming down in different directions.
+
+The game was published by Chunsoft and developed by Namco.
+
+Funker VogtFunker Vogt is a German aggrotech band, formed by Gerrit Thomas and Jens Kästel in 1995.
+
+Metropolis RecordsMetropolis Records is a Philadelphia, Pennsylvania based record label, distributor, and mail-order store specializing in the electro-industrial, synthpop, futurepop, darkwave, and gothic musical genres.
+
+Many of the bands on Metropolis are signed to European labels for their European releases while releasing albums in North America through Metropolis.
+
+Among the artists signed are:Apoptygma BerzerkApoptygma Berzerk is a Norwegian musical group. They have achieved success with a brand of upbeat and danceable synthpop, winning awards and top-10 spots in Germany and Scandinavia. Apoptygma Berzerk (abbreviated to APB or APOP) has toured Europe, North America, South America and Israel with bands such as VNV Nation, Beborn Beton and Unheilig.
+
+VNV NationVNV Nation are an electronic music band originally from Wexford and London, now based in Hamburg, that combines elements of trance, synthpop and electronic body music (EBM), into what they call futurepop. Earlier works also include some electro-industrial influences. The members are Ronan Harris and Mark Jackson.
+
+The "VNV" in the name stands for Victory, not Vengeance, in keeping with the group's motto, ""One should strive to achieve; not sit in bitter regret.""
+
+Synth-popSynth-pop is a subgenre of pop music in which the synthesizer is the main musical instrument. An electronic music genre, synthpop is additionally influenced by rock genres such as New Wave music and punk rock, as well as disco music. It is most closely associated with the era between the late 1970s and early to middle 1980s, although it has continued to exist and develop ever since.
+
+FuturepopFuturepop is a type of electronic dance music which uses influences from the genre synthpop (like song structure and vocal style), uplifting trance (grandiose and arpeggiated synthesizer melodies), and EBM. The name was created by Ronan Harris (of VNV Nation) and Stephan Groth (of Apoptygma Berzerk) while trying to describe the style of music their bands produced.
+
+BlutengelBlutengel () are a German futurepop musical group with a gothic appearance. Blutengel was formed in 1998 by singer Chris Pohl (also of the groups Terminal Choice, Tumor, and Miss Construction and the owner of the Fear Section label) after he had decided to give up the preceding project, Seelenkrank (which had released two albums), due to contractual problems. The lyrics are written primarily in German and English and are presented with male and female vocals.
+
+Seelenschmerz, Angel Dust, Demon Kiss and Labyrinth come with a hard-box limited edition including a bonus CD and exclusive booklet, sticker and post cards.<
+
+br>Tränenherz also came as a limited edition boxset which included, "Tränenherz" Deluxe Edition Digi 2CD, "Signs of the zodiac" Bonus CD and a 100 pages photo book,The Host (novel)The Host is a 2008 science-fiction/romance book by Stephenie Meyer. A movie based on the book is currently in development.
+
+Melanie Stryder refuses to fade away. The earth has been invaded by a species that takes over the minds of their human hosts while leaving their bodies intact, and most of humanity has succumbed.
+
+Wanderer, the invading ‘soul’ who has been given Melanie’s body, knew about the challenges of living inside a human: the overwhelming emotions, the too-vivid memories. But there was one difficulty Wanderer didn’t expect: the former tenant of her body refusing to relinquish possession of her mind.
+
+Melanie fills Wanderer’s thoughts with visions of the man Melanie loves – Jared, a human who still lives in hiding. Unable to separate herself from her body’s desires, Wanderer yearns for a man she’s never met. As outside forces make Wanderer and Melanie unwilling allies, they set off to search for the man they both love.
+
+The characters in the book include:Polly AdlerPearl "Polly" Adler (April 16, 1900 July 11, 1962) was a Russian-born madam (owner-manager of a brothel) of Jewish descent. Adler was born in Ivanava (nowadays Belarus).
+
+She opened her first bordello in 1920, under the protection of mobster Dutch Schultz and a friend of mobster Charles "Lucky" Luciano. One building she used was "The Majestic" at 215 West 75th Street, designed by architects Schwartz and Gross and completed in 1924 with hidden stairways and secret doorways. Her brothel there boasted such patrons as Robert Benchley, New York City mayor Jimmy Walker, and Dutch Schultz."
+
+A House is Not a Home" was a 1953 book of Polly Adler's life that was ghosted (written anonymously) by Virginia Faulkner. The 1989 "Perry Mason" TV-movie "Musical Murder" revolved around a faux-musical based on Adler.
+
+Kitty HawkKitty Hawk or Kittyhawk may refer to:Morse codeMorse code is an old system of encoding messages that is used to send telegraphic information using signals and rhythm. In written communication, Morse code uses "dots" and "dashes" to represent a limited number of alphabet letters, numbers, punctuation and special characters of a given message. When messages are sent by sound, radio signals or light flashes, dots are short beeps or clicks or flashes, and dashes are longer ones. For example, Wikipedia written in Morse code is .-- .. -.- .. .--. . -.. .. .-
+
+Morse code is named after Samuel Morse, who helped invent it. It is not used as much today as it was in the 19th and 20th centuries. Teletypewriters were invented in the early 20th century with their own codes and gradually replaced Morse code. Other types of technology that are easier to use for communication became even more common.
+
+Some amateur radio operators still use Morse code to communicate and were previously required to learn and pass telegraphy exams to qualify their licenses. The requirements were lifted after 2003.
+
+There are different types of Morse code for some different countries.
+
+There are three different symbols in Morse code; there's a short one, usually called 'dit', a long one, called 'dah', and the pause. A dah is three times as long as a dit, and the pause has the same length as the dit.
+
+Today, Morse codes can be easily generated through smartphone applications or through a web application, which take text as input and outputs the Morse code in copyable text or downloadable audio form. Its usage as a method of sending secret messages has become obsolete in favor of more powerful encryption techniques provided by advanced modern computer machines.
+
+Morse code can be sent in different ways. On ships, flickering lights were often used instead of radio communication.
+
+The S.
+
+O.
+
+S as it is used today, was introduced by the Imperial German Marine in 1904. It was mandatory for all German ships starting in 1905. It was meant as a distress signal, and should be repeated until all other stations stopped sending. Afterwards the real message would be sent. Also, there is no pause between the characters.
+
+At the time, the market was controlled by two companies; one was Telefunken, and the other was Marconi. Marconi was under British control, Telefunken was German. Marconi used CQD as a distress signal.

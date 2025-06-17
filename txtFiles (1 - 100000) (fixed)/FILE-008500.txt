@@ -1,0 +1,161 @@
+The past record of geomagnetic reversals was first noticed by observing the magnetic stripe reversals on the ocean floor. This soon led to the development of the theory of plate tectonics. The relatively constant rate at which the sea floor spreads causes "stripes" in the basalt. From these past magnetic fields polarity can be inferred. Data is got by towing a magnetometer along the sea floor.
+
+No existing unsubducted sea floor is more than about 180 million years old, so other methods are used for detecting older reversals. Most sedimentary rocks have tiny amounts of iron rich minerals. Their orientation reflects the magnetic field when they formed. The rocks keep that record unless they get changed by some later process.
+
+A "superchron" is a polarity interval lasting at least 10million years. There are two well-established superchrons, the Cretaceous Normal and the Kiaman.
+
+The Cretaceous Normal (also called the Cretaceous Superchron or C34) lasted for almost 40million years. Between the Cretaceous Normal and the present, the frequency has generally increased slowly.
+
+The Kiaman Reverse Superchron lasted from the late Carboniferous to the late Permian. That is more than 50million years, from 312 to 262 million years ago (mya). The magnetic field had reversed polarity. The name "Kiaman" derives from the Australian village of Kiama, where some of the first geological evidence of the superchron was found in 1925.
+
+The magnetic field of the Earth, and of other planets that have magnetic fields, is caused by dynamo action of molten iron in the planetary core. This convection (movement) generates electric currents which in turn give rise to magnetic fields. In simulations of planetary dynamos, reversals occur from the underlying dynamics. For example, Gary Glatzmaier and collaborator Paul Roberts of UCLA ran a numerical model of the coupling between electromagnetism and fluid dynamics in the Earth's interior. Their simulation reproduced key features of the magnetic field over more than 40,000 years of simulated time and the computer-generated field reversed itself. Global field reversals at irregular intervals have also been observed in a laboratory liquid metal experiment VKS2.
+
+As far as we know, there is no effect on life. Studies have been done to see if reversals relate in any way to extinction events. Statistical analysis shows no evidence for a correlation between reversals and extinctions.
+
+ChronA chron is a general term in Earth science. It means a period of time, usually less than a million years.
+
+Economic deficitEconomic deficit is a status of financial health in which expenditures exceed revenue (more money being spent than coming in). The term "budget deficit" is most commonly used to refer to government spending rather than business or individual spending. When referring to accrued federal government deficits, the term "national debt” is used.
+
+Root (disambiguation)Root may refer to:Root of a functionIn mathematics, a root of a function "f" is a number x that turns the value of "f" to 0:formula_1for example, one of the roots of sin(x) is formula_2, the only root of formula_3 is 0, for 2x + 5 it's -2.
+
+5 and so on.
+
+Because polynomials are also functions, roots are real things.
+
+The fundamental theorem of algebra says every polynomial with complex coefficients has at least one (complex) root. Using the fundamental theorem of algebra and the polynomial remainder theorem together shows that every complex polynomial of degree "n" has exactly "n" complex roots, and some of them may be equal.
+
+for first degree polynomials ax + b the root is x = formula_4.
+
+for second degree polynomials ,formula_5 the roots are: formula_6.
+
+there are also equations for solving 3rd and 4th degrees but Évariste Galois proved that 5th degree polynomials cannot be solved using .
+
+Polynomial remainder theorem states that if a is a root of a polynomial P(x) If and only if P(x) is divisible by x-a.
+
+the Fundamental theorem of algebra states that the Complex plane is an algebraically close Field meaning that any polynomial from degree n has exactly n roots including repeating roots.
+
+if a Polynomial P(x) = formula_7, for t > 0, a is a root of P and a root of the first t-1 derivatives of P.
+
+if P is a polynomial such that all of his coefficients are Integers:1.
+
+if a is an Integer root of P, the constant coefficient is divisible by a.
+
+2.
+
+if formula_8 is an Rational root of P, the constant coefficient is divisible by a and the leading coefficient is divisible by b.
+
+for example : P(x) = formula_9, we can see that the root should be a divisor of 1 meaning it is 1 or -1, after we check the 2 options we can see that the root is -1.
+
+De Moivre's formulaIn mathematics, de Moivre's formula or de Moivre's theorem is an equation named after Abraham de Moivre. It states that for any real number "x" and integer "n",formula_1The formulation of De Moivre's formula for any complex numbers formula_2 (with modulus formula_3 and angle formula_4) is as follows:formula_5Here, formula_6 is Euler's number, and formula_7 is often called the polar form of the complex number formula_2.
+
+The formula is very important because it connects complex numbers and trigonometry. It can be proved using the trigonometry form of complex numbers by mathematical induction, with the help of some trigonometrical identities. It can also be proved using Euler's formula as well.
+
+By using this formula, any equation of the form formula_9, where "w" is complex, can be solved.
+
+Curtiss F6C HawkThe Curtiss F6C Hawk is an american fighter. It's a biplane aircraft made in wood and metal. Is was used by US Navy between 1925 and 1932.
+
+Airbus Helicopters H175The Airbus Helicopters H175 is a European helicopter built by Airbus Helicopters, subsidiary of Airbus Group. It made first flight in 2009 as Eurocopter EC-175.
+
+Sikorsky R-4The Sikorsky R-4 is the first military helicopter built in USA. It flown during World War II and beginning of Korea War. Some were used by US Navy, US Coast Guard and Fleet Air Arm.-
+
+KOREAN WAR-The R-4 was used in Korea as a rescue helicopter helping to carry wounded troops to military hospitals. Sikorsky said his greatest accomplishment with the helicopter, even better than making more space for air fields was the tens of thousands of live his invention saved through the multitude of wars it was deployed in.
+
+Ilyushin Il-86Ilyushin Il-86 (Илью́шин Ил-86; NATO reporting name: Camber) is a Soviet civilian aircraft. It was the first wide-body aircraft built in USSR. Some are used by Russian Air Force as a transport aircraft. This is the basis of development of the military aircraft Ilyushin Il-80.
+
+Jon EnglishJonathan James "Jon" English (26 March 1949 – 9 March 2016) was an English-born Australian singer, songwriter, musician and actor. He was an early member of the band Sebastian Hardie. He played the role of Judas Iscariot in the Australian production of the stage musical "Jesus Christ Superstar" in 1972. He also performed in Gilbert and Sullivan's operettas "The Pirates of Penzance", "The Mikado" and "H.
+
+M.
+
+S. Pinafore" from 1984. He also acted in a number of television series. As a solo singer, his best known songs were "Turn the Page", "Hollywood Seven", "Words are Not Enough", "Six Ribbons" and "Hot Town".
+
+English was born in Hampstead, London. He moved to Sydney as a child in 1961. He had four children. He was a fan of the Parramatta Eels.
+
+English died from an aortic aneurysm caused by surgery problems on 9 March 2016 in Newcastle, New South Wales. He was 66.
+
+OprichninaOprichnina ("опричнина") is a state policy used by Russian Tsar Ivan the Terrible between 1565 and 1572. The origin of its name is old Russian "опричь", what means 'apart', 'except', or 'special'. Oprichnina included secret police, mass repressions, public executions, and confiscation (taking somebody's property) of land from the boyars. It was created because Ivan didn't trust the boyars (Russian feudal aristocrats) anymore.
+
+Beechcraft King AirThe Beechcraft King Air is a twin-engine aircraft designed and built in USA. It is built in two major series: King Air 90 and King Air 100. It used as light business aircraft and light transport aircraft.
+
+Beechcraft Super King Air is a modern variant.
+
+Beechcraft King Air are known in the US Army as U-21 Ute, for light transport duties. In US Navy it known as T-44 Pegasus, a trainer.
+
+Airbus HelicoptersAirbus Helicopters is a French and German company that designs and produces civilians and militaries helicopters. The headquarters is in Marignane, France. Factories are in France, Germany, and for some helicopters in the United States.
+
+The company was previously named Eurocopter. The name change was made 1 January 2014. It's a part of the Airbus company.
+
+Je suis CharlieJe suis Charlie (French for "I am Charlie") is a French slogan. It appeared at the moment of the Charlie Hebdo shooting in Paris. Very quickly it became known all over the world. These three words were never translated and used as French language. It was created by French artist Joachim Roncin.
+
+BAC Jet ProvostThe British Aircraft Corporation Jet Provost is a British military aircraft. It's a single-turbojet aircraft. It was used by nine foreign countries as a trainer. British Aircraft Corporation Strikemaster is a modern variant for light attack duties.
+
+Danville, New HampshireDanville is a small town in the U.
+
+S. state of New Hampshire. New Hampshire is in New England which is in the northeastern part of the United States. Danville is in the Southeast part of New Hampshire and is in Rockingham County. Danville has Sandown to its west, Hampstead to its south, Kingston to its east, and Fremont to its north.
+
+It is in the Timberlane Regional School District, which consists of Atkinson, Plaistow, Sandown and Danville. It has a public elementary school named Danville Elementary School. Danville Elementary School has preschool to 5th grades.
+
+Danville has a population of 4,408 people, as of 2020.
+
+Mass graveA mass grave is a grave where many bodies are buried together, without coffins. Mass graves are usually created when a large number of people die or are killed. For example, in the past, they have been used when many people die at once from disease, a natural disaster, or genocide.
+
+Different people have come up with different meanings for the phrase "mass grave." Mass graves have been defined as:Since 1993, the United Nations has defined a mass grave as a grave where three or more people are buried together.
+
+For centuries, people around the world have used mass graves when many people died at once from epidemics of diseases. The goal of this type of mass grave is not to disrespect the bodies of the dead. The goal is to prevent disease from spreading from the dead to the living. Also, if too many people have died, it may be impossible to bury them all separately.
+
+For example, during outbreaks of the bubonic plague ("The Black Death") in Europe, people were terrified of catching this disease from dead bodies. Often they buried plague victims in mass graves. Daniel Defoe, who lived during the Great Plague of London in 1655-1666, wrote about one mass grave:However, at some mass graves for plague victims, people still tried to honor the dead with Christian burial traditions.
+
+More recently, victims of natural disasters have been buried in mass graves. Like with mass graves for disease victims, mass graves for disaster victims are not meant to disrespect the dead. In disasters where many people die, it may not be possible to bury each person one by one.
+
+For example, after 2010 Haiti earthquake, there were tens of thousands of bodies in the Haitian capital city of Port-au-Prince. In the first nine days after the earthquake, about 90,000 people were buried in mass graves, using bulldozers. There were so many bodies that there was no room, and not enough workers, to bury them one by one.
+
+One Haitian man, who helped bury 2,500 people in three mass graves, said: "You have to understand that it's completely un-Haitian to dump bodies like this. We have extreme respect for the dead. And these people deserve a decent burial." Later, he and other volunteers put up crosses to mark the graves, put holy water on the graves, and had a priest say prayers for the dead. Like at the mass graves for the plague victims, they were still trying to honor the dead, even though they had to bury them in mass graves.
+
+Some areas in Japan also had to use mass graves after the 2011 Tōhoku earthquake and tsunami. In Japan, most people are cremated after they die. However, there were too many victims, and not enough kerosene to cremate them or dry ice to keep the bodies from decomposing. In one town, cremating all the town's victims would have taken 100 days. Because of this, some towns had to use mass graves to bury the dead.
+
+Throughout history, people and governments that have murdered many people have buried them in mass graves. Unlike mass graves for victims of disease or disasters, this type of mass grave is often meant to disrespect the bodies of the dead after they are murdered.
+
+Mass graves have been found from many of the international wars and civil wars in modern history. Here are a few examples.
+
+During World War I, on July 19, 1916, about 2,300 British and Australian soldiers were killed in a battle with the German Army. In 2008, about 250 of their bodies were found in mass graves, where the Germans had buried them.
+
+During The Holocaust, Nazi Germany killed six million Jewish people and millions of other people. Nobody knows exactly how many of these people are buried in mass graves. However, here are some examples of mass graves from Nazi murders:During World War II, German soldiers who died when Nazi Germany invaded the Soviet Union were buried in mass graves in Eastern Europe. In 2013, the German War Graves Commission moved 70,000 soldiers from mass graves to a cemetery in Russia. This was the 82nd cemetery the Commission had built to re-bury soldiers buried in mass graves. All together, the 82 cemeteries hold more than 800,000 German soldiers. The Commission says there are at least 250,000 more German soldiers buried in mass graves throughout Eastern Europe.
+
+The Soviet Union also used mass graves during World War II. For example, in the Piskaryovskoye Memorial Cemetery, they buried almost 500,000 civilians and soldiers in 186 mass graves. These people had died or been killed during the Siege of Leningrad.
+
+In the Soviet Union, as many as 20 million people may have died or been murdered while Joseph Stalin ruled the government. Most of them were Soviet civilians. Many were buried in mass graves.
+
+The biggest include:Early on in the Korean War, South Korea killed at least 100,000 people who had been put in prison for their political beliefs. They buried many of these people in mass graves. In 2007, the South Korean Truth and Reconciliation Committee found four mass graves, with more than 400 people in them. The Committee estimates that there are about 150 mass graves in South Korea.
+
+During the Vietnam War, in the Huế Massacre, the Viet Cong and the North Vietnamese Army murdered between 2,800 and 6,000 civilians and prisoners of war. They buried the bodies in dozens of mass graves.
+
+From 1975 to 1979, the Khmer Rouge, ruled by Pol Pot, controlled Cambodia. The Khmer Rouge committed a genocide against the Cambodian people. Historians and scientists say that there are at least 20,000 mass grave sites in the country, holding at least 1,386,734 victims of execution.
+
+During the Bosnian War (1992-1995), the Bosnian Serb Army killed more than 8,000 Bosnian Muslims in the Srebrenica genocide. They buried them in mass graves. In 2003, mass grave specialists found a mass grave that was "as big as a tennis court." It included victims of the Srebrenica genocide. By 2006, 42 mass graves had been found around Srebrenica, and specialists think there are at least 22 more. Another 2,070 victims have been found in the graves.
+
+During the Kosovo War (1998-1999), Serbian soldiers committed many war crimes against the Albanian people. As of 2010, six mass graves had been found in Serbia with Albanian victims inside. The largest had between 705 and 1,000 bodies in it.
+
+The Colombian government says that in its civil war, which is still going on today, its enemies have buried at least 6,000 people in mass graves.
+
+CNN recently wrote that the terrorist group Islamic State of Iraq and Syria (ISIS) killed more than 130 men, women, and children who refused to join ISIS. They buried their bodies in mass graves.
+
+Fred WestFrederick Walter Stephen "Fred" West (29 September 1941 – 1 January 1995) was an English serial killer. West was born in Much Marcle, Herefordshire. His convictions included sexual assault and theft.
+
+Between 1967 and 1987, West – alone and later with his second wife, serial killer Rosemary West – tortured and raped young women and girls, murdering at least 12, including their own family members. Fred killed at least two people before collaborating with Rose, while Rose murdered Fred's stepdaughter (his first wife's biological daughter) when he was in prison for theft. Most of the murders occurred between May 1973 and August 1979, in their homes at 25 Midland Road and 25 Cromwell Street in Gloucester. Many bodies were buried at or near these homes and sometimes even in the walls of their home.
+
+The couple were apprehended and charged in 1994. Fred West hanged himself in his prison cell before going to trial. Rose West was imprisoned for life, in November 1995, found guilty on 10+ counts of murder. Their house at Cromwell Street was demolished in 1996 and the space converted into a landscaped footpath.
+
+Twenty One PilotsTwenty One Pilots (often written as twenty one pilots or TØP) is an American band from Columbus, Ohio. The band was formed in 2009. Its members are Tyler Joseph and Josh Dun. They put out two albums that they released themselves, "Twenty One Pilots" in 2009 and "Regional at Best" in 2011, before being signed by Fueled by Ramen in 2012. Their first album through a record label, "Vessel", was released with Fueled by Ramen in 2013. Their next album, "Blurryface", was released on May 15, 2015 through the same label. There was also rumors of a new album release with an email to their fans that had a GIF of a horse galloping through an eye that had the caption, "ARE YOU STILL SLEEPING?" Leading to many theories that their year-long hiatus had ended. The theories were right, and the band released two songs not too long after, coming from the studio album going by the name "Trench", which has a yellow theme, and was released on the 5th of October, 2018. They released a single named "Level of Concern" on April 9, 2020. They released four singles which are named , "Choker", "Saturday" and "The Outside" in 2021, and also an album, named "Scaled and Icy" on May 21 in that same year.
+
+Eighteenth Amendment to the United States ConstitutionRatified on January 17, 1919 and went into effect a year later, the Eighteenth Amendment (Amendment XVIII) of the United States Constitution banned the making, transporting, and sale of alcoholic beverages in the United States. The Volstead Act was passed by Congress to enforce the Eighteenth Amendment. It did not prohibit the drinking of alcohol however. It started the period in American history called the Prohibition Era. This was a period of mass civil disobedience to the law. Those who could afford the higher prices of smuggled liquor went to illegal bars called speakeasies. Working class people tended to drink moonshine and so-called bathtub gin at home. The Eighteenth Amendment proved to be a major failure. Americans started drinking more than before and it caused crime to rise significantly. The Eighteenth Amendment was later repealed by the Twenty-first Amendment. It remains the only amendment to be repealed by another amendment to the Constitution.
+
+The first clause, section one, says the law was to go into effect one year from its ratification. It was passed by Congress on December 18, 1917. The thirty-sixth state (required number for passage) to ratify the amendment did so 394 days later on January 16, 1919. The forty-seventh state to ratify the amendment was New Jersey on March 9, 1922. Rhode Island was the only state to reject ratification of the 18th Amendment.
+
+The second clause gave the federal and state governments concurrent powers to enforce the amendment. Congress passed the national Prohibition Enforcement Act, also known as the Volstead Act. The act defined any beverage containing more than one-half of one percent an intoxicating beverage. It gave the Internal Revenue Service the power to enforce the law.
+
+The third clause gave seven years as the time period for the states to ratify the amendment. This is the first amendment to have a limit on the time in which it was to be ratified. If it was not ratified by the required number of states in that time period, the amendment would not go into effect. Article Five of the United States Constitution requires an amendment be passed by three-quarters of the states. (36 out of the 48 states at that time.)
+
+During the 1820s intense religious and social movements spread across the country calling alcohol and drunkenness a "national curse." They were called temperance movements. The first state to have a temperance law was Massachusetts who in 1838 enacted a law prohibiting the sale of liquor in less than quantities. In 1846, Maine passed the first state prohibition law. It was repealed two years later, still, other states also passed similar laws.
+
+After the American Civil War, immigrants, mainly from Ireland, Germany, Italy and other parts of Europe, crowded major cities by the millions. Many of these men worked hard and drank just as hard. Beer became a favorite drink and many German-Americans who knew how to brew beer began producing it in large quantities. By the 1870s, many wives and mothers who were completely dependant on their men, began to protest having their lives ruined by alcohol. They were joined by a number of clergymen. They organized as the Woman's Christian Temperance Union (WCTU) and became a powerful force for change. They were joined by women such as Susan B. Anthony and Elizabeth Cady Stanton. prominent in the suffrage movement (women's right to vote). The temperance movement was able to put political pressure on politicians that many were afraid of. The WCTU began calling for a nation-wide ban on alcoholic drink. At first, most Senators were against the idea. But they also did not want to be seen as voting against it. For this reason they imposed a deadline for ratification of seven years. Many hoped it would not be ratified. But the plan did not work since it was ratified just over a year after its passage.
+
+Gustav Boess, Mayor of Berlin visited New York City in late 1929. He asked the Mayor of New York City, Jimmy Walker, when prohibition was supposed to go into effect. At that time, prohibition had already been the law of the land for over nine years. That the German mayor even had to ask shows how well the Eighteenth Amendment had been working. In fact, it was not working very well at all.

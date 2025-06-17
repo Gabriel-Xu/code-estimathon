@@ -1,0 +1,105 @@
+CatgirlA catgirl (猫娘, nekomusume) is a female anthropomorphic character with cat traits. Catgirls are often found in various fiction genres and in particular Japanese anime and manga. Catboys are the male counterparts to catgirls. Some catgirls or catboys can be seen wearing a french maid outfit. In late 2020, catboys gained more recognition as femboys became popularized by the app TikTok, with many of the femboys on the app donning feline accessories due to popular memes that encouraged them to "put on the cat ears" or promoted catboys in general.
+
+Rooqma RayRooqma Ray ( or Rukma Ray) is a Bengali Television actress who works primarily in TV soap operas. She is well known for playing the lead character of "Rajkumari Kiranmala" in "Kiranmala". She has also played both supporting and lead roles in many soap operas and web series.
+
+Postal Reorganization ActThe Postal Reorganization Act is an American law signed by President Richard Nixon in 1970. The law takes the Post Office Department out of the Cabinet of the President and makes it an independent agency. This agency is the United States Postal Service.
+
+The Post Office had been struggling due to Congress. Because the department was a part of the government, Congress had to approve most things that happened to it. This made change to the Postal Office Department very slow, and this did not sit well with the Postal Unions. They wanted more change to improve the conditions of the Postal Workers, but Congress was too slow to bring in rapid change. The unions worked with Congress and the president to create a better system. The Postal Reorganization Act was the final product of this work.
+
+One of the changes was the business goal of the Postal Service. Now that they were an independent agency, they did not receive money from Congress, so they had to work to make money through the selling of stamps and shipping.
+
+Another was their new way of choosing the Postmaster General. A Board of Governors is elected by the president, and these people are able to choose the Postmaster General.
+
+The Post Office Department also changed their name to the United States Postal Service, and this is the same Postal Service that is delivering mail today.
+
+GorilliniGorillini is a tribe that only contains the genus "Gorilla".
+
+Xiaomi Mi Note 2The Xiaomi Mi Note2 () is a smartphone made by Xiaomi Inc. It is part of Xiaomi's Mi Note Series smartphone line. It was released in November 2016.
+
+OnePlus 9The OnePlus 9 and 9 Pro are Android-based smartphones made by OnePlus. They were shown to the public on March 23, 2021. The phones feature upgraded cameras made with Hasselblad.
+
+Panthoibi IratpaPanthoibi Iratpa or Panthoibi Eratpa is a sacred festival dedicated to Panthoipi, the goddess of war, love and fertility in Meitei mythology and religion (Sanamahism). It is celebrated from the yearly datings according to the Meitei calendar. The timing usually coincides that of Durga Puja, the festival dedicated to Durga, the Hindu equivalent of Panthoibi. So, in Manipur, the two festivals are usually celebrated together by the Manipuri ethnicity. The Hiyangthang Lairembi Temple is one of the major sites for the festival in Northeast India.
+
+Oppo NeoThe Oppo Neo is the first phone in Oppo's Neo series. The phone was sold in two colors: white and black, for a price of €160.
+
+Imoinu IratpaImoinu Iratpa or Emoinu Eratpa is a sacred religious festival dedicated to Imoinu, the goddess of wealth and prosperity in Meitei mythology and religion (Sanamahism). It falls on the 12th lunar day of the ""Waakching"" month of the Meitei calendar (Manipuri calendar). The festival is mainly celebrated by the Meitei ethnicity and other non-Meitei Sanamahists.
+
+Pixel 4Pixel 4 and Pixel 4 XL are Android smartphones from the Google Pixel product line. They succeed the Pixel 3. The phones were announced on October 15, 2019. They released in the United States on October 24, 2019.
+
+SanamahistsSanamahists or Sanamahi Chatpas are persons who regard themselves as culturally, ethnically, or religiously adhering to the aspects of Sanamahism, the Meitei religion. The term is mainly used by the Meitei people who follows the traditions of their ancestral culture.
+
+Disk partitionA disk partition is a section of a data storage device (such as a hard disk). A disk partition can have one of several formats, such as NTFS (found on Windows) to ext4 (found on Linux). Disk partitions start at one number and end at another. These numbers are addresses in the hard drive. The address points to one byte and ends at another on the disk.
+
+Different partition tables allow for different amounts of partitions on a given device. Master Boot Record (MBR) has a maximum of 4 partitions. GUID Partition Table (GPT) has a maximum of 128 partitions.
+
+Partitions can be edited by using a partition editor.
+
+All You Ever Wanted (Rag'n'Bone Man song)"All You Ever Wanted" is a song by English singer-songwriter Rag'n'Bone Man. It was released as a digital download and for streaming on 29 January 2021. It is the lead single from his second studio album "Life by Misadventure". The song was written by Ben Jackson-Cook, Mike Elizondo, Natalie Hemby and Rory Graham.
+
+Talking about the song, he said, "I'd felt sad looking around Brighton and London where I grew up…remembering all those cool places that aren't there anymore." The song was recorded in Tennessee.
+
+KosteletzkyaKosteletzkya is a botanical genus that belongs to the family Malvaceae.
+
+Markovnikov's RuleMarkovnikov's rule or Markownikoff's rule started that in addition to polar reagent to unsymmetrical alkene the negative part of the polar reagent (Cl, OH, F etc) is attached to the carbon having the lowest number of hydrogen while the positive part of the polar reagent (H,Na,Mg,Al etc) is attached to the carbon having the highest number of hydrogen. The rule was postulated by Vladimir Markovnikov.
+
+From the above diagram, the reactant which is prop-1-ene which unsymmetrical alkene, it's reacting with Hydrobromic acid (Hydrogen Bromide) which is the polar reagent. When this hydrogen bromide dissociate it yield H+ and Br-. The positive part of this polar reagent (H+) is attached to the carbon in between the double bond with highest number of hydrogen while the negative part of this polar reagent (Br-) is attached to the carbon in between the double with the lowest number of hydrogen. It's usually go with addition reactant.
+
+Anti-Markovnikov's rule oppose Markovnikov's rule completely. It occur in the presence of hydrogen peroxide (H2O2).
+
+Anti-Markovnikov's rule started that in addition polar reagent to unsymmetrical alkene the positive part of the polar reagent is attached to the carbon in between the double with lowest number of hydrogen while the negative part of the polar reagent is attached to the carbon in between the double having the highest number of hydrogen.
+
+Partition tableA partition table maps out partitions onto a storage device. The two biggest examples are MBR and GPT. Others include Apple Partition Map (APM), which is used in Apple computers, and BSD disklabel.
+
+MBR, or Master Boot Record, is a section at the very beginning of a storage device that uses MBR. It contains a partition table, along with storage for a bootloader so the computer can boot. It can only hold up to 2 tebibytes of data, and can only have up two four partitions.
+
+GPT, or GUID Partition table, is a partition table that was developed as part of the Unified Extensible Firmware Interface (UEFI) standard. It can have up to 128 partitions. Depending on the size of the disk sectors, it can hold a large amount of data. If your sectors are 512 bytes, like MBR, it can hold 8 zebibytes of data.
+
+Jumpin' Jack Flash (movie)Jumpin' Jack Flash is a 1986 American comedy movie directed by first time director Penny Marshall. It stars Whoopi Goldberg, Stephen Collins, John Wood, Carol Kane, Peter Michael Goetz, Annie Potts, Jeroen Krabbé, Jonathan Pryce and was distributed by 20th Century Fox.
+
+Legend (movie)Legend is a 1985 American British fantasy adventure movie directed by Ridley Scott and starring Tom Cruise, Tim Curry, Mia Sara, David Bennett, Alice Playten, Billy Berty, Cork Hubbert, Kiran Shah, Robert Picardo. It was distributed by 20th Century Fox and was nominated for an Academy Award in 1987.
+
+Clue (movie)Clue is a 1985 American mystery comedy movie directed by first time director Jonathan Lynn and was based on the board game "Cluedo". It stars Tim Curry, Christopher Lloyd, Eileen Brennan, Madeline Kahn, Michael McKean, Martin Mull, Lesley Ann Warren, Lee Ving and was distributed by Paramount Pictures. It did poorly at box office and has become a cult classic.
+
+Alfred AhoAlfred Vaino Aho (born August 9, 1941) is a Canadian computer scientist. He is best known for his work on programming languages, compilers, and related algorithms. He has written many textbooks on the art and science of computer programming. He and his long-time partner Jeffrey Ullman are the recipients of the 2020 Turing Award.
+
+The Serpent's Egg (movie)The Serpent's Egg is a 1977 German American Swedish drama movie directed by Ingmar Bergman and starring Liv Ullmann, David Carradine, Gert Fröbe, Heinz Bennett, James Whitmore, Glynn Turman, Grischa Huber, Lisi Mangold, Hans Quest. It was distributed by Paramount Pictures.
+
+Jeffrey UllmanJeffrey David Ullman (born November 22, 1942) is an American computer scientist. He is the Stanford W. Ascherman Professor of Engineering, Emeritus, at Stanford University.
+
+His textbooks on compilers (various editions are popularly known as the green dragon book), theory of computation (also known as the Cinderella book), data structures, and databases are well known in the field of computer science.
+
+He and his long-time partner Alfred Aho are the recipients of the 2020 Turing Award.
+
+Cyclone SerojaTropical Cyclone Seroja was a tropical cyclone that caused massive and deadly flash floods and landslides in East Timor and southern Indonesia.
+
+The twenty-second tropical low and seventh tropical cyclone of the 2020–21 Australian region cyclone season, formed off the south coast of Timor island as Tropical Low 22U at 18:00 UTC on 3 April 2021.
+
+The name "Seroja" means lotus in Indonesian.
+
+Marek CzekalskiMarek Czekalski (6 June 1953 – 2 April 2021) was a Polish politician and engineer. He was Mayor of Łódź from 1994 to 1998.
+
+Czekalski died on 2 April 2021 at the age of 67.
+
+Pete GiesenArthur Rossa "Pete" Giesen Jr. (August 8, 1932 – April 2, 2021) was an American politician and businessman. He was a member of the Virginia House of Delegates from 1964 until 1996 as a Republican. He was the Minority leader of the state house from 1972 until 1974. Giesen was born in Radford, Virginia.
+
+Giesen died on April 2, 2021 in Richmond, Virginia at the age of 88.
+
+TG Viktoria AugsburgTG Viktoria Augsburg is a German association football club that is in the Hochfeld quarter of Augsburg, Bavaria.
+
+The Wilby ConspiracyThe Wilby Conspiracy is a 1975 British thriller movie directed by Ralph Nelson and was based on the 1972 novel of the same name by Peter Driscoll. It stars Michael Caine, Sidney Poitier, Nicol Williamson, Prunella Gee, Saeed Jaffrey, Rutger Hauer, Patrick Allen and was distributed by United Artists.
+
+The movie is about a black anti-Apartheid activist who was released from prison. But the South African regime which did not like his release, set up a plot in order to arrest him again or to kill him. When this plot fails, a British engineer who helps him, are forced to run from the South African Secret Police and try to flee the country.
+
+Father GooseFather Goose is 1964 American World War II romantic comedy movie directed by Ralph Nelson and was based on the short story "A Place of Dragons" by Sanford Bennett. It stars Cary Grant, Leslie Caron, Trevor Howard and was distributed by Universal Pictures. It won an Academy Award in 1965 and was nominated for 2 others.
+
+Firefox (movie)Firefox is a 1982 American Austrian Greenlandic action thriller movie directed by Clint Eastwood (who also stars) and was based on the 1977 novel of the same name by Craig Thomas. It also stars Freddie Jones, David Huffman, Warren Clarke, Nigel Hawthorne, Ronald Lacey, Kenneth Colley, Clive Merrison, Curt Lowens, Kai Wulff and was distributed by Warner Bros..
+
+Ningol ChakoubaNingol Chakouba (/ning-ngol-chaak-kou-ba/) or simply Chakouba (/chaak-kou-ba/) is a non religious festival celebrated by the Meitei ethnicity in the 2nd lunar day of ""Hiyangkei"" month of the Meitei calendar (Manipuri calendar). The event is observed by the invited common dining (""chaak-kou-ba"") of married ladies (""ning-ngol"") with their parental family members, especially brothers.
+
+CheiraobaMeitei Cheiraoba or Sajibu Cheiraoba or Sajibu Nongma Panba or Meitei Manipuri New Year Festival is a festival celebrated by the Meitei ethnicity in the 1st lunar day of the ""Sajibu"" month of the Meitei calendar (Manipuri calendar). The celebration is mainly observed by the Meitei people who follow Sanamahism.
+
+Heikru HidongbaHeikru Hidongba or Heiku Hitongpa (literally, ""gooseberry on the boat"") is an annual socio-religious ceremony performed at the moat of the Sagolband Bijoy Gobinda in Imphal West district of Manipur. It is celebrated in the 11th lunar day of the ""Langban"" month of the Meitei calendar (Manipuri calendar). Its main event is a boat race in which there is a ceremonial installations of the gooseberry fruits on the race boat. The festival is a type of Hiyang Tannaba.
+
+Kwaak TaanbaKwaak Taanba or Kwaak Jatra or Loidam Kumsaba (literally, ""Crow freeing festival"") is a traditional festival celebrated by the Meitei ethnicity, in which the King of Manipur sets a crow free from bondage. The event is observed in the 10th lunar day of the ""Langban"" month of the Meitei calendar (Manipuri calendar). The festival is accompanied with various ceremonial rites and rituals, music and dance performances in the Sana Konung, the Royal Residence of the royalties of Manipur.
+
+Multilateral trade

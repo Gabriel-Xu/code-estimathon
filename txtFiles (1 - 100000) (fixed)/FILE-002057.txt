@@ -1,0 +1,85 @@
+This recognises how all animals have perception of some kind: because they are mobile they need senses which give them information about what is around them. Of course, primitive animals have simple sense organs, like "Euglena" does, whereas complex animals need much more information about their surroundings. Therefore, advanced animals do have advanced visual and other sensory systems.
+
+This relates to perception. The main function of sense organs is to guide action.
+
+SobaBecause noodles made out of pure buckwheat can easily fall apart when boiled, the buckwheat flour is usually mixed with binders - often wheat flour. Under the Japan Agricultural Standards regulations, the noodles must contain at least 30% buckwheat in order to be called "soba" but noodles with a high buckwheat content are seen as more desirable. The raw noodles are made by making a dough out of buckwheat flour and binder. The dough is then spread out flat. After that, strands of noodles are sliced off with a special knife. The quality of noodles is highly dependent on the skill of the maker, especially for soba noodles with high buckwheat content. The raw noodles are boiled before being served hot or cold.
+
+In Japan, soba noodles are served in a variety of situations. They are a popular inexpensive fast food at train stations throughout Japan, they are served by exclusive and expensive specialty restaurants, and they are also made at home. Markets sell dried noodles and "men-tsuyu", or instant noodle broth, to make home preparation easy.
+
+Some establishments, especially cheaper and more casual ones, may serve both soba and udon (thick wheat noodles) as they are often served in a similar manner. However, soba is traditionally the noodle of choice for Tokyoites. This tradition originates from the Edo period. At that time, the population of Edo (Tokyo) was much richer than the rural poor, were more susceptible to beriberi because of their high consumption of white rice which is low in thiamine. They are thought to have made up for this by regularly eating thiamine-rich soba. Every neighbourhood had one or two soba establishments, many also serving sake, which functioned much like modern cafes where locals would drop by casually.
+
+Soba is almost always eaten with chopsticks, and in Japan, it is traditionally considered polite to slurp the noodles noisily. This is especially common with hot noodles, as drawing up the noodles quickly into the mouth acts to cool them down.
+
+Like many Japanese noodles, soba noodles are often served drained and chilled in the summer, and hot in the winter with a soy-based dashi broth. Extra toppings can be added onto both hot and cold soba. Toppings are chosen to reflect the seasons and to balance with other ingredients. Most toppings are added without much cooking, although some are deep-fried. Most of these dishes may also be prepared with udon. Soba noodles often have a witdh of around 1.
+
+5 mm.
+
+Chilled soba is often served on a sieve-like bamboo tray called a zaru, sometimes garnished with bits of dried "nori" seaweed, with a dipping sauce known as "soba tsuyu" on the side. The "tsuyu" is made of a strong mixture of dashi, sweetened soy sauce and mirin. Using chopsticks, the diner picks up a small amount of soba from the tray and swirls it in the cold "tsuyu" before eating it. Wasabi, scallions, and grated ginger are often mixed into the "tsuyu".
+
+Soba is also often served as a noodle soup in a bowl of hot "tsuyu". The hot "tsuyu" in this instance is thinner than that used as a dipping sauce for chilled soba. Popular garnishes are sliced scallion and shichimi toragashi (mixed chili powder).
+
+Soba is traditionally eaten on New Years Eve in most areas of Japan, a tradition which survives to this day. In the Tokyo area, there is also a tradition of giving out soba to new neighbours after a house move, although this practice is now rare.
+
+The most famous Japanese soba noodles come from Nagano. Soba from Nagano is called "Shinano Soba" or "Shinshu soba". Ni-hachi ("two-eight") soba, consists of two parts of wheat and eight of buckwheat."
+
+Soba" is also the Japanese word for buckwheat. Roasted buckwheat kernels may be made into a grain tea called "sobacha", which may be served hot or cold. Buckwheat hulls, or "sobakawa", are used to fill pillows."
+
+Soba" is occasionally used to refer to noodles in general. In Japan, ramen is sometimes called "chūka soba" or "shina soba" (both mean "Chinese noodles"). Parboiled chūka soba is stir-fried to make yakisoba. Note that these noodles do not contain buckwheat.
+
+In Okinawa, "soba" usually refers to Okinawa soba, a completely different dish of noodles made out of flour, not buckwheat. Okinawa soba is also quite popular in the city of Campo Grande (Brazil), due to influence of Japanese (Okinawan) immigrants. It is eaten at street markets or in special restaurants called "sobarias".
+
+Carmen BasilioCarmen Basilio (born April 2, 1927 – November 7, 2012) was an American boxer who held the welterweight and middleweight world championship. He won the welterweight title from Tony DeMarco in 1955. He then fought Sugar Ray Robinson for the middleweight title. He won the belt from Robinson in 1957, but lost it when they fought again.
+
+He is the uncle of former welterweight boxing champion Billy Backus.
+
+Johnny SaxtonJohnny Saxton (b. July 4, 1930 in Newark, NJ, d. October 4 2008) was an American boxer who won the welterweight championship.
+
+Saxton beat Kid Gavilan in 1954 to become the welterweight champion. The lost the title the following year to Tony DeMarco. In 1956 he won the title again by beating Carmen Basilio, but lost the title in a rematch with Basilio later in the year. He retired in 1958.
+
+Weber-Fechner lawThe Weber–Fechner law is a proposed relationship between the magnitude of a physical stimulus and the intensity or strength that people feel.
+
+In one of his classic experiments, Weber gradually increased the weight that a blindfolded man was holding and asked him to respond when he first felt the increase. Weber found that the response was proportional to a relative increase in the weight. That is to say, if the weight is 1 kg, an increase of a few grams will not be noticed. Rather, when the mass is increased by a certain factor, an increase in weight is perceived. If the mass is doubled, the threshold is also doubled.
+
+The relationship between stimulus and perception is logarithmic. This logarithmic relationship means that if a stimulus varies as a geometric progression (i.
+
+e. multiplied by a fixed factor), the corresponding perception is altered in an arithmetic progression (i.
+
+e. in additive constant amounts). For example, if a stimulus is tripled in strength (i.
+
+e., 3 x 1), the corresponding perception may be two times as strong as its original value (i.
+
+e., 1 + 1). If the stimulus is again tripled in strength (i.
+
+e., 3 x 3 x 1), the corresponding perception will be three times as strong as its original value (i.
+
+e., 1 + 1 + 1). Hence, for multiplications in stimulus strength, the strength of perception only adds.
+
+This logarithmic relationship is valid, not just for the sensation of weight, but for other stimuli and our sensory perceptions as well.
+
+Logarithmic scaleA logarithmic scale is a scale used when there is a large range of quantities. Common uses include earthquake strength, sound loudness, light intensity, spreading rates of epidemics, and pH of solutions.
+
+It is based on orders of magnitude, rather than a standard linear scale. The value of each mark on the scale is the value at the previous mark multiplied by a constant.
+
+Logarithmic scales are also used in slide rules for multiplying or dividing numbers by adding or subtracting lengths on the scales.
+
+The logarithmic scale can be helpful when the data cover a large range of values – the logarithm reduces this to a more manageable range.
+
+Some of our senses operate in a logarithmic fashion (multiplying the actual input strength adds a constant to the perceived signal strength, see: Stevens' power law). That makes logarithmic scales for these input quantities especially appropriate. In particular, our sense of hearing perceives equal "multiples" of frequencies as equal "differences" in pitch.
+
+On most logarithmic scales, "small" multiples (or ratios) of the underlying quantity correspond to "small" (possibly negative) values of the logarithmic measure.
+
+Well-known examples of such scales are:Some logarithmic scales were designed such that "large" values (or ratios) of the underlying quantity correspond to "small" values of the logarithmic measure. Examples of such scales are:A logarithmic scale is also a graphical scale on one or both sides of a graph where a number "x" is printed at a distance "c"·log("x") from the point marked with the number 1. A slide rule has logarithmic scales, and nomograms often employ logarithmic scales. On a logarithmic scale an equal difference in order of magnitude is represented by an equal distance. The geometric mean of two numbers is midway between the numbers.
+
+Logarithmic graph paper, before the advent of computer graphics, was a basic scientific tool. Plots on paper with one log scale can show up exponential laws, and on log-log paper power laws, as straight lines (see semilog graph, log-log graph).
+
+Noodle soupNoodle soup is a kind of soup. It contains the normal soup stock, together with noodles, and sometimes other ingredients. This kind of soup is very popular in Asia, where it originally came from. There are also many instant soups of this kind.
+
+Some of the varieties are:Scale (ratio)The scale of a map shows the ratio between the distances on the map and the corresponding distances in reality. For example, a map of scale 1:50,000 shows a distance of 50,000 cm (or 500 m) as 1 cm on a map. A 1:25 scale model of a building with a height of 30 m has a model height of 1.
+
+20 m.
+
+When a drawing or model or photograph of an object is larger or smaller than the original, the scale represents how much the object has been "grown" or "shrunk".
+
+Scale bars for microscopic or unusual objects are necessary. They help readers to understand the diagram.
+
+ScaleScale could mean:Scale (map)A map scale is the size of an object compared to the size of the object's smaller representative on a map. This can be shown by a scale bar and a ratio 1:"n". The reader can measure a distance on the map to know what is the distance on the ground.

@@ -1,0 +1,165 @@
+Consider a group having the following eight numbers:These eight numbers have the average (mean) of 5:To calculate the population standard deviation, first find the difference of each number in the list from the mean. Then square the result of each difference:Next, find the average of these values (sum divided by the number of numbers). Last, take the square root:The answer is the population standard deviation. The formula is only true if the eight numbers we started with are the whole group. If they are only a part of the group picked at random, then we can obtain an unbiased "estimate" of what the population standard deviation is by dividing by instead of in the bottom (denominator) of the formula above. Then the answer is the (bias-corrected) sample standard deviation. This is called the Bessel's Correction. We often use this correction because the sample variance, i.
+
+e., the square of the sample standard deviation, is an unbiased estimator of the population variance, in other words, the expected value or long-run average of the sample variance equals the population (true) variance. However, it is not the case that the sample standard deviation is an unbiased estimator of the population standard deviation. Although Bessel's correction is an unbiased estimate of the variance, this estimate does have a higher mean square error than the biased estimate, or in other words, the biased estimate (that is, dividing by "n" rather than "n-1") is on average closer to the true value.
+
+Here is a slightly harder, real-life example: The average height for grown men in the United States is 70", with a standard deviation of 3". A standard deviation of 3” means that most men (about 68%, assuming a normal distribution) have a height between 3" taller and 3” shorter than the average (67"–73") — one standard deviation. Almost all men (about 95%) have a height between 6” taller and 6” shorter than the average (64"–76") — two standard deviations. Three standard deviations include all the numbers for 99.
+
+7% of the sample population being studied. This is true if the distribution is normal (bell-shaped).
+
+If the standard deviation were zero, then all men would be exactly 70" tall. If the standard deviation were 20", then some men would be much taller or much shorter than the average, with a typical range of about 50"–90".
+
+For another example, each of the three groups {0, 0, 14, 14}, {0, 6, 8, 14} and {6, 6, 8, 8} has an average (mean) of 7. But their standard deviations are 7, 5, and 1. The third group has a much smaller standard deviation than the other two because its numbers are all close to 7. In general, the standard deviation tells us how far from the average the rest of the numbers tend to be, and it will have the same units as the numbers themselves. If, for example, the group {0, 6, 8, 14} is the ages of a group of four brothers in years, the average is 7 years and the standard deviation is 5 years.
+
+Standard deviation may serve as a measure of uncertainty. In science, for example, the standard deviation of a group of repeated measurements helps scientists know how sure they are of the average number. When deciding whether measurements from an experiment agree with a prediction, the standard deviation of those measurements is very important. If the average number from the experiments is too far away from the predicted number (with the distance measured in standard deviations), then the theory being tested may not be right. For more information, see prediction interval.
+
+Understanding the standard deviation of a set of values allows us to know how large a difference from the "average" (mean) is expected.
+
+As a simple example, consider the average daily high temperatures for two cities, one inland and one near the ocean. It is helpful to understand that the range of daily high temperatures for cities near the ocean is smaller than for cities inland. These two cities may each have the same average daily high temperature. However, the standard deviation of the daily high temperature for the coastal city will be less than that of the inland city .
+
+Another way of seeing it is to consider sports teams. In any sport, there will be teams that are good at some things and not at others. The teams that are ranked highest will not show a lot of differences in abilities. They do well in most categories. The lower the standard deviation of their ability in each category, the more balanced and consistent they are. Teams with a higher standard deviation, however, will be less predictable. A team that is usually bad in most categories will have a low standard deviation. A team that is usually good in most categories will also have a low standard deviation. However, a team with a high standard deviation might be the type of team that scores many points (strong offense) but also lets the other team score many points (weak defense).
+
+Trying to know ahead of time which teams will win may include looking at the standard deviations of the various team "statistics." Numbers that are different from expected can match strengths vs. weaknesses to show what reasons may be most important in knowing which team will win.
+
+In racing, the time a driver takes to finish each lap around the track is measured. A driver with a low standard deviation of lap times is more consistent than a driver with a higher standard deviation. This information can be used to help understand how a driver can reduce the time to finish a lap.
+
+In money, standard deviation may mean the risk that a price will go up or down (stocks, bonds, property, etc.). It can also mean the risk that a group of prices will go up or down (actively managed mutual funds, index mutual funds, or ETFs). Risk is one reason to make decisions about what to buy. Risk is a number people can use to know how much money they may earn or lose. As risk gets larger, the return on an investment can be more than expected (the "plus" standard deviation). However, an investment can also lose more money than expected (the "minus" standard deviation).
+
+For example, a person had to choose between two stocks. Stock A over the past 20 years had an average return of 10 percent, with a standard deviation of 20 percentage points (pp). Stock B over the past 20 years had an average return of 12 percent but a higher standard deviation of 30 pp. Thinking about the risk, the person may decide that Stock A is the safer choice. Even though they may not make as much money, they probably will not lose much money either. The person may think that Stock B's 2 point higher average is not worth the additional 10 pp standard deviation (greater risk or uncertainty of the expected return).
+
+Most math equations for standard deviation assume that the numbers are normally distributed. This means that the numbers are spread out in a certain way on both sides of the average value. The normal distribution is also called a Gaussian distribution because it was discovered by Carl Friedrich Gauss. It is often called the bell curve because the numbers spread out to make the shape of a bell on a graph.
+
+Numbers are not normally distributed if they are grouped on one side or the other side of the average value. Numbers can be spread out and still be normally distributed. The standard deviation tells how widely the numbers are spread out.
+
+The average (mean) and the standard deviation of a set of data are usually written together. Then a person can understand what the average number is and how widely other numbers in the group are spread out.
+
+The way a group of numbers is spread out can also be given by the coefficient of variation (CV), which is the standard deviation divided by the average. It is a dimensionless number. Coefficient of variation is often multiplied by 100% and written as a percentage.
+
+The term "standard deviation" was first used in writing by Karl Pearson in 1894, after he used it in lectures. It was as a replacement for earlier names for the same idea: for example, Gauss used "mean error".
+
+53 BCYear 53 BC was a year of the pre-Julian Roman calendar. At the time, it was known as the Year of the Consulship of Messalla and Calvinus (or sometimes year 701 "Ab urbe condita"). This year has been called 53 BC since the early medieval period, when the Anno Domini calendar era became the most common way of naming years in Europe.
+
+Harry Potter and the Deathly HallowsHarry Potter and the Deathly Hallows is the seventh and last book in J. K. Rowling's Harry Potter series. The book was released worldwide on 21 July 2007. It became the fastest-selling book ever, with 8.
+
+3 million copies sold in the United States during the first 24 hours.
+
+This book is about Harry Potter, the main character of the book series, going on a journey to destroy horcruxes made by the villain of the series, Voldemort.
+
+The movie was to be released in 2010, but on 8 March 2008, it was announced that the movie will be split into two parts; part one was released on 19 November 2010 and part two was released on 15 July 2011.
+
+In Harry potter and the Deathly hallows, Harry and Hermione visit Lily and James Potter's graves. Ron has left Harry and Hermione for a while. At the end Voldemort is finally dead once and for all. Nineteen years later Harry marries Ginny Weasley and Hermione marries Ron Weasley. They all live happily, knowing nothing can harm them now.
+
+BoilingBoiling is the phase change that occurs when a liquid becomes gas throughout the substance. When bubbles are formed you can tell a substance is boiling. This is not to be confused with evaporation.
+
+The temperature at which boiling happens is called the boiling point and depends on the particular nature of the substance.
+
+For example, water boils at around 100 °C (Celsius degrees). When water is boiling, it transforms into a vapor called water vapor.
+
+HeHe (, unstressed ) is a third-person singular pronoun used to talk about a male. "He" can be used in place of a male's name. When the name of a man has been the subject, then "he" can be used instead of that name. While "he" is the subject form, the word "him" is the object or possessive form ("see table below"). The word "he" is used for a man (or boy) where the word "she" would be used for a woman.
+
+In the past, "he" and "him" were often used as gender-neutral pronouns. In other words, the word may have been used in a general way to refer to any person who is either male or female.
+
+Swan RiverThe Swan River is an important river in Western Australia. It runs past the city of Perth and into the Indian Ocean at Fremantle.
+
+ScheinfeldScheinfeld is a town in Neustadt (Aisch)-Bad Windsheim, in Bavaria, Germany. It is 14 km northwest of Neustadt (Aisch), and 40 km east of Würzburg. Schloss Schwarzenberg is next to the town. The town is home to an Adidas testing factory.
+
+Dirk NowitzkiDirk Werner Nowitzki (born June 19, 1978 in Würzburg, Germany; pronounced "durk VER-ner nah-VIT-skee") is a former German basketball player. He played for the Dallas Mavericks in the United States' National Basketball Association's (NBA).
+
+Nowitzki started playing in the NBA in 1998. He is only the second player who was born in Germany to play in the Finals.
+
+He is a 12-time NBA All Star. Nowitkzi won the 2006-07 NBA Most Valuable Player (MVP) Award. The Mavericks, led by Nowitzki, defeated the Miami Heat 4-2 in the 2011 NBA Finals. In addition to performing very well in general in the Finals, his 101-degree fever in Game 4 didn't stop him from scoring the winning basket to tie the series 2-2. This amazing feat is a lot like when Michael Jordan played well despite the flu in the 1997 Finals against the Utah Jazz.
+
+Dirk's jersey number is 41.
+
+VolkachVolkach is a town in Kitzingen in the "Regierungsbezirk Unterfranken" (Lower Franconia) in Bavaria, Germany. It is on the river Main and has a population of around 8,700.
+
+OchsenfurtOchsenfurt () is a town in Würzburg, in Bavaria, Germany. Ochsenfurt is on the left edge of the River Main. This makes it the largest town in the Würzburg district.
+
+The town is on the left edge of the River Main, south of Würzburg.
+
+The "districts" of Ochsenfurt are: Darstadt, Erlach, Goßmannsdorf, Hohestadt, Hopferstadt, Kleinochsenfurt, Tückelhausen, and Zeubelried.
+
+Ochsenfurt is twinned with:Kitzingen (district)Kitzingen is a district in Bavaria, Germany.
+
+The district was last changed in 1973. The old district of Gerolzhofen was split up, and half of its territory was joined with the old Kitzingen district. The city of Kitzingen lost its status as an independent city and was put into the district.
+
+The Main River runs through the district from south to north.
+
+HaflingerHaflinger is an all-round breed of horse. It is a mountain horse but today people use it for spare time. A Haflinger counts as a pony breed of horse. The first cloned horse, Prometea is of this breed. A Haflinger has a gallant dry head with big eyes, wide-dilating nostrils, and small, attentive ears. People who raise this breed want them to have a good muscled body and a smart neck.
+
+Kevin KurányiKevin Kuranyi (born 2 March 1982 in Rio de Janeiro, Brazil) is a German football player. He used to play for the German national team, but was excluded in October 2008 due to improper behaviour. His team is Dynamo Moscow. Before playing for Moscow, he played for Stuttgart and Schalke.
+
+261||111||22||12||47||17||330||1400||0||0||0||0||0||0||0261||111||22||12||47||17||330||140!
+
+Total||52||19Würzburger KickersKickers Wurzburg is one of the most traditional football clubs in Franconia. It was founded in 1907.
+
+Famous Footballers of FC Wurzburger Kickers:Chico, CaliforniaChico is a city in the Central Valley of the American state of California. It is in the northern part of the state. Chico is in the Sacramento Valley close to the foothills of the Sierra Nevada mountain range. The city has a population of 101,475, as of 2020. People first started living in Chico in 1843. The city was founded in 1860 and started to govern itself in 1872.
+
+RepperndorfRepperndorf is a village in Regierungsbezirk, Lower Franconia, Bavaria, Germany. Since 1977 it is part of the town of Kitzingen. Repperndorf has a population of 260 people. The village has a graveyard and two churches, one for Catholics and one for Protestants. It also has one restaurant and one soccer club. There was the famous "Schnitzel factory" but now it moved to Kitzingen.
+
+GroßlangheimGroßlangheim is a municipality in Kitzingen in Bavaria in Germany.
+
+Falun GongFalun Gong (also known as Falun Dafa) is a spiritual discipline from China with exercises similar to Tai chi chuan. It was founded by Li Hongzhi in 1992. People who follow Falun Gong do five exercises and read books written by Li Hongzhi, the movement's founder. They believe in "Truthfulness, Compassion and Forbearance", and they also believe that the Falun Gong exercises can make them healthy, and make them better people. In 1999, after a big Falun Gong gathering in front of a Chinese government building, the Communist Party of China said: people cannot practice Falun Gong, it is "illegal".
+
+The police started arresting Falun Gong followers, and according to human rights organizations, over 3000 people have been jailed and tortured to death. The Chinese government claimed that Falun Gong spread superstitions, while others have suggest that Falun Gong's popularity challenges the rule of the Chinese Communist Party. Many people and organizations outside of China have called for the Chinese government to stop jailing and killing Falun Gong people.
+
+It is not known how many people practice Falun Gong. The Chinese government suggests there were 70 million practitioners in China in 1998. A Falun Gong website claims there are 100 million practitioners in more than 80 countries.
+
+Reporter Ethan Gutmann said about 65,000 Falun Gong people were killed for their body parts from 2000 to 2008.
+
+DeflationDeflation means that generally the prices of products are going down. It is the opposite of inflation. It is said, that deflation happens when there is less money than there are goods. It is also said that deflation is a sign of a weak state of that country's economy, because deflation usually happens during an economic collapse. Deflation is thought to be even worse than inflation.
+
+Deflation starts when people are waiting for prices to go down even more. They will then spend less money. Because of that, companies can not afford to keep up the amount of goods that are made, and have to lower that amount, as well as fire workers to make even a small profit.
+
+Even if an economy is growing, there can be some amount of deflation - if the amount of money going around grows slower than the making of goods. There has not been much deflation in the world since the 1930s, except in Japan.
+
+Deflation can be helped by the country's own government by lowering the companies' tax levels, so they can lower their prices while getting the same profit. This way normal people are more encouraged to buy the cheap goods they were waiting for, and slowly the companies can make more profit. Governments do not like deflation, because it means that they can collect less tax.
+
+Chemical symbolA chemical symbol is the shortform of the name of an element. Usually, it is made up of one or two letters, but sometimes it is made up of three letters. For example, the chemical symbol for oxygen is O. The chemical symbol for calcium is Ca. Before it is discovered and scientists decided what it would be called, the chemical symbol for ununennium was Uue.
+
+All chemical symbols start with a capital letter, and any letters after that are lowercase.
+
+The chemical symbols are listed with the elements in the periodic table. Chemical symbols are also used when writing chemical formulas. For example, the chemical formula for water is HO, meaning that it contains two hydrogen atoms and one oxygen atom.
+
+Many chemical symbols are the first one or two letters of the element. Others come from the name in another language. For example, the symbol for sodium is Na, which comes from the Latin name "Natrium".
+
+Secretary of StateSecretary of State is a title for a government official. The title has different meanings in different countries, and in some cases there are several Secretaries of State in the government.
+
+In many countries, a secretary of state is a mid-level official.
+
+In the United States federal government, the Secretary of State is the head of the United States Department of State, and is responsible for foreign policy. In most other countries, this official is called the Foreign Secretary or foreign minister. The Secretary of State is the highest-ranking member of the Cabinet. The current U.
+
+S. Secretary of State is Antony Blinken.
+
+OfficialAn official (and, or, functionary) is someone who holds an office (meaning an official position) in an organisation or government. This doesn't have to mean an office room—it can also just mean an important rank. An official in government is called a government official or public official . Officials may be appointed or elected to their position.
+
+The term "officer" is close to having the same meaning as "official" (but has more military connotations). A "functionary" is someone who carries out a particular role within an organisation—this is quite a close synonym for an official but with connotations closer to a "bureaucrat". A "civil servant" can also have a similar meaning to an official.
+
+FunctionFunction may mean:HeteropteraThe Heteroptera is a group of about 40,000 species of insects in the Hemiptera. They are typical bugs."
+
+Heteroptera" is Greek for "different wings": most species have front wings with both membranous and hardened portions (called hemelytra.
+
+The name "Heteroptera" is used in two different ways in modern classifications. In Linnean nomenclature it is a suborder of the order Hemiptera. In cladistics it is an unranked clade in the Hemiptera clade.
+
+A: head; B: thorax; C: abdomen.
+
+1: claws; 2: tarsus; 3: tibia; 4: femur; 8: compound eye; 9: antenna; 10: clypeus; 23: laterotergites; 25: pronotum; 26: scutellum; 27: clavus; 28: corium; 29: embolium; 30: membrane."
+
+Waterbug" is a common name for various aquatic insects.
+
+SnuffSnuff is a kind of tobacco which is sniffed instead of smoked. People take a bit of snuff between their fingers and put it in their nostrils to smell it. Not many people use snuff now, but a century or more ago it was very common. In the novels of 19th century authors like Charles Dickens we often read about people taking snuff. They kept it in a "snuffbox".
+
+The Elder Scrolls III: MorrowindThe Elder Scrolls III: Morrowind, or just Morrowind, is a video game released in 2002. In it, players take on the role of a character which they create, and use it to wander around in a big and diverse world. There is a storyline, but players do not have to follow it, instead doing the side-quests that are included with the game. Morrowind was released on the PC and the Xbox.
+
+You can also get game of the year edition and get Morrowind, Bloodmoon, and Tribunal expansion packs. You can go to the official website for help and guides.
+
+The Nose (opera)The Nose is an opera by Dmitri Shostakovich. It was written in 1927. At this time a lot of exciting new movies were being made in the Soviet Union. There were also some very interesting new plays in the theatres. The famous theatre director Vsevolod Meyerhold had many new ideas. However, operas that were being written then were mostly quite uninteresting.
+
+Shostakovich, who was only just twenty years old, started to make Soviet operas interesting again. He took the story called "The Nose" which was written by Nikolai Gogol. It is about a man who wakes up one day to find his nose has gone.
+
+The opera was first performed in 1930. Unfortunately by then the music critics had changed their ideas because of the political situation in the Soviet Union which was being ruled by the dictator Stalin. They wrote bad things about the opera and the performances soon had to stop. It was not until 1974 that it was performed again in the Soviet Union.
+
+The opera is a satire. It pokes fun at bureaucrats: people in official jobs who think they are more important than they really are.
+
+In the opera the barber Ivan Yakovlevich is seen shaving the Major. In the morning Ivan wakes up and his wife gives him some fresh bread and onion. When he cuts the bread open he finds a nose inside. His wife screams and yells at her husband. She chases him out of the house. He runs along the street with the nose, feeling very embarrassed. He throws the nose in the river, but a policeman catches him. He tries unsuccessfully to bribe him.
+
+In the next scene the Major wakes up and finds he has no nose. He goes to tell the police. He goes to the cathedral and sees his nose who is dressed up as an important person (the nose is now a person, sung by a singer). The Major is not sure what to say to his nose because his nose is now more important than he is. He can’t speak properly and the nose does not understand him. The nose speaks very confidently, like a person of high rank. The Major cannot find the Chief of Police so he goes to the newspaper office. The people there laugh at him and say that they cannot put a notice in the newspaper about a lost nose because it would make their newspaper look silly. He is told to see a doctor. When the Major takes his handkerchief away from his face to show that he really has lost his nose the newspaper staff become interested because they think they have a good story for the newspaper. They offer him some snuff. Of course, he cannot sniff it, and gets very cross.

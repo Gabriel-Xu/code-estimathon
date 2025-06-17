@@ -1,0 +1,105 @@
+The Operating Passenger Railroad Stations Thematic Resource is a list of 53 New Jersey Transit stations in New Jersey entered into the New Jersey Register of Historic Places and National Register of Historic Places in 1984 for their architectural, historical, and cultural merit.
+
+The operating point is a specific point within the operation characteristic of a technical device.
+
+The operating principle is to excavate, sieve and sort the landfill material.
+
+The operating principle of the dual-fuel engine is simple: Natural gas is injected into the intake air of the engine.
+
+The operating principle was immediately accepted and subjected to a stringent qualification program.
+
+The operating range of the retarding basin (height to the spillway) is 10 meters.
+
+The operating ratio can be used to determine the efficiency of a company's management by comparing operating expenses to net sales.
+
+The operating revenue for DailyTech is primarily dependent on advertising, with syndication of their news feed also providing some revenue.
+
+The operating rights to these routes were awarded to Academy Bus in bankruptcy proceedings, although most of the coach fleet was excluded from the sale.
+
+The operating rods were cleverly hidden inside the hollow arms making an excellent esthetically pleasing design.
+
+The operating room, a patient room, and the bathroom were retained to reveal the story of early medical treatment.
+
+The operating speed of a road is the speed at which motor vehicles generally operate on that road.
+
+The operating speed of trains running between Thiruvananthapuram to Nagercoil from 80 km per hour to 100 km per hour, trains operating from Kanyakumari to Nagercoil from 75 km per hour to 90 km per hour.
+
+The operating system also added a multitasking feature, letting apps dealing with Internet calling, location and audio playback function in the background, whereas a similar but more restricted "Fast App Switching" technology enabled any app to be left inactive in the background while users switch to other apps.
+
+The operating system also added iCloud, Apple's cloud storage service for synchronization of content and data across iCloud-enabled devices, and iMessage, Apple's instant messaging service.
+
+The operating system also has its own app market place called App Bazaar.
+
+The operating system also introduces the ability to record the screen, limited forms of drag-and-drop functionality, and support for augmented reality.
+
+The operating system also supports WAP 1.
+
+2.
+
+The operating system and most applications were written in the language Bliss-11, which required cross-compilation from a PDP-10.
+
+The operating system, and thus the game, was officially released on April 7, 2003.
+
+The operating system as well as the actual reference data (userfiles, databases or websites) are stored competitively on the attached storage system in a centralized manner.
+
+The operating system automatically manages the contents of the drive so the most frequently accessed files are stored on the faster flash storage, while infrequently used items move to or stay on the hard drive.
+
+The operating system consists of two virtual machines, a "Workstation" and a Tor "Gateway", running Debian GNU/Linux.
+
+The operating system detects a universal binary by its header, and executes the appropriate section for the architecture in use.
+
+The operating system, developed by four people in Kerala, is in the Linux platform and is an open software.
+
+The Operating System Embedded (known by the acronym Enea OSE) is a real-time embedded operating system created by the Swedish information technology company ENEA AB.
+
+The operating system first appeared in 2017 and is developed by KaiOS Technologies Inc., a San Diego, California-based company headed by CEO Sebastien Codeville with offices in other countries.
+
+The operating system gained the new malware-blocking system Gatekeeper and integration with Apple's online Game Center and iCloud services, while the Safari web browser was updated to version 6.
+
+The operating system had additional commands and features that were not available in TRSDOS, the native operating system for TRS-80 computers.
+
+The operating system has been mentioned by Edward Snowden as showing future potential.
+
+The operating system is also bundled with utility applications that allow users to free up memory, freeze applications, limit data accessibility to applications among others.
+
+The operating system is based on Linux but the platform is closed source.
+
+The operating system is comparatively lightweight on hardware resource usage, and is able to run on devices with just 256 MB of memory.
+
+The operating system is currently available in English and 23 Indian regional languages spoken by over 95% of the Indian population and has an active user base of over 10 million.
+
+The operating system is licensed under the GNU GPL, with the headers and libraries under the less restrictive LGPL license.
+
+The operating system is not constrained by the hardware and can access all of physical memory.
+
+The operating system is Orbis OS, based on FreeBSD 9.
+
+The operating system is placed in the 128MB - 1GB non volatile memory.
+
+The operating system is primarily targeted towards virtualized environments for cloud computing, or HPCs due to its design as a lightweight kernel (LWK).
+
+The operating system is still under active development.
+
+The operating system is usually pre-installed, but because it is a general requirement, this term is used for additional software apart from the bare necessary amount, usually from other sources (or the operating system vendor).
+
+The operating system kernel, which interacts directly with the hardware, is able to detect whether the secure attention key has been pressed.
+
+The operating system loads the physical address of this segment into a base register and its size into a bound register.
+
+The operating system manages virtual address spaces and the assignment of real memory to virtual memory.
+
+The operating system may be stripped-down, concerned only with file management functions such as synchronizing redundant copies of the file, failure recovery, handling concurrent updates from different clients and enforcing client access rights.
+
+The operating system might provide atomicity guarantees for signals, such as a system call interrupted by a signal not having a partial effect.
+
+The operating system must be able to set a CPU affinity for both processes and interrupts.
+
+The operating system of Ceres, called "The Oberon System" was completely written in the programming language Oberon.
+
+The operating system offers a customizable graphical user interface, integration with Google services such as Gmail, a notification system that shows a list of recent messages pushed from apps, and Android Market for downloading additional apps.
+
+The operating system provides multitasking and supports specialized input devices that have been adopted by BlackBerry for use in its handhelds, particularly the trackwheel, trackball, and most recently, the trackpad and touchscreen.
+
+The operating systems Plan 9 and Oberon and the acme development environment make heavy use of mouse chording.
+
+The operating system's Second Edition was released on August 15, 2000 in download, regular and deluxe editions.

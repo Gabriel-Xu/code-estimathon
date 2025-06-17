@@ -1,0 +1,3 @@
+Applications which have a partitioned data model or data models that follow the constrained tree scheme approach will see linear scaling with products like this.
+
+Applications which may have greatest potential are operations and efficiency, management of peak loads via [demand response], predictive technologies and communications for equipment, and system restoration technologies.

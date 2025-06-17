@@ -1,0 +1,99 @@
+Some types can be grown and used to make the drug opium. Ancient Egyptian doctors had their patients eat seeds from a poppy to relieve pain. Poppy seeds contain small quantities of both morphine and codeine. These are pain-relieving drugs that are still used today. The morphine practically disappears from the seeds twenty days after the flower has opened, so from then on poppy seeds and their oils are not narcotic.
+
+There are a number of showy flowers, typically one per stem, in to the poppy family. They include a number of attractive wildflower species with showy flowers growing singularly or in large groups. Many species are grown in gardens. These include large plants used in a mixed herbaceous border and small plants that are grown in rock or alpine gardens.
+
+The flower color of poppy species include: white, pink, yellow, orange, red and blue. Some have dark center markings. The cultivated species include many other colors ranging from dark solid colors to soft pastel shades. Before blooming, the petals are crumpled in bud, and as blooming finishes, the petals often lie flat before falling away.
+
+The pollen of the oriental poppy, "Papaver orientale", is dark blue. The pollen of the field poppy or corn poppy ("Papaver rhoeas") is dark blue to grey. Bees use poppies for their pollen.
+
+The opium poppy, "Papaver somniferum", is grown for opium, opiates or seeds to be used in cooking and baking.
+
+Time signatureA time signature is a set of two numbers, one on top of the other one, written right after the key signature in a piece of music. The two numbers in a time signature tell you how many of one kind of note there are in each measure in the song. For example, formula_1 means that there are four beats in each measure and the quarter note gets one beat.
+
+The number in the top of the time signature tells a player how many of a certain kind of note there are in each measure. The number in the bottom of the time signature tells what kind of note is used a certain number of times in each measure. The number on the bottom of the time signature can be any power of 2 that is greater than or equal to 2. So, 64 could be a number that is put in the bottom of the time signature, but 65 could not be one.
+
+This table shows different numbers that could be the bottom of a time signature, and what they mean. Note that each note down lasts for one-half of the amount the note above it lasted. For example, one quarter note lasts one beat, and one-half note lasts one half of a beat, because one divided by two is one-half.
+
+Really Simple SyndicationRSS is a family of Web feed formats used to publish often updated content such as blog entries, news headlines or podcasts. An RSS document, which is called a "feed," "web feed," or "channel," contains either a summary of content from an associated website or the full text. RSS allows people to keep up with their favorite websites without manually checking them. This flow of content between websites and users is called "web syndication".
+
+RSS content can be read using software called an "RSS reader," "feed reader", or an "aggregator." The user subscribes to a feed by entering the feed's link into the reader or clicking an RSS icon in a browser that begins the subscription process for the online. The reader often checks the user's subscribed feeds for new content, downloading any updates it finds. This content is stored in a standard XML file that many different computers and programs can understand. This file tells the programs how to show the content to the user.
+
+The letters "RSS" are used to refer to any of these formats:RSS is also used on exchanges. An example of using RSS is Carbon Place, which uses it to show orders to the public.
+
+There were other similar formats before RSS that were not as popular. The first one was the Meta Content Framework made in 1995 by Ramanathan V. Guha and others at Apple Computers.
+
+The first version of RSS was called RDF Site Summary. It was made by Dan Libby and Ramanathan V. Guha at Netscape and made public in March 1999. This became RSS 0.
+
+9. In July 1999, RSS 0.
+
+91 was created by Dan Libby, which got rid of some features that weren't useful. It also added elements from Dave Winer's news syndication format. Libby renamed the format from RDF to RSS Rich Site Summary and planned how it should be made better in the future.
+
+In 2001, the company was restructured by their owner, AOL, and no longer supported RSS. After that, the format was being developed by the RSS-DEV Working Group and Dave Winer. Winer was the first to write programs that could read and write RSS and were not made by Netscape.
+
+RSS 1.
+
+0 was produced in December 2000 by the RSS-DEV team, which included representatives of O'Reilly Media and Moreover Technologies. This version added support for XML namespaces and RDF, which was previously removed in RSS 0.
+
+91. This version also changed the name back to "RDF Site Summary" and added new elements that help describe content, such as Dublin Core.
+
+Also in December 2000, Dave Winer released RSS 0.
+
+92. It added the enclosure element, which could be used to include sound in RSS feeds. This feature is one of the origins of Podcasting. Winer also made drafts of RSS 0.
+
+93, which allowed many enclosure elements per an item element, along with RSS 0.
+
+94, but those versions were cancelled after being released.
+
+In September 2002, Winter made RSS 2.
+
+0, the next major version of RSS. This version introduced the following changes:To make sure that old programs which only support RSS 0.
+
+92 still work with RSS 2.
+
+0, namespace support only applies to other content within the feed, not the elements themselves. Other formats such as Atom tried to remove this limitation, however it never caught on.
+
+European Union member stateA European Union member state is any one of the twenty-seven countries that have joined the European Union (EU) since it was found in 1958 as the European Economic Community (EEC). From an original membership of six states, there have been five successive enlargements. The largest happened on 1 May 2004, when ten member states joined.
+
+Following the addition of Croatia in 2013, the EU's membership now stands at twenty-eight. Negotiations are also under way with other states. The process of enlargement is sometimes referred to as European integration. However, this term is also used to refer to the intensification of cooperation between EU member states as national governments allow for the gradual centralising of power within European institutions. Before being allowed to join the European Union, a state must fulfill the economic and political conditions generally known as the Copenhagen criteria: these basically require that a candidate member state must enjoy a secular, democratic system of government, together with the corresponding freedoms and institutions, and respect the rule of law. Under the terms of the Treaty on European Union, enlargement of the Union is conditional upon the agreement of each existing member state as well as approval by the European Parliament.
+
+Bulgaria and Romania make up the second part of the EU's fifth enlargement, and joined the EU on 1 January 2007. This date was agreed upon at the Thessaloniki Summit in 2003, confirmed at Brussels on 18 June 2004, and affirmed by the country reports of October 2004 and the final report delivered on 26 September 2006. Bulgaria and Romania signed their Treaty of Accession on 25 April 2005 at a ceremony held at Neumünster Abbey in Luxembourg.
+
+The United Kingdom was a former EU member state. It joined the European Economic Community on 1 January 1973. On 23 June 2016, 51.
+
+9% of voters chose to leave the EU. The country formally withdrew from the EU on 31 January 2020. This means that there is 27 members of the European Union.
+
+PorterPorter can mean:QuetzalA quetzal is a brightly colored bird in the trogon family. They are found in forests and woodlands, especially in humid highlands.
+
+These birds live in the Americas. The word "quetzal" was first used for the resplendent quetzal, a famous long-tailed quetzal that lives in Central America. The resplendent quetzal is the national symbol of Guatemala.
+
+They are strongly sexually dimorphic, as usual with the males being brighter. Parts of the female plumageis brown or grey. These largely solitary birds feed on fruits, berries, insects and small vertebrates (such as frogs). Even with their famous bright plumage, they can be hard to see in their natural wooded habitats.
+
+In Aztec times, the quetzal was worshiped as the god of the air. Its long tail feathers, which can grow up to 2 ft (60 cm) long, were highly prized for making into costume and head-dresses.
+
+Resplendent QuetzalPavonine QuetzalCrested QuetzalEared QuetzalWhite-Tipped QuetzalGolden Headed QuetzalThe Powerpuff GirlsThe Powerpuff Girls (also abbreviated as PPG) is an American comedy-action satirical adventure superhero children's animated television series. It aired on Cartoon Network from 1998 to 2005.
+
+It is about three superheroes named Blossom, Bubbles, and Buttercup live in Townsville, USA. They are kindergarteners and have superpowers, who use their powers for good by saving the world from villains.
+
+The show is based on a short made by the series creator from 1992 originally called "Whoopass Stew". The original show was created by Craig McCracken, and the 2016 revival series was developed by Nick Jennings and Bob Boyle. It was created and produced by Hanna-Barbera and Cartoon Network Studios, who also developed a theatrical film adaption in 2002 titled The Powerpuff Girls Movie by Universal Studios.
+
+A lonely scientist named Professor Utonium one day decided to create a "perfect daughter" using sugar, spice and everything nice. However, a special potion named Chemical X was accidentally added to the pot, creating the three Powerpuff Girls, who had superpowers and have dedicated their lives to fighting crime and evil in Townsville.
+
+Blossom, Bubbles, and Buttercup are 3 kindergarten superheroes who live with their father, Professor Utonium, in the City of Townsville. It is their job to use their powers to reduce crime and defend the town from evil villains who want to take it over while also partaking in normal activities like chores and going to school.
+
+The Powerpuff Girls Movie is an animated film which serves as a prequel to the series. It tells the full story of how the girls were created, revealing that Mojo Jojo (the series' main villain) was partly responsible. The main cast of the series returns. It was released in 2002.
+
+Two video games were made featuring the main cast. They were:In 2009, a ten-year anniversary special was released titled "The Powerpuff Girls Rule". The story centres around the Key to the World being brought to Townsville. The Girls and every villain who appeared in the series search for the Key. Eventually, Mojo Jojo finds it and reveals that he will use it to create world peace.
+
+In 2006, the Powerpuff Girls Z was released. Many major characters returned but personalities and appearances were altered. Instead of being superheroes from birth, the girls were teenagers who were struck by "Z Rays" which turned them into superheroes.
+
+The Powerpuff Girls is a reboot of the original series. Although it follows the same backstory and has similar characters, many things are changed.
+
+A live action sequel was in development. It was said to depict the Girls now as adults returning to their superhero duties. However, it was cancelled.
+
+The show saw several VHS and DVD releases while it was on the air, and the entire series was released on DVD in 2009 to celebrate the show's 10th anniversary.
+
+Teutonic KnightsThe Teutonic Knights are a Roman Catholic military order. It was formed at the end of the 12th century in Acre, Palestine, during the Crusades. The Teutonic Knights are now a clerical order based in Vienna, Austria.
+
+In 1226 Konrad of Masovia brought the Teutonic Knights to fight against Baltic pagan Prussian tribes. They won quickly and, their new country being Prussia, were called Prussians. The knights started to be a danger for the then weak Poland. Finally, the power of the Teutonic Order was crushed in Battle of Tannenberg in 1410.
+
+Renju

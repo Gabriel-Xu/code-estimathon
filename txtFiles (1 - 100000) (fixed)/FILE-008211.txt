@@ -1,0 +1,35 @@
+For this reason, there must be a balance between lipophilicity and hydrophilicity of drug molecules.
+
+The acidity of a pharmaceutical compound can also affect absorption. It is important to know how acid or basic the substance is in order for the body to accept it, giving our bodies a biological effect.
+
+One way to overcome the need to absorb the drug in the stomach (where it can be destroyed by bile), is to inject it in the skin (intradermal), subcutaneously, in the muscle (intramuscular) or directly into the bloodstream (intravenously).
+
+Other routes include the topical route, where the drug is applied directly to the skin or mucosal surface on which it is intended to act. These drugs are also known as ointments and include eye drops, thrush cream and eczema lotion. Though absorption is slow, there is a high concentration of the substance in this one area, meaning a pharmacological affect at only the site of application is produced.
+
+Nasal spray and inhalers are other routes of admission which bypass the stomach.
+
+Distribution describes how a drug moves about in the body once it has entered blood circulation, and how this movement may decrease the concentration.
+
+The apparent volume of distribution (Vd) is the apparent volume into which the drug is distributed, expressed in liters (L).
+
+Vd = Dose/Initial plasma concentrationVd is a hypothetical volume of fluid that will contain the total amount of drug administered to the body. One inside thebody, the drug can move around either by diffusion (soaking through a membrane due to a lower concentration), or by transport in the blood. The body should be considered as being multicompartmental, where drugs can be distributed into plasma (blood) - 8% , interstitial fluid (a liquid that surrounds tissues) - 24%, intracelullar fluid (which surrounds cells) - 65% and also fat.
+
+A lower Vd value infers that the drug is retained within the plasma.
+
+A higher Vd value suggests that the drug is retained in volumes outside of the plasma (i.
+
+e. in peripheral tissues).
+
+There are many factors which affect drug distribution, the most important ones are the following:Metabolism describes how a drug is altered chemically in the body into its metabolite, which may be more or less active. This process usually occurs in the liver, but can also take place in the plasma, lungs, stomach, small intestine, kidney and skin. It contains two phases: phase 1 and phase 2.
+
+Put simply, this process converts lipid soluble drugs to water soluble metabolites.
+
+All drugs that are absorbed from the small intestine are first transported to the liver by the hepatic portal vein, in many cases a large proportion of the drug is then metabolized immediately before the drug enters the systemic circulation. This process is called first pass metabolism.
+
+Some drugs undergo extensive first pass metabolism such that only about 10% of the administered dose enters the circulation: "10% bioavailability".
+
+In the case of some drugs, the metabolism occurs within the gut before even reaching the liver.
+
+Can be zero order or first order:This is how a drug or its metabolite is removed from the body. Usually this occurs in the kidneys (urine), but can also take place in the biliary system (faeces), gastrointestinal tract (GIT), skin (sweat) and lungs (expired air).
+
+Many of the products of hepatic metabolism are water soluble metabolites of lipid soluble drugs, these enter the systemic circulation and are transported to the kidney where they are eventually excreted in the urine.

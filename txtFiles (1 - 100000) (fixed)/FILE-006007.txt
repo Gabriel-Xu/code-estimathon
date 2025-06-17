@@ -1,0 +1,97 @@
+Ken Park is a 2002 American movie. It is a co-direction by Larry Clark and Edward Lachman. It was written by Harmony Korine, based off Clark's journals. The movie was highly controversial because of its subject matter. The movie was not rated by the MPAA but is similar to an NC-17 due to foul language and strong sexual material involving minors. In Australia, "Ken Park" was rated Refused Classification due to content.
+
+Cosmic distance ladderThe cosmic distance ladder (also known as the extragalactic distance scale) is the way astronomers measure the distance of objects in space. No one method works for all objects and distances, so astronomers use a number of methods.
+
+A real "direct" distance measurement of an astronomical object is possible only for those objects that are close enough to Earth (within about a thousand parsecs). It is the larger distances which are the problem. Several methods rely on a standard candle, which is an astronomical object that has a known standard luminosity.
+
+The ladder analogy arises because no one technique can measure distances at all ranges encountered in astronomy. Instead, one method can be used to measure nearby distances, a second can be used to measure nearby to intermediate distances, and so on. Each rung of the ladder provides information that can be used to determine the distances at the next higher rung.
+
+The astronomical unit is the mean (average) distance of the Earth from the Sun. This we know quite accurately. Kepler's Laws tell the ratios of the distances of planets, and radar tells the absolute distance to inner planets and artificial satellites in orbit around them.
+
+Parallax is the use of trigonometry to discover the distances of objects near to the solar system.
+
+As the Earth orbits around the Sun, the position of nearby stars will appear to shift slightly against the more distant background. These shifts are angles in a right triangle, with 2 AU making the short leg of the triangle and the distance to the star being the long leg. The amount of shift is quite small, measuring 1 arcsecond for an object at a distance of 1 parsec (3.
+
+26 light-years)This method works for distances up to a few hundred parsecs.
+
+Objects of known brightness are called "standard candles". Most physical distance indicators are standard candles. These are objects which belong to a class that has a known brightness. By comparing the known luminosity of the latter to its observed brightness, the distance to the object can be computed using the inverse-square law.
+
+In astronomy, the brightness of an object is given in terms of its absolute magnitude. This quantity is derived from the logarithm of its luminosity as seen from a distance of 10 parsecs. The apparent magnitude is the magnitude as seen by the observer. It can be used to determine the distance "D" to the object in kiloparsecs (kiloparsec = 1,000 parsecs) as follows:where "m" the apparent magnitude and "M" the absolute magnitude. For this to be accurate, both magnitudes must be in the same frequency band and there can be no relative motion in the radial direction.
+
+Some means of accounting for interstellar extinction, which also makes objects appear fainter and more red, is also needed. The difference between absolute and apparent magnitudes is called the distance modulus, and astronomical distances, especially intergalactic ones, are sometimes tabulated in this way.
+
+Two problems exist for any class of standard candle. The principal one is calibration, finding out exactly what the absolute magnitude of the candle is.
+
+The second lies in recognizing members of the class. The standard candle calibration does not work unless the object belongs to the class. At extreme distances, which is where one most wishes to use a distance indicator, this recognition problem can be quite serious.
+
+A significant issue with standard candles is the question of how standard they are. For example, all observations seem to indicate that Type Ia supernovae that are of known distance have the same brightness, but it's possible that "distant" Type Ia supernovae have different properties than "nearby" Type Ia supernovae.
+
+With few exceptions, distances based on direct measurements are available only up to about a thousand parsecs, which is a modest portion of our own galaxy. For distances beyond that, measures depend upon physical assumptions, that is, the assertion that one recognizes the object in question, and the class of objects is homogeneous enough that its members can be used for meaningful estimation of distance.
+
+Physical distance indicators, used on progressively larger distance scales, include:In a Hertzsprung-Russell diagram the absolute magnitude for a group of stars is plotted against the spectral classification of the stars. Evolutionary patterns are found that relate to the mass, age and composition of the star. In particular, during their hydrogen burning period, stars lie along a curve in the diagram called the main sequence.
+
+By measuring the properties from a star's spectrum, the position of a main sequence star on the H-R diagram can be found. From this the star's absolute magnitude is estimated. A comparison of this value with the apparent magnitude allows the approximate distance to be determined, after correcting for interstellar extinction of the luminosity because of gas and dust.
+
+In a gravitationally-bound star cluster such as the Hyades, the stars formed at approximately the same age and lie at the same distance. This allows relatively accurate main sequence fitting, providing both age and distance determination.
+
+This is not a complete list of methods, but it does show the ways astronomers go about estimating the distance of astronomical objects.
+
+V-1 flying bombThe V-1 flying bomb (also called the Buzz Bomb or Doodlebug) was a World War II weapon.
+
+It was a flying bomb, an early cruise missile. Its jet engine made it travel at 350 mph (600 kmph). The Luftwaffe aimed it at London, and also Antwerp in Belgium. V-1s destroyed nearly as many houses as the Blitz did but killed fewer: 22,892 people were killed by the weapon.
+
+The Allies tried to stop these attacks by bombing their launching places, by shooting at them in the air, and by flying fast planes close to them and nudging them off course using their wings.
+
+They had a fairly crude guidance system. Overall, only about 25 per cent of V-1s hit their targets. Most were lost lost by defensive measures, mechanical unreliability or guidance errors.
+
+Citrus BlastCitrus Blast is a grapefruit flavored soft drink. It is made by PepsiCo. It has no caffeine. It was first sold in 2011.
+
+Young DraculaYoung Dracula is a British children's fantasy television series. It is shown on CBBC. The series is based on "Young Dracula AND Young Monsters", a children's book by Michael Lawrence. The series is directed by Joss Agnew. It was first broadcast in 2006."
+
+Young Dracula" was nominated for Best Children's Drama in the 2008 BAFTA Awards. A fourth series is now being filmed.
+
+Sagittarius Window Eclipsing Extrasolar Planet SearchThe Sagittarius Window Eclipsing Extrasolar Planet Search, or SWEEPS, was an astronomical survey. It was carried out in 2006. SWEEPS used the Hubble Space Telescope to look at 180,000 stars for seven days to find extrasolar planets.
+
+The stars that SWEEPS monitored were all in the Sagittarius-I Window. This is a rare transparent look at the huge group of closely packed stars at the Milky Way's centre (central bulge), in the Sagittarius constellation. Our view to most of the stars in the centre of the galaxy is blocked by lanes of dust. These stars are about 27,000 light years from Earth.
+
+Sixteen planets were discovered by SWEEPS. They took from 0.
+
+6 to 4.
+
+2 days to go around the Sun. Planets which took less than 1.
+
+2 days to go around the sun have not been detected yet; these have been called "ultra-short period planets" (USPPs) by the search team. USPPs were discovered only around stars with a low mass. This means that larger stars might have destroyed any planets orbiting so closely, or that planets could not move as far inward around larger stars.
+
+SWEEPS-4 and SWEEPS-11 orbited stars that were very different to other stars close by. This made it possible for these to be looked at again using the radial velocity method. Their masses could then be found.
+
+TennaThe "nengō" "Tenna" means "Peace of Heaven".
+
+In Tenna, the first book was written about the coins of Japan. The work was entitled "Classified Collection of Coins" ("Kwacho Kuien").
+
+Brown asbestosBrown asbestos, also called grunerite or amosite, is one of the six types of asbestos. It has the chemical formula FeSiO(OH). It is less common than white asbestos but can be found in some construction materials. Like other types of asbestos, being exposed to it can cause mesothelioma and asbestosis.
+
+JōkyōThe new era of was created by the Imperial court. After 1684, the power to create a calendar shifted to the shogunate. The Tokugawa astrology bureau developed a calendar which was independent of Chinese almanacs.
+
+Data Encryption StandardThe Data Encryption Standard is a 56-bit cipher that was once recommended by the U.
+
+S. Government. In 1998, it was defeated by a machine built by the Electronic Frontier Foundation. It has been replaced by the Advanced Encryption Standard in most uses.
+
+After DES was cracked, the NIST, the US institution for technology and also cryptography, developed "3DES". It has 3 times more bits, but is otherwise the same as DES.
+
+Theoretically, 3DES should provide 168 bits of security. But because of the design, the NIST later said it only provides 80 bits of security. That can be broken by a modern computer and thus the cipher should be considered broken.
+
+Sha Tin RacecourseThe Sha Tin Racecourse is a horse racing venue in Hong Kong.
+
+1925 Geneva ProtocolThe Geneva Protocol of 1925 (The Protocol for the Prohibition of the Use in War of Asphyxiating, Poisonous or Other Gases, and of Bacteriological Methods of Warfare) was a law that made it illegal to fight with chemical or biological weapons in interstate war. The Geneva protocol was signed on June 17, 1925 and the protocol was entered into force on January 8, 1928. Before, it was signed by some countries like the United Kingdom and France originally. Any country who has signed this Protocol must follow it.
+
+After World War I, the Geneva Protocol was made from the treaties signed with Austria, Hungary and Bulgaria. The use of chemical weapons began in WWI when one million deaths resulted from chemical weapons.
+
+After signing the treaty, some countries wanted to change it so that they would not have to follow it if the country fighting them did not follow the treaty. Because of this, many countries like France and United Kingdom withdrew from it. Others, like the United States still follow it but with this extra condition.
+
+FledgeFledge is the stage in a young bird's life when the feathers and wing muscles become developed enough for flight. It also describes the act of a chick's parents raising it until it is fully grown. A young bird that has recently fledged but still needs care and feeding is called a fledgling.
+
+In ornithology, fledging has many meanings, depending on species. Birds are sometimes considered fledged once they leave the nest, even if they still cannot fly.
+
+Rat snakeRat snakes are medium to large snakes that can be found mostly in the northern hemisphere. They feed primarily on rodents and birds and, with some species being over 3 m (10 feet), they are on the top levels of some food chains. Many species make attractive pets and one, the corn snake, is one of the most popular reptile pets in the world. Other species can be very sensitive and sometimes aggressive, but the bites are not dangerous. Rat snakes were long thought to be completely nonvenomous, but recent studies have shown that some do have harmlessly small amounts of venom in them. When frightened, rat snakes may freeze, which is why a lot has been killed in traffic.
+
+Rat snakes are commonly kept as pets. The corn snake especially is one of the most popular pet reptiles, and belongs to the rat snake family.

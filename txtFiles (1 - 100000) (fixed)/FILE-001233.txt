@@ -1,0 +1,49 @@
+Toes are the "digits" of the foot of an animal. Many animal species walk on their toes, and are called "digitigrade". Humans, and other animals that walk on the soles of their feet, are "plantigrade"; hoofed animals are "unguligrade".
+
+In humans, the bones of each toe continue all the way to the heel, although in from the base of the toes they come together in the body of the foot. The inside toe is by far the thickest, and is called the "big toe", "great toe", or "hallux".
+
+The one on the other end is short and thin. The toes, especially the big toe, play an essential role in walking, although a loss of the smallest toe will not affect the way people move.
+
+AFC Champions LeagueThe AFC Champions League is a football competition between the best club teams in Asia. The teams are selected because of good performances in domestic leagues or cups. South Korea is the country with the most titles. The team that got the most titles is Al-Hilal.
+
+RaptorRaptor can mean:Newton's laws of motionIsaac Newton (1642–1727) is widely known as the father of dynamics, the study of motion. He developed three laws that are the foundation of classical mechanics. They are believed to be true because the results of experiments by scientists agree with his .
+
+colton ribbonleg as a leg that worksFrom the above statement it's clearly observable that Newton's first law defines force and inertia.
+
+This law also gives the Qualitative definition of force.
+
+A "uniform velocity" means that an object moves at a constant speed without changing direction (i.
+
+e. in a straight line). A "net force" means that the forces acting on the object are not balanced. In other words, the first law states two things:The first part states that a table resting on the ground will not move unless pushed. Although gravity is acting on the table, pulling it down, there is a "reaction force" from the ground which is pushing it back. The forces acting on the table are "balanced", so the object will not move.
+
+The second part is harder to explain. A ball rolling along a flat surface will slow down and eventually come to a halt. This is because of friction, which is a force that slows the ball down. A ball rolling down a slope is also affected by friction, but the effect of the force of gravity is stronger than the friction, so there is a net force acting in the direction in which the ball is moving. In a place without the forces of friction, air resistance and gravity (e.
+
+g. in outer space) a moving object would keep on moving in a straight line if there were no force to slow it down or change its direction.
+
+Newton's second law states that acceleration of a particle is dependent on the forces acting upon the particle and the particle's mass. For a given particle, if the net force is increased, the acceleration is increased. It's also stated that the rate of change of momentum of a body is directly proportional to applied force and takes place in the direction in which the force act. For a given net force, the more mass a particle has, the less acceleration it has.
+
+For example, weight is a force that we feel on Earth, caused by the gravity. The weight formula_6 on a particle is given bywhere formula_1 is the mass of the particle and formula_9 is the local gravitational acceleration (not to be confused with "G", the universal gravitational constant), roughly equal to 9.
+
+8 meters per second (32 feet per second) on Earth.
+
+We can express Newton's second law in terms of momentum. The momentum formula_10 of a particle is defined as the product of its mass formula_1 and velocity formula_12:The acceleration formula_4 of a particle is the time derivative of its velocity formula_12:Therefore,Thus, we have another way of stating Newton's second law:In classical mechanics, the two forms of the second law, formula_5 and formula_21, are completely equivalent. Note that we assume that the mass formula_1 of a particle does not change.
+
+This is best understood with billiard balls, where you can easily see the action/reaction pairs of forces. Likewise, when you kick a football, not only does the ball move, but you feel a force on your foot.
+
+The size of the forces on the first object equals the size of the force on the second object. The direction of the force on the first object is opposite to the direction of the force on the second object. Forces always come in pairs - equal and opposite action-reaction force pairs.
+
+A variety of action-reaction force pairs are evident in nature. Consider the propulsion of a fish through the water. A fish uses its fins to push water backwards. But a push on the water will only serve to accelerate the water. Since forces result from mutual interactions, the water must also be pushing the fish forwards, propelling the fish through the water. The size of the force on the water equals the size of the force on the fish; the direction of the force on the water (backwards) is opposite the direction of the force on the fish (forwards). For every action, there is an equal (in size) and opposite (in direction) reaction force. Action-reaction force pairs make it possible for fish to swim.
+
+Consider the motion of a car on the way to school. A car has wheels which spin forwards. As the wheels spin forwards, they grip the road and push the road backwards. Since forces result from mutual interactions, the road must also be pushing the wheels forward. The size of the force on the road equals the size of the force on the wheels (or car); the direction of the force on the road (backwards) is opposite the direction of the force on the wheels (forwards). For every action, there is an equal (in size) and opposite (in direction) reaction. Action-reaction force pairs make it possible for cars to move along a roadway surface.
+
+Fencing"This is about the sport. You may be wanting to read about a fence."
+
+Fencing is a sport for two people with different kinds of swords. The aim is to score hits. There is also a referee.
+
+The foil is a light and easy to bend weapon, first made in mid 17th century as a weapon for practice. 'Hits' can only be scored by hitting the target area with the point of the sword. The target area is the torso.
+
+The épée is the heaviest of the three weapons. To score a hit, the push-button on the end of the weapon must remain fully down for 2-10 milliseconds, and must arrive (hit) with a force of at least 7.
+
+35 newtons. The target area for Épée is the entire body. This includes the feet and the head.
+
+The sabre is the "cutting" weapon, with a curved guard (to protect the hand) and a triangular blade. However, in modern electric scoring, a touch with any part of the sabre, (point, flat or edge, as long as it is on target) will count as a hit. The target area in sabre is everything from the waist up, except for the hands.

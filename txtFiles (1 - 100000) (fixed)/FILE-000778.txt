@@ -1,0 +1,41 @@
+Wendy Carlos (born Walter Carlos, November 14, 1939) is an American composer and musician. She was born in Pawtucket, Rhode Island. She is known as one of the first people to use electric instruments to make music. In 1968, she released her music album "Switched on Bach". This album used many new electric instruments including the Moog Synthesizer. It won three Grammy Awards. She also did the music for movies. These include "A Clockwork Orange", "The Shining", and "Tron". In 1972, Carlos had a medical operation to change her body from male to female.
+
+Boolean algebraIn mathematics, Boolean algebra is an algebra for binary digits (where 0 means false and 1 means true). It is equipped with three operators: conjunction (AND), disjunction (OR) and negation (NOT). It uses normal math symbols, but it does not work in the same way. It is named for George Boole, who invented it in the middle 19th century. Boolean algebra did not get much attention except from mathematicians until the 20th century when engineers began using it for logic gates.
+
+The NOT operator is written with a bar over numbers or letters like this:It means that the output is "not" the input.
+
+The AND operator is written as formula_4 like this:The output is true if and only if one and the other input is true.
+
+The OR operator is written as formula_9 like this:If one or the other input is true, then the output to be true (and false otherwise).
+
+XOR basically means "exclusive or", meaning one input or the other must be true, but not both. It is also sometimes called NOR, which means the same thing.
+
+The XOR operator is written as formula_14 like this:In other words, the XOR operator returns true precisely when one or the other input is true—but not both.
+
+Different gates can be put together in different orders:It is not the same as a NOT then an AND: formula_20which is called "AND identity table", ifformula_23.
+
+or if formula_24=TRUE, TRUE.,
+
+Augustus De Morgan discovered that it is possible to preserve the truth values of Boolean expressions by changing a formula_9 sign to a formula_4 sign, while making or breaking a bar. That is:These findings are commonly known as De Morgan's laws.
+
+Harry Potter and the Philosopher's StoneHarry Potter and the Philosopher's Stone (published in the US under the title "Harry Potter and the Sorcerer's Stone") is the first book in the Harry Potter series, written by J.
+
+K. Rowling. It was published in 1997 and a movie version was released in 2001.
+
+This is the first book in a series of seven about the wizard Harry Potter. The author begins by setting the scene and introducing the reader to some of the characters.
+
+At the start, Rowling describes how in an ordinary suburb, somewhere in an English town, people are suddenly surprised to see witches and wizards in odd clothing riding on public buses and appearing at places where people would not expect to suddenly meet a wizard. It is clear that something unusual has happened in the world of witches and wizards, and those people, who are normally quite secret, are out and about, enjoying themselves.
+
+In this way, Rowling introduces the two worlds of her story, the world of ordinary people, called "Muggles", and the secret world of the magic folk who usually keep to themselves. Rowling then introduces the main character, Harry Potter, a little baby boy who is left on the doorstep of his aunt and uncle by an old wizard with a long white beard.
+
+When the reader next meets Harry, he has grown to be a boy of eleven, living unhappily with his spiteful aunt, cruel uncle and bullying cousin Dudley. He is rescued from his misery by a huge bearded man upon his eleventh birthday. Harry Potter is a wizard without knowing it, and the giant man, Rubeus Hagrid, has come to help him buy his books and get ready to go to school. The school sounds most exciting. It is "Hogwart's School of Witchcraft and Wizardry".
+
+On the long train journey north, Harry Potter meets the two people who are to become his best friends, Ronald Weasley and Hermione Granger. Ron and Hermione have very different characters. Hermione, who comes from "Muggle" (nonwizard) parents, is very intelligent and talented. She is such a teacher's pet and is so bossy that the boys do not like her at first. Ron, on the other hand, comes from an old family of wizards. He is number six in a family of seven children. He wears hand-me-down clothes and even his pet rat used to belong to his brother, Percy. Ron knows all about Harry Potter.
+
+The reason that Ron, and all the other people in the wizarding world, know all about Harry Potter is that Harry is famous, without even knowing it himself. The reason why he was left on the doorstep of his aunt and uncle was that both his parents were dead. They were murdered by an evil wizard who calls himself "Lord Voldemort". He was so evil that people are even afraid to say his name. Harry is famous because he survived the magical attack of "He Who Must Not Be Named", and since that day, Voldemort has gone into hiding.
+
+J. K. Rowling then gives the reader a picture of the school that is to be Harry's home through seven books of the series, each one of which deals with a year in his life. The book describes the teachers, the lessons, the customs and the school sport so that it seems to be part of a real world. Even though the students learn magic and use magic, the book also describes Harry's growing up in a new and strange situation, just as any student must learn to fit in when they go to a new school among different people.
+
+Harry soon discovers that while some magicians, such as the school principal, headmaster, and professor Albus Dumbledore, and Deputy Headmistress Minerva McGonagal can be kind and encouraging, others, like the sinister Professor Snape with his greasy black hair and nasty comments, are very hard to trust. One of the subjects that Harry really needs to learn is "Defense Against the Dark Arts" but unfortunately, the teacher, Professor Quirrell, is such a bumbling and nervous man that he does not seem to be able to teach Harry very much at all.
+
+As the year goes by, Harry discovers that Hogwarts has, hidden away for safety, a very precious treasure. If it were to fall into the hands of Lord Voldemort, it would be very dangerous indeed. Harry also discovers that in solving problems and overcoming difficulties, having friends with very different talents can be extremely useful.

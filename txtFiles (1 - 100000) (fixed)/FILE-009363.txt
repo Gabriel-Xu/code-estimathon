@@ -1,0 +1,53 @@
+Wander Over Yonder is McCracken's first show on a Disney-owned network. Wander first appeared on sketchbooks and clothes that McCracken sold at conventions, as well as in a never-finished graphic novel. McCracken has described Wander as a "nomadic, hippie, muppet man".
+
+Flag of NebraskaThe flag of the U.
+
+S. state of Nebraska is a blue rectangular cloth charged with the Nebraskan state seal.
+
+Andriy SadovyiAndriy Ivanovych Sadovyi (; born 19 August 1968) is a Ukrainian politician. He is the mayor of Lviv, the administrative center of the Lviv Oblast of western Ukraine, and the leader of the Self Reliance political party.
+
+Inferno (Dante)Inferno by the Italian author Dante, is a work of fiction made in the 1500s, as a part of The Divine Comedy. It tells of the fictional journey that two men, Dante himself as well as Greek poet Virgil, takes place through Christian Hell. Hell is made up of several levels, or circles, in which sinners are divided and punished according to their sins. Their punishments are measured according to how many good deeds vs bad deeds were done.
+
+The Divine Comedy describes the journey of the soul toward God. And Inferno is about the recognition and rejection of sin.
+
+QubitA Qubit (or QBit) is a unit of measure used in quantum computing.
+
+Like a bit in normal (non-quantum) computing, a Qubit has two distinct states, 0 state and the 1 state. However, unlike the normal bit, a qubit can have a state that is somewhere in-between, called a "superposition."
+
+You cannot measure the superposition without the superposition going away (changing). If you try to measure a qubit that is in a superposition, the qubit will change, and become one of two states. The resulting state the qubit changes to depends on how it is measured. For simplicity, let's assume we are measuring in a way that will make the qubit change to either a 0 state or a 1 state.
+
+A qubit can be represented as a 2-element column vector.
+
+A qubit in the 0 state looks like formula_1.
+
+A qubit in the 1 state looks like formula_2.
+
+In general, a qubit state will look like formula_3 , where formula_4.
+
+α and β are called amplitudes. They can be complex numbers. Each state has an amplitude.
+
+By squaring a state's amplitude, you can get the probability of measuring that state.
+
+Each state can also have a phase. The phase is part of the amplitude and is what can make the amplitude a complex number.
+
+A state's phase is like how much that state has rotated. The angle of phase is usually represented as either Φ or φ. Let's use φ.
+
+φ can go from 0 to formula_5 radians. The angle sort of goes into an Euler identity, where instead of formula_6, the formula_7 gets substituted with the angle φ. The state's phase becomes formula_8.
+
+This expression formula_8is a phase factor that becomes part of a state's amplitude. It gets multiplied with the amplitude.
+
+A phase angle of 0 makes the amplitudes positive real numbers, since formula_10.
+
+A phase angle of formula_11 makes the amplitudes negative real numbers, since formula_12. (This is Euler's identity)A phase angle of formula_13 makes the amplitudes positive imaginary numbers, since formula_14.
+
+A phase angle of formula_15 makes the amplitudes negative imaginary numbers, since formula_16.
+
+Beyond 0 and formula_5, the phase angle just wraps back around again, since it is just a rotation.
+
+An example qubit may look like formula_18. There is a 50% chance of measuring a 0 or a 1. There is a phase of 1 on the 0 state's amplitude. There is a phase of -1 on the 1 state's amplitude.
+
+Qubits are generally written as kets, which look like formula_19. Kets are part of Bra-Ket notation, also known as Dirac notation. Kets are a way of saying column vector.
+
+The 0 and 1 state are written as formula_20 and formula_21 respectively.
+
+A general qubit in ket notation will be written as formula_22.

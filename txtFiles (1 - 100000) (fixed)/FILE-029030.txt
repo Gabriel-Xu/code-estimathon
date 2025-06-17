@@ -1,0 +1,213 @@
+Formal semantics, for instance, helps to write compilers, better understand what a program is doing and to prove, e.
+
+g., that the following if statement if 1 == 1 then S1 else S2 has the same effect as S1 alone.
+
+Formal Semantics in Moscow (FSiM) is an annual academic conference devoted to the formal semantics and pragmatics of natural language.
+
+Formal subspeciality training in obstetric medicine is currently offered in Australia, New Zealand, the United States, and Canada.
+
+Formal taxonomies can be developed from the folk taxonomy rendered machine-readable by the markup that hashtags provide; this process is called folksonomy.
+
+Formal tea parties are often characterized by the use of prestige utensils, such as porcelain, bone china or silver.
+
+Formal techniques, such as fuzz testing, are essential to showing robustness since this type of testing involves invalid or unexpected inputs.
+
+Formal theories cannot dispense with primitive notions, under pain of infinite regress.
+
+Formal tournaments are organized by local leagues, and on a national level by the Academic Games Leagues of America (AGLOA).
+
+Formal training is offered in the spring and fall.
+
+Formal trousers, also known as formal striped trousers or colloquially spongebag trousers, gray striped or patterned formal trousers for day attire in traditional Western dress code, primarly associated with formal morning dress or secondly its semi-formal equivalent black lounge suit.
+
+Formal verification can be helpful in proving the correctness of systems such as: cryptographic protocols, combinational circuits, digital circuits with internal memory, and software expressed as source code.
+
+Formal viable system theory is normally referred to as viability theory, and provides a mathematical approach to explore the dynamics of complex systems set within the context of control theory.
+
+For malware signatures, LMD uses various sources, like the signatures database of ClamAV and the Malware Hash Registry of Team Cymru.
+
+Formal Wars is an Australian reality television series produced by Matchbox Productions that premiered on the Seven Network on 25 July 2013.
+
+Formal wear, formal attire or full dress is the traditional Western dress code category for the most formal clothing, such as for weddings, christenings, funerals, Easter and Christmas traditions, formal balls and banquets with dancing, as well as certain horse racing events.
+
+Formamide, also known as methanamide, is an amide derived from formic acid.
+
+Formamide and HCNO have been detected in these shocked regions, among other compounds.
+
+Formamides are compound of the type RR'NCHO.
+
+Formamidopyrimidine DNA glycosylase (FPG) is a base excision repair enzyme which recognizes and removes a wide range of oxidized purines from correspondingly damaged DNA.
+
+Formamidopyrimidine-DNA glycosylases (Fpg, MutM) is a trifunctional DNA base excision repair enzyme that removes a wide range of oxidation-damaged bases (N-glycosylase activity; EC 3.
+
+2.
+
+2.
+
+23) and cleaves both the 3'- and 5'-phosphodiester bonds of the resulting apurinic/apyrimidinic site (AP lyase activity;EC 4.
+
+2.
+
+99.
+
+18).
+
+Formamidopyrimidine-DNA glycosylases (Fpg, MutM) is a trifunctional DNA base excision repair enzyme that removes a wide range of oxidation-damaged bases (N-glycosylase activity; EC) and cleaves both the 3'- and 5'-phosphodiester bonds of the resulting apurinic/apyrimidinic site (AP lyase activity; EC).
+
+For mammals such as Hawaiian monk seals, the young are removed from their mothers after weaning.
+
+For managing visibility, both abstract data type modules and object modules are composed of an interface (which allows some operations to be visible from the outside) and a body (which mainly encapsulates the operations properties and some operation which are used for building the model).
+
+Forman Arthur Williams (born January 12, 1934) is an American academic in the field of combustion and aerospace engineering who is Emeritus Professor of Mechanical and Aerospace Engineering at the University of California, San Diego,.
+
+Forman, a wing, claimed a total of 7 international rugby caps for Australia.
+
+Forman Christian College is an independent research liberal arts university located in Lahore, Punjab, Pakistan founded in 1864.
+
+Form and Document Creation is one of the things that technical communicators do as part of creating deliverables for their companies or clients.
+
+Forman had formerly been a New Jersey militia leader.
+
+Forman has been called the "father" of landscape ecology for his work linking ecological science with spatial patterns describing how people and nature interweave on land.
+
+Formania is a genus of Chinese flowering plants in the sunflower family.
+
+Forman is a city in Sargent County, North Dakota, United States.
+
+Forman is also known for its noted alumni and staff, including Nobel laureate Arthur Compton, former Indian Prime Minister I. K. Gujral, former Pakistani Presidents Farooq Leghari and Pervez Musharraf, and activist Eqbal Ahmad.
+
+Forman is an American winemaker, vineyard manager, and consultant, who has made contributions to the rise of Napa Valley as one of the premier winemaking regions of the world.
+
+Forman is an unincorporated community on Patterson Creek in Grant County, West Virginia, United States.
+
+Forman is a private investor and entrepreneur, a former media, technology and telecommunications executive and former Wall Street Journal foreign correspondent and bureau chief.
+
+Forman is a Writer to The Signet and was appointed a Member of The Most Excellent Order of the British Empire in the 2015 Queen's Birthday honors list.
+
+Forman Mills, Inc. is a Pennsauken, New Jersey-based retail chain and department store with 35 stores, located in Philadelphia, Baltimore, Delaware, New Jersey, Pittsburgh, Washington DC, Chicago, Cleveland, Detroit, New York City and their suburbs.
+
+Forman Park, in Syracuse, New York, was first established on June 16, 1839 and was known as Forman Square.
+
+Forman played as a junior for the Sturt Sabers and was a member of the Australian team that competed at the 2003 World University Summer Games in Korea.
+
+Forman received the country's highest award for bravery during combat, the Medal of Honor, for his action during the Battle of Seven Pines in Virginia on 31 May 1862.
+
+Forman's Additional Continental Regiment was an American infantry unit that served for a little more than two years during the American Revolutionary War.
+
+Forman School offers a 4-week summer program in July for students with learning differences.
+
+Forman served as an associated college of the University of Calcutta until 1947 when it became affiliated with the University of Punjab.
+
+Forman's primary research focus has been the history of physics, in which he has helped pioneer the application of cultural history to scientific developments.
+
+Forman's recent work focuses on "characterization of the modern/postmodern transition in science, society, and culture."
+
+For "Mantra", the final track on the album, he was joined by Homme and Reznor.
+
+Formants are often measured as amplitude peaks in the frequency spectrum of the sound, using a spectrogram (in the figure) or a spectrum analyzer and, in the case of the voice, this gives an estimate of the vocal tract resonances.
+
+For manual control, all the controls are in a controller's cabin above the boom conveyor or boom.
+
+For manual exposure selection it offered shutter priority mode with preselection of five exposure times from 1/30 sec to 1/500 sec.
+
+For manual folding work, prior notching can often improve resultant accuracy of the folding itself.
+
+For manual transmission cars, moving off a slope is done by careful clutch control.
+
+For manufactured goods, some key disadvantages include long lead times, the risk of port shutdowns interrupting supply, and the difficulty of monitoring product quality.
+
+For manufacturers, a bill of materials (BOM) is a critical product information record that lists the raw materials, assemblies, components, parts and the quantities of each needed to manufacture a product.
+
+For manufacturers and consumers, the availability of a standard classification system for pigments is helpful because it resolves conflicting historic, proprietary, and generic names that have been applied to colors.
+
+For manufacturers that went on to produce many models, it represents the start date of the whole brand; for the others, it usually represents the date of appearance of the main (perhaps only) model that was produced.
+
+For manufacturers, this includes planning for, and if necessary, paying for the recycling or disposal of the product at the end of its useful life.
+
+For manufacturing, as TCO is typically compared with doing business overseas, it goes beyond the initial manufacturing cycle time and cost to make parts.
+
+Forman was born in Pittsburgh and came to Florida in 1955.
+
+Forman was founded in 1883.
+
+Forman was named GM in 2009 after being in the organization for 11 years as a scout, director of player personnel, and special assistant to executive vice-president of basketball operation.
+
+For many, adolescence is one's search for acceptance.
+
+For many American railroads, the following career progression is typical: assistant conductor (brakeman), conductor and finally driver.
+
+For many animals, the ability to move is essential for survival and, as a result, natural selection has shaped the locomotion methods and mechanisms used by moving organisms.
+
+For many applications however, the products are inserted into the carton manually.
+
+For many applications, like glass bottles or eyewear, polymer glasses (acrylic glass, polycarbonate or polyethylene terephthalate) are a lighter alternative than traditional glass.
+
+For many applications, multiple octaves of this noise can be generated and then summed together, just as can be done with Perlin noise and Simplex noise, in order to create a form of fractal noise.
+
+For many applications PAAs are used in form of alkali metal or ammonium salts, e.
+
+g. sodium polyacrylate.
+
+For many applications the Clark Y has been an adequate airfoil section; it gives reasonable overall performance in respect of its lift-to-drag ratio, and has gentle and relatively benign stall characteristics.
+
+For many applications, the performance obtainable from a single-stage amplifier is often insufficient , hence several stages may be combined forming a multistage amplifier.
+
+For many artists and scholars, Judith's sexualized femininity interestingly and sometimes contradictorily combined with her masculine aggression.
+
+For many Bronxites, the Ducky Gang was a gang that many people heard of, but rarely saw.
+
+For many Caribbean nations, the increasing ties with China have been used as a way to decrease long time over-dependence on the United States.
+
+For many cases as long as the Reynolds number is equivalent, the results are valid, whether a submerged water vehicle model is tested in air or an aerial vehicle is tested in water.
+
+For many centuries it and its abbesses enjoyed great prestige and influence.
+
+For many centuries it played an important part in history, particularly in that of the Holy See and northern Italy, and a number of church councils were held there.
+
+For many centuries Limekilns was also the northern terminus for a ferry linking it to Bo'ness on the southern side of the Forth.
+
+For many centuries music has been strongly associated with art and culture.
+
+For many centuries, the chimneypiece was the most ornamental and most artistic feature of a room, but as fireplaces have become smaller, and modern methods of heating have been introduced, its artistic as well as its practical significance has lessened.
+
+For many centuries the estate was in the hands of the Conyers family.
+
+For many centuries the family was headed by the Earl of Oxford until the death of the 20th Earl in 1703.
+
+For many centuries, the name Tyburn was synonymous with capital punishment, it having been the principal place for execution of London criminals and convicted traitors, including many religious martyrs.
+
+For many centuries, they built and used sophisticated canoes, called tomols, made from sewn planks caulked with asphaltum (bitumen).
+
+For many centuries they were the sole civil government of rural areas.
+
+For many Christian denominations, the doctrine of the fall is closely related to that of original sin.
+
+For many collectors this is the minimum acceptable condition for all but the rarest items.
+
+For many community groups this is the biggest fundraising event of the year.
+
+For many complex objects, such as those that make extensive use of references, this process is not straightforward.
+
+For many conservatives, the term has become part of a political theory that the USA is developing an increasingly large 'moocher' class who depend on government benefits paid for by taxes from richer or harder-working citizens, pay no taxes themselves and vote themselves higher benefits paid for from the taxes of others.
+
+For many countries, in addition to age requirements, one needs to go through a series of regional and national qualification competitions before they can apply for WJMC.
+
+For many decades a long line of geneticists and botanists, including Sewall Wright, Carl Epling, Harlan Lewis and T. G. Dobzhansky, have studied populations of this flower to determine the factors that influence this polymorphism.
+
+For many decades, Barry Frank was the Master of Ceremonies at the resort.
+
+For many decades Furr's was known for cafeteria-style dining, but has since redeveloped into buffet-style dining.
+
+For many decades, Harlem has had a lower quality of public education than wealthier sections of the city.
+
+For many decades, it also served as a post office, although the post office moved to another location in 1979.
+
+For many decades it was the most important boulevards of the city, often described as the most aristocratic, where many of the most affluent citizens of the city and most powerful men around the world would meet.
+
+For many decades, Kokk was active within the leadership of the Social Democratic Party as an official, starting 1968.
+
+For many decades KSS has been leading the community, having organized campaigns for raising their social demands.
+
+For many decades, Motown was the highest-earning African American business in the United States.
+
+For many decades, Mount Hitchcock was thought to be the highest.

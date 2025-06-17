@@ -1,0 +1,61 @@
+An electron (a charged particle) is a fermion, but a photon (the particle of electromagnetic radiation) is not. The spin numbers of fermions are 1/2, 3/2, 5/2, etc. Because their spin is not a whole number, they follow the Pauli exclusion principle: no two fermions can share a quantum state (which includes position in space), if they have the same quantum numbers, such as spin. In other words, fermions can collide with each other. This behavior is not in the other class of elementary particles called bosons: you can have many bosons, for example photons, in the same place at the same time. The motion of fermions follows the Fermi-Dirac statistics.
+
+Most well known fermions have spin of 1/2. An example of a type of fermion with a spin of 1/2 is the electron. The electron belongs to a group of fermions called leptons.
+
+Fundamental fermions (fermions that are not made up of anything else) are either quarks or leptons. There are 6 different types of quarks (called "flavours") and 6 different types of leptons. These are their names:Each of these fermions also has an anti-particle associated with it, so there are a total of 24 different fundamental fermions. The anti-particle is similar to the original particle, but with opposite electrical charge. The "up", "charm", and "top" quarks have electrical charge of +2/3. Their anti-particles have charge -2/3 (anti-up, anti-charm, anti-top). The other three quarks (down, strange and bottom) have charge -1/3, and their anti-particles have charge +1/3. The electron, muon, and tau leptons all have charge of -1, and their anti-particles (anti-electron or "positron", anti-muon, anti-tau) have charge +1. All the neutrinos and anti-neutrinos have charge 0. The main difference between quarks or leptons with the same charge is their mass.
+
+The supersymmetric counterpart of any fermion is called a "sfermion."
+
+BosonA boson is a particle which carries a force. It has a whole number spin ("spin" is a property of subatomic particles). Bosons carry energy.
+
+A photon is an example of a boson as it has a spin of 1 and carries electromagnetism. Mesons are also bosons as they carry nuclear force.
+
+Bosons are different from fermions, which are particles that make up matter, because bosons obey Bose-Einstein statistics. (This means that you can put two of them in the same place at the same time; the Pauli exclusion principle does not apply.)
+
+Gauge bosons carry fundamental forces. There are three known gauge bosons, which are elementary particles. For example, the photon carries the electromagnetic force. The three types of gauge bosons are: photons for electromagnetism, gluons (eight kinds) for strong force, and W and Z bosons (three kinds) for weak force. Other theoretical gauge bosons are predicted, such as gravitons for gravity. The Higgs boson is another fundamental particle of a type called a scalar boson.
+
+Paul Dirac named this class of particles "bosons" in honor of a famous Indian scientist called Satyendra Nath Bose.
+
+The bosons include the photon, the gluon, the Z boson, W boson and the Higgs boson. The Higgs boson also might be classified by itself. Since none of them have a charge, the antimatter version of them will also not have any charge.
+
+Jürgen KlinsmannJürgen Klinsmann (, born 30 July 1964) is a German football player who started in Stuttgart, a club in Germany, when he was seventeen. In 1990 he won the FIFA World Cup with the Germany national team. Later, he also played for Internazionale Milano, Monaco, Tottenham Hotspur and Bayern Munich. In 2004 he became the coach of Germany national team, that was third in the World Cup of 2006. Taking his place in the German team is Joachim Löw. Klinsmann coached the United States men's national team from 2011 to 2016 and then Hertha BSC from 2019 to 2020. Since 2020, he has been manager for the South Korea national team.
+
+Before Jürgen Klinsmann became a professional soccer player, he worked as a baker-associated in the baker's shop of his father in Stuttgart-Botnang. When he was young he played for Geislingen. The first team of his professional career was Stuttgarter Kickers. His career as a player ended in 1998 after the World Cup in France, as Germany was eliminated from the tournament by Croatia. He played for the under-21 and under-16 teams, as well as for ten years for the A team. In the 1988 Summer Olympics in Seoul he won the bronze medal. Jürgen Klinsmann played 221 Bundesliga games and scored 110 goals. In the national team of Germany he played 108 games and scored 47 goals. He played in the World Cup tournaments in 1990, 1994, and 1998. He scored 11 goals in the World Cup - second only to Gerd Müller as the German player with the most World Cup goals. In August 2004 he became the national coach of Germany. At the 2006 World Cup in Germany he won the bronze medal. After that he resigned. From the 1st June 2008 he coached Bayern Munich until he was dismissed on the 27th April 2009.
+
+Inter MilanBayern MunichWest Germany/GermanyGermanyUnited StatesQuintana RooQuintana Roo is a Mexican state in the south. Its capital is Chetumal, the name "Quintana Roo" is from a military general. The most money comes from tourism, for example, in Cancún or Playa del Carmen.
+
+PilosaPilosa is an order of mammals in the superorder "Xenarthra".
+
+To this order belong the sloths, suborder "Folivora" and the anteaters, suborder "Vermilingua".
+
+Dead KennedysDead Kennedys are a hardcore punk band from San Francisco. The band was led by Jello Biafra. Other original members were Klaus Fluoride, D.
+
+H. Peligro, and East Bay Ray. The band plays songs with strong political messages. During the 1980s, they had many fans in the punk rock music scene.
+
+The Dead Kennedys formed in June 1978. In 1980, one of their songs called "California Über Alles" became popular in the punk music scene. In 1980, they recorded and released a song called "Holiday in Cambodia". That same year, they made their first album, "Fresh Fruit for Rotting Vegetables". In the early 1980s, the band toured all over the United States, Europe, and Australia.
+
+In July 1987, the band broke up. After they broke up, they were charged with the crime of obscenity. A person saw the band's album "Frankenchrist" and complained to the Attorney General for the State of California and to Los Angeles prosecutors. The album included a picture that showed nine penises. In August 1987, the criminal trial ended but the jury could not make a decision. The album was banned from many record stores in the United States.
+
+Bad Brains (band)Bad Brains is an American band. They play hardcore punk music that is mixed with reggae music. The band formed in 1977 and is still playing now. The members are H.
+
+R. (singer), "Dr. Know" (guitarist), Darryl Jenifer (bassist) and Earl Hudson (drummer).
+
+The band originally formed in Prince Georges County, Maryland. It is close to Washington, D.
+
+C., the capital of the United States. During most of their time together, Bad Brains has lived in Washington, D.
+
+C.
+
+The Bad Brains had a big effect on many hardcore punk bands, including Minor Threat who are also from Washington, D.
+
+C. They also had a big effect on the hardcore punk singer Henry Rollins. Rollins was the singer for the hardcore band Black Flag.
+
+XenarthraThe Xenarthra is a superorder of mammals. It is a group of placental mammals (infraclass Eutheria). They live at present only in the Americas, and are anteaters, tree sloths, and armadillos.
+
+Their origins can be traced back as far as the Palaeogene (about 60-65 million years ago (mya), shortly after the Mesozoic) in South America. Xenarthrans developed and diversified extensively in South America during its long period of isolation, invaded the Antilles by the early Miocene, and then spread to Central and North America as part of the Great American Interchange.
+
+Nearly all of the once abundant big xenarthrans, such as ground sloths, glyptodonts, and pampatheres went extinct at the end of the Pleistocene.
+
+Xenarthrans differ from other placental mammals in several ways. The name Xenarthra means 'strange joints', and was chosen because their vertebral joints have extra articulations and are unlike those of any other mammals. The males lack external testicles, which are instead placed between the bladder and the rectum. Also, xenarthrans have the lowest metabolic rates among the therians.<
+
+br>Channel 4

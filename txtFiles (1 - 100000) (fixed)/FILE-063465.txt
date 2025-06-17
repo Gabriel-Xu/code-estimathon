@@ -1,0 +1,111 @@
+TCO includes a variety of cost of doing business items, for example, ship and re-ship, and opportunity costs, while it also considers incentives developed for an alternative approach.
+
+T. Colburn was a member of the Wisconsin State Assembly.
+
+T. commodus belongs to the order Orthoptera, the family Gryllidae which are characterized by wings that are folded on the side of the body, chewing mouthparts and long, thin antennae.
+
+T. commodus has the ability to learn via the recognition of rewards.
+
+T. compactum erinaceum was a bearded, hairy rachis, red-chaffed wheat named for its appearance similar to that of a hedgehog.
+
+T. compactum erinaceum was thought to have disappeared before 1822.
+
+T. compactum is similar enough to common wheat (T. aestivum) that it is often considered a subspecies, T. aestivum compactum.
+
+T. compactum like other bread wheats have never been observed to grow in the wild.
+
+T-complex protein 10A homolog 2 is a protein that in humans is encoded by the TCP10L gene.
+
+T-complex protein 11 homolog is a protein that in humans is encoded by the TCP11 gene.
+
+T-complex protein 1 subunit beta is a protein that in humans is encoded by the CCT2 gene.
+
+T-complex protein 1 subunit delta is a protein that in humans is encoded by the CCT4 gene.
+
+T-complex protein 1 subunit epsilon is a protein that in humans is encoded by the CCT5 gene.
+
+T-complex protein 1 subunit eta is a protein that in humans is encoded by the CCT7 gene.
+
+T-complex protein 1 subunit gamma is a protein that in humans is encoded by the CCT3 gene.
+
+T-complex protein 1 subunit theta is a protein that in humans is encoded by the CCT8 gene.
+
+T-Connection was a funk and disco group from Nassau, the Bahamas, who scored two hits on the Billboard Hot 100 between 1977 and 1979.
+
+T-Connect is being offered as a download from Apple's AppStore and Google Play as a subscription telematics service, which uses the G-Book architecture.
+
+T contains some features that modern Scheme does not have.
+
+T. Cooke & Sons was an English instrument-making firm, headquartered in York.
+
+T Cooper (born Malibu, California) is an American novelist, nonfiction writer, television writer, and journalist.
+
+T-cophony (born 1984) is a Japanese songwriter, multi-instrumentalist, instrumental rock guitarist, known primarily for his work as an fingerstyle guitarist.
+
+T Coronae Australis (T CrA), is a young star in the constellation Corona Australis.
+
+T Coronae Borealis (T CrB), is a recurring nova in the constellation Corona Borealis.
+
+TC OT 39 is a non-peptide partial agonist of the oxytocin and vasopressin V2 receptors (Ki = 147 nM and >1000 nM, respectively) and antagonist of the vasopressin V1A receptor (Ki = 330 nM).
+
+Tcov generates exact counts of the number of times each statement in a program is executed and annotates source code to add instrumentation.
+
+Tcov is a source code coverage analysis and statement-by-statement profiling tool for software written in Fortran, C and C++.
+
+TCP acceleration is the name of a series of techniques for achieving better throughput on a network connection than standard TCP achieves, without modifying the end applications.
+
+TCP acts primarily as an NMDA receptor antagonist which blocks the activity of the NMDA receptor, however its increased psychostimulant effects compared to PCP suggests it also has relatively greater activity as a dopamine reuptake inhibitor (DRI).
+
+TC-PAM is also known as 4B1H, because it uses 16 levels to represents a 4 digit binary, 4 Binary 1 Hexadecimal.
+
+TCP Cookie Transactions (TCPCT) is specified in RFC 6013 (experimental status) as an extension of Transmission Control Protocol (TCP) intended to secure it against denial-of-service attacks, such as resource exhaustion by SYN flooding and malicious connection termination by third parties.
+
+TCPCT avoids resource exhaustion on server-side by not allocating any resources until the completion of the three-way handshake.
+
+TCPCT support was partly merged into the Linux kernel in December 2009, but was removed in May 2013 because it was never fully implemented and had a performance cost.
+
+TCP delayed acknowledgment is a technique used by some implementations of the Transmission Control Protocol in an effort to improve network performance.
+
+TCP develops Tanjung Mas Raya, a residential complex in Jakarta, Indonesia and manages Graha Surya Internusa, a commercial building in Kuningan; SAM develops Banyan Tree Ungasan Resort in Bali.
+
+TCPDF is the only PHP-based library that includes complete support for UTF-8 Unicode and right-to-left languages, including the bidirectional algorithm.
+
+TCP Gender Changer is a method in computer networking for making an internal TCP/IP based network server accessible beyond its protective firewall.
+
+TCP global synchronization in computer networks can happen to TCP/IP flows during periods of congestion because each sender will reduce their transmission rate at the same time when packet loss occurs.
+
+TCP has automatic recovery from dropped packets, which it interprets as congestion on the network (which is usually correct).
+
+TCP has many other names .
+
+TCP has slightly different binding properties to PCP, with more affinity for the NMDA receptors, but less affinity for the sigma receptors.
+
+TCP implementations should follow a general principle of robustness: be conservative in what you do, be liberal in what you accept from others.
+
+TCP/IP packets that are being sent out of the internal network are examined via a router, firewall, or similar edge device.
+
+TCP/IP stack fingerprinting is the passive collection of configuration attributes from a remote device during standard layer 4 network communications.
+
+TCP is a member of Telangana Rashtra Sadhana Front.
+
+TCP is a mild antiseptic, produced in France by Laboratoires Chemineau in Vouvray and sold in the United Kingdom by Omega Pharma.
+
+Tcpkill is a network utility program that can be used to kill connections to or from a particular host, network, port, or combination of all.
+
+TCPMP also has hardware accelerated playback for ATI and Intel 2700G mobiles, such as the Tapwave Zodiac and Dell Axim X50v/X51V. Development of the free version of the software was discontinued by CoreCodec in favor of the commercially licensed CorePlayer, though TCPMP is still regarded as one of the more versatile media players for PocketPC and Palm OS mobile devices.
+
+TCP offload engine or TOE is a technology used in network interface cards (NIC) to offload processing of the entire TCP/IP stack to the network controller.
+
+TCP Packet Driver is a networking API for MS-DOS, PC DOS, and later x86 DOS implementations such as DR-DOS, FreeDOS, etc.
+
+TCP reset attack, also known as "forged TCP resets", "spoofed TCP reset packets" or "TCP reset attacks", is a way to tamper and terminate the Internet connection by sending forged TCP reset packet.
+
+TC Press publishes more than 60 books a year and is dedicated to deepening the understanding and improving the practice of education.
+
+TC provides service to every province of Cambodia.
+
+TCP, RTR law drafts are proposed by a non registered group called Right to Recall Group.
+
+TCP, the main protocol used on the Internet, is a reliable unicast protocol.
+
+TCP Vegas is a TCP congestion avoidance algorithm that emphasizes packet delay, rather than packet loss, as a signal to help determine the rate at which to send packets.

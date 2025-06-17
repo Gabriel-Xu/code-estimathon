@@ -1,0 +1,165 @@
+IBM attorneys and executives in the end decided that the program does not violate the Lotus copyright.
+
+IBM began phasing out use of the Tivoli in 2013 and by 2016 had moved the portfolio products into a revised and rebranded hierarchy.
+
+IBM believed that some IBM PC clone makers such as Eagle Computer and Corona Data Systems similarly infringed on its copyright, and after Apple v. Franklin successfully forced them to stop using the BIOS.
+
+IBM BigFix provides system administrators with remote control, patch management, software distribution, operating system deployment, network access protection and hardware and software inventory functionality.
+
+IBM Blueworks Live is a business process modeler, belonging under the set of IBM SmartCloud applications.
+
+IBM bought the Lotus Corporation in 1995 and it became known as the Lotus Development division of IBM.
+
+IBM bought the Tivoli company and gave it the responsibility for systems management, both distributed and mainframe.
+
+IBM built a facility in Owego, New York to boost production capacity.
+
+IBM built only about 30 360/85 systems because of "a recession in progress".
+
+IBM Canada's head offices are currently located in Markham, Ontario and have been there since the early 1980s.
+
+IBM Canada's previous head office was located across the street at 3500 Steeles Avenue East (now Liberty Center, Markham).
+
+IBMC College is an American for-profit college with 3 campuses in northern Colorado.
+
+IBM Champions are individuals, non-IBMer and recognized professionals in the IBM community.
+
+IBM chose to design custom hybrid circuits using discrete, flip chip-mounted, glass-encapsulated transistors and diodes, with silk screened resistors on a ceramic substrate, forming an SLT module.
+
+IBM clones made at the time began using AT compatible designs, contributing to its popularity.
+
+IBM cloud computing is a set of cloud computing services for business offered by the information technology company IBM.
+
+IBM cloud includes infrastructure as a service (IaaS), software as a service (SaaS) and platform as a service (PaaS) offered through public, private and hybrid cloud delivery models, in addition to the components that make up those clouds.
+
+IBM Cloud Video, formerly Ustream, is an American live video streaming and video hosting company.
+
+IBM COBOL is the name of the COBOL compiler developed for IBM environments.
+
+IBM code page 1069 (CCSID 500) is an EBCDIC code page with full Latin-4-charset used in IBM mainframes.
+
+IBM code page 1069 (CCSID 500) is an EBCDIC code page with full Latin-6-charset used in IBM mainframes.
+
+IBM code page 10 (CCSID 10) is an EBCDIC code page used on IBM mainframes in Canada to support the English language.
+
+IBM code page 1166 (CCSID 1166) is an EBCDIC code page is a revision of EBCDIC 1154 to cover the Kazakh language.
+
+IBM code page 11 (CCSID 11) is an EBCDIC code page used on IBM mainframes in Canada to support the French language.
+
+IBM code page 12 (CCSID 12) is an EBCDIC code page used in IBM mainframes in Italy to support the Italian language.
+
+IBM code page 13 (CCSID 13) is an EBCDIC code page used in IBM mainframes in the Netherlands to support the Dutch language.
+
+IBM code page 15 (CCSID 15) is an EBCDIC code page used in IBM mainframes in Switzerland to support the French language.
+
+IBM code page 16 (CCSID 16) is an EBCDIC code page used in IBM mainframes in Switzerland to support the French language and the German language.
+
+IBM code page 17 (CCSID 17) is an EBCDIC code page used in IBM mainframes in Switzerland to support the German language.
+
+IBM code page 18 (CCSID 18) is an EBCDIC code page used in IBM mainframes in Sweden and Finland to support the Swedish language.
+
+IBM code page 19 (CCSID 19) is an EBCDIC code page used in IBM mainframes in Sweden and Finland to support the Swedish language.
+
+IBM code page 1 (CCSID 1) is an EBCDIC code page used in IBM mainframes in the United States.
+
+IBM code page 20 (CCSID 20) is an EBCDIC code page used in IBM mainframes in Demark and Norway to support the Danish language and the Norwegian language.
+
+IBM code page 21 (CCSID 21) is an EBCDIC code page used in IBM mainframes in Brazil to support the Portuguese language.
+
+IBM code page 22 (CCSID 22) is an EBCDIC code page used in IBM mainframes in Portugal to support the Portuguese language.
+
+IBM code page 23 (CCSID 23) is an EBCDIC code page used in IBM mainframes in the United Kingdom to support the English language.
+
+IBM code page 251 (CCSID 251) is an EBCDIC code page used in IBM mainframes in China.
+
+IBM code page 254 (CCSID 254) is an EBCDIC code page used in IBM mainframes in Hungary to support the Hungarian language.
+
+IBM code page 25 (CCSID 25) is an EBCDIC code page used on IBM mainframes in the Japan to support the Japanese language (Latin-script, but not Hiragana or Katakana).
+
+IBM code page 260 (CCSID 260) is an EBCDIC code page used on IBM mainframes.
+
+IBM code page 26 (CCSID 26) is an EBCDIC code page used on IBM mainframes in the Japan to support the Japanese language (Latin-script, but not Hiragana or Katakana).
+
+IBM code page 274 (CCSID 274) is an EBCDIC code page with full Latin-1-charset used in IBM mainframes.
+
+IBM code page 275 (CCSID 275) is an EBCDIC code page with full Latin-1-charset used in IBM mainframes.
+
+IBM code page 276 (CCSID 276) is an EBCDIC code page used on IBM mainframes in Canada to support the French language.
+
+IBM code page 279 (CCSID 279) is an EBCDIC code page used on IBM mainframes in France to support the French language.
+
+IBM code page 27 (CCSID 27) is an EBCDIC code page used on IBM mainframes in Greece.
+
+IBM code page 281 (CCSID 281) is an EBCDIC code page with full Latin-1-charset used in IBM mainframes.
+
+IBM code page 282 (CCSID 282) is an EBCDIC code page with full Latin-1-charset used in IBM mainframes.
+
+IBM code page 283 (CCSID 283) is an EBCDIC code page with full EBCDIC 256 charset used in IBM mainframes.
+
+IBM code page 286 (CCSID 286) is an EBCDIC code page used on IBM mainframes in Germany and Austria to support the German language.
+
+IBM code page 287 (CCSID 287) is an EBCDIC code page used on IBM mainframes in Denmark and Norway to support the Danish language and the Norwegian language.
+
+IBM code page 288 (CCSID 288) is an EBCDIC code page used on IBM mainframes in Sweden and Finland to support the Swedish language and the Finnish language.
+
+IBM code page 289 (CCSID 289) is an EBCDIC code page used on IBM mainframes in Spain to support the Spanish language.
+
+IBM code page 290 (CCSID 290) is an EBCDIC code page used in IBM mainframes in Japan.
+
+IBM code page 298 (CCSID 298) is an EBCDIC code page used in IBM mainframes in Japan.
+
+IBM code page 29 (CCSID 29) is an EBCDIC code page with full ASCII used in IBM mainframes in Iceland to support the Icelandic language.
+
+IBM code page 2 (CCSID 2) is an EBCDIC code page used in IBM mainframes in the United States.
+
+IBM code page 30 (CCSID 30) is an EBCDIC code page with full ASCII used in IBM mainframes s in Turkey to support the Turkish language.
+
+IBM code page 31 (CCSID 31) is an EBCDIC code page used in IBM mainframes in South Africa to support the Afrikaans language.
+
+IBM code page 320 (CCSID 320) is an EBCDIC code page used in IBM mainframes in Hungary to support the Hungarian language.
+
+IBM code page 321 (CCSID 321) is an EBCDIC code page with full ASCII used in IBM mainframes in the five countries of what was known as Yugoslavia to support the Croatian language, Serbian language, Bosnian language, and Slovenian language.
+
+IBM code page 322 (CCSID 322) is an EBCDIC code page used in IBM mainframes in Turkey to support the Turkish language.
+
+IBM code page 32 (CCSID 32) is an EBCDIC code page with used in IBM mainframes in the Czech Republic to support the Czech language.
+
+IBM code page 33 (CCSID 33) is an EBCDIC code page with used in IBM mainframes in the Czech Republic to support the Czech language.
+
+IBM code page 34 (CCSID 34) is an EBCDIC code page with used in IBM mainframes in Slovakia to support the Slovak language.
+
+IBM code page 352 (CCSID 352) is an EBCDIC code page used in IBM mainframes.
+
+IBM code page 35 (CCSID 35) is an EBCDIC code page used in IBM mainframes in Romania to support the Romanian language.
+
+IBM code page 36 (CCSID 36) is an EBCDIC code page used in IBM mainframes in Romania to support the Romanian language.
+
+IBM code page 39 (CCSID 39) is an EBCDIC code page with full ASCII used in IBM mainframes in the United Kingdom.
+
+IBM code page 3 (CCSID 3) is an EBCDIC code page used on IBM mainframes in the United States to support the English language.
+
+IBM code page 40 (CCSID 40) is an EBCDIC code page with full ASCII used in IBM mainframes in the United Kingdom.
+
+IBM code page 410 (CCSID 410) is an EBCDIC code page that supports Cyrillic used in IBM mainframes.
+
+IBM code page 423 is an EBCDIC code page with full Greek, French, and German support used in IBM mainframes.
+
+IBM code page 424 is an EBCDIC code page that supports Hebrew used in IBM mainframes.
+
+IBM code page 4 (CCSID 4) is an EBCDIC code page used on IBM mainframes in the United States to support the English language.
+
+IBM code page 5 (CCSID 5) is an EBCDIC code page used on IBM mainframes in the United States to support the English language.
+
+IBM code page 6 (CCSID 6) is an EBCDIC code page used on IBM mainframes in the Latin America to support the Spanish language.
+
+IBM code page 875 (CCSIDs 875, 4971, 9067) is an EBCDIC code page with full Greek-charset used in IBM mainframes.
+
+IBM code page 880 (CCSID 880) is an EBCDIC code page that supports Cyrillic used in IBM mainframes.
+
+IBM code page 905 (CCSID 905) is an EBCDIC code page with full Latin-3-charset used in IBM mainframes.
+
+IBM code page 936 should not be confused with the identically numbered Windows code page, which is a variant of the GBK encoding.
+
+IBM code page 936 was a character encoding for Simplified Chinese including 1880 UDC.
+
+IBM code page 949 (IBM-949) is IBM's PC Data KS code.

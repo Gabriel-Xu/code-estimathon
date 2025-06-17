@@ -1,0 +1,95 @@
+WASP-12b is an extrasolar planet orbiting the star WASP-12. It is said by NASA one of the hottest planet known, much hotter than Venus. It is extremely close to its star, about 2 million miles away from it. It is a gas giant and is bigger than Jupiter. The average temperaturethere can get up to 1500 degrees Celsius. For comparison, Mercury in our solar system's average temperature is around 427 degrees Celsius. WASP-12b is so close to its star, that the star pulls mass from the planet creating a comet-like trail behind it.
+
+Legendary PicturesLegendary Pictures, Inc. (also called Legendary Entertainment) is an American movie production company. The parent company is based in Burbank, California and was founded by Thomas Tull in 2000. In 2005 the company made a 40-picture agreement to co-produce and co-finance with Warner Bros.
+
+By 2011 the company was reported to have been valued at more than $1 billion. In September 2011, Chief Creative Officer Jon Jashni was appointed to the new position of President.
+
+In 2010, the company announced the launch of a comic book division called Legendary Comics, LLC. It is under the direction of editor-in-chief Bob Schreck. The first graphic novel published by the company was "Holy Terror" by Frank Miller, which was released in 2011.
+
+In 2011, the company announced the creation of Legendary Television, LLC. The division was headed by Jeremy Elice and a co-financing contract with Warner Bros. Television was signed. In 2012, Legendary decided to delay its expansion into television and shut down the division. The contract with Warner Bros. was ended and Elice left the company.
+
+Legendary Entertainment has co-produced 24 feature movies. The box office column shows the worldwide gross for the theatrical release of the movie in United States dollars.
+
+Blue Sky StudiosBlue Sky Studios was an American CGI-animation studio. It is owned by Pixar locating in Greenwich, Connecticut. In addition to their feature-length animated movies, Blue Sky has worked on many high-profile movies, primarily in combining live-action with computer-generated animation.
+
+Released moviesShort moviesOwnership of Blue Sky Studios was assumed by The Walt Disney Company as part of their 2019 acquisition of 21st Century Fox, which concluded on March 20, 2019. On March 21, Disney announced that Blue Sky Studios and its parent company 20th Century Fox Animation (now 20th Century Animation) would be integrated as units within the Walt Disney Studios with co-presidents Andrea Miloro and Robert Baird continuing to lead the studio, while reporting to Walt Disney Studios chairman Alan Horn. In July 2019, Miloro announced that she would be stepping down from her role as co-president, thus leaving Baird as sole president.
+
+In August 2019, former Walt Disney Animation Studios head Andrew Millstein was named as co-president of Blue Sky Studios alongside Baird, while Pixar Animation Studios president Jim Morris would also be taking a supervising role.
+
+On February 9, 2021, Disney announced that it was closing Blue Sky Studios in April 2021. The company explained that in light of the ongoing COVID-19 pandemic's continued economic impact on all of its businesses, it was no longer sustainable for them to run a third feature animation studio. In addition, production on a film adaptation of the webcomic "Nimona", originally scheduled to be released on January 14, 2022, was cancelled as a result of its closure. The studio's film library and intellectual properties are retained by Disney. Although Disney did not give an exact date as to when the studio would be closing down initially, former animator Rick Fournier confirmed on April 10 it was their last day of operation, three days after co-founder Chris Wedge released a farewell letter on social media.
+
+Blue Sky Studios' website redirects to Disney.
+
+com.
+
+Walt Disney Animation StudiosWalt Disney Animation Studios is an American animation studio headquartered in Burbank, California. It was started in 1923 under the name, Disney Brothers Cartoon Studio. In 1929 it re-established as Walt Disney Productions. In 1986, after Disney had moved into making mostly live-action movies, it was re-established as Walt Disney Feature Animation, taking on its current name in 2007. It has been known for making animated feature movies in association with Walt Disney Pictures.
+
+Walt Disney Animation Studios is headquartered in the Sorcerer's Hat building which was completed in 1995. It is in Burbank, California close to Walt Disney Studios. The Walt Disney Studios where its original animated studio was located. Satellite studios were around the world in locations like Paris, France, Tokyo, Japan and even at Disney's Hollywood Studios, one of the four theme parks in Walt Disney World, Florida. They were all closed down by 2004 and December 24, 2022 because the 2D movies which the satellite studios made were unsuccessful whatList of Disney charactersSince 1937, Walt Disney Animation Studios has produced 60 movies with Walt Disney Pictures. The first one, "Snow White and the Seven Dwarfs", was released in 1937. The newest one, "Encanto," was released in 2021, with their last released being "Wish" in 2023.
+
+This list includes the films made by Walt Disney Animation Studios.
+
+This does not include Disney's direct-to-video or television follow-up films produced by either Disney Television Animation or DisneyToon Studios.
+
+The animation studio is noted for creating a number of now-standard innovations in the animation industry, including:Among its significant achievements are:Oscilloscope LaboratoriesOscilloscope Laboratories is an independent movie distribution company. It was started by Beastie Boys member Adam Yauch and former THINKFilm executive David Fenkel. It has a recording studio and movie production facilities.
+
+Fenkel will be returning to the company according to a statement made by an Oscilloscope spokeswoman on May 4, 2012 following Yauch's death.
+
+All titles are given a number which goes to the spine number of the DVD (or for some titles DVD and Blu-ray)Relativity MediaRelativity Media (sometimes written as RelativityMedia and Relativity) is an American movie studio in West Hollywood, California. It buys, develops, produces, and distributes movies and produces television programming. It was founded in 2004 by Ryan Kavanaugh.
+
+On January 4, 2009, Relativity Media bought the genre label Rogue Pictures from Universal, for $150 million. On July 6, 2010, Relativity and Netflix announced a five-year-plus Pay-TV deal. The first two movies to stream on Netflix were "The Fighter" and "Skyline".
+
+On July 23, 2010 Relativity bought the 45-person marketing and distribution staff of Starz’ Overture Films. On May 20, 2012, it was reported that Relativity and EuropaCorp signed a co-production and co-financing deal on two movies and Relativity will distribute them in U.
+
+S. Relativity also has co-production deals with Atlas Entertainment and Virgin Produced.
+
+Text to speechText to speech (TTS) is the use of software to create a sound output in the form of a spoken voice. The program that is used by programs to change text on the page to an audio output of the spoken voice is normally a text to speech engine. Blind people, people who do not see well, and people with reading disabililties can rely on good text-to-speech systems. That way they can listen to pieces of the text. TTS engines are needed for an audio output of machine translation results.
+
+Up until about 2010, there was the analytic approach: This approach uses multiply steps to convert the text to speech. Usually, an input text is transformed into phonetic writing. This says how the words are pronounced, and not how they are written. In the phonetic writing, phonemes can be identified. The system can then produce speech by putting together prerecorded or synthesized diphones. A problem is to make the language flow sound natural, what linguists call prosody.
+
+As of 2022, deep learning is used. To get a good result, neural networks are trained with many good samples.
+
+Historically, the first systems for speech synthesis used formants. Industrial Systems today, mostly use signal processing.
+
+Long before there was electronic signal processing, people tried to build machines that were capable of producing human speech. Gerbert of Aurillac (the future Pope Sylvester II) is said to have constructed a talking head which was able to say yes, and no, in the year 1003. Albertus Mahnus (1198–1280) and Roger Bacon (1219–1294) are also said to have constructed machines, but no records survive. Christian Gottlieb Kratzenstein (1723-1795) built a machine in 1779, that was able to produce long vocals (a,e,i,o,u). He used modified organ pipes for his machine. The machine was called "speech organ". Wolfgang von Kempelen started to develop a speech machine. In 1791, he published a paper "Mechanismus der menschlichen Sprache nebst der Beschreibung seiner sprechenden Maschine" (Mechanism of human language, besides description of its speaking-machine). Like Kempele's machine it use a set of bellows to emulate the lungs. Unlike Katzensein, he only used a mechanism with a single pipe, which is more like the human vocal tract. Other than vocals, it could produce plosives, and some fricatives. Attached to these "vocal chords" was a formable leather tube. Von Kempelen wrote:"in einer Zeit von drei Wochen eine bewundernswerte Fertigkeit im Spielen erlangen, besonders wenn man sich auf die lateinische, französische oder italienische Sprache verlegt, denn die deutsche ist "[aufgrund der häufigen Konsonantenbündel]" um vieles schwerer." (gain an admirable skill in playing in a time of three weeks, especially if you go for Latin, French, or Italian, because German is much more difficult [due to the frequent consonant bundles].)
+
+In 1837, Charles Wheatsone built a speaking machine following this principle, a copy can be found in the Deutsche Museum.
+
+In 1857, Jospeh Faber built Euphonia, which also uses this principle.
+
+At the end of the 19th century, the focus changed: People no longer wanted to build copies of the vocal system, they wanted to simulate vocal space. Hermann von Helmholtz(1821-1895) used specially tuned forks to create vowels. The resonant frequencies are called formants. Combining different formants to generate speech was mainstream until the mid 1990s.
+
+In the 1930s, Bell Labs developed vocoder, a machine that used a keyboard to synthesize speech. People said it generated speech that was understandable. Homer Dudley improved the design to the Voder, and presented it at the 1939 New York World's Fair. Voder used electronic oscillators to create formant frequencies.
+
+In the late 1950s, computers were first used to generate speech. The first complete text-to-speech system using computers was completed in 1968.
+
+John Larry Kelly Jr. worked at Bell Labs at the time. He used an IBM 704 to make it sing the song Daisy Bell. Stanley Kubrick was so impressed that he integrated it into his movie .
+
+Up until about the millennium, the result of electronic speech synthesis was robot-like, and hard to understand, at times. Since then they are better to understand: the focus shifted from generating speech itself to recognizing the text, and putting together pre-recorded high-quality samples.
+
+Aristarchus of SamosAristarchus (310 BC – about 230 BC), was an ancient Greek astronomer and mathematician. His is the first known model that put the Sun at the center of the known universe with the Earth revolving around it (see Solar system).
+
+Aristarchus was influenced by Philolaus of Croton, but he identified the "central fire" with the Sun, and put the other planets in their correct order of distance around the Sun. His astronomical ideas were often rejected in favour of the geocentric theories of Aristotle and Ptolemy.
+
+His name is "Ἀρίσταρχος" in Greek letters, which transliterates to Aristarchos. He was born on the island of Samos, in the eastern Aegean Sea.
+
+Heliocentrism is the idea of the Sun at the centre. Though the original text has been lost, a reference in Archimedes' book "The Sand Reckoner" describes another work by Aristarchus in which he advanced the heliocentric model as an alternative hypothesis. Archimedes wrote:So Aristarchus believed the stars were very far away, which is an important step. Therefore, there was no observable parallax, that is, a movement of the stars relative to each other while the Earth moves around the Sun. The stars are much farther away than was generally assumed in ancient times; and the tiny amount of stellar parallax is only detectable with telescopes.
+
+The old geocentric model explained planetary parallax, and was assumed to be the reason why no stellar parallax was observed. Rejection of the heliocentric view was common, as the following passage from Plutarch suggests ("On the apparent face in the orb of the Moon"):The only other astronomer of antiquity who is known by name and who is known to have supported Aristarchus' heliocentric model was Seleucus, a Hellenistic astronomer who lived a century after Aristarchus.
+
+The heliocentric theory was successfully revived nearly 1800 years later by Copernicus, after which Johannes Kepler and Isaac Newton gave the theoretical explanation based on laws of physics, namely Kepler's laws for the motion of planets and Newton's laws on gravitational attraction and dynamics.
+
+The Vatican library has preserved two ancient manuscripts with estimates of the length of the year. The only ancient scientist listed for two different values is Aristarchus. Both are close to the values later used by Hipparchus and Ptolemy, and the precession indicated is almost precisely 1 degree per century, a value which is too low. 1 degree per century precession was used by all later astronomers until the Arabs. The correct value in Aristarchus's time was about 1.
+
+38 degrees per century.
+
+Abergavenny fireworks displayThe Abergavenny fireworks display is an annual organized fireworks display. It is held each year on Guy Fawkes Night (November 5) in Abergavenny, Wales.
+
+The event takes place in Belgrave Park. It has been running each year since about 1968.
+
+The event is run and organized by the local social networking group Abergavenny and District Round Table, which is one of the hundreds of branches in the UK of the Round Table (club). It is a non profit event with all proceeds being distributed to charity’s and good courses, primarily in and around the Abergavenny area. Some of the those to have benefited from monies raised from the Abergavenny fireworks display include: Abergavenny Scouts, Crickhowell Scouts, Jigsaw community project, Llanbedr Village Thai Boxing, Mardy Juniors Football, RTB Ebbw Vale Junior AFC Club, a fuller list is on the Abergavenny and District web site.
+
+The Abergavenny fireworks display was originally started to provide a display for the children’s home in c1965 it moved to its current location of Belgrave park in c1968 as the fireworks could be seen from the nearby Nevill hall hospital, the fireworks display has been put on every year since, up to the present.
+
+A competition is held with the help of the local schools to design a poster for the Abergavenny fireworks display. The posters are used as part of the advertising of the event. The 2011 winners were unveiled on the front page on the Abergavenny Chronicle. With the winners and their class mates receiving child entrance tickets to the fireworks display, and the school receiving a donation.
+
+Leszek Drogosz

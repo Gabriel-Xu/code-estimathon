@@ -1,0 +1,85 @@
+Nevertheless, Darwin's explanation of evolution was fundamentally correct. In contrast to Lamarck, Darwin's idea was that the giraffe's neck became longer because "those with longer necks survived better". These survivors passed their genes on, and in time the whole species got longer necks.
+
+Alfred Russel Wallace OM FRS (1823–1913) was a British naturalist, explorer, biologist, and social activist. He proposed a theory of natural selection at about the same time as Darwin. His idea was published in 1858 together with Charles Darwin's idea.
+
+An Austrian monk called Gregor Mendel (1822–1884) bred plants. In the mid-19th century, he discovered how traits were passed on from one generation to the next.
+
+He used peas for his experiments: some peas have white flowers and others have red ones. Some peas have green seeds and others have yellow seeds. Mendel used artificial pollination to breed the peas. His results are discussed further in Mendelian inheritance. Darwin thought that the inheritance from both parents blended together. Mendel proved that the genes from the two parents stay separate, and may be passed on unchanged to later generations.
+
+Mendel published his results in a journal that was not well-known, and his discoveries were overlooked. Around 1900, his work was rediscovered. Genes are bits of information made of DNA which work like a set of instructions. A set of genes are in every living cell. Together, genes organise the way an egg develops into an adult. With mammals, and many other living things, a copy of each gene comes from the father and another copy from the mother. Some living organisms, including some plants, only have one parent, so get all their genes from them. These genes produce the genetic differences that evolution acts on.
+
+Darwin's "On the Origin of Species" has two themes: the evidence for evolution, and his ideas on how evolution took place. This section deals with the second issue.
+
+The first two chapters of the "Origin" deal with variations in domesticated plants and animals, and variations in nature.
+
+All living things show variation. Every population which has been studied shows that animals and plants vary as much as humans do. This is a great fact of nature, and without it evolution would not occur. Darwin said that, just as man selects what he wants in his farm animals, so in nature the variations allow natural selection to work.
+
+The features of an individual are influenced by two things, heredity and environment. First, development is controlled by genes inherited from the parents. Second, living brings its own influences. Some things are entirely inherited, others partly, and some not inherited at all.
+
+The colour of eyes is entirely inherited; they are a genetic trait. Height or weight is only partly inherited, and language is not at all inherited. The fact that humans can speak is inherited, but what language is spoken depends on where a person lives and what they are taught. Another example: a person inherits a brain of somewhat variable capacity. What happens after birth depends on many things such as home environment, education, and other experiences. When a person is an adult, their brain is what their inheritance and life experience have made it."
+
+Evolution only concerns the traits which can be inherited", wholly or partly. The hereditary traits are passed on from one generation to the next through genes. A person's genes contain all the characteristics that they inherit from their parents. The accidents of life are not passed on. Each person lives a somewhat different life, which increases the differences.
+
+Organisms in any population vary in reproductive success. From the point of view of evolution, 'reproductive success' means the total number of offspring which live to breed and leave offspring themselves.
+
+Variation can only affect future generations if it is inherited. Because of the work of Gregor Mendel, we know that much variation is inherited. Mendel's 'factors' are now called genes. Research has shown that "almost every individual in a sexually reproducing species is genetically unique".
+
+Genetic variation is increased by gene mutations. DNA does not always reproduce exactly. Rare changes occur, and these changes can be inherited. Many changes in DNA cause faults; some are neutral or even advantageous. This gives rise to genetic variation, which is the seed corn of evolution. Sexual reproduction, by the crossing over of chromosomes during meiosis, spreads variation through the population. Other events, like natural selection and drift, reduce variation. A population in the wild always has variation, but the details are always changing.
+
+Evolution mainly works by natural selection. What does this mean? Animals and plants which are best suited to their environment will, on average, survive better. There is a struggle for existence. Those who survive will reproduce and create the next generation. Their genes will be passed on, and the genes of those who did not reproduce will not. This is the basic mechanism which changes the characteristics of a population and causes evolution.
+
+Natural selection explains why living organisms change over time, and explains the anatomy, functions, and behavior that they have. It works like this:There are now many cases where natural selection has been proved to occur in wild populations. Almost every case investigated of camouflage, mimicry and polymorphism has shown strong effects of selection.
+
+The force of selection can be much stronger than was thought by the early population geneticists. The resistance to pesticides has grown quickly. Resistance to "warfarin" in Norway rats ("Rattus norvegicus") grew rapidly because those that survived made up more and more of the population. Research showed that, in the absence of "warfarin", the resistant homozygote was at a 54% disadvantage to the normal wild type homozygote. This great disadvantage was quickly overcome by the selection for "warfarin" resistance.
+
+Mammals normally cannot drink milk as adults, but humans are an exception. Milk is digested by the enzyme lactase, which switches off as mammals stop taking milk from their mothers. The human ability to drink milk during adult life is supported by a lactase mutation which prevents this switch-off. Human populations have a high proportion of this mutation wherever milk is important in the diet. The spread of this 'milk tolerance' is promoted by natural selection, because it helps people survive where milk is available. Genetic studies suggest that the oldest mutations causing lactase persistence only reached high levels in human populations in the last ten thousand years. Therefore, lactase persistence is often cited as an example of recent human evolution. As lactase persistence is genetic, but animal husbandry a cultural trait, that is gene–culture coevolution.
+
+Adaptation is one of the basic phenomena of biology. Through the process of adaptation, an organism becomes better suited to its habitat.
+
+Adaptation is one of the two main processes that explain the diverse species we see in biology. The other is speciation (species-splitting or cladogenesis). A favourite example used today to study the interplay of adaptation and speciation is the evolution of cichlid fish in African rivers and lakes.
+
+When people speak about adaptation they often mean something which helps an animal or plant survive. One of the most widespread adaptations in animals is the evolution of the eye. Another example is the adaptation of modern horses' teeth to grinding grass. Camouflage is another adaptation; so is mimicry. The better-adapted animals are the most likely to survive and reproduce successfully (natural selection).
+
+An internal parasite (such as a fluke) is a good example: it has a very simple bodily structure, but still the organism is highly adapted to its particular environment. From this we see that adaptation is not just a matter of visible traits: in such parasites, critical adaptations take place in the life cycle, which is often quite complex.
+
+Not all features of an organism are adaptations. Adaptations tend to reflect the past life of a species. If a species has recently changed its life style, a once valuable adaptation may become useless, and eventually become a dwindling vestige.
+
+Adaptations are never perfect. There are always tradeoffs between the various functions and structures in a body. It is the organism as a whole that lives and reproduces, therefore it is the complete set of adaptations that is passed on to future generations.
+
+In populations, there are forces that add variation to the population (such as mutation), and forces that remove it. Genetic drift is the name given to random changes which remove variation from a population. Genetic drift gets rid of variation at the rate of 1/(2N) where N = population size. It is therefore "a very weak evolutionary force in large populations".
+
+Genetic drift explains how random chance can affect evolution in surprisingly big ways, but only when populations are quite small. Overall, its action is to make the individuals more similar to each other, and hence more vulnerable to disease or to chance events in their environment.
+
+How species form is a major part of evolutionary biology. Darwin interpreted 'evolution' (a word he did not use at first) as being about speciation. That is why he called his famous book "On the Origin of Species".
+
+Darwin thought most species arose directly from pre-existing species. This is called "anagenesis": new species by older species changing. Now we think most species arise by previous species splitting: "cladogenesis".
+
+Two groups that start the same can become very different if they live in different places. When a species gets split into two geographical regions, a process starts. Each adapts to its own situation. After a while, individuals from one group can no longer reproduce with the other group. Two separate species have evolved from one.
+
+A German explorer, Moritz Wagner, during his three years in Algeria in the 1830s, studied flightless beetles. Each species is confined to a stretch of the north coast between rivers which descend from the Atlas mountains to the Mediterranean. As soon as one crosses a river, a different but closely related species appears. He wrote later:This was an early account of the importance of geographical separation. Another biologist who thought geographical separation was critical was Ernst Mayr.
+
+One example of natural speciation is the three-spined stickleback, a sea fish that, after the last ice age, invaded freshwater, and set up colonies in isolated lakes and streams. Over about 10,000 generations, the sticklebacks show great differences, including variations in fins, changes in the number or size of their bony plates, variable jaw structure, and colour differences.
+
+The wombats of Australia fall into two main groups, common wombats and hairy-nosed wombats. The two types look very similar, apart from the hairiness of their noses. However, they are adapted to different environments. Common wombats live in forested areas and eat mostly green food with lots of moisture. They often feed in the daytime. Hairy-nosed wombats live on hot dry plains where they eat dry grass with very little water or nutrition in it. Their metabolic rate is slow and they sleep most of the day underground.
+
+When two groups that started the same become different enough, then they become two different species. Part of the theory of evolution is that all living things started the same, but then split into different groups over billions of years.
+
+This was an important movement in evolutionary biology, which started in the 1930s and finished in the 1950s. It has been updated regularly ever since.
+
+The synthesis explains how the ideas of Charles Darwin fit with the discoveries of Gregor Mendel, who found out how we inherit our genes. The modern synthesis brought Darwin's idea up to date. It bridged the gap between different types of biologists: geneticists, naturalists, and palaeontologists.
+
+When the theory of evolution was developed, it was not clear that natural selection and genetics worked together. But Ronald Fisher showed that natural selection would work to change species. Sewall Wright explained genetic drift in 1931.
+
+Co-evolution is where the existence of one species is tightly bound up with the life of one or more other species.
+
+New or 'improved' adaptations which occur in one species are often followed by the appearance and spread of related features in the other species. The life and death of living things is intimately connected, not just with the physical environment, but with the life of other species.
+
+These relationships may continue for millions of years, as it has in the pollination of flowering plants by insects. The gut contents, wing structures, and mouthparts of fossilized beetles and flies suggest that they acted as early pollinators. The association between beetles and angiosperms during the Lower Cretaceous period led to parallel radiations of angiosperms and insects into the late Cretaceous. The evolution of nectaries in Upper Cretaceous flowers signals the beginning of the mutualism between hymenoptera and angiosperms.
+
+Charles Darwin was the first to use this metaphor in biology. The "evolutionary tree" shows the relationships among various biological groups. It includes data from DNA, RNA and protein analysis. Tree of life work is a product of traditional comparative anatomy, and modern molecular evolution and molecular clock research.
+
+The major figure in this work is Carl Woese, who defined the Archaea, the third domain (or kingdom) of life. Below is a simplified version of present-day understanding.
+
+Macroevolution: the study of changes above the species level, and how they take place. The basic data for such a study are fossils (palaeontology) and the reconstruction of ancient environments. Some subjects whose study falls within the realm of macroevolution:It is a term of convenience: for most biologists it does not suggest any change in the process of evolution. For some palaeontologists, what they see in the fossil record cannot be explained just by the gradualist evolutionary synthesis. They are in the minority.
+
+Altruism – the willingness of some to sacrifice themselves for others – is widespread in social animals. As explained above, the next generation can only come from those who survive and reproduce. Some biologists have thought that this meant altruism could not evolve by the normal process of selection. Instead a process called "group selection" was proposed. Group selection refers to the idea that alleles can become fixed or spread in a population because of the benefits they bestow on groups, regardless of the alleles' effect on the fitness of individuals within that group.

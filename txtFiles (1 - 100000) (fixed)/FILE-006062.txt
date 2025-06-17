@@ -1,0 +1,81 @@
+D. Separation of oil and water (in this case, water and liquid wax) is caused by a tension in the surface between dissimilar liquids. This type of surface tension is called "interface tension", but its physics are the same.
+
+E. Tears of wine is the formation of drops and rivulets on the side of a glass containing an alcoholic beverage. Its cause is a complex interaction between the differing surface tensions of water and ethanol. It is induced by a combination of surface tension modification of water by ethanol together with ethanol evaporating faster than water.
+
+Surface tension is visible in other common phenomena, especially when surfactants are used to decrease it:Surface tension, represented by the symbol "γ" is defined as the force along a line of unit length, where the force is parallel to the surface but perpendicular to the line. One way to picture this is to imagine a flat soap film bounded on one side by a taut thread of length, "L". The thread will be pulled toward the interior of the film by a force equal to 2"formula_1L" (the factor of 2 is because the soap film has two sides, hence two surfaces). Surface tension is therefore measured in forces per unit length. Its SI unit is newton per meter but the cgs unit of dyne per cm is also used. One dyn/cm corresponds to 0.
+
+001 N/m.
+
+An equivalent definition, one that is useful in thermodynamics, is work done per unit area. As such, in order to increase the surface area of a mass of liquid by an amount, "δA", a quantity of work, "formula_1δA", is needed. This work is stored as potential energy. Consequently surface tension can be also measured in SI system as joules per square meter and in the cgs system as ergs per cm. Since mechanical systems try to find a state of minimum potential energy, a free droplet of liquid naturally assumes a spherical shape, which has the minimum surface area for a given volume.
+
+The equivalence of measurement of energy per unit area to force per unit length can be proven by dimensional analysis.
+
+If no force acts normal to a tensioned surface, the surface must remain flat. But if the pressure on one side of the surface differs from pressure on the other side, the pressure difference times surface area results in a normal force. In order for the surface tension forces to cancel the force due to pressure, the surface must be curved. The diagram shows how surface curvature of a tiny patch of surface leads to a net component of surface tension forces acting normal to the center of the patch. When all the forces are balanced, the resulting equation is known as the Young–Laplace equation:where:The quantity in parentheses on the right hand side is in fact (twice) the mean curvature of the surface (depending on normalization).
+
+Solutions to this equation determine the shape of water drops, puddles, menisci, soap bubbles, and all other shapes determined by surface tension. (Another example is the shape of the impressions that a water strider's feet make on the surface of a pond).
+
+The table below shows how the internal pressure of a water droplet increases with decreasing radius. For not very small drops the effect is subtle, but the pressure difference becomes enormous when the drop sizes approach the molecular size. (In the limit of a single molecule the concept becomes meaningless.)
+
+It is hard to find the shape of the minimal surface bounded by some arbitrary shaped frame using just mathematics. Yet by fashioning the frame out of wire and dipping it in soap-solution, a locally minimal surface will appear in the resulting soap-film within seconds.
+
+The reason for this is that the pressure difference across a fluid interface is proportional to the mean curvature, as seen in the Young-Laplace equation. For an open soap film, the pressure difference is zero, hence the mean curvature is zero, and minimal surfaces have the property of zero mean curvature.
+
+The surface of any liquid is an interface between that liquid and some other medium. The top surface of a pond, for example, is an interface between the pond water and the air. Surface tension, then, is not a property of the liquid alone, but a property of the liquid's interface with another medium. If a liquid is in a container, then besides the liquid/air interface at its top surface, there is also an interface between the liquid and the walls of the container. The surface tension between the liquid and air is usually different (greater than) its surface tension with the walls of a container. Where the two surfaces meet, the geometry will balance all forces.
+
+Where the two surfaces meet, they form a contact angle, formula_5, which is the angle the tangent to the surface makes with the solid surface. The diagram to the right shows two examples. Tension forces are shown for the liquid-air interface, the liquid-solid interface, and the solid-air interface. The example on the left is where the difference between the liquid-solid and solid-air surface tension, formula_6, is less than the liquid-air surface tension, formula_7, but is still positive, that isIn the diagram, both the vertical and horizontal forces must cancel exactly at the contact point, known as equilibrium. The horizontal component of formula_9 is canceled by the adhesive force, formula_10.
+
+The more important balance of forces, though, is in the vertical direction. The vertical component of formula_9 must exactly cancel the force, formula_13.
+
+Since the forces are in direct proportion to their respective surface tensions, we also have:whereThis means that although the difference between the liquid-solid and solid-air surface tension, formula_20, is difficult to measure directly, it can be inferred from the liquid-air surface tension, formula_17, and the equilibrium contact angle, formula_5, which is a function of the easily measurable advancing and receding contact angles (see main article contact angle).
+
+This same relationship exists in the diagram on the right. But in this case we see that because the contact angle is less than 90°, the liquid-solid/solid-air surface tension difference must be negative:Observe that in the special case of a water-silver interface where the contact angle is equal to 90°, the liquid-solid/solid-air surface tension difference is exactly zero.
+
+Another special case is where the contact angle is exactly 180°. Water with specially prepared Teflon approaches this. Contact angle of 180° occurs when the liquid-solid surface tension is exactly equal to the liquid-air surface tension.
+
+Because surface tension manifests itself in various effects, it offers a number of paths to its measurement. Which method is optimal depends upon the nature of the liquid being measured, the conditions under which its tension is to be measured, and the stability of its surface when it is deformed.
+
+An old style mercury barometer consists of a vertical glass tube about 1 cm in diameter partially filled with mercury, and with a vacuum (called Torricelli's vacuum) in the unfilled volume (see diagram to the right). Notice that the mercury level at the center of the tube is higher than at the edges, making the upper surface of the mercury dome-shaped. The center of mass of the entire column of mercury would be slightly lower if the top surface of the mercury were flat over the entire crossection of the tube. But the dome-shaped top gives slightly less surface area to the entire mass of mercury. Again the two effects combine to minimize the total potential energy. Such a surface shape is known as a convex meniscus.
+
+We consider the surface area of the entire mass of mercury, including the part of the surface that is in contact with the glass, because mercury does not adhere at all to glass. So the surface tension of the mercury acts over its entire surface area, including where it is in contact with the glass. If instead of glass, the tube were made out of copper, the situation would be very different. Mercury aggressively adheres to copper. So in a copper tube, the level of mercury at the center of the tube will be lower than at the edges (that is, it would be a concave meniscus). In a situation where the liquid adheres to the walls of its container, we consider the part of the fluid's surface area that is in contact with the container to have "negative" surface tension. The fluid then works to maximize the contact surface area. So in this case increasing the area in contact with the container decreases rather than increases the potential energy. That decrease is enough to compensate for the increased potential energy associated with lifting the fluid near the walls of the container.
+
+If a tube is sufficiently narrow and the liquid adhesion to its walls is sufficiently strong, surface tension can draw liquid up the tube in a phenomenon known as capillary action. The height the column is lifted to is given by:wherePouring mercury onto a horizontal flat sheet of glass results in a puddle that has a perceptible thickness. The puddle will spread out only to the point where it is a little under half a centimeter thick, and no thinner. Again this is due to the action of mercury's strong surface tension. The liquid mass flattens out because that brings as much of the mercury to as low a level as possible, but the surface tension, at the same time, is acting to reduce the total surface area. The result is the compromise of a puddle of a nearly fixed thickness.
+
+The same surface tension demonstration can be done with water, lime water or even saline, but only if the liquid does not adhere to the flat surface material. Wax is such a substance. Water poured onto a smooth, flat, horizontal wax surface, say a waxed sheet of glass, will behave similarly to the mercury poured onto glass.
+
+The thickness of a puddle of liquid on a surface whose contact angle is 180° is given by:whereIn reality, the thicknesses of the puddles will be slightly less than what is predicted by the above formula because very few surfaces have a contact angle of 180° with any liquid. When the contact angle is less than 180°, the thickness is given by:For mercury on glass, γ = 487 dyn/cm, ρ = 13.
+
+5 g/cm and θ = 140°, which gives h = 0.
+
+36 cm. For water on paraffin at 25 °C, γ = 72 dyn/cm, ρ = 1.
+
+0 g/cm, and θ = 107° which gives h = 0.
+
+44 cm.
+
+The formula also predicts that when the contact angle is 0°, the liquid will spread out into a micro-thin layer over the surface. Such a surface is said to be fully wettable by the liquid.
+
+In day-to-day life we all observe that a stream of water emerging from a faucet will break up into droplets, no matter how smoothly the stream is emitted from the faucet. This is due to a phenomenon called the Plateau–Rayleigh instability, which is entirely a consequence of the effects of surface tension.
+
+The explanation of this instability begins with the existence of tiny perturbations in the stream. These are always present, no matter how smooth the stream is. If the perturbations are resolved into sinusoidal components, we find that some components grow with time while others decay with time. Among those that grow with time, some grow at faster rates than others. Whether a component decays or grows, and how fast it grows is entirely a function of its wave number (a measure of how many peaks and troughs per centimeter) and the radii of the original cylindrical stream.
+
+The Suite Life on DeckThe Suite Life on Deck was an American television series on Disney Channel. It premiered on September 26, 2008. It is a sequel to "The Suite Life of Zack and Cody". The series is about twin brothers Zack and Cody Martin and hotel heiress London Tipton in a new setting, the SS "Tipton". The group goes to classes at a school on the boat that is called "Seven Seas High". On the boat, they meet Bailey Pickett. Mr. Moseby manages the ship. The ship travels around the world to Italy, Greece, India, Sweden and the United Kingdom. In the places where the ship travels, the characters experience different cultures, adventures, and situations.
+
+The show's first episode premiered on the Disney Channel in the US on September 26, 2008. Around 5.
+
+7 million people watched it on the night of its premiere.. The series premiere in Canada was also the most watched series premiere on Family channel. In December 2008, Business Wire reported that the show was 2008's #1 scripted television series for children between the ages 6 to 11 and older children between the ages 9 to 14, beating the older series "Hannah Montana" and "Wizards of Waverly Place" in the ratings.<
+
+ref name="Disney Channel/DisneyChannel.
+
+com Highlights For 2008"></ref> The show was in the #1 spot for the best rated children's television series for many months. The show has been one of the best 4 live-action television series for many months. Since then, “The Suite Life on Deck” had a large lead in the time slot (Friday 8:00 p.
+
+m.), ranking as TV's #1 program among the important children's age groups. The series is also #1 in total viewers on all cable, doing better than #2 rank (Fox News and Nickelodeon) by 800,000 more viewers.
+
+As of August 2009, the highest rated episode of "The Suite Life on Deck" was "Double-Crossed," the second part of "Wizards On Deck with Hannah Montana", three episodes where guest stars from "Wizards of Waverly Place" and "Hannah Montana" came onto the show. It premiered on July 17, 2009 on Disney Channel. The special episode was viewed by more than 10.
+
+6 million people. It is one of the highest-rated episodes for a Disney Channel original series.
+
+In early October 2009, the one hour special episode "Lost at Sea" became the most watched episode of the series. It had 7.
+
+6 million total viewers. In 2009, the series was the most watched scripted series in the children and older children group of viewers (6-14). The series second season's ratings were 25% higher than the show's season one ratings. The second season has averaged around 5.
+
+1 million viewers.

@@ -1,0 +1,67 @@
+Structured intermittent therapy (SIT) was coined in early 2000 by Mark Dybul, Anthony Fauci, and other research scientists from the National Institute of Health, as a form of reduced treatment for patients with HIV.
+
+Structured languages exist which are not free-form, such as ABC, Curry, Haskell, Python and others.
+
+Structured light is the process of projecting a known pattern (often grids or horizontal bars) on to a scene.
+
+Structured light is used by a number of police forces for the purpose of photographing fingerprints in a 3D scene.
+
+Structured listings intended for web crawlers such as search engines.
+
+Structured methods of collaboration encourage introspection of behavior and communication.
+
+Structured packing is formed from corrugated sheets of perforated embossed metal, plastic (including PTFE) or wire gauze.
+
+Structured packings typically consist of thin corrugated metal plates or gauzes arranged in a way that force fluids to take complicated paths through the column, thereby creating a large surface area for contact between different phases.
+
+Structured Product Labeling (SPL) is a Health Level Seven International (HL7) standard which defines the content of human prescription drug labeling in an XML format.
+
+Structured products can be used as an alternative to a direct investment, as part of the asset allocation process to reduce risk exposure of a portfolio, or to utilize the current market trend.
+
+Structured Products (closed ended investment funds) frequently use high distributions, that include returns of capital, as a promotional tool.
+
+Structured programming is a programming paradigm aimed at improving the clarity, quality, and development time of a computer program by making extensive use of the structured control flow constructs of selection (if/then/else) and repetition (while and for), block structures, and subroutines in contrast to using simple tests and jumps such as the go to statement, which can lead to "spaghetti code" that is potentially difficult to follow and maintain.
+
+Structured programming techniques have been developed to ensure correct processing of control breaks in languages such as COBOL and to ensure that conditions such as empty input files and sequence errors are handled properly.
+
+Structured repeatable deployments are also prime candidates for automation which drives quality and efficiency.
+
+Structured sales are an alternative to a section 1031 exchange.
+
+Structured sales work well for sellers who want to create a continuing stream of income without management worries.
+
+Structured settlement payments are sometimes called periodical payments, and when incorporated into a trial judgment may be called a "structured judgment".
+
+Structured settlements are now often used in product liability and pharmaceutical injury cases (such as litigation involving birth defects from Thalidomide).
+
+Structured settlements have become part of the statutory tort law of several common law countries including Australia, Canada, England and the United States.
+
+Structured settlements may include income tax and spendthrift provisions.
+
+Structured settlements provide for future periodic payments, instead of a one time cash payment.
+
+Structured settlements were first utilized in Canada as part of the settlement of claims made on behalf of children affected by Thalidomide.
+
+Structured storage is computer storage for structured data, often in the form of a distributed database.
+
+Structured systems analysis and design method (SSADM), originally released as methodology, is a systems approach to the analysis and design of information systems.
+
+Structured tests have longer stems that lead respondents to more specific types of responses; less structured tests provide shorter stems, which produce a wider variety of responses.
+
+Structured text, abbreviated as ST or STX, is one of the five languages supported by the IEC 61131-3 standard, designed for programmable logic controllers (PLCs).
+
+Structured triglycerides are achieved through an enzymatic process using vegetable oils.
+
+Structured types are supported to varying degrees in Oracle database, IBM DB2, PostgreSQL and Microsoft SQL Server, although the latter only allows structured types defined in CLR.
+
+Structured, unstructured, and hybrid grids Flow solution data, which may be nodal, cell-centered, face-centered, or edge-centered Multizone interface connectivity, both abutting and overset Boundary conditions Flow equation descriptions, including the equation of state, viscosity and thermal conductivity models, turbulence models, multi-species chemistry models, and electromagnetics Time-dependent flow, including moving and deforming grids Dimensional units and nondimensionalization information Reference states Convergence history Association to CAD geometry definitions User-defined dataMuch of the standard and the software is applicable to computational field physics in general.
+
+Structured What If Technique (SWIFT) is a prospective hazards analysis method that uses structured brainstorming with guide words and prompts to identify risks, with the aim of being quicker than more intensive methods like Failure mode and effects analysis (FMEA).
+
+Structured writing is a form of technical writing that uses and creates structured documents.
+
+Structure Film's first full-length feature is The Immortalists (2014), following short films Lithium (2014) and DeExtinction (2014).
+
+Structure Films is an American documentary film production company with a focus on science, health, information, and technology.
+
+Structure fires, some caused by electrical shorts or by arson, were common in the late 19th and early 20th centuries.

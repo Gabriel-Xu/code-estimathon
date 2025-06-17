@@ -1,0 +1,99 @@
+The IEEE 802.
+
+1X standard uses the term "supplicant" to refer either to hardware or to software.
+
+The IEEE 802.
+
+21 refers to Media Independent Handoff (MIH) and is an IEEE standard published in 2008.
+
+The IEEE 802.
+
+21 working group started work in March 2004.
+
+The IEEE 802.
+
+2 protocol at the Logical Link Control sublayer of the data link layer may provide both connectionless and connection-oriented services.
+
+The IEEE 802.
+
+3 Ethernet Working Group initiated a standards process with the creation of an EPoC Study Group in November 2011.
+
+The IEEE 802.
+
+4 Working Group has disbanded and the standard has been withdrawn by the IEEE.
+
+The IEEE Aerospace and Electronic Systems Society (AESS) is a society of the IEEE that focuses on the advancement of integrated electronic systems and large-scale integrated interoperable systems.
+
+The IEEE also publishes more than 750 conference proceedings every year.
+
+The IEEE Andrew S. Grove Award is a Technical Field Award presented by the IEEE for outstanding contributions to solid-state devices and technology.
+
+The IEEE Annals of the History of Computing is a quarterly peer-reviewed academic journal published by the IEEE Computer Society.
+
+The IEEE Antennas and Propagation Society (AP-S) is a society of the IEEE.
+
+The IEEE Biomedical Engineering Award is a Technical Field Award of the IEEE given annually for outstanding contributions to the field of biomedical engineering.
+
+The IEEE Biometrics Council is one of seven councils of the IEEE.
+
+The IEEE Board of Directors established the award in 1999.
+
+The IEEE Centennial Medal was a medal minted and awarded in 1984 to persons deserving of special recognition for extraordinary achievement to celebrate the Centennial of the founding of the Institute of Electrical and Electronics Engineers (IEEE) in 1884.
+
+The IEEE Charles Proteus Steinmetz Award is a technical field award given to an individual by the Institute of Electrical and Electronics Engineers (IEEE), for major contributions to standardization within the field of electrical and electronics engineering.
+
+The IEEE Cledo Brunetti Award is an award is presented for outstanding contributions to nanotechnology and miniaturization in the electronics arts.
+
+The IEEE Communications Magazine is a monthly magazine published by the IEEE Communications Society dealing with all areas of communications including light-wave telecommunications, high-speed data communications, personal communications systems (PCS), ISDN, and more.
+
+The IEEE Communications Society (ComSoc) promotes the advancement of science, technology and applications in communications and related disciplines.
+
+The IEEE Communications Society is a professional society of the IEEE.
+
+The IEEE Computational Intelligence Society is a professional society of the Institute of Electrical and Electronics Engineers (IEEE) focussing on "the theory, design, application, and development of biologically and linguistically motivated computational paradigms emphasizing neural networks, connectionist systems, genetic algorithms, evolutionary programming, fuzzy systems, and hybrid intelligent systems in which these paradigms are contained".
+
+The IEEE Computational Intelligence Society recognized Natural Selection, Inc. with its inaugural Outstanding Organization Award in 2011.
+
+The IEEE Computer Society is also a member organization of the Federation of Enterprise Architecture Professional Organizations (a worldwide association of professional organizations which have come together to provide a forum to standardize, professionalize, and otherwise advance the discipline of Enterprise Architecture).
+
+The IEEE Computer Society's annual "Top Picks from Computer Architecture Conferences" has recognized his work on microprocessor fault tolerance and his work on multi-core computation for relevance and significance to the field.
+
+The IEEE Computer Society Technical Committee sponsored the LCN since 1979.
+
+LCN has grown to be a premier conferences on theoretical and practical aspects of computer networking and is ranked as an A conference according to the CORE Rankings Portal in 2017.
+
+The IEEE Computer Society (with over 85000 members from every field of computing) is "dedicated to advancing the theory, practice, and application of computer and information processing technology."
+
+The IEEE Conference on Computer Communications (INFOCOM) addresses key topics and issues related to computer communications, with emphasis on traffic management and protocols for both wired and wireless networks.
+
+The IEEE Congress on Evolutionary Computation (CEC) is one of the largest and most important conferences within Evolutionary computation (EC), the other conferences of similar importance being Genetic and Evolutionary Computation Conference (GECCO), Parallel Problem Solving from Nature (PPSN) and European Conference on Genetic Programming (EuroGP).
+
+The IEEE Consumer Electronics Society (CES) is a professional society of the IEEE that focuses on the "theory and practice of Electronic Engineering and of the allied arts and sciences with respect to the field of Consumer Electronics and the maintenance of a high professional standing among its members".
+
+The IEEE Control Systems Award is a technical field award given to an individual by the Institute of Electrical and Electronics Engineers (IEEE) "for outstanding contributions to control systems engineering, science or technology".
+
+The IEEE Daniel E. Noble Award is a Technical Field Award of the IEEE for contributions to emerging technologies.
+
+The IEEE Dielectrics and Electrical Insulation Society (DEIS) is a professional society of the IEEE.
+
+The IEEE does not have the authority to replicate the registration process in its complementary environment.
+
+The IEEE Donald G. Fink Prize Paper Award was established in 1979 by the Board of Directors of the Institute of Electrical and Electronics Engineers (IEEE) in honor of Donald G. Fink.
+
+The IEEE Donald O. Pederson Award in Solid-State Circuits is a Technical Field Award of the Institute of Electrical and Electronics Engineers (IEEE).
+
+The IEEE Education Society (EdSoc) is a society of the Institute of Electrical and Electronics Engineers (IEEE), focused on the theory and practice of education and educational technology needed to deliver effectively domain knowledge in the fields of interest of IEEE.
+
+The IEEE Electromagnetic Compatibility Society (EMCS) is an organizational unit and professional society of academic professors and applied engineers with a common interest, affiliated with the IEEE.
+
+The IEEE Electron Devices Society is a professional society of the IEEE.
+
+The IEEE Emanuel R. Piore Award is a Technical Field Award given each year by the IEEE to an individual or team of two people who have made outstanding contributions to information processing systems in relation to computer science.
+
+The IEEE Engineering in Medicine and Biology Society (EMBS) is an IEEE group dedicated to the study of Biomedical Engineering.
+
+The IEEE Eric E. Sumner Award is a Technical Field Award of the IEEE.
+
+The IEEE formerly designated this standard as 1003.
+
+1.

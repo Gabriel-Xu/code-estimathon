@@ -1,0 +1,193 @@
+From 1859, when his father died, he was first in line to the Swedish throne after his oldest brother King Charles, who then had no male heirs (his son had died in infancy in 1854). His middle brother Gustaf had died in 1852.
+
+He succeeded his brother Charles XV and IV on 18 September 1872, and was crowned as king of Norway in the Nidaros Cathedral in Trondheim on 18 July 1873. At the accession he adopted as his motto "Brödrafolkens väl" / "Broderfolkenes Vel" ("The Welfare of the Brother Peoples"). While the King and the Royal Court resided mostly in Sweden, Oscar made the effort of learning to be fluent in Norwegian and from the very beginning he realized the essential difficulties in the maintenance of the union between the two countries.
+
+The political events which led up to the peaceful dissolution of the union between Norway and Sweden in 1905 could hardly have been attained but for the tact and patience of the king himself. He was dethroned on 7 June 1905 by the Norwegian Parliament and renounced the Norwegian throne on 26 October.
+
+On 6 June 1857 he married in Wiesbaden-Biebrich, Germany, Princess Sophia Wilhelmina, youngest daughter of Duke William of Nassau.
+
+His health declined, indeed, to permit any prince of his house to become king of Norway, but better relations between the two countries were restored before his death in Stockholm on 8 December 1907 from unknown causes.
+
+Rob CorddryRobert William "Rob" Corddry (born February 4, 1971) is an American movie, television, voice actor, television director and producer, writer and comedian who is known for his roles in "Hot Tub Time Machine" and in "Childrens Hospital". He has won an Emmy Award in 2012 for "Children Hospital".
+
+Corddry was born on February 4, 1971 in Weymouth, Massachusetts. He studied at Weymouth North High School and at University of Massachusetts Amherst.
+
+Malayalam WikipediaThe Malayalam Wikipedia () is the Malayalam language edition of Wikipedia, a free and publicly editable online encyclopedia. It was launched on December 21, 2002. Now this project is the leading Wikipedia among other South East Asian language Wikipedias in quality. It has grown to be a wiki containing more than 31,000 articles .
+
+The Malayalam language Wikipedia has been available in the wikipedia.
+
+org domain since 21 December 2002. A user had taken the initial tasks for it. After its creation he was the key person for the next 2 years. Almost all the early users of Malayalam Wikipedia were Malayalees (speakers of the Malayalam language). The growth of the Wikipedia during these times was very slow due to technical issues such as browser problems, font problems, and other problems.
+
+Phil SilversPhil Silvers (born Philip Silver, May 11, 1911 – November 1, 1985) was an American entertainer, comedian, movie, television, stage, radio, and voice actor who is known for his role as Sergeant Bilko in "The Phil Silvers Show". He has won two Tony Awards and an Emmy Award.
+
+Silvers was born on May 11, 1911 in Brooklyn, New York. Silver was married to Jo-Carroll Dennison from 1945 until they divorced in 1950. Then he was married to Evelyn Patrick from 1956 until they divorced in 1966. Silvers had five children with Evelyn. Silvers died on November 1, 1985 in Century City, California from heart failure, aged 74.
+
+Wade WilliamsWade Andrew Williams (born December 24, 1961) is an American movie, television, and voice actor who is best known for his role as Brad Bellick in "Prison Break".
+
+Williams was born on December 24, 1961 in Tulsa, Oklahoma. He studied at Rutgers University and at the University of Tulsa.
+
+Gary CollinsGary Ennis Collins (April 30, 1938 – October 13, 2012) was an American movie, television, radio, stage, voice actor, and television host. He is known for his roles in "The Sixth Sense", "Angel in my Pocket", "The Wackiest Ship in the Army", "Born Free", "Hangar 18", and in "The Home Show". He is also known for being the host of Miss America from 1982 through 1990. He has won an Emmy Award for Best Television Host in 1983.
+
+Collins guest-starred on dozens of television shows since the 1960s, including "Perry Mason", "The Virginian", "Hawaii Five-O", "The Six Million Dollar Man", "The Love Boat", "Charlie's Angels", "Friends", and "JAG".
+
+Collins was born on April 30, 1938 in Venice, California. Collins was raised in Biloxi, Mississippi. He studied at Santa Monica City College. He was married to Susan Lechman from 1964 until they divorced in 1967. Then he was married to Mary Ann Mobley from 1967 until his death in 2012. Collins died on the morning of October 13, 2012 in Biloxi, Mississippi from natural causes, aged 74.
+
+Tom BerengerTom Berenger (born Thomas Michael Moore; May 31, 1949) is an Emmy Award-winning American movie, television, stage, and voice actor who is known for his roles in "Hatfields & McCoys", "Platoon", "Major League", "Inception", and "The Big Chill". He has won an Emmy Award and an Golden Globe Award.
+
+Berenger was born on May 31, 1949 in Chicago, Illinois. He studied at the University of Missouri. Berenger was married to Barbara Wilson from 1976 until they divorced in 1984. Then he was married to Lisa Williams from 1986 until they divorced in 1997. Then he was married to Patricia Alvaran since 1998. He has six children.
+
+Julio AlemánJulio Méndez Alemán (November 29, 1933 – April 11, 2012) was a Mexican movie, television, stage, voice, and radio actor.
+
+Alemán was born in Morelia, Michoacán on November 29, 1933. He was married to Esperanza Martínez. They had six children.
+
+Alemán died in Mexico City on April 11, 2012. He had been diagnosed with lung cancer. His remains were cremated and a memorial service was held on April 12, 2012, in Mexico City.
+
+Gumbel distributionThe Gumbel distribution is a probability distribution of extreme values.
+
+In probability theory and statistics, the Gumbel distribution is used to model the distribution of the maximum (or the minimum) of a number of samples of various distributions.
+
+Such a distribution might be used to represent the distribution of the maximum level of a river in a particular year if there was a list of maximum values for the past ten years. It is also useful in predicting the chance that an extreme earthquake, flood or other natural disaster will occur.
+
+The Gumbel distribution is a continuous probability distribution. Gumbel distributions are a family of distributions of the same general form. These distributions differ in their "location" and "scale" parameters: the mean ("average") of the distribution defines its location, and the standard deviation ("variability") defines the scale.
+
+One recognizes the Gumbel "probability density function" (PDF) and the Gumbel "cumulative distribution function" (CDF).
+
+In the PDF, the probability P of a value V to occur between limits A and B, briefly written as P(A<VP(V \leq A) = CDF(A) </math>.
+
+The mathematical expression of the CDF is:where μ is the "mode" (the value where the probability density function reaches its peak), "e" is a mathematical constant, about 2.
+
+718, and β is a value related to the "standard deviation" (σ) :where π is the Greek symbol for Pi whose value is close to 22/7 or 3.
+
+142, and the symbol formula_3 stands for the square root.
+
+The "mode" μ can be found from the "median" M, being the value of A where CDF(A)=0.
+
+5, and β:where "ln" is the natural logarithm.
+
+The "mean", E(x), given by:where formula_6 = "Euler constant" formula_7 0.
+
+5772.
+
+In a data series, the parameters "mode" (μ) and β can be estimated from the average, median and standard deviation. The calculation of the last three quantities is explained in the respective Wiki pages. Then, with the help of formulas given in the previous section, the factors μ and β can be calculated. In this way, the CDF of the Gumbel distribution belonging to the data can be determined and the probability of interesting data values can be found.
+
+In hydrology, the Gumbel distribution is used to analyze such variables as monthly and annual maximum values of daily rainfall and river discharge volumes, and also to describe droughts.
+
+The blue picture illustrates an example of fitting the Gumbel distribution to ranked maximum one-day October rainfalls showing also the 90% "confidence belt" based on the binomial distribution.
+
+List of cities in TurkeyThis is a list of cities in Turkey by population. The total population of Turkey is 79,749,461 according to the 2012 estimate. This makes it the 17th most populated country in the world.
+
+List of cities in UkraineThis is a complete list of cities in Ukraine. On 1 January, 2022, there were 461 cities (, "misto") in Ukraine. City status is given by the Verkhovna Rada, the Ukrainian parliament. The city status is only slightly related to the size of a populated place in Ukraine.
+
+Smaller settlements are urban-type settlements (comparable to towns in English-speaking countries) and villages (, "selo").
+
+The list of cities is ordered by 2021 estimates of population and compared to the 2001 Ukrainian Census, except for Chernobyl which is an unofficial estimate. The cities with special status are shown in "italic".
+
+List of cities in the United Arab EmiratesThis is a list of the most important cities of the United Arab Emirates, in alphabetical order:List of cities in UruguayThis is a list of cities in Uruguay. There are many places that have a large number of people that are not called a "City" in Uruguay.
+
+List of cities in UzbekistanThis is a list of cities in Uzbekistan. The names of many places have been changed during the last century, sometimes more than once. Wherever possible, the old names are on the list and linked to the new names.
+
+The native Uzbek name of each city is listed in parenthesis.
+
+List of settlements in ArmeniaThe Municipalities of Armenia are called communities. Each community is self-governing and has one or more settlements. As of 2007, Armenia includes 915 communities. 49 are considered urban and 866 are considered rural. The capital, Yerevan, also has the status of a community.
+
+Chris DoddChristopher John "Chris" Dodd (born May 27, 1944) is an American lawyer, lobbyist, and Democratic Party politician. He was a United States Senator from Connecticut for thirty-years.
+
+Dodd was born in Connecticut. He is a graduate of Georgetown Preparatory School in Bethesda, Maryland, and Providence College. His father, Thomas J. Dodd, was a United States Senator from Connecticut from 1959-1971. Chris Dodd served in the Peace Corps for two years before going to law school at the University of Louisville. While he was in law school, he was also a member of the United States Army Reserve.
+
+Dodd won the election in 1974 to be the Representative from Connecticut's 2nd congressional district. He was reelected in 1976 and 1978. He was elected United States Senator in the elections of 1980. He was the longest-serving senator in Connecticut's history.
+
+Dodd was the chairman of the Democratic National Committee from 1995 to 1997. He served as Chairman of the Senate Banking Committee until his retirement. In 2006, Dodd decided to run for the Democratic nomination for President of the United States. He left the race to become President after running behind several other competitors. In January 2010, Dodd said that he would not run for re-election in the 2010 elections. Dodd was replaced by Richard Blumenthal. On March 1, 2011, the Motion Picture Association of America said that Dodd will be in control of that organization.
+
+Ronald NeameRonald Elwin Neame (23 April 1911 – 16 June 2010) was an English movie director and producer, screenwriter, and cinematographer who is known for his works in "The Poseidon Adventures", "Great Expectations", "Oliver Twist", "Brief Encounter", and "In Which We Serve".
+
+Neame was born on 23 April 1911 in London, England. He studied at University College School and at Hurstpierpoint College. Neame was married to Beryl Heanly from 1933 until they divorced in 1992. Then he was married to Donna Friedberg from 1993 until his death. With Heanly he had a son, Christopher. Neame also had three grandchildren. Neame died on 16 June, 2010 in Los Angeles, California from complications of an accidental fall, aged 99.
+
+List of cities in ChinaThis is a list of cities in People's Republic of China (PRC). There are three levels of cities. They are provincial-level cities (municipalities and SARs), prefectural-level cities, and county-level cities. As of February 2012 the PRC has a total of 652 cities: 4 municipalities, 2 SARs, 283 prefecture-level cities (including the 15 Sub-provincial cities) and 363 county-level cities (including the 15 Sub-prefectural cities) not including any cities in Taiwan Province.
+
+林芝山南昌都Tyrone PowerTyrone Edmund Power, Jr. (May 5, 1914 – November 15, 1958) or Ty Power, was an American movie, television, radio and stage actor who appeared in dozens of movies from the 1930s to the 1950s, but is mostly known for his roles in "The Mark of Zorro", "Blood and Sand", "The Black Swan", "Prince of Foxes", "The Black Rose", and "Captain from Castile".
+
+Power was born on May 5, 1914 in Cincinnati, Ohio. Power was married to Annebella from 1939 until they divorced in 1948. He was married to Linda Christian from 1949 until they divorced in 1956. He was married to Debbie Ann Minardos from 1958 until his death in 1958. He had two children with Christian, and one with Minardos. Power died on November 15, 1958 in Madrid, Spain from a heart attack, aged 44.
+
+AnomalocarisAnomalocaris ("abnormal shrimp") is an extinct genus of anomalocaridid, which are, in turn, thought to be closely related to the arthropods. The first fossils of "Anomalocaris" were discovered in the "Ogygopsis" shale by Joseph Frederick Whiteaves, with more examples found by Charles Doolittle Walcott in the famed Burgess Shale."
+
+Anomalocaris" lived in the Cambrian period, which was a long time before dinosaurs. This makes "Anomalocaris" very old, so their body parts haven't evolved to be as detailed as modern animals. However, "Anomalocaris" still had compound eyes which were very big and complex compared to other animals in the earlier parts of the Cambrian, and also had segmented (has many sections) front appendages which were used to grasp its prey like arms. So while "Anomalocaris" was around the size of a small lobster, it still was a very good apex predator for its time."
+
+Anomalocaris" lived in the sea, like most of the plants (which were really small algae in the Cambrian) and animals during this time period.
+
+Recently, people now think that "Anomalocaris" didn't hunt trilobites and other benthic animals that lived on the sea floor, but instead swam after nekton like basal chordates (animals that can control how they move underwater, unlike plankton)."
+
+Anomalocaris" was misidentified many times, as the mouth, front appendages and trunk (the rest of its body) were discovered separately multiple times, leading scientists to think for a while that these parts of "Anomalocaris" were, in fact, of three different animals, with the mouth thought to be a jellyfish, the front appendages thought to be a shrimp and the trunk thought to be a sea cucumber or sponge.
+
+Michael MurphyMichael George Murphy (born May 5, 1938) is an American movie, stage, voice and television actor who is known for his roles as Yale Pollack in "Manhattan" and as the Mayor in "Batman Returns". He has won an Gemini Award.
+
+Murphy was born on May 5, 1938 in Los Angeles, California. He studied at the University of California at Los Angeles. Murphy was married to Wendy Crewson from 1988 until they divorced in 2009. They had two children.
+
+Wendy CrewsonWendy Jane Crewson (born May 9, 1956) is a Canadian movie, television, voice, and stage actress who is known for her role in "The Santa Clause", "The Santa Clause 2", "", "Better Than Chocolate", "Air Force One" and "Room". She won an Gemini Award.
+
+Crewson was born on May 9, 1956 in Hamilton, Ontario, Canada. She studied at Queen's University and at Webber Douglas Academy of Dramatic Art. Crewson was married to Michael Murphy from 1988 until they divorced in 2009. They had two children.
+
+Crewson openly came out as a lesbian in 2014.
+
+Jeffrey JonesJeffrey Duncan Jones (born September 28, 1946) is an American movie, television, voice, and stage actor who is best known for his roles as Emperor Joseph II in Miloš Forman’s "Amadeus", Charles Deetz in "Beetlejuice", and Dean of Students Edward R. Rooney in the 1986 John Hughes movie "Ferris Bueller's Day Off".
+
+Jones was born on September 28, 1946 in Buffalo, New York. He studied at Lawrence University and at London Academy of Music and Dramatic Art. He has a son from a previous relationship. In 2002 Jones was arrested; he was later convicted of a sex offense and will serve four years in jail and 250 hours of community service.
+
+List of cities in VenezuelaThis is a list of cities, towns and communities in Venezuela. Capitals of states are marked with a *.
+
+List of cities in VietnamThis is a list of cities in Vietnam.
+
+There are five centrally-controlled municipalities in Vietnam.
+
+Here is a list of provincial municipalities ("thành phố trực thuộc tỉnh") in Vietnam.
+
+List of cities in Western SaharaThe following are cities in Western Sahara, listed by population. Due to an ongoing conflict over the territory, most are controlled by Morocco. The eastern and southern parts are controlled by the Sahrawi Arab Democratic Republic (SADR).
+
+List of cities in YemenHere is a list of cities in Yemen:Terrence HowardTerrence Howard (March 11 1969) is an American actor and singer who has starred in many movies. He did "Hustle & Flow" and "Crash" (2004). His acting career began around 1992. He was born in Chicago and raised in Cleveland, Ohio.
+
+Catherine O'HaraCatherine Anne O'Hara, (born March 4, 1954) is a Canadian-American movie, television, stage, voice actress, writer and comedian. She is well known for her roles in "SCTV", and her roles in movies such as in "After Hours", "Beetlejuice", "Home Alone", and "The Nightmare Before Christmas". She has won an Emmy Award.
+
+O'Hara is also known for her role as Moira Rose in the award-winning series "Schitt's Creek".
+
+O'Hara was born on March 4, 1954 in Toronto, Ontario, Canada. O'Hara studied at Burnhamthorpe Collegiate Institute. She has been married to Bo Welch since 1992. They have two children and currently reside in Los Angeles, California.
+
+Christopher GuestChristopher Haden-Guest, 5th Baron Haden-Guest (born February 5, 1948), usually simply known as Christopher Guest, is an English-American actor, comedian, director, musician, and screenwriter. He is known for his work in "This Is Spinal Tap", "The Princess Bride", "Best in Show", "A Mighty Wind", and in "For Your Consideration". He has won an Emmy Award.
+
+Guest was born on February 5, 1948 in New York City, New York. He studied at The High School of Music & Art and at New York University.
+
+Guest married Jamie Lee Curtis in 1984. They have two adopted children.
+
+Lipid bilayerLipid bilayers form cell membranes. They form a continuous sheet around all cells, and they surround most cell organelles. Lipid bilayers form automatically from phospholipids by self-assembly.
+
+The phospholipids have heads which mix with water and tails which reject water. So the tails come together in the centre of the double layer, and the heads on the outside are surrounded by water.
+
+The lipid bilayers stop most water-soluble (hydrophilic) molecules passing through. They also stop most ions.
+
+In cells, proteins are put in the bilayer by enzymes. The proteins decide which molecules come in and which go out of the cell. For example, cells control salt concentrations and pH by pumping ions across their membranes using proteins called ion pumps.
+
+John LetfordJohn Letford MBE (born 29 August 1935) is a Scottish politician. He was the Lord Provost of Dundee from 2003 to 2012. The new Lord Provost is Bob Duncan.
+
+On 24 March 2009, Letford resigned from the Labour Group on Dundee City Council. He became an independent councillor.
+
+Alcester Grammar SchoolAlcester Grammar School is a grammar school in a town called Alcester, in the county of Warwickshire. It is a local authority school, which means it is not fee-paying. It is, however, selective. This means it is meant for pupils of above average intelligence.
+
+The youngest children are 11. The oldest are 18. Children join when they are 11 or when they are 16. When they are 11 they take a test to get in. The test is called the Eleven plus. 16 year old children can join if they have good GCSE exam grades elsewhere.
+
+Children at Alcester Grammar School take the GCSE exams. GCSEs are exams that all children who live in England take.
+
+Alcester Grammar is a very successful, selective, rural, grammar school. It offers courses at National Curriculum and post 16 levels. The school has a large VI form and offers one of the widest ranges of both 'A' and 'AS' levels in the country.
+
+The school website says:The school sets out to provide a relaxed and constructive atmosphere, in which pupils are encouraged to develop their individual talents. Since it is school, boys and girls are jointly involved in most aspects of school life. We have no doubt that co-education is a fitting preparation for life.
+
+There are about 1000 children.
+
+Alcester Grammar School got an 'outstanding' rating in their OFSTED inspection.
+
+MycobacteriumMycobacterium is a genus of bacteria, with about 190 species.
+
+The genus includes pathogens known to cause serious diseases in mammals, including tuberculosis ("Mycobacterium tuberculosis") and leprosy ("Mycobacterium leprae"). Mycobacteria are immobile and are rod-shaped. They are mostly found in water, soil, and dust.
+
+The colony colour ranges from white to orange to pink (Iivanainen, 1999). Most mycobacteria need oxygen to survive (aerobic organisms), although some species require very little amounts of oxygen, less than what is present in the air, are called (microaerophilic bacteria) (Falkinham, 1996).
+
+Mycobacteria can be categorized into three groups:1.
+
+Mycobacterium tuberculosis complex – causative pathogen of tuberculosis2.     Non-tuberculosis mycobacteria (NTM)3.     Mycobacterium leprae – causative pathogen of leprosy

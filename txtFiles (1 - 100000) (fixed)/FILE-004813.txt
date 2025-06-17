@@ -1,0 +1,103 @@
+In November 2006 the U.
+
+S. Air Force announced it would develop the X-37B from the NASA X-37A. The Air Force version is designated X-37B Orbital Test Vehicle (OTV). The OTV program builds on industry and government investments by DARPA, NASA and the Air Force. The X-37B effort will be led by the Air Force Rapid Capabilities Office and includes partnerships with NASA and the Air Force Research Laboratory. Boeing is the prime contractor for the OTV program. The X-37B can remain in orbit for up to 270 days at a time.
+
+The Secretary of the Air Force states the OTV program will focus on "risk reduction, experimentation, and operational concept development for reusable space vehicle technologies, in support of long term developmental space objectives."
+
+The X-37B was originally scheduled for launch in the payload bay of the Space Shuttle, but following the "Columbia" accident, it was transferred to a Delta II. It was then transferred to the Atlas V following concerns over the spacecraft's aerodynamic properties during launch.
+
+The main engines are fueled by JP-8 kerosene, a military standard jet fuel. The maneuvering engines are fueled by hydrogen peroxide. This is wrong, the propellants were changed to hypergols long ago when it was a NASA program.
+
+The X-37 was originally designed to be carried into orbit in the Space Shuttle cargo bay, but underwent redesign to launch on Atlas V and Falcon 9 after it was determined that a shuttle flight would be uneconomical.
+
+This vehicle has the potential to become the United States' first operational military spaceplane, after the cancellation of Dyna-Soar in 1963. It is expected to operate in a velocity range of up to Mach 25 on reentry. Among the technologies to be demonstrated with the X-37 are improved thermal protection systems, avionics, the autonomous guidance system, and an advanced airframe. The on-board engine is the Rocketdyne AR-2/3, which is fueled by hydrogen peroxide and JP-8.
+
+The X-37's aerodynamic design was derived from the Space Shuttle, hence the X-37 has a similar lift-to-drag ratio, and a lower cross range at high altitudes and mach numbers than the Hypersonic Technology Vehicle.
+
+The test vehicle, which was used as an atmospheric drop test glider, had no propulsion system. Instead of an operational vehicle's payload bay doors it had an enclosed and reinforced upper fuselage structure to allow it to be mated with a mothership. Most of the thermal protection tiles were 'fake', made of inexpensive foam rather than ceramic; a smaller number of the X-37's tiles were actual TPS tiles, and TPS blankets were used in areas where heating would not have been severe enough to require tiles.
+
+Following their missions, X-37B spacecraft are to land on a runway at Vandenberg Air Force Base, California with Edwards Air Force Base as an alternate site.
+
+Puerto NatalesPuerto Natales is a Chilean commune. It is in the Region of Magallanes and the Chilean Antarctica. The city was founded in 1911. It had 19,116 people as of 2002. It has an area of . It is also the capital of the Province of Última Esperanza.
+
+AftershockAn aftershock is a smaller earthquake which comes after a large earthquake (called the main shock) in the same area. An aftershock is the opposite of a foreshock, which a small earthquake comes before the large earthquake.
+
+There are many laws which refer to aftershocks, but the most famous is Omori's Law. In 1894, Fusakichi Omori did some works on aftershocks, and firstly he came up with this rule:formula_1By 1961, Utsu wanted to change the rule. His rule looked like this:formula_2where "p" changes the rate, this mainly has a number between 0.
+
+7 and 1.
+
+5.
+
+BarcodeA barcode is a way of storing numbers printed in a way that a computer can easily read. The first barcodes stored the numbers using lines (bars).
+
+The first use of barcodes was to label railroad rolling stock. They became a big success when they were used in supermarket checkout systems. The first product that used a barcode was a pack of Wrigley's Juicy Fruit Gum sold on June 26, 1974. It was invented by IBM engineer George J. Laurer. Barcodes are now used for many purposes.
+
+Norman Joseph Woodland and Bernard Silver developed the modern barcode, and were granted a patent for it in 1952. The idea was to make the checkout of articles easier, using a code which was inspired by Morse code. In 1959, David Collins developed a system for tracking railroad carriages which used barcodes. This system was unreliable, because of dirt on the barcodes. In the 1970s, the system was abandoned, but in the 1980s, a similar system which used radio tags was introduced.
+
+There are different barcode types, which use different designs:The standard barcode uses changes in lines and spaces to store numbers in a code that computers can read. The lines are read by a scanner and changed into numbers. It is designed that it can be read forwards or backwards, so the user does not have to be careful how a product is put in front of the reader. A laser line can be used to scan (read) the changes. The laser scanners are also called barcode readers. Since this laser line scans in one direction (left or right), this is called a 1D barcode.
+
+Newer 2D systems use symbols other than bars and can hold more information, but they are also called barcodes. They need to be scanned left or right, and up or down (two directions). QR codes were invented in 1994 to use in factories to track parts and products. People use them for many purposes in the 21st century. Special software can read QR from an image. Smartphones can have an app to show and read them. This is becoming increasingly popular as more apps are able to use such features to help the user obtain access to websites and special resources, such as being used in 'digital cities', such as Bordeaux. Many kinds of tickets, including those for transport, have a QR code.
+
+Barcodes — especially the Universal Product Code, UPC — have slowly become an important part of modern life. They are used in many places, and the technology is constantly improving. Some modern uses of barcodes are:In sales, the use of barcodes can provide up-to-date information to help the business. For example:Nathalia DillNathalia Goyannes Dill Orrico, better known as Nathalia Dill (March 24, 1986 in Rio de Janeiro, Brazil) is a Brazilian actress. She played the villain, Débora Rios, in the fifteenth season of the series Malhação. In her last television work, Nathalia was protagonist of the novel "Paraíso", Benedito Ruy Barbosa, where she played the character Maria Rita (Santinha).
+
+Optical mark recognitionOMR (optical mark recognition) is a form of automated data input. Marks are made on a specially printed paper forms which are then read by an OMR reader. The data is then sent to a computer for processing.
+
+One of the most common uses of OMR is in multiple choice examinations. Students mark their answers on specially printed sheets using either a pencil or a special marker. The sheets are then collected in and the data read using a sheet feed OMR scanner.
+
+Optical character recognitionOptical character recognition (OCR) is a method of automatic data entry. OCR software is used to convert handwritten, type-written or printed text into data that can be edited on a computer.
+
+In simple systems, the paper documents are scanned with an image scanner. The OCR software then looks at the image and compares the shapes of the letters to stored images of letters. In this way, it makes a text file that can be edited with a normal text editor.
+
+More complex systems look at images, layout and so on. This can make editable electronic versions which look identical to the original documents.
+
+OCR works best with clean, clearly printed materials.
+
+Nhundiaquara RiverNhundiaquara River is in the Serra do Mar, on the coast of Paraná, Brazil.
+
+The historic river was the first natural route linking the coast to the state plateaus. At the start of the settling, it was named Cubatão, being considered the richest gold river, thus contributing significantly to the development of the counties.
+
+Istrian ItaliansIstrian Italians are one of the ethnic groups of Istria. The others are Croatians, Slovenians and Istrorumanians.
+
+The Istrian Italians are the descendants of the romanized Illyrian population of Istria during the Roman Empire. During the Middle Ages they were under domination of many political states, like the Byzantine Empire and the Holy Roman Empire. But most of the time they were under the Republic of Venice, especially during the Renaissance.
+
+The Istrian Italians enjoyed a huge cultural development in the centuries under Venice: Pola and Capodistria were important centers of art and culture during the Italian Renaissance. Personalities like Pier Paolo Vergerio (a famous "Humanist") and Santorius Santorio (a physician who discovered the medical thermometer) are renowned worldwide.
+
+In the last two centuries, the Istrian Italians, who were the majority of the population of Istria under Napoleon, have been in continuous ethnic fighting with the Slavs of Istria. As a consequence, they have been reduced to a small minority, who have survived the Istrian exodus and the Foibe massacres during and after WWII.
+
+According to the Italian Census done in 1936, in the peninsula of Istria there were 294,000 residents; most were Istrian Italians. Here, there are the percentages for all the Istrian cities/districts:Currently, there are nearly 50,000 Istrian Italians; a small minority of the Istria peninsula population. They are mainly divided between Croatia and Slovenia, but a few thousand still live in Italy (in the coastal city of Muggia near Trieste).
+
+Indeed, in various municipalities in actual Croatia and Slovenia, census data shows that there are still significant numbers of Italians living in Istria, such as 51% of the population of Grožnjan/Grisignana, 37% at Brtonigla/Verteneglio and nearly 30% in Buje/Buie.
+
+Valentina TolkunovaValentina Vassilyevna Tolkunova (Валентина Васильевна Толкунова; b. 12 July 1946, Armavir - d. 22 March 2010, Moscow) was a Russian singer.
+
+Toshikazu Kato (born in 1969)Toshikazu Kato (born 22 April 1969) is a former Japanese football player.
+
+0||0||0||0||0||00||0||0||0||0||0Luke MooreLuke Isaacc Moore (born 13 February 1986) is an English former professional footballer who played as a striker.
+
+Aston Villa YouthSwansea CityAtsuyoshi FurutaFuruta was born in Hiroshima on October 27, 1952. After graduating from Waseda University, he joined his local club Toyo Industries (later "Mazda") in 1975. The club won second place at 1978 Emperor's Cup. He retired in 1984.
+
+On August 13, 1971, when Furuta was a Waseda University student, he debuted for the Japan national team against Iceland. It was the youngest player to play for Japan national team at the age of 18 years and 29 days until Daisuke Ichikawa made new record in 1998. He played at 1974 and 1978 Asian Games. He played 32 games for Japan until 1978.!
+
+Total||32||0Anthony Le TallecAnthony Le Tallec (born 3 October 1984) is a French football player. He plays for Le Mans.
+
+146||2344||3190||26Lee BowyerLee Bowyer (born 3 January 1977) was an English football player. He is now the head coach of Montserrat.
+
+Birmingham CityIndividualCharlton AthleticIndividualJustin HoyteJustin Hoyte (born 20 November 1984) is an English football player. He plays for FC Cincinnati.
+
+83||2||14||0||17||0||8||0||122||283||2||14||0||17||0||8||0||122||2Armand TraoréArmand Traoré (born 8 October 1989) is a former French football player.
+
+Queens Park RangersSteven TaylorSteven Taylor (born 23 January 1986) is an English football player. He plays for Newcastle United.
+
+97||7||8||1||6||0||27||1||138||997||7||8||1||6||0||27||1||138||9Makoto OkuboMakoto Okubo (born 3 May 1975) is a former Japanese football player.
+
+17||1||4||1||7||1||28||317||1||4||1||7||1||28||3Mitsuaki KojimaMitsuaki Kojima (born 14 July 1968) is a former Japanese football player.
+
+310||7||22||0||36||1||368||8310||7||22||0||36||1||368||8Katsuhiro MinamotoKatsuhiro Minamoto (born 2 July 1972) is a former Japanese football player.
+
+198||15||10||0||24||0||232||15198||15||10||0||24||0||232||15Yasuyuki SatoYasuyuki Sato (born 12 April 1966) is a former Japanese football player.
+
+161||4||7||0||19||0||187||4161||4||7||0||19||0||187||4Francisco Javier GarcíaFrancisco Javier García (born 8 February 1987) is a Spanish football player. He plays for Benfica.
+
+43||20||043||2PortuguesePortuguese might mean:Design management"Simply put, "design management" is the business side of design. Design management encompasses the ongoing processes, business decisions, and strategies that enable innovation and create effectively-designed products, services, communications, environments, and brands that enhance our quality of life and provide organizational success."
+
+This means that design management is not limited on a single design discipline. In his 'Classification of Design' (1976), Gorb divided design into three different classes; design management operates in and across all three categories:Design management is not independent from the organization and product context, and plays three integrative key roles in the interface of design, organisation and market:Supportive activities are used in design management to manage design more efficient ('doing the things right') and effectively ('doing the right things'). Depending on a multitude of factors (such as industry, company size, design focus, market situation and the position / role of design within the company), design managers have a broad range of job profiles, with very different roles, activities and responsibilities.

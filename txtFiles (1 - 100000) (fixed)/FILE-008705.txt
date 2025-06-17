@@ -1,0 +1,165 @@
+The four-digit postcode shows the nationwide format "AZ NNNN". The first two digits show the regions of Azerbaijan in accordance with the modern administrative divisions, including the Nakhchivan Autonomous Republic and occupied Nagorno-Karabakh.
+
+From 1970 until 1991, when Azerbaijan was part of the Soviet Union as the Azerbaijan SSR, the entire territory of the Soviet Union used the six-digit postcode "37NNNN". After gaining independence, Azerbaijan switched to the current four-digit postcode.
+
+ENSAE ParisTechENSAE Paris (officially École nationale de la statistique et de l'administration économique Paris) is a renowned graduate engineering school in France. It is in a campus of the University of Paris-Saclay.
+
+Its curricula lead to these French & European degrees:Academic activities and industrial applied research are taught mainly in French and English languages. The students are from a dozen nationalities.
+
+Research activities at ENSAE ParisTech relate to the following topics:Hayflick limitThe Hayflick limit (or Hayflick phenomenon) is a phenomenon of cell division in tissue culture. It is the number of times a normal human cell population divides until cell division stops.
+
+We now know that the telomeres on each cell's chromosomes get slightly shorter with each new cell division, until they reach a critical length.
+
+The idea of the Hayflick limit was suggested by American anatomist Leonard Hayflick in 1961, at the Wistar Institute in Philadelphia, Pennsylvania. Hayflick showed that a population of normal human fetal cells in a cell culture will divide between 40 to 60 times. The population then goes into senescence. This refutes the idea of Nobel laureate Alexis Carrel that normal cells are potentially immortal.
+
+Each mitosis slightly shortens each of the telomeres on the chromosomes of the cells. Telomere shortening eventually makes cell division impossible, and this ageing of the cell population may cause the overall physical ageing of the human body.
+
+The process of telomere shortening leads to apoptosis, the technical name given to programmed cell death. Although the Hayflick experiments were done on human cells in tissue culture, there is nothing special about human cells which would not be found in the cells of other living organisms. Apoptosis is thought to happen in all multicellular organisms. The 2002 Nobel Prize in Medicine was awarded to Sydney Brenner, H. Robert Horvitz and John E. Sulston for their work identifying genes that control apoptosis. The genes were found by studies in the nematode "Caenorhabditis elegans". These same genes function in humans for apoptosis.
+
+Cantor's diagonal argumentCantor's diagonal argument is a mathematical method to prove that two infinite sets have the same cardinality. Cantor published articles on it in 1877, 1891 and 1899. His first proof of the diagonal argument was published in 1890 in the journal of the German Mathematical Society (Deutsche Mathematiker-Vereinigung). According to Cantor, two sets have the same cardinality, "if it is possible to associate an element from the second set to each element of the first set, and to associate an element of the first set to each element of the second set".
+
+The example below uses two of the simplest infinite sets, that of natural numbers, and that of positive fractions. The idea is to show that both of these sets, formula_1 and formula_2 have the same cardinality.
+
+First, the fractions are aligned in an array, as follows:Next, the numbers are counted, as shown. Fractions which can be simplified are left out:That way, the fractions are counted:By omitting fractions that can still be simplified, there is a bijection which associates each element of the natural numbers, to one element of the fractions:To show that all natural numbers and the fractions have the same cardinality, the element 0 needs to be added; after each fraction its negative is added;That way, there is a complete bijection, which associates a fraction to each natural number. In other words: both sets have the same cardinality. Today, sets that have the same number of elements than the set of natural numbers are called countable. Sets which have fewer elements than the natural numbers are called at most countable. With that definition, the set of rational numbers / fractions is countable.
+
+Infinite sets often have properties which go against intuition: David Hilbert showed this in an experiment which is called Hilbert's paradox of the Grand Hotel.
+
+The set of real numbers does not have the same cardinality than those of the natural numbers; there are more real numbers than natural numbers. The idea outlined above influenced his proof. In his 1891 article, Cantor considered the set "T" of all infinite sequences of binary digits (i.
+
+e. each digit is zero or one).
+
+He begins with a constructive proof of the following theorem:To prove this, given an enumeration of elements from "T", like e.
+
+g.
+
+The sequence "s" is constructed by choosing the 1st digit as complementary to the 1st digit of "s" (swapping 0s for 1s and vice versa), the 2nd digit as complementary to the 2nd digit of "s", the 3rd digit as complementary to the 3rd digit of "s", and generally for every "n", the "n" digit as complementary to the "n" digit of "s". In the example, this yields:By construction, "s" differs from each "s", since their "n" digits differ (highlighted in the example).
+
+Hence, "s" cannot occur in the enumeration.
+
+Based on this theorem, Cantor then uses a proof by contradiction to show that:He assumes for contradiction that "T" was countable. In that case, all its elements could be written as an enumeration "s", "s", … , "s", … .
+
+Applying the previous theorem to this enumeration would produce a sequence "s" not belonging to the enumeration.
+
+However, "s" was an element of "T" and should therefore be in the enumeration.
+
+This contradicts the original assumption, so "T" must be uncountable.
+
+Arrondissements of the Deux-Sèvres departmentThere are 3 arrondissements in the Deux-Sèvres department. The French departments, and in other countries, are divided into "arrondissements", which may be translated into English as districts (in some cases, as boroughs).  The capital of an arrondissement is called a subprefecture.
+
+If the prefecture (capital) of the department is in an arrondissement, that prefecture is the capital of the arrondissement, acting both as a prefecture and as a subprefecture.
+
+Arrondissements are further divided into communes.
+
+The arrondissements of Deux-Sèvres are:Since its creation, the Deux-Sèvres department has had some changes:Arrondissement of BressuireThe arrondissement of Bressuire is an arrondissement of France, in the Deux-Sèvres department, Nouvelle-Aquitaine region. Its capital is the city of Bressuire.
+
+When the Deux-Sèvres department was created on 1790, Bressuire was not one of the original districts but, in 1804, it was made one of the "arrondissements" of the department when the subprefecture of Thouars was moved to Bressuire.
+
+Bressuire is the northernmost "arrondissement" of the department. It is bordered to the north by the Maine-et-Loire department, to the east by the Vienne department, to the south by the "arrondissement" of Parthenay and to the west by the Vendée department.
+
+It has an area of , and a population of 96,703 inhabitants for a density of inhabitants/km².
+
+After the reorganisation of the cantons in France, cantons are not subdivisions of the "arrondissements" so they could have "communes" that belong to different "arrondissements".
+
+In the "arrondissement" of Bressuire, there are 3 cantons with all their "communes"  in the "arrondissement": Bressuire, Mauléon and Thouars,The following table shows the distribution of the "communes" in the "arrondissement" of  Bressuire:The "arrondissement" of Bressuire has 53 "communes"; they are (with their INSEE codes)ːCynthia KenyonCynthia Jane Kenyon (born February 21, 1954) is an American molecular biologist and geneticist. She does research on the genetics of aging in the model organism "Caenorhabditis elegans", which is a roundworm.
+
+Kenyon did postdoctoral studies with Nobel laureate Sydney Brenner at the MRC Laboratory of Molecular Biology in Cambridge, England, studying the development of "C. elegans".
+
+Since 1986 she has been at the University of California, San Francisco (UCSF), as the Herbert Boyer Distinguished Professor of Biochemistry and Biophysics, and now as an American Cancer Society professor. She is also Vice President of Aging Research at Calico, a new company focused on health, well-being, and longevity.
+
+Her early work led to the discovery that hox genes, known to pattern the body segments of the fruit fly "Drosophila", also pattern the body of "C. elegans". These findings showed that hox genes were part of an ancient and fundamental metazoan patterning system.
+
+Michael Klass discovered that lifespan of "C. elegans" could be altered by mutations, but he believed the effect was due to reduced food consumption (calorie restriction). Later, Thomas Johnson showed that the 65% life extension effect was due to the mutation itself, not calorie restriction.
+
+In 1993, Kenyon discovered that a single gene mutation (daf-2) could double the lifespan of "C. elegans" and that this could be reversed by a second mutation in daf-16m. This set off an intensive study of the molecular biology of aging. Kenyon's findings led to the discovery that an evolutionarily-conserved hormone signaling system influences aging in other organisms, perhaps also mammals.
+
+The company she founded, Elixir Pharmaceuticals, is trying to make a pill that would slow down the process that makes people age. It would mimic gene manipulation.
+
+Kenyon has received many honors, including the King Faisal Prize for Medicine, the American Association of Medical Colleges Award for Distinguished Research, the Ilse & Helmut Wachter Award for Exceptional Scientific Achievement, and La Fondation IPSEN Prize, for her findings. She is a member of the U.
+
+S. National Academy of Sciences and the American Academy of Arts and Sciences. She is now the director of the Hillblom Center for the Biology of Aging at UCSF. She is also one of featured biologists in the 1995 science documentary "Death by Design / The Life and Times of Life and Times".
+
+Kenyon's research prompted her to make personal dietary changes. She stopped eating high glycemic index carbohydrates when she discovered that putting sugar on the worms' food shortened their lifespans.
+
+Kenyon follows a low glycemic index diet similar to the Atkins diet and the South Beach Diet.
+
+In the past, Kenyon had also briefly experimented with a calorie restriction diet for two days, but couldn't stand the constant hunger.
+
+Randall WoolfRandall Woolf (born 23 August 1959) is an American composer. He studied at Harvard University. Woolf received Guggenheim Fellowship in 1999. One of his piaces is called "White Heat". He is a long time collaborator of Welsh musician John Cale. He arranged Cale's score for Mary Harron's movie "American Psycho". His wife Kathleen Supové is a pianist.
+
+Arrondissement of NiortThe arrondissement of Niort is an arrondissement of France, in the Deux-Sèvres department, Nouvelle-Aquitaine region. Its capital is the city of Niort.
+
+When the Deux-Sèvres department was created on 1790, Niort was one of the original districts.
+
+Niort is the southernmost "arrondissement" of the department. It is bordered to the north by the "arrondissement" of Parthenay, to the east by the Vienne department, to the south by the Charente-Maritime department and to the west by the Vendée department.
+
+It has an area of , and a population of 212,425 inhabitants for a density of inhabitants/km².
+
+After the reorganisation of the cantons in France, cantons are not subdivisions of the "arrondissements" so they could have "communes" that belong to different "arrondissements".
+
+In the case of the "arrondissement" of Niort, all its cantons have their "communes" within the "arrondissement". The following table shows the distribution of the "communes" in the "arrondissement":The "arrondissement" of Niort has 163 "communes"; they are (with their INSEE codes)ːArrondissement of ParthenayThe arrondissement of Parthenay is an arrondissement of France, in the Deux-Sèvres department, Nouvelle-Aquitaine region. Its capital is the city of Parthenay.
+
+When the Deux-Sèvres department was created on 1790, Parthenay was one of the original districts.
+
+The territory of the present "arrondissement" of Parthenay is the historical region of Gâtine vendéenne; several "communes" are named after this region: La Boissière-en-Gâtine, Mazières-en-Gâtine, Saint-Paul-en-Gâtine, Vernoux-en-Gâtine.
+
+Parthenay is the central "arrondissement" of the department. It is bordered to the north by the "arrondissement" of Bressuire, to the east by the Vienne department, to the south by the "arrondissement" of Niort and to the west by the Vendée department.
+
+It has an area of , and a population of 64,425 inhabitants for a density of inhabitants/km².
+
+After the reorganisation of the cantons in France, cantons are not subdivisions of the "arrondissements" so they could have "communes" that belong to different "arrondissements".
+
+In the "arrondissement" of Parthenay, there are 2 cantons with all their "communes" in the "arrondissement": La Gâtine and Parthenay. The following table shows the distribution of the "communes" in the "arrondissement":The "arrondissement" of Parthenay has 77 "communes"; they are (with their INSEE codes)ːArosio, SwitzerlandArosio is a village and former municipality of the district of Lugano in the canton of Ticino in Switzerland.
+
+On 13 March 2005 the former municipalites of Arosio, Breno, Fescoggia, Mugena and Vezio merged into the new municipality of Alto Malcantone.
+
+EnvelopmentEnvelopment is the military tactic of attacking the enemy's flank or rear. This is done while keeping the enemy's attention focused on his front by the use of diversionary attacks. The envelopment makes the enemy fight in a direction they are the least prepared for. The maneuver requires a flank that can be attacked. Unlike a flanking maneuver, which uses the enemy's forward movement to create an attackable flank, envelopment depends on the enemy's defensive position, any obstacles and the terrain. The envelopment has both advantages and disadvantages. Advantages include being able to capture or defeat all or part of an opposing army. It offers less risk than other offensive maneuvers. Disadvantages include the possibility of an enemy counterattack on the weakened center or on the other flank.
+
+Famous examples of the single envelopment include Alexander the Great who used it at the in 331 BC. Robert E. Lee used the tactic at the Battle of Chancellorsville in 1863. During World War II, German General Erwin Rommel used it successfully at the Battle of Gazala, which led directly to his capture of Tobruk in 1941. Some of the famous double envelopments include Hannibal at the Battle of Cannae where he defeated the Roman army in . In 1781 during the American Revolutionary War, American general used it successfully against British general , causing many of the British soldiers to surrender. In the 1944 during Operation Overlord, German troops were caught in a double envelopment by British and American forces.
+
+Knap of HowarKnap of Howar is a neolithic settlement on Papa Westray (one of the Orkney Islands) in Scotland. The farm was occupied from about 3700 to 2800 BC. The farm consists of two buildings: One has been interpreted as house where people lived, the other as a workshop of sorts.
+
+The houses have no windows, both entries face the sea. It is believed that the houses where lit by fires.
+
+DeAndre YedlinDeAndre Roselle Yedlin (born July 9, 1993) is an American professional soccer player who plays for Major League Soccer club Inter Miami and the United States national team.
+
+Seattle Sounders FCNewcastle UnitedInter MiamiUnited StatesIndividualSèvre NantaiseThe Sèvre Nantaise is a river in western France, a left tributary of the Loire river.
+
+It starts in the Deux-Sèvres department (named "Two Sèvres" after this and the Sèvre Niortaise river that flows through Niort) and ends in the city of Nantes (and is the origin of the second part of the river's name).
+
+The Sèvre Nantaise river has a length of and a drainage basin with an area of approximately .
+
+Its average yearly discharge (volume of water which passes through a section of the river per unit of time) is at Nantes, where the Sèvre Nantaise joins the Loire river.
+
+Average monthly discharge (m/s) at NantesThe Sèvre Nantaise starts in the "Gâtines" plateau, "commune" of Neuvy-Bouin, near the "commune" of Secondigny in the Deux-Sèvres department, at an elevation of about . It then flows to the northwest through the departments of Vendée, Maine-et-Loire and Loire-Atlantique.
+
+Finally, the river flows into the Loire river in the city of Nantes.
+
+The Sèvre Nantaise flows through 2 regions, 4 departments and 44 "communes":The main tributaries of the Sèvre Nantaise river are:Ricardo LucarelliRicardo Samuel Lucarelli Santos de Souza (born February 14, 1992) is a Brazilian volleyball player. He is a member of the Brazil national volleyball team and Brazilian club Funvic Taubaté. He competed on the winning volleyball team at the 2016 Summer Olympics.
+
+Aaron RussellAaron Russell (born June 4, 1993) is an American volleyball player. He is a member of the United States men's national volleyball team. He competed in the 2016 Summer Olympics in Rio de Janeiro. He won a bronze medal. Since late 2015, he plays for an Italian volleyball club.
+
+Artem VolvichArtem Aleksandrovich Volvich (born 22 January 1990) is an Russian volleyball player. He is a member of the Russian National Volleyball Team. He competed in the 2016 Summer Olympics in Rio de Janeiro.
+
+LazarusLazarus is a given name and surname (family name). The pronunciation of the name is [ laz-er-"uh"s ]. It is derived from the Hebrew אלעזר, Elʿāzār (Eleazar) meaning "God has helped". This is a unique name (not in the top 1000 newborn names in the US in 2021).
+
+CagialloCagiallo is a village and former municipality of the district Lugano in the canton of Ticino in Switzerland.
+
+On 15 October 2001 the former municipalities of Cagiallo, Lopagno, Roveredo, Sala Capriasca, Tesserete and Vaglio merged to form the new municipality Capriasca.
+
+Sala CapriascaSala Capriasca is a village and former municipality of the district Lugano in the canton of Ticino in Switzerland.
+
+On 15 October 2001 the municipality was merged with the other, neighboring municipalities Cagiallo, Lopagno, Roveredo, Tesserete and Vaglio to form a new and larger municipality Capriasca.
+
+TessereteTesserete is a village and former municipality of the district Lugano in the canton of Ticino in Switzerland.
+
+In 1976 the neighboring municipality Campestro was incorporated into Tesserete.
+
+On 15 October 2001 the municipality was merged with the other, neighboring municipalities Cagiallo, Lopagno, Roveredo, Sala Capriasca and Vaglio to form a new and larger municipality Capriasca.
+
+ArdfernArdfern ( = "the head-land of alder-trees") is a village in Argyll and Bute, Scotland. It is on the south coast of the Craignish peninsula, facing Loch Craignish.
+
+Rosh ChodeshRosh Chodesh or Rosh Hodesh (; trans. "Beginning of the Month"; lit. "Head of the Month") is the name for the first day of every month in the Hebrew calendar, marked by the birth of a new moon. It is considered a minor holiday, like the middle days of Passover and Sukkot.
+
+When a Hebrew calendar month is 30 days long, day 30 is considered Rosh Chodesh of the next month. Then Rosh Chodesh is two days long: day 30 of the old month and day 1 of the new month.
+
+Sèvre NiortaiseThe Sèvre Niortaise is a river in western France, flowing into the Atlantic Ocean.

@@ -1,0 +1,5 @@
+While the species occurs in the Pic Macaya National Park, there is no active management for conservation, and the habitat loss continues also in the park.
+
+While the specification of network services information is out of scope of IEEE 802.
+
+11, there is a need for stations to query for information on network services provided by SSPNs or other external networks beyond an AP (Access Point) before they associate to the wireless LAN.

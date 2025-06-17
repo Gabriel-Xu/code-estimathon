@@ -1,0 +1,93 @@
+"Monosyllables" are words that have only one vowel sound; "polysyllables" have more than one. If a syllable ends with a consonant, it is called a "closed syllable". If a syllable ends with a vowel, it is called an "open syllable". Patterns of syllables can be shown with C and V (C for 'consonant', V for 'vowel'). Closed syllables are often shown as "CVC" (such as "got"), and open syllables as "CV" (such as "go"). Some languages like English have many kinds of closed syllables. Other languages, like Japanese, have few kinds of closed syllables. Other languages still, like Hawaiian and Swahili, have no closed syllables.
+
+Notice that the consonant (C) and vowel (V) notation does NOT match the letters of English spelling in a one-to-one relationship (e.
+
+g. 'th' is one sound), but rather individual sounds.
+
+There are many words in English that have only one syllable.
+
+IPA has been added in slashes.
+
+However, in several languages, such as English, syllables can have consonant clusters (having multiple consonants next to each other), which easily allow for words to have much more complicated syllables, such as:There are many more words that have two or more syllables.
+
+Some languages do not use an alphabet with letters. Instead, each sign may stand for a syllable. For example: Japanese can be written using Kana. A writing system based on syllables is called a syllabary. Since words in languages like English can have many different complex syllables (well over 10,000 can be produced in English), writing such languages using a syllabary would be completely impractical, thus alphabets are much better suited to write languages with complex syllable structures. However, since words in Japanese can be made with just a few simple syllables (around 90), writing such languages are well suited for the type of language.
+
+UmbrellaAn umbrella is a hand tool that is used to stop rain from falling on a person. It is also used to make shade and protect people from sunlight. An umbrella made for protection from the sunlight is called a parasol. And a plastic umbrella is cheap but it is fragile.
+
+UsenetUsenet () is a type of discussion system on computers. It was created from the Unix-to-Unix Copy (UUCP) dial-up network architecture. Tom Truscott and Jim Ellis began the idea in 1979. The system was created in 1980. People read and post messages (called "articles", "posts"or "news") to one or more categories. These categories are called newsgroups. Usenet is similar to a bulletin board system (BBS) in many ways. It is the precursor to Internet forums. Discussions are threaded but posts are stored in order of when they were posted.
+
+A main difference between a BBS and Usenet is that usenet has no administrator. Also, the network used to share the messages is not constant. Usenet is spread over a large, constantly changing group of news servers. The servers store and forward messages to one another. Each user reads messages from and posts messages to a local server. The local server can be operated by anyone.
+
+Usenet is important in the networked world. Many well known ideas and terms were either created on usenet or made popular there. These include "FAQ", "flame", sockpuppet, and "spam". In the early 1990s, Usenet connections via Fidonet's dial-up BBS networks made it more common for people to discus things worldwide. They did not need a server, just (local) telephone service.
+
+DiagonalDiagonal is a kind of straight line. A diagonal line does not go straight up, down, or across. It is a line that connects two corners of a shape.
+
+In mathematics, "diagonal" has different meanings. For example, in geometry a diagonal is any line that goes between the corners of a polygon. So a square has two diagonals, and a five-sided shape has five diagonals. In general the count of diagonal can be identified by a formula [n(n-3)]/2 where n is the total number of sides of shapes.
+
+KwashiorkorKwashiorkor is a health condition of poor nutrition from not having enough protein in the diet. If a person uses up energy from carbohydrates (starches) and lipids (fats), their body may begin to use protein for energy.
+
+The body breaks down protein into energy that can be used. They then do not have enough protein for other needed bodily functions such as growth and building tissues like bones. Usually this is a condition of children from aged 1 to 5 years, but rarely adults and older children get it. It is common in poor places in Africa. Symptoms include having a pot belly, swollen face, and hair that is dark then light then dark. This can be cured by having a protein- rich diet.
+
+Kwashiorkor comes from a protein deficiency (lack) in the diet. Body parts becomes swollen due to an accumulation of water in the spaces between the body's cells. Other symptoms are poor muscle development, swollen legs, puffy face, difficulty in eating, diarrhea, and dry skin are the symptoms of this disease.
+
+Kwashiorkor - The New Oxford Dictionary of English, OUP 1998PopocatépetlPopocatépetl (also called El popo or Don Goyo) is an active volcano. The volcano is the second highest mountain in Mexico after Pico de Orizaba (5,610m). It is high .
+
+Popocatépetl is the Aztec word for "Smoking Mountain". Popocatépetl was an Aztec warrior who loved Iztaccíhuatl. Iztaccíhuatl's father sent Popocatepetl to war in Oaxaca. He promised him his daughter as his wife if he returned (which Iztaccíhuatl's father thought he would not). Iztaccíhuatl's father told her that her lover had died in battle. She died of sadness. When Popocatépetl returned, and found out about the death of his lover, he killed himself by stabbing a knife into his heart. The gods covered them with snow and changed them into mountains. Iztaccíhuatl's mountain was called "La Mujer Dormida, (the "Sleeping Woman"), because it looks like a woman sleeping on her back. Popocatépetl became the volcano Popocatépetl, raining fire on Earth in anger at the loss of his lover.
+
+Popocatepetl has had more than 20 big eruptions since the arrival of the Spanish in 1519. A major eruption happened in 1947. On December 21, 1994 the volcano threw out gas and ash which was carried as far as 25 km away by the wind. This led to people having to leave nearby towns. Scientists began to check the volcano for an eruption.
+
+The way scientists checked the volcano was by implementing 10 composite monitoring stations around the volcano, including broadband seismometers, thermal surveillance cameras, tiltmeters, electronic distance meters, lahar acoustic detectors and other instruments. In December 2000, tens of thousands of people were made to leave the area by the government based on the warnings of scientists. The volcano then made its largest display in thousands of years. The most recent eruption which was this year didn't have any injuries. Since it was so near Mexico City so many cameras were recording this eruption. Officials recorded that the eruption had a column of smoke that went as high as 2 miles into the air, with moderate ash content.
+
+North SeaThe North Sea is a sea that is part of the Atlantic Ocean in northern Europe. The North Sea is between Norway and Denmark in the east, Scotland and England in the west, Germany, the Netherlands, Belgium and France in the south.
+
+The Skagerrak connects the North Sea to the Baltic Sea. In the south, the North Sea becomes the English Channel, a sea between England and France. This is called the Dover Straits and is very busy with ships.
+
+The border between the North Sea and the Skagerrak is at an imagined line between Lindesnes in Norway, and Hanstholm in Denmark. In the North, the North sea is open towards the Atlantic. The border between the two is an imagined line from Northern Scotland, to Shetland, and then to Ålesund in Norway. According to the Oslo-Paris Treaty of 1962 it is a bit more to the west and the north though. The treaty puts it at 5° East longitude, and 62° North latitude. That is at the parallel of the Geirangerfjord in Norway.
+
+On average, the North Sea has a depth of only 94 meters. About 80 million people live near the North Sea, at most 150 km away from the coast. Together with the English Channel in the south, the southern North Sea is the busiest body of water in the world.
+
+Well-known rivers that drain into the North Sea include the Tay (at Dundee), the Forth (at Edinburgh), the Tyne (South Shields), the Wear (at Sunderland), the Tees (near Middlesbrough), the Elbe (at Cuxhaven), the Weser (at Bremerhaven), the Rhine and Meuse or Maas (at Rotterdam), the Scheldt (at Flushing or Vlissingen), the Thames, and the Humber (at Hull), and the river Nairn (at Nairn)The Kiel Canal, one of the world's busiest artificial waterways, connects the North Sea with the Baltic.
+
+Its name comes from its relationship to the land of the Frisians (see Frisia). They live directly to the south of the "North Sea", and to the west of the "East Sea" ("Oostzee", the Baltic Sea), the former "South Sea" ("Zuiderzee", today's IJsselmeer) and the today reclaimed "Middle Sea" ("Middelzee"). But the spread of the name could also be from the view of the cities of the Hanseatic League. Some of its main cities, like Lübeck, Bremen or Hamburg had the same view.
+
+In classical times this body of water was also called the "Oceanum Germanicum" or "Mare Germanicum", meaning German Ocean or Sea. This name was commonly used in English and other languages along with the name "North Sea", until the early eighteenth century. By the late nineteenth century, "German Sea" was a rare, scholarly usage even in Germany. In Danish the North Sea is also named "Vesterhavet" (besides "Nordsøen"), meaning "Western Ocean" because it is west of Denmark.
+
+Most of the North sea is on the European Continental shelf. On average, the depth is about 93 to 94 meters only. In the south it is very shallow, only 25 to 35 meters. In the north in the bathyal zone north of Shetland, this depth increases to between 100 and 200 metres. In the south, the depth is at most 50 metres. An exception to this is the Norwegian Trench. It is deepest there, with a depth of 725 metres. The most shallow part of it is a sand bank called Dogger Bank. In the southern part, there are many sand banks.
+
+Looking at the satellite picture it is easy to see the geographic divisions of the North Sea:The southern north sea is composed of the Southern Bight, before the coast of Belgium and the Netherlands and the German Bight before the coastline of Germany. The Dogger Bank is the limit between the southern and central parts. The Waddenzee runs all the way from Den Helder in the Netherlands to Esbjerg in Denmark.
+
+The Dogger Bank covers an area about half the size of the Netherlands. There, the North Sea has a depth of between 13 and 20 metres only. The area is very famous for fishing. With some storms there are even waves breaking there.
+
+The Norwegian Trench has an average depth of around 250 to 300 metres; at the entrance to the Skagerrak, the depth increases up to 725 meters. Along the trench is the Norwegian Current, which brings most of the waters of the North Sea into the Atlantic Ocean. Also, most of the waters of the Baltic Sea flow northwards here.
+
+About 200 km east of the Scottish city of Dundee there are more trenches, known collectively as the "Devil's hole". Generally, the water is about 90 meters deep there. The trenches very often are only a few kilometers in length. In these trenches, the depth increases to up to 230 meters.
+
+In the Dover Strait the water is about 30 meters deep. At the end of the English Channel, this depth increases to about 100 meters.
+
+In the last ice age the North Sea was covered by large areas of ice called glaciers. About 20,000 years ago the ice melted and the North Sea was formed (made).
+
+In the 1960s, geologists found large areas of oil and natural gas under the North Sea. Most of the oil fields are owned by the United Kingdom and Norway but some belong to Denmark, the Netherlands and Germany. Drilling began in the 1960s and led to a famous argument between the UK Government and Scottish Nationalists how the revenue (money) from the oil should be spent.
+
+People have been fishing in the North Sea for thousands of years. However, so many fish are now caught there that new ones may not be able to grow fast enough to keep the fishery going.
+
+Terns, Atlantic puffins, razorbills, kittiwakes and other seabirds live on the North Sea coast. Many coastal areas are protected nature reserves.
+
+LetterIn languages that use an alphabet, for example English, each symbol in the alphabet is a letter. Letters represent sounds when the language is spoken.
+
+Some languages do not use letters for writing: Chinese, for example, uses "ideograms".
+
+In English and many other languages, the smallest part of writing is the letter. We use letters to make words. In some languages, for example Spanish, there is usually one letter for one sound (or better: for one "phoneme", the smallest part of speech). This is easy to read. In other languages, for example English, we can use several different letters for the same sound in different words, or one letter for different sounds in different words. This is difficult for learners to read. Here are some examples:English, French, Spanish and many other languages use the Latin alphabet for writing. In this alphabet there are often two different letters for a sound. For example, "A" and "a". In other alphabets, for example the Cyrillic alphabet, there is only one letter for a sound (except for handwritten Cyrillic, in which the shape of the capital letter is much different - and usually unrecognisable - from its lowercase counterpart). The letters are: ABCDEFGHIJKLMNOPQRSTUVWXYZThere are about twenty-six alphabets currently, with Arabic, Cyrillic, and Roman in widest use. The following alphabets, abjads, and individual letters are discussed in related articles. Each represents a different script:Assamese alphabet:অ, আ, ই, ঈ, উ, ঊ, ঋ, এ, ঐ, ও, ঔ, ক, খ, গ, ঘ, ঙ, চ, ছ, জ, ঝ, ঞ, ট, ঠ, ড, ঢ, ণ, ত, থ, দ, ধ, ন, প, ফ, ব, ভ, ম, য, ৰ, ল, ৱ, শ, ষ, স, হ, ড়, ঢ়, য়, ৎ, ং, ঃ, ঁArabic alphabet: (Alphabetical from right to left) , , , , , , , , , , , , , , , , , , , , , , , , , , , .
+
+Armenian alphabet: Ա, Բ, Գ, Դ, Ե, Զ, Է, Ը, Թ, Ժ, Ի, Լ, Խ, Ծ, Կ, Հ, Ձ, Ղ, Ճ, Մ, Յ, Ն, Շ, Ո, Չ, Պ, Ջ, Ռ, Ս, Վ, Տ, Ր, Ց, Ւ, Փ, Ք, Օ, Ֆ.
+
+Syriac alphabet: (Alphabetical from right to left) ܐ, ܒ, ܓ, ܕ, ܗ, ܘ, ܙ, ܚ, ܛ, ܝ, ܟܟ, ܠ, ܡܡ, ܢܢ, ܣ, ܥ, ܦ, ܨ, ܩ, ܪ, ܫ, ܬ.
+
+Cyrillic script: А, Б, В, Г, Д, Е, Ж, З, И, І, К, Л, М, Н, О, П, Р, С, Т, У, Ф, Х, Ц, Ч, Ш, Щ, Ъ, Ы, Ь, Ю, Я.
+
+Georgian script: ა, ბ, გ, დ, ე, ვ, ზ, თ, ი, კ, ლ, მ, ნ, ო, პ, ჟ, რ, ს, ტ, უ, ფ, ქ, ღ, ყ, შ, ჩ, ც, ძ, წ, ჭ, ხ, ჯ, ჰGreek alphabet: Α, Β, Γ, Δ, Ε, Ζ, Η, Θ, Ι, Κ, Λ, Μ, Ν, Ξ, Ο, Π, Ρ, Σ, Τ, Υ, Φ, Χ, Ψ, Ω.
+
+Hebrew alphabet: (Alphabetical from right to left) א, ב, ג, ד, ה, ו, ז, ח, ט, י, כ, ל, מ, נ, ס, ע, פ, צ, ק, ר, ש, ת.
+
+Latin alphabet: A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z.
+
+Hangul: ㄱ ㄲ ㄴ ㄷ ㄸ ㄹ ㅁ ㅂ ㅃ ㅅ ㅆ ㅇ ㅈ ㅉ ㅊ ㅋ ㅌ ㅍ ㅎ ㅏ ㅐ ㅑ ㅒ ㅓ ㅔ ㅕ ㅖ ㅗ ㅘ ㅙ ㅚ ㅛ ㅜ ㅝ ㅞ ㅟ ㅠ ㅡ ㅢ ㅣ

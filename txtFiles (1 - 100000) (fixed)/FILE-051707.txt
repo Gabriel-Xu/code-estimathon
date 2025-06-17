@@ -1,0 +1,355 @@
+Microsoft also produces an integrated development environment largely for .
+
+NET software called Visual Studio.
+
+Microsoft also provides a sleep resource kit tool for Windows which can be used in batch files or the command prompt to pause the execution and wait for some time.
+
+Microsoft also purchased DNA it used to do research in DNA digital data storage.
+
+Microsoft also released the higher-powered Xbox One X targeted for 4K resolutions and virtual reality support.
+
+Microsoft also released the Windows Live Messenger Phone, which acts as an extension to Windows Live Messenger to make calls to other PC users or acts just like a normal telephone.
+
+Microsoft also sold a BASIC compiler, BASCOM, compatible with GW-BASIC, for programs needing more speed.
+
+Microsoft also updated the graphical user interface, shell features, and Windows Explorer in Windows ME with some of those first introduced in Windows 2000, which had been released as a business-oriented operating system seven months earlier.
+
+Microsoft altered its conference schedule and introduced the Microsoft Ignite name from 2015 on.
+
+Microsoft Amalga Unified Intelligence System (formerly known as Azyxxi) was a unified health enterprise platform designed to retrieve and display patient information from many sources, including scanned documents, electrocardiograms, X-rays, MRI scans and other medical imaging procedures, lab results, dictated reports of surgery, as well as patient demographics and contact information.
+
+Microsoft and Laplink PCmover have joined up to provide this functionality from Microsoft's site.
+
+Microsoft and Nortel share developing technologies and patents for unified communications products.
+
+Microsoft and SanDisk created a successor called StartKey.
+
+Microsoft announced Chromeffects as an add-on for Windows 98 to play 3D graphics and video through a web browser or in separate player software, for ads with flashing text and other animation, or to generate user interface enhancements for Web-based applications.
+
+Microsoft announced in March 2009 that they will cease to sell Microsoft Student and all editions of the Encarta encyclopedia by June 2009, citing changes in the way people seek information and in the traditional encyclopedia and reference material market as the key reasons behind the termination.
+
+Microsoft announced it had acquired DATAllegro as of September 2008.
+
+Microsoft announced on December 13, 2012 that Windows Live Mesh would be discontinued on February 13, 2013.
+
+Microsoft announced on January 23, 2015 that they had reached an agreement to purchase Revolution Analytics for an as yet undisclosed amount.
+
+Microsoft announced that Microsoft Small Business Financials is being discontinued and Microsoft is providing a highly discounted migration path to Dynamics GP.
+
+Microsoft announced that the product will no longer be supported or be available for download after January 10, 2017.
+
+Microsoft announced that the Windows Insider program would continue beyond the official release of Windows 10 for future updates.
+
+Microsoft announced that Windows 8 would see Windows Live apps included right out-of-the-box, and would include built-in synchronization technologies powered by OneDrive (then SkyDrive).
+
+Microsoft announced the cancelation of the game on 7 March 2016.
+
+Microsoft announced the discontinuation of the first Kinect for Windows device as of 2015.
+
+Microsoft announced the end of life of Silverlight 5 in 2012.
+
+Microsoft announced the retirement of Microsoft Classroom, which was completed on 31 January 2018.
+
+Microsoft announced the Windows Notification Service for Windows 8 and Windows Phone 8.
+
+1 in 2011, effectively replacing the MPNS with this service.
+
+Microsoft announced Windows 7 pricing information for some editions on June 25, 2009, and Windows Anytime Upgrade and Family Pack pricing on July 31, 2009.
+
+Microsoft Anti-Virus for Windows (MWAV), included as part of the package, was a front end that allowed MSAV to run properly on Windows 3.
+
+1x.
+
+Microsoft appealed to the United States Court of Appeals for the Second Circuit, who found in favor of Microsoft by 2016 and invalidated the warrant.
+
+Microsoft applications may use different data security models.
+
+Microsoft Application Virtualization (also known as App-V; formerly Softricity SoftGrid) is an application virtualization and application streaming solution from Microsoft.
+
+Microsoft Art Gallery is a 1993 art game published by Microsoft.
+
+Microsoft at Work was a short-lived effort promoted by Microsoft to tie together common business machinery, like fax machines and photocopiers, with a common communications protocol allowing control and status information to be shared with computers running Microsoft Windows.
+
+Microsoft AutoRoute is a discontinued mapping program, and the European version of Microsoft Streets & Trips.
+
+Microsoft Azure is supported by Better CMS.
+
+Microsoft Azure Search is a component of the Microsoft Azure Cloud Platform providing indexing and querying capabilities for data uploaded to Microsoft servers.
+
+Microsoft Azure SQL Database includes built-in intelligence that learns app patterns and adapts to maximize performance, reliability, and data protection.
+
+Microsoft Azure Stream Analytics is a serverless scalable complex event processing engine by Microsoft that enables users to develop and run real-time analytics on multiple streams of data from sources such as devices, sensors, web sites, social media, and other applications.
+
+Microsoft Band 2 was the second-generation smart band with smartwatch features developed by Microsoft.
+
+Microsoft Band was a smart band with smartwatch and activity tracker/fitness tracker features, created and developed by Microsoft.
+
+Microsoft Baseball 2001 is a baseball game made for the 2000 MLB season.
+
+Microsoft Baseline Security Analyzer (MBSA) is a software tool released by Microsoft to determine security state by assessing missing security updates and less-secure security settings within Microsoft Windows, Windows components such as Internet Explorer, IIS web server, and products Microsoft SQL Server, and Microsoft Office macro settings.
+
+Microsoft BASIC is the foundation product of the Microsoft company.
+
+Microsoft BizSpark was a Microsoft program that provided support to software entrepreneurs.
+
+Microsoft Broadband Networking was a series of computer networking hardware products marketed by Microsoft from 2002 through 2004.
+
+Microsoft Build Engine, better known as MSBuild, is a free and open-source build tool set for managed code as well as native C++ code and was part of .
+
+NET Framework.
+
+Microsoft bundled the game with the Xbox 360 in Japan and Europe.
+
+Microsoft Business Solutions GP, formerly Great Plains Dynamics and eEnterprise, is a Dexterity-written application.
+
+Microsoft Canada also organizes an X Show every year to presents its games to the Canadian press.
+
+Microsoft caused this confusion by labeling its NBF protocol implementation NetBEUI.
+
+Microsoft chairman Bill Gates said in 1996 that for a long time that company had the highest-volume AT&T Unix license.
+
+Microsoft claimed that Nashville would add Internet integration features to the Windows 95 and NT 4.
+
+0 desktop, building on the new features in the Internet Explorer 3.
+
+0 web browser (due for release a few months before Nashville).
+
+Microsoft claims that portability to platforms other than Microsoft Windows was one of its design goals.
+
+Microsoft claims that these offloading technologies nearly double the scalability, making Windows Media Services, according to the claim, the industry's most powerful streaming media server.
+
+Microsoft Classroom was an online blended learning platform for schools that aims to simplify grading assignments and student communication in a paperless way.
+
+Microsoft closed Xbox Entertainment Studios at the end of 2014.
+
+Microsoft Cluster Server (MSCS) is a computer program that allows server computers to work together as a computer cluster, to provide failover and increased availability of applications, or parallel calculating power in case of high-performance computing (HPC) clusters (as in supercomputing).
+
+Microsoft codenames are given by Microsoft to products it has in development, before these products are given the names by which they appear on store shelves.
+
+Microsoft Cognitive Toolkit describes neural networks as a series of computational steps via a directed graph.
+
+Microsoft Cognitive Toolkit, previously known as CNTK and sometimes styled as The Microsoft Cognitive Toolkit, is a deep learning framework developed by Microsoft Research.
+
+Microsoft Compiled HTML Help (CHM), DjVu, EPUB, FictionBook (FB2), MOBI, PRC, Open XML Paper Specification (OpenXPS, OXPS, XPS), and Comic Book Archive file (CB7, CBR, CBT, CBZ).
+
+Microsoft-compliant Pocket PCs can be used with many add-ons such as GPS receivers, barcode readers, RFID readers, and cameras.
+
+Microsoft confirmed Windows Home Server 2011 to be last release in the Windows Home Server product line.
+
+Microsoft Connected Services Framework (CSF) is a discontinued service-aggregation SOA platform from Microsoft.
+
+Microsoft continued to claim that it was still being developed, but it seems that by 1995 the effort was dead.
+
+Microsoft continued to updated the list of Xbox games that were compatible with Xbox 360 until November 2007 when the list was finalized.
+
+Microsoft Corporation continues to maintain RetrievalWare for its existing customer base.
+
+Microsoft Corporation is a leading developer of PC software.
+
+Microsoft Corporation is a multinational corporation based in Redmond, Washington, USA and founded by Bill Gates and Paul Allen that develops, manufactures, licenses, and supports a wide range of products and services predominantly related to computing.
+
+Microsoft Corporation v. United States of America was a complaint for declaratory judgment action filed in the U.
+
+S. District Court in Seattle, Washington.
+
+Microsoft Corp. v. i4i Ltd. Partnership, 564 U.
+
+S. 91 (2011), was a case decided by the Supreme Court of the United States that the patent-in-reexamination is still valid without any exceptions under 35 USC 282, even if the suggested material is not considered in the process of patent application.
+
+Microsoft Corp. v. Shah was an Anticybersquatting Consumer Protection Act (ACPA) case heard before the United States District Court for the Western District of Washington.
+
+Microsoft Corp. v. United States, known on appeal to the U.
+
+S. Supreme Court as United States v. Microsoft Corp., was a data privacy case involving the extraterritoriality of law enforcement seeking electronic data under the 1986 Stored Communications Act, Title II of the Electronic Communications Privacy Act of 1986 (ECPA), in light of modern computing and Internet technologies such as data centers and cloud storage.
+
+Microsoft Corp v. Zamos was litigation between Microsoft and David Zamos, a student at Kent State and the University of Akron in the United States.
+
+Microsoft CTECs are authorized to deliver Microsoft Official Curriculum courses to computer professionals using Microsoft Certified Trainers (MCTs).
+
+Microsoft currently has offices in the 9 cities of Ahmedabad, Bangalore, Chennai, Hyderabad, Kochi, Kolkata, Mumbai, the NCR (New Delhi and Gurgaon) and Pune.
+
+Microsoft currently has three different subfamilies of operating systems for embedded devices targeting a wide market, ranging from small-footprint, real-time devices to point of sale (POS) devices like kiosks.
+
+Microsoft Customer Care Framework (CCF) was a desktop-based framework which was used to address issues faced by service providers caused by multiple line of business (LOB) systems while interacting with their customers.
+
+Microsoft Data Access Components (MDAC; also known as Windows DAC) is a framework of interrelated Microsoft technologies that allows programmers a uniform and comprehensive way of developing applications that can access almost any data store.
+
+Microsoft decided not to productize the Intentional Programming paradigm, as in the early 2000s Microsoft was rolling out C# and .
+
+NET to counter Java adoption.
+
+Microsoft delayed the upgrade and reduced the supported device list from their initial promise.
+
+Microsoft Deployment Toolkit (MDT; formerly Business Desktop Deployment) is a computer program that permits network deployment of Microsoft Windows and Microsoft Office.
+
+Microsoft described the phones' target demographic as men and women between ages 15 and 30.
+
+Microsoft described Windows 10 as an "operating system as a service" that would receive ongoing updates to its features and functionality, augmented with the ability for enterprise environments to receive non-critical updates at a slower pace, or use long-term support milestones that will only receive critical updates, such as security patches, over their five-year lifespan of mainstream support.
+
+Microsoft describes it as providing "a layer over the Win32 API on Windows 95/98/ME so that you can write a single Unicode version of your application and have it run properly on all platforms."
+
+Microsoft describes Logparser as a powerful, versatile tool that provides universal query access to text-based data such as log files, XML files and CSV files, as well as key data sources on the Windows operating system such as the Event Log, the Registry, the file system, and Active Directory.
+
+Microsoft Desktop Optimization Pack (MDOP) is a suite of utilities for Microsoft Windows customers who have subscribed to Microsoft Software Assurance program.
+
+Microsoft developed AppFabric Caching and released it as part of AppFabric.
+
+Microsoft developed it as part of the Windows Rally set of technologies.
+
+Microsoft developed it as the XML Paper Specification (XPS).
+
+Microsoft developed their own C compiler that was released in April 1985 as Microsoft C Compiler 3.
+
+0.
+
+Microsoft developed WebMatrix for the purpose of providing web developers with coding, customization, and publishing capabilities all in one place.
+
+Microsoft Developer Network (MSDN) is the portion of Microsoft responsible for managing the firm's relationship with developers and testers, such as hardware developers interested in the operating system (OS), and software developers developing on the various OS platforms or using the API or scripting languages of Microsoft's applications.
+
+Microsoft Development Center Serbia (MDCS) is one of the several Microsoft's development centers in the world.
+
+Microsoft Device Emulator is an emulator for Windows Mobile-based devices.
+
+Microsoft did not overtly market the website, and appeared to be relying on media coverage to draw users in.
+
+Microsoft Dinosaurs is an educational interactive CD-Rom developed by Microsoft, themed around dinosaurs.
+
+Microsoft DirectCompute is an application programming interface (API) that supports running compute kernels on general-purpose computing on graphics processing units on Microsoft's Windows Vista, Windows 7 and later versions.
+
+Microsoft DirectX is a collection of application programming interfaces (APIs) for handling tasks related to multimedia, especially game programming and video, on Microsoft platforms.
+
+Microsoft discontinued Nokia Store in 2015, and users were transitioned to Opera Mobile Store as the new application store for legacy Nokia devices.
+
+Microsoft discontinued sales of the software on June 30, 2009 and removed access to online services for existing Money installations in January 2011.
+
+Microsoft discontinued the ability to save in the MPX format with Microsoft Project 2000, but the ability to read the MPX format is supported up to Microsoft Project 2010.
+
+Microsoft discontinued the application in February 2018, as PDF reading functionality was moved to the Microsoft Edge browser.
+
+Microsoft discontinued the dolls in 2000 and lost the patent rights to the toys not long afterwards.
+
+Microsoft discontinued the line in May 2004.
+
+Microsoft discontinued the service for its devices and advised its users to migrate to Microsoft Skype and Outlook.
+
+com.
+
+Microsoft Display Dock is a display docking station that allows selected Windows 10 mobile devices to connect to a computer monitor, mouse, and keyboard for a desktop PC-like experience.
+
+Microsoft divested its stake in the MSNBC channel in 2005, and divested its stake in msnbc.
+
+com in July 2012.
+
+Microsoft DNS is the name given to the implementation of domain name system services provided in Microsoft Windows operating systems.
+
+Microsoft Download Manager is a simple download manager for Windows that was published by Microsoft in 2011.
+
+Microsoft dropped support for APM in Windows Vista.
+
+Microsoft Dynamics 365 for Finance and Operations (Enterprise Edition) is a Microsoft enterprise resource planning (ERP) system for medium to large organizations.
+
+Microsoft Dynamics AX is one of Microsoft's enterprise resource planning software products.
+
+Microsoft Dynamics C5 is a business software from Microsoft.
+
+Microsoft Dynamics CRM currently has over 40,000 customers.
+
+Microsoft Dynamics CRM is a customer relationship management software package developed by Microsoft.
+
+Microsoft Dynamics ERP comprises five primary products: Microsoft Dynamics AX, Microsoft Dynamics GP, Microsoft Dynamics NAV, Microsoft Dynamics SL and Microsoft Dynamics C5.
+
+Microsoft Dynamics ERP is enterprise resource planning (ERP) software primarily geared toward midsize organizations as well as subsidiaries and divisions of larger organizations.
+
+Microsoft Dynamics forms part of "Microsoft Business Solutions".
+
+Microsoft Dynamics GP is a mid-market business accounting software or ERP software package marketed in North and South America, UK and Ireland, the Middle East, Singapore, Australia and New Zealand.
+
+Microsoft Dynamics NAV is an enterprise resource planning (ERP) app from Microsoft.
+
+Microsoft Edge extensions are distributed via Microsoft Store.
+
+Microsoft Egypt is a division of Microsoft which markets Microsoft products in Egypt.
+
+Microsoft embraced all of the proposed features of the manifesto and added considerably more with the first release of DirectDraw in DirectX 1.
+
+0.
+
+Microsoft encouraged application developers to develop Metro versions of their applications.
+
+Microsoft ended mainstream support for Windows 98 and 98 SE on June 30, 2002, and extended support on July 11, 2006.
+
+The startup sound for Windows 98 was composed by Microsoft sound engineer Ken Kato, who considered it to be a "tough act to follow".
+
+Microsoft ended mainstream support for Windows NT 4.
+
+0 Workstation on 30 June 2002 and extended support on 30 June 2004, while Windows NT 4.
+
+0 Server mainstream support ended on 31 December 2002 and extended support on 31 December 2004.
+
+Microsoft ended support for Windows 95 on December 31, 2001.
+
+Microsoft ended support for Windows Phone 7 on October 14, 2014.
+
+Microsoft engineering groups are the operating divisions of Microsoft.
+
+Microsoft Entourage is a discontinued e-mail client and personal information manager that was developed by Microsoft for Mac OS 8.
+
+5 and later.
+
+Microsoft estimates that roughly half a billion people use the Microsoft Office suite, which includes Word.
+
+Microsoft Excel, a popular spreadsheet program, refers to a single spreadsheet (more technically, a two-dimensional matrix or array) as a worksheet, and it refers to a collection of worksheets as a workbook.
+
+Microsoft Excel (at least to Office 2016) will then emit misleading error messages relating to the format of the file, such as "The file you are trying to open, 'x.
+
+csv', is in a different format than specified by the file extension...".
+
+Microsoft Excel has always had a deliberate leap year bug, which falsely treats February 29, 1900 as an actual date, to ensure backwards compatibility with Lotus 1-2-3.
+
+Microsoft Excel is a spreadsheet developed by Microsoft for Windows, macOS, Android and iOS.
+
+Microsoft Excel spreadsheets can be created automatically to further analyze the data.
+
+Microsoft Exchange Hosted Services, also known as FrontBridge, is an email filtering system owned by Microsoft.
+
+Microsoft Exchange Server is a mail server and calendaring server developed by Microsoft.
+
+Microsoft Exchange, up to Exchange 2003 shipped with only the 32-bit edition, as it was the only supported platform.
+
+Microsoft Expression Encoder (formerly Expression Media Encoder) is a transcoding and non-linear video editing software application for Microsoft Windows.
+
+Microsoft Expression Studio is a discontinued suite of tools for designing and building web and Windows client applications and rich digital media contents.
+
+Microsoft Expression Web is an HTML editor and general web design software product by Microsoft.
+
+Microsoft extensions to VC-1 are based on cached frame and SP-frame.
+
+Microsoft first distributed it, along with Carter's Verdana, as a standard font in the initial release of Windows 95.
+
+Microsoft first presented the at Work concept at a release party on 9 June 1993.
+
+Microsoft first released Entourage in October 2000 as part of the Microsoft Office 2001 office suite; Office 98, the previous version of Microsoft Office for the classic Mac OS included Outlook Express 5.
+
+Microsoft first released the utility in 1999 to help Windows-based computers clean up installed programs that would either refuse or pretend not to remove themselves from the "add/remove programs" feature in Microsoft Windows.
+
+Microsoft first unofficially adopted the WMA+G for use on the Xbox for the Xbox karaoke product.
+
+Microsoft Flight is an aviation game from Microsoft Studios created as a successor to the discontinued Microsoft Flight Simulator series.
+
+Microsoft Flight Simulator 2002 is a video game released in October 2001, and is the 8th installment of the Microsoft Flight Simulator video game series.
+
+Microsoft Flight Simulator may be the longest-running PC game series of all time, and has been credited with instigating the emergence of aviation-oriented joysticks as the predominant control method for PCs.
+
+Microsoft Flight Simulator X (abbreviated to FSX) is a 2006 flight simulation computer game originally developed for, and published by Microsoft Game Studios for Microsoft Windows.
+
+Microsoft Forefront products are designed to help protect computer networks, network servers (such as Microsoft Exchange Server and Microsoft SharePoint Server) and individual devices.
+
+Microsoft Forefront Threat Management Gateway (Forefront TMG), formerly known as Microsoft Internet Security and Acceleration Server (ISA Server), is a network router, firewall, antivirus program, VPN server and web cache from Microsoft Corporation.
+
+Microsoft Forefront Unified Access Gateway (UAG), is a computer software solution that provides secure remote access to corporate networks for remote employees and business partners.
+
+Microsoft formally stopped including Easter eggs in its programs as part of its Trustworthy Computing Initiative in 2002.
+
+Microsoft Foundation Class Library (MFC) is a C++ object-oriented library for developing desktop applications for Windows.
+
+Microsoft FrontPage (full name Microsoft Office FrontPage) is a discontinued WYSIWYG HTML editor and website administration tool from Microsoft for the Microsoft Windows line of operating systems.

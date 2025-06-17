@@ -1,0 +1,265 @@
+A synagogue was put into use.
+
+A synagogue with a mikvah existed in the city before 1295.
+
+A synapomorphy is a shared trait found among two or more taxa and their most recent common ancestor, whose ancestor in turn does not possess the trait.
+
+A synapomorphy that unites the members of this tribe is "an unusual two-lipped calyx in which the two upper lobes are much enlarged and the three lower lobes are reduced to small teeth."
+
+A synapse is cholinergic if it uses acetylcholine as its neurotransmitter.
+
+A synapse is GABAergic if it uses GABA as its neurotransmitter.
+
+A synapse that has undergone acclimatization is said to be fatigued.
+
+Asynapteron contrarium is a species of beetle in the family Cerambycidae.
+
+Asynapteron eburnigerum is a species of beetle in the family Cerambycidae.
+
+Asynapteron equatorianum is a species of beetle in the family Cerambycidae.
+
+Asynapteron glabriolum is a species of beetle in the family Cerambycidae.
+
+Asynapteron inca is a species of beetle in the family Cerambycidae.
+
+Asynapteron ranthum is a species of beetle in the family Cerambycidae.
+
+A synaptic transistor is an electrical device that can learn in ways similar to a neural synapse.
+
+A synaptopathy is a disease of the brain, spinal cord or peripheral nervous system relating to the dysfunction of synapses.
+
+A synaptosome is an isolated synaptic terminal from a neuron.
+
+A synarthrosis is a type of joint which permits very little or no movement under normal conditions.
+
+A sync box, also known as a phase adjuster in England, is a device designed to sync a film camera's shutter with TV or computer screens, otherwise thick, black roll bars appear on the video screen within the film image.
+
+A synchromesh arrangement ensures smooth engagement by matching the shaft speeds before the dog clutch is allowed to engage.
+
+A Synchronistic View of the Events, Characteristics, and Culture of Each Period, including the History of Polity, Worship, Literature, and Doctrines: Together with Two Supplementary Tables upon the Church in America; And an Appendix Containing the Series of Councils, Popes, Patriarchs, and Other Bishops, and a Full Index (1860).
+
+A synchronized swimming competition was held at the 1998 World Aquatics Championships, in Perth, Western Australia between 8 and 17 January 1998.
+
+A synchronoptic view can be used for many purposes but is best suited to the visual display of history.
+
+A synchronoptic view has important educational advantages.
+
+A synchronoptic view is a graphic display of a number of entities as they proceed through time.
+
+A synchronous circuit is clocked and at each tick of its clock, it computes instantaneously its output values and the new values of its memory cells (latches) from its input values and the current values of its memory cells.
+
+Asynchronous conferencing is the formal term used in science, in particular in computer-mediated communication, collaboration and learning, to describe technologies where there is a delay in interaction between contributors.
+
+Asynchronous Connection-Less Link (ACL) is used when data integrity is more important than avoiding latency.
+
+Asynchronous input/output is an example of the latter cause of asynchrony, and lets programs issue commands to storage or network devices that service these requests while the processor continues executing the program.
+
+Asynchronous I/O is particularly useful for sockets and pipes.
+
+Asynchronous I/O is used to improve throughput, latency, and/or responsiveness.
+
+Asynchronous learning is a student-centered teaching method that uses online learning resources to facilitate information sharing outside the constraints of time and place among a network of people.
+
+Asynchronous learning is based on constructivist theory, a student-centered approach that emphasizes the importance of peer-to-peer interactions.
+
+Asynchronous means that when a database transaction has been committed to the master server, it is not yet guaranteed to be available in slaves.
+
+Asynchronous method dispatch (AMD), a data communication method used when there is a need for the server side to handle a large number of long lasting client requests.
+
+Asynchronous module definition (AMD) is a specification for the programming language JavaScript.
+
+Asynchronous muscles are muscles in which there is no one-to-one relationship between electrical stimulation and mechanical contraction.
+
+A synchronous orbit has a period equal to the rotational period of the body which contains the barycenter of the orbit.
+
+A synchronous orbit is an orbit in which an orbiting body (usually a satellite) has a period equal to the average rotational period of the body being orbited (usually a planet), and in the same direction of rotation as that body.
+
+A synchronous or synchronized culture is a microbiological culture or a cell culture that contains cells that are all in the same growth stage.
+
+Asynchronous PPRC will flag tracks on the primary to be duplicated to the secondary when time permits.
+
+Asynchronous procedure call, a method to run a procedure concurrently, a lightweight alternative to Threads.
+
+Asynchronous procedure call is a unit of work in a computer.
+
+A synchronous programming language is a computer programming language optimized for programming reactive systems.
+
+Asynchronous replication can achieve an RPO of just a few seconds while the remaining methodologies provide an RPO of a few minutes to perhaps several hours.
+
+Asynchronous serial communication is a form of serial communication in which the communicating endpoints' interfaces are not continuously synchronized by a common clock signal.
+
+A Synchronous Serial Port (SSP) is a controller that supports the Serial Peripheral Interface (SPI), 4-wire Synchronous Serial Interface (SSI), and Microwire serial busses.
+
+Asynchronous System Trap (AST) refers to a mechanism used in several computer operating systems designed by the former Digital Equipment Corporation (DEC) of Maynard, Massachusetts.
+
+Asynchronous Transfer Mode (ATM) was promoted as a target technology for meeting these requirements.
+
+Asynchrony, in computer programming, refers to the occurrence of events independent of the main program flow and ways to deal with such events.
+
+A syncing system is not implemented, but syncing can be achieved, by syncing the password files with Git.
+
+Asynclitic presentation is significantly different from a shoulder presentation, in which the shoulder is presenting first.
+
+A syncretism has occurred where Catholic saints represent traditional African deities.
+
+A syncrolift or synchrolift is a system for lifting boats and ships out of the water for maintenance work or repair.
+
+A sync stripper circuit was used to isolate the sync pulses and colorburst from the video signal; the recovered sync information was fed to a sweep circuit which drove the horizontal axis.
+
+A syndemic or synergistic epidemic is the aggregation of two or more concurrent or sequential epidemics or disease clusters in a population with biological interactions, which exacerbate the prognosis and burden of disease.
+
+A syndesmophyte is a bony growth originating inside a ligament, commonly seen in the ligaments of the spine, specifically the ligaments in the intervertebral joints leading to fusion of vertebrae.
+
+Asyndetus is a genus of flies in the family Dolichopodidae.
+
+A syndicated live-action series entitled simply "Record Breakers" plugging the toyline aired some of these events.
+
+A syndicated transcription package produced by the Louis G. Cowan agency, Cloak and Dagger was broadcast from May 7 to October 22, 1950, with a cast that included Raymond Edward Johnson, Everett Sloane and Jackson Beck.
+
+A syndicated version of Storm Stories is distributed by Litton Entertainment to television stations around the country.
+
+A syndicate is a self-organizing group of individuals, companies, corporations or entities formed to transact some specific business, to pursue or promote a shared interest.
+
+A syndicus ranked between a mayor and a senator and had the title "Magnificence".
+
+A syndrome can affect one or more of body systems.
+
+A syndrome is a combination of three or more abnormalities.
+
+A syndrome is a set of medical signs and symptoms that are correlated with each other.
+
+A synechia is an eye condition where the iris adheres to either the cornea (i.
+
+e. anterior synechia) or lens (i.
+
+e. posterior synechia).
+
+A syneclise is a large, relatively shallow depression formed in a continental platform setting, due to slow and steady subsidence.
+
+Asynergy is defective or absent co-ordination between organs, muscles, limbs or joints, resulting in a loss in movement or speed.
+
+Asynergy is most likely to occur during complex movements, where several individual muscle contractions are needed to act in unison.
+
+Asynergy may be caused by cerebellar disorders.
+
+A synestia forms following a high energy, high angular momentum, giant impact.
+
+A synfire chain (synchronous firing chain) is a feed-forward network of neurons with multiple layers or pools.
+
+A SYN flood is a form of denial-of-service attack in which an attacker sends a succession of SYN requests to a target's system in an attempt to consume enough server resources to make the system unresponsive to legitimate traffic.
+
+A syngeneic graft is known as an isograft.
+
+Asyngenes affinis is a species of beetle in the family Cerambycidae.
+
+Asyngenes chalceolus is a species of beetle in the family Cerambycidae.
+
+Asyngenes strandiellus is a species of beetle in the family Cerambycidae.
+
+Asyngenes venezuelensis is a species of beetle in the family Cerambycidae.
+
+A synod assembly is an event in which nominated representatives of congregations of the Evangelical Lutheran Church in America go and vote on how to run the Synod, elect in Bishops, and elect representatives to the ELCA's churchwide assemblies.
+
+A synomic species, Astheniodes polycymaria (the two species have almost identical male genitalia), has a holotype that was recorded by Hampton as being from India, which, as Xue and Scoble point out in their paper, would be a very strange distribution pattern.
+
+A synonym cannot exist in isolation: it is always an alternative to a different scientific name.
+
+A synonym for this mushroom is Agrocybe semiorbicularis.
+
+A synonym for to consecrate is to sanctify; a distinct antonym is to desecrate.
+
+A synonym for victim theory is victim myth (corresponding to the terms of Habsburg Myth, Myth of the emperor, Myth of origins).
+
+A synonym for Weinmannia tomentosa is Windmannia tomentosa.
+
+A synonymic list of the British species of Philhydrida' appeared the following year in the same journal.
+
+A synonym is an alias or alternate name for a table, view, sequence, or other schema object.
+
+A synonym is <colorimetric> detection.
+
+A synonym is Montia sibirica.
+
+A synonym may be "quirk".
+
+A synonym of Aachenosaurus is Aachenoxylon, which was coined by Dr Maurice Hovelacque in 1889/1890.
+
+A synonymous but more pejorative term is old maid.
+
+A synonymous phrase is "altered state of awareness".
+
+A synonymous substitution (often called a silent substitution though they are not always silent) is the evolutionary substitution of one base for another in an exon of a gene coding for a protein, such that the produced amino acid sequence is not modified.
+
+A synonymous term is hectomillionaire.
+
+A synonym seen in many contexts is minimum attractive rate of return.
+
+A synonym, typically used in civil law actions, is mulct.
+
+A synonym used at IBM is RIT (release interface tape).
+
+A synopsis of the author that accompanies her publications notes that she researched the market for romance fiction before electing to write in this category.
+
+A synopsis of the grant stated: Planning and design efforts will address modifications to infrastructure, subdivision of properties, zoning changes, and connections to the light rail stop and bike paths at Canal Crossing, a 111-acre redevelopment site in Jersey City surrounded by predominately minority households with high unemployment and poverty rates.
+
+A synovial joint, also known as diarthrosis, joins bones with a fibrous joint capsule that is continuous with the periosteum of the joined bones, constitutes the outer boundary of a synovial cavity, and surrounds the bones' articulating surfaces.
+
+A synovial sarcoma (also known as: malignant synovioma) is a rare form of cancer which occurs primarily in the extremities of the arms or legs, often in close proximity to joint capsules and tendon sheaths.
+
+A synovial sheath is one of the two membranes of a tendon sheath which covers a tendon.
+
+A synsepal is a floral structure formed by the partial or complete fusion of two or more sepals.
+
+A syntactic category is a type of syntactic unit that theories of syntax assume.
+
+A syntactic expletive (abbreviated EXPL) is a word that performs a syntactic role but contributes nothing to meaning.
+
+A syntax error may also occur when an invalid equation is entered into a calculator.
+
+A syntax file editor is included.
+
+A synth electro rock song, it sings of remembering nostalgia of a failed relationship, which was mainly based on Tranter's and Keyes's real life experiences.
+
+A synthesis of tetraether has also been carried out.
+
+A Synthesis of the Russian Textbook on Psychopolitics, sometimes referred to as The Brainwashing Manual, is a book published in 1955.
+
+A synthesizable CPU core, it was for many years maintained by developers at OpenCores.
+
+org, although, since 2015, that activity has now been taken over by the Free and Open Source Silicon Foundation at the librecores.
+
+org website.
+
+A synthesizer of microbial cellulose, various members of the genus are human flora and may be found in the skin and large intestine.
+
+A synthesizer (often abbreviated as synth) is an electronic musical instrument that generates audio signals that may be converted to sound.
+
+A synthetic 3G pitch was installed to replace the previous grass surface in 2010.
+
+A synthetically produced Nasonov pheromone can be used to attract a honey bee swarm to an unoccupied hive or a swarm-catching box.
+
+A synthetic analog of IGF-1, mecasermin, is used for the treatment of growth failure.
+
+A synthetic example is found in iron zeolites, which stabilize Alpha-Oxygen.
+
+A synthetic genome was transferred into an empty cell to form the bacterium.
+
+A synthetic instrument is a kind of virtual instrument that is purely software defined.
+
+A synthetic instrument performs a specific synthesis, analysis, or measurement function on completely generic, measurement agnostic hardware.
+
+A synthetic mode is a mode that cannot be derived from the diatonic scale by starting on a different note.
+
+A Synthetic Natural Environment (SNE) is the representation in a synthetic environment of the physical world within which all models of military systems exist and interact (i.
+
+e. climate, weather, terrain, oceans, space, etc.).
+
+A synthetic pathway for lauryl methyl gluceth-10 hydroxypropyldimonium chloride and other methyl glucoside humectants has been outlined in trade literature.
+
+A synthetic radioisotope is a radionuclide that is not found in nature: no natural process or mechanism exists which produces it, or it is so unstable that it decays away in a very short period of time.
+
+A synthetic seismogram is the result of forward modeling the seismic response of an input earth model, which is defined in terms of 1D, 2D or 3D variations in physical properties.
+
+A synthetic structure matching that of natural viridicatumtoxin B makes possible synthetic variants that match or surpass its antibiotic potency.
+
+A synthetic vaccine is a vaccine consisting mainly of synthetic peptides, carbohydrates, or antigens.

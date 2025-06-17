@@ -1,0 +1,213 @@
+In molecular biology, the HORMA domain (named after the Hop1p, Rev7p and MAD2 proteins) is a protein domain that has been suggested to recognize chromatin states resulting from DNA adducts, double stranded breaks or non-attachment to the spindle and act as an adaptor that recruits other proteins.
+
+In molecular biology, the Hsp17 thermometer is an RNA element (RNA thermometer) found in the 5' UTR of Hsp17 mRNA.
+
+In molecular biology, the hyccin protein family is a family of proteins which may have a role in the beta-catenin-Tcf/Lef signaling pathway, as well as in the process of myelination of the central and peripheral nervous system.
+
+In molecular biology, the hydrogenase maturation protease family is a family of aspartic endopeptidases belonging to MEROPS family A31.
+
+In molecular biology, the IMPDH/GMPR family of enzymes includes IMP dehydrogenase and GMP reductase.
+
+In molecular biology, the interferon gamma receptor (IFNGR1) family is a family of proteins which includes several eukaryotic and viral interferon gamma receptor proteins.
+
+In molecular biology, the interferon-inducible GTPase (IIGP) family of proteins is thought to play a role in intracellular defense.
+
+In molecular biology the International Molecular Exchange Consortium (IMEx) is a group of the major public providers of molecular interaction data which collaborate to supply the user with a single, non-redundant set of molecular interactions, captured using a detailed curation model and made available in the PSI-MI standard formats.
+
+In molecular biology, the iron dependent repressors are a family of bacterial and archaeal transcriptional repressors.
+
+In molecular biology, the iron-sulfur cluster biosynthesis protein family of includes proteins involved in biogenesis of Fe-S clusters (iron-sulfur cluster insertion protein, Fe/S biogenesis protein).
+
+In molecular biology, the isocitrate/isopropylmalate dehydrogenase family is a protein family consisting of the evolutionary related enzymes isocitrate dehydrogenase, 3-isopropylmalate dehydrogenase and tartrate dehydrogenase.
+
+In molecular biology, the jacalin-like lectin domain is a mannose-binding lectin domain with a beta-prism fold consisting of three 4-stranded beta-sheets, with an internal pseudo 3-fold symmetry.
+
+In molecular biology, the KilA-N domain is a conserved protein domain.
+
+In molecular biology, the killer toxin Kp4 family is a family of killer toxins, which includes the Kp4 killer toxin from the smut fungus Ustilago maydis.
+
+In molecular biology, the kinase binding protein CGI-121 family of proteins includes the kinase binding protein CGI-121 and its homologues.
+
+In molecular biology, the La domain is a conserved protein domain.
+
+In molecular biology, the lamprin family of proteins consists of several lamprin proteins from the Sea lamprey Petromyzon marinus.
+
+In molecular biology, the LCCL domain is a protein domain which has been named after several well-characterized proteins that were found to contain it, namely Limulus clotting factor C, Coch-5b2 (Cochlin) and Lgl1.
+
+In molecular biology, the leguminous lectin family is a family of lectin proteins.
+
+In molecular biology, the LIM domain-binding protein family is a family of proteins which binds to the LIM domain of LIM homeodomain proteins which are transcriptional regulators of development.
+
+In molecular biology, the lipopolysaccharide kinase (Kdo/WaaP) family is a family of kinases.
+
+In molecular biology, the LisH domain (lis homology domain) is a protein domain found in a large number of eukaryotic proteins, from metazoa, fungi and plants that have a wide range of functions.
+
+In molecular biology, the Lon protease family is a family of proteases.
+
+In molecular biology, the LuxR-type DNA-binding HTH domain is a DNA-binding, helix-turn-helix (HTH) domain of about 65 amino acids.
+
+In molecular biology the LysM domain is a protein domain found in a wide variety of extracellular proteins and receptors.
+
+In molecular biology, the Macro domain or A1pp domain is a module of about 180 amino acids which can bind ADP-ribose, an NAD metabolite, or related ligands.
+
+In molecular biology, the mitochondrial ribosomal death-associated protein 3 family of proteins is a family of conserved proteins which were originally described as death-associated-protein-3 (DAP-3).
+
+In molecular biology the MIZ-type zinc finger domain is a zinc finger-containing protein with homology to the yeast protein, Nfi-1.
+
+In molecular biology the MYND-type zinc finger domain is a conserved protein domain.
+
+In molecular biology, the myogenic determination factor 5 proteins are a family of proteins found in eukaryotes.
+
+In molecular biology, the NADH dehydrogenase (ubiquinone) 1 alpha subcomplex subunit 7 family of proteins (also known as NADH-ubiquinone oxidoreductase subunit B14.
+
+5a or Complex I-B14.
+
+5a) form a part of NADH dehydrogenase (complex I).
+
+In molecular biology the nematode Her-1 protein is a protein which adopts an all-helical structure with two subdomains: amino acids 19-80 comprise a left-handed three-helix bundle with an overhand connection between the second and third helices, whilst amino acids 81-164 comprise a left-handed anti-parallel four-helix bundle in which the first helix consists of four consecutive turns of 3-10-helix.
+
+In molecular biology, the Norovirus cis-acting replication element (CRE) is an RNA element which is found in the coding region of the RNA-dependent RNA polymerase in Norovirus.
+
+In molecular biology, the ODC internal ribosome entry site (IRES) is an RNA element present in the 5' UTR of the mRNA encoding ornithine decarboxylase.
+
+In molecular biology the PIN domain is a protein domain that is about 130 amino acids in length.
+
+In molecular biology, the plant calmodulin-binding domain is a protein domain found repeated in a number of plant calmodulin-binding proteins.
+
+In molecular biology, the polyketide synthesis cyclase family of proteins includes a number of cyclases involved in polyketide synthesis in a number of actinobacterial species.
+
+In molecular biology, the PRINTS database is a collection of so-called "fingerprints": it provides both a detailed annotation resource for protein families, and a diagnostic tool for newly determined sequences.
+
+In molecular biology, the prokaryotic riboflavin biosynthesis protein is a bifunctional enzyme found in bacteria.
+
+In molecular biology, the protein domain Adenosine deaminase z-alpha domain refers to an evolutionary conserved protein domain.
+
+In molecular biology, the protein domain b1 refers to the domain b1 of Protein L. L is a bacterial protein with immunoglobulin (Ig) light chain-binding properties.
+
+In molecular biology, the protein domain eIF4-gamma/eIF5/eIF2-epsilon is a family of evolutionarily related proteins.
+
+In molecular biology, the protein domain named the Shugoshin N-terminal coiled-coil region is a domain found on the N-terminal region of the Shugoshin protein in eukaryotes.
+
+In molecular biology, the protein domain Saccharopine dehydrogenase (SDH), also named Saccharopine reductase, is an enzyme involved in the metabolism of the amino acid lysine, via an intermediate substance called saccharopine.
+
+In molecular biology, the protein domain SAND is named after a range of proteins in the protein family: Sp100, AIRE-1, NucP41/75, DEAF-1.
+
+In molecular biology, the protein domain SdrG C terminal refers to the C terminus domain of an adhesin found only on the cell walls of bacteria.
+
+In molecular biology, the protein domain selenoprotein P (SelP) is the only known eukaryotic selenoprotein that contains multiple selenocysteine (Sec) residues.
+
+In molecular biology the protein domain SeqA is one found in bacteria and archaea.
+
+In molecular biology the protein domain, Siah interacting protein N-terminal domain is found at the N-terminal of the protein, Siah interacting protein (SIP).
+
+In molecular biology, the protein domain SRCR is short for Scavenger receptor cysteine-rich domain.
+
+In molecular biology, the protein domain Sterile alpha motif (or SAM) is a putative protein interaction module present in a wide variety of proteins involved in many biological processes.
+
+In molecular biology, the protein domain Stirrup is a domain, found only in found in the domain, archaea.
+
+In molecular biology, the protein domain suppressor of fused protein (Sufu) has an important role in the cell.
+
+In molecular biology, the protein domain SWAP is derived from the term Suppressor-of-White-APricot, a splicing regulator from the model organism Drosophila melanogaster.
+
+In molecular biology the protein domain Syntaxin 6 N terminal protein domain is a soluble N-ethylmaleimide-sensitive factor attachment protein receptor (SNARE) found in endosomal transport vesicles.
+
+In molecular biology, the protein domain UBA is short for ubiquitin-associated domains.
+
+In molecular biology, the protein domain VEK-30, is a 30-amino acid long, internal peptide present within bacterial organisms that acts as an epitope or antigenic determinant.
+
+In molecular biology, the protein domain Von Willebrand factor type D domain belongs to a large family of proteins, named, the von Willebrand factor (vWF).
+
+In molecular biology, the protein domain, WIF N-terminal refers to the N terminal domain of the protein, WIF.
+
+In molecular biology the protein domain XPG refers to, in this case, the N-terminus of XPG.
+
+In molecular biology, the protein domain, Ydc2 (also known as SpCce1), is a Holliday junction resolvase from the fission yeast Schizosaccharomyces pombe that is involved in the maintenance of mitochondrial DNA.
+
+In molecular biology, the protein domain YopE refers to the secretion of virulence factors in Gram-negative bacteria involves transportation of the protein across two membranes to reach the cell exterior.
+
+In molecular biology, the protein domain, YTH refers to a member of the YTH family that has been shown to selectively remove transcripts of meiosis-specific genes expressed in mitotic cells.
+
+In molecular biology, the protein family Dispanin is another name for Interferon-induced transmembrane protein (IFITM).
+
+In molecular biology, the protein Sprouty is a developmental protein involved in cell signaling.
+
+In molecular biology, the PsbZ (Ycf9) is a protein domain, which is low in molecular weight.
+
+In molecular biology, the PyrC leader is a cis-regulatory RNA element found at the 5' of the PyrC mRNA in Enterobacteria.
+
+In molecular biology, the PyrD leader is a cis-regulatory RNA element found at the 5' of the PyrC mRNA in Proteobacteria.
+
+In molecular biology, the PyrG leader is a cis-regulatory RNA element found at the 5' of the PyrG mRNA.
+
+In molecular biology, the Rab GDP dissociation inhibitors (Rab GDIs) constitute a family of small GTPases that serve a regulatory role in vesicular membrane traffic.
+
+In molecular biology there are a number of neurogenic proteins referred to as mastermind-like proteins (MAMLs) of which this domain is the N-terminal region.
+
+In molecular biology the regulator of motility and amylovoran A (RmaA) gene is a bacterial non-coding RNA.
+
+In molecular biology, the restriction endonuclease BsobI/AvaI family of enzymes includes the AvaI and BsoBI restriction endonucleases from Anabaena variabilis and Bacillus stearothermophilus, both of which recognize the double-stranded sequence CYCGRG (where Y = T/C, and R = A/G) and cleave after C-1.
+
+In molecular biology, the RNase E 5' UTR element is a cis-acting element located in the 5'UTR of ribonuclease (RNase) E messenger RNA (mRNA).
+
+In molecular biology, the sea anemone cytotoxic proteins are lethal pore-forming proteins, known collectively as actinoporins, a sub-class of cytolysins.
+
+In molecular biology, the Shroom protein family is a small group of related proteins that are defined by sequence similarity and in most cases by some link to the actin cytoskeleton.
+
+In molecular biology, the Signal Peptide Peptidase (SPP) is a type of protein that specifically cleaves parts of other proteins.
+
+In molecular biology, the small nucleolar RNA SNORA73 (also called U17/E1 RNA) belongs to the H/ACA class of small nucleolar RNAs (snoRNAs).
+
+In molecular biology, the small nucleolar RNAs SNORD106 and SNORD12 (also known as U106 and HBII-99 respectively ) are two related snoRNAs which belongs to the C/D class of small nucleolar RNAs (snoRNAs).
+
+In molecular biology the SPR domain is a protein domain found in the Sprouty (Spry) and Spread (Sprouty related EVH1 domain) proteins.
+
+In molecular biology, the SR1 RNA is a small RNA (sRNA) produced by species of Bacillus and closely related bacteria.
+
+In molecular biology, the Ter protein, also known as, DNA replication terminus site-binding protein, refers to a protein domain which binds to the DNA replication terminus site.
+
+In molecular biology, the transcriptional activator LAG-3 is a transcriptional activator protein.
+
+In molecular biology, the trappin protein transglutaminase binding domain or cementoin is a protein domain found at the N-terminus of Whey Acidic Protein (WAP) domain-containing protease inhibitors such as trappin-2.
+
+In molecular biology, the Tymovirus coat protein refers to the protein coat of a virus order, named Tymovirales.
+
+In molecular biology, the type IV collagen C4 domain (or collagen IV NC1 domain) is a duplicated domain present at the C-terminus of type IV collagens.
+
+In molecular biology, the Ure2 internal ribosome entry site (IRES) is an RNA element present in the 5' UTR of the mRNA encoding the transcription factor Nrf2.
+
+In molecular biology, the Ure2 internal ribosome entry site (IRES) is an RNA element present in the 5' UTR of the mRNA of Ure2.
+
+In molecular biology, the VHS protein domain is approximately 140 residues long.
+
+In molecular biology, the vitamin B12-binding domain is a protein domain which binds to cobalamin (vitamin B12).
+
+In molecular biology, the WAC domain is a protein domain found on the N-terminus of WSTF protein.
+
+In molecular biology, the XPC binding domain is thought to play a role in DNA damage discrimination and in the enhancement of cell survival.
+
+In molecular biology, the YEATS domain is a protein domain found in a variety of proteins from eukaryotic organisms.
+
+In molecular biology, the YjeF N terminal is a protein domain found in the N-terminal of the protein, EDC3.
+
+In molecular biology, the YqaJ refers to the YqaJ/K domain from the skin prophage of the bacterium, Bacillus subtilis.
+
+In molecular biology, the YYY domain is a protein domain that is thought to be important in bacterial signal transduction, however the exact function of this protein domain is not known.
+
+In molecular biology the ZZ-type zinc finger domain is a type of protein domain that was named because of its ability to bind two zinc ions.
+
+In molecular biology, this entry refers to a protein domain called, the Vitelline membrane outer layer protein I (VMO-I).
+
+In molecular biology, this protein domain is found at the C terminus of the GTP-binding protein, YchF-GTPase found in both prokaryotes and eukaryotes.
+
+In molecular biology, this protein domain of unknown function is found in numerous prokaryote organisms.
+
+In molecular biology this protein domain, refers to UbiD, which is found in prokaryotes, archaea and fungi, with two members in Archaeoglobus fulgidus.
+
+In molecular biology, this protein domain represents Tbf5 which stands for TTDA subunit of TFIIH basal transcription factor complex (also known as subunit 5 of RNA polymerase II transcription factor B), and Rex1 a type of nucleotide excision repair (NER) proteins.
+
+In molecular biology, this protein domain, TACI-CRD2 represents the second cysteine-rich protein domain found in the TACI family of proteins.
+
+In molecular biology, TP53 target 1 (non-protein coding), also known as TP53TG1 is a long non-coding RNA.
+
+In molecular biology, trans-activating crRNA (tracrRNA) is a small trans-encoded RNA.

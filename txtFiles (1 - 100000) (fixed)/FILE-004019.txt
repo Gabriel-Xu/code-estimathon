@@ -1,0 +1,71 @@
+There is usually more than one way to solve a problem. There may be many different recipes to make a certain dish which looks different but ends up tasting the same when all is said and done. The same is true for algorithms. However, some of these ways will be better than others. If a recipe needs lots of complicated ingredients that you do not have, it is not as a good as a simple recipe. When we look at algorithms as a way of solving problems, often we want to know how long it would take a computer to solve the problem using a particular algorithm. When we write algorithms, we like our algorithm to take the least amount of time so that we can solve our problem as quickly as possible.
+
+In cooking, some recipes are more difficult to do than others, because they take more time to finish or have more things to keep track of.
+
+It is the same for algorithms, and algorithms are better when they are easier for the computer to do. The thing that measures the difficulty of an algorithm is called "complexity". When we ask how complex an algorithm is, often we want to know how long it will take a computer to solve the problem we want it to solve.
+
+This is an example of an algorithm for sorting cards with colors on them into piles of the same color:These are examples of algorithms for sorting a stack of cards with many different numbers, so that the numbers are in order.
+
+Players start with a stack of cards that have not been sorted.
+
+This algorithm goes through the stack of cards, one card at a time. This card is compared to the next card in the stack. Please note that this position only changes in step 6. This algorithm is called bubble sort. It is slow.
+
+Let us take a stack of the cards with the numbers "5 1 4 2 8", and sort it from smallest number to biggest one using this algorithm. In each step, the algorithm compares the elements written in bold. The top of the stack of cards is on the left-hand side.
+
+First pass:( 5 1 4 2 8 ) formula_1 ( 1 5 4 2 8 ) Here, the algorithm compares the first two elements, and swaps them.( 1 4 2 5 8 ) formula_1 ( 1 4 2 5 8 ) These elements are already in order, so the algorithm does not swap them.
+
+Second pass:Now, the stack of cards is already sorted, but our algorithm does not know this. The algorithm needs one whole pass without any swap to know it is sorted.
+
+Third pass:Finally, the array is sorted, and the algorithm can stop.
+
+This is an easy-to-understand algorithm for sorting. Computer scientists called it "Bubble sort", because smaller elements will rise to the top, changing their position in each run. Unfortunately, the algorithm is not very good, because it needs a long time (many passes through the stack of cards) to sort it.
+
+This algorithm uses another idea. Sometimes solving a problem is difficult, but the problem can be changed so it is made of simpler problems that are easier to solve. This is called recursion. It is more difficult to understand than the first example, but it will give a better algorithm.
+
+This works with two stacks of cards. One of them is called A, the other is called B. There is a third stack that is empty at the start, called C. At the end, it will contain the result.
+
+John von Neumann developed this algorithm in 1945. He did not call it "Sorting by numbers", he called it "Mergesort". It is a very good algorithm for sorting, compared to others.
+
+The first algorithm takes much longer to sort the cards than the second, but it can be improved (made better). Looking at bubble sort, it can be noticed that cards with high numbers move from the top of the stack quite quickly, but cards with low numbers at the bottom of the stack take a long time to "rise" (move to the top).
+
+To improve the first algorithm here is the idea:This algorithm was developed by C. A. R. Hoare in 1960. It is one of most widely used algorithms for sorting today. It is called "Quicksort".
+
+If players have cards with colors and numbers on them, they can sort them by color and number if they do the "sorting by colors" algorithm, then do the "sorting by numbers" algorithm to each colored stack, then put the stacks together.
+
+The sorting-by-numbers algorithms are more difficult to do than the sorting-by-colors algorithm, because they may have to do the steps again many times. One would say that sorting by numbers is more "complex".
+
+John CaesarJohn Caesar (1764 – 15 February 1796), known as Black Caesar, was the first Australian bushranger. He was also the first black person with an African background to come to Australia. He was the first bushranger to have a reward offered for his capture.
+
+Caesar was most likely born in Madagascar, in about 1763. He was a slave on a sugar plantation (farm) in the West Indies. He ran away and went to London. On 17 March 1786, he was in court at Deptford, Kent for stealing 240 shillings. He was sent to the new country called Australia as a convict for seven years. He left on the Alexander, a convict transport ship in the First Fleet, in May 1787 and arrived in Botany Bay in January 1788.
+
+On 29 April 1789 he was caught stealing food. Two weeks later he escaped into the bush, taking food, an iron cooking pot, and a musket (gun) taken from a sea army officer (Marine) named Abraham Hand. He could not catch enough animals to eat, and he began to steal food from the settlement. On 26 May he stole food from a brick making gang at Brickfield Hill and was nearly caught. On June 6 he tried to steal food from Zachariah Clark, who was the assistant in charge of the new colony's food supplies. Caesar was caught by a convict named William Saltmarsh.
+
+In July 1789, David Collins, the colony's Judge-Advocate, said that John Caesar was the hardest working convict in the new colony. He said that he was a large man with a lot of muscles, but he was always hungry. He would eat food meant to last two days in one meal, and would then need to steal more food from others. All his thefts were about getting more food.
+
+After he was captured, Collins said Caesar was a "wretch" (a miserable person) who did not care if he died. Caesar told Collins that he would make it if was hanged, he would turn into a joke by playing a trick on the executioner. Governor Arthur Phillip however, thought Caesar would be more use working and sent him to Garden Island, where he would work in with his legs tied with iron chain. He was well behaved and the chains were soon taken off.
+
+Caesar soon escaped again; on 22 December used a canoe to get off the island, taking a week's worth of food. He stole a musket, and lived by taking food from gardens and taking the food of Aboriginals after scaring them away with his gun. After he lost the gun at Rose Hill, and was attacked by the Aborigines, leaving him wounded in several places. He gave himself up on the 31 December to an officer at Rose Hill.
+
+On 6 March 1790, Caesar was sent to Norfolk Island. There he had one daughter, later named Mary Ann Fisher Power, to Ann (e) Power. He was taken back to Sydney in 1793, and began stealing from the farms and huts again. He was caught and then flogged (hit 500 times with a whip). This did not make any difference; Caesar said that "all that would not make him better."
+
+In 1795 Black Caesar ran away for the last time, and formed a gang of runaways. On 29 January 1796, a reward of five gallons of rum was offered by Governor John Hunter for his capture. Every day there were reports of missing things, but he was able to avoid being captured until 15 February. A man named Wimbow, who had been searching for days, found him in an area of thick bush called Liberty Plains and shot him. He died soon after.
+
+SliTazSliTaz GNU/Linux is a software project started by Christophe Lincoln in 2006. It is one of the smallest desktop Linux distributions available It can be loaded entirely into RAM or be installed to a hard drive.
+
+SliTaz 1.
+
+0 was released on March 22, 2008. SliTaz shares many common goals with Damn Small Linux, but is smaller and based on the more recent Linux 2.
+
+6 kernel.
+
+MusketA musket is a muzzleloading, smoothbore firearm, which is meant to be fired from the shoulder.
+
+The musket is the weapon that replaced the arquebus, and was then replaced by the rifle. But the word "musket" is also used to describe a number of different weapons including:Muskets were made for use by infantry. A soldier armed with a musket was called a musketman or musketeer. In the 1500's, soldiers armed with a heavy arquebus, called a musket, supported the arquebusiers and the pikemen. By the start of 1700's, a lighter type of musket took over from the arquebus. When the bayonet was added, there was no longer a need for pikemen, and almost all infantry soldiers became musketeers. The first musket made in the united States was the Springfield Model 1795 Musket. In the 1800's, better ammunition and ways of firing the gun, meant that rifling was practical for military use, and the rifled musket became common. A few years later, the use of cartridges, breechloading, and multiple rounds of ammunition meant the "rifled musket" gave way to the rifle, and "muskets" were no longer used.
+
+Musket calibres ranged from to . A smoothbore musket, firing at a single target, was only accurate to about to . Rifled muskets in the 1850's were much better, able to hit a man sized target at up to . The advantage of this longer distance was shown at the Battle of Four Lakes, where Springfield Model 1855 rifled muskets killed Indian warriors before they could get close enough with their smoothbore muskets. However, in the Italian War of 1859, French forces were able to defeat the longer range of Austrian rifle muskets by quick, small attacks and bayonet attacks at close range.
+
+ALPHA CollaborationThe ALPHA Collaboration is a group of physicists from about 11 universities who work together (or "collaborate") to try to trap neutral antimatter. The neutral antimatter they are working to trap is antihydrogen. This is the antimatter version of hydrogen, the first atom in the periodic table. Antihydrogen, like hydrogen, has two oppositely charged particles. Hydrogen has a proton and an electron, and so antihydrogen would have an antiproton and a positron. A positron is the common name for the antielectron.
+
+The ALPHA collaboration has its experiment at CERN in Geneva in Switzerland. CERN is the only place in the world that can provide "slow" antiprotons that can be easily captured by ALPHA. ALPHA then brings these antiprotons into contact with positrons and form antihydrogen.
+
+Antihydrogen has, like many atoms and especially hydrogen, a small magnetic dipole moment. A dipole moment is another way of saying that the atom behaves a bit as if it was a tiny magnet with a north and a south pole. Normally such small magnets are attracted to other magnets. However, some atoms in some states behave such that they are repelled by magnetic fields. This means that the atoms could possibly be trapped in space by making a minimum of the magnetic field. ALPHA is trying to do just that with antihydrogen. By a clever arrangement of magnets, ALPHA has a so-called magnetic minimum trap, in which antihydrogen may be trapped.

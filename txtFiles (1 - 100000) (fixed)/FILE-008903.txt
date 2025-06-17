@@ -1,0 +1,177 @@
+Problems with applications running on newer operating systems, especially with long filenames, multiple user accounts, and least privilege, may prohibit some applications from working correctly. For example, they might incorrectly think that they can write files to any part of the file system, but NTFS file permissions exist and does not allow this in many system folders. When Microsoft was building Windows 95, they had to ensure old programs still worked with 8.
+
+3 filenames to allow old applications to keep working properly. Since Windows 95, there was a feature where both a long and short file name are kept, so older applications could still use the 8.
+
+3 filenames.
+
+Programs that try to access hardware directly can't do so. Old programs may also not work if they expect certain system configuration files from DOS and Windows 9x that are not used in Windows NT operating systems, so empty versions of files like AUTOEXEC.
+
+BAT and CONFIG.
+
+SYS exist even though Windows NT does not use them.
+
+Many shims exist in the application compatibility layer of later versions of Windows to capture and change API calls from old applications made with different assumptions about the operating system in mind.
+
+Duenos inscriptionThe duenos inscription is a Latin text found on a piece of pottery in Rome. The pottery was dated to the sixth century BC. The text is among the oldest known texts of old Latin. It is difficult to read because the words are not separated by spaces.
+
+Since the pottery, or "kernos", was found in 1880, many translations have been proposed. By 1983, more than fifty different explanations of the meaning had been put forward. Due to the lack of a large body of archaic Latin, and the method by which Romans abbreviated their inscriptions, scholars have not been able to produce a singular translation that has been accepted by historians as accurate. However thanks to Arthur E. Gordon's work the reading of the text can be now considered certain.
+
+Below is the transcription and one of many possible interpretations:Line 1:Line 2:Line 3:An interpretation set out by Warmington and Eichner, renders the complete translation as follows, though not with certainty:Syria DirectSyria Direct is a not-for-profit news organization based in Jordan. It was started in 2013 by television news producer Amjad Tadros and the Global Peace and Development Charitable Trust. "Syria Direct" reports on the conflict in neighboring Syria, because reporting from Syria is either restricted or too dangerous."
+
+Syria Direct" publishes news reports, interviews, photographs, and videos from inside Syria. They also publish a newsletter. They do not accept advertising. Their operations are funded by the Global Peace & Development Charitable Trust."
+
+Syria Direct" is published in English and Arabic. The articles are for readers who are alreadyknowledgeable about Syria but want more detailed information. "Syria Direct" employs about 24 Syrians and Americans who talk to Syrian activists and civilians on both sides of the conflict every day by Skype. Syrian journalists write the stories in Arabic. The stories are translated to English, fact-checked and edited, then translated back to Arabic. Their website receives about 50,000 page views every month. Their Facebook page has 77,000 followers. Thousands of people follow their Twitter account."
+
+Syria Direct" also has a training program for journalists from Syria. In the past, the training program has received funding from the US Embassy Amman's Public Affairs Section, the Syria office of the Konrad Adenauer Stiftung organization, and the Canadian Embassy in Amman. Every six months they train twelve new Syrian journalists. The trainees' stories have been published in USA Today, CNN.
+
+com, Radio Free Europe, and international new organizations like Le Monde and The Toronto Globe and Mail. As of September 2016, they had trained 70 new journalists.
+
+Dunn indexThe Dunn Index (DI) is a metric for judging a clustering algorithm. A higher DI implies better clustering. It assumes that better clustering means that clusters are compact and well-separated from other clusters.
+
+There are many ways to define the size of a cluster and distance between clusters.
+
+The DI is equal to the minimum inter-cluster distance divided by the maximum cluster size. Note that larger inter-cluster distances (better separation) and smaller cluster sizes (more compact clusters) lead to a higher DI value.
+
+In mathematical terms:Let the size of cluster C be denoted by: formula_1Let the distance between clusters i and j be denoted by: formula_2formula_3Alejandra SolerAlejandra Soler Gilabert (July 8, 1913 – March 1, 2017) was a Spanish politician and teacher. She also worked for the Diplomatic Academy of the Ministry of Foreign Affairs of the Russian Federation. She was born in Valencia, Spain. She took part in the revolts against Miguel Primo de Rivera's dictature and in 1934, she became a member of the communist party.
+
+Soler died on March 1, 2017 in Valencia, Spain from suspected heart failure, aged 103.
+
+Dave ValentinDavid Peter Valentin (April 29, 1952 – March 8, 2017) was an American Latin jazz flautist. In the 1970s Valentin combined Latin music with jazz in bands with Bill O'Connell, Lincoln Goines, Richie Morales, Robby Ameen, Sammy Figueroa, and Giovanni Hidalgo. For seven years in a row he was chosen as the best jazz flautist by readers of "Jazziz" magazine. In 1985 he received a Grammy Award nomination. In 2003 he won a Grammy for "Caribbean Jazz Project", an album he did with Dave Samuels.
+
+Valentin died from complications of a stroke and Parkinson's disease in the Bronx, at the age of 64.
+
+Anthony DelhalleAnthony Delhalle (11 January 1982 – 9 March 2017) was a French Grand Prix motorcycle racer. He rode a Suzuki GSX-R1000 in the FIM CEV Superbike European Championship and the Endurance FIM World Championship.
+
+Delhalle died, aged 35, on 9 March 2017, after falling from his bike during a test on the Circuit Paul Armagnac near Nogaro and breaking his neck.
+
+Nagapattinam districtNagapattinam district is the only district in India to be discontinuous or separated into two parts. This district is located on Tamil Nadu, India. Nagapattinam district was carved out by dividing the Thanjavur district on 1991, October 19.
+
+In 2006 the Ministry of Panchayati Raj named Nagapattinam district one of the country's 250 most backward districts (out of a total 640 Indian districts).
+
+Nagapattinam district is one of the six districts of 32 districts in Tamil Nadu currently receiving funds from the Backward Regions Grant Fund Programme (BRGF).
+
+According to 2011 census of India, Nagapattinam district had a population of 1,616,450 with a sex-ratio of 1,025 females for every 1,000 males, much above the national average of 929.
+
+Bill LeakBill Leak (born Desmond Robert Leak; 9 January 1956 – 10 March 2017) was an Australian editorial cartoonist, caricaturist and portraitist.
+
+Leak was raised in Condobolin and Beacon Hill, Sydney. Leak studied at the Julian Ashton Art School in the 1970s.
+
+Leak's cartoons were first published in 1983 in "The Bulletin" and after he drew for "The Sydney Morning Herald" until 1994, when he was recruited by News Limited to contribute to "The Daily-Telegraph-Mirror" and later to "The Australian".
+
+On 10 March 2017, Leak died in a hospital in Gosford, New South Wales following a suspected heart attack. He was 61 years old.
+
+Thoothukudi districtThoothukudi District, also known as Tuticorin District is a district in Tamil Nadu state in southern India. The district was formed by dividing Tirunelveli district in 1986 and Thoothukudi is the district headquarters. The district is known for pearl cultivation. There are many pearls in the seas offshore. It was formerly ruled by one of the oldest kingdoms in India, the Pandyan Dynasty with the port of Korkai through which trade with Rome happened. The archaeological site at Adichanallur holds the remains of the ancient Tamil civilisation. As of 2011, the district had a population of 1,750,176 with a sex-ratio of 1,023 females for every 1,000 males.
+
+ThoothukudiThoothukudi is a port city, a Municipal Corporation and an industrial city in Thoothukudi district in the Indian state of Tamil Nadu. The city lies in the Coromandel Coast off Bay of Bengal. Thoothukudi is the headquarters of Thoothukudi district.
+
+According to Confederation of Indian Industry, Thoothukudi has the second highest Human Development Index in Tamil Nadu next to Chennai. Tuticorin City serves as the headquarters of Tamilnad Mercantile Bank Limited. Major educational establishments in the city include Thoothukudi Government Medical College, Fisheries College and Research Institute, Marine Training Academy, V.
+
+O.
+
+C. Arts & Science College, Government Polytechnic College, and Anna University Tuticorin Campus.
+
+Tuticorin Port is one of the Fastest growing Major Ports in India. Tuticorin is an "Emerging Energy and Industrial hub of South India".
+
+TiruvallurTiruvallur is a suburb city of Chennai and Grade I municipality in Chennai in the Indian state of Tamil Nadu. It is located on the banks of Cooum River about northwest of Chennai (Madras), the capital city of Tamil Nadu and located near Tiruvallur district.
+
+It is well known because of the Veera Raghavar temple which is one of the 108 sacred shrines of Vaishnavites. There is a pond nearby this temple, where the tank festival is held.
+
+The neighborhood is served by Tiruvallur railway station of the Chennai Suburban Railway Network. As of 2011, the town had a population of 56,074.
+
+It is one of the fast developing suburban areas in Chennai.
+
+Namakkal districtNamakkal District is an administrative district in the state of Tamil Nadu, India. The district was divided from Salem district with Namakkal town as Headquarters on 25-07-1996 and started to function independently from 01-01-1997. The district has seven taluks (subdivisions): Tiruchengode, Namakkal, Rasipuram, Velur, Sendamangalam, Komarapalayam, and Kolli Hills. It has two Revenue Divisions: Namakkal and Tiruchengode. As of 2011, Namakkal district had a population of 1,726,601 with a sex-ratio of 986 females for every 1,000 males.
+
+Magnetic tape data storageMagnetic Tape Storage is a way of storing digital information on a along strip of magnetic tape.
+
+This type of storage, though outdated, is widely used as a backup storage.
+
+magnetic tape drives are often referred to as MTD storage.
+
+Olfactory bulbThe olfactory bulb is a part of the vertebrate forebrain. It works in olfaction, or the sense of smell.
+
+The olfactory bulb has one source of sensory input (axons from olfactory receptor neurons, and one output (mitral cell axons). It is thought that it functions as a filter. However, the olfactory bulb also gets "top-down" information from brain areas like the amygdala, neocortex, hippocampus, locus coeruleus, and substantia nigra.
+
+Its range of functions probably include:Sephardi JewsSephardi Jews, also known as Sephardic Jews or Sephardim (, , also "Y'hudey Spharad", meaning "The Jews of Spain"), are a Jewish ethnic division. They emerged as a distinct community around 1000 AD on the Iberian Peninsula. Jews established communities throughout Spain and Portugal. Then in the late 15th century, when all Jews were expelled from Spain, they migrated and set up new communities in the countries of England, the Netherlands, North Africa, Anatolia, the Levant (Eastern Mediterranean), and the Balkan countries, as well as the Americas, where they kept their traditions and religious practices. For hundreds of years and through the 20th century, Sephardi Jews have continued to speak their Judeo-Spanish language commonly called Ladino, besides the language of their place of residence.
+
+ShasShas, Hebrew: ש״ס , full name: Shomrei Sfarad, Hebrew: שומרי ספרד , meaning "(Religious) guardians of the Sephardim", is an Israeli political party.
+
+Its ideology is left-wing conservative, Sephardic-Mizrahic Ultra-Orthodox, and Religious Zionist.
+
+Political leader is Aryeh Deri.
+
+Shas was founded in 1984.
+
+Number of seats in the 24th Knesset: 9 (/).
+
+Participating in the Fourth Netanyahu Government and the Netanyahu-Gantz Government.
+
+Mizrahi JewsMizrahi Jews / "Oriental Jews" / "Mizrahim" are Jews who originally lived in the Middle East and North Africa. Sometimes the term also includes Jews of the Caucasus, and Central Asia.
+
+The term is often used synonymously with "Sephardi Jew", though Sephardic [means or] connotes religious practice and Mizrahi connotes place of origin", according to media.
+
+Etymology: "Mizrahi" is a Hebrew word, for "eastern".
+
+ChermignonChermignon is a former municipality in the district Sierre in the canton of Valais in Switzerland.
+
+On 1 January 2017, the former municipalities of Chermignon, Mollens, Montana and Randogne merged into the new municipality of Crans-Montana.
+
+Bilawal Shah NooraniSyed Bilawal Shah Noorani () was a mystic saint from Balochistan. Shah Noorani was the descendants of Ali Ibn Abi Talib. Noorani is considered to be a patron saint of Balochistan.
+
+Noorani's shrine is popular in Balochistan, Pakistan after Hinglaj Mata Mandir.
+
+His shrine is located in a narrow valley between the mountains of Khuzdar District, BalochistanShah Noorani's annual "Urs" (death anniversary celebration), held on the 10th Ramadan – the ninth month of the Muslim lunar calendar, brings more than half a million pilgrims from all over Pakistan.
+
+An explosion at a Noorani's shrine in the Pakistani region of Balochistan has killed 52 people and injured more than 100 on 13 November 2016.
+
+Wesel citadelThe Wesel citadel, German: "Zitadelle Wesel", is a citadel in the town of Wesel. It was built between 1688 and 1722. Architect was Johan de Corbin.
+
+The Wesel citadel was the most important fort in Wesel.
+
+Nowadays it is used for cultural purposes.
+
+Tobias KempeTobias Kempe (born June 27, 1989 in Wesel) is a German footballer. He plays as a midfielder and striker.
+
+Kempe has started his senior career in 2008. Since 2016 he has been playing for 1. FC Nürnberg.
+
+His father Thomas Kempe and his brother Dennis Kempe were/are also footballers.
+
+Hla MyintHla Myint ( ; 1920 – 9 March 2017) was a Burmese economist. He was known as one of the pioneers of development of welfare economics. He worked on the importance of export-orientation as the most useful "engine of growth". He was born in Bassein, Irrawaddy Division, British Burma. Myint served as Emeritus Professor of Economics, teaching development economics, at the London School of Economics from 1966 to 1985.
+
+Myint died on 9 March 2017 in Bangkok, Thailand at the age of 97.
+
+Keke RosbergKeijo Erik Rosberg (; born 6 December 1948), known as "Keke", is a Finnish former racing driver and winner of the Formula One World Championship. He was the first Finnish driver to compete regularly in the series. Rosberg grew up in Oulu and Iisalmi, Finland. He is the father of retired Formula One driver and Formula One world champion Nico Rosberg.
+
+Denny HulmeDenis Clive "Denny" Hulme (18 June 1936 – 4 October 1992) was a New Zealand racing driver. He was born in Motueka of the South Island.
+
+Hulme won the Formula One World Drivers' Championship for the Brabham team. Between his first appearance at Monaco in 1965 and his final race in the 1974 United States Grand Prix. He started 112 Grand Prix, resulting eight victories and 33 trips to the podium. He also finished third in the overall standing in 1968 and 1972.
+
+Hulme died of a sudden heart attack while driving at the Bathurst 1000 in Bathurst, New South Wales, Australia. He was 56.
+
+Mohamed Mijarul QuayesMohamed Mijarul Quayes (; 2 April 1960 – 11 March 2017) was a Bangladeshi diplomat. He served as Bangladesh's Ambassador to Brazil from 2014 until his death. He was the Bangladesh High Commissioner to the Court of St James's, United Kingdom from 2009 to 2014.
+
+Quayes was taken to a Brasília hospital in February 2017. He later died from multiple organ failure on 11 March. He was 56.
+
+Preto HendrikSimba António Castelo (born November 23, 1994, Luanda, Angola), better known by his stage name Preto Hendrik, is an African musician, of Angolan nationality, native of Luanda, member of LBA Music. began his artistic career in the year 2016, with music named "Encher a Cara", and "Fácil" with group of musicians LBA Musc in 2016.
+
+Surface chemistrySurface chemistry is the study of chemical reactions at surfaces and interfaces. Appreciating how molecules and atoms interact with surfaces and with each other while on surfaces is key to understanding desirable chemical reactions, such as in heterogeneous catalysis, and also those that are undesirable, such as in corrosion chemistry.
+
+PurimPurim, Hebrew: פורים , meaning "allotment", is a Jewish cheerful feast in memory of the liberation of the Jewish people during their stay in ancient Persia.
+
+The origins of Purim are to be found in the Book of Esther.
+
+It is celebrated on the 14th of Adar (in Jerusalem on the 15th of Adar).
+
+Gif-sur-YvetteGif-sur-Yvette is a commune in the southwestern suburbs of Paris, France. It is from the center of Paris.
+
+Tennis courtA tennis court is a court used to play tennis. It is a rectangle with a net across the middle. During a tennis match there can be both one player (single) or two players (double) on both half. The surface can be grass, clay or hardcourt.
+
+The dimensions are set as the standard for lawn tennis by the International Tennis Federation and written down in the 'Rules of Tennis' document. The Tennis court is 78 feet (23.
+
+77 meters) long. Its width is 27 feet (8.
+
+23 meters) for singles matches and 36 feet (10.
+
+97 meters) for doubles matches. The service line is 21 feet (6.
+
+40 meters) from the net.

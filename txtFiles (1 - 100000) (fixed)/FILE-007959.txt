@@ -1,0 +1,31 @@
+The relational model for database management is a database model based on first-order predicate logic. Edgar F. Codd proposed it in 1969. In the relational model of a database, all data is represented in terms of tuples, grouped into relations. A database organized in terms of the relational model is called relational database.
+
+The purpose of the relational model is to provide a declarative method for specifying data and queries: users directly state what information the database contains and what information they want from it. The structure in which the data is stored, and the task of responding to users' requests and retrieving the data is left to the database system, and is not visible to the user.
+
+Most relational databases use the SQL data definition and query language; these systems implement what can be regarded as an engineering approximation to the relational model. A "table" in an SQL database schema corresponds to a predicate variable; the contents of a table to a relation; key constraints, other constraints, and SQL queries correspond to predicates. Today, many database systems are different from the original model. Codd fiercely argued against deviations that compromise the original principles.
+
+John T. DorranceJohn Thompson Dorrance (1873 – 1930) was an American chemist. While working at the Campbell Soup Company he discovered a method to create condensed soup. Dorrance served as president of the Campbell Soup Company from 1914 to 1930.
+
+Dorrance was born in Bristol, Pennsylvania November 11, 1873. His parents were John and Eleanor (Thompson) Dorrance. He earned a Bachelor of Science from the Massachusetts Institute of Technology. He received a PhD degree from the University of Göttingen in Germany in 1897. Dorrance then returned to the United States to work for his uncle at the Joseph Cambell Preserve Company. His uncle started him at $7.
+
+50 per week. Dr. Dorrance also had to provide his own equipment and supplies for his laboratory. While studdying in Europe, Dorrance became used to having soup with his meals. He wanted to perfect a method of canning soup and adding it their product line. In 1897 he invented condensed soup. By removing the water it reduced the weight of the can. A lighter can cost less to transport to stores. The company was able to sell their condensed soup for 10 cents a can. The product was a success for the company. His uncle raised his pay to $9.
+
+00 a week. Dorrance also designed the now classic red and white label for Campbells Soup.
+
+In 1900 Dorrance became vice president of the Joseph Cambell Preserve Company. At the Exposition Universelle in Paris that year, Campbell's soups won a gold medal. The medal is still shown on the soup cans today. Dorrance found that workers had time on their hands watching the soup cook in the factory. To occupy their time Dorrance created a new product: canned pork and beans. In 1914 Dorrance became president of the company, now called the Campbell Soup Company. He died of a heart disease on September 22, 1930 in Camden, New Jersey.
+
+SteatodaSteatoda is a spider genus. It includes more than 120 recognized species around the world. They are often dark spiders.
+
+The spiders are often mistaken for widow spiders. They are often called false black widows. These spiders are less harmful to humans. They are shaped similar to widow spiders.
+
+Scarus ghobbanScarus ghobban is a member of the "Scaridae" family. "Scarus ghobban "is also known as the blue-barred parrotfish. Ancient writers described them as 'parrot fish'.
+
+This species is blue-green to green in color. It often grows to about .
+
+It may have a central stripe on the dorsal and anal fins that is pink in color. The underside of the body may be pinkish or yellowish. There may be blue markings around the area of the pectoral fin."
+
+Scarus ghobban" is found in waters around Africa, the Mediterranean and Red Seas. They are also found in the Galápagos Islands and the Eastern Pacific Ocean."
+
+Scarus Ghobban" occurs in places with sandy bottoms. It also lives near reefs. Males usually live at depths of about , females live in deeper waters.
+
+Vorontsov

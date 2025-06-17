@@ -1,0 +1,81 @@
+Often, having one medical condition makes it more likely a person will also have one or more other medical or psychiatric disorders. These other disorders are the "comorbid disorders" or "comorbidities". There are various comorbid medical and psychiatric conditions associated with migraines. The treatment and "prognosis" (if a disease gets better, worse or stays the same over time) of migraine is affected by the comorbid disorders which may be present and/or the chance of getting comorbid disorders.<
+
+br>Comorbid psychiatric conditionsIn medicine, a complication is a problem that happens because of, a procedure (like surgery), treatment (like medication), or illness (like migraines).
+
+In medicine "epidemiology" is the study of what causes diseases and medical conditions, how often they happen, where they happen and who they happen to.
+
+Migraine is more common among boys than girls until the beginning of puberty when girls start getting migraines more often than boys. By the later part of the teenage years girls get migraines almost twice as much as boys do. The number of people who get migraines is highest between the ages of 25 to 55 years in both men and women, after which, the risk of getting migraines get lower as a person gets older.
+
+Between 65-75% of adult migraine sufferers are women and of these women, about two-thirds have menstrual migraines. Migraines are more common in people who make less money, there may be different reasons why such as stress.
+
+About two-thirds of migraines are migraines without aura and the remaining one-third of cases are migraine with aura.
+
+Symptoms that mimic those of migraines have been recorded in various cultures throughout written history. The first known mention was found on cuneiform tablets from Babylonia dating to 2000-1880 B.
+
+C.
+
+E. A treatment for migraine can be found in the "Ebers Papyrus", an Ancient Egyptian medical text named after George Ebers, the German Eygptologist who discovered them. In the ancient text dated to 1552 B.
+
+C.
+
+E. migraine is refereed to as "suffering in half the head".
+
+The Ancient Greek physician Aretaeus of Cappadocia's description of a type of headache he dubbed "heterocrania" is considered a description of migraine.
+
+Josh GrobanJoshua Winslow "Josh" Groban (born February 27, 1981) is an American singer, songwriter, musician, actor, and record producer. He has won many Tony and Grammy awards throughout his career, including one for Natasha, Pierre and the great Comet of 1812. He is playing Sweeney Todd now.
+
+Groban was born in Los Angeles, California, to Jack Groban, a businessman, and Lindy Groban (née Johnston), a school teacher. His father is a descendant of Jewish immigrants from Poland and Ukraine, but converted from Judaism to Christianity upon marrying his mother. His mother's ancestry includes English, German, and Norwegian; one of her own grandfathers had also been Jewish. His parents are Episcopalians.
+
+Groban first sang in public when he was in the seventh grade. His music teacher chose him to sing a solo of "S'wonderful" at the school's cabaret night, where he sang alone on stage for the first time. At this time, he was more focused on acting, playing Tevye in his high school's production of "Fiddler on the Roof". In the summers of 1997 and 1998, he also attended the Interlochen Center for the Arts Camp in Michigan, majoring in musical theater, and began taking vocal lessons. He went on to attend the Los Angeles County High School for the Arts as a theater major and graduated in 1999. He was admitted to and briefly attended Carnegie Mellon University, intent on studying musical theater. Four months into his first semester, Groban was offered a recording contract and left college to pursue a singing career.
+
+He is playing Sweeney Todd, and he claims to be a pescetarian… because of meat piesList of BastidesThe following is a listing of well-known bastides; it is not complete.
+
+Slip EndSlip End is a medium sized village in South Bedfordshire, England. There is one school in the village - Slip End Lower School serving the community and surrounding areas from Reception to Year 4 Children.
+
+There are two community venues in the village:Alex FraserAlex Fraser can be any of the following:Network bridgeA network bridge is a device which connects two parts of a network together at the data link layer (layer 2 of the OSI model).
+
+Network bridges work similarly to network switches, but the traffic is managed differently. A bridge will only send traffic from one side to the other if it is going to a destination on the other side. This is different to a layer 1 switch which sends all traffic from either side. Sometimes network bridges are called layer 2 switches.
+
+Since they need to look at the contents of the traffic going into them, they are much more complicated than a hub or repeater.
+
+Network Switches and Bridges are both Layer 2 devices. They operate at the Data Link Layer (Layer 2) of the OSI Reference Model. Network Switches and Bridges have many similarities and similar function. But Switches are considered as superior devices than bridges.
+
+Following are the major differences between network switches and bridges.• Packet forwarding in Bridges are performed using software. Packet forwarding in Switches are performed using ASICs (Application Specific Integrated Circuits).• Switches operate comparatively higher speeds that Bridges.• Method of switching of a Bridge is store and forward. Method of switching of a Switch can be store and forward, cut-through or fragment-free.• Normally a Switch has more ports than a Bridge.• Bridges can operate only in half duplex mode, but a Switch can operate both in half duplex or full duplex mode.• Both Bridge and Switch has one collision domain per port, but switches have one broadcast domain per VLAN.• Switches support full-duplex Local Area Network (LAN) communication.
+
+Alex Fraser (scientist)Alex Fraser (1923–2002) was an Australian computer scientist. He helped develop the modelling of population genetics on computers. His work made an impact on how we view evolutionary systems today.
+
+Great Northern WarThe Great Northern War (1700–1721), was a war fought between Sweden and the coalition of Russia, Saxony, Poland, and Denmark-Norway. In 1715 Prussia and Hannover joined the war against Sweden. The King of Hannover was also King George II of Great Britain.
+
+After the coalition attacked them, Sweden invaded Russia in 1709 which was not a good idea. The Russian Army retreated so the Swedish Army had to chase them. When winter came it was the coldest winter that Europe had had in a hundred years and half of the Swedish soldiers died in the cold. Eventually the Swedish army caught up to the Russian army and they had a battle, called the battle of Poltava. Russia won the battle but most of the Swedish soldiers, including king Charles XII of Sweden, escaped and went to the Ottoman Empire. Peter, the king of Russia, didn't like this so he declared war on the Ottoman Empire. He lost and had to give the town of Azov back to the Ottomans.
+
+Charles XII left the Ottoman Empire in 1714 and went to Stralsund in Pomerania which was owned by Sweden at the time but was under siege. Charles escaped back to Sweden just before the people in Stralsund surrendered. Then he invaded Norway (which was owned by Denmark at the time.) and was shot and killed there. With their king gone, the Swedish soldiers left Norway and went back to Sweden. On the way back many soldiers died.
+
+When all that was happening Russia had been invading Sweden. Russia conquered Estonia, Livonia and Ingria. By the time the remaining soldiers had come back from Norway, Russia had completely conquered Finland. Sweden still didn't want peace though, because they would have to give lots of land to Russia. Russia used a newly made fleet of ships to attack and raid the Swedish Coast and Sweden would still not give up. Eventually the Russian and Swedish ships came together in the Battle of Grengam. Both sides thought they had won the battle so no treaty was signed until the Russians continued using their boats to damage the Swedish coast. Finally Sweden gave up in 1721. Sweden had made peace with Denmark in 1720 and in 1721 Sweden signed the treaty of Nystad.
+
+In the Treaty of Nystad Sweden had to give land to other countries. Sweden had to give Estonia, Livonia and Ingria to Russia but could keep Finland. Sweden also signed other treaties. These were the treaty of Stockholm where Sweden gave Prussia Swedish Pomerania and the treaty of Fredericksborg where Sweden had to pay Denmark-Norway money for the damage the war had done.
+
+This war was significant because it allowed Russia to become the dominant power in Northeastern Europe, instead of Sweden.
+
+CentOSCentOS is a distribution (or "distro") of Linux that is made to be similar to Red Hat. It was first made because the company that made Red Hat stopped making it free. Now, many people work on CentOS, and many more people use it on their computers. Often, CentOS is used on servers (computers which provide services to people or other computers) because it is stable (does not break often) and can be installed (put on a computer) in not much time, compared to other distributions such as Gentoo. On December 8th 2020, The CentOS Project announced the end of CentOS as it was previously known and announced CentOS Stream. AlmaLinux and Rocky Linux among others now provide 1:1 binary compatible releases with RHEL and the original CentOS. The original CentOS will reach end of life December 2021.
+
+David GilmourDavid Jon Gilmour CBE (born 6 March 1946) is an English musician, record producer, songwriter. He is most famous for being a guitarist, singer and songwriter in the rock band Pink Floyd. Along with being in Pink Floyd, he has worked as a record producer for other musicians. Gilmour has also recorded and released albums as a solo performer.
+
+Gilmour has always been active with many different charities. He was appointed CBE in 2003 for services to both music and for his charity work.
+
+In 1996, Gilmour was inducted into the Rock and Roll Hall of Fame as a member of Pink Floyd.
+
+In 2003, Gilmour was listed at number 82 in "Rolling Stone Magazine's list of the "100 Greatest Guitarists of All Time"Thermal conductivityThermal conductivity is the ability of a material to conduct heat. Metals are good at heat conduction. The thermal conductivity of a material is a defining property that aids in the development of effective heating/cooling technologies. A value for thermal conductivity can be determined by measuring the rate at which heat can pass through a material.
+
+Thermal resistivity is the opposite of thermal conductivity. This means not conducting heat much. Materials with high resistivity are called "thermal insulators" and are used in clothing, thermoses, home insulation, and cars to keep people warm or in refrigerators, freezers, and thermoses to keep things cold.
+
+Thermal conductivity is often represented by the Greek letter "kappa", formula_1. The units of thermal conductivity are watts per meter-kelvin. Watts are a measure of power, meters are a measure of length, and kelvins are a measure of temperature. From the units, we can see that thermal conductivity is a measure of how much power moves through a distance due to a temperature difference.
+
+Some great thermal insulators are:Vacuum, Aerogel, PolyurethaneSome great thermal conductors are:Silver, Copper, DiamondSilver is one of the most thermally conductive materials (and is relatively common), and because of this there are some cool experiments you can do with silver that show extremely well how thermal conduction works.
+
+One example is when you put 2 spoons in boiling water, one spoon is steel and the other is silver. When you take the spoons out of the boiling water, the silver spoon is hotter than the steel spoon. The reason for this is that silver conducts heat better than steel. The silver spoon will also cool off faster because of this, as it is better at releasing heat.
+
+Another example of silver's thermal conductivity is to put different materials on ice cubes. An iron washer will just sit on the ice and slowly become colder. A copper penny will melt through the ice cube and become colder faster. A silver coin, spoon, or ring on the ice cube will sink into it almost as though the ice cube were made of thick syrup, and the silver will become ice cold almost instantly. Again, this is because the silver is really good at drawing heat from the air and giving it to the ice cube. Copper is also good at this, but not as much as silver.
+
+HydrideA hydride is a compound with hydrogen bonded to other elements. Except for a few of the Noble gases, all of the elements in the periodic table can form hydrides. The properties of hydrides can be very different, but some of the hydrides have similar properties."
+
+Metallic hydrides": compounds with ionic bonding. They are very reactive, making them difficult to dissolve. Most alkali metals and alkaline earth metals form ionic hydrides.

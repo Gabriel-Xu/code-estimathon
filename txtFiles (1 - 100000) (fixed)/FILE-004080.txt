@@ -1,0 +1,83 @@
+There are three models commonly used for hyperbolic geometry: the Klein model, the Poincaré disc model, and the Lorentz model, or hyperboloid model. These models define a real hyperbolic space which satisfies the axioms of a hyperbolic geometry. Despite the naming, the two disc models and the half-plane model were introduced as models of hyperbolic space by Beltrami, not by Poincaré or Klein.
+
+M. C. Escher's famous prints "Circle Limit III" and "Circle Limit IV" illustrate the conformal disc model quite well. In both one can see the geodesics. (In "III" the white lines are not geodesics, but hypercycles, which run alongside them.) It is also possible to see quite plainly the negative curvature of the hyperbolic plane, through its effect on the sum of angles in triangles and squares.
+
+In the Euclidean plane, their angles would sum to 450°; i.
+
+e., a circle and a quarter. From this we see that the sum of angles of a triangle in the hyperbolic plane must be smaller than 180°. Another visible property is exponential growth. In "Circle Limit IV", for example, one can see that the number of angels and demons within a distance of "n" from the center rises exponentially. The demons have equal hyperbolic area, so the area of a ball of radius "n" must rise exponentially in "n".
+
+There are several ways to physically realize a hyperbolic plane (or approximation thereof). A particularly well-known paper model based on the pseudosphere is due to William Thurston. The art of crochet has been used to demonstrate hyperbolic planes with the first being made by Daina Taimina. In 2000, Keith Henderson demonstrated a quick-to-make paper model dubbed the "hyperbolic soccerball".
+
+Parallel postulateIn geometry the parallel postulate is one of the axioms of Euclidean geometry. Sometimes it is also called Euclid's fifth postulate, because it is the fifth postulate in Euclid's Elements.
+
+The postulate says that:"If you cut a line segment with two lines, and the two interior angles the lines form add up to less than 180°, then the two lines will eventually meet if you extend them long enough."
+
+The field of geometry which follows all of Euclid's axioms is called Euclidean geometry. Geometries which do not follow all of Euclid's axioms are called non-Euclidean geometry.
+
+Some mathematicians thought that Euclid's fifth postulate was much longer and more complicated than the other four postulates.
+
+Many of them thought that it could be proven from the other simpler axioms. Those who tried to do it included Omar Khayyám, and later Giovanni Gerolamo Saccheri, John Wallis, Lambert, and Legendre. Some mathematicians announced that they had proven the proposition from the simpler propositions, but they all turned out to be mistaken.
+
+Another more recent proposition known as "Playfair's axiom" is similar to Euclid's fifth postulate. It says that:"Given a straight line and a point not on this line, you can only draw one straight line through this point that will not meet the other straight line."
+
+In fact, mathematicians found out that this axiom is not only similar to Euclid's fifth postulate, but has exactly the same implications. Mathematically, the two propositions are called 'equivalent' propositions. Today Playfair's axiom is used more often by mathematicians than Euclid's original parallel postulate.
+
+Eventually some mathematicians tried to build new geometries without using the axiom. One kind of Non-Euclidean geometry is called elliptic geometry. In elliptic geometry the parallel postulate is replaced by an axiom that states that:"Given a straight line and a point not on this line, you cannot draw a straight line through this point that will not eventually cross the other straight line."
+
+Mathematicians found that when they replaced Euclid's fifth postulate with this axiom, they were still able to prove many of Euclid's other theorems. One way to imagine elliptic geometry is by thinking of the surface of a globe. On a globe, lines of longitude appear to be parallel at the equator, but they all meet at the poles. Late in the 19th century, elliptic geometry was shown to be consistent. This proved that Euclid's fifth postulate was not independent of the other postulates. After this, mathematicians mostly stopped trying to prove the fifth postulate from the other four postulates. Instead, many mathematicians began studying other geometries that do not follow Euclid's fifth postulate.
+
+Another axiom mathematicians sometimes replace Euclid's fifth axiom with says that:"Given a straight line and a point not on this line, you can draw at least two straight lines through this point that will not eventually cross the other straight line."
+
+This is called "hyperbolic geometry".
+
+Another geometry simply removes Euclid's fifth postulate and does not replace it with anything. This is called "neutral geometry" or "absolute geometry".
+
+City of London SchoolThe City of London School (CLS) is a private school for boys, aged 10 to 18, next to the River Thames in the City of London. It was established in 1442. It is the brother school of the City of London School for Girls (a girls' school within the City) and of the City of London Freemen's School (a day and boarding school in Surrey). Most boys enter the school at 11 and fewer enter at 10 and 13. There is a small intake at 16 into the sixth form.
+
+Pedro Antonio de AlarcónPedro Antonio de Alarcón (10 March 1833 – 19 July 1891) was a Spanish writer. He was born in Guadix, near Granada. He was a 19th century novelist. He gained his first literary recognition with "A Witness' Diary of the African War (1859-1860)", a patriotic account of the campaign.
+
+Bobby MooreRobert Frederick Chelsea "Bobby" Moore (12 April 1941 – 24 February 1993) was an English former footballer. He was best known for playing for West Ham United and England national team. He was the captain of England when they won the World Cup in 1966. He played 108 games for England between 1962 and 1973. When he retired, this was a national record. Only Peter Shilton and David Beckham have since played more games for England. He is regarded as one of the greatest defenders of all time. He died of colorectal cancer in Wandsworth, London.
+
+West Ham UnitedEastern AAEnglandWat TylerWat Tyler (4 January 1341 – 15 June 1381) was the leader of the English Peasant's Revolt of 1381. He died on 15 June 1381 at the meeting at Smithfield with the fourteen year old King Richard II. First, he was hit by William Walworth, mayor of London, and then one of the king's squires stabbed him in the stomach, killing him.
+
+San Juan Province (Dominican Republic)San Juan is a Dominican province, in the western part of the country. Its capital city is San Juan de la Maguana.
+
+The province is named after its capital city, San Juan de la Maguana. San Juan is short for San Juan Bautista ("Saint John the Baptist").
+
+Since colonial times, the territory was part of Azua province until the dictator, Rafael Trujillo, made this province in 1938 with the name Benefactor with the municipalities of Las Matas de Farfán y El Cercado. Bohechío was made a municipality in 1974, Vallejuelo in 1978 and Juan de Herrera in 1992.
+
+In 1998, Matayaya became a municipal district; Pedro Corto in 2000; Sabaneta, Arroyo Cano and Yaque in 2004; Carrera de Yeguas, Sabana Alta, El Rosario, Hato del Padre, Guanito, La Jagua, Derrumbadero and Batista in 2005; Las Maguanas-Hato Nuevo, Las Charcas de María Nova, Jinova and Jorjillo in 2006; and Las Zanjas in 2007.
+
+The San Juan province has Santiago Rodríguez and Santiago provinces to the north, Azua province (and a short part of La Vega) to the east, Baoruco province to the south and Elías Piña province to the west.
+
+In (last national census), there were people living in the San Juan province, and 139,620 () living in towns and cities. The population density was persons/km².
+
+Its population represents of the total population of the country and the province is ranked as the 11th (out of 31 plus the National District) more populated province., the total estimated propulation of the province is 226,484 inhabitants.
+
+The largest city of the province is San Juan de la Maguana, its head municipality or capital, with an urban population (in ) of 71,494 inhabitants.
+
+The San Juan province has a total area of . It has of the area of the Dominican Republic and it is ranked as the 1st (out of 31 plus the National District) largest province.
+
+The altitude of the provincial capital, San Juan de la Maguana, is above sea level.
+
+The "Cordillera Central" ("Central mountain chain") is in the northern part of the province, and the "Sierra de Neiba" runs across the southern half. The area between those two mountain ranges is the San Juan valley, which the Taínos call "Maguana", meaning "small valley".
+
+The highest mountain in the province is "Pico Duarte", with 3,087 m. It is the highest mountain in the West Indies and is on the border with Santiago province.
+
+The main rivers of the province are the San Juan and Yaque del Sur rivers.
+
+The climate of the province is a tropical climate, hot most of the year, but it is cooler in the mountains.
+
+There are 6 municipalities and 17 municipal districts (M.
+
+D.) in the province.
+
+The main economic activity of the province is farming; the main products are rice, maize, peanut, sorghum and beans.
+
+San Luis Rey RiverThe San Luis Rey River is a river in the southern part of the U.
+
+S. state of California. It begins in the Cleveland National Forest, near a mountain called Palomar Mountain, in several forks. It flows south into a reservoir, called "Lake Henshaw". It then turns west and flows to its mouth at the Pacific Ocean. Altogether, it is about long. Its watershed covers an area of 562 square miles. The lower part of the river is polluted, but the water in the upper part of the river can be used for drinking water.
+
+Forth Rail BridgeThe Forth Rail Bridge is more correctly called the Forth Bridge, but the title is to distinguish it from the nearby Forth Road Bridge). It is a railway bridge across the Firth of Forth (part of the River Forth) in Scotland.
+
+The bridge is a UNESCO World Heritage Site.

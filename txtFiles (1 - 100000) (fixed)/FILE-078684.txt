@@ -1,0 +1,265 @@
+The software development kit is available for third-party software developers that qualify for the HP OXP Developer Program.
+
+The software development, led by Bartosz A. Grzybowski, took place for a decade when it was finally publicized in August, 2012.
+
+The software development side of the project is further divided into the following sub-projects: OpenCA PKI, a full-featured PKI package.
+
+The software development techniques invented and employed on this project are of interest in the history of software engineering.
+
+The software discovers IP-addressable devices and includes help desk functionality and an integrated knowledge base.
+
+The software disk allows the user to program the robots and set up simulated missions for them.
+
+The software distribution also includes a complete RTSP server application, RTSP clients and a RTSP proxy server.
+
+The software distributions for Microsoft Windows, Mac OS X and Linux platforms are available.
+
+The software divided modeling into three main activities: construction, modeling, and assembly.
+
+The software drew heavily on Eovia's other modeler, Amapi (it shared the same developers), though it omitted the NURBs and precision measuring tools.
+
+The software drivers allowed for DOS or Windows (3.
+
+1) based gameplay, although Windows based gaming featured real-time stretching of the game window and screenshot capturing.
+
+The software emphasizes patient and provider security.
+
+The software employs MCDM methods based on direct rating and swing weighting and has been used in fields such as software, engineering, sanitation and health.
+
+The software empowers anyone, even non-technical people, to easily setup and maintain a whistleblowing platform.
+
+The software enabled voice control of any Macintosh application using context dependent synchronized grammars derived from the current processes and operating system data structures (menus, windows, controls) and events (mouse, key and AppleEvents).
+
+The software enables automotive engineers to simulate the performance of a proposed vehicle design and evaluate the potential for injury to occupants in multiple crash scenarios.
+
+The software enables complex and expensive hardware to be replaced by already purchased computer hardware; e. g. analog-to-digital converter can act as a hardware complement of a virtual oscilloscope, a potentiostat enables frequency response acquisition and analysis in electrochemical impedance spectroscopy with virtual instrumentation.
+
+The software enables export and import in the GEDCOM specification for exchanging genealogical data.
+
+The software enables its users to bypass Internet censorship and firewalls using an HTTP proxy server, and employs encryption protocols for privacy.
+
+The software enables web site administrators to rotate banners from both in-house advertisement campaigns as well as from paid or third-party sources, such as Google's AdSense.
+
+The software enabling a software-defined storage environment may also provide policy management for features such as data deduplication, replication, thin provisioning, snapshots and backup.
+
+The software encrypts every packet with the public keys for each server in its path, one by one.
+
+The Software Engineering Body of Knowledge (SWEBOK) is an international standard ISO/IEC TR 19759:2005 specifying a guide to the generally accepted Software Engineering Body of Knowledge.
+
+The software engineering community uses an architecture description language as a computer language to create a description of a software architecture.
+
+The Software Engineering Institute (SEI) is an American research and development center headquartered in Pittsburgh, Pennsylvania.
+
+The software environment of ITS was a major influence on the hacker culture, as described in Steven Levy's book Hackers.
+
+The software equivalent of glue logic is called glue code.
+
+The software eventually evolved to lend itself as a replacement in other mainstream commercial operating systems of the time, including DEC's Ultrix, IBM's AIX and Sun's SunOS and Solaris operating systems.
+
+The software extends the basic features present in most operating systems to permit implementing and enforcing organization-wide power management policies.
+
+The software fails as a function of operating time as opposed to calendar time.
+
+The software features a pseudo-3D world in plain raster graphics at 320x200 with 256 colors.
+
+The software features functionality for running an Internet radio station from a single computer.
+
+The software first gained widespread attention in September 2015, when a number of apps originating from China harbored the malicious code.
+
+The software first ran on the TX-0 computer loaned to the Massachusetts Institute of Technology (MIT) by Lincoln Laboratory.
+
+The software focuses on file format support, scripting, a query language and command line support for batch processing and automation.
+
+The software for the unit was written entirely in Z80 machine code and featured a menu driven interface and an ability to play back a recorded sound shifted over a two octave frequency range using the computer's rudimentary keyboard as a piano keyboard.
+
+The Software Freedom Law Center acted as the FSF's law firm in the case.
+
+The software gained infamy in October 2014 following the release of a report by the Electronic Frontier Foundation, a non-profit digital rights group, which alleged that ComputerCop was privacy-invasive due to a number of security flaws, including the storage and transmission of key logging output in a non-encrypted format.
+
+The software gives the user a menu-driven, graphical representation of what is on a disk drive.
+
+The software graduated a OSGeo project as of January 4, 2012.
+
+The software had fallen into disrepair during the mid-1990s until its stewardship was taken over by Stan O. Barber.
+
+The software had its official launch at the 2016 South by Southwest Interactive exhibition.
+
+The software handles a number of tasks common in post-production work such as importing and organizing image files, applying corrective adjustments, displaying slideshows, and printing photographs.
+
+The software handles a personal address-book, calendar, notes and tasks, "Public Folders", a shared calendar (inviting internal and external users, resource management), exchange of files, and video chat.
+
+The software handles many languages.
+
+The software handles the following filetypes: .
+
+udf; .
+
+cdfs; .
+
+jo; .
+
+iso; .
+
+rock.
+
+The software has a breakdown of folders into Accounting, Projects, People, Materials, and Others.
+
+The software has a built-in nucleotide-protein and protein-nucleotide sequence translator which can be used for designing degenerate primers for codons that code for multiple amino acid sequences.
+
+The software has a file transfer feature to send files between computers.
+
+The software has also found application in assisting people with disabilities to participate in playful arts activities.
+
+The software has also recently been ported to Nvidia's CUDA platform.
+
+The software has a note-taker, project manager, document reader, copier, lightweight word processor, and collaborative tool.
+
+The software has a published API and uses a simple scripting language, both allowing the integration with many different software tools, and the creation of custom programs by users.
+
+The software has a virtual community of users who make the vocabulary database bigger.
+
+The software has become a notable and popular tool with students as a way to block internet distraction while studying.
+
+The software has been applied in various ways across a range of industries.
+
+The software has been a source of controversy, with some students refusing to submit, arguing that requiring submission implies a presumption of guilt.
+
+The software has been cited in thousands of scientific molecular biology publications and is one of several tools for systems biology researchers and bioinformaticians in drug discovery and institutional research.
+
+The software has been created with the idea of discovering through a set of SNMP queries IP networks state to produce various data models from and then to use the data from the models and other inputs to transform the network from one "state" to another.
+
+The software has been created with the sole purpose of promoting use of Hindi and other Indian languages in the world of computing.
+
+The software has been deployed in numerous countries, including Senegal, Mauritania, Uganda, Somalia, Zambia, Kenya, Nigeria, Malawi, and Ethiopia.
+
+The software has been described as the first major malware threat to the Macintosh platform (although it does not attach to or damage any part of OS X).
+
+The software has been developed by MBN Research Center.
+
+The software has been developed by OpenLink Software with Kingsley Uyi Idehen and Orri Erling as the chief software architects.
+
+The software has been developed in Germany since 2006 and is actively developed.
+
+The software has been discontinued by its developers.
+
+The software has been discontinued by Novell, and is no longer available from that company.
+
+The software has been downloaded more than 100,000 times since its first release.
+
+The software has been integrated into a number of open source and commercial software products.
+
+The software has been ported by third parties to support XP, Vista and 7.
+
+On 1995-04-03, InfoSoft International, Inc., announced the acquisition of Systems Compatibility Corporation, and the renaming of InfoSoft International, Inc. to Inso Corporation.
+
+The software has been purchased by more than 2,500 institutions in over 60 countries.
+
+The software has been reviewed positively.
+
+The software has been used in classrooms and research labs, and in corporate training.
+
+The software has been used in over 500 construction projects, across 10 countries and 3 continents.
+
+The software has been used in the healthcare industry by companies such as Rochester Hospital and Medibank, as well as thousands of IT departments in financial services, high technology, and government.
+
+The software has been widely used in the education sector to support video creation for flipped classrooms, bi-directional student assessments, lecture capture, and student video assignments.
+
+The software has built-in branching logic, which will skip questions that are not applicable or will probe for more detail when warranted.
+
+The software has existed since at least mid-2003, with several different versions of the disk having been developed.
+
+The software has free and paid (NANO Antivirus Pro) versions.
+
+The software has more than 900 configuration settings and more than 1,900 extensions available for enabling various features to be added or changed.
+
+The software has not been updated since 2011, and the server has been shut down on 10 May 2016.
+
+The software has over 100,000 licensed users and over 1000 customers worldwide.
+
+The software has over 100,000 users.
+
+The software has over 220 million downloads on Google Play and is among the top Android business applications.
+
+The software has over 27,000 downloads on Download.
+
+com, and has been featured on major media sites such as Wall Street Journal, USA Today Online, and Telegram.
+
+com, and boasts integration partnerships with RotoWire and MyFantasyLeague FanDraft provides software specifically designed to make a draft easier and more esthetically pleasing.
+
+The software has received mixed reviews with reviewers being very divided as to the effectiveness of the product.
+
+The software has since been integrated into a number of open source and commercial software products.
+
+The software has three variations, for home users, for professional users& for technicians.
+
+The software has to check that the remote file has not changed since it was cached, but this is much faster than reading the whole file again.
+
+The software has two components - Capturer and Captus Editor.
+
+The software has two interfaces, a "normal" interface and a "simple" interface, which has a more appealing appearance but fewer advanced options.
+
+The software has two operational modes: the Corona Simulator and Corona Native.
+
+The software has two variants Stellar Phoenix Mac Data Recovery - Professional & Platinum.
+
+The software has undergone several name changes and was relaunched in mid-2008.
+
+The software HEALPIX is used for map generation and processing.
+
+The software helps to eliminate dissonant tones while mixing songs together using a technique such as beatmatching.
+
+The software hooks into the operating system to replace the built-in modal notification user interface, and maintains a queue of unread messages for the user.
+
+The software implements international standards such as METS, MODS and other formats maintained by the Library of Congress.
+
+The software implements the Analytic Hierarchy Process (AHP) and the Simple Multi-Attribute Rating Technique (SMART) and has been used in fields such as materials science and environmental management.
+
+The software implements the Delta MCDM method and has been used in fields such as energy and community decision-making.
+
+The software included Audio timescale-pitch modification, the ability to change the speed of audio without changing the pitch, and a codec to compress audio to approximately 36 times the size of uncompressed audio to save disk space and reduce bandwidth when sending via email.
+
+The software includes a compiler and interpreter written in Prolog, C, Assembler.
+
+The software includes a local navigation daemon and a client.
+
+The software includes an integrated all-in-one environment that permits both automated Web publishing and automated CD publishing.
+
+The software includes an integrated all-in-one environment that permits visual linking and live links (this is called the WYSIWYL interface).
+
+The software includes a number of scalability, availability, security and backup features only available in MySQL's commercial Enterprise edition.
+
+The software includes a wide array of functionality to facilitate video distribution and community creation.
+
+The software includes electronic health records (EHR), scheduling, inventory management, billing, lab integrations, and reports.
+
+The software includes Membership Management, Attendance Monitoring, Communications, Branch Reporting and Management, Finance and Digital Payments.
+
+The software includes network discovery software programs as KIsmet and Network stumbler, yet these latter provide much more information about the network itself, and are not as precise as true RF monitor software.
+
+The software includes payment systems, virtual goods, and white-label apps and games.
+
+The software includes preset equipment icons to illustrate the A/V system network.
+
+The software includes XtraDB, an enhanced distribution of the InnoDB Storage Engine.
+
+The software incorporates a user interface for building, running and viewing the results of models, including a GIS map interface.
+
+The software industry in Andhra Pradesh is conveniently spread out to different cities, namely Visakhapatnam, Tirupati and capital city of Amaravati, and not clustered just in the capital, a model which was not followed in its previous avatar with capital at Hyderabad, leading to so many social, economic and political problems.
+
+The software industry in China is the business of developing and publishing software and related services in China.
+
+The software industry includes businesses for development, maintenance and publication of software that are using different business models, mainly either "license/maintenance based" (on-premises) or "Cloud based" (such as SaaS, PaaS, IaaS, MaaS, AaaS, etc.).
+
+The software, initially developed for consulting purposes, was sold commercially and following the demise of the original company, a management buy out pre-empted the incorporation of Savoy Computing Services Ltd. in 1996.
+
+The software initially had Windows 3.
+
+x support, but after version 3.
+
+0 all 16-bit support was dropped.
+
+The "software" in multivariate optical computing is encoded directly into an optical element spectral calculation engine such as an interference filter based Multivariate optical element (MOE), holographic grading, liquid crystal tunable filter, spacial light modulator (SLM), or digital micro mirror device (DMD) and is specific to the particular application.
+
+The software installs itself, without consent, in the user's computer and registry.
+
+The software installs itself, without consent, on the user's computers and registry.

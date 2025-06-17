@@ -1,0 +1,81 @@
+Pseudomonas is one of the earliest found bacteria. It was first called 'Bacterium aeruginosm' by Schroter in 1872. However, in 1894, German botanist classified it as "Pseudomonas aeruginosa". In Greek, pseudo means false and monas means “unit”. This bacteria is associated with many chronic infections and is considered dangerous due to its resistance to many antibiotics. There has been an increase in the number of species discovered year by year. In 2013, 10 species have been found and 6 more in the subsequent year. Pseudomonas was well-classified 100 years later by a Canadian scientist, Roger Stanier. The classification was based on the physiological and biochemical properties.
+
+The basic tool which is used to classify Pseudomonas is the 16S rRNA gene. However, it is hard to differentiate closely related Pseudomonas species, thus genes such as atpD, gyrB, rpoB, recA, and rpoD are also used in the taxonomy of Pseudomonas.
+
+Using gyrB and rpoD in phylogenetic analysis, Pseudomonas came from two predominant clusters; intrageneric cluster I (IGC I) and intrageneric cluster II (IGC II).
+
+IGC I consists of two sub clusters, the ‘"Pseudomonas aeruginosa" complex’  comprises of "Pseudomonas aeruginosa, Pseudomonas alcaligenes, Pseudomonas citronellolis, Pseudomonas mendocina, Pseudomonas oleovorans" and "Pseudomonas pseudoalcaligenes," and the ‘"Pseudomonas stutzeri" complex’, comprises of "Pseudomonas balearica" and "Pseudomonas stutzeri".
+
+IGC II consists of three subclusters, the ‘"Pseudomonas syringae" complex’, the ‘"Pseudomonas fluorescens" complex’ and the ‘"Pseudomonas putida" complex’.  The ‘"Pseudomonas syringae" complex’ are phytopathogens and pathovars. The former encompasses "Pseudomonas amygdali, Pseudomonas caricapapayae, Pseudomonas cichorii, Pseudomonas ficuserectae" and "Pseudomonas viridiflava" and the latter consists of "Pseudomonas savastanoi" and "Pseudomonas syringae". The ‘"Pseudomonas fluorescens" complex’ is divided into two subpopulations, the ‘"Pseudomonas fluorescens" lineage’ and the ‘"Pseudomonas chlororaphis" lineage’. The ‘"Pseudomonas fluorescens" lineage’ contains "Pseudomonas fluorescens" biotypes A, B and C, "Pseudomonas azotoformans, Pseudomonas marginalis" pathovars, "Pseudomonas mucidolens", "Pseudomonas synxantha" and "Pseudomonas tolaasii", while the ‘"Pseudomonas chlororaphis" lineage’ includes "Pseudomonas chlororaphis, Pseudomonas agarici, Pseudomonas asplenii" and "Pseudomonas corrugata". The ‘"Pseudomonas putida" complex’ comprises of "Pseudomonas putida" and "Pseudomonas fulva".
+
+More than 25 species of Pseudomonas cause diseases in humans. Species such as "Pseudomonas aeruginosa, Pseudomonas fluorescens, Pseudomonas putida, Pseudomonas cepacia, Pseudomonas stutzeri, Pseudomonas maltophilia," and "Pseudomonas putrefaciens" are said to cause opportunistic infections in humans. Opportunistic infections more commonly affect people with weak immune systems compared to the ones with stronger immune system. Only two of the species are known to cause specific disease. These are "Pseudomonas mallei" and "Pseudomonas pseudomallei" which cause glanders and melioidosis respectively. However, the most common species involved in clinical problems is "Pseudomonas aeruginosa". The common clinical problems caused by "Pseudomonas aeruginosa" is shown in the following bullet points.
+
+Pseudomonas strains have been useful in the biotechnology field. The table below shows the Pseudomonas strains and their respective uses.
+
+Giant magnetoresistanceGiant magnetoresistance (GMR) is a very small magnetic effect found in thin layers of iron and other materials. It is used to read and write information in hard drives.
+
+The GMR effect can be measured when a magnet is used to change the flow of electricity. The 2007 Nobel Prize in physics was awarded to Albert Fert and Peter Grünberg for the discovery of GMR.
+
+GMR was discovered in layers iron, chrome and ferrite by Peter Grünbergs research team of the Jülich Research Centre (Germany) in 1988. Peter Grünberg owns a patent for the technology. It was also discovered by Albert Ferts research group of the University of Paris-Sud (France) in layers ferrite and chrome. The Fert group were first to see what they thought of as a "large" effect which is why they gave the name "Giant". The Fert group were also first to explain the correct physics of GMR. The discovery was the beginning of the science spintronics. Grünberg and Fert have been given prizes and awards, including the 2007 Nobel Prize in Physics, for this discovery and other spintronics work.
+
+In multilayer GMR, two or more magnetic layers are separated by a very thin (about 1 nm) non-magnetic (insulating) layer. Ferrite, a form of iron, is a magnetic layer and chrome is an insulating layer. At certain thickness, the strength of magnetism between the layers becomes easy to measure and adjust. The strength of electrical current between the layers can change by up to 10%.
+
+The GMR effect was first observed in stacks of 10 or more layers.
+
+In spin valve GMR, two magnetic layers are separated by a thin (~3 nm) non-magnetic (insulating) layer. It is possible to measure and adjust the strength of magnetism between these layers.
+
+It is hoped that research into spinning electrons will improve spin valves.
+
+Materials used in spin valves are copper and an alloy of nickel and iron.
+
+Spin valve GMR is the most useful sort for hard drives and is tested carefully to meet industry standards.
+
+Granular GMR is an effect found in copper containing grains of cobalt. It is not possible to control the strength of granular GMR in the same manner as Multilayer GMR.
+
+GMR is used in modern hard drives and magnetic sensors. Another use of the GMR effect is in magnetoresistive random access memory (MRAM). GMR has begun a new science of electronics called spintronics.
+
+Keiju KarashimaKeiju Karashima (born 24 June 1971) is a former Japanese football player.
+
+105||3||3||0||15||0||123||3105||3||3||0||15||0||123||3Grigoris GeorgatosGrigoris Georgatos (born 31 October 1972) is a former Greek football player. He has played for Greece national team.
+
+343||6138||3381||64!
+
+Total||35||3Angelos CharisteasAngelos Charisteas (born 9 February 1980) is a Greek football player. He plays for Nürnberg and Greece national team.
+
+94||2095||2059||21248||61!
+
+Total||81||23Bogdan SteleaBogdan Stelea (born 5 December 1967) is a former Romanian football player. He has played for Romania national team.
+
+251||0234||03||031||014||0533||0!
+
+Total||91||0Emmanuel OlisadebeEmmanuel Olisadebe (born 22 December 1978) is a Polish football player. He has played for Poland national team.
+
+40||2066||2078||242||017||644||22247||92!
+
+Total||25||10Tamotsu SuzukiSuzuki was born in Saitama on April 29, 1947. After graduating from Rikkyo University, he played for Nissan Motors from 1972 to 1974.
+
+From 1975, Suzuki became coach for Nissan Motors. He managed for Nissan Motors (1985) and Nissan FC Ladies (1987–1989).
+
+In 1989, he became manager for Japan women's national team. He managed 3 world tournament, 1991, 1995 World Cup and 1996 Summer Olympics. In Asia, Japan won the 2nd place 4 times, AFC Women's Championship (1991, 1995) and Asian Games (1990, 1994). He resigned after 1996 Summer Olympics and Satoshi Miyauchi became a new manager.
+
+In August 1996, he became manager for Nikko Securities Dream Ladies and won the Nadeshiko League champions for 3 years in a row to 1998. However the club was disbanded due to financial strain end of 1998 season.
+
+In June 1999, Japan under manager Miyauchi was defeated in group stage at 1999 World Cup and failure to qualify for 2000 Summer Olympics. After 1999 World Cup, Suzuki became a manager for Japan national team again and managed Japan at 1999 AFC Women's Championship in November. Japan finished at the 4th place and he resigned end of the championship.
+
+Shinobu IkedaIkeda was born in Shizuoka Prefecture on January 5, 1962. After graduating from Shizuoka Gakuen High School, he joined Japan Soccer League club Nissan Motors in 1980. The club won the 1983 and 1985 Emperor's Cup. From 1988 to 1990, the club won all three major titles in Japan: the Japan Soccer League, the JSL Cup, and the Emperor's Cup, for two years in a row. The club also won the 1989 Emperor's Cup. He moved to Matsushita Electric in 1990. The club won the 1990 Emperor's Cup. He retired in 1992.
+
+On June 4, 1985, Ikeda debuted for the Japan national team against Malaysia.
+
+After retirement, Ikeda started coaching career at Gamba Osaka (former "Matsushita Electric") in 1992. In 1998, he became a manager for Nadeshiko League club Matsushita Electric Panasonic Bambina and managed until 1999. In 2000, he became a manager for Japan women's national team. He managed at 2001 AFC Women's Championship and Japan won the 2nd place. He managed until April 2002. He also managed Japan U-20 women's national team for 2002 U-19 Women's World Championship. After that, he managed Gunma FC Horikoshi (2003-2004) and Zweigen Kanazawa (2007-2008).
+
+72+||0+72+||0+!
+
+Total||1||0Satoshi MiyauchiMiyauchi was born in Tokyo Metropolis on November 26, 1959. After graduating from Teikyo High School, he joined Japan Soccer League club Furukawa Electric in 1978. Initially, he could not play in many games for injury. In 1982, the club won JSL Cup. From 1983, he played as regular player and the club won 1985/86 Japan Soccer League and 1986 JSL Cup. He was also selected Best Eleven in 1985/86 and 1986/87. In Asia, the club won 1986 Asian Club Championship. This is first Asian champions as Japanese club. He retired in 1988. He played 114 games and scored 6 goals in the league.
+
+In August 1979, Miyauchi was selected the Japan U-20 national team for 1979 World Youth Championship. But he did not play in the match. On September 30, 1984, he debuted for the Japan national team against South Korea. He played at 1986 World Cup qualification, 1986 Asian Games and 1988 Summer Olympics qualification. He played 20 games for Japan until 1987.
+
+After retirement, in 1989, Miyauchi became a manager for Nadeshiko League club Prima Ham FC Kunoichi. The club won 1994 Empress's Cup, 1995 Nadeshiko League and 1997 Nadeshiko League Cup. He resigned in 1997. In 1997, he also became a manager for Japan women's national team. He managed at 1997 AFC Women's Championship and 1998 Asian Games. Japan won the 3rd place at both tournament. In 1999, he managed at 1999 World Cup. However Japan was defeated in group stage and failure to qualify for 2000 Summer Olympics. This helped to cause with economic stagnation the withdrawal of a series of teams from the Nadeshiko League. Japanese women's football was on the verge of decline. He resigned after 1999 World Cup.
+
+114||6114||6!
+
+Total||20||0Akinori Nishizawa

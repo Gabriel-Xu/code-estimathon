@@ -1,0 +1,169 @@
+Nucleosynthesis is the physical process where lighter elements are changed into heavier elements. This usually happens in the center of a star, both during its life and especially during its violent death. It is also thought that this happened at the beginning of the universe, in the big bang.
+
+Stellar windStellar wind is gas being thrown off from the upper atmosphere of a star. Different types of stars have different types of stellar winds. The Sun's stellar wind is called solar wind. Most stars, especially very bright ones, show continuous outflows of gas from their surfaces making the stellar wind. Radiation pressure is thought to be the main force that pushes the gas away, but modern research uses computer simulations and observations with the most powerful telescopes to understand it further.
+
+Dumbbell nebulaThe Dumbbell nebula (sometimes called Messier 27, M 27, or NGC 6853) is a planetary nebula in the constellation Vulpecula. It is about 1,360 light years away from earth. The Dumbbell nebula was the first planetary nebula to be discovered; by Charles Messier in 1764.
+
+Charles MessierCharles Messier (June 26, 1730 – April 12, 1817) was a French astronomer who is remembered for publishing a list of famous objects in space that came to be called the 103 "Messier objects".
+
+Messier was born in Badonviller in the Lorraine region of France. Six of his brothers and sisters died as children and in 1741, his father died. Charles became interested in astronomy after he saw the great six-tailed comet in 1744 and by a solar eclipse on July 25, 1748.
+
+In 1751 he started working for Joseph Nicolas Delisle, the astronomer of the French Navy, who told him to write down everything he saw.
+
+Messier discovered thirteen comets :Astronomical spectroscopyAstronomical spectroscopy is the science of using spectroscopy to figure out what elements astronomical bodies, such as stars, planets and nebulae, are made of. It can also be used to work out how those objects are moving, using doppler shift.
+
+The study of spectroscopy and spectra is used in astronomy to help scientists study the whole spectrum of electromagnetic radiation, including visible light, which radiates from stars and other hot celestial objects. Spectroscopy can be used to find properties of distant stars and galaxies. It can find out their chemical composition, temperature, density, mass, distance, luminosity, and relative motion using doppler effect measurements.
+
+Isaac Newton used a prism to split white light into a spectrum of color, and Fraunhofer's high-quality prisms allowed scientists to see dark lines of an unknown origin.
+
+It was not until the 1850s that Gustav Kirchoff and Robert Bunsen explained the dark lines. Hot solid objects produce light with a continuous spectrum, and hot gasses emit light at specific wavelengths. However, hot solid objects surrounded by cooler gasses show a near-continuous spectrum with "dark lines corresponding to the emission lines of the gasses". By comparing the absorption lines of theSun with emission spectra of known gasses, the chemical composition of stars can be discovered.
+
+William HugginsSir William Huggins, KCB, OM, FRS, (7 February 1824–12 May 1910) was an English astronomer best known for his work in astronomical spectroscopy.
+
+William Huggins was born at Cornhill, Middlesex in 1824. He married Margaret Lindsay, who was also an astronomer.
+
+Huggins built his own observatory from where he and his wife looked at spectral emission lines and absorption lines of astronomical objects. He was the first person to figure out the difference between nebulae and galaxies.
+
+Huggins was president of the Royal Society between 1900 and 1905.
+
+Emission spectrumThe emission spectrum of an element or compound is how bright certain frequencies are when energy is added to the atoms or molecules.
+
+Each atom's emission spectrum has different spectral lines and can be used to figure out if that atom is part of a compoundLuminosityLuminosity is the amount of power given off by an astronomical object.
+
+Stars and other objects emit energy in the form of radiation. It is measured in joules per second, which are equal to watts. A watt is one unit of power. Just as a light bulb is measured in watts, the Sun can also be measured in watts. The sun gives off . This amount of power is known as 1 sol, the symbol for which is formula_1.
+
+There are other ways to describe luminosity. The most common is apparent magnitude, which is how bright an object looks to an observer on Earth. It only applies to light, that is, visible wavelengths. Apparent magnitude is contrasted with absolute magnitude, which is an object's "intrinsic brightness" at visible wavelengths, irrespective of distance. The apparent magnitude is the less, for objects more than 32.
+
+6 light years away.
+
+When talking about the total power output across all wavelengths, that is called bolometric magnitude.
+
+Solar massSolar mass is a unit of measurement of mass. It is equal to the mass of the Sun, about 332,950 times the mass of the Earth, or 1,048 times the mass of Jupiter. Masses of other stars and groups of stars are listed in terms of solar masses. Its mathematical symbol and value are:Interstellar mediumIn astronomy, the interstellar medium (sometimes called the ISM) is the tenuous gas and dust that fills the void between stellar systems in galaxies, that consisting mainly of huge clouds of ionized, neutral, or molecular hydrogen. This gas and dust not distributed uniformly in interstellar space, but displays significant variations in density, temperature, and ionisation state.
+
+Various gases exist in outer space. Most common are hydrogen and helium. Interstellar cosmic dust makes nebulae.
+
+MyopiaMyopia, also called near-sightedness or short-sightedness, is a problem with the focusing ability of the eye. It is when the eye is not able to focus properly on objects in the distance. This condition is very common and it often occurs with many members of the same family. It happens when the lens becomes a different shape (too curved) from usual, or when the eye is longer than normal, so light entering the eye focuses on a point "in front of" the retina, rather than right on it. This makes distant objects look blurry. People with myopia often squint while watching television or trying to see distant objects. Sudden myopia can often be the first symptom of Type II Diabetes.
+
+In most cases, it can be fixed easily using glasses, contact lenses, or surgery.
+
+Luster (mineralogy)Luster (or lustre) is a description of the way light interacts with the surface of a crystal, rock, or mineral. For example, a diamond has an adamantine lustre and pyrite has a metallic lustre. The term is also used to describe other items with some kind of sheen (for example, fabric, especially silk and satin, or metals).
+
+The word lustre comes from the Latin word lux, meaning "light", and generally implies radiance, gloss, or brilliance.
+
+CarbonationCarbonation is the process of carbon dioxide dissolving in a liquid. For example, carbon dioxide is added to flavored water under pressure to make it "fizz" as a carbonated water soft drink.
+
+When rain passes through the atmosphere, it takes in or mixes with carbon dioxide, turning it into a weak carbonic acid. When the rain falls on limestone, it dissolves the calcium carbonate in the rock, turning it into calcium bicarbonate and taking it away. Holes and large cracks form in the rock. Such a place is called karst. If a stream or river passes through it, it could be swallowed up by a hole called a swallow hole. It can go through a series of underground caves and may appear on the surface again. An example of a karst area is the Burren National Park, in County Clare, Ireland.
+
+Carbon dioxide is weakly soluble in water, therefore it separates into a gas. The process of carbon dioxide bubbling out (effervescing) from a solution is represented by this chemical reaction. This shows aqueous carbonic acid converts to carbon dioxide and water:Carbonation also describes the incorporation of carbon dioxide into chemical compounds. Carbon-based life originates from a carbonation reaction that is most often catalysed by the enzyme RuBisCO. This carbonation process is so important that a significant fraction of leaf mass consists of this carbonating enzyme.
+
+Feynman diagramA Feynman diagram is a diagram that shows what happens when elementary particles collide.
+
+Feynman diagrams are used in quantum mechanics. A Feynman diagram has "lines" in different shapes—straight, dotted, and squiggly—which meet up at "points". The points in Feynman diagrams represent a meeting between three particles at the same point in space at the same time. The lines in a Feynman diagram represent the probability amplitude for a particle to go from one place to another.
+
+In Feynman diagrams, the particles are allowed to go both forward and backward in time. When a particle is going backward in time, it is called an antiparticle. The meeting points for the lines can also be interpreted forward or backwards in time, so that if a particle disappears into a meeting point, that means that the particle was either created or destroyed, depending on the direction in time that the particle came in from.
+
+All the lines and points have an amplitude. When you multiply the probability amplitude for the lines, the amplitude for the particles to go from wherever they start to wherever they meet, and to the next meeting point, and so on, and also multiply by the amplitude for each meeting point, you get a number that tells you the total amplitude for the particles to do what the diagram says they do. If you add up all these probability amplitudes over all the possible meeting points, and over all the starting and ending points with an appropriate weight, you get the total probability amplitude for a collision in a particle accelerator, which tells you the total probability of these particles to bounce off one another in any particular direction.
+
+Feynman diagrams are named after Richard Feynman, who won the Nobel Prize in Physics. His diagrams are very simple in the case of quantum electrodynamics (QED), where there are only two kinds of particles: electrons (little particles inside atoms) and photons (particles of light). In QED, the only thing that can happen is that an electron (or its antiparticle) can emit (or absorb) a photon, so there is only one building block for any collision. The probability amplitude for the emission is very simple—it has no real part, and the imaginary part is the "charge" of the electron.
+
+Raymond VII, Count of ToulouseRaymond VII of Saint-Gilles (July 1197 – 27 September 1249) was Count of Toulouse, Duke of Narbonne and Marquis of Provence from 1222 until his death.
+
+He was the son of Raymond VI of Toulouse and Joan of England. During the Albigensian Crusade in May of 1216, he set out from Marseille and besieged Beaucaire, which he captured on August 24. He fought to get the county of Toulouse back from Simon de Montfort, 5th Earl of Leicester and later Simon's son Amaury VI of Montfort.
+
+When Raymond died, Alphonse became count of Toulouse, and after Alphonse's death the county was captured by France. Raymond VII was buried beside his mother Joan in Fontevrault Abbey.
+
+RivalA rival is a person or group of people who are trying to do the same thing as someone else, and trying to do it better. They are "competing" against one another. Usually they are about equally good.
+
+Competing in this way is called rivalry.
+
+Two (or more) businesses may be rivals. For example: they may be selling ice creams in the same area.
+
+Brothers and sisters may be rivals. For example: they may both be trying to get their mother's attention.
+
+Countries may be rivals. For example: they may be trying to have power over the same thing. This can be a dangerous thing which, in some cases, can lead to war.
+
+In sport, two teams may be rivals. This is a more friendly kind of rivalry.
+
+SeneschalA seneschal was an officer in the houses of important nobles in the Middle Ages. In the French administrative system of the Middle Ages, the sénéchal was also a royal officer in charge of justice and control of the administration in southern provinces, equal to the northern French "bailli".
+
+Trimbach, SwitzerlandTrimbach is a municipality in the district of Gösgen. It is in the canton of Solothurn in Switzerland.
+
+StokeStoke may refer to the following:Originally from the Old English 'stoc' meaning 'place', it came to be used in two special senses, i) a religious place and ii) a secondary settlement (see Roome )It can refer to any of the following places:Human T-lymphotropic virusHuman T-lymphotropic virus is a virus. It is a kind of retrovirus. Human T-lymphotropic virus causes leukemia as well as other diseases. Currently, four kinds are known (labelled I to IV).
+
+Bon ScottBon Scott (9 July 1946 – 19 February 1980) was a Scottish-Australian singer-songwriter. He was the lead singer of hard rock band AC/DC from 1974 until he died of alcohol poisoning in 1980.
+
+Scott was born in Forfar, Scotland and brought up in Kirriemuir, Scotland. He and his family moved to Fremantle, Australia in 1952. He left school when he was 15 and spent a short time in a juvenile institution. In 1964, he formed a band called The Spektors. They later became a different band called The Valentines. When the Valentines broke up in 1970, Scott joined a band called Fraternity. Fraternity left Australia and went to Europe, but came back soon after. Scott then joined a band called the Mount Lofty Rangers. In 1974 he had a motorcycle accident and was in hospital for a few months. After he left hospital he joined AC/DC.
+
+AC/DC's first two albums were "High Voltage" and "T.
+
+N.
+
+T.". They were only released in Australia. Their first worldwide album was released in 1976. It had songs from both "High Voltage" and "T.
+
+N.
+
+T.", and was also called "High Voltage". They released another album that year called "Dirty Deeds Done Dirt Cheap". Their next albums were "Let There Be Rock", "Powerage", and a live album called "If You Want Blood You've Got It". AC/DC's last album with Scott as their singer was "Highway to Hell".
+
+Scott died of alcohol poisoning in London on 19 February 1980. He was 33 years old at the time. Brian Johnson became AC/DC's new lead singer. There is a bronze statue of Bon Scott in Fremantle. Shortly after his death, AC/DC released a tribute album to Scott, Back in Black.
+
+Hubble Deep FieldThe Hubble Deep Field, sometimes called the HDF, is an image of a small part of the night sky. The image was taken in the direction of the constellation Ursa Major by the Hubble Space Telescope in 1995.
+
+It is important because it shows some of the earliest (farthest away) galaxies ever seen, over 3000 in total.
+
+The area of the sky the HDF was taken in makes up less than 1/10th the width of a full Moon, yet it contains over 3,000 galaxies.
+
+Because of the time it takes for light from these galaxies to reach Earth, many in the picture look exactly as they did over 10 billion (10,000,000,000) years ago. Because of this it allows scientists to look at what the Universe was like at that time, and how it changed to become what it is now. Add to this the cosmological principle, which suggests that on large scales the Universe is roughly the same no matter what direction you look, and the HDF becomes a very important tool for astronomers studying how the Universe has changed.
+
+For these reasons the HDF is sometimes called 'the most important image ever taken'.
+
+Orem, UtahOrem is a city in Utah County in the state of Utah, United States. As of the 2020 census, 98,129 people live in Orem.
+
+838838 (DCCCXXXVIII) was a common year starting on Tuesday of the Julian calendar.
+
+AcetonitrileAcetonitrile, also known as MeCN (methyl cyanide) is a kind of chemical compound with formula CHCN. It is a clear liquid and is the simplest molecule in a group called nitriles. Acetonitrile is made when plastics are being made so is quite cheap. Chemists use it as a solvent for chemical reactions and in chromatography.
+
+Acetonitrile is flammable, and can cause severe health problems if in contact.
+
+Acetonitrile is mostly used in chromatography.
+
+RanunculalesRanunculales is an order of flowering plants. Of necessity it contains the family Ranunculaceae, the buttercup family.
+
+Ranunculaceaeeu odeio viverRanunculaceae is a family of flowering plants also known as the "buttercup family" or "crowfoot family". Members include "Anemone" (anemones), "Ranunculus" (buttercup), "Aconitum" (aconite), and "Clematis".
+
+InterlingueInterlingue is a constructed language. It was called "Occidental" between 1922 and 1947. Edgar de Wahl, one of the first Esperantists, created it. De Wahl was from the city of Tallinn in Estonia, which was in the Russian Empire but later became its own country. He spoke German, Russian, Estonian and French since he was a child and had natural ability in languages. He is often called "de Wahl".
+
+Interlingue looks a lot like languages in the Romance language family: French, Spanish, Italian, and so on. De Wahl made a rule called De Wahl's rule that made changing verbs to nouns easier and more regular. For example, the change of d in the word exploder (to explode) to s (making explosion and explosiv) is a regular change when following this rule.
+
+De Wahl was not happy with Esperanto. He decided to create a language called "Occidental". He published it in 1922. In 1949 the users of Occidental voted to change the name to "Interlingue".
+
+There were already many types of constructed languages during de Wahl's time. Some of them, like Esperanto and Ido, are called "schematic" because they follow their own design even if the words look more artificial. Others, like Latino sine flexione and Idiom Neutral, are called "naturalistic" because they try to look like natural languages. The difficulty was that creators had to choose between being regular or looking natural. Louis Couturat, the creator of Ido, wrote the same thing in 1903, and called it a paradox: "The international words are not regular, and the regular words are not international." The language that de Wahl made had a goal to be a language that was both regular and natural at the same time.
+
+De Wahl announced his language in the magazine Kosmoglott in 1922, and this is where the Occidental activities can be seen. However, de Wahl started making the language long before this. Between 1906 and 1921 he started experimenting with his own language, and it changed a lot. At the time he called it Auli, or "auxiliary language" (auxiliary means helpful). The other nickname for Auli is proto-Occidental (which means "old Occidental"). When de Wahl announced his language in 1922, it was almost but not quite done. He actually wanted to wait a bit longer, but there was big news in 1921: the League of Nations was looking at the idea of an international language. De Wahl had also sent a letter and got a positive reply from the League of Nations in September 1921.
+
+People began using Occidental because it was easy to read and understand, even without grammars and dictionaries."
+
+Kosmoglott" changed its name to "Cosmoglotta" in 1927 and began promoting Occidental over other languages. In January of the same year, they moved "Cosmoglotta's" office to Vienna in the region of Mauer (now part of Liesing). This helped Occidental have success during this period because the office was now in a central location. Engelbert Pigal from Austria also helped with his article "Li Ovre de Edgar de Wahl" (The Work of Edgar de Wahl), which convinced some users of the Ido language to try Occidental. By early 1930, people were using Occidental in Germany, Austria, Sweden, Czechoslovakia, Switzerland, and most recently in France.
+
+When the magazine Cosmoglotta was based in Vienna, the users of the language had enough money for the first time. This was thanks to two people: Hans Hörbiger, also from Vienna, and G.
+
+A. Moore, from London. The world economy was in a bad state, but with the help of people like Hörbiger and Moore, "Cosmoglotta" was able to do well and gained readers. But Hörbiger and Moore both died in 1931, so this period did not last long. After this "Cosmoglotta" had to find money from other places: subscriptions, books, magazines, and so on.
+
+The growing movement began a stronger campaign for the language in the early 1930s in which it promoted Occidental's easy understanding at first sight. They contacted organizations with letters completely in Occidental, and these organizations often understood the letters and sent responses. The Occidentalists also introduced the idea of Occidental being the answer to Europe's "tower of Babel".
+
+The years 1935 to 1939 were even more active. This is when "Cosmoglotta" started publishing a second edition. The second edition first had the name "Cosmoglotta-Informationes", but was soon called "Cosmoglotta B." Cosmoglotta A was more focused on literature, while Cosmoglotta B had more discussions relating to the movement. Cosmoglotta B had information for example on the language's development, Occidental in the news, and how much money they had.
+
+Meanwhile, the years before the World War II led to problems for Occidental and other planned languages. Occidental, Esperanto and others were made illegal in Germany, Austria and Czechoslovakia. Their groups were forced to break up, the Gestapo spied on them, and their educational materials were destroyed. Being illegal in Germany was especially damaging, because Germany had the largest number of Occidentalists.
+
+World War Two began in 1939, and this stopped the publications of both Cosmoglottas until 1940. This was when Cosmoglotta was most active. One Cosmoglotta A or B was published every month between January 1937 and September 1939 when the war started. Then one edition was published every month from September 1941 to June 1951. During the Second World War, only Switzerland and Sweden were neutral countries. Because of this, only the Occidentalists in these countries could carry on their activities.
+
+During the war, telegrams were checked by censors before approving them to send. The Occidentalists noticed that their telegrams were being sent, especially between Switzerland and Sweden. This meant that the censors could probably understand it and maybe thought the language was Spanish or Romansch. With this, the Occidentalists in Switzerland and Sweden could communicate with each other sometimes.
+
+The other centres of Occidental activity in Europe did not continue. But after the war, those who survived began to get in contact with each other again. Cosmoglotta had subscribers in 58 cities in Switzerland a few months before the end of World War II in Europe, and Cosmoglotta A started again in 1946.
+
+One of these activities was language standardization. De Wahl had created Occidental with some unchangeable features, but believed that it could follow a "natural evolution".
+
+Orthography was another area in which several possibilities existed: etymologic orthography (adtractiv, obpression), historic orthography (attractiv, oppression), or simplified orthography (atractiv, opression). Simplified orthography became the standard by 1939. Much of the standardization of the language took place in this way through community preference (e.
+
+g. both ac and anc were proposed for the word "also" but the community quickly settled on anc), but not all.
+
+As there was a lack of general material destined for the general public, much time during World War II was spend creating courses and standardizing the language. In August 1943, as the war was still going on, it was decided to create an academy to officialize the process. The Swiss Occidentalist, isolated from the rest of the continent, concentrated on developing educational materials. The standardization efforts were based on actual usage.

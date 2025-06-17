@@ -1,0 +1,73 @@
+Neewiller-près-Lauterbourg is a commune. It is in Grand Est in the Bas-Rhin department in northeast France.
+
+NeuboisNeubois is a commune. It is in Grand Est in the Bas-Rhin department in northeast France.
+
+UndamaUndama is a village in Pühalepa Parish, Hiiu County in northwestern Estonia.
+
+Neugartheim-IttlenheimNeugartheim-Ittlenheim is a commune. It is in Grand Est in the Bas-Rhin department in northeast France.
+
+NeuhaeuselNeuhaeusel is a commune. It is in Grand Est in the Bas-Rhin department in northeast France.
+
+Neuve-ÉgliseNeuve-Église is a commune. It is in Grand Est in the Bas-Rhin department in northeast France.
+
+Neuviller-la-RocheNeuviller-la-Roche is a commune. It is in Grand Est in the Bas-Rhin department in northeast France.
+
+Neuwiller-lès-SaverneNeuwiller-lès-Saverne is a commune. It is in Grand Est in the Bas-Rhin department in northeast France.
+
+Braak Base LineThe Braak Base Line was the baseline for the state survey of the Duchy of Holstein, the Danish state, the city of Hamburg and the Kingdom of Hanover (Gaussian state survey). Its length was measured in 1820/21 by Heinrich Christian Schumacher between the two trigonometric points near Braak in the district of today's Brunsbek in the district of Langelohe and Ahrensburg. After the reduction by Christian August Friedrich Peters in 1853, the length was determined to be 3,014.
+
+45115 toises (5,875.
+
+2747 meters).
+
+For the Danish survey, a route in a flat area was chosen:Observing the points from the Michaeliskirche in Hamburg and the Friedenskirche in Siek, which later burned down, resulted in the first major side of the triangle for the Danish and Hanoverian triangulation.
+
+The points are still preserved but difficult to reach. The formerly open plain between the base points is now developed with the village of Braak, the federal highway 1, the industrial area of Stapelfeld/Braak and the residential area at the southern end of Ahrensburg.
+
+Heinrich Christian Schumacher had a good relationship with the Danish King Friedrich VI., which enabled him to set up the observatory in Altona near Hamburg, which was then in Denmark. His teacher in Göttingen was Carl Friedrich Gauss . So Schumacher initiated the Danish king's request to the Hanoverians to let Gauss participate in the measurement of the baseline. Both were on location from 12. September to 25. October 1820 to combine the surveys of both kingdoms across the Elbe river. Gauss was thus able to forego his own length measurement.
+
+Schumacher and Gauss were also in close contact with Johann Georg Repsold . Schumacher used a base measuring device of his friend Repsold to measure the base. Repsold also made important contributions to the determination of the Altona meridian and the meridian circle of the Göttingen Observatory (distance 7.
+
+5 toises or 14.
+
+618 meters) in the form of his excellent instruments and improvements to existing instruments.
+
+Nagaland state lotteryNagaland State Lottery is a government-run lottery that is held every day in Nagaland, India. The lottery is conducted by the Directorate of Nagaland State Lotteries, which is under the supervision of the Finance Department of the Government of Nagaland. The lottery is open to all residents of Nagaland, as well as citizens of India who are physically present in Nagaland at the time of purchase.
+
+There are three different draws held each day for Dear Lottery, at 1:00 PM, 6:00 PM, and 8:00 PM. The prizes for each draw vary, but the top prize for the 8:00 PM draw is always ₹1 crore. Tickets for the Nagaland State Lottery can be purchased at any authorized lottery retailer in Nagaland.
+
+The results of each draw are announced shortly after the draw is held. The results can be found on the website of the Directorate of Nagaland State Lotteries, or on any number of lottery websites like Lottery Sambad.
+
+Three more lottery schemes are run by Nagaland State Lotteries Department those are Labh Laxmi Lottery Dear Laxmi Lottery Dear 100 LotteryNagaland Lottery Rules and RegulationsHow To Claim Prize Money of Nagaland State Lottery SambadLotteries are legal in 13 states in India. These states are Nagaland, West Bengal, Punjab, Kerala, Assam, Mizoram, Manipur, Goa, Maharashtra, Arunachal Pradesh, Sikkim, Meghalaya, and Madhya Pradesh. Nagaland state lotteries are conducted under the supervision of the Finance Department of the Government of Nagaland, so Nagaland state lotteries are fully legal.
+
+Nagaland State Lottery releases tickets three times a day morning, evening, and night. The tickets are sold by the Nagaland Lottery under different names depending on the day and time.
+
+Rohanixalus shyamrupusThe hornbill bubble-nest frog, Shyamrup's bush frog, or Shyamrup's bubble-nest frog ("Rohanixalus shyamrupus") is a frog. It lives in India in the Namdapha Biosphere Reserve and the Namdapha Tiger Reserve. Scientists think it might also live in Myanmar.
+
+International LGBT Pride DayThe International LGBT Pride Day is an international day that celebrates LGBT pride. It's considered Stonewall riots' anniversary. It's held in June 28, during Pride Month.
+
+Hallowed Be Thy Name (song)"Hallowed Be Thy Name" is a 1982 song by English heavy metal band Iron Maiden and is the final track from their third studio album "The Number of the Beast". The live version of the single charted in 1993 and went to number 16 in Ireland and number 9 in the United Kingdom.
+
+MTV Entertainment StudiosMTV Entertainment Studios is the film and television production arm of MTV Entertainment Group, a subsidiary of the Paramount Media Networks division of Paramount Global. Founded in 1991 as MTV Productions, it is a consolidation of the former MTV Films group established in 1996 and the MTV Production Development/MTV Studios group of 2003–2021, it has produced original television shows like Beavis and Butt-Head, Æon Flux, Jackass, My Super Sweet 16, Daria, Celebrity Deathmatch, Clone High and The Real World and films such as Election, Joe's Apartment and Napoleon Dynamite. Its films are released by fellow Paramount Global division Paramount Pictures. The MTV Films unit was part of Paramount Players until 2020.
+
+The Ballad of Billy the Kid"The Ballad of Billy the Kid" is a 1974 song by Billy Joel. It is the third single from his second studio album "Piano Man". It was a concert staple from 1974 to 1979 and was used on his 1981 live album "Songs in the Attic". It did not chart on any of the singles charts.
+
+FRACTRANFractran is a simple programming language invented by mathematician John Horton Conway. It operates on fractions and uses them as instructions for the program.
+
+In Fractran, you start with a positive whole number as the input. The program consists of a list of fractions. You multiply the input by each fraction in the list, one after another. The result of each multiplication is rounded down to the nearest whole number, and that becomes the new input for the next iteration.
+
+The process continues until the input can no longer be multiplied by any of the fractions in the list. At that point, the program stops, and the final output is the last number you obtained.
+
+What makes Fractran interesting is that some programs can do really powerful things. For example, they can simulate any other computer program, given the right set of fractions. These programs are like universal computers in a simple language.
+
+The behavior of Fractran programs is related to the prime factorization of numbers. The fractions in the program are carefully chosen to produce specific patterns or sequences. This connection to number theory makes Fractran a fascinating area of study for mathematicians and computer scientists.
+
+Overall, Fractran is a simple language where you multiply an input by fractions repeatedly until you can't do it anymore, and the final result is your output. But within this simplicity lies the potential for powerful computation and deep mathematical connections.
+
+Electoral district of DavidsonDavidson is an electoral district of New South Wales. It was created in 1971.
+
+It is a conservative electorate that has only ever been represented by the Liberal Party, with the exception of one independent.
+
+Davidson is located in northern Sydney.
+
+Electoral district of Pittwater

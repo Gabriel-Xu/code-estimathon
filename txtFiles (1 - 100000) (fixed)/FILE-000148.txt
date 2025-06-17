@@ -1,0 +1,143 @@
+These words mean almost the same thing in everyday use. Sometimes scientists use "gravity" for the force that pulls objects towards each other, and "gravitation" for the theory about the attraction.
+
+According to one of his students, Galileo did a famous experiment about gravity where he dropped balls from the Tower of Pisa. He later rolled balls down inclines. With these experiments, Galileo showed that gravitation accelerates all objects at the same rate regardless of weight.
+
+Johannes Kepler studied the motion of planets. In 1609 and 1616 he published his three laws governing the shape of their orbits and their speed along those orbits, but did not discover why they moved that way.
+
+In 1687, English mathematician Isaac Newton wrote the "Principia". In this book, he wrote about the inverse-square law of gravitation. Newton, following an idea that had long been discussed by others, said that the closer two objects are to each other, the more gravity will affect them.
+
+According to Newton's law of universal gravitation, gravity is a force between any two objects with mass. Three numbers affect its strength: the mass of each object, and the distance between them. These two objects will both pull on each other with the same force. However, a force has a greater effect on objects with less mass. The force between the Sun and the Earth makes the Earth orbit the Sun, but it only moves the Sun a small amount.
+
+Newton's laws were used later to predict the existence of the planet Neptune based on changes in the orbit of Uranus, and again to predict the existence of another planet closer to the Sun than Mercury. When this was done, it was learned that his theory was not entirely correct. These mistakes in his theory were corrected by Albert Einstein's theory of General Relativity. Newton's theory is still commonly used for many things because it is simpler and is accurate enough for many uses.
+
+Why does the Earth not fall into the Sun? The answer is simple but very important. It is because the Earth moving round the Sun is in a dynamic equilibrium. The speed of the Earth's movement creates a centrifugal force which balances the gravitational force between the Sun and the Earth. Why does the Earth continue spinning? Because there is no force to stop it.
+
+Newton's first law: "If a body is at rest it remains at rest or if it is in motion it moves at the same speed "until it is acted on by an external force"".
+
+There is a kind of analogy between "centrifugal force" and "gravitational force", which led to the "equivalence principle" of general relativity.
+
+In free fall an object's motion balances out the pull of gravity on it. This includes being in orbit.
+
+The special theory of relativity describes systems where gravity is not an issue; by contrast, gravity is the central issue of the general theory of relativity.
+
+In general relativity "there is no gravitational force" deflecting objects from their natural, straight paths. Instead, gravity is seen as changes in the properties of space and time. In turn, this changes the straightest-possible paths that objects will naturally follow. The curvature is, in turn, caused by the energy–momentum of matter. Spacetime tells matter how to move; matter tells spacetime how to curve.
+
+For weak gravitational fields and slow speeds relative to the speed of light, the theory's predictions converge on those of Newton's law of universal gravitation. Newton's equations are used to plan journeys in our Solar System.
+
+General relativity has a number of physical consequences.
+
+Gravity influences the passage of time. Light sent down into a is blueshifted, whereas light sent in the opposite direction (i.
+
+e., climbing out of the gravity well) is redshifted; collectively, these two effects are known as the "gravitational frequency shift".
+
+More generally, processes close to a massive body run more slowly when compared with processes taking place farther away; this effect is known as gravitational time dilation.
+
+General relativity predicts that the path of light is bent in a gravitational field; light passing a massive body is deflected towards that body. This effect has been confirmed by observing the light of stars or distant quasars being deflected as it passes the Sun.
+
+Closely related to light deflection is the gravitational time delay (or Shapiro delay), the phenomenon that light signals take longer to move through a gravitational field than they would in the absence of that field. There have been numerous successful tests of this prediction.
+
+A parameter called γ encodes the influence of gravity on the geometry of space.
+
+Gravitational waves are ripples in the curvature of spacetime. They move as a wave, travelling outward from the source. Einstein predicted them in 1915 on the basis of his theory of general relativity. In theory, gravitational waves transport energy as gravitational radiation. Sources of detectable gravitational waves might include binary star systems composed of white dwarfs, neutron stars, or black holes. In general relativity, gravitational waves cannot travel faster than the speed of light.
+
+The 1993 Nobel Prize in Physics was awarded for measurements of the Hulse-Taylor binary star system. These measurements suggested gravitational waves are more than mathematical peculiarities.
+
+On February 11, 2016, the LIGO Scientific Collaboration and Virgo Collaboration teams announced that they had made the first observation of gravitational waves, originating from a pair of merging black holes using the Advanced LIGO detectors. On June 15, 2016, a second detection of gravitational waves from coalescing black holes was announced. Besides LIGO, many other gravitational-wave observatories (detectors) are under construction.
+
+Centripetal forceCentripetal acceleration is a force that acts on a body that revolves around a centre of a circular path. This force keeps the body in circular motion. Newton's first law is that a moving object will continue in its motion in a straight path unless acted on by an external force.
+
+When you hold a rope with an object attached to it, and spin it in a circular motion around the hand of the person holding the rope, the rope becomes tight and keeps the body from flying away. This force acts towards the center of motion, not away from it.
+
+An object changes direction, but may maintain a constant speed, if acted upon by a centripetal acceleration. In such a case, we know from its angular frequency that formula_1. From Newton's second law we know that force equals mass times acceleration. Here acceleration is the negative of the radius coming from the centre of the circular motion. formula_2In this formula, think that the centripetal force and the centripetal momentum are the same thing because they are both measured in Newtons.
+
+If, however, the angular frequency is not constant (as might be the case in a roller-coaster ride) then formula_3 does vary with respect to time. Hereformula_4Thusformula_5as formula_6 and formula_7 , which we know from the angular frequency.
+
+In the figure to the right we define the displacement vector formula_8 to represent motion in a circle. The magnitude of formula_8 is denoted as formula_10 and represents the radius of the particle's orbit.
+
+TreatyA treaty is a written agreement between two or more parties. International treaties are covered by international law. The parties may be countries or other important groups. A treaty may be about any subject.
+
+Two countries might agree to stop a war, or declare war on a common enemy. Very common are treaties where a country promises to come to the aid of another country if the other country is attacked. Treaties about trade are also common. They may allow allow each other's citizens or merchandise to cross borders freely. For example, the European Union is set up by treaties between most of the European nations. It arranges that trade of products and services is free between the member states of the European Union.
+
+In general, treaties are usually used to settle disputes, or to avoid disputes.
+
+LuxembourgLuxembourg (official name is the Grand Duchy of Luxembourg (, , ) is a landlocked country in Western Europe. It is a small country by land area.
+
+In 2023, its population was 660,809, making it one of Europe's most densely populated countries. It was one of the first countries in the European Union. It is also a member of the Benelux. The countries next to Luxembourg are Belgium, Germany, and France. The main language is Luxembourgish.
+
+Luxembourg is a parliamentary democracy lead by a constitutional monarch. Under the constitution of 1868, executive power is in the hands of the Governor and the cabinet, which consists of several other ministers.
+
+Luxembourg has a continental climate.
+
+The highest temperature ever recorded in Luxembourg was , on 25 July 2019 in Steinsel.
+
+The lowest temperature ever recorded in Luxembourg was on 2 February 1956 in Wiltz.
+
+Luxembourg is divided into 3 districts, which are further divided into 12 cantons and then 102 communes. Twelve of the communes have city status, of which the city of Luxembourg is the largest.
+
+The districts areBaden-WürttembergBaden-Württemberg (, ; Alemannic German: "Baade-Wiirdebäärg") is a federal state ("Bundesland") in the southwestern region of Germany. It is the third largest German state by total area (after Bavaria and Lower Saxony) with a size of nearly 35,752 km² and population (after North Rhine-Westphalia and Bavaria) with over 11 million people as of 2017. It shares borders to the east with the state of Bavaria, to the north with the states of Hesse and Rhineland-Palatinate, to the west with the country of France (along the river Rhine), and to the south with the countries of Switzerland and Austria. Its biggest cities are Stuttgart, the capital, Mannheim, and Karlsruhe. The Minister President is Winfried Kretschmann of the party "Alliance '90/The Greens".
+
+In 2017, Baden-Württemberg ranked 2 on the Human Development Index (HDI) among all states in Germany.
+
+In 1952, the three states of Baden, Württemberg-Baden and Württemberg-Hohenzollern joined to found Baden-Württemberg.
+
+The Minister President is the chief of the government of Baden-Württemberg. The government is made up of ministers and state secretaries.
+
+The CDU was the main political party in the state between 1953 and 2011, the Ministers President have all been members of the CDU. Between the years 1972 and 1992, the members of the Landtag of Baden-Württemberg were mostly members of the CDU. But the state is also a stronghold of the "Grünen" which were founded in the early 1980s in Karlsruhe. The election results of the Grünen in Baden-Württemberg have always been above the election average for the party in Germany.
+
+Since 2016 there have been 5 parties represented in the Landtag of Baden-Württemberg:List of Ministers President since 1952:The Black forest, the Swabian Alb and the Lake Constance are world famous holiday regions. The highest mountain is the Feldberg (1492m).
+
+Other important cities for tourism in Baden-Württemberg besides the capital city of Stuttgart are: Freiburg, Heidelberg, Rastatt, Karlsruhe, Mannheim, Ulm, Ravensburg and Heilbronn.
+
+The Danube, the Neckar and the Rhine are important rivers which are in the state.
+
+Baden-Württemberg has the third largest economy in Germany after the economies of North Rhine-Westphalia and Bavaria. It had a gross regional product (GRP) of €524.
+
+33 billion in 2019.
+
+In the northern part of Württemberg and the Kurpfalz the majority are Protestants. But the other parts of the state, especially the south, the majority are Roman Catholics.
+
+Statistics for Baden-Württemberg:Football is the most popular sport in Baden-Württemberg. The best clubs are the VfB Stuttgart and the SC Freiburg. In former times also Karlsruher SC (Karlsruher SC or KSC). Another popular sport is handball.
+
+ViennaVienna (; ; Central Austro-Bavarian: "Wean" ; Viennese German and Austrian German: "Wian" ) is the capital and largest city of Austria. It is also one of Austria's nine states.
+
+It is in the east of the country on the river Danube. More than 1,800,000 people live there (2016). It is an administrative district ("Bundesland") of its own.
+
+Before World War I, it was the capital of the Austro-Hungarian Empire. Its centre is a UNESCO World Heritage Site.
+
+In regard to the etymology of the city's name, scholars are not in agreement. Some claim that the name comes from "vedunia", meaning "forest stream"; From that word, came the Old High German word "uuenia" ("wenia" in modern writing), and the New High German word "wien" and its dialectal variant "wean".
+
+The history of the city goes back to the Roman Empire. The Romans started a military camp called Vindobona. The camp was in today's first district on the Danube river. The name came from the Celts, so there was probably a Celtic settlement before the Roman invasion. The Romans stayed until the 5th century. In medieval times, the settlement was still in use. The present name was mentioned in 881 in the Salzburger Annalen, where a battle "ad weniam" is mentioned.
+
+In 976 the House of Babenberg became rulers of the area. They made Vienna their capital in 1155. Vienna was already an important city. In 1156, Austria became a Duchy, and Vienna was where the Duke who ruled the Duchy lived. In 1221, Vienna got municipal rights. It Is the second oldest city in Austria (Enns, in Upper Austria, is the oldest).
+
+In 1278, the Duchy came to the Habsburg family. Rudolf IV started the university in 1365 and while he was duke the nave of the Gothic St. Stephan's Cathedral was built. Quarrels within the Hapsburg family caused an economic decline in Vienna. In 1438, Vienna became the residence of the Holy Roman Emperor.
+
+During the time of the reformation Vienna was a Protestant city, but in the times of the Counter Reformation, Austria and Vienna were mostly Roman Catholic.
+
+In 1529, Vienna was first besieged by the army of the Ottoman Empire, which had a border only 150 km east of Vienna. This hurt Vienna economically, but led to people fortifying the city (making it stronger). After a second siege, the Ottoman Empire could not take Vienna, and the city started getting larger.
+
+During the baroque era, Vienna was rebuilt. Many residences for the nobility were built. Johann Bernhard Fischer von Erlach was an important architect in Vienna.
+
+At the end of the 18th and the beginning of the 19th century Vienna was the home of important composers like Haydn, Mozart, Beethoven, Schubert.
+
+After the revolution in 1848 Franz Joseph I. became emperor of the Austrian Empire, which was founded in 1806 after the liquidation of the Holy Roman Empire. He ruled till 1916. Vienna became a center of arts, culture and architecture. The city grew because the suburbs became part of the city. After 1858 the walls of the city were destroyed and the Ringstraße replaced them. Along that street houses of the rich citizens were built, as were public buildings like the city hall and the Burg theatre. The industrialisation started at the beginning of the century and made more people live there. In 1870, Vienna had one million people, and in 1910, two million people. With the creation of a large working class and poverty in Vienna the Labour Party (Sozialdemokratische Arbeiterpartei) became stronger.
+
+Karl Lueger was the most important mayor in the time of Emperor Franz Josef. During his time important community plans were realized that made Vienna a modern city. However, Lueger was a radical anti-Semite. He was admired by the young Adolf Hitler, who spent some years before the First World War in Vienna. At this time, Vienna was an important place for the arts. Composers like Arnold Schönberg, Anton Webern, Alban Berg and Ernst Krenek were important for the development of modern music. Also the psychoanalysis was founded in Vienna by Sigmund Freud. Also the so-called Jugendstil in arts was part of Vienna's modern arts scene. Founding fathers of modern architecture lived and worked also in Vienna at this time (Otto Wagner, Adolf Loos)After the end of the First World War the Austrian-Hungary Empire was dissolved and Vienna became capital of the Republic of Austria. In 1938, Austria was occupied by Germany. In Vienna the suffering of the Jewish inhabitants began. A lot of their properties was given to Austrians (Arisierung).
+
+After the Second World War, which destroyed 20% of Vienna's buildings, Vienna was divided into four parts. The city was controlled by the allies like the other parts of Austria. In 1955 the state treaty between the allies and Austria was signed in Vienna's Belvedere. After that Vienna became an important city for international organisations. The first was 1957 the International Atomic Energy Organisation (IAEO) and 1965 the OPEC followed. 1980 the Vienna International Center was opened and Vienna is now the third UN-city together with New York and Geneva.
+
+There are 23 districts in Vienna. They are:Vienna has many things worth seeing. Here are a few of them.
+
+There are many old buildings, churches and museums in the city centre. Classical music and opera are popular in Vienna. The composers Wolfgang Amadeus Mozart, Ludwig van Beethoven and Brahms all worked in Vienna. Vivaldi also died in Vienna. The city has two world-famous orchestras: the Vienna Philharmonic and the Vienna Symphony.
+
+Vienna is also the name of a song about the city, by the British group Ultravox.
+
+Vienna is the home of the nationally successful soccer clubs SK Rapid Wien and FK Austria Wien.
+
+TelescopeA telescope (from the Ancient Greek τῆλε, tele "far" and σκοπεῖν, skopein "to look or see"; τηλεσκόπος, teleskopos) makes astronomical objects appear closer to the naked eye. It is an important tool for astronomy that gathers light and directs it to a single point. Some do this with curved mirrors, some with curved lenses, and some with both. Telescopes make distant things look bigger, brighter and closer. Galileo was the first person to use a telescope for astronomy, but he did not invent them. The first telescope was invented in the Netherlands in 1608. Some telescopes, not mainly used for astronomy, are "binoculars," "camera lenses", or "spyglasses".
+
+When telescopes are used with just your eye, an eyepiece has to be used. These use two or more smaller lenses to magnify an image. Without an eyepiece, an eye cannot focus the image. When a telescope is used with a camera or other special scientific tools, eyepiece lenses are not needed. The bigger the aperture (mirror) the more light the telescope collects. It makes faint objects appear clearer.
+
+Most big telescopes for astronomy are made to study very carefully things that are already known. A few are made for searching, such as for unknown asteroids or extrasolar planets. Most big telescopes are made to be used with a CCD (Charge-Coupled Devices) camera instead of just the eye. This is called "Astrophotography". A Go-to telescope is needed to track Deep Sky objects and is placed on an Equatorial Mount for the axis to point towards Polaris, this is called polar alignment.
+
+Telescopes can be used by normal people too, not just scientists. These are amateur telescopes, and they are usually smaller, and they don't cost too much for an amateur to buy. Some of the most popular amateur telescopes are Dobsonians, a type of Newtonian telescope.

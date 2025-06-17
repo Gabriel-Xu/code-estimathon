@@ -1,0 +1,137 @@
+Other strong players have included Rob Blake, who won the Norris Trophy as best defenceman in 1998; goaltender Rogie Vachon, who was second in voting for the Hart Trophy in 1975; and Dave Taylor, Bernie Nicholls, and Larry Murphy.
+
+St. Louis BluesThe St. Louis Blues are an ice hockey team in the National Hockey League (NHL). They began in 1967. They have won the Stanley Cup championship once in 2019, though they made the finals in each of their first three seasons. The Blues won the President's Trophy as top team in the regular season in the year 2000.
+
+The name "Blues" is a pun (play on words) between the colour blue and Blues music; thus a blue note is the team's logo. There is a song entitled "St. Louis Blues".
+
+In their first years, they had a good team because of experienced players such as goaltender Glenn Hall. In 1968 Glenn Hall won the Conn Smythe Trophy as most valuable player in the playoffs. But the team did not win in 1968. They had some trouble in the 1970s. In 1980-81 Mike Liut was named best goalie in the NHL. The 1980s were a good decade for the Blues. Mike Liut, Bernie Federko, Doug Gilmour, and Joe Mullen were all important players for the team in the 1980s.
+
+The 1990s also were a good decade. Brett Hull led the NHL in goals in 1990, 1991, and 1992, with the help of centre Adam Oates. Hull is the son of Chicago Blackhawks star Bobby Hull. Brett Hull won the Hart Trophy as most valuable player in 1991. Curtis Joseph was a strong goaltender in the 1990s. Al MacInnis (1999) and Chris Pronger (2000) each won the Norris Trophy for best defence; Pronger also won the Hart Trophy in the year 2000. Doug Weight, Pavol Demitra, and Keith Tkachuk were also strong players in the early 21st century. On June 12, 2019, the Blues won their first after defeating the Boston Bruins in game seven of the 2019 Stanley Cup Finals.
+
+RatioA ratio between two or more quantities is a way of measuring their sizes compared to each other. A ratio can be indicated using colon (":") as a separator (as in 1:4:9), or it can be simply expressed as a fraction (as in formula_1).
+
+For example, if a school has 20 teachers and 500 pupils, then the ratio of teachers to students is written as 20:500 (and pronounced as "20 to 500"). As another example, if a cake mix asks for 100 grams of flour, 300 grams of butter and 25 grams of sugar, then the ratio of flour to butter to sugar is written as 100:300:25 (and pronounced as "100 to 300 to 25").
+
+The first term of a ratio is called antecedent, and the second term is called consequent. This type of ratio has no units. If different quantities are compared, this special type of ratio is called a rate and it has units.
+
+Ratios can be simplified. In the school example, there were 20 teachers to 500 pupils. If we divided the children up into equally sized classes, then each of the 20 teachers' classes would have 25 pupils. That means that for each teacher there are 25 pupils, or alternatively, the teacher-to-pupil ratio is 1:25. Another way to work this out is to divide both sides of the ratio 20:500 by 20. Note that 20:500 is the same as 1:25. Just like there are different ways of writing a fraction (for example ), there are different ways of writing one ratio.
+
+FractionFractionIn common usage a fraction is any part of a unit.
+
+Fraction may also mean:ProportionalityA proportionality relationship happens when two quantities or numbers "x" and "y" are related multiplicatively by a fixed number. This can occur when either their ratio "x"/"y" is a fixed number (direct proportionality), or their product "xy" is a fixed number (inverse proportionality). If "x" is directly proportional to "y", then we write formula_1. The fixed number of a proportionality relationship is called the constant of proportionality.
+
+MitochondriaMitochondria (sing. mitochondrion) are organelles, or parts of a eukaryote cell. They are in the cytoplasm, not the nucleus.
+
+They make most of the cell's supply of adenosine triphosphate (ATP), a molecule that cells use as a source of energy. Their main job is to convert energy. They oxidise glucose to provide energy for the cell. The process makes ATP, and is called cellular respiration. This means mitochondria are known as "the powerhouse of the cell".
+
+In addition to supplying cellular energy, mitochondria are involved in a range of other processes, such as signalling, cellular differentiation, cell death, as well as the control of the cell division cycle and cell growth.
+
+A mitochondrion contains two membranes. These are made of phospholipid double layers and proteins. The two membranes have different properties. Because of this double-membraned organization, there are five distinct compartments within the mitochondrion. They are:The mitochondria's main role in the cell is to take glucose and use the energy they stored in its chemical bonds to make ATP in a process called cellular respiration. There are 3 main steps to this process: glycolysis, the citric acid cycle or Krebs cycle, and ATP Synthesis. This ATP is released from the mitochondrion, and broken down by the other organelles of the cell to power their own functions.
+
+It is thought that mitochondria were once independent bacteria, and became part of the eukaryotic cells by being engulfed, a process called endosymbiosis.
+
+Most of a cell's DNA is in the cell nucleus, but the mitochondrion has its own independent genome. Also, its DNA shows substantial similarity to bacterial genomes.
+
+The shorthand for mitochondrial DNA is "either" mDNA or mtDNA. Both have been used by researchers.
+
+Mitochondria divides by binary fission similar to bacterial cell division. In single-celled eukaryotes, division of mitochondria is linked to cell division. This division must be controlled so that each daughter cell receives at least one mitochondrion. In other eukaryotes (in humans for example), mitochondria may replicate their DNA and divide in response to the energy needs of the cell, rather than in phase with the cell cycle.
+
+An individual's mitochondrial genes are not inherited by the same mechanism as nuclear genes. The mitochondria, and therefore the mitochondrial DNA, usually comes from the egg only. The sperm's mitochondria enter the egg, but are marked for later destruction. The egg cell contains relatively few mitochondria, but it is these mitochondria that survive and divide to populate the cells of the adult organism. Mitochondria are, therefore, in most cases inherited down the female line, known as "maternal inheritance". This mode is true for all animals, and most other organisms. However, mitochondria is inherited "paternally" in some conifers, though not in pines or yews.
+
+A single mitochondrion can contain 2–10 copies of its DNA. For this reason, mitochondrial DNA is thought to reproduce by binary fission, so producing exact copies. However, there is some evidence that animal mitochondria can undergo recombination. If recombination does not occur, the whole mitochondrial DNA sequence represents a single haploid genome, which makes it useful for studying the evolutionary history of populations.
+
+The near-absence of recombination in mitochondrial DNA makes it useful for population genetics and evolutionary biology. If all the mitochondrial DNA is inherited as a single haploid unit, the relationships between mitochondrial DNA from different individuals can be seen as a gene tree. Patterns in these gene trees can be used to infer the evolutionary history of populations. The classic example of this is where the molecular clock can be used to give a date for the so-called mitochondrial Eve. This is often interpreted as strong support for the spread of modern humans out of Africa. Another human example is the sequencing of mitochondrial DNA from Neanderthal bones. The relatively large evolutionary distance between the mitochondrial DNA sequences of Neanderthals and living humans is evidence for a general lack of interbreeding between Neanderthals and anatomically modern humans.
+
+However, mitochondrial DNA only reflects the history of females in a population. It may not represent the history of the population as a whole. To some extent, paternal genetic sequences from the Y-chromosome can be used. In a broader sense, only studies that also include nuclear DNA can provide a comprehensive evolutionary history of a population.
+
+Menominee, MichiganMenominee is a city in the U.
+
+S. state of Michigan. Around 8500 people live in Menominee. It is part of the twin-city area with Marinette, Wisconsin. It is on the north bank of the Menominee River where the river empties into Lake Michigan. Marinette, Wisconsin is on the south bank of the river.
+
+Mortar and pestleA mortar and pestle are two tools used together to mill (grind) and mix substances.
+
+The "mortar" is bowl-shaped, and used to hold the substance to be ground. Mortars have smooth, rounded bottoms and wide mouths. The "pestle" is a stick used for pounding and grinding.
+
+Mortars and pestles are sometimes used in pharmacies to crush various ingredients to make drugs. They can also be used in cooking to grind herbs.
+
+MortarMortar can refer to different things:12121212 (MCCXII) was .
+
+11921192 (MCXCII) was .
+
+Hiram E. McCallumHiram Emerson McCallum (August 14, 1899 – January 13, 1989) was a mayor of Toronto, Ontario, Canada, from 1948-1951.
+
+Walter CronkiteWalter Leland Cronkite, Jr. (November 4, 1916 – July 17, 2009) was an American news reporter. He was the anchor of CBS News from 1962 to 1981. Important events he reported included when President John F. Kennedy was assassinated. He reported the Apollo 11 moon landing. He also reported on the Watergate scandal, which led to President Richard Nixon resigning from his position. He was often called "the most trusted man in America." People across the country tuned in nightly to hear his coverage of the Vietnam War as it progressed.
+
+The Walter Cronkite School of Journalism and Mass Communication at Arizona State University is named after Walter Cronkite.
+
+Cronkite was born on November 4, 1916 in St. Joseph, Missouri. He studied at the University of Texas at Austin. In 1935 he left school to work for the Houston Post. He later worked for several midwestern radio stations. In World War II he was a war correspondent for United Press International. After the war he was chief correspondent at the Nuremberg trials. He went to work for CBS News in 1950. In 1962 he helped start the CBS Evening News. He served as the news anchor until he retired in 1981.
+
+After retiring, in 1981 he was a co-producer of a PBS program, "Why in the World". In 1982 he hosted "CBS's Universe". He was the host of A&E's "Dinosaur". He did "Cronkite Remembers" for CBS and the Discovery Channel. He also wrote several books. He won several awards during his career. In 1981 he was awarded the Presidential Medal of Freedom. He won two Peabody Awards and several Emmy Awards.
+
+Cronkite was known for his coverage of the U.
+
+S. space program, from Project Mercury to the Moon landings to the Space Shuttle. He was the only non-NASA recipient of a Moon-rock award. Cronkite was well known for his departing catchphrase "And that's the way it is," followed by the date on which the appearance aired.
+
+Cronkite made history when he became the first television reporter to announce the assassination of John F. Kennedy. In the newsroom at CBS, the cameras were not ready when the news came in over the wire service. Cronkite's voice was broadcast over a blank CBS placard on the screen: "Bulletin . . . In Dallas, Texas, three shots were fired at President Kennedy's motorcade. The first reports say the President was seriously wounded, that he slumped over in Mrs. Kennedy's lap, she cried out, 'Oh, no!' and the motorcade went on . . . The wounds perhaps could be fatal . . ." For three and a half days there was no entertainment, no commercials, just the news.
+
+Cronkite's reporting of Vietnam was controversial. He reported the events on the evening news. But at the Tet Offensive he traveled there to see the results. What he saw upset him. On February 27, 1968, Cronkite reported the war in Vietnam could not be won. This was a major change from his usual objective reporting. He was voicing his own opinion on national television. It was the view of David Halberstam and others that Cronkite's broadcast turned many Americans against the war. Also that it played a part in Lyndon B. Johnson's decision not to run for another term as President. The other viewpoint is that Americans had already turned against the war before Cronkite's broadcast. After watching Cronkite's broadcast, Lyndon Johnson said to his press secretary, George Christian, "If I have lost Walter Cronkite, I’ve lost Middle America." Whatever effect Cronkite's broadcast had, by 1967 Johnson's approval rating on the war was down to 32%.
+
+Cronkite was married to Mary Elizabeth "Betsy" Maxwell from 1940 until her death in 2005. They had three children. Cronkite died on the morning of July 17, 2009 in New York City, New York from cerebrovascular disease, aged 92.
+
+Dog Day AfternoonDog Day Afternoon is a 1975 American crime drama movie directed by Sidney Lumet, written by Frank Pierson and based on an article from Life magazine. The movie stars Al Pacino, John Cazale, Chris Sarandon and Charles Durning. The story is about bank robbery in New York City.
+
+The "Life" article described Wojtowicz as "a dark, thin fellow with the broken-faced good looks of an Al Pacino or Dustin Hoffman". Hoffman was offered the role when Pacino briefly quit. An 18-year-old actor was originally to be cast in the role of Sal to match the age of the actual Salvatore. The table below shows the main cast of "Dog Day Afternoon".
+
+The movie was based on the story of John Wojtowicz. It keeps the basic facts of what happened, according to the "Life" article "The Boys in the Bank". According to the article, Wojtowicz, along with Sal Naturile, held up a Chase Manhattan Bank branch in Brooklyn, New York on August 22, 1972.
+
+After being arrested, Wojtowicz was convicted in court and sentenced to twenty years in prison. He served six years.
+
+Wojtowicz wrote a letter to "The New York Times" in 1975. He said the movie was not completely true. He said the way his ex-wife was shown was not accurate. He also said there was not a talk with his mother. He did say Al Pacino and Chris Sarandon's portrayals of him and his boyfriend Ernest Aron were good. Also, Sal was 18 years old, but is played by a 39-year-old.
+
+Wojtowicz died of cancer in January 2006."
+
+Dog Day Afternoon" won the Academy Award for Writing – Original Screenplay (Frank Pierson) and was nominated for other Oscars:The movie was also nominated for the following seven Golden Globes, winning none:The movie won other awards, including an NBR Award for Best Supporting Actor (Charles Durning) and a Writers Guild Award for Best Drama Written Directly for the Screen (Frank Pierson) as well as the British Academy Award for Best Actor (Al Pacino). It was nominated for the BAFTA Award for Best Screenplay.
+
+In 2009, it was named to the National Film Registry by the Library of Congress.
+
+CursorA cursor is a shape on a computer screen that shows where actions made with the keyboard or mouse will make a change. Earlier a cursor marked a point on a slide rule.
+
+There are 2 types of cursor that most people will use.
+
+The computer automatically moves the cursor one space to the right when a letter, number or symbol is typed. The cursor can be moved to the start of the next line by pressing the Enter Key.
+
+Most Keyboards also have 4 cursor keys to move the text cursor up, down, left or right.
+
+Kurt GödelKurt Gödel (28 April 1906 Brno, then Austria-Hungary, now Czech Republic – 14 January 1978 Princeton, New Jersey) was a logician, mathematician, and philosopher.
+
+Some people believe Gödel was one of the most significant logicians of all time. Gödel's work has had a big impact on scientific and philosophical thinking in the 20th century. Many people, such as Bertrand Russell, A. N. Whitehead, and David Hilbert, tried to use logic and set theory at that time. They wanted to understand the foundations of mathematics.
+
+Gödel is best known for his two incompleteness theorems. The theorems were published in 1931. He was 25 years of age, and had just finished his doctorate at the University of Vienna one year earlier.
+
+The more famous of the two theorems says that if there are consistent axiomatic systems that are powerful enough to describe themselves, there will be things that are true in those systems that can not be proved within the system itself.
+
+To prove this theorem, Gödel developed a technique now known as Gödel numbering, which codes formal expressions as natural numbers.
+
+He also showed that the continuum hypothesis cannot be disproved from the accepted axioms of set theory, if those axioms are consistent. He made important contributions to proof theory. He did this by clarifying the connections between classical logic, intuitionistic logic, and modal logic.
+
+Later in his life, Gödel probably suffered from paranoia. He thought that some people would come and poison his food. So when his wife Adele was no longer able to prepare his food, he stopped eating. He died of starvation.
+
+To put his theories in simple terms: What he discovered was that some theorems in mathematics may be true, but they cannot be proved to be true."
+
+This sentence is false".
+
+Therefore, we found a contradiction. "This sentence is false" is a proposition that is called undecidable. We cannot say if it is true or false.
+
+TyrannosaurusTyrannosaurus (from , tyrannos, meaning "tyrant" and , sauros, meaning "lizard") was a large predatory dinosaur from the Upper Cretaceous, 68 to 65 million years ago."
+
+Tyrannosaurus" was a bipedal carnivore with a massive skull balanced by a long, heavy tail. Compared to the large and powerful hind limbs, its forelimbs were small, but powerful for their size. They had two clawed digits.
+
+There is discussion as to whether it was a hunter or a scavenger. Like most dominant meat-eaters of today, such as lions and hyenas, "Tyrannosaurus" might have been both. It had a very strong jaw, and its bite power could snap the bones of other dinosaurs.
+
+The most famous species of tyrannosaurus is "Tyrannosaurus rex". More than 30 specimens have been found. Some of them are nearly complete skeletons, and soft tissue and proteins have been reported in at least one of these specimens. Research is done on its biology, life history and biomechanics. The feeding habits, physiology and potential speed of "Tyrannosaurus rex" are some topics of debate. Some scientists think "Tarbosaurus bataar" from Asia is a second species of "Tyrannosaurus", but others think "Tarbosaurus" is a separate genus."
+
+Tyrannosaurus" became extinct in the Cretaceous–Tertiary extinction event, which wiped out half of all species on Earth.
+
+The estimated size of this dinosaur has changed many times. Packard and colleagues tested dinosaur mass calculations on elephants. They decided that dinosaur estimations are flawed and produce results which were too high. Thus, the weight of "Tyrannosaurus" could be much less than usually estimated.
+
+Although other theropods rivalled or exceeded "Tyrannosaurus rex" in size, it was the largest known tyrannosaurid and one of the largest known land predators. It was up to in length, up to tall at the head and up to in weight. By far the largest carnivore in its environment, "Tyrannosaurus rex" probably preyed on hadrosaurs and ceratopsians, or may have been a scavenger. The debate over "Tyrannosaurus" as apex predator or scavenger or both is among the longest running in paleontology.

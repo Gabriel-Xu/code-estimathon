@@ -1,0 +1,217 @@
+By decision of 29 May 1997 Jean Mischo was appointed Advocate General to the European Court of Justice for the period from 7 October 1997 to 6 October 2003..
+
+By decision of the President, the McGovern-Dole Program was to be administered by the USDA.
+
+By declaration of its founders, Dillon International was founded on the belief in the Great Commission of Jesus Christ.
+
+By declaring war on Great Britain on 21 June 1779, Spain became involved in the American Revolutionary War.
+
+By decoding ADS-B (Automatic Dependent Surveillance Broadcast) transmissions from aircraft, those aircraft are displayed on a computer in a similar display to that used by Air Traffic Control.
+
+By decree by the German Reichskommisar Josef Terboven, it was punishable by death after 26 September 1941 to leave occupied Norway without authorisation; 51 Norwegians were eventually executed.
+
+By decree of 17 March 1869, the comuni of Paderno, Dugnano, Incirano, Cassina Amata and Palazzolo Milanese were fused into a new comune called Paderno Milanese.
+
+By decree of 1 February 1886, the comune's name was formally changed to the current name of Paderno Dugnano.
+
+By decree of the President of the Republic of Azerbaijan of December 21, 2015, the Baku Transport Agency was established under the Cabinet of Ministers of the Republic of Azerbaijan.
+
+By deed of 10 November 1635 and under his will he founded charities to support almshouses and a school at Stanstead.
+
+By de-energizing the VSV, vacuum to the actuator is blocked and trapped vacuum is bled off of the actuator diaphragm.
+
+By default, all disk drives are assigned to pool 1.
+
+By default, all documents and annotations are private.
+
+By default, all DPCs are set to medium priority.
+
+By default, all font, communications drivers, wallpaper, screen saver, and language settings were stored in WIN.
+
+INI by Windows 3.
+
+x.
+
+By default, Altera software expects AHDL source files to have a .
+
+tdf extension (Text Design Files).
+
+By default, an SVI is created for the default VLAN (VLAN1) to permit remote switch administration.
+
+By default, ArBB programs cannot create data races or deadlocks.
+
+By default, Bento's data sources include Apple's Address Book and Calendar (previously called iCal) applications, which it can modify directly.
+
+By default, Blosxom supports showing recent posts, doing content categorization, content retrieval by date (and permalinking based on that), and RSS feeds.
+
+By default, CDP announcements are sent every 60 seconds on interfaces that support Subnetwork Access Protocol (SNAP) headers, including Ethernet, Frame Relay and Asynchronous Transfer Mode (ATM).
+
+By default, cmp is silent if the files are the same; if they differ, the byte and line number at which the first difference occurred is reported.
+
+By default countries are ranked by their total proven natural gas reserves.
+
+By default, DirectPlay uses multi-threaded programming techniques and requires careful thought to avoid the usual threading issues.
+
+By default Filetopia is not an anonymous peer to peer network: when sending or downloading files, IP addresses are not visible, but the software makes no attempt at keeping them anonymous through, for example, onion routing.
+
+By default, find returns a list of all files below the current working directory.
+
+By default, GLBP routers use the local multicast address 224.
+
+0.
+
+0.
+
+102 to send hello packets to their peers every 3 seconds over UDP 3222 (source and destination).
+
+By default, head will print the first 10 lines of its input to the standard output.
+
+By default, HTTrack arranges the downloaded site by the original site's relative link-structure.
+
+By default, in the milk industry, after the cow is not more suitable for milk production, it is killed for the production of low quality meat.
+
+By default, it has the K Menu, a Desktop Access button, a Home button, a Konqueror button, a Kontact button, and a Help button.
+
+By default it is a classic distributed hash table (DHT) with multiple replicas put in different groups (distributed hashes).
+
+By default it is the download manager used for Konqueror, but can also be used with Mozilla Firefox and rekonq.
+
+By default, it leaves no trace on user's computer unless the files are explicitly saved on persistent partition.
+
+By default it uses libVLC media framework but also supports GStreamer.
+
+By default, it uses the AES encryption algorithm in cipher block chaining (CBC) or XTS mode with a 128-bit or 256-bit key.
+
+By default, links posted to Connotea were publicly viewable, allowing network effects to build up rapidly, but it was also possible for users to keep selected links private, either indefinitely or until a specified date and time.
+
+By default, Linux kernel used a SLAB Allocation system until version 2.
+
+6.
+
+23, when SLUB allocation became the default.
+
+By default, "Luna" is preinstalled on Windows XP Home and Professional editions, "Royale" is preinstalled on Windows XP Media Center Edition and "Embedded" is preinstalled Windows Embedded Standard 2009 and Windows Embedded POSReady 2009.
+
+By default, man typically uses a terminal pager program such as more or less to display its output.
+
+By default, MasterCard and Maestro cards are linked to the Cirrus network, but very often all three logotypes will be shown.
+
+By default, most computer and television displays use landscape orientation, while most mobile phones use portrait orientation (with some flexibility to switch screen orientations according to user preference).
+
+By default, no files are encrypted, but encryption can be enabled by users on a per-file, per-directory, or per-drive basis.
+
+By default, Oracle Ultra Search uses the WKSYS schema and the DRSYS tablespace.
+
+By default, OSPF has a default administrative distance of 110 and RIP has a default administrative distance of 120.
+
+By default, Photo Booth's live preview and captured images are reversed horizontally, to simulate the user looking into a mirror; an option provides unreversed images.
+
+By default, Red Hat Enterprise Linux's up2date retrieves packages from a Red Hat Network (RHN) server, though users can add directories full of packages or even Debian and yum repositories if they wish.
+
+By default, RUSs are established by the Office of Rail Regulation (ORR) unless the latter objects within 60 days, and the ORR have confirmed no objection to the establishment of the Sussex RUS.
+
+By default, sites have a size limit of 10 megabytes, but users may grant a site permission to use more storage space if they wish.
+
+By default the BPDUs are sent every 2 seconds.
+
+By default, the command is run every two seconds, although this is adjustable with the -n secs argument.
+
+By default, the current version supports gnu++14, a superset of C++14, and gnu11, a superset of C11, with strict standard support also available.
+
+By default, the DOM Inspector highlights a newly selected non-attribute node with a red flashing border.
+
+By default, the entire input is taken as sort key.
+
+By default, the file is located in the root directory of the bootable drive/partition (normally C:\ for hard disks) and has the hidden, read-only, and system file attributes set.
+
+By default, the IGRP composite metric is a sum of the segment delays and the lowest segment bandwidth.
+
+By default, the Microsoft Distributed Transaction Coordinator (MSDTC) service is installed with Windows 2000.
+
+By default the seed and increment are both 1.
+
+By default, the server listens on TCP port 3389 and UDP port 3389.
+
+Microsoft currently refers to their official RDP client software as Remote Desktop Connection, formerly "Terminal Services Client".
+
+By default, the table below is sorted into state schools (i.
+
+e. primary, secondary, special, etc.), independent schools, and further and higher education establishments.
+
+By default, the table is ordered by the number of gold medals the athletes from a nation have won, where nation is an entity represented by a National Olympic Committee (NOC).
+
+By default, the wallet is stored on the company's servers, but there is an option to keep it on the user's device instead.
+
+By default, the XML file is named build.
+
+xml.
+
+By default, this fulfilled her contract with 20th Century-Fox Records.
+
+By default, this is located in the bottom-right of the primary monitor (or bottom-left on languages of Windows that use right-to-left reading order), or at the bottom of the taskbar if docked vertically.
+
+By default, this list is sorted in alphabetical order by song title; however, since it is a sortable wikitable, it can be sorted on the basis of any column simply by clicking on the symbol next to the column title.
+
+By default this protocol operates on the UDP port 9000.
+
+By default, this vault is stored on the company's servers, for a monthly fee.
+
+By default, to keep compilation fast and the code size down, RScheme compiles to bytecodes which are interpreted by a (runtime) virtual machine.
+
+By default, Turbo Vision applications replicate the look and feel of these IDEs.
+
+By default, window focus is controlled by the 'Mod1' (Alt key/Win key) plus the right hand home row keys (Mod1+J,K,L,;), while window movement is controlled by the addition of the Shift key (Mod1+Shift+J,K,L,;).
+
+By default, without any annotation, a symbol in an object file is strong.
+
+By default, xinit and startx start an X display server pointing to a display device that is enumerated as :0 and then start an xterm on it.
+
+By defeating Kim Hye Song of North Korea in the opening round, Savelyeva won the first ever women's boxing bout at the Olympics.
+
+By defeating Morrison in a 15 Minutes of Fame match, Punk became the number one contender to the ECW Championship at SummerSlam.
+
+By defeating the Carthaginians, Scipio Africanus caused Hannibal to leave Italy and return to Africa, where he was later defeated at the Battle of Zama.
+
+By defeating the Devas in the heaven he took their weapons and become the possessor of all kinds of divine weapons of deva, asura's and trimurti's.
+
+By defeating the Luftwaffe, the Allies would achieve air superiority and the invasion of continental Europe could proceed.
+
+By defeating the Rangers, the Canadiens completed the rare accomplishment of winning four consecutive titles in a North American league competition consisting of at least sixteen teams, a feat that had been achieved only twice before (both times by the New York Yankees) and has been achieved only once since (by the aforementioned Islanders).
+
+By defeating three fellow Republicans, Stokes received 55 percent of the vote to fill the nearly three years remaining in Ligi's term.
+
+By defending his title from Atlanta, Michael Diamond won the host country's only gold medal in the shooting competitions.
+
+By defining common logistics processes to be used across all S-Series ILS specifications and the interactions of the current S-Series ILS specifications with the logistics processes, the SX000i forms the basis for sharing and exchanging data securely through the life of products and services, not only within the support domain, but also with other domains such as Engineering.
+
+By defining the apparent weight of an object in terms of normal forces, one can capture this effect of the stress forces.
+
+By defining the roles of diverse bacteria in the carbon and sulfur cycles, she connects the biogeochemical and organismal approaches in marine science.
+
+By defining Turbo Architecture as a post-socialist mainstream in nationalizing collective identity through architecture, the author of the book Almost Architecture Srdjan Jovanovic Weiss is presenting his view on the complex relationships between politics, identity search, transition and war itself, all of that represented through specific historical and contemporary strategies in architecture.
+
+By definition, a bishop is an "overseer" of a community of the faithful, so when a priest is ordained a bishop, the tradition of the Roman Catholic and Orthodox churches is that he be ordained for a specific place.
+
+By definition, according to the initial proposal by Ho, the WCU represents the sum of the gross domestic products of key market economies in the world, namely the USA, the Eurozone and UK, Japan, Canada, and Australia.
+
+By definition, a CDK binds a regulatory protein called a cyclin.
+
+By definition, a Cinematheque is an institution that encourages the love of film.
+
+By definition, a disproportionately large number of the citizens in these towns are involved in the arts.
+
+By definition, agricultural communicators are science communicators that deal exclusively with the diverse, applied science and business that is agriculture.
+
+By definition all sans-serif typefaces have terminals, and serif typefaces often have them as well.
+
+By definition, all visual editors require a re-fresh-able display device and all editors with a GUI are visual.
+
+By definition an audit is, An examination of records or financial accounts to check their accuracy.
+
+By definition, a problem is #P-complete if and only if it is in #P, and every problem in #P can be reduced to it by a polynomial-time counting reduction, i.
+
+e. a polynomial-time Turing reduction relating the cardinalities of solution sets.
+
+By definition a pure boot image contains no data that cannot be reproduced from configurations or off-the-shelf executables.
+
+By definition, a review must include persons who are external to the design team.

@@ -1,0 +1,181 @@
+Signif. codes: 0 ‘***’ 0.
+
+001 ‘**’ 0.
+
+01 ‘*’ 0.
+
+05 ‘.’ 0.
+
+1 ‘ ’ 1Residual standard error: 3.
+
+055 on 4 degrees of freedomMultiple R-squared: 0.
+
+9583, Adjusted R-squared: 0.
+
+9478F-statistic: 91.
+
+88 on 1 and 4 DF, p-value: 0.
+
+000662> par(mfrow = c(2, 2)) # Create a 2 by 2 layout for figures.> plot(model) # Output diagnostic plots of the model.
+
+The Deep Purple (1920 movie)The Deep Purple is a 1920 American crime drama movie directed by Raoul Walsh and is the second adaption of the 1910 play of Wilson Mizner. It stars Miriam Cooper, Helen Ware, Vincent Serrano, William B. Mack, Lincoln Plumer and was distributed by Realart Pictures Corporation. It is a lost movie.
+
+The AcquittalThe Acquittal is a 1923 American mystery movie directed by Clarence Brown and was based on the play of the same name by Rita Weiman. It stars Claire Windsor, Norman Kerry, Richard Travers, Barbara Bedford, Charles Wellesley, Frederick Vroom and was distributed by Universal Pictures.
+
+Zorba the Greek (movie)Zorba the Greek (, "Alexis Zorbas") is a 1964 Greek British American comedy-drama movie directed by Michael Cacoyannis and is based on the 1946 novel "The Life And Times Of Alexis Zorba" by Nikos Kazantzakis. It stars Anthony Quinn, Alan Bates, Irene Papas, Lila Kedrova, Sotiris Moustakas, Anna Kyriakou and was distributed by 20th Century Fox. It won for three Academy Awards in 1964.
+
+Travel websiteA travel website is a website that is similiar to a travel guide printed as a book. Travel websites show reviews on places, or what to do in a place. 70% of travellers use travel websites. Wikivoyage is an example of a travel website.
+
+Jackson County, North CarolinaJackson County is a county in the U.
+
+S. state of North Carolina. In 2020, 43,109 people lived there. Since 1913, its county seat has been Sylva, replacing Webster.
+
+St. Clair CountySt. Clair County is the name of four counties in the United States:Warren CountyWarren County is the name of fourteen counties in the United States:Warren County, North CarolinaWarren County is a county in the U.
+
+S. state of North Carolina. It is on the northern border with Virginia. In 2020, 18,642 people lived there. Its county seat is Warrenton.
+
+Jones County, North CarolinaJones County is a county in the U.
+
+S. state of North Carolina. In 2020, 9,172 people lived there. Its county seat is Trenton.
+
+Communauté d'agglomération Saint Germain Boucles de SeineThe Communauté d'agglomération Saint Germain Boucles de Seine is the "communauté d'agglomération", an intercommunal structure, in the western suburbs of Paris. It is located in the Yvelines and Val-d'Oise departments, in the Île-de-France region, northern France. It was created in January 2016. Its population was 330,097 in 2016. Its seat is in Le Pecq.
+
+Mountain big-eyed tree frogThe mountain big-eyed tree frog ("Nyctimystes montanus") is a tree frog from New Guinea. Scientists have only seen it in the Arfak Mountains in Indonesia.
+
+The adult male frog is about 5.
+
+2 cm long and the female about 6.
+
+3 cm long. The dead, preserved frog is gray or brown with darker markings.
+
+Lee County, North CarolinaLee County is a county in the U.
+
+S. state of North Carolina. In 2020, 63,285 people lived there. Its county seat is Sanford.
+
+5 Fingers5 Fingers, also known as Five Fingers, is a 1952 American spy drama movie directed by Joseph L. Mankiewicz and starring James Mason, Elyesa Bazna, Danielle Darrieux, Michael Rennie, Walter Hampden, Herbert Berghof. The screenplay by Michael Wilson was based on the 1950 book "Operation Cicero" () by Ludwig Carl Moyzisch. It was distributed by 20th Century Fox.
+
+Blue-grayBlue-gray is a bluish-gray color. It is also known as livid. The name ""livid"" comes from a Latin word "lividus". "Lividus" means 'a dull leaden-blue color'.
+
+A TripA Trip () is a 2011 Slovenian drama movie directed by Nejc Gazvoda. It stars Luka Cimpric, Jure Henigman and Nina Rakovec.
+
+Riverwoods, IllinoisRiverwoods is a village in Illinois in the United States.
+
+Interstate 210Interstate 210 (I-210) is the name of four Interstate Highways in the United States:Foothill FreewayInterstate 210 (I-210) and State Route 210 (SR 210) are two connected highways in the Los Angeles and San Bernardino counties of California. They are also known as the Foothill Freeway together. It runs from the Interstate 5 near Santa Clarita and San Fernando to San Dimas at the State Route 57. Here, it becomes State Route 210 and continues east, ending at the Interstate 10 in Redlands. Together, the highways are about long.
+
+2020 Styrian Grand PrixThe 2020 Styrian Grand Prix (officially known as the Formula 1 Pirelli Großer Preis der Steiermark 2020) was a Formula One motor race that was held on 12 July 2020 at the Red Bull Ring in Spielberg, Austria. The race was the second round of the 2020 Formula One World Championship and marked the first, and possibly the only, running of the Styrian Grand Prix.
+
+NotesAlain BersetAlain Berset (born 9 April 1972) is a Swiss politician who served as a member of the Federal Council from 2012 until 2023. He is a member of the Social Democratic Party. Berset is the President of the Swiss Confederation in 2018 and 2023. From 1 January 2018 to 31 December 2018, he was the President of the Swiss Confederation; at the age of 45, Berset was the youngest President of the Confederation since Marcel Pilet-Golaz in 1934.
+
+Mali WarThe Mali War has been ongoing since 2012. The war has three sides. One side is Mali, who are supported by many other countries. Another, many of whom are Tuareg people, are separatists who want northern Mali - which they call Azawad - to become a separate country. Northern Mali is hot desert and is in the southern part of the Sahara. The third side is Islamist groups - including Islamic State of Iraq and the Levant and al-Qaeda - who want Mali to be part of an Islamist caliphate.
+
+The United Nations has reported many human rights violations, both by the forces close to the government, and by the different rebel groups. Allegedly, there have been amputations, floggings, and extrajudicial executions. A couple was stoned in 2012, for allegedly having an extramarital affair. Based on these reports, the International Criminal Court started investigations into war crimes and human rights abuses. According to the BBC, about 250,000 people have left because of the fighting. They are now refugees and internally displaced people. Another problem is that World Heritage Sites are threatened by the war. There are mosques built of mud, in Timbuktu, which are threatened. In September 2021, a contract was signed between the Malian state and a private Russian military company linked to the Russian military group Wagner. The document provides for the deployment of mercenaries in the country, in liaison with the Malian army, and the protection of senior figures.
+
+Mahaica-BerbiceMahaica-Berbice (Region 5) is a region in the northeast of Guyana. The regional capital is Fort Wellington.
+
+The region has an area of 4,190 km². As of the 2012 census, 49,723 people lived there. It borders the Atlantic Ocean to the north, the region of East Berbice-Corentyne to the east, the region of Upper Demerara-Berbice to the south and the region of Demerara-Mahaica to the west.
+
+AzawadAzawad is the name for the northern part of Mali. The name translates to Savannah. The region is mostly desert-like. Between 2012 and 2013 it was independent from Mali. It is split into the regions Timbuktu, Gao, and Kidal. The territory has a size of about . The biggest cities are Gao with about 87.
+
+000 people, and Timbuktu with about 55.
+
+000.
+
+East Berbice-CorentyneEast Berbice-Corentyne (Region 6) is a region in the east of Guyana. The regional capital is New Amsterdam.
+
+The region has an area of 36,234 km². As of the 2002 census, 109,431 people lived there. It borders the Atlantic Ocean to the north, Suriname to the east, Brazil to the south and the regions of Mahaica-Berbice, Upper Demerara-Berbice, Potaro-Siparuni and Upper Takutu-Upper Essequibo to the west.
+
+Cabinda WarThe Cabinda Province is a part of Angola. In is an exclave, and has no direct borders with Angola. The Front for the Liberation of the Enclave of Cabinda wants the province to become an independent state. Before Angola became independent from Portugal, the Front fought the Portuguese. After it became a part of the Angolan territory, the front is fighting against the Angolan government. In 1956, crude oil was found in Cabinda. The Cabinda War has been ongoing since the end of 1975. It is one of the longest-lasting conflicts in Africa.
+
+Lord's Resistance Army insurgencyThe Lord's Resistance Army insurgency is a current guerrilla movement. The Lord's Resistance Army (LRA) insurgency started in 1987. As of 2020, the LRA is somewhat active in eastern Democratic Republic of the Congo and the Central African Republic. Joseph Kony leads the movement. He says he is "spokesperson" of God and a spirit medium. The movement does not want Yoweri Museveni and his government in Uganda. They want to start a theocratic state based on the Ten Commandments and Acholi tradition.
+
+The conflict is one of the longest in Africa. It has started a humanitarian crisis. The International Criminal Court says that the LRA has violated human rights. This includes mutilation, torture, slavery, rape, the abduction (kidnapping) of civilians, the use of child soldiers, and a number of massacres. By 2004, the LRA had abducted more than 20,000 children. 1.
+
+5 million civilians had to move. The LRA killed about 100,000 civilians.
+
+In January 1986, the National Resistance Army (NRA) of south-west Uganda born Yoweri Museveni overthrew President Tito Okello, an ethnic Acholi. This started a period of unrest. When they tried to liberate the whole country, the NRA were responsible of many atrocities on the people of Acholi. This made some Acholis want to fight against these acts. Reports sometimes say that the Acholi were afraid to lose their traditional (usual) control of the national military. They were also very worried that the NRA would want retribution for the violent counterinsurgency, especially the actions of the army in the Luwero triangle. By August 1986, a complete popular insurgency had started in northern regions that the new government soldiers occupied.
+
+Chanie WenjackChanie "Charlie" Wenjack (January 19, 1954 – October 23, 1966) was an Ojibwe boy who was famous for running away from a residential school. He died while trying to walk 600 km back home. After Wenjack's death, the Canadian government started to investigate residential schools.
+
+Chanie Wenjack was born at Ogoki Post on the Marten Falls Reserve.
+
+When Wenjack was 9, he and his two sisters were sent to the Cecilia Jeffrey Indian Residential School in Kenora, Ontario. He was known for being funny and for being the first one to understand jokes.
+
+On October 16, 1966, Wenjack ran away from the school with two friends, Ralph and Jackie MacDonald. They stayed with the MacDonalds' uncle, Charley Kelley, at Redditt, which is 31 km from Kenora. Wenjack decided to go back to Ogoki Post by following railroad tracks.
+
+Wenjack walked for 36 hours. He was wearing a windbreaker. The temperature was −6 °C. Bruises on Wenjack's body showed that he fell several times.
+
+A CN railway engineer found Wenjack's body on October 23 at 11:20AM and called the Ontario Provincial Police. The coroner determined the cause of death to be hunger and exposure.
+
+Wenjack was buried at the reserve on October 27, 1966.
+
+The Canadian government started an investigation into Wenjack's death. It concluded the investigation, saying that:Chanie Wenjack is a symbol of how students at these schools stood up to the abuses and suffering they experienced there. A lecture at Trent University was named after Wenjack after Indigenous students asked for a building to be named in his honor.
+
+In 2016, a video was made about Wenjack's life. His sister Pearl was featured in it.
+
+The Canadian artist Gord Downie released an album with songs about Wenjack.
+
+Or YehudaOr Yehuda is a city in Gush Dan, Israel.
+
+Franck AllisioFranck Allisio (born 4 August 1980) is a French politician.
+
+Allisio was born on 4 August 1980 in Marseille.
+
+He joins Roger Karoutchi's firm to manage press relations. After the defeat of 2012, he joins the team of the deputy of Paris Pierre Lellouche.
+
+National President of the "Jeunes actifs" of The Republicans, he announced on September 13, 2015 in Marseille that he would join the Front national.
+
+He is appointed spokesperson for Marion Maréchal-Le Pen's regional campaign in Provence-Alpes-Côte d'Azur.
+
+In 2017, Franck Allisio obtained 19.
+
+89% of the votes in the first round of the legislative elections in the Bouches-du-Rhône's 1st constituency, in Marseille.
+
+Road to PerditionRoad to Perdition is a 2002 American crime drama movie directed by Sam Mendes. The screenplay was adapted by David Self from the graphic novel of the same name written by Max Allan Collins and illustrated by Richard Piers Rayner. It stars Tom Hanks, Paul Newman, Jude Law, and Daniel Craig. The story takes place in 1931, during the Great Depression, following a mob enforcer and his son as they seek vengeance against a mobster who murdered the rest of their family.
+
+Filming took place in the Chicago area. Mendes, having recently finished 1999's acclaimed "American Beauty", pursued a story that had minimal dialogue and conveyed emotion in the imagery. Cinematographer Conrad L. Hall took advantage of the environment to create symbolism for the movie, for which he won several awards, including a posthumous Academy Award for Best Cinematography. The movie explores several themes, including the consequence of violence and father-son relationships.
+
+The movie was released on July 12, 2002, and grossed over $180 million worldwide. The cinematography, setting, and the lead performances by Hanks and Newman were well received by critics. It was released on home media on February 25, 2003.
+
+Weep Not, ChildWeep Not, Child is a novel written by the Kenyan author Ngũgĩ wa Thiong'o. It is his first novel and was published in 1964 under the names James Ngugi. It was the first English novel published by an East African."
+
+Weep Not, Child" deals with British colonialism and the Mau Mau Uprising.
+
+Njoroge is a young Kenyan boy. He is the first one in his family to go to school. His family lives on land owned by Jacobo, an African who became rich by making deals with white settlers (specifically Mr. Howlands).
+
+Everyone is focused on the trial of Jomo Kenyatta. A lot of black people think he will help Kenya become independent. But Kenyatta loses and goes to jail. This leads to more people protesting and more suppression of the black population.
+
+Jacobo and Mr. Howlands fight against the Mau Mau.
+
+Njoroge tries to kill himself. However, his mother find him before he can succeed. He is disappointed and ashamed of being a coward."
+
+Weep Not, Child" talks about Kikuyu stories and African nationalism. It also explores the negative effects of colonialism and imperialism.
+
+Jomo Kenyatta, who was the first prime minister of Kenya, is portrayed as a savior of the nation in the novel.
+
+Saint-Denis-en-ValSaint-Denis-en-Val is a French commune. It is in the Loiret department.
+
+ChaingyChaingy is a French commune. It is in the Loiret department.
+
+St. Louis CountySt. Louis County is the name of two counties in the United States:Midland CountyMidland County is the name of two counties in the United States:Elk CountyElk County is the name of two counties in the United States:Richmond CountyRichmond County is the name of five counties in North America:Russell CountyRussell County is the name of five counties in North America:Wilkinson CountyWilkinson County is the name of two counties in the United States:Charlotte CountyCharlotte County is the name of three counties in North America:Ford CountyFord County is the name of two counties in the United States:Halifax CountyHalifax County is the name of three counties in North America:I Am Not a WitchI Am Not a Witch is a 2017 Zambian French German British drama movie directed by Rungano Nyoni and starring Maggie Mulubwa, Nellie Munamonga, Dyna Mufuni, Nancy Murilo.
+
+Gloucester CountyGloucester County is the name of three counties in North America:Nelson CountyNelson County is the name of three counties in the United States:Lenoir County, North CarolinaLenoir County is a county in the U.
+
+S. state of North Carolina. In 2020, 55,122 people lived there. Its county seat is Kinston.
+
+Kane CountyKane County is the name of two counties in the United States:Terrell CountyTerrell County is the name of two counties in the United States:Webster CountyWebster County is the name of seven counties and a parish in the United States:Teton CountyTeton County is the name of three counties in the United States:Irma LanzasIrma Lanzas (7 August 1933 – 11 July 2020) was a Salvadoran writer and educator. She was a member of the Academia Salvadoreña de la Lengua. She was born in Cojutepeque, El Salvador.
+
+Lanzas died in San Salvador on 11 July 2020, aged 86.
+
+Ananda Mohan ChakrabartyAnanda Mohan Chakrabarty ( "Ānandamōhan Cakrabartī"; April 4, 1938 – July 10, 2020) was an Indian-American microbiologist and researcher. He was known for his work in directed evolution and his role in creating a genetically engineered organism using plasmid. This led to landmark Supreme Court case, "Diamond v. Chakrabarty".
+
+Chakrabarty died on July 10, 2020 in Illinois, aged 82.
+
+Jyotsna BhattJyotsna Jyoti Bhatt (6 March 1940 – 11 July 2020) was an Indian ceramist and potter. She studied and later taught at the Maharaja Sayajirao University of Baroda for forty years. She was born in Mandvi, Cutch State, British India. During her long career she worked with stoneware and terracotta. Her works reflected her interest in nature. Her many works are about cats, dogs, birds, lotus buds, toys and platters.
+
+Bhatt died on 11 July 2020, two days after a stroke, in Vadodara, Gujarat at the age of 80. She was married to artist Jyoti Bhatt.
+
+Jyoti BhattJyotindra Manshankar Bhatt (born 12 March 1934), better known as Jyoti Bhatt, is an Indian artist. He is best known for his work in painting and printmaking and also his photographic documentation of rural Indian culture. He was awarded the Padma Shri in 2019. Bhatt was married to artist Jyotsna Bhatt. His work are seen at the Museum of Modern Art, New York, The Smithsonian Institution, Washington D.
+
+C. and The British Museum, London.
+
+Edward KmiecEdward Urban Kmiec ( (June 4, 1936 – July 11, 2020) was an American Roman Catholic prelate. He was the 13th Roman Catholic Bishop of Buffalo. Kmiec also was an auxiliary bishop for the Diocese of Trenton from 1982 until he was promoted to Bishop of Nashville in 1992. He retired in 2005.

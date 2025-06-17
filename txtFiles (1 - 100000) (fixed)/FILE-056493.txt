@@ -1,0 +1,11 @@
+Players that debuted in the same game are added alphabetically unless specified differently by Melbourne Storm.
+
+Players that debuted in the same game are added in the order of their jersey number.
+
+Players that debuted in the same game are added in the order of their position.
+
+Players that debuted in the same game are capped alphabetically.
+
+Players that debuted in the same game are capped alphabetically, excepting reserves/interchange players.
+
+Players that debuted in the same game are capped by jumper number.

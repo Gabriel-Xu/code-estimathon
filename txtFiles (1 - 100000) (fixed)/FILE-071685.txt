@@ -1,0 +1,173 @@
+The IBM Music Feature Card failed to gain much traction, mainly because of its high retail price at the time ($495), and aggressive, slightly superior competition by Roland with the internal LAPC-I (and MT-32 external sound module equivalent).
+
+The IBM Music Feature Card (simply referred to as the IBM PC 'Music Feature' by IBM) and sometimes abbreviated as the IBM MFC, or just IMFC: is a professional-level sound card for the PC, and used the 8-bit ISA bus.
+
+The IBM name attracted the makers of larger, professional software products that required a hard-drive's speed and capacity.
+
+The IBM Network Control Program, or NCP, was software that ran on a 37xx communications controller and managed communication with remote devices.
+
+The IBM PC AT added another 8237 in master-slave configuration, increasing the number of DMA channels from four to seven.
+
+The IBM PC AT, the first PC-compatible system to contain an 80286, has hardware that detects the Shutdown state and automatically resets the CPU when it occurs.
+
+The IBM PC AT used an Intel 8042 chip to interface to the keyboard.
+
+The IBM PC Series personal computer was the follow-on to the IBM PS/ValuePoint and IBM Personal System/2.
+
+The IBM PC version was developed for the Electronic Pencil company, by a developer named Brian Mallett.
+
+The IBM Personal Computer Basic, commonly shortened to IBM BASIC, is a programming language first released by IBM with the IBM Personal Computer (model 5150) in 1981.
+
+The IBM Personal Computer, commonly known as the IBM PC, is the original version and progenitor of the IBM PC compatible hardware platform.
+
+The IBM Personal Computer XT, often shortened to the IBM XT, PC XT, or simply XT, is a version of the IBM PC with a built-in hard drive.
+
+The IBM Portable Personal Computer 5155 model 68 was an early portable computer developed by IBM after the success of the suitcase-size Compaq Portable.
+
+The IBM POWER ISA is a reduced instruction set computer (RISC) instruction set architecture (ISA) developed by IBM.
+
+The IBM product number 3570 was associated with the tape drives and libraries that used the Magstar MP media.
+
+The IBM PS/1 is a brand for a line of personal computers that marked IBM's return to the home market in 1990, five years after the IBM PCjr.
+
+The IBM PS/ValuePoint (or just ValuePoint) personal computer was IBM's answer to the PC clone market, where the IBM PS/2 could not compete due to price and proprietary interfaces.
+
+The IBM Public License (IPL) is a free software / open-source software license written and sometimes used by IBM.
+
+The IBM Pulse conference is a large annual IBM Service Management event that is intended to bring together a community of IBM Customers, Business Partners, industry analysts, and technical experts to discuss the latest technology and best practices in the Service Management industry.
+
+The IBM-released version of CPS was designed to run on the IBM 1050 terminal and the IBM 2741 terminal with the "break feature".
+
+The IBM RFID Information Center (RFIDIC) software solution is based on EPCglobal's Electronic Product Code Information Services (EPCIS) standard specification.
+
+The IBM Rome Software Lab (formerly known as IBM Tivoli Rome Laboratory) is one of the largest software development laboratories in Italy, and one of the largest IBM Software Group Labs in Europe.
+
+The IBM RS64 is a family of microprocessors that were used in the late 1990s in IBM's RS/6000 and AS/400 servers.
+
+The IBM RT (or IBM 6150 series) was a workstation sold by IBM and built around IBM's ROMP processor, a spin-off of the IBM 801 pioneered at IBM Research.
+
+The IBM SAN File System is a distributed, heterogeneous file system developed by IBM to be used in storage area networks.
+
+The IBM SAN Volume Controller (SVC) is a block storage virtualization appliance that belongs to the IBM System Storage product family.
+
+The IBM Selective Sequence Electronic Calculator (SSEC) was an electromechanical computer built by IBM.
+
+The IBM shoebox was a 1961 IBM computer that was able to perform mathematical functions and perform speech recognition.
+
+The IBM Simon Personal Communicator (simply known as IBM Simon) is a handheld, touchscreen PDA designed and engineered by International Business Machines Corp. (IBM) and assembled under contract by Mitsubishi Electric Corp. BellSouth Cellular Corp. distributed the Simon Personal Communicator in the United States between August 1994 and February 1995, selling 50,000 units.
+
+The IBM subroutine RANDU LCG fails in this test for 3 dimensions and above.
+
+The IBMS was founded in 1912 and represents approximately 20,000 members employed mainly in National Health Service and private laboratories, veterinary laboratories, the National Blood Authority, Health Protection Agency, Medical Research Council and Department for Environment, Food and Rural Affairs.
+
+The IBM System/32 (IBM 5320) introduced in January 1975 was a low-end business computer with builtin display screen, disk drives, printer, and database report software.
+
+The IBM System/34 was an IBM midrange computer introduced in 1977.
+
+The IBM System/360 architecture is the model independent architecture for the entire S/360 line of mainframe computers, including but not limited to the instruction set architecture.
+
+The IBM System/360 Model 195 is a discontinued IBM computer introduced on August 20, 1969.
+
+The IBM System/360 Model 22 was an IBM mainframe from the System/360 line.
+
+The IBM System/360 Model 25 was announced on January 3, 1968, 3 years before the IBM System/360 Model 22, as a "bridge between its old and new" members of the System/360 family of computers.
+
+The IBM System/360 Model 67 (S/360-67) was an important IBM mainframe model in the late 1960s.
+
+The IBM System/360 Model 75 is a discontinued high end / high performance system that was introduced April 22, 1965.
+
+The IBM System/370 Model 135 was announced March 8, 1971, the only 370 introduced that year.
+
+The IBM System/370 Model 155 (and the Model 165), were jointly announced Jun 30, 1970 as "designed for ... the Seventies."
+
+The IBM System/370 Model 165 (and the Model 155) were jointly announced June 30, 1970 as "designed for ... the Seventies."
+
+The IBM System/390 was the third major generation of the System/360 line of computers, introduced in 1990 and superseded in 2000.
+
+The IBM System/3 was an IBM midrange computer introduced in 1969, and marketed until 1985.
+
+The IBM System/7 was a computer system, designed in Boca Raton, Florida, and delivered in 1971.
+
+The IBM Technical Disclosure Bulletin was a technical publication produced by IBM between 1958 and 1998.
+
+The IBM ThinkPad 600 series was a series of notebook computers introduced in 1998 by IBM as the immediate predecessor to the T-series which still exists today under Lenovo ownership.
+
+The IBM ThinkPad T20 series was a series of notebook computers introduced in May 2000 by IBM as the successor of the 600 series and the first model of the T-series which exists today under Lenovo ownership.
+
+The IBMT holds an annual commemorative ceremony at the International Brigades memorial at Jubilee Gardens on the South Bank in London and organizes a yearly lecture on the civil war, given by specialist academic historians from around the world.
+
+The IBM Type-III Library (also: Type-III software, Type-III product) was software provided by IBM to its customers, available without charge, liability, or support, and typically (perhaps always) in source-code format.
+
+The IBM WebSphere Host On-Demand Server, or HOD as it is commonly known is a Java application that runs on a Server that is deliverable via modern web servers such as the Apache web server.
+
+The Ibn Sina Robot is the world's first android robot with Arabic language conversational abilities.
+
+The IBNS removes the anticipated reward of the crime and increases the risk of being caught.
+
+The IBO is one of these olympiads.
+
+The IB&O leased the COR, and then both were merged with Mackenzie and Mann's Canadian Northern Railway (CNoR) in 1911.
+
+The I Bomber Command (later XX Bomber Command) was an intermediate command of the Army Air Forces during World War II.
+
+The Ibom E-Library is a library located in Uyo, Akwa Ibom State, Nigeria.
+
+The Ibom Isi also known as the Akpa are one of the three main lineages compromising the Aro people.
+
+The Ibom Tropicana Entertainment Center has a 14 story building five star hotel with over 200 rooms, a theme park that spreads over 3 hectares of land, a shopping mall, a convention center with a 5000 capacity and an active cinema operated by Silverbird Cinemas.
+
+The IBON Foundation is a non-profit research, education and information-development institution with programs in research, education and advocacy based in the Philippines.
+
+The Ibonia is an epic poem that has been told in various forms across the island of Madagascar for at least several hundred years.
+
+The iBook had three different designs during its lifetime.
+
+The IB operates through the use of embedded intelligence strategies.
+
+The iBOT is a powered wheelchair developed by Dean Kamen in a partnership between DEKA and Johnson and Johnson's Independence Technology division.
+
+The I-Bot was created by Microbric, manufactured by Tytronics, distributed by The Advertiser/Sunday Mail (Newspapers in Education) and supported by the Electronics Industry Association in Australia.
+
+The IBox package also included a licensed copy of the NCSA Mosaic web browser called AIR Mosaic, AIR Mail (an email client), AIR News (an NNTP news client), AIR Telnet, AIR Gopher, and an FTP Network File Manager.
+
+The IBox software included the Winsock program and TCP/IP stack that were needed to connect a computer running Microsoft Windows to the Internet in 1994.
+
+The iBoxx bond market indices are benchmarks for professional use and comprise liquid investment grade bond issues.
+
+The IBP beacons provide a means of assessing the prevailing ionospheric signal propagation characteristics to both amateur and commercial high frequency radio users.
+
+The IbpB thermometer is an RNA thermometer element found in the ibpAB operon.
+
+The IBPE publishes case studies, books, and journal articles in business ethics, and hosts a series of annual business workshops and conferences.
+
+The IB Program is recognized by leading universities around the world.
+
+The IB Program is the only one in the city at a public school, and also the only one open to boys (the city's other IB program is at the all-girls' Sacred Heart Academy, a Catholic school).
+
+The IB program was given to Cooper Middle School (the name of the school before it was Cooper Academy), since most students from Cooper Middle School would later on attend Fresno High School, a high school that implements the IB Diploma Program.
+
+The IBRA bioregions informed the delineation of the WWF ecoregions for Australia, and the WWF ecoregions generally follow the same ecoregion boundaries, while often clustering two or more similar bioregions into a larger ecoregion.
+
+The Ibrahim-al-Ibrahim Mosque, also known as the King Fahd bin Abdulaziz al-Saud Mosque or the Mosque of the Custodian of the Two Holy Mosques, is a mosque located at Europa Point in the British overseas territory of Gibraltar, a peninsula connected to southern Spain.
+
+The Ibrahim Babangida College of Agriculture is a tertiary educational institution in Obubra, Cross River State, Nigeria.
+
+The Ibrahim Kodra Foundation, officially the Ibrahim Kodra Swiss Foundation (Italian: Fondazione Svizzera Ibrahim Kodra), is a Swiss art Foundation to protect, archive and promote an artist Ibrahim Kodra, but is also a charitable organization headquartered in Paradiso in the Canton of Ticino.
+
+The Ibrahim Prize for Achievement in African Leadership is an annual prize awarded to a former African executive Head of State or Government.
+
+The IBRD and IDA provide loans at preferential rates to member countries, as well as grants to the poorest countries.
+
+The IBRD and its concessional lending arm, the International Development Association, are collectively known as the World Bank as they share the same leadership and staff.
+
+The IBRD is owned and governed by its member states, but has its own executive leadership and staff which conduct its normal business operations.
+
+The IBRD is the first of five member institutions that compose the World Bank Group and is headquartered in Washington, D.
+
+C., United States.
+
+The IBRD provides commercial-grade or concessional financing to sovereign states to fund projects that seek to improve transportation and infrastructure, education, domestic policy, environmental consciousness, energy investments, healthcare, access to food and potable water, and access to improved sanitation.
+
+The iBridge Network goes beyond earlier experiments in expediting technology transfer in several ways: greater emphasis on one-to-many transfers (non-exclusive licenses) aggregation of innovations from multiple research institutions permission and functionality for transactions directly between an innovation provider and the network and directly between the network and an adopter (disintermediation) options for fee-based and electronic license-based transactions design principles and functionality determined by input from traditional university technology transfer offices.
+
+The iBridge Network is a Web-based mechanism for the dissemination of innovations such as research results and reports, computer software and other copyrighted works, biological research materials, and patented inventions.

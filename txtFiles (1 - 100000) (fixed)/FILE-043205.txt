@@ -1,0 +1,105 @@
+It is implemented by a computer program released as free software of the same name, created and made available by the GNU Project from the Free Software Foundation.
+
+It is implemented by central processing units (CPUs) and microprocessors used in PDP-11 minicomputers.
+
+It is implemented by member states via their government agencies, navies and oceanographic research institutions working together in a wide range of thematic panels and regional alliances.
+
+It is implemented by microcontrollers and microprocessors for embedded systems.
+
+It is implemented by Mumbai Metropolitan Region Development Authority (MMRDA) and Thane Municipal Corporation.
+
+It is implemented by Project Harmony and funded by the US Department of State Bureau of Educational and Cultural Affairs through the 1992 Freedom Support Act.
+
+It is implemented by the European Monitoring and Evaluation Program (EMEP), directed by the United Nations Economic Commission for Europe (UNECE).
+
+It is implemented by the sun.
+
+misc.
+
+Launcher$ExtClassLoader class.
+
+It is implemented for wireless QoS between RF media.
+
+It is implemented in ANSI C, but can take advantage of SIMD multimedia instructions on various processors to gain a significant performance boost.
+
+It is implemented in Common Lisp, and constitutes one core component of the DELPH-IN collaboration.
+
+It is implemented in Java which enables interpretation on various platforms, including Android.
+
+It is implemented in OCaml, and has been used to find many bugs in Windows Device Drivers.
+
+It is implemented in several BSD-based operating systems and has been ported to Linux (ucarp).
+
+It is implemented in SPM.
+
+It is implemented in the MOPAC program (of which the older versions are public domain), along with the related RM1, AM1, MNDO and MINDO methods, and in several other programs such as Gaussian, CP2K, GAMESS (US), GAMESS (UK), PC GAMESS, Chem3D, AMPAC, ArgusLab, BOSS, and SPARTAN.
+
+It is implemented in the popular homology modeling program MODELER and used to assess the energy of the protein model generated through many iterations by MODELER, which produces homology models by the satisfaction of spatial restraints.
+
+It is implemented in the UK with the Equality Act 2010.
+
+It is implemented mostly in Scheme, with some parts in C for performance or to make embedding into C programs easier.
+
+It is implemented on most modern flat-panel monitors and televisions.
+
+It is implemented on the .
+
+NET Framework platform and contains all the modern language features: classes, operator overloading, interfaces, exception handling, generic classes and routines, garbage collection, lambda expressions, parallel programming tools (OpenMP only as of 2016).
+
+It is implemented on top of the C preprocessor and make.
+
+It is implemented on top of the Dynamic Language Runtime (DLR), a library running on top of the Common Language Infrastructure that provides dynamic typing and dynamic method dispatch, among other things, for dynamic languages.
+
+It is implemented through COM, and can be accessed through Microsoft Word or additionally through the RichEdit controls that normally ship with Windows.
+
+It is implemented using Nengo.
+
+It is implemented widely in industries such as oil refining, pulp and paper manufacturing, chemical processing and power generating plants.
+
+It is implemented with an associative memory.
+
+It is implicated as a pathogen in chronic periodontitis, which can induce bone loss.
+
+It is implicated as responsible for the heat resistance of the endospore.
+
+It is implicated in a number of cell processes, including exocytosis, cell migration, and growth.
+
+It is implicated in apoptosis and amyotrophic lateral sclerosis.
+
+It is implicated in numerous psychopathologies and mental disorders, as well as short-term and long-term changes in non-clinical executive control.
+
+It is implicated in the deaths of three infants in France, and was found to be a contaminant of parenteral nutrition bags.
+
+It is implicated in the development and progression of melanomas.
+
+It is implicated in the role of memory and spatial navigation.
+
+It is implicated in X-linked intellectual disability in humans.
+
+It is implicitly used in some healthcare planning decisions, such as the use of quality-adjusted life years (QALYs) and the concept of triage, but is controversial in many other cases.
+
+It is implicit that different linguistic communities conceive of simple things and processes in the world differently (different cultures), not necessarily some difference between a person's conceptual world and the real world (wrong beliefs).
+
+It is implied, but not explicitly stated, that he may have played as an uncredited guest guitarist on the album.
+
+It is implied in every contract in order to reinforce the express covenants or promises of the contract.
+
+It is implied that his family's association with Sam Houston may have begun back in that Appalachian Virginia near Rockbridge Timber Plantation from where the Sam Houston family migrated, it being adjacent to a Coleman Mountain and Coleman Falls in southwest Amherst county and Nelson counties where some of the Mobjack Coleman lineage settled, both surnames typically attributed to Ireland.
+
+It is implied that it is the oldest name, as opposed to "Albion", but the implication is not wholly credible.
+
+It is implied that most, if not all, of them are former members of special operations units.
+
+It is implied that the First's high priest, Caleb, has played an important role in indoctrinating the Bringers.
+
+It is implied that the next Games will be held in conjunction with the 2018 Commonwealth Games in the Gold Coast, Australia.
+
+It is implied that the position is hit and held from motion as if freezing in motion, or into ice.
+
+It is implied that the Solarians use a special organ to turn heat into some manner of energy, but whether it psychokinetic or telepathic in origin, if not both, is not wholly specified.
+
+It is implied that they are asking a trick question designed to discover his location.
+
+It is implied to be a Sherlock Holmes story, though his name is not used.
+
+It is implied towards the end of the documentary that Pasolini himself was having doubts concerning his own idea.

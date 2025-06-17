@@ -1,0 +1,423 @@
+TCP Vegas is one of several "flavors" of TCP congestion avoidance algorithms.
+
+TCPware is a third party layered product published by "Process Software LLC" to add TCP/IP capabilities to OpenVMS.
+
+TCP was founded by the internationally acclaimed mezzo-soprano Carla Dirlikov Canales, and uses the arts to help find new solutions to challenges facing society.
+
+TCP was introduced in 1918.
+
+TCP was registered to participate in the 2005 municipal elections in Andhra Pradesh.
+
+TCP Westwood+ is an evolution of TCP Westwood.
+
+TCP Westwood+ is a sender-side only modification of the TCP Reno protocol stack that optimizes the performance of TCP congestion control over both wireline and wireless networks.
+
+TCP Westwood+ is based on end-to-end bandwidth estimation to set congestion window and slow start threshold after a congestion episode, that is, after three duplicate acknowledgments or a timeout.
+
+TCP Westwood plus is an evolution of TCP Westwood, in fact it was soon discovered that the Westwood bandwidth estimation algorithm did not work well in the presence of reverse traffic due to ack compression.
+
+TCP Westwood relies on mining the ACK stream for information to help it better set the congestion control parameters: Slow Start Threshold (ssthresh), and Congestion Window (cwin).
+
+TCP Westwood+ significantly increases throughput over wireless links and fairness compared to TCP Reno/New Reno in wired networks.
+
+TCP Westwood (TCPW) is a sender-side-only modification to TCP New Reno that is intended to better handle large bandwidth-delay product paths (large pipes), with potential packet loss due to transmission or other errors (leaky pipes), and with dynamic load (dynamic pipes).
+
+TCP works for the creation of a separate Telangana state.
+
+TCR also consults with governments nationally and internationally on all aspects of GHG measurement, reporting, and verification.
+
+TCR also proved to be a launching pad for aspiring comic book creators, many of whom published work in the fanzine as amateurs.
+
+TCR and Tiago Monteiro gained the second one, driving a Honda Civic TCR.
+
+T.
+
+C. Rao (born September 18, 1940) is an Indian mineral process scientist and researcher.
+
+T. crassiceps begins its life in the intestines of wild canines, like a wolf.
+
+TCR designs and operates voluntary and compliance greenhouse gas (GHG) reporting programs globally, and assists organizations in measuring, reporting and verifying the carbon in their operations in order to manage and reduce it.
+
+T. Creighton Jones was the Presiding Bishop of the Orthodox Anglican Church and Metropolitan Archbishop of the Orthodox Anglican Communion.
+
+TCR Europe Series will also see the introduction of the DSG Challenge for cars equipped with Direct-shift gearbox.
+
+TCRF also provides treatment for genetic disorders such as Gaucher disease and Pompe disease and have a Gaucher program.
+
+TCR gamma alternate reading frame protein, also known as TARP, is a human gene.
+
+TCR International is a ground support equipment supplier company, headquartered in Brussels, Belgium.
+
+TCR is a regulations for the several national, regional and international touring car racing series, or for the one category of them, to the most successful competitors each season.
+
+TCRM currently has nine diesel-electric locomotives and thirty other cars/engines.
+
+TCRP has also assembled self-help manuals on issues such as Title IX and disability rights, given more than 400 civil rights talks and speeches across Texas to diverse groups (such as school conferences, police and law enforcement training, senior citizens' organizations, and Continuing Legal Education programs), and published eleven Human Rights Reports on issues such as hate crimes, jail standards, and sexual harassment in Texas secondary schools.
+
+TCRP uses legal advocacy to empower Texas communities and create policy change.
+
+TCR records is major force in the nu skool breaks scene.
+
+TCR Scandinavia Touring Car Championship will be the seventh Scandinavian Touring Car Championship season.
+
+TCRs, like antibodies, constitute an important antigen recognition system within the immune system; but, whereas antibodies are restricted to targeting cell surface or secreted proteins TCRs can recognize peptides derived from intracellular targets presented by human leukocyte antigen (HLA).
+
+TCRS Restaurants Sdn Bhd (doing business as The Chicken Rice Shop) is a company incorporated in Malaysia, which was established in June 2000.
+
+T Crucis is a star in the constellation Crux.
+
+T. cruzi is the protozoan that causes Chagas Disease, which affects approximately eight million people a year in the western hemisphere alone.
+
+TCS-1 (Transcaribbean System 1) was an optical submarine telephone cable.
+
+TCS alone generates 70% dividends of its parent company, Tata Sons.
+
+TCS BaNCS is a core banking software suite developed by Tata Consultancy Services for use by retail banks.
+
+TCS Courier (Tranzum Courier Services) is a Pakistani courier service company headquartered in Karachi.
+
+TCS Daily was an online magazine with commentary and analysis on current news from a free-market perspective.
+
+TCS deployed thousands of these filters in the Indian Ocean tsunami disaster of 2004 as part of its relief activities.
+
+T. C. Simpson served as the President pro tempore of the Oklahoma Senate and Tom Waldrep served as the Speaker of the Oklahoma House of Representatives.
+
+TCS is a ministry of Trinity Baptist Church and is accredited by the Arkansas Nonpublic School Accrediting Association and is affiliated with the American Association of Christian Schools (AACS).
+
+TCS is a non-denominational ministry of Trinity Fellowship Church, an Assemblies of God congregation.
+
+TCS is often associated with the closure of a spina bifida.
+
+TCS is one of the largest Indian companies by market capitalization.
+
+TCS is usually autosomal dominant.
+
+TCS IT Wiz is an information technology quiz-based competition for India's high school students.
+
+TC Smith, also known as "TC/TNT," is an American singer and live programmer best known for her work with Triggerpimp, Anna Thema, TCR, Satiate, and Meridian Dream (with Rae DiLeo) as well as her voiceover work with producer Joseph Bishara.
+
+TCS occurs in about one in 50,000 people.
+
+TCS-OX2-29 is an orexin antagonist.
+
+T.
+
+C. Sports Club (Trust and Care Football Club) is a Maldivian football club.
+
+TC's sophomore album, Unleash the Wolves, was released on 8 July 2016 via 3Beat, and includes the single "Rep" (featuring Jakes).
+
+T.
+
+C. Steele Boyhood Home, also known as the T.
+
+C. Steele House, is a historic home located at Waveland, Montgomery County, Indiana.
+
+TCS was formed in January 2003 as the successor to the Texas Council for Science Education that was active during 1980-1994.
+
+Steven Schafersman, the president of the organization, is a geologist and former university professor.
+
+TCS was founded on May 1, 1865, more than 2 years prior to Canadian Confederation.
+
+TCT also provides theater-arts classes for children throughout the year.
+
+Tctex1 domain containing 4 is a protein that in humans is encoded by the TCTEX1D4 gene.
+
+TCT has said it now plans to make the Trail more accessible, convert interim roadways to greenways, add new spurs and loops to the Trail and fund emergency repairs when needed.
+
+TCT included over 2,700 survey stations, covered over 13,600 miles, and passed through 44 states.
+
+TCT is also available on DirecTV on channel 377, and on Sky Angel channel 133.
+
+TCT is released under the terms of the IBM Public License.
+
+TCT Kids also runs as a standalone feed from 6:30 a.
+
+m. to 7:30 p.
+
+m. Eastern Time daily on its Web site.
+
+TCT Kids is the children's programming division of the Tri-State Christian Television network.
+
+TCT Network provides a mix of original talk show programming such as TCT Today, TCT Alive and Come On In, along with a children-oriented programming block made by the network branded as TCT Kids (used to meet E/I mandates), some Southern gospel music programming, traditional televangelism (which makes up the majority of the network's program lineup) and feature films with Christian themes; films were a recent addition to the network's lineup, only being added in the mid-2010s.
+
+TCTP is a multifunctional and highly conserved protein that existed ubiquitously in different eukaryote species and distributed widely in various tissues and cell types.
+
+TCTP is involved in a variety of cellular activities, including microtubule stabilization, calcium-binding activities, and apoptosis.
+
+TCTP production is thought to be controlled at the translational as well as the transcriptional level.
+
+TCT specializes in presenting imaginative original work inspired by or adapted from classic tales from world literature.
+
+TCT stated that the change was made to free up capital to improve the network's programming, moving away from the straight televangelism-dominated lineup it had previously maintained (television remains the network's core programming) and adding more Christian films.
+
+TCT was superseded by The Sleuth Kit, although TSK it is only partially based on TCT, it is accepted as the TCT official successor by TCT authors.
+
+TCT World, like their three over-the-air television feeds, can also be viewed online via their live streaming video feed on their website www.
+
+tct.
+
+tv archived videos of recent TCT Today and TCT Alive programs are available for viewing on their website.
+
+TCT World's schedule is also around-the-clock.
+
+TCU and Houston had been conference rivals for many years: between 1976 and 1995, they were in the Southwest Conference, and from 2001 to 2004, TCU joined Houston in C-USA.
+
+TCU began playing football in 1896 and claims national championships in 1935 and 1938.
+
+TCU began playing football in 1896 and has played their home games since 1930 at Amon G. Carter Stadium on the TCU campus.
+
+TCU competed in Division I of the National Collegiate Athletic Association (NCAA) as a member of the Big 12 Conference.
+
+TCU Financial Group has naming rights on TCU Place.
+
+TCU Financial Group is a credit union with a head office in Saskatoon, Saskatchewan and locations in Regina, Saskatchewan, and at the end of 2015 was the 46th largest credit union in Canada.
+
+TCU has one Heisman Trophy winner, Davey O'Brien, and has had eight former players inducted into the College Football Hall of Fame.
+
+TCU ranks as the 28th best college football program of all time and the 4th best private college football school of all time, behind Notre Dame, USC, and Miami-FL.
+
+TCU running back LaDainian Tomlinson scored on touchdown runs of 7 and 33 yards in the third quarter, as TCU took a 21-14 lead into the fourth quarter.
+
+TCU's band stands out among other college marching bands in that it performs in an explicitly corps style, usually reserved for Drum and Bugle Corps and high school marching bands.
+
+TCUs free processors from handling the data coming in and out of RS-232 ports.
+
+TCU started the scoring with a 3-yard touchdown pass from quarterback Casey Printers to wide receiver George Layne to open up a 7-0 lead.
+
+TCU won the tournament for the first time, earning the league's automatic bid to the 2014 NCAA Division I Baseball Tournament.
+
+T.
+
+C. Vadivelu Naicker is another name cited as an earlier co-director.
+
+TCV has 486 staff and works with 10,481 volunteers.
+
+T. C. Vijayan is an Indian politician and was a Member of the Legislative Assembly (MLA).
+
+TCVLSI is one of the 26 technical committees/councils of IEEE-CS that covers various specializations of computer science and computer engineering discipline.
+
+TCW also cooperated with rival independent promotions by holding interpromotional shows with Florida Championship Wrestling.
+
+T.
+
+C. Wardell from Chicago was hired as superintendent of construction because he was considered a specialist in constructing fire-proof buildings.
+
+TCW/Crescent maintains a strategic partnership with TCW Group (Trust Company of the West), a leading institutional money management firm with approximately $180 billion in assets under management.
+
+TCWF started out as a humor journal covering and parodying subjects such as religion, science fiction, history and technology, but over the years it has gradually changed into a diary, and today is mostly a compilation of the passing week's blog posts.
+
+TC&W is supportive of a new road crossing, but the city of Bloomington is not.
+
+TCW later became home to many high-profile wrestlers after the close of World Championship Wrestling, and later Extreme Championship Wrestling, in 2001.
+
+TC Works Spark was a 2-track audio editing application for the Mac OS 9 and Mac OS X, developed by TC Works, the former computer recording subsidiary of TC Electronic, from 1999 to 2003.
+
+TCX is a secreted protein, produced in the venom gland of the snake.
+
+TCX Technology is the brand name for a hydrocarbon-based ethanol production process developed and marketed by Celanese Corporation.
+
+T Cygni (T Cyg) is a star in the constellation Cygnus.
+
+TD-1A, or Thor-Delta 1A, was a European astrophysical research satellite which was launched in 1972.
+
+TD2 is an air-cooled road racing motorcycle made by Yamaha produced between 1969 and 1970.
+
+TD386 allowed some extra breakpoints that the other debuggers did not (I/O access breaks, ranges greater than 16 bytes, and so on).
+
+TDA is headed by the Texas Agriculture Commissioner, one of four heads of state agencies which is elected by statewide ballot (and the only one where the provision for statewide election is mandated by legislative action, not enshrined in the Texas Constitution) for a four-year term, concurrent with the gubernatorial election (prior to 1978, the term was two years before a statewide amendment in 1974 extended it to four years).
+
+T. D. Allen is the pen-name of an American couple, Don Bala Allen and Terry (Terril) Diener Allen, who wrote fact and fiction about American Indians.
+
+TD Ameritrade is a brokerage firm based in Omaha, Nebraska with a major trading center in St Louis, Missouri.
+
+TD Ameritrade provides services for self-directed option traders and institutional users who invest in equities, exchange-traded funds, futures, mutual funds and bonds.
+
+T. Danforth is a creator in the role-playing game and video game industry.
+
+TD Auto Finance is a financial-services provider.
+
+T. David Scrymgeour is a Canadian entrepreneur and organizational advisor.
+
+T. Davis Bunn (1952) is an American author.
+
+TD Bank Ballpark is named for TD Bank, N.
+
+A., which purchased Commerce Bancorp in 2009.
+
+TD Bank, N.
+
+A., is an American national bank and subsidiary of the Canadian multinational Toronto-Dominion Bank based in Toronto, Ontario.
+
+TDB applies to the Solar-System-barycentric reference frame, and was first defined in 1976 as a successor to the (non-relativistic) former standard of ephemeris time (adopted by the IAU in 1952 and superseded 1976).
+
+TDB is now (since 2006) defined as a linear scaling of Barycentric Coordinate Time (TCB).
+
+TDBzcholine is a diazirine analog of acetylcholine that can be used to label the nicotinic acetylcholine receptor.
+
+TD Canada Trust (doing business as simply TD) is the personal, small business and commercial banking operation of the Toronto-Dominion Bank (TD) in Canada.
+
+TD Canada Trust offers a range of financial services and products to more than 10 million Canadian customers through more than 1,100 branches and 2,600 "Green Machine" ATMs.
+
+TDC A/S or TDC Group (formerly Tele Danmark Communications) is a Danish telecommunications company dating back to 1879.
+
+TD Center is an office building home to the Toronto-Dominion Bank (TD Bank) in downtown Halifax, Nova Scotia, Canada.
+
+TDC existed from 1972 to 1992, when it became the Malaysia Tourism Promotion Board (MTPB), through the Malaysia Tourism Promotion Board Act, 1992.
+
+TDC Games is a board game and jigsaw puzzle manufacturer formerly located in Itasca, Illinois.
+
+TDC Group is the largest telecommunications company in Denmark.
+
+TD could be used for programs not generated by Borland compilers, but without showing source statements; it was by no means the only debugger available for non-Borland executables, and not a significant general-purpose debugger.
+
+TDCP offers services through its revenue earning and support wings throughout Punjab and its head office at Lahore.
+
+TDCPP and these other chlorinated organophosphate flame retardants are all sometimes referred to as "chlorinated tris".
+
+TDC produces a design annual that features award-winning typography.
+
+TD Cruze is an American multi-instrumentalist and producer.
+
+TDC was registered under the flag of the San Diego Yacht Club (SDYC).
+
+TDDB is one of the intrinsic wear out failure mechanisms.
+
+TDEA is working to promote democracy and bridge gap between citizens and elected representatives through fieldwork, applied research, advocacy, election observation, governance monitoring, electoral reforms, oversight of legislatures and access to quality education.
+
+T. Dean (full name and details unknown) was an English cricketer who played for Gloucestershire.
+
+TDEC is legally responsible for the protection of Tennessee's air, water, and soil quality.
+
+TDECU is the largest Houston-area credit union, and fourth largest in the state of Texas, with over 263,000 members and assets of $3.
+
+05 billion as of June 2017.
+
+TDE did live performances, and worked on studio recordings.
+
+T. denticola is related to the syphilis-causing obligate human pathogen, Treponema pallidum subsp.
+
+TDE offers encryption at file level.
+
+TDE solves the problem of protecting data at rest, encrypting databases both on the hard drive and consequently on backup media.
+
+T. D. Evans was Mayor of Tulsa, Oklahoma from 1920-22, including the period of the Tulsa Race Riot on May 31 and June 1, 1921.
+
+TDF accomplishes their mission through several programs.
+
+TDF also provides information about conventional and complementary treatments and therapies.
+
+TDF began as a limited company and registered charity (1998) and gained charitable status in 1999.
+
+TDFC members met in Tain Royal Academy until recently when the refurbished hall at the Tain Parish Church became the regular venue for lectures.
+
+TDF has several programs that helps strengthen their mission including TDF Accessibility Program (TAP), Education Programs, Ticketing Programs and The Costume Collection.
+
+TDF have a connection to Womad, as they own the copyright to all of their songs, and they have also performed at Womad many times of the past few years.
+
+T.
+
+D. first appeared at a Dolphins home game on August 10, 1997 against the Chicago Bears; his first Dolphins home playoff appearance was January 2, 1999 in a win against the Buffalo Bills.
+
+TDF is the basis for the Architecture Neutral Distribution Format.
+
+T.
+
+D. (for The Dolphin) is the official mascot of the National Football League's Miami Dolphins.
+
+TDG Limited was a goods transportation, distribution, warehousing and supply chain management company based in England with offices also in Ireland, Belgium, the Netherlands, Spain, Hungary and Germany.
+
+TDHS differs from other time-scale modification algorithms in that time-scaling operations are performed in the time domain (not the frequency domain).
+
+TDI clients are provided with the compiler.
+
+TDI engines installed in 2009 to 2015 model year Volkswagen Group cars sold through 18 September 2015 had an emissions defeat device, which activated emissions controls only during emissions testing.
+
+TDIndustries has been recognized by Fortune Magazine as one of the Best Places to Work repeatedly because of the company's use of the servant-leadership model.
+
+TDI (originally known as Telecommunications for the Deaf and Hard of Hearing, Inc.) is a 501(c)3 nonprofit organization headquartered in Silver Spring, Maryland and was founded in 1968.
+
+TDI provides courses and certification for divers and for instructors.
+
+TDIQ (also known as 6,7-methylenedioxy-1,2,3,4-tetrahydroisoquinoline or MDTHIQ) is a drug used in scientific research, which has anxiolytic and anorectic effects in animals.
+
+TDI specializes in more advanced Scuba diving techniques, particularly diving with rebreathers and use of breathing gasses such as trimix and heliox.
+
+TDI was founded in 1876 as the Department of Insurance, Statistics and History.
+
+T.
+
+D. Jones, a United Church clergyman who led the campaign against Vapaus, asserted that the Finnish community in the Sudbury area was "living in terror" of Communist intimidation, that children were being indoctrinated with seditious ideas and that the paper was undermining the sanctity of marriage by encouraging Finnish families to live in common-law relationships.
+
+TDJP believes in the respect for human rights, justice and democracy.
+
+T. D. Judah was the name of a 4-2-2 steam locomotive owned by the Central Pacific Railroad.
+
+TDK Cross Central was a dance music festival run by TDK Corporation and held in Kings Cross, London, England from 2004 to 2007.
+
+TDK Manresa won its first title after defeating FC Barcelona in the overtime of the final game.
+
+TDK-Micronas is a developer and manufacturer of semiconductor-based sensor and IC system solutions for automotive and industrial electronics.
+
+TDK-Micronas is headquartered in Freiburg (Germany).
+
+TDLR has its headquarters in the Ernest O. Thompson State Office Building in Downtown Austin.
+
+TDLR is responsible for licensing and regulating a broad range of occupations, businesses, facilities, and equipment in Texas.
+
+TDLS-linked devices benefit from an optimized connection to do things such as streaming video or synching content, without burdening the network as a whole."
+
+The IEEE has endorsed this as the 802.
+
+11z standard.
+
+TDL was based in Princeton, New Jersey, USA in the 1970s and early 1980s.
+
+TDMA is a type of time-division multiplexing (TDM), with the special point that instead of having one transmitter connected to one receiver, there are multiple transmitters.
+
+TDMA is used in the digital 2G cellular systems such as Global System for Mobile Communications (GSM), IS-136, Personal Digital Cellular (PDC) and iDEN, and in the Digital Enhanced Cordless Telecommunications (DECT) standard for portable phones.
+
+TDM Fabric to Framer Interface is abbreviated as TDM.
+
+TDM-GCC is a compiler suite for Microsoft Windows.
+
+TDM-GCC is a redistribution of components that are freely available elsewhere.
+
+TDMoIP is a type of pseudowire (PW).
+
+TDM refers to a T1, E1, T3 or E3 signal, while the PSN is based either on IP or MPLS or on raw Ethernet.
+
+TDMS functions are similar to that of conventional archive functions in concepts, except that the archived materials in this case are essentially engineering drawings, survey maps, technical specifications, plant and equipment data sheets, feasibility reports, project reports, operation and maintenance manuals, standards, etc.
+
+TDM techniques link with and support community movements for sustainable transport.
+
+TDM timing standards can be exacting and conformance with these may require innovative mechanisms to adaptively reproduce the TDM timing.
+
+TDM-to-packet conversion is the process of converting a digital signal in TDM format (typically a 64 Kbit/second signal encoded with mu-law or A-law compression) into packets (typically RTP packets) for carrying over a packet network such as the Internet.
+
+T. D. Muthukumaraswamy Naidu was an Indian politician and former Member of Parliament elected from Tamil Nadu.
+
+TDOC facilities' medical and mental health services are provided by Corizon.
+
+T-Dog is an original character in the television series and has no counterpart in the graphic novels.
+
+T-Dog was portrayed as a well-intentioned and kindhearted man towards his fellow survivors, although he struggles to prove his worth in the group.
+
+TDO has been shown to occur in areas of close geographic proximity and within families; most recent documented cases are in Virginia, Tennessee, and North Carolina.
+
+T. Donovan is an American actor/writer/producer who appeared on the first season of Thintervention with Jackie Warner, a docu-series about health and fitness on BRAVO.
+
+T. Don Tilley (born in Norman, Oklahoma, November 22, 1954) is a Professor of Chemistry at the University of California, Berkeley.
+
+TDOR occurs annually on November 20, when transgender advocates raise awareness of the transgender community through education and advocacy activities.
+
+TD Overdrive: The Brotherhood of Speed (known in the United States as Test Drive) is the seventh installment in the Test Drive series, developed by Pitbull Syndicate and published by Infogrames under the Atari brand name.
+
+T.
+
+D.
+
+Penn., commonly known as stamvrug, is an evergreen tree that mostly grows in rocky places.
+
+TD Place Arena, originally the Ottawa Civic Center, is an indoor arena located in Ottawa, Ontario, Canada, seating 9,500.
+
+TD Place Stadium (originally Lansdowne Park and formerly Frank Clair Stadium) is an outdoor stadium in Ottawa, Ontario, Canada.

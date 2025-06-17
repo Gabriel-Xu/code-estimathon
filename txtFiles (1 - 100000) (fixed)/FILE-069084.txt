@@ -1,0 +1,117 @@
+The enzyme encoded by this gene catalyzes the transfer of an acetyl group from acetyl-CoA to various arylamine and hydrazine substrates.
+
+The enzyme encoded by this gene contains eight TS-1 motifs.
+
+The enzyme encoded by this gene forms a cytoplasmic homodimer that preferentially oxidizes aromatic aldehyde substrates.
+
+The enzyme encoded by this gene has glucuronidase activity on mycophenolic acid, coumarins, and quinolines.
+
+The enzyme encoded by this gene has moderate glucuronidase activity with phenols.
+
+The enzyme encoded by this gene is a member of the RAD51 protein family which assists in repair of DNA double strand breaks.
+
+The enzyme encoded by this gene is classified as a thiolesterase and is responsible for the hydrolysis of S-lactoyl-glutathione to reduced glutathione and D-lactate.
+
+The enzyme encoded by this gene is involved in the specific inactivation of all-trans-retinoic acid to hydroxylated forms, such as 4-oxo-, 4-OH-, and 18-OH-all-trans-retinoic acid.
+
+The enzyme encoded by this gene lacks a C-terminal TS motif.
+
+The enzyme encoded by this gene synthesizes N-acetyllactosamine in glycolipids and glycoproteins.
+
+The enzyme encoded by this gene transfers a GlcNAc residue to the beta-linked mannose of the trimannosyl core of N-linked oligosaccharides and produces a bisecting GlcNAc.
+
+The enzyme encoded is responsible for catalyzing the production of gamma-aminobutyric acid from L-glutamic acid.
+
+The enzyme exists in the mitochondrial matrix as a homotetramer of 45-kD subunits.
+
+The enzyme FokI, naturally found in Flavobacterium okeanokoites, is a bacterial type IIS restriction endonuclease consisting of an N-terminal DNA-binding domain and a non-specific DNA cleavage domain at the C-terminal.
+
+The enzyme folds into two alpha/beta domains connected by a beta-ladder, the active site being located between the two domains.
+
+The enzyme forms a homodimer that catalyzes both the synthesis and degradation of fructose-2,6-biphosphate using independent catalytic domains.
+
+The enzyme from Corynebacterium equi also hydrolyses N-benzoylglycine and N-benzoyl-L-aminobutyric acid.
+
+The enzyme functions as a homodimer and is unique in its absolute requirement for magnesium and inorganic phosphate.
+
+The enzyme has a long and a short form.
+
+The enzyme has a very broad specificity and can act on most D-amino acids.
+
+The enzyme has been found in Chlorella variabilis.
+
+The enzyme has been shown to be effective in killing S. aureus strains resistant to antibiotics such as MRSA.
+
+The enzyme has demonstrated effectiveness against methicillin susceptible S. aureus (MSSA) and methicillin resistant S. aureus (MRSA) mediated keratitis in vivo in a rabbit model.
+
+The enzyme has the typical glycosyltransferase domains: a short N-terminal cytoplasmic domain, a hydrophobic non-cleavable signal-anchor domain, and a C-terminal catalytic domain.
+
+The enzyme has widespread tissue expression and has a role in metabolism.
+
+The enzyme horseradish peroxidase (HRP), found in the roots of horseradish, is used extensively in biochemistry applications.
+
+The enzyme, hydrogenase, he found was responsible for the reaction, which is normally a temporary emergency survival mechanism used in an oxygen-deprived environment.
+
+The enzyme hydrolyses 1,4-beta-D-xylans, removing successive D-xylose residues from the non-reducing termini.
+
+The enzyme hydrolyses single stranded region in duplex DNA such as loops or gaps.
+
+The enzyme hydrolyses the 1,4-beta linkages between N-acetyl-D-glucosamine and N-acetylmuramic acid in peptidoglycan heteropolymers of prokaryotic cell walls.
+
+The enzyme IdeS (Immunoglobulin degrading enzyme from Streptococcus pyogenes, trade name FabRICATOR) cleaves IgG in a sequence specific manner at neutral pH. The F(ab')2 fragment can be split into two Fab' fragments by mild reduction.
+
+The enzyme interacts with DNA helicase SGS1 and plays a role in DNA recombination, cellular aging and maintenance of genome stability.
+
+The enzyme involved is phenol sulfur-transferase (PST), which is essential to the process of breaking down and removing certain toxins from the body.
+
+The enzyme is a histone methyltransferase, SET domain-containing and lysine-specific.
+
+The enzyme is a homodimer, and requires FAD, molybdenum and two 2FE-2S clusters as cofactors.
+
+The enzyme is also active against double-stranded DNA and RNA and all sequences will be ultimately cleaved.
+
+The enzyme is also interesting from a human health perspective because mutations in PAH, the encoding gene, can lead to phenylketonuria, a severe metabolic disorder.
+
+The enzyme is also involved in cell migration associated with inflammation and autoimmunity.
+
+The enzyme is also known as (EC 3.
+
+4.
+
+24.
+
+64, processing enhancing peptidase (for one of two subunits), mitochondrial protein precursor-processing proteinase, matrix peptidase, matrix processing peptidase, matrix processing proteinase, or MPP).
+
+The enzyme is also known as yeast KEX2 protease, proteinase yscF, prohormone-processing endoprotease, paired-basic endopeptidase, yeast cysteine proteinase F, paired-basic endopeptidase, andrenorphin-Gly-generating enzyme, endoproteinase Kex2p, gene KEX2 dibasic proteinase, Kex 2p proteinase, Kex2 endopeptidase, Kex2 endoprotease, Kex2 endoproteinase, Kex2 protease, proteinase Kex2p, Kex2-like precursor protein processing endoprotease, prohormone-processing KEX2 proteinase, prohormone-processing proteinase, proprotein convertase, protease KEX2, Kex2 proteinase, and Kex2-like endoproteinase.
+
+The enzyme is a member of the superfamily of S-adenosyl-L-methionine-dependent radical enzymes.
+
+The enzyme is an archetypal example of allosteric modulation of fine control of metabolic enzyme reactions.
+
+The enzyme is a tetramer of 2 alpha- and 2 beta-subunits.
+
+The enzyme is bound to adenosylcobalamin, a hormonal derivative of vitamin B12 in order to function.
+
+The enzyme is encoded by the yeast gene KEX2, and usually referred to in the scientific community as Kex2p.
+
+The enzyme is encoded in humans by the DNMT3A gene.
+
+The enzyme is expressed constitutively in antigen-presenting cells and induced by gamma-interferon in other cell types.
+
+The enzyme is expressed in the airways in a developmentally regulated manner.
+
+The enzyme is found in a diverse range of organisms, including protozoa, squid and clams, mammals, and soil bacteria.
+
+The enzyme is found in both prokaryotes and eukaryotes and contains a flavin and FE-S cluster.
+
+The enzyme is found in the fungus Geotrichum sp.
+
+The enzyme is found in Trypanosomes, where it additionally has a SAM dependent methyl transferase, which adds a methyl group to N1.
+
+The enzyme is important in the regulation of hepatic carbohydrate metabolism and is found in greatest quantities in the liver, kidney and heart.
+
+The enzyme is important in the regulation of peptides like kinins and anaphylatoxins, and has also been known as kininase-1 and anaphylatoxin inactivator.
+
+The enzyme is inhibited and the cycle stops working.
+
+The enzyme is inhibited by the antibiotic fosfomycin, which covalently modifies an active site cysteine residue.

@@ -1,0 +1,161 @@
+Example: The function  formula_7  or just  formula_8  is the specific constant function where the output value is  formula_9. The domain is all real numbers ℝ. The codomain is just {4}. Namely, "y"(0)=4, "y"(−2.
+
+7)=4, "y"(π)=4... No matter what value of "x" is input, the output is "4".
+
+In the context where it is defined, the derivative of a function measures the rate of change of function (output) values with respect to change in input values. A constant function does not change, so its derivative is 0. This is often written:  formula_12 .
+
+Example:  formula_13  is a constant function. The derivative of "y" is the identically zero function   formula_14  .
+
+The converse (opposite) is also true. That is, if the derivative of a function is zero everywhere, then the function is a constant function.
+
+Mathematically we write these two statements:A function "f" : "A" → "B" is a constant function if "f"("a") = "f"("b") for every "a" and "b" in "A".
+
+Real-world example: A store where every item is sold for 1 euro. The domain of this function is "items in the store". The codomain is "1 euro".
+
+Example: Let "f" : "A" → "B" where "A"={X,Y,Z,W} and "B"={1,2,3} and "f"("a")=3 for every "a"∈"A". Then "f" is a constant function.
+
+Example: "z"("x","y")=2 is the constant function from "A"=ℝ² to "B"=ℝ where every point ("x","y")∈ℝ² is mapped to the value "z"=2. The graph of this constant function is the horizontal plane (parallel to the "x"0"y" plane) in 3-dimensional space that passes through the point (0,0,2).
+
+Example: The polar function "ρ"("φ")=2.
+
+5 is the constant function that maps every "angle" φ to the "radius" ρ=2.
+
+5. The graph of this function is the circle of radius 2.
+
+5 in the plane.
+
+There are other properties of constant functions. See on English WikipediaMixed-breed dogA mixed-breed dog is a dog that is of more than one breed. For example, a Labradoodle is a dog with genes of both Labrador Retriever and poodle.
+
+Other words for a mixed-breed dog are mongrel or mutt.
+
+Inline skatingInline skating is a kind of skating. It involves a person moving across land using shoes that have wheels on the bottom. It is similar to roller skating, except that the wheels are smaller and are in a single line. Inline skating is also called rollerblading, after the "Rollerblade" brand of skates. .
+
+Inline skates usually have between 2 and 5 polyurethane wheels. These wheels are arranged in a single line. This allows for faster speeds than roller skates.
+
+The Voyage of the BeagleThe Voyage of the Beagle is the usual title of the book written by Charles Darwin. He first published it in 1839 as his Journal and Remarks.
+
+The title refers to the second survey expedition of the ship HMS "Beagle". The ship set sail from Plymouth Sound on 27 December 1831 under the command of Captain Robert FitzRoy R.
+
+N.
+
+The expedition was originally planned to last two years, but it lasted almost five. The "Beagle" did not return until 2 October 1836. Darwin spent most of this time exploring on land (three years and three months on land; 18 months at sea). The ship dropped him off at various places and picked him up later.
+
+The book is a vivid and exciting travel memoir as well as a detailed scientific field journal. It includes biology, geology, and anthropology. Darwin's observations were written at a time when Western Europeans were exploring and charting the whole world. Although Darwin revisited some areas during the expedition, for clarity the chapters of the book are ordered by places and locations rather than by date.
+
+Darwin's notes made during the voyage include comments illustrating his thinking. Looking at the plants, animals, rocks and fossils, he ran across questions which he could not answer at the time. On his way back, ideas began in his mind which he developed later as his theory of evolution by natural selection. The second edition of 1845 includes some suggestion of this.
+
+Later, he realised he had made a big mistake in not noting which islands some specimens from the Galapagos Islands were found on. He knew this was a mistake because he had sensed how islands were rather like the higher parts of mountains, which also have many unique species. The idea we now know as geographical speciation was beginning to form in his mind. Darwin opened his secret 'transmutation' notebook (Notebook 'B') in July 1837, less than a year after the "Beagle" returned to England.
+
+Palm oilPalm oil is a vegetable oil. Natural palm oil is red, but the red part is usually removed before the oil is used. It is made from the fruit of the African Oil Palm tree. Some comes from the American Oil Palm. Palm oil is used in many different products, like ice cream, toothpaste, chocolate, and candy. Most palm oil is made in West Africa and Southeast Asia on plantations.
+
+Palm oil is criticised for being one of the leading causes of deforestation, and for the use of slavery by many plantation owners to extract palm oil and profit off of it.
+
+Candy flossCandy floss is sugar that is spun with air. It is also called cotton candy or fairy floss. It is spun in machines. When spun, a small amount of sugar creates a much larger serving of candy floss. This is because it is mostly air. It is usually served on a stick or in a bag. Food colouring is sometimes used to change the natural white colour. Flavour is also sometimes added. Candy floss is often sold at fairs or circuses.
+
+Candy floss was first made in Europe in the 18th century. At that time, spun sugar was expensive. The average person could not afford it. Machines to spin the sugar were invented in 1897 by William Morrison and John C. Wharton. They introduced it at the World's Fair in 1904, under the name "Fairy Floss". It was very successful. They sold 68,655 boxes at 25 cents each box (equivalent to US$6 per box today). In UAE it sold in 5 AED.
+
+Movement (disambiguation)Movement is the action of changing something's position.
+
+Movement can also mean:Bed (geology)In geology a bed is the smallest division of rock or deposit. It is a geologic formation or stratigraphic rock series marked by well-defined divisional planes (bedding planes) separating it from layers above and below.
+
+A bed is the smallest lithostratigraphic unit. It ranges in thickness from a centimetre to several metres. It can be distinguished from beds above and below it by rock or mineral type and particle size. The term is usually applied to sedimentary strata, but may also be used for volcanic flows or ash layers.
+
+In a quarry, bedding is a term used for a structure occurring in granite and similar rocks which allows them to split in well-defined planes horizontally or parallel to the land surface.
+
+In geotechnical engineering a bedding plane often forms a discontinuity that may have a large influence on the mechanical behaviour (strength, deformation) of soil and rock masses. This is important in, for example, tunnel, foundation, or slope construction.
+
+Poi spinningPoi is a . Poi means both a style of performing art and the equipment used for engaging in poi performance. As a skill toy poi is an object or theatrical prop. Poi started with the Māori people of New Zealand, where it is still practised today.
+
+Poi spinning involves using a set of weights on strings. Many people use beanbags in long socks. These are called a set of poi. People spin the poi around their body drawing shapes in the air. LED lights or fire are sometimes used to make the poi easier to see and more exciting to watch.
+
+Walk or jump while spinning poi. Do dance moves. Stay in the same place but move the spin image everywhere and in all directions. Move body with poi or arms. If hands go right, move body to right. Spin slow or fast. Straighten your arms. Add difficulty for example stand on 1 leg. Lie down on the ground and spin.
+
+This can help to make many poi tricks:Poi can develop rhythm, balance, concentration, coordination, grace, body stretches, grip strength, attention . Some poi tricks like complex atomic tricks can develop skill of solving geometric puzzles.
+
+Besides increasing abilities, poi can be useful like a physical activity. Physical activity increases when the spinner spins heavy poi, spins fast, and adds body moves.
+
+Poi can be used as art of drawing shapes in the air. This can be done by taking photos on exposure when the spinner uses LED or fire poi.
+
+When a spinner has 2 or more poi in one hand he can have 3 poi or more poi in 2 hands.
+
+This can be useful in these cases:Savannah monitorThe savannah monitor (or Bosc's monitor) is a medium-sized monitor lizard from Africa. Its scientific name is "Varanus exanthematicus".
+
+Its range extends throughout sub-Saharan Africa, from Senegal east to Sudan and south almost to the Congo River and Great Rift Valley. It is a ground-dwelling species which shelters in burrows, although it is sometimes found in bushes or low trees.
+
+Information about the diet of Savannah monitors in the wild has been recorded in Senegal and Ghana. It feeds almost exclusively on arthropods and molluscs.
+
+PrimarkPrimark is an Irish clothing retailer founded by Arthur Ryan. The company operates in Austria, Belgium, France, Germany, Ireland (38 stores branded as Penneys), Portugal, Spain, the Netherlands, the United Kingdom, Italy, and the United States. The company's headquarters are in Dublin. Primark is a subsidiary of British food processing company ABF. Primark first opened in June 1969 in Mary Street (Dublin). All of the company's merchandise is made specifically for the company. Primark has its own brand names. It sells clothing at the budget end of the market.
+
+Toots and the MaytalsToots and the Maytals, originally called The Maytals, are a Jamaican musical group. They are one of the best known ska and rock steady vocal groups. They were formed in the early 1960s when ska was popular. They had a reputation for having strong, well-blended voices. Front man Hibbert's soulful style led him to be compared to Otis Redding.
+
+Maher El-BeheiryMaher El-Beheiry () (born March 17, 1943) is an Egyptian judge, and the former Chairman of the Supreme Constitutional Court of Egypt (SCC). He became Chairman on 1 July 2012.
+
+Dési BouterseDesiré Delano "Dési" Bouterse (born 13 October 1945) is a Surinamese politician. He was the President of Suriname from 2010 to 2020. From 1980 to 1987 he was Suriname's "de facto" leader when the country was under military rule.
+
+On February 25, 1980, the government of Suriname underwent a military coup led by Bouterse. Though the Suriname Presidency was retained, Bouterse was the nation's ruler until his resignation in 1988.
+
+Bouterse is held responsible for the numerous human rights violations committed under his dictatorship, such as the murder of 15 people known as the , and the massacre in the village Moiwana.
+
+On July 19, 2010, he was elected as President of Suriname with 36 of 50 parliament votes.
+
+Mog (Judith Kerr)Mog, is the main character in a series of books for children. The author is Judith Kerr. In the series Mog was well loved by Mr and Mrs Thomas (Mog's owners) and their two children Nicky and Debbie. In the books Mog, a cat, would often get into a difficult situation with a new character or event.
+
+Mog died of old age in the final book, "Goodbye, Mog" and goes to heaven. It was published in 2002. It is not usual for a pet to die in stories for young children just learning to read. Kerr said ""I don't think it was so much about killing off Mog, as rather doing something about dying...
+
+and being remembered."
+
+In November 2015, Mog came back as a CGI character for the 2015 Christmas video advert for the supermarket, Sainsbury's. In "Mog's Christmas Calamity" Mog accidentally starts a fire in her house after having a bad dream. She saves her family by calling firefighters by running across the telephone and dialing the emergency number. She is a hero for saving her owners, and is later given an egg as a treat. A special plush Mog and book version of the story were sold at Sainsbury's, with all profits being donated to Save the Children's child literacy work.
+
+Chesterton Community Sports CollegeChesterton Community Sports College is a school in Newcastle-under-Lyme. It has received very good GCSE results. There are 5 periods in a day, all one hour each way. Break time is fifteen minutes. Lunch is fifty-five minutes.
+
+BettringenBettringen is a village in southwest Germany. About 9,000 people live there. It is part of the town of Schwäbisch Gmünd. It is near Stuttgart.
+
+The village is about 800 years old. It was founded in 1218. In the 15th century, the names "Oberbettringen" (upper Bettringen) and "Unterbettringen" (lower Bettringen) are found in documents. In 1464, it first became part of Schwäbisch Gmünd. Later it became independent again.
+
+In 1870, more than 500 people lived in Bettringen. Some other villages were part of it.
+
+In 1959, it became part of Schwäbisch Gmünd. That was before the area reforms of Baden-Württemberg.
+
+The city council has eight members of the CDU, four members of the SPD, three members of the Green Party and one seat for the FDP.
+
+Bettringen is mainly Catholic.
+
+The L1160 and L1161 roads pass through the village. The B29 road bypasses the village.
+
+Winfried KretschmannWinfried Kretschmann (born May 17, 1948 in Spaichingen) is the Minister-President of the Southwest German federal state of Baden-Württemberg. He is the first Minister-President of the Green Party.
+
+Kretschmann is born to Catholic parents. He went to school in Riedlingen (District of Biberach). His parents wanted him to become a priest. Instead he joined a school for teaching education and became teacher for Biology, Chemistry and Ethics.
+
+Kretschmann started his political career at the Communist League of West Germany in 1973. He later changed his view and is now part of the more conservative Green party.
+
+In 1979/80 he was a co-founder of the Green Party in Baden-Württemberg. He was leader of the Green Party in Baden-Württemberg from 1983 to 1984 and 2002 to 2011. In 2011 he became ninth Minister-President of Baden-Württemberg. He was President of the Bundesrat from 2012 to 2013.
+
+In the parliamentarian of the Baden-Wuerttemberg state parliament election 2016 he was reelected.
+
+Kretschmann is married and has three children.
+
+RiedlingenRiedlingen is a town in the German federal state of Baden-Württemberg. About 10,000 people live there. It is near the Danube.
+
+Riedlingen is over 1,000 years old. Its foundation is dated back to the 13th century. Documents mention it as early as 835. In 1806, it became part of the Kingdom of Württemberg. In 1973 it became part of the District of Biberach.
+
+Riedlingen's current mayor is Marcus Schafft (CDU).
+
+François CavannaFrançois Cavanna (22 February 1923 – 29 January 2014) was a French author and satirical newspaper editor.
+
+He helped create the "Hara Kiri" and "Charlie Hebdo". He wrote in many of genres including reportage, satire, essays, novels, autobiography and humor. He also translated six books about famous cartoonists.
+
+Cavanna was born on 22 February 1923 in Nogent-sur-Marne. his father was Italian. Cavanna died on 29 January 2014 in Créteil, France from Parkinson's disease, aged 90.
+
+Mamdouh EldamatyMamdouh Mohamed Gad Eldamaty ( born December 6, 1961 in Cairo) is Professor of Egyptology at the Department of Archaeology, Faculty of Arts, Ain Shams University in Cairo. On May 15, 2011, he became Cultural Counselor and Head of Educational Mission at the Embassy of Egypt in Berlin.
+
+He attended high school in Cairo. In 1979, he registered at the Faculty of Archeology, Cairo University. In July 1981, he was looking for a summer job as a student. He went to the Egyptian Museum in Cairo and met with Dr. Mohamed Saleh, the vice director of the museum. He worked there for one month. In summer 1982, he worked at the museum again for a summer student job. He did work that brought him in contact with all departments of the museum. In 1983, he graduated at the Faculty of Archeology, Cairo University.
+
+After his graduation, he worked again for the museum for one month for free. After that, he joined the restoration team of the Coptic Museum for several months. In January 1984, he started his 15 month long conscription service. He worked at the museum again from April 1985 to September 1987. He rejoined his Faculty at Cairo University to resume higher studies. The thesis of his Master's Degree was "St- Meskhnet hall at Dendara Temple, linguistic and cultural study" under supervision of Prof. Abdelhalim Noureldin and partnership of Dr. Ola El-Aguizy.
+
+Through his work at the Museum he became acquainted to many Egyptologists and archaeologists who visited the Museum. Among those was Prof. Erich Winter at Trier University, who with his wife visited Egypt in 1987 and were accompanied by the young Mamdouh Eldamaty during their 3-day visit to Siwa Oasis. This new contact proved to be quite useful as Prof. Winter encouraged him to continue his studies under his supervision at the Department of Egyptology at Trier University.
+
+In October 1988 he worked as a curator at Faculty of Archaeology Museum of Cairo University. During his work he got his Master Degree in April 1989 in Egyptology. Immediately he left Egypt for Germany on leave to prepare his PhD. Trying his luck without any state sponsored scholarship it was rather difficult to get an entry visa to study in Germany. Thanks to the help and support of his Professor and guarantor, Prof. Dr. Mohamed Saleh, an entry visa was issued and he started his German courses at Cologne University. He supported his life by working during summer vacation. While in Cologne he held correspondence with Trier University. He got an acceptance from Trier University, which he joined from winter semester 1989/ 1990. He started his Trier residence by learning German until he acquired the ‘Prüfung zum Nachweis der Deutsch Sprachkenntnis’ that qualified him to regular study at the university. He registered for Egyptology as major subject with classical archaeology and ethnology as minor subject in summer semester 1991.
+
+At the winter semester 1992/ 93 he registered for his PhD with thesis ‘Sokar- Osiris- Kapelle im Tempel von Dendera’ for which he received a study scholarship from Ministry of Culture at Rhineland Palatia that enabled him to finish his study in June 1995. During his stay in Germany, on February 26th 1992 he married Aida Abdelghany Ahmed, who studied sociology at Zagazig University. She accompanied him to Germany where gave birth to their first daughter, Mariam (11.
+
+Feb. 1993) in Trier.

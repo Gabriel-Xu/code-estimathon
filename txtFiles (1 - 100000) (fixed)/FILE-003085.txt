@@ -1,0 +1,5 @@
+In molecular physics and quantum chemistry, an energy level is a quantized energy of a bound quantum mechanical state.
+
+Crystalline materials are often characterized by a number of important energy levels. The most important ones are the top of the valence band, the bottom of the conduction band, the Fermi energy, the vacuum level, and the energy levels of any defect states in the crystals.
+
+Atomic nucleus

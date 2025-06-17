@@ -1,0 +1,161 @@
+Deb (file format)deb is the extension of the Debian software package format and the most often used name for such binary packages.
+
+Debian packages are also used in operating systems based on Debian.
+
+Debian packages are standard Unix ar archives that include two gzipped or bzipped tar archives: one that holds the control information and another that contains the data.
+
+The canonical program for handling these packages is dpkg, most commonly via apt/aptitude.
+
+deb packages can be converted into other packages and vice versa using Alien.
+
+DebDeb or DEB may mean:Y chromosomeThe Y chromosome is a chromosome that decides the sex in most mammals, including humans. It contains the gene "SRY", which triggers testis development, so making an animal male or female.
+
+Normal females have two X chromosomes, and normal males have one X and one Y. An egg always carries a single X, while sperms carry either an X or a Y. That is how sex is determined in humans.
+
+ĆevapčićiĆevapčići (plural form of ćevapčić) or ćevapi () is a skinless meat sausage from Bosnia and Herzegovina and Serbia. it can be found in the countries of what was Yugoslavia. The Czech Republic, Bulgaria and the Italian provinces of Trieste and Gorizia. Ćevapčići are served on a plate or in a flatbread ("lepinja" or "somun"). Chopped onions, sour cream, kaymak, ajvar, cottage cheese, and similar sauces are often added.
+
+Macedonian ќебапчиња/ḱebapčinja; from Skopje are made of equal parts of beef and pork, minced together, seasoned, grilled and served on a plate with fries and fresh minced onions, accompanied with sour cream and spices. It can also be served in a thin bun called "lepinja", similar to the Turkish Pide. The traditional, and preferred, way of grilling "ćevapčići" is to use glowing coals beneath a grill. The expressions "ćevapčići" or "Kebapi" are both common in parts of North Macedonia, whereas in Skopje, the capital, from where ćevapčići spread all over the world, ćevapčići is the only traditional expression. Although "ćevapčići" is a formal diminutive, ćevapčići from Leskovac are longer (10–12 cm) than Bosnian ćevapi (5–8 cm). The Leskovac recipe was the one that became popular in Belgrade during the 19th century and then spread all over Yugoslavia, Europe and United States.
+
+Bosnian ćevapi from the Baščaršija district of Sarajevo and Banja Luka is probably the most famous "ćevapi". Travnik and Tuzla are known for their ćevapi made of beef stewed with spices. This dish is very popular in some parts of what was formerly Yugoslavia as well. Banja Luka is known for ćevapi which are multiple rolls (usually four) joined together. Bosnian ćevapi are made from two types of minced beef meat, hand mixed and formed with a funnel. Once they are formed, ćevapi are grilled. Bulgarian ḱebapi are made of both pork and beef. A serving usually consists of 5-10 pieces, served with white bread, minced red pepper, salt and onions.
+
+In Romania, the ćevapčići are called mititei.
+
+In Czech Republic/Slovakia čevapčiči is generally served with mustard, raw onions and potatoes.
+
+The word comes from the Arabic ', sometimes with the South Slavic diminutive ending "-čići" (, "ćevapčići/ćevapi"; , "ḱebapi"; , Croatian, Bosnian: '; ). For more on the word's history, see the etymology section of "kebab".
+
+Louise FarrencLouise Farrenc (born Paris, 31 May 1804; died 15 September 1875) was a French composer, virtuoso pianist and teacher. She was very well-known during her lifetime, but her best compositions are not very well known. This is because the way to become a famous composer in France in the 19th century was by writing operas, but Farrenc never wrote operas. Her best compositions are chamber music.
+
+Her name when she was born was Jeanne-Louise Dumont. Her father was a successful sculptor. She was very young when she started to learn the piano. Her teacher had been a pupil of Muzio Clementi. Soon she was having piano lessons with famous teachers such as Ignaz Moscheles and Johann Nepomuk Hummel. She loved composing, so her parents let her study composition with Anton Reicha at the Paris Conservatoire. At that time women were not allowed to go to composition classes at the Conservatoire, so she probably had her lessons privately. She met a flautist (flute player) called Aristide Farrenc. He was ten years older than she was. They often performed together and they married in 1821. She stopped her studies and travelled with her husband around France giving concerts. He soon grew tired of the concert life and decided to open a publishing house in Paris, which was called Éditions Farrenc. It became one of France’s most important music publishers for nearly 40 years.
+
+Farrenc returned to her studies with Reicha. Then she started giving many concerts and became famous. She was so successful that in 1842 she was made Professor of Piano at the Paris Conservatoire. She stayed in that job for 30 years. Although it was a very good job she was paid less than the male teachers. When her nonet was performed it made her famous. Joseph Joachim was one of the performers. After this success she was paid the same salary as the male professors. Several other chamber works were very successful, but after her death people forgot about them.
+
+At first, during the 1820s and 1830s, she just wrote for piano. Several music critics, including Schumann, thought they were very good. In the 1830s, she wrote chamber music and orchestral music. Her chamber music includes most of her best compositions.
+
+64 Studio64 Studio is a free Linux distribution based on Debian made for creative users on x86-64 and legacy 32-bit hardware architectures. It is made to serve as an all-in-one solution for audio and video recording, editing, and other forms of media production.
+
+Since 64 Studio is distributed with a free software license, anyone with a 64-bit computer can install it on their computer (in place of or alongside the well-known Windows operating system). An alternative installer is available for systems with 32-bit processors.
+
+The major differences between this distribution and basic Debian is a custom kernel with realtime patches applied, some pre-configuration and a custom package selection designed to meet the needs of creative desktop users. Other packages may also be modified to some extent, as are the basic GNOME desktop themes.
+
+The project released the first beta of 64 Studio, version 0.
+
+9.
+
+0 code-named 'Toe Rag', on the August 1, 2006. The release was named in honour of the all-analogue Toe Rag Studios in London, England.
+
+After eighteen months of development, the project made its first stable release available for free download on 2006-11-29. It is named Olympic in recognition of the work of Glyn Johns and Eddie Kramer atOlympic Studios in London.
+
+The second stable release, version 2.
+
+0 codename 'Electric', was announced on 27th July 2007. This latest release is named after Electrical Audio, the studio founded by sound engineer Steve Albini in Chicago, USA.
+
+AbulÉduAbulÉdu is a French Linux distribution made for classrooms. It is based on Debian and it includes the Linux Terminal Server Project and a large number of educational applications.
+
+Utah State UniversityUtah State University (USU) is a public university in Logan, Utah, United States. The university was started in 1888.
+
+British Medical JournalThe British Medical Journal (BMJ) is a popular peer-reviewed general medical journal. It is published by the BMJ Publishing Group in London. There is an online version.
+
+DNA (newspaper)Daily News and Analysis (DNA) is an English language newspaper published from Mumbai. It was launched on July 30, 2005. DNA is Mumbai's fastest growing newspaper. The newspaper has a liberal outlook.
+
+BaltixBaltix GNU/Linux is a Linux distribution aimed to be a complete, user-friendly operating system for Lithuanian and Latvian people, based on Debian and Ubuntu. Supported languages include Lithuanian, Latvian, Estonian, Russian, English, Norwegian and others near and around the Baltic region. The main language is Lithuanian.
+
+It uses the GNOME desktop environment and is distributed as an installable Live CD.
+
+The first public versions of Baltix GNU/Linux were released in 2003 and were based on Knoppix Live CD and Debian software packages, and later, on the Ubuntu operating system.
+
+Baltix has software packages not present in Ubuntu:Baltix can run directly from its live-usb, without installation to a computer's permanent storage (hard disk, solid state drive, etc.), but also can be installed into a computer's Linux or Windows partition(s).
+
+The Times of IndiaThe Times of India is an English language newspaper published in India. On November 3, 1838 the newspaper was founded as "The Bombay Times and Journal of Commerce", and, in 1861, it was renamed "The Times of India". The newspaper has a conservative outlook.
+
+With about 2.
+
+6 million copies sold each weekday, "The Times of India" is the bestselling newspaper in the world. The second bestselling newspaper in the world, "USA Today", sells about 2.
+
+25 million copies each weekday.
+
+Hindustan TimesHindustan Times is an English language newspaper published in India. It has simultaneous editions from New Delhi, Mumbai, Lucknow, Patna, Ranchi and Kolkata. The newspaper has a centrist outlook.
+
+The StatesmanThe Statesman is an English language newspaper published in India. It is published simultaneously from Kolkata, New Delhi, Siliguri and Bhubaneshwar.
+
+Live CDA Live CD, Live DVD, or Live Distro is a special way of creating a computer operating system so that it is able to run without installing anything on the computer first. This special operating system is used when the computer is booting up, and runs all its programs off the object it is put on. The name of the operating system usually has something to do with the object, such as ""Live CD"" for CDs, ""Live DVD"" for DVDs, or ""Live USB"" for USB flash drives.""
+
+Distro"" is short for Distribution, and is used because different types of Linux operating systems are called Linux Distributions, and Linux Distros were the first operating systems to be made into Live CDs. A ""Live Distro"" is used to refer to all different kinds of these special operating systems, instead of just the ones on a certain object.
+
+The word ""live"" is used to describe the special way that the operating system is set up so that it can run on a computer without needing to install anything first.
+
+The first Linux-based Live CD was Yggdrasil Linux (it stopped being made in 1995), but it did not work well because back then CD drives could not read CDs fast enough. in 2003, a Live CD based on Debian called Knoppix was released. Many people liked to use Knoppix, both as an operating system, and as a way of fixing a computer. Many more people have started using Live CDs since then, because of programs like Linux Live scripts and remastersys which make it very easy to make your own personalized Live CD.
+
+Some Live Distros are made to demonstrate how an operating system would work on a computer, without making you install it first.
+
+Other Live Distros come with a variety of software which help fix different problems that can happen with a computer, such as if they get a computer virus, or if a person forgets their password.
+
+People also create Live Distros to demonstrate new ways of making operating systems, or proving that an operating system can run on a new type of computer.
+
+Here are some images/screenshots of live CDs:Deccan HeraldThe Deccan Herald is an English language newspaper published in Karnataka. The newspaper started in 1948.
+
+PSV EindhovenPhilips Sport Vereniging (English: "Philips Sports Union"), widely known either as PSV or PSV Eindhoven, is a sports club from Eindhoven, Netherlands. It is best known for its professional football (soccer) section.
+
+BeatrIXBeatrIX is a GNU/Linux,live CD-based Linux distribution started by Steven Watsky, it was designed to look very simple, in order to be as easy to use as possible to new users. A new BeatrIX desktop has just four icons (e-mail, instant messaging, word processing and web browser). Hence, anyone who has some computer experience will be able to use BeatrIX.
+
+BeatrIX is a small operating system, taking up only 200MB. The liveCD fits into 80 mm discs that can store up to 184 MB of data.
+
+BeatrIX uses Linux 2.
+
+6.
+
+7 and GNOME 2.
+
+8 as its GUI desktop. It has productivity tools such as OpenOffice.
+
+org 1.
+
+1.
+
+2, Mozilla Firefox (version 1.
+
+0) web browser, Gaim (version 1.
+
+0), etc.
+
+BeatrIX has been discontinued since 2005 due to Steven Watsky's lapse in health. Another distro called BeaFanatIX is using the code of BeatrIX and continuing development.
+
+DeMuDiDeMuDi ("Debian Multimedia Distribution") was a Linux distribution based on Debian with improvements for music, sound and video production.
+
+DeMuDi was developed by the AGNULA Project, a European Union funded project to improve access to multimedia software, and was also known as A/DeMuDi, with A standing for Agnula.
+
+When funding stopped volunteers continued to work on the project for a short time, but now it is part of the Debian Multimedia Project.
+
+DreamlinuxDreamlinux was a Linux distribution, a collection of computer programs that is designed for the use of the Linux operating system on a computer. The Dreamlinux distribution was made in Brazil, and is based on Debian, another commonly-used Linux distribution. Dreamlinux can be used in Portuguese.
+
+There are several ways to use Dreamlinux to run the Linux operating system on a computer.
+
+Most operating systems have a graphical user interface, or GUI, which allows the user to interact with the programs using a graphical display. The GUI which Dreamlinux uses looks similar to the one used by Apple's Mac OS X operating system, with a toolbar in the center. The user can also download the "Engage" theme, which gives the toolbar some animated aspects.
+
+Cluniac ReformsThe Cluniac (Clunian) Reform was a series of changes within medieval monasticism. The reforms focused on restoring the traditional life in the monasteries. Monasteries should encourage the production of artworks. They should also care for the poor.
+
+The reform is named after the Abbey of Cluny in Burgundy. It started in the Benedictine order there. The reform was largely carried out by Saint Odo. It spread through France (Burgundy, Provence, Auvergne, Poitou), England and much of Italy and Spain.
+
+The reform was stated, because there was corruption in the Benedictine order. People thought this corruption came because people that were not priests and that came from outside the monasteries interfered with them. A Benetictine monastery needed land. This land was given by a Feudal lord. By giving the land, the lord would become the patron of the monastery. However, he would often demand the right to interfere in the business of the monastery. The Cluny reform was an attempt to change this practice. A more independent abbot would have better success at enforcing the Rule of the order, it was thought. William of Aquitaine formed the first Cluny monastery in 910 with the novel stipulation that the monastery would report directly to the pope rather than to a local lord. This meant essentially that the monastery would be independent, since the pope's authority was largely theoretical at that distance.
+
+During its height (about 950–c.
+
+1130) the Cluniac movement was one of the largest religious forces in Europe. Among the most notable reform supporters were Pope Urban II, Lambert of Hersfeld and Abbot Richard of Saint Vannes at Verdun. The Cluniacs were supporters of the Peace of God concept, as well as pilgrimages to the Holy Lands.
+
+Southern, R.
+
+W., "Western Society and the Church in the Middle Ages", London: Penguin Books, 1970.
+
+EliveElive is a Linux distribution based on Debian 10 Buster both for legacy (old) and new hardware. Elive uses the desktop environment Enlightenment. Elive is a Linux Distribution with a Live CD and Persistent USB Image that allows the user to try Elive before installing it on the system and not lose any work.
+
+Elive was born in Belgium prior to 2005 as a private experiment by its founder to customize a Knoppix Live CD running the Enlightenment and with the designs based in the Evil Entity distro, it was called Tezcatlipotix, since the result was better than expected the desire to create a public version started.
+
+Two months later the first public version with the name of Elive appeared publicly, appearing directly in Slashdot.
+
+Elive has access to online repositories of Debian (Buster for beta, Wheezy for old stable) and uses its own repositories with more than 2500 packages that includes own specific software for Elive, extra software, or packages that replaces the default ones provided by Debian, improving the overall system and integrity. Elive comes with a complete set of included software to fit any needs for example free programs as: LibreOffice, Chromium, Firefox, Thunderbird, VLC media player, GIMP, Inkscape, Blender, Skype, Virtual box, Shotwell...
+
+Elive old stable has 3D effects without need of an accelerated graphic card (though is suggested), thanks tot he integration between E17 and Compiz (Ecomorph). The Beta version supports the newest linux kernel and is available both for i686 and amd64 architectures, though it drops the support to E17 (not compatible with the latest Debian Stable release) in favor of E16, which, despite being older, is way more stable and well supported by modern distributions. It is fairly easy to upgrade to E23, which is considered the future Desktop Environment of this OS.
+
+At the moment 3 supported releases are available:All the old releases are available on the official website and shared through Torrent.
+
+The "minimum hardware requirements" for running Elive (32 bit) are:The "minimum recommended hardware requirements" are:

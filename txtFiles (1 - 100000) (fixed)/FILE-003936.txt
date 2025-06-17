@@ -1,0 +1,121 @@
+A. Consider the first theorem and the truth of this first statement “This statement cannot be proved”: proving this first statement would be a contradiction because there would then be a proof for a statement that cannot be proved. For the sake of the consistency of the system, the first statement and hence the first theorem are therefore true but unprovable.
+
+B. Recall from part A that if we were able to prove the first statement then our system would be inconsistent. Thus to prove the consistency of the system, we must prove that the first statement is not provable (ie: prove the contrapositive of the claim “if we were able to prove the first statement then our system would be inconsistent”). Because of self-reference in the first statement “this statement cannot be proved” (ie: proving the first statement is not provable is proving the first statement), therefore proof of the consistency of the system requires proof of the first statement.
+
+C. Recall in part A that consistency of the system is why the first statement is true and unprovable. Hence by the truth of the first statement and the conclusion in part B, it follows that the consistency of the system cannot be proved with the axioms of the system. Hence the second theorem is established. The truth of the first theorem is established in part A.
+
+Importance of Gödel‘s TheoremsThe first theorem is important to mathematicians because it proves that it is impossible to create a set of axioms that explains everything in maths. The second theorem is important because it proves that the soundness of a system, soundness means only logically valid theorems are provable, cannot be proved; this means that you know that you cannot be assured that all proofs conclude in truths.
+
+CiliaA cilium (plural "cilia") is an organelle found in eukaryotic cells. Cilia are slender protuberances that project from the much larger cell body.
+
+There are two types of cilia:In eukaryotes, cilia and flagella together make up a group of organelles known as undulipodia.
+
+Eukaryotic cilia are structurally identical to eukaryotic flagella, although distinctions are sometimes made according to function and/or length.
+
+Motile cilia are found on protist ciliates like "Paramecium". They are how "Paramecium" moves around. They are also found on the epithelial cells of many internal organs of metazoans, such as the digestive system and the trachea of the lungs.
+
+Non-motile (or "primary") cilia usually occur one per cell; nearly all mammalian cells have a single non-motile "primary cilium". In addition, examples of specialized primary cilia can be found in human sensory organs such as the eye and the nose:Cilia are structurally almost identical with the much larger flagella. So much so that it has been proposed protists bearing either should be unified in the Phylum "Undulipodia". Previously, Margulis had proposed that the Ciliates alone should be placed in a Phylum "Ciliophora". Admittedly, the Protista is a collection of disparate single-celled forms, but while a more sophisticated taxonomy is in flux (changing), Protista is still a useful term.
+
+Cilia and flagella are cell organelles, specialised units which carry out well-defined functions, like mitochondria and plastids. It is fairly certain now that all or most of these organelles have their origin in once-independent prokaryotes (bacteria or archaea), and that the eukaryote cell is a 'community of micro-organisms' working together in 'a marriage of convenience'.
+
+Thirty Seconds to MarsThirty Seconds to Mars is an American alternative rock band from Los Angeles. This band was started in 1998 by the actor Jared Leto and his brother Shannon Leto. The current members of the band are Jared Leto (lead vocals) and Shannon Leto (drummer).
+
+Created in 1998 by the actor Jared Leto and his brother Shannon, Thirty Seconds to Mars began as a small family project. Matt Wachter later joined the band as bassist and keyboard player. After working with two guitarists, Kevin Drake and Solon Bixler, the band auditioned Tomo Miličević to join the band.
+
+According to an interview from Virgin Records, the band's name;"Actually comesfrom a thesis that the band found online that was written by a former Harvard professor. And one of the subsections of thethesis was titled "Thirty Seconds to Mars" and he goes on to talk about the exponential growth of technology that relates to humans and saying that we are quite literally thirty seconds to mars. What it means to us is, we thought it best described our music, in short."
+
+Even if Jared Leto is a major Hollywood actor, he prefers not to use this information to "sell" the band and he refuses to play shows where they use his name to promote the band.
+
+The self-titled album was released on August 27, 2002 by Immortal Records and Virgin Records, produced by Bob Ezrin and Brian Virtue. The first single, "Capricorn (A Brand New Name)", peaks at number 31 an the Billboard's "Mainstream Rock Tracks". In the music video, the band members are in a desert where people are digging in mud pits. The band is playing in a ditch where others are watching them.
+
+The second single is "Edge of the Earth". The music video is created by a series of live clips of Thirty Seconds to Mars. It represents when Tomo Miličević joined in the band.
+
+Their second album, "A Beautiful Lie", was released on August 30, 2005 by Immortal Records and Virgin Records, produced by Josh Abraham. The first single, "Attack", brought Thirty Seconds to Mars to world success. The video for the song was filmed in an abandoned hotel in Hollywood.
+
+In January 2006 this album was certified platinum by the Recording Industry Association of America for distribution of over one million albums. In March 2006 the band began their first tour from headliner, called "Forever Night, Never Day". In October 2006 the band began their "Welcome to the Universe Tour", sponsored by MTV2.
+
+The second single from the album is "The Kill", and it follows the success of the precedent single. It spent 52 weeks on the Billboard's "Modern Rock Tracks". The music video is based on the American film "Shining". This single won the MTV2 Award at the MTV Video Music Awards, Best Single at the Kerrang! Awards, Best Live Action at the MTVu Woodie Awards, Video of the Year and Best Rock Video at the MTV Australian Music Awards and Best Video Inspired By Film at the Fuse Chainsaw Awards. This single was also at number 18 on MTV Italy's list of Top 100 Hits of 2007.
+
+On March 1, 2007, while on tour in El Paso, Texas, Jared Leto announced to the arena that was the last concert of Thirty Seconds to Mars with Matt Wachter. He dedicated the final song of the show, "R-Evolve", to Matt. They are also played in various festivals as Roskilde, Rock am Ring, Pinkpop, Give It A Name and Download.
+
+The third single from the album is "From Yesterday" and it is a success too. The music video is based on the Italian film "The Last Emperor". It is the first American rock video ever shot in its entirety in the People's Republic of China. This single peaks at number 1 on Billboard's "Modern Rock Tracks", and also in Europe, Bolivia and Latvia Singles Chart. At this time, Thirty Seconds to Mars won also Best Artist at the TRL Awards Italy, Best Rock Artist at the MTV Europe Music Awards, Best of 2007 at the Fuse Awards and Best International Artist at the Bandit Rock Awards.
+
+The fourth single from the album is "A Beautiful Lie" and it is very success. The video is a montage of images of the Greenland, with scenes of the band playing on an iceberg. The single won the Video Star at the MTV Asia Awards and at the MTV Europe Music Awards, and in 2009 it was certified gold by MTV International. In April 2008, Thirty Seconds to Mars released only in Argentina the fifth single from the album, "The Story".
+
+Thirty Seconds to Mars in 2008 won Best Single for "From Yesterday" and Best International Band at the Kerrang! Awards, Best Rock Artist International at the MTV Latin America Awards and Best Rock Artist at the MTV Europe Music Awards where were one of the hosts.
+
+In August 2008, Virgin Records filed a $30 million lawsuit, claiming the band refused to deliver three albums as required by its contract. According to the lawsuit, the band "repudiated" a 1999 contract in July.
+
+On February 11, 2009 issue of Kerrang!, the working title for the new album is said to be "This Is War". On Twitter, Jared released a bit of information about his trip to Haiti, and recorded a song called "Hurricane" with Kanye West and Brandon Flowers of The Killers.
+
+On April 28, they returned from EMI and the lawsuit was annulled.
+
+Soon after the announcement of the lawsuit settlement, Thirty Seconds to Mars told MTV News have promised to release "This Is War" by October 2009. According to their Twitter, they have at least four songs done for their new album on May 27. Although these dates have been changed many times, Thirty Seconds to Mars have announced that This Is War will be released December 8, 2009.
+
+Metal Gear Solid 2: Sons of LibertyMetal Gear Solid 2: Sons Of Liberty is an action stealth video game created by Konami Computer Entertainment Japan and published by Konami for the PlayStation 2 in 2001. It is the 4th Metal Gear game produced and directed by Kojima and the second to Metal Gear Solid. Its release was followed by an extended edition, Metal Gear Solid 2: Substance for PlayStation 2, Xbox and Windows. Two main characters including Solid Snake (Iroquois Pliskin, who people assume he died in Shadow Moses) and Raiden, whose code-name was Snake and was changed, because the terrorist leader who called themselves Sons Of Liberty was Solidus Snake.
+
+Mino ReitanoMino Reitano (December 7, 1944 – January 27, 2009) was an Italian singer and actor.
+
+Mino Reitano was born into a poor family at a very small city called Fiumara, in the province of Reggio Calabria. He studied for eight years at Reggio's conservatory, where he learned to play violin, piano and trumpet.
+
+Reitano died of colorectal cancer.
+
+Closed-circuit televisionClosed-circuit television (CCTV) is the use of video cameras to send a signal to a certain place, on a small set of monitors. It is often used to watch for trouble.
+
+Gene OkerlundEugene "Mean Gene" Okerlund (December 19, 1942 – January 2, 2019) was an American pro wrestling commentator and announcer. He was most known for his time with both then-World Wrestling Federation (WWF), now World Wrestling Entertainment (WWE), and World Championship Wrestling (WCW). He was the host of WWE Vintage Collection.
+
+Okerlund died on January 2, 2019 at a hospital in Sarasota, Florida of complications from a fall at the age of 76.
+
+SQL slammer wormThe SQL slammer worm (also known as W32.
+
+SQLExp.
+
+Worm) was a highly damaging computer worm that spread on the internet in early 2003.
+
+The SQL worm mainly attacked computers that had Microsoft SQL Server 2000 or Microsoft Desktop Engine 2000 on them. The worm also produces a Denial-of-Service attack on some websites and computers because it sends too much data.
+
+In June 2002, Microsoft released a patch that fixed the weakness that the SQL worm attacked. However, many people did not fix the weakness. In January 2003, the worm was released. Within ten minutes of its release, it had attacked and infected 75,000 internet servers. Bank of America was one of the largest companies affected by the worm. Many of its ATM's would not work for consumers. The damage got worse, and on January 25, 2003, the worm cause a global internet slowdown. The worm was reported to have interfered with 911 calls and was responsible for many canceled flights.
+
+During its lifetime in 2003, the SQL worm caused about 1 billion U.
+
+S Dollars in damage.
+
+Computer wormA computer worm is a kind of malware that is able to copy itself, and spread. Unlike a computer virus, this is done without changing files on a computer, and without affecting the boot sector of media. Worms do not need human help to reproduce. Worms spread over networks, or on removable media like USB flash drives. They almost always need a helper program that is able to access the network, or that executes when a new medium is inserted.
+
+In that way, a Worm could start a program to send electronic mail, and send itself on to all the addresses in the address book of the email application. A very famous worm that appeared in 2000 was called ILOVEYOU (or "Love Letter"), it sent a simple mail with the subject ILOVEYOU, and an attachment of a document that contained the worm code.
+
+Worms usually do not cause direct damage to a system. But they consume memory and network bandwidth, slowing down the computer. This makes it almost impossible to work with. Other examples of Worms are CodeRed and Sircam.
+
+Lee Keun-hoLee Keun-ho (, born: 11 April 1985) is a South Korean professional athlete. He is best known as an association football player. He was a member of the Korean national team.
+
+Lee plays in forward position, and usually Wing-Forward (at the side). He was born on April 5th, 1985. He is now playing for Daegu FC. His height is 176 cm, and his weight is 71 kg. He graduated from Bu-pyeong High School. His nickname is 'Eagle'.
+
+He joined Incheon United in 2005, but he stayed in the second team despite his potential ability. However, after he moved to Dae-gu FC, he played at his best. After that, many people became interested in him, and he was able to join the Korean National Team.
+
+He got his first goal for the National Team in June 29th, 2007. That game was against Iraq. It was his first game for the National Team.
+
+After that game, he perform a meritorious deed, also in his club team.
+
+On October 11th, 2008, he scored 2 goals in the game agains Uzbekistan. Because of this, it was much easier for the Korean National Team to get to the World Cup.
+
+Nowadays, he is one of the main players of the national team, and he is trying to move to a European club team.
+
+CowpeaThe cowpea ("Vigna unguiculata") is one of several species of the widely grown genus "Vigna". The black-eyed pea is an example.
+
+Mungo Park (explorer)Mungo Park was a Scottish explorer of Africa. He was born in Foulshiels near Selkirk on September 11, 1771 and died in 1806 in Yelwa, Nigeria. He was the first Westerner (person from the Western Hemisphere) to visit the higher parts of the Niger River.
+
+Royal Rumble (2009)Royal Rumble (2009) was a wrestling pay-per-view (PPV) made by World Wrestling Entertainment (WWE). It took place in Detroit, Michigan at the Joe Louis Arena. The event was held on January 22, 2009.
+
+The event had the 22nd annual Royal Rumble match as the main event, which Randy Orton won. One of the matches was Jeff Hardy defending his WWE Championship against Edge. Another was John Cena defending his World Heavyweight Championship against John "Bradshaw" Layfield with his employee Shawn Michaels. A third match was Jack Swagger defending his ECW Championship against Matt Hardy. The last match was Beth Phoenix defending her WWE Women's Championship against Melina.
+
+450,000 paid to see the event. This was down from 533,000 the year before.
+
+The main match in the Rumble was the yearly Royal Rumble match. The match starts with two wrestlers with another wrestler coming to the ring every 90 seconds until all 30 have entered. The match ends when one wrestler remains in the ring. This is after all 29 other wrestlers have been eliminated by being thrown over the top ring rope and having both feet touch the floor. The winner was given a championship match for the WWE, World Heavyweight, or ECW Championship at WrestleMania XXV.
+
+The main rivalry from the Raw brand was John "Bradshaw" Layfield (JBL) challenging John Cena for the World Heavyweight Championship. JBL earned his championship match against Cena after winning a Fatal Four-Way elimination match on the December 29, 2008 episode of "Raw" by beating Chris Jericho, Randy Orton, and Shawn Michaels.
+
+Another rivalry from the Raw brand was Melina challenging Beth Phoenix for her WWE Women's Championship in a singles match Melina won the chance to face Phoenix on the December 29, 2008 episode of "Raw" by winning a battle royal.
+
+The main rivalry from the SmackDown brand going into the Royal Rumble was Jeff Hardy and Edge fighting over the WWE Championship. At WWE's last pay-per-view event, Armageddon, Hardy defeated Edge and Triple H in a Triple Threat match, a match with three wrestlers, to win the WWE Championship. On the January 2, 2009 episode of "SmackDown", Vickie Guerrero said that Edge would face Hardy for the WWE title at the Royal Rumble.
+
+ECW's main rivalry was Jack Swagger and Matt Hardy fighting over the ECW Championship. On the January 13, 2009 episode of "ECW", Swagger beat Hardy to win the ECW Championship. On the January 16 episode of "SmackDown", it was announced that Swagger would defend the ECW title against Hardy in a match at the Royal Rumble.

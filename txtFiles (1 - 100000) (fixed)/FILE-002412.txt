@@ -1,0 +1,115 @@
+There is a special type of MvM known as "Mann Up" mode. In Mann Up mode, players complete "Tours" using "Tour of Duty Tickets" or "Squad Surplus Vouchers" they have bought from the online store, known as the Mann Co. Store. Each "Operation" has a specific number of Tours in them. Finish all the waves in a Tour and all the Tours to complete the Operation. Different Tours are for different skill levels and have different robots. Completing Tours and Operations will give the players "loot" or special in-game cosmetic items players use to customize their character. In Mann Up mode, the gameplay (upgrades, maps, robots) are the same in standard MvM.
+
+In PASS Time, There are three matches. Two teams fight to score a goal with a ball known as the JACK. There are 3 goals. Run in goals, Throw in goals and Bonus goals. When a team scores a goal at the enemy team's Run in or Throw in goals, They give The scoring team 1 point. If a team scores a goal at the enemy team's Bonus goal, Always shown as tall towers, The scoring team gets 3 points and the Bonus goal closes. Players are able to Pass to other players in order to get the Bonus goals open on both sides. Passes can also be interrupted by enemy players. The first team to score 5 points wins the round. If a team wins 2 matches, they win the entire game. In PASS time, there are only 4 maps.
+
+Valve Corporation posted several animations using their Source Film Maker (commonly abbreviated as SFM) program from 2009 to 2012. Each one of these videos are short skits using humorous depictions of the 9 Team Fortress 2 classes in their real lives, and out in battle. Some of these videos have been viewed many times with, "Meet The Medic", at 57 Million views. And, "Meet The Spy", at 30 Million views, and more.
+
+The original "Team Fortress" was developed by Robin Walker and John Cook. This early version of "Team Fortress" was a free mod for the 1996 PC game "Quake". In 1998, Walker and Cook were employed by Valve. At the time, Valve just released its first game, "Half-Life." Valve began developing "Team Fortress 2" as a separate retail game using one of Valve's own game engines, GoldSrc. In 1999, Valve released "Team Fortress Classic," a port of the original "Team Fortress," as a free "Half-Life" mod. "Team Fortress Classic" was developed using the publicly available "Half-Life" software development kit as an example to the community and industry of the flexibility of the "Half-Life" game.
+
+Unlike the original "Team Fortress," Valve originally planned "Team Fortress 2" to have a modern war theme. It would feature a command hierarchy including a Commander class, parachute drops over enemy territory, networked voice communication, and many other unique features. The Commander class played similarly to a real-time strategy game, with the player viewing the game from a bird's-eye perspective and issuing orders to players and AI-controlled soldiers."
+
+Team Fortress 2" was first shown at the trade event E3 1999. At E3 1999, Valve had showcased new technologies that they had developed while making "Team Fortress 2". This included parametric animation, which blended animations for smoother, more lifelike movement. The game also showcased Intel's multi-resolution mesh technology, which increased performance for the game by reducing detail of on-screen elements that are far away from the screen. The game earned several awards including Best Online Game and Best Action Game.
+
+In mid-2000, Valve announced that "Team Fortress 2" had been delayed for a second time. They stated that they delayed "Team Fortress 2" because they were going to make Team Fortress 2 run on an engine they own, the Source engine. After their official announcement of the delay of "Team Fortress 2", Valve stopped releasing information about the game. Later, the game entered six years of silent development. Walker and Cook worked on various other Valve projects; Walker was project lead on "" and Cook became a Steam developer."
+
+Team Fortress 2" became a prominent example of vaporware. It was a long-anticipated game that had seen years of development, and was often mentioned alongside another much-delayed game, "Duke Nukem Forever." Walker later stated that Valve built "three to four" different versions of "Team Fortress 2" before settling on their final design. Shortly before the release of "Half-Life 2" in 2004, Valve's marketing director Doug Lombardi confirmed that "Team Fortress 2" was still in development. Valve reintroduced "Team Fortress 2" at the July 2006 EA Summer Showcase event with a much different visual design"."
+
+Valve reintroduced "Team Fortress 2" at the July 2006 EA Summer Showcase event with a much different visual design. Instead of having realistic visual design like other Valve games, "Team Fortress 2" features a cartoon-like visual style influenced by 20th-century commercial illustrations and the artwork of J. C. Leyendecker, Dean Cornwell, and Norman Rockwell, achieved through a visual technique called Gooch shading. "Team Fortress 2" was first launched with the Source engine's new dynamic lighting, shadowing and soft particle technologies, and gave the same visual enhancements to "", another one of their games. "Team Fortress 2" was the first game to use the Source engine's new Facial Animation 3 features.
+
+Valve abandoned the realistic style when it became impossible to balance it with the unrealistic gameplay. For example, it is not realistic to have opposing armies to construct heavily detailed bases directly next to each other. The Commander class was abandoned because players would simply refuse to follow the player's orders.
+
+Valve designed each character, team, and equipped weapon to be easy to identify, even at long range. For example, the coloring draws attention to the chest area, bringing focus on the equipped weapon. The voices for each of the classes were based on imagining what people from the 1960s would expect the classes to have sounded like, according to writer Chet Faliszek.
+
+The map design has an "evil genius" theme. In typical maps, there are colored enemy buildings on opposite sides of the two enemies. Enemy buildings have a complex set of pathways that the player must go through to reach the objectives. These buildings are often concealed within various other constructed objects in between. Between each enemy side, maps are usually separated by a neutrally themed space. The bases hide exaggerated super weapons such as laser cannons, nuclear warheads, and missile launch facilities, taking the role of objectives. The maps are designed to have little visual clutter and have a theme, as well as have enough careful attention to effective visual design while still allowing enemies to be spotted more easily. This is achieved by using "impressionist modeling". The textures used in-game are based on photos that are filtered and improved by hand, making them look visually appealing and giving "Team Fortress 2" its distinct look. The bases are designed to let players immediately know where they are. RED bases use warm colors (e.
+
+g. red), natural materials, and angular shapes (e.
+
+g. circles). On the other hand, BLU bases use cool colors (e.
+
+g. blue), industrial materials, and orthogonal shapes (e.
+
+g. squares).
+
+During the July 2006 Electronic Arts press conference, Valve revealed that "Team Fortress 2" would arrive as the multiplayer component of "The Orange Box". In a conference trailer, the whimsical new visual style of "Team Fortress 2" of all nine mercenary classes were shown. Managing director of Valve Gabe Newell said that the company's goal was to create "the best looking and best-playing class-based multiplayer game". On September 17, 2007, a beta release of the entire game was released to Steam. On the same date, a the same beta release of the entire "Team Fortress 2" game was made available for customers who had pre-purchased "The Orange Box", as well as for customers who had activated their "Black Box" coupon. The "Black Box" coupon was included with the ATI HD 2900XT Graphics cards. The beta of "Team Fortress 2" was also given to members of Valve's Cyber Café Program. The beta continued until the game's final release.
+
+The game was released on October 10, 2007, both as a standalone product via Steam and at retail stores as part of "The Orange Box" compilation pack. Both the Steam version and the retail "The Orange Box" compilation packs were priced at each gaming platform's recommended retail price. "The Orange Box" also contains "Half-Life 2", "Half-Life 2: Episode One", "Half-Life 2: Episode Two", and "Portal". Valve offered "The Orange Box" at a ten percent discount for those who pre-purchased it on Steam before the October 10 release, as well as the opportunity to participate in the beta test.
+
+Big BlackBig Black was an American punk rock band. The band formed in 1981 with Steve Albini playing all of the instruments and a drum machine for percussion.
+
+Big Black's music was very loud and distorted. Many Big Black songs are about violence.
+
+Company of HeroesCompany of Heroes is a strategy video game where you control soldiers in order to win. It is based on World War II.
+
+Game &amp; WatchThe Game & Watch is a series of small, hand-held video games made by Gunpei Yokoi of Nintendo from 1980 to 1991. The games were usually simplistic (For example, "Chef" required keeping food in the air). The Game & Watch was invented before the Game Boy. Until 1985 with the Nintendo Entertainment System, the Game & Watch was Nintendo's only foothold in the North American video game market.
+
+is the main character in Game & Watch that also appeared in "Super Smash Bros. Melee" and "Super Smash Bros. Brawl."
+
+FecundityFecundity, coming from the word "fecund", generally means the ability to reproduce.
+
+In biology and demography, fecundity is the ability to reproduce of an organism or population, measured by the number of gametes (eggs), seed set or asexual propagules. Fecundity is under both genetic and environmental control, and is the major measure of biological fitness. "Fecundation" is another term for fertilisation.
+
+Fecundity can increase or decrease in a population according to current conditions and certain regulating factors. For instance, in times of hardship for a population such as a lack of food, juvenile and eventually adult fecundity may decrease.
+
+In the philosophy of science, 'fecundity' refers to the ability of a scientific theory to open new lines of theoretical inquiry. Here, the original meaning is extended by analogy.
+
+Séan T. O'KellySeán Thomas O'Kelly (; 25 August 1882 – 23 November 1966) was the second President of Ireland from 1945 to 1959. He was a member of Dáil Éireann from 1918 until he became President. In the Dáil he was Minister for Local Government (1932–1939) and Minister for Finance (1939–1945). O'Kelly was Vice-President of the Executive Council from 1932 until 1937 and was the first Tánaiste of Éire from 1937 until 1945.
+
+O'Kelly was born in Dublin on Capel Street in the north inner-city Dublin. He joined the National Library of Ireland in 1898 as a junior assistant. The same year, he joined the Gaelic League, becoming a member of the governing body in 1910 and General Secretary in 1915.
+
+In 1905 O'Kelly joined Sinn Féin. Sinn Féin then wanted a dual-monarchy. He was an honorary secretary of the party from 1908 until 1925. In 1906 he was elected to Dublin Corporation, which was Dublin's city council. He stayed until 1924.
+
+Pádraig Pearse made O'Kelly his helper when Pearse was getting ready for the Easter Rising.
+
+After the Easter Rising in 1916, O'Kelly was put in jail, released, and put in jail again. He escaped from jail in Fairfield in the UK, and came back to Ireland.
+
+O'Kelly was elected Sinn Féin MP for College Green in the 1918 British general election. Along with other Sinn Féin MPs he refused to take his seat in the British House of Commons. Instead they set up an Irish parliament, called Dáil Éireann, in Dublin. O'Kelly wasCeann Comhairle(Chairman) of the First Dáil. He was the Irish Republic's envoy to the post-World War One peace treaty negotiations at Versailles, but the other countries refused to allow him to speak, because they did not recognise the Irish RepublicO'Kelly was a close friend of Éamon de Valera, and both he and de Valera opposed the Anglo-Irish Treaty of December 1921.
+
+When de Valera resigned as President of the Irish Republic on 6 January 1922, O'Kelly returned from Paristo try to ask de Valera to return to the presidency. A de Valera was very angry and ordered O'Kelly to return to Paris.
+
+During the Irish Civil War, O'Kelly was in jail until December 1923. Afterwards he spent the next two years as a Sinn Féin envoy to the United States.
+
+In 1926 when de Valera left Sinn Féin to found his own republican party, Fianna Fáil, O'Kelly followed him, becoming one of the party's founding members. In 1932, when de Valera, was appointed President of the Executive Council (prime minister) of the Irish Free State he made O'Kelly Minister for Local Government. O'Kelly often tried to publicly humiliate the Governor-General of the Irish Free State, James McNeill. Stunts such as withdrawing the Irish Army's band from playing at diplomatic functions which the Governor-General attended, or in one notorious case the sight of O'Kelly and Defence Minister Frank Aiken storming out of a diplomatic function at the French Legation when McNeill, the guest of honour, arrived, damaged O'Kelly's reputation and image, particularly when the campaign backfired.
+
+Before resigning, McNeill published his letters to de Valera about this. It made de Valera appear foolish, and made de Valera choose a new Governor-General. To the surprise of many, O'Kelly was not considered for the office. Instead former Fianna Fáil TD, Domhnall Ua Buachalla from County Kildare, would be the last Governor-General.
+
+In 1938, many thought that de Valera wanted to make O'Kelly the Fianna Fáil choice to become President of Ireland, under the new Irish constitution, Bunreacht na hÉireann. When Lord Mayor of Dublin, Alfie Byrne, said he wanted to be president there was an all party agreement to nominate Dubhghlas de hÍde, a Protestant Irish Senator, Irish language enthusiast and founder of the Conradh na Gaeilge. They thought de hÍde was the only person who might win an election against Alfie Byrne. O'Kelly became Minister of Finance instead, and helped create Central Bank in 1942.
+
+O'Kelly left the cabinet in 1945 when he was elected President of Ireland in a popular vote of the people, defeating two other candidates.
+
+O'Kelly was re-elected unopposed in 1952. During his second term he visited many nations in Europe and spoke to the United States Congress in 1959. He retired at the end of his second term in 1959, to be replaced by his old friend, Éamon de Valera.
+
+O'Kelly did not refer any Bills to the Supreme Court to see if they were legal, but he did ask his official advisors, called the Council of State, if he should refer the Health Bill, 1947 but he decided not to.
+
+O'Kelly's strong Roman Catholic beliefs sometimes caused problems. De Valera often thought that O'Kelly leaked information on purpose or accidentally to the Knights of Columbanus, and the Church leaders. O'Kelly ensured that his first state visit, following the creation of the Republic of Ireland in 1949, was to the Vatican to meet Pope Pius XII. O'Kelly accidentally revealed the Pope's private views on communism. This angered the Pope and Stalin. This is why he was not given the papal Order of Christ which was given to many Catholic heads of state.
+
+When he retired as president in 1959, he was described as a model President by the normally hostile Irish Times newspaper. Though controversial, O'Kelly was widely seen as a genuine and honest, but tactless.
+
+He died on November 23, 1966 (aged 84), fifty years after the Easter Rising that first brought him to prominence. He is buried in Glasnevin Cemetery, Dublin.
+
+Mary Kate Ryan and O'Kelly were married from 1918 until Mary Kate's death in 1934.
+
+In 1936 he married his second wife Phyllis Ryan, who was Mary Kate's sister. Another sister was married to Fine Gael leader General Richard Mulcahy, and a brother was Fianna Fáil minister, James Ryan. O'Kelly died in Dublin.
+
+Teachta DálaA Teachta Dála, is a member of Dáil Éireann, the lower house of the Irish parliament. Usually only the initials TD are used, after the person's name.
+
+The letters are used in the same way that MP is used to show that someone is a Member of Parliament in the United Kingdom.
+
+Léo DelibesLéo Delibes (born St. Germain-du-Val, France, 21 February 1836; died St. Germain-du-Val 16 January 1891) was a French composer of Romantic music. He is particularly famous for his ballets, especially "Coppélia", and operettas and operas, of which "Lakmé" is the most famous.
+
+Delibes’s father worked for the post office. His mother was musical and played the piano. Her father, the composer’s grandfather, had been a baritone in the Opéra-Comique and she had a brother who was an organist and professor at the Paris Conservatoire.
+
+When Delibes’s father died in 1847 his family moved to Paris so that the young Léo, who was 11, could continue having a good musical education. At first he found it difficult living in a large city as he was used to the countryside. He was a student of the well-known composer and teacher Adolphe Adam. At first he did well in his music lessons and won prizes, but after a few years he no longer won any prizes. He never tried to win the Prix de Rome which is what all French students of composition normally want to do. As a young boy he sang in choirs. Later he became a church organist and an accompanist at the Théâtre-Lyrique.
+
+Soon Delibes started to composer operettas. He wrote 14 operettas in 14 years. He was commissioned to write some music to celebrate the emperor’s return from Algiers. The piece he wrote was called "Alger". It was a huge success. The emperor gave him a gold medal, personally fastening a pin with diamonds to his lapel. In 1864 he became chorus master at the Opéra where he coached the chorus to sing many famous operas. Two years later he started to write ballets. These became very successful and three years later he stopped writing operettas.
+
+In 1870 his ballet "Coppélia" was produced. By 1884 it had been performed 100 times. Together with "La Sylphide" and "Giselle" it was one of the most popular of all ballets. The story is about a man who makes a mechanical doll. Another popular ballet he wrote was "Sylvia". His most successful opera was "Lakmé" which was first performed at the Opéra-Comique in 1883. It gives great opportunity for the main soprano, especially in the song called the "Bell Song". Musicians usually think "Lakmé" is his greatest work.
+
+Delibes died in 1891, and was buried in the Cimetière de Montmartre, Paris.
+
+Delibes started to compose at a time when ballet had become less popular in France than it had been earlier. Around the time of the Revolution there had been lots of performances of ballet, but during the 19th century there was less interest with the exception of "La Sylphide" and "Giselle". Delibes was to change that. He had a great gift for writing easy melodies. At one time he thought he ought to compose like Wagner, using richer harmonies and leitmotifs, but fortunately he chose not to, following instead the style to which he was so well suited. "Coppélia" is in the repertoire of all major ballet companies, and several of its tunes are familiar to people even if they do not know where they come from.
+
+The Flower duet from "Lakmé" became particularly well known in recent years through an advert for British Airways.
+
+RugratsRugrats is an American animated television series. It was created by Arlene Klasky, Gábor Csupó, and Paul Germain for Nickelodeon. The series focuses on a group of toddlers —Tommy, Chuckie, Angelica and the twins Phil and Lil. It follows their day-to-day lives. The stories usually involving life experiences that become much greater adventures in the imaginations of the main characters.
+
+The series was first broadcast on August 11, 1991. It was the second Nicktoon. It was aired after "Doug" and before "The Ren & Stimpy Show". The first part of the series ended in 1994. It had 65 episodes in three seasons. The last episode was aired on May 22, 1994. From 1995 to 1996, the only new episodes broadcast were "A Rugrats Passover" and "A Rugrats Chanukah". Both were Jewish-themed episodes that were well liked by critics. During this time, "Rugrats" began to get better ratings and became more popular because of reruns on Nickelodeon and Noggin.

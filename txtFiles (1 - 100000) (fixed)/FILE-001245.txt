@@ -1,0 +1,89 @@
+These particles have all been seen either in nature or in the laboratory. The model also predicts that there is a Higgs boson. The model says that fermions have mass (they are not just pure energy) because Higgs bosons travel back and forth between them. The Higgs boson is believed to have been discovered on July 4th, 2012. It is the particle that gives mass to other particles.
+
+There are four basic known forces of nature. Three of these forces affect fermions, and are carried by bosons traveling between those fermions. The standard model explains these three forces.
+
+The other force affects all particles (fermions and bosons) and is not known to have an associated boson.
+
+The strong and weak forces are only seen inside the nucleus of an atom. They only work over very tiny distances: distances that are about as far as a proton is wide. The electromagnetic force and gravity work over any distance, but the strength of these forces goes down as the affected objects get farther apart. The force goes down with the square of the distance between the affected objects: for example, if two objects become twice as far away from each other, the force of gravity between them goes down to a quarter (2=4).
+
+The standard model falls short of being a theory of everything.
+
+The standard model is believed to be theoretically self-consistent. It has demonstrated huge and continued successes in experimental predictions, but it does leave some things unexplained.
+
+Moldovan languageMoldovan () is the official language of Moldova. It is almost the same as Romanian. The main difference is that Moldovan was written in the Cyrillic alphabet because Moldova was part of the Soviet Union until 1989. In 1989, Moldova became its own country and started to use the Latin alphabet, which is used in Romania. On 5 December 2013, the Moldovan government chose Romanian as the official language.
+
+In the unrecognized state of Transnistria, one of the official languages is still Moldovan and is still written with the Cyrillic alphabet. The other official languages are Russian and Ukrainian.
+
+List of states with limited recognitionIn international law a political entity needs to fulfill different criteria to become an independent state: One of these criteria is that other states must recognize it as a state. If more states recognize it, becoming a "de jure" sovereign state will be easier.
+
+Many of the territories listed below broke off (separated themselves) from their original parent state, and so they are often referred to as "break-away" states, that are "de facto" independent and are not recognized by other states or are only recognized by few states. They may have some military protection and informal diplomatic representation abroad. Another state may help them avoid forced reincorporation into its original state.
+
+United Nations member states that are not recognized by all the other UN members are not listed here. (For example, 39 countries do not recognize Israel.)
+
+Created by the Republic of South Africa from its own territoryThese regimes had control over the territory of a country for which most other states recognized a different government as being the legitimate government:Electrical resistanceThe electrical resistance of an electrical conductor is a measure of the difficulty of passing an electric current through a substance. It explains the relationship between voltage and the current. With more resistance in a circuit, less electricity will flow through the circuit. The inverse of resistance is conductance, a measure not much used. All objects have some resistance, except superconductors.
+
+Resistance, discovered by Georg Simon Ohm in 1827, is the ratio between voltage and current. Ohm's law said that the voltage between any two points in a conductor changes directly as the current between the two points, given the temperature remains the same. He described it with the equation:which models the ratio, where:A long and thin wire has more resistance than a short and thick one. A simple analogy is a road - the more lanes there are, the more cars can go through. The resistance formula_2 of a wire with a constant width, therefore, can be calculated as:where formula_7 is the length of the conductor, measured in meters [m], formula_8 is the cross-sectional area of the conductor measured in square meters [m²], and formula_9 (Greek: rho) is the electrical resistivity (also called "specific electrical resistance") of the material, measured in ohm-meters (Ω m).
+
+Example:Calculate the resistance of copper wire with a radius of 2mm and a length of 5 meters.
+
+Solution:Because: formula_16formula_17Resistors are used in electrical circuits to provide electrical resistance.
+
+Electromagnetic inductionElectromagnetic induction is where a voltage or current is produced in a conductor by a changing magnetic flux. It may happen when a magnet is moved in a solenoid, or when a solenoid is constantly moved in a stationary magnetic field, thus changing the magnetic flux.
+
+When a coiled wire is introduced near a magnet, the magnetic lines of force pass through the coil. This causes the magnetic flux to change.
+
+Magnetic flux is represented by the symbol formula_1, therefore we can say that formula_1 = BAcos(a) and the resulting unit will be formula_3, where T is the unit for magnetic field and formula_4 is the unit for area.
+
+The changing magnetic flux generates an electromotive force (EMF). This force moves free electrons in a certain way, which constitute a current.
+
+Michael Faraday found that an electromotive force is generated when there is a change in magnetic flux in a conductor.
+
+His laws state that:formula_5where,formula_6 is the electromotive force, measured in volts;formula_7 is the change in magnetic flux, measured in webers;formula_8 is the change in time, measured in seconds.
+
+In the case of a solenoid:formula_9where,N is the number of loops in the solenoid.
+
+The negative sign in both equation above is a result of Lenz's law, named after Heinrich Lenz. His law states that the electromotive force (EMF) produces a current that opposes the motion of the changing magnetic flux.
+
+BBC PromsThe Proms are concerts which are part of a big music festival. “Proms” is short for “Promenade Concerts”. The Proms are organized by the BBC, so they are called the “BBC Proms”. They take place in the Royal Albert Hall, in London from mid-July to mid-September every year.
+
+The Proms started more than 100 years ago, in 1895. Concerts were expensive in those days, and not many people had enough money to go and hear good music. Most people were only able to hear good music when they went for walks in the London parks where there were Promenade concerts. Orchestras and bands played in bandstands. Most of the music was popular and easy to listen to. People could enjoy the music while they walked about.
+
+In the centre of London there was a building called the Queen's Hall. A man called Robert Newman organized concerts there. He had an idea. He wanted to start a series of concerts which ordinary people (people who were not rich) could afford to go to. He wanted to start a series of “promenade concerts” (in French “se promener” means “to walk”). The idea was that people could have standing places which would not cost much money. There would also be seats for people who could afford to pay more.
+
+Robert Newman knew a very good young conductor, Henry Wood. He asked him to be the conductor of the Proms. A man called Dr Cathcart gave them enough money to get an orchestra together. On 10 August 1895 the first Promenade Concert took place in the Queen’s Hall. The price of a promenade ticket (a ticket for a standing place) was one shilling.
+
+The Promenade Concerts were a big success, and soon became known as the "Henry Wood Promenade Concerts". Wood conducted both popular music and the classical works of Mozart, Beethoven, Mendelssohn, Tchaikovsky, Brahms and Wagner, as well as some English composers. Wallace and Cowan, popular then, have today faded from the scene, although Elgar and Delius have survived due to Wood's Proms. This broke the convention that famous composers, conductors and singers could not be English.
+
+Some of the music Wood conducted was very new indeed. In 1912 he conducted a piece called “Five Orchestral Pieces” by an Austrian composer Arnold Schoenberg (1874-1951). Its initial lack of appreciation was overcome by inviting Schoenberg to come to England and conduct it himself in 1914.
+
+Henry Wood conducted almost all of the Proms for fifty years, until just before his death in 1944. His innovations with the orchestra staff were to abolish deputies (allegedly in 1904 when, at one rehearsal, none of the regular orchestra, and only deputies attended). Forty members of the orchestra were offended by that decision, and broke away to form what is now the London Symphony Orchestra. In 1913, Wood was also the first English conductor to appoint women to play in his orchestra.
+
+In 1927 the BBC started to fund Proms. The radio was a new invention (then termed the “wireless”). Radio broadcasts increased interest in attending live concerts. In 1930 the BBC Symphony Orchestra was formed, playing at a majority of Prom concerts.
+
+In 1941, during World War II, the Queen’s Hall was destroyed by bombs. The Proms continued to take place in the Royal Albert Hall. Then it became too dangerous in London and the Proms were held in Bristol and then Bedford. After the War the Proms went back to the Royal Albert Hall. They have been held there ever since. From the 1940s to the late 1960s the BBC Symphony Orchestra played at most of the concerts under the very popular conductor Sir Malcolm Sargent whose Last Night speeches became legendary for their wit.
+
+Today the Proms are very different from when they started. It is much more international. The BBC Symphony Orchestra play several concerts each season but there are lots of other orchestras from all over the world who come to play. People can hear different kinds of music at the Proms: not just classical music but jazz and music from far-away countries. In 2005 the famous Indian musician Ravi Shankar played the sitar at one of the Proms. In 2008 the violinist Nigel Kennedy played the "Violin Concerto" by Edward Elgar with the BBC Concert Orchestra, then came back an hour later to give a Late Night Prom of jazz music with the Nigel Kennedy Quintet.
+
+The Proms also include special activities for children. The television programme Blue Peter put on a Blue Peter Prom which is given twice during the weekend at the beginning of the school holidays in late July. In the 2007 season they organized a special Brass Day where children could take part with their instruments. BBC Music Intro put on workshops in the late afternoon for children and their families to learn about music. In 2008 there was a Dr Who prom which was extremely popular, especially with children. This theme will be repeated in 2010.
+
+Henry Wood encouraged composers to write new music by performing it at the Proms. Today this tradition continues as the BBC often commission composers to write new music for the Proms. Some pieces which had their first performance at the Proms have become very well-known, e.
+
+g. "The Confession of Isobel Gowdie" by James MacMillan (first performed in 1990), or John Tavener's "The Protecting Veil" (first performed in 1989).
+
+For many years now every Prom has been broadcast live on BBC Radio 3. Some of them are shown on television, either on BBC2 or on BBC4 where viewers can, if they wish, read comments about the music as it is played. People can also listen to the Proms for several days afterwards on the Proms website.
+
+There is a Prom every night (i.
+
+e. every evening) for two months during the summer. The last concert is called the “Last Night of the Proms”. It is very famous and millions of people can watch it on television in lots of countries all over the world. Some people who go to the Last Night dress up in funny clothes and wave flags. They hear a piece of music called "Fantasia on British Sea Songs", written by Henry Wood in 1905. It is based on sailors' sea shanties including a 'hornpipe'. The dance that gets faster and faster and the audience clap along, trying to keep up with the orchestra. It includes the song "Rule Britannia". The orchestra always play Edward Elgar's "Pomp and Circumstance March no 1" which has the tune "Land of Hope and Glory". The concert finishes with Parry's hymn "Jerusalem". The conductor also makes a speech.
+
+Since 1996 there have been Proms in parks in other towns in the United Kingdom to which thousands of people can go. These all take place on the same night, and there is interactive communication between them and the Prom in the Royal Albert Hall.
+
+One way to go to the Proms is to buy a ticket for a seat, just like any other sort of concert. But many people think the best way to go to the Proms is to be a promenader. This means having a standing place. There are two places to prom: downstairs in the arena and upstairs in the gallery. The Royal Albert Hall is round, and looks like an old Roman amphitheatre. That is why the floor downstairs is called the “arena”, like in an amphitheatre. The promenaders who stand downstairs are near the orchestra, especially the front rows. But it can be quite a squash when there are lots of people, and small children need to be near the front to see properly. The other place to promenade is upstairs in the gallery. There is more room there, and it is easy to see, and easy to sit down or even lie down when one feels tired.
+
+A ticket to promenade costs £5. People who want to be a promenader have to wait in a queue outside and buy their ticket as they go in. Anyone who wants to be near the front should join the queue early, especially for the very popular concerts, and at the weekend. Some people queue for hours. They pass the time by talking to one another, reading or playing games. It is all good fun and part of enjoying being at the Proms.
+
+Mount MerapiMount Merapi (Gunung Merapi in Indonesian) is a volcano in Indonesia. It is on the island of Java. It is conical in shape. It is the most active volcano of Indonesia. In Indonesian, the name means "mountain of fire". The volcano has been discovered by Mr Morris in 1754In 2006, scientists believed that the volcano would erupt soon. An earthquake occurred in that region on May 27, 2006, and killed about 6,200 people. On June 6, super hot gas and ash poured down the mountain. These hot gases are known as a pyroclastic flow. Two people were killed, and 15,000 people rushed to safety.
+
+On 25 October 2010 the Indonesian government warned villagers living near the mountain to move to safer ground. Officials said hundreds of volcanic earthquakes had been recorded on the mountain over the weekend of 23–24 October, and that the magma had risen to about 1 kilometre (3,300 ft) below the surface due to the seismic activity. People living within a 20 km (12.
+
+5 mile) zone were told they must leave.

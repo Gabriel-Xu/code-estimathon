@@ -1,0 +1,221 @@
+In the C programming language (and its close descendants such as C++ and Objective-C), static is a reserved word controlling both lifetime (as a static variable) and visibility (depending on linkage).
+
+In the C++ programming language, argument-dependent lookup (ADL), or argument-dependent name lookup, applies to the lookup of an unqualified function name depending on the types of the arguments given to the function call.
+
+In the C programming language, as of the C99 standard, restrict is a keyword that can be used in pointer declarations.
+
+In the C programming language, data types are declarations for memory locations or variables that determine the characteristics of the data that may be stored and the methods (operations) of processing that are permitted involving them.
+
+In the C++ programming language, decltype is a keyword used to query the type of an expression.
+
+In the C programming language, Duff's device is a way of manually implementing loop unrolling by interleaving two syntactic constructs of C: the do-while loop and a switch statement.
+
+In the C++ programming language, new and delete are a pair of language constructs that perform dynamic memory allocation, object construction and object destruction.
+
+In the C programming language, operations can be performed on a bit level using bitwise operators.
+
+In the C++ programming language, seekg is a function in the iostream library (part of the standard library) that allows you to seek to an arbitrary position in a file.
+
+In the C++ programming language, the assignment operator, =, is the operator used for assignment.
+
+In the C++ programming language, the C++ Standard Library is a collection of classes and functions, which are written in the core language and part of the C++ ISO Standard itself.
+
+In the C programming language the line number of a source code line is one greater than the number of new-line characters read or introduced up to that point.
+
+In the C++ programming language, the move assignment operator = is used for transferring a temporary object to an existing object.
+
+In the creation and criticism of fictional works, a character flaw is a limitation, imperfection, problem, phobia, or deficiency present in a character who may be otherwise very functional.
+
+In the creation myths which were known to the Aztec and other Nahua peoples of the Late Postclassic era, the central tenet was that there had been four worlds, or "Suns", before the present universe.
+
+In the creation of the TenTen corpora, data crawled from the World Wide Web are processed with natural language processing tools developed by the Natural Language Processing Center at the Faculty of Informatics at Masaryk University (Brno, Czech Republic) and by the Lexical Computing company (developer of the Sketch Engine).
+
+In the creation of Vision 2010, 248 members developed plans that would hopefully guide the country out of poverty and other of these national crisises.
+
+In the creative arts and scientific literature, an acknowledgement (also spelled acknowledgment in American and Canadian English) is an expression of a gratitude for assistance in creating an original work.
+
+In the Credit division, Compartamos offers a range of loans, including Woman Credit, Additional Credit, Home Improvement Credit, Solidarity Credit and Individual Credit, and in the Insurance division it provides Life Insurance and Integral Insurance.
+
+In the credit origination process, access to a credit report is critical for a lender to make a risk assessment.
+
+In the creekbed woods and adjacent uplands can be found the basswood, the burr oak, the chinquapin oak, and other mature-growth species of trees.
+
+In the Cree language, Menisa means "berries".
+
+In the Cremonese Seminario he painted a Birth of San Carlo Borromeo (1642) and in the Museo Civico there are 11 paintings.
+
+In the criminal courts, the presiding judge sits with a jury of nine.
+
+In the Criminal jurisdiction it hears serious, indictable criminal offenses for which the maximum penalty is 25 years imprisonment.
+
+In the Criminal Justice and Immigration Act 2008, the British Government cited the Spanner case (Brown [1994] 1 AC 212) as justification for criminalizing images of consensual acts, as part of its proposed criminalisation of possession of "extreme pornography".
+
+In the criminal justice system, once a defendant has received a guilty verdict, he or she can then challenge a conviction or sentence.
+
+In the criminal law, an omission will constitute an actus reus and give rise to liability only when the law imposes a duty to act and the defendant is in breach of that duty.
+
+In the criminal law of Australia, self-defense is a legal defense to a charge of causing injury or death in defense of the person or, to a limited extent, property, or a partial defense to murder if the degree of force used was excessive.
+
+In the criminal law of many nations, necessity may be either a possible justification or an exculpation for breaking the law.
+
+In the criminal law of some countries, an Antragsdelikt (plural Antragsdelikte) is a category of offense which cannot be prosecuted without a complaint by the victim.
+
+In the criminal laws of Australia and Canada, statutory legislation enshrines the M'Naghten Rules, with the terms defense of mental disorder, defense of mental illness or not criminally responsible by reason of mental disorder employed.
+
+In the Croatian part of the Adriatic Sea, there are 718 islands, 389 islets and 78 reefs, making the Croatian archipelago the largest in the Adriatic Sea and the second largest in the Mediterranean Sea, the Greek archipelago being the largest.
+
+In the crokicurl version of the game, rocks are used instead of disks which are roughly the size of a curling stone.
+
+In the Cronquist classification (1981) this family does not exist: the genus Phyllonoma is included in the family Grossulariaceae (gooseberry or currant family).
+
+In the Cronquist system (1981), the Gunneraceae were in the Haloragales and Myrothamnaceae in the Hamamelidales.
+
+In the Cronquist system, 1981, the name was used for an order placed in the subclass Commelinidae in class Liliopsida [=monocotyledons].
+
+In the Cronquist system, Boraginaceae (including Cordiaceae, Ehretiaceae, and Heliotropiaceae) and Lennoaceae were placed in Lamiales, and Hydrophyllaceae in Solanales.
+
+In the Cronquist system, the family was placed near the family Rhamnaceae in order Rhamnales.
+
+In the Cronquist system, there is no Aquifoliales order: the Aquifoliaceae are placed within the order Celastrales and the others are in other families.
+
+In the Cronquist system, the Salicaceae were assigned to their own order, Salicales, and contained three genera (Salix, Populus, and Chosenia).
+
+In the cross hangs an apostle crown designed by Knut Hallberg; the apostle crown is a light crown made of brass with twelve stearing lights.
+
+In the Crosswind (Estonian: Risttuules) is a 2014 Estonian drama film directed by Martti Helde.
+
+In the crowded early field, he chose not to directly confront the leading candidate, Donald Trump, who was also viewed as an outsider candidate.
+
+In the crowded photo app and photo-sharing software market, Pongr is positioning itself as the only social sharing platform for brands that can monetize the millions of customer photos posted daily on Twitter, Facebook, Instagram and other sites.
+
+In The Crown is a duets compilation album by American Soul singer Aretha Franklin.
+
+In the Crows' first year Klug played at Center Half Forward, although slightly built and against much bigger opponents for most of the season Klug performed well and finished eighth in the Crows' Best and Fairest that year.
+
+In the Crows round 21 match against the West Coast Eagles, Porplyzia booted his 100th goal in AFL footy, and also achieved a career high 6 goals.
+
+In the cruise industry the term "home port" is also often used in reference to the port in which a ship will take on / change over the majority of its passengers while taking on stores, supplies and fuel.
+
+In the crypt elements are present in pre-Romanesque capitals and columns.
+
+In the cryptobiotic state, all measurable metabolic processes stop, preventing reproduction, development, and repair.
+
+In the crypt of the church lies a Roman sarcophagus from the 3rd century, which holds the remains of the 13th-century theologian and natural philosopher St. Albertus Magnus.
+
+In the crypt, there are buried rectors of the Prague's University.
+
+In the C Standard Library, signal processing defines how a program handles various signals while it executes.
+
+In the CSU, he was chairman of the Association of Municipal Affairs and member of the party executive.
+
+In the CSX Transportation Albany Division Timetable #6 effective October 15, 2010 it shows the Buffalo Terminal Subdivision extending south from Buffalo, New York to Hamburg, New York where it continues west as the Erie West Subdivision of the Great Lakes Division, thus eliminating the Lake Shore Subdivision.
+
+In the Cuban Beach Volleyball National Championship she earned the 2009 championship playing with Milagros Crespo.
+
+In the cuisine of the Southern United States, pimento cheese is a spread or relish made with cheese, mayonnaise and pimentos.
+
+In the cuisine of the United States, one example of steamed bread is Boston brown bread, a sweet food which may be eaten as a dessert.
+
+In the Cula Nandiya Jataka (223), Sariputra is a Brahmin spiritual teacher who advises his student Devadatta not to be harsh, cruel and violent, without success.
+
+In the cultivation of edible fruit and vegetables, nutritional value, shelf life, and crop yield are also among the potential considerations.
+
+In the cultivation of rice, multiple cropping requires effective irrigation, especially in areas with a dry season.
+
+In the cultural model, the Deaf belong to a culture in which they are neither infirm nor disabled.
+
+In the culture of Africa, when one comes upon someone with a certain Basimba Clan group name you automatically know where they are from.
+
+In the culture of Kiribati, a person may ask a neighbor for any material possession.
+
+In the culture of Myanmar, people can change their name at will, often with no government oversight, to reflect a change in the course of their lives.
+
+In the culture of the Chamorro people, there had been a balance in the gender roles of women and men.
+
+In the culture of the United States, the idea of Southernization came from the observation that Southern values and beliefs had become more central to political success, reaching an apogee in the 1990s, with a Democratic President and Vice President from the South and Congressional leaders in both parties being from the South.
+
+In the Cumberland Mountains, this species is a major component of sandstone glade communities.
+
+In the Cupboard, in 2008 and released their fifth extended play, Live at the Yule Ball, in late 2009.
+
+In the Cup Championship match at the Harrington Memorial Pitch at Babson College in Wellesley, MA, Salve Regina University defeated Springfield College by a score of 53-21.
+
+In the cup's 105-year history, 62 different clubs have won the tournament.
+
+In the Cup semifinal against Kenya, they made history with their 35th consecutive match win in the IRB Sevens, breaking their own record set in 2001/02.
+
+In the Curative petition, the petitioner is required to aver specifically that the grounds mentioned therein had been taken in the review petition filed earlier and that it was dismissed by circulation.
+
+In the Currency & Derivative Markets is a monthly business magazine founded by Julie Ros in July 1999 specializing in coverage of foreign exchange and derivative markets.
+
+In the current 17th Congress, there are 6 incumbent female senators.
+
+In the current 17th Congress, two senators became Senate President pro tempore and they are Franklin Drilon and Ralph Recto who is the incumbent.
+
+In the current 2006 New Zealand National Basketball League season, Hart is relishing playing under new rams head coach, Chris Sparks, where he is backing up Jeremy Kench at the point guard position.
+
+In the current 2018 Nigeria Professional Football League season, Lokosa leads the league goal scoring charts by scoring 18 goals in 21 matches.
+
+In the current APG system these families generally belong to the order Lamiales in the Astrid clade.
+
+In the current breed standard the tail is docked at approximately 40% of its length before it curves.
+
+In the current business model, the pharmaceutical industry relies on the pricing and sales of its products to generate profits and to finance research and development of new drugs.
+
+In the current competitions four semifinalists of last year are directly qualified to quarter finals.
+
+In the current Danish rock scene, Indie rock is very popular.
+
+In the current day, Mill Park Secondary College has approximately 1,820 students.
+
+In the current decade they have become an outlet for fans of TV show, movie, and comic book characters, to play with and interact with characters ranging from Star Wars and Star Trek to Superman, Spider-Man and even solo characters created by the blogger themselves and placed in one of the many fictional universes found in fiction.
+
+In the current DSM-5, hypomanic episodes are separated from the more severe full manic episodes, which, in turn, are characterized as either mild, moderate, or severe, with specifiers in regard to certain symptomatic features (e.
+
+g. catatonia, psychosis).
+
+In the current edition, the Code recognizes that other methods can be used to assure safe installations, but these methods must be acceptable to the authority enforcing the Code in a particular jurisdiction.
+
+In the current era, racial prejudice against Arabs is apparent in many countries including Iran, Poland, France, Australia, Israel, and the United States (including Hollywood).
+
+In the current era, "Shiraz" is a marketing term for Syrah produced in Australia and South Africa.
+
+In the current era, the practices of military government have largely become a part of customary international law, and form a part of the laws of war.
+
+In the current film, the ex-hit man Chev Chelios finds out he must fight on his life once again as his true heart is transferred and he becomes equipped with an artificial heart, and he reveals he must get injected with electric shocks in order to stay alive and kill those who did it to him.
+
+In the current format (since 2017), losing teams from successive rounds of the 2017 FFA Cup preliminary rounds enter in following rounds of the Canale Cup.
+
+In the current form, the stadium was completed for the 1979 Mediterranean Games in Split.
+
+In the current German hymnal Evangelisches Gesangbuch (EG) it is number 344.
+
+In the current grain trade, this damage can affect price, feed quality, food product quality, and susceptibility to pest contamination.
+
+In the current house, the speaker is elected by the house for the term of the legislature.
+
+In the current implementation of jLab there coexist two scripting engines: the interpreted j-Script scripting engine and the compiled Groovy scripting engine.
+
+In the current IUCN taxonomic scheme, there is only one species of giraffe with the name G. camelopardalis and nine subspecies.
+
+In the current legislative session, Democrat Tina Kotek from Portland serves as Speaker.
+
+In the current Lok Sabha, there are 235 MPs (out of 543) belonging to upper castes, which is far in excess of their proportion in the country's population.
+
+In the currently accepted classification of life, there are three domains (Eukaryotes, Bacteria and Archaea), which, in terms of taxonomy, despite following the same principles have several different conventions between them and between their subdivisions as are studied by different disciplines (botany, zoology, mycology and microbiology), for example in zoology there are type specimens, whereas in microbiology there are type strains.
+
+In the currently accepted taxonomy, Musser, Marshall, and Boeadi established Maxomys in 1979.
+
+In the current Microsoft Windows operating system, a text-mode command prompt window, cmd.
+
+exe, can still be used.
+
+In the current ministry only one of the nine ministers sits in the Legislative Council.
+
+In the current naming scheme, towers are designated by T, racks by R, and blades by M (for modular).
+
+In the current parliament (2017), he is deputy chairman of the Culture and Tourism Permanent Committee and the Administrative Services Referral Committee and a member of the Emergency Permanent Committee and the Plans and Estimate Permanent Committee.
+
+In the current period, the economy of Laos relies largely on foreign direct investment to attract the capital from overseas to support its continual economic rigorousness.
+
+In the current railway management systems, many of the remaining operating lines are primarily for the haulage of grain.

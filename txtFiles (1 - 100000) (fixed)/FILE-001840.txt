@@ -1,0 +1,39 @@
+A physical examination is performed to look for typical signs of pulmonary hypertension. These include altered heart sounds, such as a widely split S or second heart sound, a loud P or pulmonic valve closure sound (part of the second heart sound), (para)sternal heave, possible S or third heart sound, and pulmonary regurgitation. Other signs include jugular venous distension (enlargement of the jugular veins), peripheral edema (swelling of the ankles and feet), ascites (abdominal swelling due to the accumulation of fluid), hepatojugular reflux, and clubbing.
+
+Further procedures are required to confirm the presence of pulmonary hypertension and exclude other possible diagnoses. These generally include pulmonary function tests, blood tests, electrocardiography (ECG), arterial blood gas measurements, X-rays of the chest (followed by high-resolution CT scanning if interstitial lung disease is suspected), and ventilation-perfusion or V/Q scanning to exclude chronic thromboembolic pulmonary hypertension. Biopsy of the lung is usually not indicated unless the pulmonary hypertension is thought to be due to an underlying interstitial lung disease. But lung biopsies are fraught with risks of bleeding due to the high intrapulmonary blood pressure. Clinical improvement is often measured by a "six-minute walk test", i.
+
+e. the distance a patient can walk in six minutes. Stability and improvement in this measurement correlate with better survival.
+
+Although pulmonary arterial pressure can be estimated on the basis of echocardiography, pressure sampling with a Swan-Ganz catheter provides the most definite measurement. PAOP and PVR can not be measured directly with echocardiography. Therefore, diagnosis of PAH requires a cardiac catheterization. A Swan-Ganz catheter can also measure the cardiac output, which is far more important in measuring disease severity than the pulmonary arterial pressure.
+
+Normal pulmonary arterial pressure in a person living at sea level has a mean value of 12–16 mm Hg (1600–2100 Pa). Definite pulmonary hypertension is present when mean pressures at rest exceed 25 mm Hg (3300 Pa). If mean pulmonary artery pressure rises above 30 mm Hg (4000 Pa) with exercise, that is also considered pulmonary hypertension.
+
+Diagnosis of PAH requires the presence of pulmonary hypertension with two other conditions. Pulmonary artery occlusion pressure (PAOP or PCWP) must be less than 15 mm Hg (2000 Pa) and pulmonary vascular resistance (PVR) must be greater than 3 Wood units (240 dyn•s•cm or 2.
+
+4 mN•s•cm).
+
+In 2003, the 3rd World Symposium on Pulmonary Arterial Hypertension was convened in Venice to modify the classification based on the new understanding of disease mechanisms. The revised system developed by this group provides the current framework for understanding pulmonary hypertension.
+
+The system includes several improvements over the former 1998 Evian Classification system. Risk factor descriptions were updated, and the classification of congenital systemic-to pulmonary shunts was revised. A new classification of genetic factors in PH was recommended, but not implemented because available data were judged to be inadequate.
+
+The Venice 2003 Revised Classification system can be summarized as follows:The terms primary and secondary pulmonary hypertension (PPH and SPH) were formerly used to classify the disease. This led to the assumption that only the primary disease should be treated, and the secondary variety should be ignored in favor of treating only the underlying illness. In fact all forms of pulmonary arterial hypertension are treatable. Unfortunately, this classification system still persists in the minds of many physicians, and probably leads to many patients with being denied treatment. This nihilistic approach to pulmonary arterial hypertension may also contribute to underdiagnosis. It is estimated that there are about 100,000 patients with PAH in the US, but only 15-20,000 have been diagnosed. Many others have been misdiagnosed as COPD, asthma, or congestive heart failure.
+
+The term primary pulmonary hypertension (PPH) has now been replaced with idiopathic pulmonary arterial hypertension (IPAH) in much of the medical literature. However, some physicians continue to use the older classification inappropriately.
+
+IPAH is a rare disease with an incidence of about 2-3 per million per year and a prevalence of about 15 per million. Women are almost three times as likely to present with IPAH than men.
+
+Other forms of PAH are far more common. In scleroderma the incidence has been estimated to be 6 to 60% of all patients, in rheumatoid arthritis up to 21%, in systemic lupus erythematosus 4 to 14%, in portal hypertension between 2 and 5%, in HIV about 0.
+
+5%, and in sickle cell disease ranging from 20 to 40%.
+
+Diet pills such as Fen-Phen produced an annual incidence of 25-50 per million per year.
+
+Treatment is determined by whether the PH is arterial, venous, hypoxic, thromboembolic, or miscellaneous. Since pulmonary "venous" hypertension is synonymous with congestive heart failure, the treatment is to optimize left ventricular function by the use of diuretics, beta blockers, ACE inhibitors, etc., or to repair/replace the mitral valve or aortic valve.
+
+In PAH, lifestyle changes, digoxin, diuretics, oral anticoagulants, and oxygen therapy are considered "conventional" therapy, but have never been proven to be beneficial in a randomized, prospective manner.
+
+High dose calcium channel blockers are useful in only 5% of IPAH patients who are "vasoreactive" by Swan-Ganz catheter. Unfortunately, calcium channel blockers have been largely misused, being prescribed to many patients with non-vasoreactive PAH, leading to excess morbidity and mortality.
+
+Three major pathways are involved in abnormal proliferation and contraction of the smooth-muscle cells of the pulmonary artery in patients with pulmonary arterial hypertension. These pathways correspond to important therapeutic targets in this condition and play a role in determining which of three classes of drugs—endothelin receptor antagonists, phosphodiesterase type 5 inhibitors, and prostacyclin derivatives—will be used.
+
+Prostacyclin (prostaglandin I) is commonly considered the most effective treatment for PAH. Epoprostenol (synthetic prostacyclin, marketed as Flolan®) is given via continuous infusion that requires a semi-permanent central venous catheter. This delivery system can cause sepsis and thrombosis. Flolan® is unstable, and therefore has to be kept on ice during administration. Since it has a half-life of 3 to 5 minutes, the infusion has to be continuous (24/7), and interruption can be fatal. Other prostanoids have therefore been developed. Treprostinil (Remodulin®) can be given intravenously or subcutaneously, but the subcutaneous form can be very painful. Iloprost (Ilomedin®) is also used in Europe intravenously and has a longer half life. Iloprost (marketed as Ventavis®) is the only inhaled form of prostacyclin approved for use in the US and Europe. This form of administration has the advantage of selective deposition in the lungs with less systemic side effects.

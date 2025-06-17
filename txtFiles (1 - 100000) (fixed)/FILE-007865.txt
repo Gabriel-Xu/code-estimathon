@@ -1,0 +1,79 @@
+Ignacio López Tarso (born Ignacio López López, 15 January 1925 – 11 March 2023) was Mexican actor of stage, movie and television. He acted in about 50 movies and appeared in documentaries and in one short feature. He was known for his title role in the 1960 movie "Macario". Tarso was born in Mexico City, Mexico.
+
+In 1973 he was given the Ariel Award for Best Actor for "Rosa Blanca", and the Ariel de Oro lifetime achievement award in 2007.
+
+On 22 May 2016, Tarso underwent surgery to treat a growing tumor in his large intestine and polyps in his small intestine. Tarso was later placed under intensive care unit. He died from pneumonia caused by bowel obstruction on 11 March 2023.
+
+Oakes, North DakotaOakes is a city in Dickey County, North Dakota, United States. The population was 1,798 at the 2020 census. Oakes was founded in 1886.
+
+Björn WaldegårdBjörn Waldegård (12 November 1943 - 29 August 2014) was a Swedish rally driver who won the inaugural World Rally Championship for drivers in 1979. His Swedish nickname was "Walle".
+
+Waldegård died in Stockholm, Sweden from cancer, aged 70.
+
+John Anthony WalkerJohn Anthony Walker Jr. (July 28, 1937 – August 28, 2014) was an American criminal and spy. He served as a United States Navy Chief Warrant Officer and communications specialist. He was convicted of spying on the United States working for the Soviet Union from 1968 to 1985.
+
+After Walker's arrest, Caspar Weinberger, President Ronald Reagan's Secretary of Defense, said that the Soviet Union made significant gains in naval warfare because of Walker's spying.
+
+Walker died August 28, 2014, while still in prison. He would have been eligible for parole in 2015.
+
+Double ImpactDouble Impact is a 1991 crime drama and action-adventure movie. It is about twin brothers involved with crime and secrets. Jean-Claude Van Damme plays the brothers Chad and Alex.
+
+The movie received negative reviews from the movie critics. Despite that, the movie was #2 at the box office. "Double Impact" was released on August 9, 1991.
+
+Doc HollywoodDoc Hollywood is a 1991 romantic comedy movie. The movie is about life experiences. Michael J. Fox plays Doctor Benjamin Stone. Woody Harrelson plays Hank Gordon. Bridget Fonda plays Nancy Lee."
+
+Doc Hollywood" was released on August 2, 1991. The reviews of the movie were positive.
+
+Glenn CornickGlenn Douglas Barnard Cornick (23 May 1947 – 28 August 2014) was a British musician. He was the first bass guitar player in the progressive rock band, Jethro Tull. He was born in Barrow-in-Furness, Lancashire (now part of Cumbria).
+
+Cornick died in Hilo, Hawaii, United States, on 29 August 2014 due to congestive heart failure, aged 67.
+
+Bob WareingRobert Nelson "Bob" Wareing, commonly known as Bob Wareing (20 August 1930 - 29 August 2014) was a British politician. He was the Member of Parliament (MP) for Liverpool West Derby from 1983 to 2010. Until November 2007, he was a Labour MP, but resigned in May 2010.
+
+Wareing died in Liverpool, Merseyside, England, aged 84.
+
+Ed and Lorraine WarrenEdward Warren Miney (September 7, 1926 – August 23, 2006) and Lorraine Rita Warren ("née" Moran; January 31, 1927 – April 18, 2019) were American paranormal investigators and authors. They are associated with famous cases of haunting.
+
+Edward was a World War II United States Navy veteran and former police officer. He became a self-taught, self-proclaimed expert demonologist, author, and lecturer. His wife Lorraine was a professed clairvoyant and a light trance medium who worked closely with her husband.
+
+Their cases have even become blockbuster movies such as "The Amityville Horror", "The Haunting in Connecticut", "The Conjuring", "The Conjuring 2" and "".
+
+Both Ed and Lorraine Warren were born in Bridgeport, Connecticut. Ed Warren died in Monroe, Connecticut at the age of 79. Lorraine Warren died on April 19, 2019, at the age of 92.
+
+Brasse BrännströmLars Erik "Brasse" Brännström (27 February 1945 – 29 August 2014) was a Swedish actor. He started acting in 1972. He won two Guldmasken Awards. He appeared in the 2005 Finnish-Swedish movie "Mother of Mine" (, ). One of his last movie roles was in "Bäst före" (2013).
+
+Brännström was born in Stockholm. He attended Adolf Fredrik's Music School in Stockholm.
+
+Brännström died on 29 August 2014 in Stockholm, aged 69.
+
+Patrick Wilson (American actor)Patrick Joseph Wilson (born July 3, 1973) is an American actor and singer. He is known for his roles in "The Alamo", "The Phantom of the Opera", "Little Children", "Watchmen", "The A-Team", "The Ledge", "Insidious", and as Ed Warren in "The Conjuring", "The Conjuring 2" and "The Conjuring 3".
+
+Wilson appeared in a voice cameo appearance as the President of the United States in "" (2016) and appeared as Ocean Master in "Aquaman" (2018).
+
+Steven TylerSteven Tyler (born Steven Victor Tallarico; March 26, 1948) is an American singer-songwriter, multi-instrumentalist, and former television music competition judge. He is best known as for being the frontman of the Boston-based rock band Aerosmith.
+
+Edie McClurgEdie McClurg (born July 23, 1951) is an American stand-up comedian, actress, singer, voice artist, and comedienne. She is known for her roles in "Ferris Bueller's Day Off", "Planes, Trains and Automobiles", "Carrie", and "Frozen".
+
+Off-site data protectionIn computing, off-site data protection, or vaulting, is the strategy of sending critical data off the main site. The place where the data is stored is often called the data vault.
+
+In many organisations, there is some data which is so important that it must be protected. Protection against hacking can be done by means of software, but protection against physical damage is a different problem. The solution is to put the data in more than one place, so a major disaster, (such as fire or explosions) does not prevent the recovery of the computer system with all its most important data.
+
+Data is usually taken off-site using media such as magnetic tape or optical storage. Data can also be sent electronically to a remote backup service, which is called "electronic vaulting" or "e-vaulting".
+
+Sending backups off-site makes sure systems and servers can be reloaded with the latest data in the event of a disaster, accidental error, or system crash. Sending backups off-site also ensures there is a copy of data that is not stored on-site. Off-site backup services are convenient for companies that backup data on a daily basis (classified and unclassified).
+
+Although some organizations manage and store their own off-site backups, many choose to have their backups managed and stored by others who specialize in the protection of off-site data.
+
+Integrated development environmentAn integrated development environment, or IDE, is a computer program that makes it easier to write other computer programs. They are used by computer programmers to edit source code, and can be easier to use than other text editors for new programmers. They can have compilers so programmers don't have to open other programs to compile the source code. They also often have syntax highlighting. A feature of an IDE is to check the syntax, and libraries can be added to increase functionality. It also may have predictive coding that can finish lines with syntax such as brackets or semicolons and can suggest variables to be used. It also may have debuggers that can step through lines, take breaks and inspect variables.
+
+An IDE often comes with an interpreter and a compiler. Certain IDEs can allow multi-language which means that functions can be written in different languages.
+
+Syntax highlightingSyntax highlighting is where a text editor, integrated development environment or other computer program shows different parts of some source code in different colours. This makes it easier for computer programmers to read the source code and understand what it does. It can be done in different colors, and different programming languages have different rules about what parts of the source code need to be different colors.
+
+This is an example comparing some C code without syntax highlighting and with syntax highlighting:Victor J. StengerVictor John Stenger (January 29, 1935 – August 27, 2014) was an American particle physicist, educator, philosopher, writer, and religious skeptic. He worked with New Atheism and he also wrote popular science books. He wrote books about physics, quantum mechanics, cosmology, philosophy, religion, atheism, and pseudoscience. He wrote "The New York Times" bestseller "God: The Failed Hypothesis", published in 2007. His final book was called "God and the Atom: From Democritus to the Higgs Boson", published in 2013. He was also a science columnist for "The Huffington Post". He worked at universities such as the University of Hawaii and the University of Colorado Boulder.
+
+Stenger was born in Bayonne, New Jersey. His father was an immigrant from Lithuania. His mother's parents were immigrants from Hungary. He married Phylliss in 1962. They had two children.
+
+Stenger died from an aortic aneurysm on August 27, 2014 in Honolulu, Hawaii. He was 79.
+
+Shogun (album)

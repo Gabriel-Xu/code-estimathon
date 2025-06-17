@@ -1,0 +1,117 @@
+An 11,500-year-old grave containing the remains of three infants has been discovered in Alaska. The babies had been buried by North America's earliest inhabitants - 'Paleo-Indians' - who crossed over a land bridge from Siberia called Beringia, which existed at the end of the last Ice Age. Early tools found on the continent were also found alongside the babies' remains. Scroll down for video . An 11,500 year old grave (pictured) containing the remains of three infants has been found in Alaska. The babies had been buried by North America's earliest inhabitants - 'Paleo-Indians' - who crossed over a land bridge from Siberia that existed at the end of the last Ice Age . It is thought that small groups of hunter-gatherers migrated with herds of large animals and travelled around Alaska. The skeleton of a three-year-old was found four years ago at an archaeological site at Upper Sun River in the Tanana lowlands forest in central Alaska and had been cremated. Now, excavations have revealed the skeletons of two more infants in a circular pit about 15 inches (38cm) below the other child, who was buried beneath the remains of a 'seasonal' house. Experts claim that the first infant died shortly after birth and the other was a late-term foetus. It's possible they could have been twins. Anthropologist Ben Potter and his team at Alaska University said the discovery offers a rare opportunity to learn how North America's first settlers dealt with the deaths of their young. The skeleton of a three-year-old was found four years ago at an archaeological site at Upper Sun River in the Tanana lowlands forest in central Alaska (marked at A) and had been cremated . Paleo-Indians were the first people who entered and inhabited the American continents during the first glacial episodes of the late Pleistocene period. Experts think they crossed the Bering Strait from Eurasia into North America over a land bridge called Beringia that existed between 47,000 and 14,000 years ago. Small, isolated groups of the hunter gatherers and big game hunters migrated with herds of large herbivores into the heart of Alaska. Stone tools - especially projectile points and scrapers - are evidence of the earliest human activity in the Americas. The burial site also shows that ancient residents of Alaska foraged for fish, birds and small mammals, as well as large game. Scientists believe the house was occupied in summer based on the bones from salmon and immature ground squirrels found there. Dr Potter said the infant skeletons were largely complete. The first was lying face up with knees tightly flexed towards the chest. The child's left arm was flexed across the chest with hand near the chin and the right arm extended across the torso to the left. The foetus seems to have originally been placed upright with knees also tightly flexed. But when discovered, the torso was prone over the legs and the left arm extended beside the back and behind the pelvis. Stone projectile points and associated decorated antler foreshafts were discovered in the  burial pit at the Upward Sun River site. They were all coated with red ochre and are the earliest known exampled of hafted stone tools in North America . Scientists believe the house under which the remains were buried,  was occupied in summer based on the bones from salmon (stock image left) and immature ground squirrels (right) found there . Goods placed in the grave consisted of four antler rods decorated with abstract incised lined and two spear points placed parallel to each other and adjacent to the foetus. A third stone tool was placed next to the rods. They were all coated with red ochre and are the earliest known exampled of hafted stone tools in North America. 'The presence of hafted points may reflect the importance of hunting implements in the burial ceremony and with the population as whole,' the paper says. Dr Potter said domestic activities would have included hunting of salmon, small mammals and birds along with large mammals further afield. The human remains and associated burial offerings - as well as inferences about the time of year the children died and were buried - could lead to new thinking about how early societies were structured. They could also shed light upon the stresses they faced as they tried to survive, how they treated the youngest members of their society, as well as how they viewed death and the importance of rituals associated with it. 'Taken collectively, these burials and cremation reflect complex behaviours related to death among the early inhabitants of North America,' Dr Potter said. Dr Potter said: 'The infants and grave goods were placed in the bottom of the pit which was immediately backfilled with sediment containing a small quantity of burned fish and small mammal specimens from earlier consumption events. 'If individuals one and two were twins, the former survived birth for at least five weeks whereas the latter died earlier in utero. 'So the two were not interred together during a single burial event. Individual one was clearly a primary interment. Thus it is possible individual two represents a secondary burial - placed in the pit after individual one died. This scenario could explain the different positions.' He said the three year-old died later and was cremated in the residential hearth. University of Alaska Fairbanks professors Ben Potter and Josh Reuther excavate the burial pit at the Upward Sun River site. They discovered skeletons as well as decorated stone tools . Professor Joel Irish from Liverpool John Moores University, was involved in the study. He examined dental and skeletal remains to determine the probable age and other information about the infants. For the double burial, he estimated the times of death and said that one survived birth by a few weeks, while the other died in the womb. According to Professor Irish, 'the deaths are consistent with high levels of childhood death in highly mobile hunter–gatherers, which have been reported to be as high as 45 per cent in recent arctic/subarctic groups.' However, he also said that 'the nearly concurrent deaths of two infants and a child could have been more harmful than usual to the small group regarding long-term demographic effects, if additional births did not occur relatively soon.' The artifacts—including the projectile points and plant and animal remains—may also help to build a more complete picture of early human societies and how they were structured, as well as how they survived climate changes at the end of the last great Ice Age, the team said. The presence of two burial events—the buried infants and cremated child—within the same dwelling could also indicate relatively longer-term residential occupation of the site than previously expected. The remains of salmon-like fish and ground squirrels in the burial pit indicate that the site was likely occupied by hunter-gatherers between June and August. 'The deaths occurred during the summer, a time period when regional resource abundance and diversity was high and nutritional stress should be low, suggesting higher levels of mortality than may be expected give our current understanding' of survival strategies of the period, the authors wrote.
+
+One estimate suggests more than 1.
+
+5 million pages on blogs have been defaced.
+
+The security firm that found the vulnerability said some hackers were now trying to use it to take over sites rather than just spoil pages.
+
+WordPress urged site owners to update software to avoid falling victim.
+
+The vulnerability is found in an add-on for the WordPress blogging software that was introduced in versions released at the end of 2016.
+
+Security firm Sucuri found the "severe" bug and informed WordPress about it on 20 January.
+
+In a blogpost, WordPress said it delayed going public about the flaw so it could prompt hosting firms to update their software to a fixed version.
+
+The patched version of WordPress was formally released on 26 January and led to many sites and blogs automatically applying the update.
+
+However, many blogs have not followed suit leaving them open to defacement attacks.
+
+Security firm WordFence said it had seen evidence that 20 hacker groups were trying to meddle with vulnerable sites. About 40,000 blogs are believed to have been hit.
+
+The vulnerability had set off a "feeding frenzy" among hacker groups, WordFence founder Mark Maunder told the Bleeping Computer tech news site."
+
+During the past 48 hours we have seen over 800,000 attacks exploiting this specific vulnerability across the WordPress sites we monitor," he added.
+
+Sucuri said some hacker groups had moved on from defacement to attempts to use the bug to hijack sites for their own ends."
+
+Attackers are starting to think of ways to monetise this vulnerability," wrote Sucuri founder Daniel Cid. "Defacements don't offer economic returns, so that will likely die soon."
+
+Hackers were keen to use the vulnerable sites as proxies for spam or malware campaigns, he said.
+
+Bennett, 26, returned to the Pompey line-up against Accrington on Saturday having missed the last two games."
+
+You just get on with it, whatever goes on," he told BBC Radio Solent."
+
+If I'm here, I'm playing for Portsmouth Football Club. That's the end of the story, I'm here and I'm willing to fight for my place."
+
+Bennett's return could not prevent Pompey falling to a 1-0 defeat at Accrington - their first loss in five league games."
+
+I've been working hard on the training ground," Bennett said. "The gaffer will tell you that I've stuck my head down and I've supported the lads when I've not been involved."
+
+Hopefully, I've done enough to keep my place having come back."(
+
+CNN) -- Thirty years ago, amidst much hype from Walt Disney Pictures, "Tron" debuted in theaters. The movie -- with its then-unusual plot of a man interacting inside a computer as an avatar -- failed to bring in a large audience in comparison with "E.
+
+T. the Extra-Terrestrial" a month earlier. Despite that, the movie left a mark. Few would dispute that its special effects were ahead of its time. Its early use of CGI inspired no less than Pixar Animation co-founder John Lasseter, who saw it as the future of animation. It held a special place in the heart of not only filmmakers but legions of fans as well. Whether they take part in "Tron" cosplay or own their own classic "Tron" arcade game, fans of the film that was cyberpunk before such a concept even existed are some of the most rabid. After all, for many of them, it was their first entry into the world of computers. This groundswell led Disney to relaunch the franchise with "Tron: Legacy" in 2010 (It even went so far as to screen test footage for fans at San Diego Comic-Con in 2008). And now, the franchise has continued, with no less of a fan than Paul Reubens (best known as Pee-wee Herman) taking part in its latest incarnation. Just like his character Pee-wee, Reubens has a pretty impressive toy collection. One of his favorites is a small "Tron" lightcycle. "I just love looking back" at the time of "Tron's" release, Reubens said. The comic actor spelled out what made that movie so special. "We all knew 'Tron' was way ahead of its time," he said. "To some degree, it's ahead of its time still. People know enough about the world of it and have more reference to it that it's way more accessible now." So when Reubens was offered the chance to play the villainous Pavel in "Tron: Uprising," Disney XD's animated series (which returns with new episodes Friday), he was glad to be on board. "Anyone will tell you the villain roles are the more fun roles," said Reubens, who plays opposite Elijah Wood's hero Beck. "I ran into people excited to see it before it happened. In the last six months, people stopped me all the time and said, 'oh, you're working on 'Tron!' I've run into a lot of 'Tron' fans out there." "Tron" fandom is something just about everyone involved in the series -- a prequel to "Legacy" -- has in common. That was important to executive producer Charlie Bean, a lifelong fan himself, who wanted to avoid "typical action-adventure" casting. "For anyone who witnessed the onset of computers and the dawn of video games, 'Tron' spoke to a lot of us with concepts about what it was like to be inside a computer or a virtual world," he said. "It always sat inside of my mind. From a design point of view as an artist, it had such an impact on me." The look of the show, reminiscent of Japanese anime and the 1990s series "Aeon Flux" among other influences, was also crucial. "There's an artistic background to 'Tron,' from the first film with (designers) Syd Mead and Moebius," Bean said. "(Yet) some of my initial ideas were about what I didn't want it to look like. "I wanted it to stand out and be something that stood out from the action stuff that's out there, in bringing a live-action property to animation. My initial idea was to go in the opposite direction. Because of the world and types of stories, I wanted something that was more human but stylized, where you could really invest in the plight of these characters." The series' look also appealed to Reubens, who famously employed all manner of animation on "Pee-wee's Playhouse" and has worked as a voice actor for many years, perhaps most famously on "A Nightmare Before Christmas." "We saw enough stuff (ahead of time) to know ('Tron') was going to be really beautiful," the actor said. "I could tell they had a really strong art direction." Beyond the fans, though, the show involves someone who has been there from the beginning: Bruce Boxleitner once again portrays Tron. A fan favorite from his time on "Babylon 5," Boxleitner admitted that "Tron" devotees have approached him more often than those for "B5." "This was the only one that really seemed to resonate over the years," he said. So it took no convincing at all for Boxleitner to return to that world. "I think 'Tron' could very well be a mythology for our time. It was born at the age of the Internet," he said. "When Tron and Yori and Flynn destroyed the MCP, we liberated the internet for everyone. You can thank me. Who knew?" Outside the world of animation, Boxleitner hopes for more live-action "Tron" -- with one stipulation. "It's my motivation to find a young Tron. I can't fit in those tights. Tron's a young man's game!"
+
+Botica was part of the side which won the WRU National Cup and reached the tier one semi-finals in their first Premiership season."
+
+The Scarlets would be a nice place to play," said Botica."
+
+If any Welsh region approached me that would be a massive honour."
+
+Botica senior represented New Zealand in both rugby union and rugby league, while also playing two seasons for Llanelli from 1996-97.
+
+His son now has designs on donning the famous red shirt as well."
+
+I would love to play professional rugby and hopefully next season is a stepping stone towards that," Botica said."
+
+I have decided to stay at RGC 1404 for another season."
+
+I am happy up there and I feel I have developed under coach Mark Jones."
+
+Botica came up against a familiar face last week when he featured for RGC 1404 in their 88-19 defeat against Wales."
+
+It was an epic match and it was good to play against Gareth Anscombe," said Botica."
+
+We played against each other in high school when he was 17 and I was 16."
+
+He got the better of me then but there has always been a good rivalry."
+
+We are good family friends and we spend a lot of time with them."
+
+To play against him when he is in a good team was a massive chance."
+
+Neath centre Kieran Williams won the best newcomer award, with team-mate Ed Howley named Tier Two player of the year.
+
+Aberavon head coach Jason Hyatt was named coach of the year.
+
+Merthyr's Matthew Jarvis and Neath's Aaron Grabham were recognised for scoring the most points and tries for their respective clubs.
+
+Bargoed's David Evans won try of the season, Adam Jones was named best referee and Llanelli won the fair play award for best discipline.
+
+Aberavon team manager, groundsman, social club manager and general club stalwart Steve Jones received the unsung hero award.
+
+By . Daniel Bates . PUBLISHED: . 09:10 EST, 14 March 2012 . | . UPDATED: . 09:24 EST, 14 March 2012 . A boy of 11 was dug out of a sandpit 20 minutes after it collapsed on him in what his family have called a ‘miracle’ rescue. Nicholas Nelson said ‘goodbye’ to everyone he knew in his head as the pile of sand covered his whole body, trapping him 1ft under the surface with a tiny air pocket that kept him alive. His brother Kyle Rininger, 16, ran for help but he and their mother Aimee were unable to find him in the dunes. Scroll down for video . Trapped: Nicholas Nelson said 'goodbye' to everyone he knew in his head as the pile of sand covered his whole body . Some 100 friends and neighbours and emergency crews joined in the search and after 20 agonising minutes they pulled Nicholas free. He was taken to hospital and has now made a full recovery. Incredibly the incident was not the first time that Kyle has saved Nicholas’ life - two years ago he fell through some ice and his brother was there too. Nicholas’ latest brush with death came on Sunday afternoon as they both played in the sand near their home in Saranac, Michigan, against the advice of their mother. In interviews with Mlive.
+
+com, wzzm13 and woodtv, Nicholas said that the sand ‘just kept falling and falling’ on top of him. Scroll down for video . Lost: The family frantically searched for Nicholas but were unable to find him in the dunes, pictured, because he was completely covered by sand . He said: ‘I could move an inch but every time I went down, a lot (of sand) would come down on me and just kept squishing me. ‘After like a minute I passed out but I was lucky there was a gap by me - it was really scary. ‘It all collapsed on me, and I started yelling and he (Kyle) started digging. ‘And then he stopped 'cause he knew he wouldn't be able to get there in time, so he ran for help. ‘I didn't think I was gonna make it, so I started saying 'bye to people, and then I passed out. Scroll down for video . Quick-thinking: Kyle Rininger, 16, ran for help after realising he couldn't reach his brother Nicholas himself . Close-call: Kyle burst into his nearby home, pictured, and told his mother and her boyfriend 'get a shovel' and they all jumped into her truck and drove to help . ‘Luckily, I had a little gap though to breath, or else I would've been gone.’ Kyle burst into his home and told his mother and her boyfriend ‘get a shovel’ and they all jumped into her truck and drove to help. But when they got to the spot they thought Nicholas was, they were unable to find him because the sand had so completely collapsed on top of him. Around 100 friends and locals joined in the search along with emergency responders and an ambulance helicopter - and after 20 minutes Nicholas was found. Scroll down for video . Community effort: Around 100 friends and locals joined in the search along with emergency responders and an ambulance helicopter - and after 20 minutes Nicholas was found . Miracle: Mother Aimee Nelson said that God must have played a part in keeping her son Nicholas alive . He was pulled from the sand conscious and still breathing, but badly shaken up. The family have now said that God must have played a part in keeping Nicholas alive. Aimee Nelson said: ‘It's a miracle that he's here. I'm very happy he's home - he's in one piece - there's nothing wrong with him, it's a miracle. ‘Kyle's quick thinking - when he realized he couldn't help and he came up here and got myself and my boyfriend - his quick thinking saved Nicholas’. Nicholas added: ‘I think someone was down there with me to create the gap, and make sure I didn't go.’ Watch video report: . Buried boy: 'I started saying 'bye': woodtv.
+
+com .
+
+They said she will make a full recovery and will be released from hospital once a blood-thinning dosage has been set.
+
+Mrs Clinton, 65, was admitted to a New York hospital on Sunday, having suffered a concussion earlier in the month when she fainted and fell over.
+
+She is due to stand down before President Obama begins his second term.
+
+Doctors said an MRI scan on Sunday had revealed the formation of a "right transverse sinus venous thrombosis" - a clot in the vein behind Mrs Clinton's right ear in the space between the brain and the skull."
+
+It did not result in a stroke, or neurological damage," said Dr Lisa Bardack and Dr Gigi El-Bayoumi, who were treating Mrs Clinton at New York's Presbyterian hospital.
+
+The secretary of state was said to be in good spirits and "engaging with her doctors, her family, and her staff," added the doctors in a statement.
+
+Doctors discovered the clot during a routine follow-up MRI scan on Sunday, said her spokesman, Philippe Reines, adding that she was being treated with anti-coagulants.
+
+At the time of her faint, Mrs Clinton was reported to have had a stomach virus and to have passed out after becoming dehydrated.
+
+Mrs Clinton is due to give evidence before a Congressional committee in January in connection with the attack in September on the US consulate in the Libyan city of Benghazi.
+
+The US ambassador to Libya and three American officials were killed in the incident.
+
+Mrs Clinton was appointed secretary of state at the start of Mr Obama's first term, in January 2009.
+
+Her most recent foreign trip was to Dublin earlier in December: she is renowned for keeping a gruelling travel schedule.
+
+She is the most travelled secretary of state in history, having visited 112 countries while in the job, the Associated Press says.

@@ -1,0 +1,37 @@
+Its inventor, Dennis Ritchie, whose death after a long illness was reported on Wednesday and confirmed on Thursday by Bell Labs, similarly embodied a unique yet admirable approach to systems design: a man with a lifelong focus on making software that satisfied the intellect while freeing programmers to create their dreams.
+
+In a statement, Jeong Kim, president of Alcatel-Lucent Bell Labs, said: "Dennis was well loved by his colleagues at Alcatel-Lucent Bell Labs, and will be greatly missed. He was truly an inspiration to all of us, not just for his many accomplishments, but because of who he was as a friend, an inventor, and a humble and gracious man. We would like to express our deepest sympathies to the Ritchie family, and to all who have been touched in some way by Dennis."
+
+Dennis MacAlistair Ritchie was born in Bronxville, New York, on 9 September, 1941, and grew up in New Jersey, where his father, Alistair Ritchie, worked as a switching systems engineer for Bell Laboratories. Ritchie went to Harvard University and received his degree in Physics in 1963.
+
+It was at Harvard that Ritchie first encountered a computer, attending a lecture on Univac 1 that captured his imagination. He moved to the Massachusetts Institute of Technology, where the first shifts away from the mainframe to smaller, cheaper computers were being ardently investigated, and thence in 1967 to Bell Labs — birthplace of the transistor and, at the time, one of the most important centres of digital innovation in the world.
+
+Multics to UnixBell Labs was the home of the Multics project. Multics was an operating system that would replace the idea of batch processing (where programs were run one at a time from a stack of cards by an operator) with interactivity (where the programmer or user themselves had complete control during the writing or use of software). The lab was also home to Kenneth Thompson, who swiftly became one of Ritchie's primary collaborators.
+
+When Bell Labs stopped work on Multics, Thompson and Ritchie were loath to abandon the ideas of interaction and collaboration that had been key to its design. Thompson began work on a successor, called Unix, and Ritchie soon joined in.
+
+Having persuaded Bell Labs to buy one of the most advanced small computers of the time, a Digital Equipment Corporation PDP-11, on the back of a promise to write a word-processing system for the patent department, the pair instead created the modern operating system. Unix spread within Bell Labs and was announced to the world in 1973.
+
+C programming languageThe mid-'70s were a period of great experimentation and variation in computer hardware design, which made life difficult for software writers who had to either limit their programs to running on one particular device or spend a great deal of time and energy recreating their work for each new platform.
+
+The C Programming Language, also known as K&R, was published in 1978. It was a peerless introduction to the techniques of programming in C. Photo credit: WikipediaIn response to this problem, Ritchie designed a computer language, C, that could be quickly and easily moved between different hardware. Programs that were written in C, provided they followed the rules, would then run with little or no modification on any computer that could itself run C.
+
+Thompson and Ritchie then rewrote Unix in C, giving the operating system the same ease of portability. Programmers could then learn one operating system, one set of tools and one language, and find those skills nearly universally applicable. Likewise, once a hardware manufacturer had put C on its new design, the machine could use a vast pool of existing software and talent. One side effect of this was that Unix became the natural home for experimental, then practical, inter-networking between different systems.
+
+Thus were created all the key aspects of the environment within which computing became the economic and cultural force that subsequently reshaped — and continues to reshape — the world.
+
+This revolution was much enhanced by Ritchie's collaboration with Brian Kernighan on The C Programming Language. Otherwise known as K&R, this slim book, published in 1978, acted as both a concise definition of C and a peerless introduction to the style and techniques of programming in that language. It remains a source of inspiration and practical help to programmers to this day.
+
+Spiritual descendantsUnix and C's direct and spiritual descendants cannot be counted, but include Linux, Android, Mac OS, iOS, JavaScript, C++, the genius of the internet and a world full of developers. Likewise, legal restrictions on how Bell Labs and its parent, AT&T, could commercially exploit software — an antitrust ruling prevented standard licensing — meant that the ideas and, often, the actual code underlying Unix and C became a de facto open system.
+
+Ritchie had the lifestyle and habits to match his position as an early guru of IT. Long-haired and bearded, and famously more owl than lark, he started work at midday in his industry-standard chaotic office, emerging late in the evening to go home and carry on working through to the small hours at the end of a leased line connected to the Bell Labs computers.
+
+In later life, having become a manager, he could sometimes be seen in the wild before lunchtime, if meetings demanded it. His life and work were entirely intertwined; a man celebrated for his gentle wit and gentle ways, nothing about him could be considered separate from his lifelong fascination with computing.
+
+He ultimately became head of Lucent Technology Systems's software research department, retiring in 2007. By then, he and Thompson had received many industry awards, including the ACM Turing Prize in 1983 and the 1998 US National Medal of Technology.
+
+His ideas live on, in the rudest of health, at the centre of modern operating system design, in new programming languages, and in every electron and bit of open systems. ||||| LEGENDARY SOFTWARE ARCHITECT Dennis Ritchie reportedly died last weekend.
+
+Google engineer Rob Pike reported that Ritchie had passed away at his home over the weekend after a long illness, at the age of 70.
+
+Ritchie's contribution to computer science cannot be overstated. As the inventor of the C programming language and a co-inventor of the UNIX operating system (OS), his vision, innovation and hard work shaped much of what has come in the following four decades.

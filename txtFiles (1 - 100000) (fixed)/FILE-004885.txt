@@ -1,0 +1,11 @@
+The AK-74 is a Russian made assault rifle. The letters AK stand for Avtomat Kalashnikova, which is Russian for Mikhail Kalashnikov's Automatic Rifle. The AK-74 is a later version of the AK-47 that has a few new features. The most important of these is that it fires a smaller cartridge, the 5.
+
+45x39.
+
+5mm Soviet.
+
+Ambient occlusionAmbient occlusion is a technique or series of techniques used in 3D computer graphics to estimate how light behaves more accurately. Inner crevices of objects (or space where two objects are close to each other) have less light and appear darker (have more shadow).
+
+Imagine being inside a matte world with even light; the surface color is exactly the same everywhere, so you shouldn't be able to see any corners or edges; because of the described effect, you can.
+
+Bedbug

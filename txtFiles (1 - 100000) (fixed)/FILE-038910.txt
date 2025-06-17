@@ -1,0 +1,81 @@
+In computing, the Tube was the expansion interface and architecture of the BBC Microcomputer System which allowed the BBC Micro to communicate with a second processor, or coprocessor.
+
+In computing, the Two Generals Problem is a thought experiment meant to illustrate the pitfalls and design challenges of attempting to coordinate an action by communicating over an unreliable link.
+
+In computing, the two primary stylesheet languages are Cascading Style Sheets (CSS) and the Extensible Stylesheet Language (XSL).
+
+In computing, the USB human interface device class (USB HID class) is a part of the USB specification for computer peripherals: it specifies a device class (a type of computer hardware) for human interface devices such as keyboards, mice, game controllers and alphanumeric display devices.
+
+In computing, the User Programmatic Interface (UPI), also known as the User Program Interface, consists of a set of C-language software APIs which provide the lowest-level API-based interface to the Oracle database.
+
+In computing, the Virtual Control Program Interface (VCPI) is a specification published in 1989 by Phar Lap Software that allows a DOS program to run in protected mode, granting access to many features of the processor not available in real mode.
+
+In computing, the Win32 Thread Information Block (TIB) is a data structure in Win32 on x86 that stores information about the currently running thread.
+
+In computing, the Windows Sockets API (WSA), later shortened to Winsock, is a technical specification that defines how Windows network software should access network services, especially TCP/IP.
+
+In computing, the WINGs Display Manager (WDM) is a display manager for the X window system, mainly used for graphically logging in, on a Unix-based system.
+
+In computing, the word is sometimes used as a metasyntactic variable or as a video game cheat code, the canonical "magic word".
+
+In computing, the working directory of a process is a directory of a hierarchical file system, if any, dynamically associated with each process.
+
+In computing, the X Window System (commonly: X11, or X) is a network-transparent windowing system for bitmap displays.
+
+In computing, thin provisioning involves using virtualization technology to give the appearance of having more physical resources than are actually available.
+
+In computing this is known as PC power management and is built around a standard called ACPI.
+
+In computing, TightVNC is a cross-platform free and open-source remote desktop software application.
+
+In computing, TIME is a command in DOS, OS/2 and Windows that is used to display and set the current system time of the operating system.
+
+In computing, time-sharing is the sharing of a computing resource among many users by means of multiprogramming and multi-tasking at the same time.
+
+In computing timestamping refers to the use of an electronic timestamp to provide a temporal order among a set of events.
+
+In computing, title is a command in various command line interpreters (shells) such as the Windows Command Prompt, the Command Processor Shell of Windows Embedded CE and Take Command that changes the title for the graphical terminal emulator window.
+
+In computing, TopLink is an object-relational mapping (ORM) package for Java developers.
+
+In computing, tput is a standard Unix operating system command which makes use of terminal capabilities.
+
+In computing, traceroute is a computer network diagnostic tool for displaying the route (path) and measuring transit delays of packets across an Internet Protocol (IP) network.
+
+In computing, traditionally cycle stealing is a method of accessing computer memory (RAM) or bus without interfering with the CPU.
+
+In computing, tree data structures, and game theory, the branching factor is the number of children at each node, the outdegree.
+
+In computing, tree is a recursive directory listing command or program that produces a depth-indented listing of files.
+
+In computing, tree shaking is a dead code elimination technique that is applied when optimizing code written in ECMAScript dialects like Dart, JavaScript, or TypeScript into a single bundle that is loaded by a web browser.
+
+In computing, tty is a command in Unix and Unix-like operating systems to print the file name of the terminal connected to standard input.
+
+In computing, type introspection is the ability of a program to examine the type or properties of an object at runtime.
+
+In computing, type is a command in various RT-11, TOPS-20, VMS, AmigaDOS, CP/M, MP/M, DOS, OS/2, Microsoft Windows, and ReactOS command line interpreters (shells) such as COMMAND.
+
+COM, cmd.
+
+exe, 4DOS/4NT and Windows PowerShell.
+
+In computing, uconv is one of several computer programs or APIs that converts between different character encodings and Unicode.
+
+In computing, UMA Acceleration Architecture (UXA) is the reimplementation of the EXA graphics acceleration architecture of the X.
+
+Org Server developed by Intel.
+
+In computing, umask is a command that determines the settings of a mask that controls how file permissions are set for newly created files.
+
+In computing, UML eXchange Format (UXF) is a XML-based model interchange format for Unified Modeling Language (UML), which is a standard software modeling language.
+
+In computing, unique set size (USS) is the portion of main memory (RAM) occupied by a process which is guaranteed to be private to that process.
+
+In computing, User Location Service was a standards-based protocol for directory services and presence information, first submitted as a draft to the IETF in February 1996.
+
+In computing, ver (short for version) is a command in various DOS, OS/2 and Microsoft Windows command line interpreters (shells) such as COMMAND.
+
+COM, cmd.
+
+exe and 4DOS/4NT.

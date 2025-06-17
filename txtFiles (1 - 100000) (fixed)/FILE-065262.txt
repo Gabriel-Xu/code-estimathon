@@ -1,0 +1,195 @@
+The Apple Campus was the corporate headquarters of Apple Inc. from 1993 until 2017, when it was largely replaced by Apple Park, though it is still used by Apple as office and lab space.
+
+The Apple Certified Desktop Technician (or ACDT) was a computer certification that verified the ability of a person to perform basic repairs and troubleshooting on Apple's desktop Macintosh computers.
+
+The Apple Certified Technical Coordinator v10.
+
+7 now replaced the ACSA as Apple's highest certification for systems administrators.
+
+The Apple Chill was held in 2016 at Fayetteville Motorsports parkway on Sunday, May 8th.
+
+The Apple Cinema Display is a line of flat-panel computer monitors developed and sold by Apple Inc. between 1999 and 2011.
+
+The Apple Cinema Display name was retired in July 2011 with the introduction of the Apple Thunderbolt Display, and the Cinema Display models were no longer offered on the Apple Store website as of August 2014.
+
+The Apple Communication Slot or Comm Slot is an internal expansion data interface (slot) found in Apple Macintosh computers from the early to mid-1990s.
+
+The Apple community are people interested in Apple Inc. and its products, who report information in various media.
+
+The Apple Daisy Wheel Printer is a daisy wheel printer manufactured and sold by Apple Computer, Inc. in the 1980s.
+
+The Apple Design Awards (also known as the ADA) is a special event hosted by Apple Inc. at its annual Worldwide Developers Conference.
+
+The Apple Design Awards have been presented each year since 1996, though for the first two years of their existence they were known as the Human Interface Design Excellence (HIDE) Awards.
+
+The Apple Developer Tools are a suite of software tools from Apple to aid in making software dynamic titles for the macOS and iOS platforms.
+
+The Apple Display Connector (ADC) is a proprietary modification of the DVI connector that combines analog and digital video signals, USB, and power all in one cable.
+
+The Apple DMP is the last parallel port printer sold under the Apple label; all subsequent Apple printers (ImageWriter, ImageWriter II, Scribe, LaserWriter, etc.) were serial port printers.
+
+The Apple Dot Matrix Printer (often shortened to Apple DMP) is a printer manufactured by C. Itoh and sold under Apple Computer, Inc. label in 1982 for the Apple II series, Lisa, and the Apple III.
+
+The Apple Dumpling Gang is a 1975 American comedy-western film produced by Walt Disney Productions about a slick gambler named Russell Donovan (Bill Bixby) who is duped into taking care of a group of orphans who eventually strike gold during the California Gold Rush.
+
+The Apple Event Manager also supports coercions, which converts AEDescs from one data type to another.
+
+The Apple Event Manager provides API calls to construct these structures, as well as extract their contents and query the type of contents they hold.
+
+The Apple Express narrow-gage tourist train to Avontuur operates from the separate station in Humewood Road near King's Beach.
+
+The Apple Express passes through Humansdorp.
+
+The Apple Extended Keyboard (AEK, model M0115) is a keyboard that was first sold separately alongside the Macintosh II and SE starting in 1987.
+
+The Apple Festival draws several thousand people a year to enjoy entertainment, a children's "apple olympics", and demonstrations.
+
+The Apple Filing Protocol (AFP), formerly AppleTalk Filing Protocol, is a proprietary network protocol, and part of the Apple File Service (AFS), that offers file services for macOS and the classic Mac OS.
+
+The Apple Fruitminer (Marmara pomonella) is a moth of the Gracillariidae family.
+
+The Applegate Trail was a wilderness trail through today's U.
+
+S. states of Idaho, Nevada, California, and Oregon, and was originally intended as a less dangerous route to the Oregon Territory.
+
+The Apple & Grape Harvest Festival is a biennial festival held in Stanthorpe, Queensland, Australia, on the first weekend of March.
+
+The Apple Hard Disk 20SC (not to be confused with the Apple Macintosh Hard Disk 20, the first hard drive manufactured by Apple Computer exclusively for the original Macintosh floppy disk drive port interface) is Apple's first SCSI based hard drive for the Apple II family as well as the Macintosh and other third party computers using an industry standard SCSI interface.
+
+The apple humble-bee or apple bumblebee (Bombus pomorum) is a species of bumblebee.
+
+The Apple Hydra Mac I/O (MIO) chip (from the 1990s classic Mac OS era) implemented a MPIC alongside a SCSI controller, ADB controller, GeoPort controller, and timers.
+
+The Apple I, Apple III and Apple Lisa are included, even though they are not classed as part of the Apple II series (or a Macintosh), because of their unique role in Apple's product lineup of the era.
+
+The Apple II and II+ had until this time only displayed 40 columns of text per line, half the characters included per line on a printed page.
+
+The Apple II character set is a character set developed by Apple Inc. for the Apple II.
+
+The Apple IIc Plus is the sixth and final model in the Apple II series of personal computers, produced by Apple Computer.
+
+The Apple IIe Card is a compatibility card which allows compatible Macintosh computers to run software designed for Apple II computers (except the IIGS).
+
+The Apple IIe has the distinction of being the longest-lived computer in Apple's history, having been manufactured and sold for nearly 11 years with relatively few changes.
+
+The Apple IIe (styled as Apple //e) is the third model in the Apple II series of personal computers produced by Apple Computer.
+
+The Apple II floppy drive used the host CPU to process drive control signals, instead of a microcontroller.
+
+The Apple IIGS (1988) and Macintosh (1991), and Microsoft Windows (1993) incarnations, which didn't share any code with the Apple II, were originally called ClarisWorks, created by the former Apple subsidiary Claris.
+
+The Apple II version of the game was copy-protected using Sierra's Spiradisc system.
+
+The Apple II version was programmed by Alan Pavlish of Designer Software.
+
+The Apple implementation of "Open PIC" (as the Apple documentation of this era spells it) in their first MIO chip for the Common Hardware Reference Platform was based on version 1.
+
+2 of the register specification and supported up to two processors and up to 20 interrupt sources.
+
+The Apple Industrial Design Group (IDg) is the industrial design arm of Apple Inc. responsible for crafting the appearance of all Apple products.
+
+The Apple Interactive Television Box is a set-top box developed by Apple Computer (now Apple Inc.) in partnership with a number of global telecommunications firms, including British Telecom and Belgacom amongst others.
+
+The Apple Intermediate Codec abbreviated AIC (by users, Apple Engineers don't use the abbreviation) is designed by Apple Inc. to be an intermediate format in an HDV and AVCHD workflow.
+
+The Apple Intermediate Codec is a high-quality 8-bit 4:2:0 video codec used mainly as a less processor-intensive way of working with long-GOP MPEG-2 footage such as HDV.
+
+The Apple Intermediate Codec is officially available only on the Mac OS X platform but can be read on other platforms such as Windows or Linux, using FFmpeg.
+
+The Apple Intermediate Codec was used because it was less processor intensive; as the compression scheme did not need the next frame to be displayed.
+
+The Apple iPod line has been upgraded many times, and each significant revision is called a "generation".
+
+The apple is of medium size and has a bright-red blush, but can have background patches of greens and yellows.
+
+The apple itself is named after Braeburn Orchard near Motueka, where it was first commercially grown.
+
+The apple itself is very good for fresh eating, having a sharper style flavor like the Cox's Orange Pippin, it harvests at late season, and keeps fresh about one or two months.
+
+The Apple I was Apple's first product, and to finance its creation, Jobs sold his only motorized means of transportation, a VW Microbus, for a few hundred dollars, and Steve Wozniak sold his HP-65 calculator for $500; however, Wozniak said that Jobs planned to use his bicycle if necessary.
+
+The Applejacks are an indie rock band from Amsterdam, Netherlands.
+
+The Applejacks were an English pop and beat group of the 1960s.
+
+The Apple Keyboard is a keyboard designed by Apple Inc. first for the Apple line, then the Macintosh line of computers.
+
+The Apple-Kneel is a cocktail.
+
+The AppleLink Package Compression Format, or AppleLink Package for short, is an obsolete file format used on Apple Inc.'
+
+s defunct AppleLink online service as a file transfer and file compression format.
+
+The Apple Macintosh version of SurfWatch 1.
+
+0 first shipped in May 1995 and was followed by the Microsoft version in July of the same year.
+
+The Apple Maggot Quarantine Area is a permanent quarantine area established by the U.
+
+S. state of Washington.
+
+The Apple Market Loss Assistance Program is a program of the Farm Service Agency that has made payments to apple producers to partially offset revenue losses from low prices caused by the loss of markets.
+
+The Apple Media Tool was a multimedia authoring tool and associated programming environment sold by Apple in the late 1990s.
+
+The Apple menu is a drop-down menu that is on left side of the menu bar in the classic Mac OS, macOS and A/UX operating systems.
+
+The Apple menu's role has changed throughout the history of Apple Inc.'
+
+s operating systems, but the menu has always featured a version of the Apple logo.
+
+The Apple Mighty Mouse, a multi-button mouse with a scroll ball, was eventually released in a wireless version.
+
+The Apple Monitor III is a 12-inch green phosphor (A3M0039) or a white phosphor (A3M0006) CRT-based monochrome monitor manufactured by Sanyo for Apple Computer; for the Apple III personal computer, introduced in 1980.
+
+The Apple Monitor II is a CRT-based green monochrome 12-inch monitor manufactured by Sanyo for Apple Computer; for the Apple II personal computer family.
+
+The Apple Monitor III's main feature was the fine mesh on the CRT to reduce glare.
+
+The Apple Monitor III was also compatible with the entire Apple II series and numerous other computers through its standard composite video input jack.
+
+The Apple Mouse began as one of the first commercial mice available to consumers.
+
+The Apple Music Festival (formerly known as the iTunes Festival) was a music concert series held by Apple, Inc. inaugurated in 2007.
+
+The Apple Network Server and Apple Lisa are included, as they filled high-end niches of the Macintosh line despite not directly running Mac OS.
+
+The apple orchard has been continuously operating since 1875, and is one of the oldest such orchards in Lenawee County.
+
+The Apple Pascal software package also included disk maintenance utilities, the Pascal compiler (set to the UCSD standard), and a decently featured assembler to complement the Apple II's built-in "monitor" assembler.
+
+The Apple Pie Shooter is a cocktail for which two people are required.
+
+The Apple Public Source License is the open-source and free software license under which Apple's Darwin operating system was released.
+
+The Apple Pugetsound Program Library Exchange (A.
+
+P.
+
+P.
+
+L.
+
+E.) is a users' group established in 1978 by Val Golding.
+
+The Apple QuickTake (codenamed Venus, Mars, Neptune) is one of the first consumer digital camera lines.
+
+The Apple Remote is a remote control device released in or after October 2005 by Apple Inc. for use with a number of its products which use infrared capabilities.
+
+The Apple S1 is the integrated computer in the Apple Watch, and it is described as a "System in Package" (SiP) by Apple Inc.
+
+The apples are sweet with a tangy finish.
+
+The Apple Scrapple Festival was named one of the top 100 events in North America by the American Bus Association.
+
+The Apple scruffs were a loosely-knit group of hardcore Beatles fans who were known for congregating outside the Apple Corps building and at the gates of Abbey Road Studios in London during the waning days of Beatlemania, in the hope of seeing or interacting with one of the band members.
+
+The Appleseed Cast, released in the U.
+
+S. on July 22, 2003 on Tiger Style Records.
+
+The Appleseed Cast, released on March 21, 2006 on The Militia Group.
+
+The Appleseed Foundation is a nonprofit social justice network of centers in the United States and Mexico.
+
+The Apples in Stereo is a 1994 split single by the two Elephant 6 bands.

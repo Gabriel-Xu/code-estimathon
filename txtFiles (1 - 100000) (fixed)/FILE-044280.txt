@@ -1,0 +1,319 @@
+It is written in Python and designed to be highly customizable.
+
+It is written in Python and employs Qt via PyQt bindings.
+
+It is written in Python and generates XSLT.
+
+It is written in Python and maintained by Thomas Nagy.
+
+It is written in Python and supports Microsoft Windows, Mac OS X, and Linux (as of version 2.
+
+5).
+
+It is written in Python and the view parameters can be modified directly in a URL using a REST style interface.
+
+It is written in Python and uses the Tryton framework as one of its components.
+
+It is written in Python and utilizes the GStreamer media framework.
+
+It is written in Python by using PyGtk to build its GTK graphical interface.
+
+It is written in Python programming language and covers all spectral elements available in the Advanced Camera for Surveys (ACS) installed on board the Hubble Space Telescope (HST).
+
+It is written in Python using wxPython.
+
+It is written in Qt and C++.
+
+It is written in RDF and can be used as a citation ontology, as a document classification ontology, or simply as a way to describe any kind of document in RDF.
+
+It is written in rhyme royal and was included in Arthur Quiller-Couch's edition of the Oxford Book of English Verse.
+
+It is written in rhyme with many color illustrations.
+
+It is written in Ruby on rails with a plugin architecture allowing simple expansion.
+
+It is written in Sanskrit.
+
+It is written in Scala and has an open-source Apache 2.
+
+0 license.
+
+It is written in Scottish dialect and the beaver refers to a kind of hat.
+
+It is written in scripting languages such as Python and Tcl, and therefore runs on a variety of platforms.
+
+It is written in Shakespearean form, comprising fourteen lines of iambic pentameter, divided into three quatrains and a couplet.
+
+It is written in short, picturesque sentences that include the norms of Poljica's society from the highest political authorities to the norms that include all Poljicians' interests.
+
+It is written in simple prose and is set at an indeterminate time in the American Old West.
+
+It is written in Syriac.
+
+It is written in Tcl, and is a command line client.
+
+It is written in the alliterative verse style commonly used in Middle English poetry by rhyming chroniclers, the two halves of the alliterative lines being often linked by rhyme as well as by alliteration.
+
+It is written in the Ancient North Arabian script and dates from the 3rd to 2nd centuries BC.
+
+It is written in the Arabic alphabet and contains many loans from Arabic.
+
+It is written in the Bangla script and the Latin script.
+
+It is written in the bolero style; Orbison is credited with bringing this to the rock genre.
+
+It is written in the booklet that the front and back photos were found in a library in Leipzig, torn out of a book.
+
+It is written in the C programming language and is available in the repositories of some Linux distributions such as Fedora.
+
+It is written in the C programming language, and its main developer is Mikael Hallendal, founder of Imendio.
+
+It is written in the first person, but the narration alternates between two twin sisters, Sue and Chloe.
+
+It is written in the first-person from the perspective of Lieutenant Piper.
+
+It is written in the first person from the point of view of Prot's psychiatrist.
+
+It is written in the first person narrative.
+
+It is written in the first-person narrative style.
+
+It is written in the first-person point of view of the main character, a lurcher named Furgul.
+
+It is written in the form of a dialog between the pagan Caecilius Natalis and the Christian Octavius Januarius, a provincial lawyer, the friend and fellow-student of the author.
+
+It is written in the form of a dialog, in which Brutus and Atticus ask Cicero to describe the qualities of all the leading Roman orators up to their time.
+
+It is written in the form of a memoir.
+
+It is written in the form of an alliterative poem, but is also a play, being mainly a dialog between two characters in the aftermath of the Battle of Maldon.
+
+It is written in the form of a play script, detailing one night in the life of Anthony the Great, during which he is faced with great temptations.
+
+It is written in the form of a prayer to God; It was composed by Robert Samut and the lyrics were written by Dun Karm Psaila.
+
+It is written in the form of a series of letters to a colleague in Melbourne and tells the story of an academic working in English Literature who specializes in a fascination with a famous but unnamed contemporary feminist woman writer.
+
+It is written in the form of letters from a lost uncle who is traveling in distant polar regions in search of a white lion.
+
+It is written in the genre of historical fiction.
+
+It is written in the Indic alphabet.
+
+It is written in the Java programming language.
+
+It is written in the Java programming language and released under the GNU GPL.
+
+It is written in the key of A major.
+
+It is written in the key of B-flat minor.
+
+It is written in the key of B major.
+
+It is written in the key of C# minor.
+
+It is written in the key of D-flat major.
+
+It is written in the key of F major and usually begins with an F major seventh or F sixth chord.
+
+It is written in the Malayan Arabic script, with adaptations to sounds not present in Arabic (Sherfan 1976).
+
+It is written in the manner of an encyclopedia about the fantasy world of Titan, in which the majority of Fighting Fantasy gamebooks are set.
+
+It is written in the Norfolk dialect of the people on which it focuses, and is considered to be one of Wesker's Kitchen Sink Dramas.
+
+It is written in the novel prose style mixed with a series of letters from Calamity Jane to her daughter.
+
+It is written in the original New Testament Greek, the traditional language of scholarship within the Anglican Communion.
+
+It is written in the Perl computer programming language making use of an extensive hack of the earlier PerlMUD, with many additional features.
+
+It is written in the PHP programming language and stores the contents into a database.
+
+It is written in the PHP programming language with support for the MySQL database management system.
+
+It is written in the programming language C++ using the FOX toolkit, and licensed under the terms of the GNU General Public License.
+
+It is written in the programming language Java, so it can run on the operating systems Windows, macOS, Linux, and Unix, if Java is installed.
+
+It is written in the programming language nesC, as a set of cooperating tasks and processes.
+
+It is written in the Python language and works on any platform that supports Python, NumPy, SciPy, and wxPython.
+
+It is written in the same programming languages as Android (as it is forked from it, though indirectly), while the modifications are mostly in the C language, as the changes are mostly to the lower-level parts of the OS, such as the Linux kernel and drivers that use it.
+
+It is written in the same style as the Tory publications that attacked Dissenters, and was assumed by some people to be a genuine vindication of their view.
+
+It is written in the Scots language, but is accessible to most modern English readers.
+
+It is written in the second and third person.
+
+It is written in the Southern Gothic style and is notable for its atmosphere of isolation and decadence.
+
+It is written in the spirit of a light commentary on the pointlessness of constant military drilling.
+
+It is written in the style of a courtroom drama with neo-noir elements.
+
+It is written in the style of a novel, even though it is a non-fiction work.
+
+It is written in the style of a scientific paper and catalogs an apocryphal series of bizarre experiments intended to measure the psychosexual appeal of Ronald Reagan, who was then the Governor of California and candidate for the 1968 Republican presidential nomination.
+
+It is written in the style of Bhakti saints and asks Mukunda, another name for Vishnu or Krishna, to give the unworthy author freedom from Samsara.
+
+It is written in the Sumerian language and dated to around 1600 BC.
+
+It is written in the Tamil script.
+
+It is written in the third person and deals with Gibsonian themes of emergent technology.
+
+It is written in the villanelle poetic form and is generally included in the biographical note appended to Plath's novel, The Bell Jar.
+
+It is written in the voice of a newlywed girl, sung to her new husband.
+
+It is written in the voice of an unnamed Spanish monk.
+
+It is written in two columns per page, 17 lines per page.
+
+It is written in two columns per page, 25 lines per page.
+
+It is written in Umbrian in Etruscan characters and marks the beginning of the epigraphic tradition in this part of Umbria.
+
+It is written in verse with a line of fourteen syllables and seven stresses but with much irregularity and deviation, the same meter as the Chronicle attributed to Robert of Gloucester, with certain lives appearing in both, suggesting complex forms of textual entanglement.
+
+It is written in WebGL.
+
+It is written in Xhosa and English.
+
+It Is Written is an internationally broadcast Seventh-day Adventist Christian television program founded in 1956 by George Vandeman.
+
+It is written mostly in combinations of 4/4 and 3/4 time signatures, phrased as 4+4+4+3 in the verses, a 4/4 pre-chorus and the main chorus phrased 7+7+4+4 (7/4 time).
+
+It is written mostly in irregular free verse, with two songs (one of which is from Marlowe's original), over twenty-one scenes.
+
+It is written mostly in unrhymed iambic pentameter, although portions are written in rhymed iambic pentameter, mixed iambic and anapestic tetrameter, and other forms.
+
+It is written on 289 leaves (318 by 205 mm).
+
+It is written on vellum and has marginalia.
+
+It is written on vellum with Latin text mainly following the Vulgate.
+
+It is written primarily by McKinsey consultants and alumni, with some guest authors.
+
+It is written primarily in Fortran with some C code and it runs best under the Unix operating system.
+
+It is written primarily in Perl and is used to develop applications in this language.
+
+It is written primarily in rhyming couplets.
+
+It is written primarily in the Ruby programming language.
+
+It is written, produced and crewed by students from Humber College's Television Writing and Producing program for them to gain valuable set experience, mentorship by industry professionals and graduate with on-screen credits in key positions, allowing them to jump-start their careers.
+
+It is written, produced, and directed by Adam Rifkin.
+
+It is written, produced and directed by Anthony Drazan.
+
+It is written, produced and directed by Damian Lee.
+
+It is written that as the musicians played at her wedding she "sang in her heart to the Lord".
+
+It is written that Sergius made Naples "into another Palermo, another Africa," by his friendly relations with the Aghlabids.
+
+It is written to allow people to understand what a product should do.
+
+It is written to Anne, his daughter with Georgie Hyde Lees, whom Yeats married after his last marriage proposal to Maud Gonne was rejected in 1916.
+
+It is written to the tune of the Spanish Civil War song Viva la Quinta Brigada.
+
+It is written using macOS's Cocoa API, and it is released under the GNU General Public License and many other licenses for components that are distributed with Adium.
+
+It is written using Mac OS X's Cocoa and WebKit APIs.
+
+It is written using Microsoft's .
+
+NET framework and uses the Microsoft Sync Framework.
+
+It is written using the asp.
+
+It is written using the Latin script but historically used Batak script.
+
+It is written vertically from top to bottom, with columns proceeding from left to right.
+
+It Is Written was the first religious program to air in color, and the first to take advantage of satellite technology.
+
+It is written with an e-mail format throughout the book.
+
+It is written with the Qt GUI toolkit.
+
+It is wrong to assume that composite applications are by definition part of a service-oriented architecture (SOA).
+
+It is wrong to give the impression that your dating website's userbase is made up entirely of gamers when it's in fact a portal to a generic dating database.
+
+It is Wrye's last film before his death in 2015.
+
+It is WS-BPEL 2.
+
+0 compliant.
+
+It is Wyatt's first release on the Domino Records label.
+
+It is Wynorski's sequel to his 2004 film Curse of the Komodo, with several similar elements (experimentation gone awry, father-daughter team, government attempt to bomb things, the ending, Komodo's behaviors, etc.).
+
+It is Wyoming's largest print newspaper, with a daily circulation of 23,760 and a Sunday circulation of 21,041.
+
+It is xerophilic, frequently found in house dust.
+
+It is Xiaomi's first tablet, manufactured by Foxconn.
+
+It is Yakima's largest employer, with around 2,200 workers.
+
+It is Yandel's most successful single as soloist, reaching number 3 on the US Hot Latin Songs chart and having more than 420,000 sales plus track-equivalent units between the United States and Spain.
+
+It is Yankovic's second parody of a Jackson song, the first being "Eat It", a parody of Jackson's "Beat It".
+
+It is yellow below and yellow in the wings.
+
+It is yellow-green and hairy, with a few basal leaves up to about 2 centimeters long.
+
+It is yellow in color, streaked and spotted with maroon.
+
+It is yellow in color when mature.
+
+It is yellowish, cream or white in color, lacking chlorophyll, with the tips of the bracts darkening with age.
+
+It is yellowish green in color.
+
+It is yellowish in color and is livebearing.
+
+It is yellowish in color with thick vertical dark bands.
+
+It is yellowish-orange, with black antennae.
+
+It is yellowish white, with a robust flavor and a somewhat acidic finish.
+
+It is yellowish-white with brown spots.
+
+It is yellowish with four black markings on its wings, while P. sexpunctatus is more reddish, and the anterior spots are separate, so the wings have six black markings.
+
+It is yellow to ochre in color, whereas the streaky "flames" are dark gray to black.
+
+It is yellow to yellow-brown in color.
+
+It is yellow, with blue veins.
+
+It is yellow with heavy red-orange speckling all over the wings.
+
+It is yellow with seven large black spots on each elytron and four small black spots on the pronotum.
+
+It is yellow with some red or purple dots inside, and it has a beard of yellow hairs on the lower lip.
+
+It is yet another story about Nell Gwyn taken from a Broadway play Mistress Nell that was very successful for stage actress Henrietta Crosman from 1900 to 1902.
+
+It is yet another story in Gwar's grand storyline (about the ne'er-do-well Scumdogs of the Universe), and the third to be released on video.
+
+It is yet to be observed, but it may have been generated in the collision of electron and positron beams.
+
+It is yet to contest elections directly but functions as a pressure group and works towards greater political representation of Kerala Iyers in governance.
+
+It is yet to date for clarity how theses enforcements came into existence and except b whom, but t is certain that note holders form the Midwest reached out in the Democratic Process for assistance.

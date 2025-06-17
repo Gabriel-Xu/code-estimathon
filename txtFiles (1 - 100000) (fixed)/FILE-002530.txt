@@ -1,0 +1,111 @@
+Raster graphics is one of the two different kinds of computer graphics. Raster graphics are also called bitmap graphics.
+
+With raster graphics, images are made of many tiny dots. The dots are called pixels.
+
+The individual pixels of a raster image each has its own color.
+
+The problem with raster graphics is that they can look blurry when zoomed in on. Therefore, there is another type of graphics called Vector graphics that work differently.
+
+A computer monitor is a good example of a raster image because it is made of pixels. The number of pixels it has is called the resolution of the monitor. Another example is photographs, which are normally raster images.
+
+Many printers today use computer languages like Postscript or PCL. These languages are usually based on the other type of computer graphics, called vector graphics.
+
+But to be printed, these images need to be translated into raster graphics first.
+
+This is done by a part called a Raster Image Processor. Most modern printers have those processors inside the printer. Some printers use a special piece of software on the computer to do that job.
+
+PostscriptPostscript is a programming language. It was developed by Adobe, in 1984. It is a standard used by many computer printers. There are three different versions of it, Postscript Level 1, Level 2, and Level 3.
+
+The Portable Document Format is another standard, also from Adobe. It is better adapted to printing. Many things computer languages have, have been dropped to develop PDF.
+
+And finally, a Hello World program, the customary way to show a small example of a complete program in a given language, might look like this in Postscript:or if the output device has a consoleHorse chestnutA horse chestnut ("Aesculus hippocastanum"), also known as the horse-chestnut, buckeye, conker tree, or Spanish chestnut, is a large deciduous tree. It is native to southern Europe, in the Balkans. It is often grown in temperate climates. It can grow up to 36 metres tall. The name of the tree (and the whole genus of similar trees) is because its fruit, the conker, was used to treat horses, against cough and some parasite worms.
+
+Horse chestnuts are not edible for humans. The trees are not closely related to sweet chestnuts.
+
+Francisco PizarroFrancisco Pizarro González, Marqués de los Atabillos (16 March 1478 – 26 June 1541) was a Spanish conquistador. Today, he is known as the conqueror of the Inca Empire. He also founded Lima, La Ciudad de los Reyes, capital of Peru. Pizarro was born in Trujillo, Extremadura, Spain.
+
+He was an illegitimate son of Gonzalo Pizarro Rodríguez de Aguilar (senior) who as colonel of infantry served in the Italian campaigns under Gonzalo Fernández de Córdoba, and in Navarre, with some distinction. His mother was Francisca González Mateos, a woman of slender means from Trujillo. Through his father, Francisco was second cousin to Hernán Cortés, the famed conquistador of Mexico.
+
+In 1502, Pizarro traveled to the New World where he joined in several expeditions to see the Pacific Ocean. In 1513 Pizarro joined the expedition of Vasco Núñez de Balboa across the Isthmus of Panama to become one of the first Europeans to see the Pacific Ocean. In 1524, after hearing stories about the exploration of Peru, he joined Diego de Almagro and Hernando de Soto. Together, they agreed to travel to Peru and look for gold. Despite the expedition ending in failure, Pizarro managed to make connections with the Inca people.
+
+In 1528 he returned to Spain, where the king allowed him to conquer the new land for Spain. Pizarro himself was to be named governor of Peru. In 1531 he landed in Peru again, leading fewer than 300 soldiers. The country was devastated by a recent civil war between Atahualpa and Huascar, the sons of the dead emperor. In November 1532, Pizarro met Atahualpa in the city of Cajamarca and managed to capture him, even though the Inca was protected by thousands of soldiers. The weapons of the Spaniards proved superior. In 1533, after paying a huge ransom for his release, Atahualpa requested to be let free but Pizarro killed him anyway. He then continued south into Peru and captured the capital of Cuzco.
+
+In 1535, Pizarro founded a new capital named La Ciudad de los Reyes, today known as Lima. However, some Spaniards had not been part of the capture of the Inca and therefore had not been paid any gold. Led by Almagro, the "Almagristas", Almagro's men, marched south into present-day Chile to find new riches, while Pizarro stayed in Peru. The Inca were treated very poorly and their riches stolen by the Spaniards, who built huge estates or brought gold back to Spain.
+
+In 1536, the Inca tried to overthrow him in a rebellion, but failed since Pizarro managed to subdue the Incas after a year of fights.
+
+However, the Spaniards had became so weakened that when Almagro returned, he took power and expelled Pizarro to the north. Pizarro returned with an army in 1538 and defeated Almagro. Almagro was executed in the plaza of Cuzco and Pizarro was again sole ruler.
+
+However, Almagro had a son who swore revenge, and in 1541, Pizarro was assassinated in his palace in Lima by a number of men following Diego Almagro the younger. He was himself caught and executed the following year, so was the last brother of Pizarro struggling for power in Peru, in 1548. Then the Spanish king took personal control over the country by a personal envoy, the "Viceroy".
+
+BingoBingo or Housie is a game where people try to match numbers drawn at random with numbers on a card. When someone does this, they call "BINGO!" or "HOUSE!" very loud so everyone playing can hear.
+
+The game was invented in Italy in the 1500s. The game slowly moved to other countries like France, Great Britain, and other parts of Europe. Bingo originates from the Italian lottery, Il Gioco del Lotto d'Italia. In Paris the game was known as Le Lotto, played by the rich part of French society. Since then the game become popular all over the world and today Charitable Bingo in US is worth $3 Billion.
+
+In the United Kingdom, the game is played by marking a card. The card has 27 squares in 3 rows of 9. 15 squares have a numbers between 1 and 90. 5 numbers on each row. The winner is the first player to mark the 5 numbers in one line or all fifteen numbers on the card.
+
+Bingo cards are normally printed in strips of six. A strip of six cards has every number between 1 and 90. Many people buy only 4 cards, so that the other two cards were usually wasted. Edward Thompson and Company, the largest printer of bingo tickets in the UK found a way to print strips of 12 so that there would be less waste, and so that any 6 tickets had all of the numbers 1 to 90.
+
+In the UK, all money used to buy the bingo ticket must be given back in prize money. The owner of a bingo club is allowed to charge an entrance fee and also a "participation fee" (a fee to be allowed to take part in the bingo game).
+
+In the United States, the game is played by a group of people. All of the group has cards and tokens. When a number is called that you have on your card, you place a token on that spot. The first person to make a line of 5 tokens up or down, across, or diagonally wins the game. This game is played for prizes usually.
+
+9 (number)Nine is the Arabic number which comes after 8 and before 10. It is an odd number, and is the highest single-digit number. It is also a square number. In Roman numerals, nine can be written as IX.
+
+The number nine (9) takes the shape of an upside-down six (6), is a multiple of 3, and the third square number after 4.
+
+Nine is also a composite number, having the factors: 1, 3 and 9 itself.
+
+5 (number)The number five is a number that comes after four and before the number six. In Roman numerals, it is V.
+
+Five is the third prime number, after two and three, and before seven. The number five is also an odd number.
+
+Most people have five fingers (including one thumb) on each hand and five toes on each foot.
+
+It is not known for certain who and how the shape of the number five was created, but most people think it was made by the Brahmin Indians.
+
+HurlingHurling (in Irish, "iománaíocht" or "iomáint") is an Irish outdoor team sport similar to hockey, played by two teams of 15 people.
+
+The object of the game is for players to use a wooden axe-shaped stick called a hurley (in Irish a "camán", pronounced kam-awn), or a hurl, to hit a small ball called a sliotar (pronounced slith-er) between the opponents' goalposts either over the crossbar for one point, or under the crossbar into a net guarded by a goalkeeper for one goal, which is equivalent to three points.
+
+The ball can be caught in the hand and carried for not more than four steps, struck in the air, or struck on the ground with the stick. It can be kicked or slapped with an open hand (the hand pass) for short-range passing. A player who wants to carry the ball for more than three steps has to bounce or balance the ball on the end of the stick, and the ball can only be handled twice while in his possession.
+
+Hurling is played on a pitch approximately 137m long and 82m wide The goals at each end of the field are formed by two posts, which are usually 6 m high, set 6.
+
+4 m apart, and connected 2.
+
+44 m above the ground by a crossbar. A net extending in back of the goal is attached to the crossbar and lower goal posts.
+
+6 (number)The number six is a natural number that comes after the number five and before the number seven.
+
+Six is also the first perfect number which means that the sum of its factors (1, 2 and 3) are equal to the number itself (6). The next perfect number is 28. In Roman numerals, it is VI.
+
+The number six is an even number.
+
+4 (number)The number four is a number and a numeral. It comes after the number three, and before the number five. In Roman numerals, it is IV.
+
+In mathematics, the number four is an even number and the smallest composite number. Four is also the second square number after one.
+
+A small minority of people have four fingers on each hand and four toes on each foot. Four squared is 16, and four doubled is 8.
+
+In geometry, quadrilaterals or tetragons are a kind of shapes called polygons have four sides and vertices, to which squares are quadrilaterals with sides of same length and vertices of the same wideness.
+
+7 (number)The number seven is a natural number that comes after six and before eight. In Roman numerals, it is VII.
+
+In mathematics, the number seven is an odd number and a prime number.
+
+It is also a Mersenne prime.
+
+Example91878577 is divisible by 7, so the original number 918785 is also divisible by 7.
+
+Proof:Pretend formula_1 is the root number and formula_2 is the last digit. Then formula_3 is the whole number.
+
+If the whole number (formula_3) is divisible by 7, formula_5 is also a multiple of 7. And formula_6 is also a multiple 7. That proves formula_7 is divisible by seven, since 3 and 6 are both multiples of 3. So formula_8 is also divisible by 7.
+
+8 (number)The number eight is a natural number that comes after the number seven and before the number nine. In Roman numerals, it is VIII.
+
+In mathematics, the number eight is an even number and a composite number. Eight is also a power of two, being 2 times itself 3 times.
+
+DonatelloDonatello (born Donato di Niccolò di Betto Bardi, c. 1386 – 13 December 1466) was an Italian sculptor during the Renaissance. He lived in Florence. He worked in stone, bronze, wood, clay, and wax with several assistants. His reputation as a great artist was stated by Vasari, and has always stood well. He worked in Rome, Sienna and Padua as well as Florence, and worked for the Church, for Cosimo de' Medici, and for various city authorities.
+
+He was born in Florence. He was the son of Niccolo di Betto Bardi. His mother's name is not known. When Donatello was older, he studied with Filippo Brunelleschi the architect. He also helped the sculptor Lorenzo Ghiberti to make statues for the Battistero di San Giovanni.

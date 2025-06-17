@@ -1,0 +1,147 @@
+Ernst Theodor Amadeus Hoffmann (born Königsberg 24 January 1776; died Berlin 25 June 1822) was a German writer, composer, music critic, painter, caricaturist and lawyer. He liked the music of Wolfgang Amadeus Mozart so much that he changed his third name from Wilhelm to Amadeus. He is always known as E. T. A. Hoffmann. He was a man of many talents, but his greatest importance is as a Romantic writer. He wrote fantasy and horror stories which had a very large influence on German literature in the 19th century. His stories had a lot of influence in music. He is the hero of Jacques Offenbach's famous opera "The Tales of Hoffmann". His fantasies were used in other musical works such as Delibes’s ballet "Coppélia" and in operas by Busoni and Hindemith.
+
+Hoffmann studied law at the University of Königsberg from where he graduated when he was only 16 years old. He finished his studies in Glogau and Berlin. His first job was in Posen. He married in 1802, but in the same year he had to leave his job because he had made fun of some people in his caricature drawings. He soon went to Warsaw where he worked as a lawyer as well as meeting famous writers. He composed music, including a symphony, a harp quintet and music for plays. Because of the political situation after the French invasion in 1806 he lost his job. He tried to get a job in Berlin but without success. In 1808 he went to Bamberg where he spent five years. His job there was as a conductor and theatre designer. He fell in love with a young girl called Julia Marc and composed sacred music and operas. He wrote musical criticism as well as stories for the newspaper "Allgemeine Musikalische Zeitung". These include the famous short stories "Ritter Gluck", "Don Juan" and the series called "Kreisleriana" ("Johannes Kreislers, des Kapellmeisters musikalische Leiden", i.
+
+e. "The musical suffering of the Director of Music Johannes Kreisler").
+
+In 1813 he left Bamberg and spent some time in Dresden, Leipzig and, from 1814 onwards, Berlin. He was an excellent lawyer and was able to work very sensibly as a court official while, at the same time, spending some time devoted to art. He often met with literary friends to discuss literature and wrote more stories including "Die Lebensansichten des Katers Murr" ("Tom-cat Murr’s views on life"). His health started to become poor. He suffered from creeping paralysis. Once again he got into trouble because of his satire, but before his punishment could be sorted out he fell ill and died.
+
+Hoffmann wrote various kinds of stories. Some of them are about fate, e.
+
+g. "Elixiere des Teufels" which is about a Capuchin monk who is tempted by the drink offered by the devil. Some of them are fairy tales, e.
+
+g. "Der goldene Topf" ("The golden pan") and "Nussknacker und Mausekönig" ("Nutcracker and Mouse King"). Very often in these stories the supernatural meets everyday reality. Some of his stories are autobiographical because they fantasies about himself. In particular, the story about Kreisler became very popular and was used by musicians, e.
+
+g. Robert Schumann in his piano pieces called "Kreisleriana".
+
+Hoffmann is one of the great writers of German prose. He brought his imaginary world to life with his Romantic characters.
+
+Hydrogen atomA hydrogen atom is an atom of the chemical element hydrogen.
+
+Its parts are a single negatively-charged electron that circles a single positively-charged nucleus of the hydrogen atom. The nucleus of hydrogen consists of only a single proton (in the case of hydrogen-1 or "protium"), "or" it may also include one or more neutrons (giving deuterium, tritium, and other isotopes). The electron is bound to the nucleus by the Coulomb force. Hydrogen-1, also known as protium or "light hydrogen" is the main component of natural hydrogen.
+
+Section 4.
+
+2 deals with the hydrogen atom specifically, but all of Chapter 4 is relevant.
+
+Fuel cellA fuel cell makes electricity using the energy released by mixing fuel with air, a reaction which creates water and sometimes also carbon dioxide. The most common fuel for fuel cells is hydrogen, which when reacted with oxygen from air produces only water. Fuel cells work like a battery being constantly fed with fuel so it never runs out (as long as you have enough fuel). Fuel cells are an important part of the hydrogen economy. Hydrogen molecules are found in substances such as methane, water and biomass but energy is required to extract it. There are two common ways to produce hydrogen - it can be separated from most fuels like oil, gas, or coal in a process called steam reforming, or it can be extracted from water using a process called electrolysis. If the hydrogen is separated from fossil fuels, carbon dioxide is released. If the energy used to extract it from water via electrolysis comes from solar or wind, then no emissions are released. Hydrogen can also be separated from renewable biogas, which means the carbon emitted is not of fossil origin and therefore is part of the natural carbon cycle.
+
+Water is a molecule that consists of one oxygen atom and two hydrogen atoms. It takes energy to separate water into oxygen and hydrogen, and energy is released when they are put back together as water. A fuel cell puts hydrogen and oxygen back together in a way releases the energy in the form of electricity.
+
+Fuel (the energy source, usually hydrogen) and air (which contains the oxygen) are put into opposite sides of the fuel cell. In the middle of the fuel cell there is a "screen", called an electrolyte, between two metal plates, called electrodes, which keeps the fuel and air separate. Different kinds of fuel cells get their names based on what type of screen is used to separate the fuel and air. The screen only allows specific charged molecules, also known as ions, to pass through them.
+
+In order to create ions, electrons have to be carried from the one side of the system to the other. The electrons are split off from the fuel by the metal plate at the fuel side and need to travel to the air side to complete the reaction. Because the screen doesn't let electrons pass through, they go through a separate wire, to the other metal plate on the air side. The travel of electrons creates electric current (electricity). The wire is where electricity can be used. For example, the wire can be cut in half, and a light bulb can be connected in between the two halves.
+
+In the meantime, the ions pass through the screen and react with the molecules (already on the other side) and electrons (which traveled through the wire, giving off energy to power electronics) on the other side. Water is formed (and, depending on the fuel type, occasionally other products), which them comes out through an exhaust pipe.
+
+Fuel cells make electricity by combining oxygen and hydrogen. Efficiency is very good (about 40%-70%). They have a maximum efficiency of 83% if exhaust heat is used during the reaction. Also, fuel cells can use various fuels, for example, natural gas, methanol, Liquid Petroleum Gas, naphtha, kerosene etc.
+
+Some types of fuel cells produce only water, which means no pollution. Most types of fuel cell cause much less emissions than classic ("caloric") power generation. They can consume the same fuel types as classic power generators, for example diesel engines, but they can produce the same amount of energy with half as much fuel, and thus at least half as much pollution. The direct conversion fuel cells use has less risk of producing secondary emissions like NOx, SOx, and particulate matter, which are side effects of combustion, contribute to global warming, and are known as .
+
+Fuel cells are very quiet. They have few moving parts aside from some fans to move air, and pumps to move water which means they very rarely require repairs. Some large fuel cells used for powering things like buildings can be quite fragile.
+
+Because of very low pollutant emissions, fuel cells are often used in vehicles that move inside buildings, like forklifts. Because they are very quiet, they are used on some military submarines to avoid detection. Fuel is more efficiently used, which means fuel cells can work longer without getting new fuel. This lets them be used in places that are hard to get to, such as weather or research stations, space ships, or military bases.
+
+Since spaceships are launched using rockets containing pure hydrogen and oxygen, the on-board electricity is produced using very efficient fuel cells which can use these fuels. The fuel cells on spaceships produce pure water on their exhaust, which can be further captured and used as drinking water for astronauts, meaning absolutely nothing is wasted.
+
+Fuel cells can be classified by the type of inner screen (electrolyte). For instance, phosphoric acid fuel cells are for low temperatures. It is used in cell phones and automobile power supplies that require high currents because it is much safer. Alkali fuel cells usually contain potassium hydroxide (KOH). Methanol fuel cells are used by reacting methanol electrochemically. This type of fuel cell is a better choice for simpler system. But methanol fuel cells have low output densities as its reacting rate is slow.
+
+Some important types of fuel cells are:There are many uses for fuel cells — major automakers are working to commercialize fuel cell cars. Toyota and Honda have released the Mirai and Clarity respectively. Fuel cells are powering buses, boats, trains, planes, scooters, forklifts, and bicycles. There are fuel cell-powered vending machines, vacuum cleaners and highway road signs. Miniature fuel cells for cellular phones, laptop computers and portable electronics are predicted. Hospitals, credit card centers, police stations, and banks use fuel cells to provide power to their facilities. Wastewater treatment plants and landfills use them to convert the methane gas they produce into electricity. Fuel Cells have long been used in outer space. Telecommunications companies use fuel cells at cell phone, radio and 911 towers.
+
+Live at Wembley (album)Live at Wembley is a DVD/CD by American R&B singer Beyoncé Knowles. It was released on April 27, 2004.
+
+IPod classicThe iPod Classic is a portable media player made by Apple Inc. To date, there have been six models of the iPod Classic, as well as the iPod Photo. All models use a 1.
+
+8-inch hard drive for storage.
+
+The name "Classic", which is a retronym or a "name that was given later on", started with the sixth-generation iPod Classic on 5 September 2007. Before this, an iPod Classic was simply called an iPod. A recent study by the Consumers Digest foundation, the "Guinness Book of Records" and the Apple Inc sales department has shown that iPod users bought extra accessories and upgrades every 6.
+
+2 months. The most purchases, one purchase every 6.
+
+3 days over the period 2000–2007, was by the Montmerle-Berents family of Paris, France.
+
+On September 9, 2014, Apple discontinued the iPod classic. The last product in the iPod line to use the original 30-pin iPod connector was the sixth-generation 160GB iPod Classic, which was also discontinued September 2014.
+
+The first generation iPod started the iPod market on October 22, 2001 with the slogan "1000 songs in your pocket". It had a black and white screen, 5GB and a click wheel with a menu button at the top, left and left and right buttons to the sides, a select button in the middle and in between the four buttons and the select button was where you moved your finger around the wheel to go up and down.
+
+A 10GB iPod was released on March 20, 2002.
+
+The second generation iPod was released on July 17, 2002. It had the same style as the first generation iPod. At first, 10GB iPod and 20GB iPod were available for $399 and $499 and later a 5GB iPod came out for $299.
+
+The third generation iPod was released on April 29, 2003 and featured a brand new touch sensitive wheel called the Click Wheel. A touch sensitive iPod wheel with the four buttons below the screen. A 10GB iPod was sold for $299, a 15GB iPod for $399 and a 30GB iPod for $399. On September 8, 2003 the Microsoft music software Musicmatch was discontinued and iTunes became available for Windows making the iPod compatible with Windows.
+
+The fourth generation iPod was released on July 19, 2004 and had the click wheel from the iPod Mini. A 20GB iPod was available for $299 and a 40GB iPod for $399. The iPod casing was also slightly slimmer and rounder.
+
+A special Harry Potter edition iPod was released on September 7, 2005 which featured the hogwarts logo on the back and all 6 harry potter audiobooks on iTunes already on the iPod.
+
+An special iPod called the iPod Photo was released on October 26, 2004. It has a color screen and the ability to connect the iPod to a TV and display a slideshow. The iPod could hold JPEG, BMP, GIF, TIFF, and PNG photo types.
+
+On June 28, 2005 the iPod Photo was merged into the normal iPod line adding a color screen and the ability to display photos to the iPod 4G.
+
+The fifth generation iPod was released on October 12, 2005 after the iPod Nano was released. As well as the "Signature iPod White" color, a black iPod was also released. This is the first iPod to be able to play videos. A 30GB iPod was available for $299 and a 60GB iPod for $399. This is the last iPod to have a plastic body. The sixth generation has a metal body.
+
+On September 12, 2006 an upgraded version of the iPod 5G was released. It featured a brighter screen and longer video playback. The 60GB model was replaced with an 80GB model and the prices were dropped by $50 for both models.
+
+The sixth generation iPod was renamed iPod Classic and was released on September 5, 2007. A 80GB iPod was available for $249 and a 160GB iPod for $349. The "Signature White iPod" has also been replaced with a silver iPod and the iPod now has a metal body.
+
+An upgraded version of the sixth gen iPod was released on September 9, 2008. The 80 and 160GB iPods were replaced with a thinner 120GB iPod for $249. It introduced Genius and audio recording features.
+
+Another upgraded version of the sixth gen iPod was released on September 9, 2009. The 120GB iPod's price was dropped to $229 and the now thinner 160GB iPod was re-introduced for $249. The 120GB iPod was later discontinued so the only option left is the 160GB iPod.
+
+Leo von CapriviGeorg Leo von Caprivi, later Georg Leo "Graf" von Caprivi de Caprara de Montecuccoli (), (24 February 1831–6 February 1899) was a German major general and politician, who succeeded Otto von Bismarck as Chancellor of Germany. Caprivi was German Chancellor from March 1890 to October 1894.
+
+Born in Charlottenburg, Berlin to a family of Italian and Slovenian origin, Caprivi joined the army in 1849 and fought in the Austro-Prussian War in 1866 and the Franco-Prussian War in 1870.
+
+He liked Bismarck, and once said "What jackass would dare to succeed Bismarck?". Kaiser Wilhelm II was arguing with Bismarck about changes to the government. In February 1890 the Kaiser told Caprivi to come back to Berlin. Caprivi was told that he would take over from Bismarck if Bismarck did not do what the Kaiser wanted. Caprivi became chancellor on 18 March 1890.
+
+Caprivi's government was friendlier to the Social Democrats and to the United Kingdom. The Zanzibar treaty of July 1890, meant Germany gave control of Zanzibar, an island near German East Africa to Britain in return for the island of Heligoland in the North Sea . Caprivi also got the Caprivi Strip added to German South West Africa. This is a narrow strip of land that links German South West Africa (now called Namibia), to the Zambezi River.
+
+In 1892 Caprivi resigned as Prussian Minister President and was replaced by Count Botho zu Eulenburg. Prussia was so powerful in the German Empire that having different people as Imperial Chancellor and Minister President made it hard to govern the country. Caprivi and Eulenburg were dismissed in 1894 and Prince Chlodwig of Hohenlohe-Schillingsfürst took both jobs.
+
+Columbia, MissouriColumbia is a city in the U.
+
+S. state of Missouri. The University of Missouri is located there.
+
+Santa Bárbara de SamanáThe Dominican city of Santa Bárbara de Samaná, or simply Samaná, is the head municipality of the Samaná province, on the south coast of the peninsula of Samaná. The people from this city, and of the province, are called "samanés" or "samanense", in Spanish.
+
+Santa Bárbara de Samaná is named "Santa Bárbara" after the Queen Bárbara de Braganza, wife of King Ferdinand VI of Spain. Samaná was the Taíno name of the region.
+
+The city was founded in 1756 as Santa Bárbara de Samaná, by the Spanish governor Francisco Rubio y Peñaranda. This was during the period when the area of Santo Domingo was a Spanish colony. Its first European inhabitants were families from the Canary Islands.
+
+When the Maritime District (an old division similar to a province) of Samaná was created in 1865, the city was elevated to the category of municipality.
+
+The municipality had, in , a total population of 33,196: 17,034 men and 16,162 women. The urban population was of the total population.
+
+Santa Bárbara de Samaná has a total area of (without including its municipal districts), about of the total area of the province of Samaná. The city is an elevation of above sea level, and at to the northeast of Santo Domingo.
+
+The city is surrounded by mountains of the "Sierra de Samaná", a small mountain range that covers most of the Samaná peninsula.
+
+The municipality of Santa Bárbara de Samaná has the Atlantic Ocean to the north and the east, the Samaná Bay to the south, the municipality of Las Terrenas to the northwest and the municipality of Sánchez to the southwest.
+
+Samaná has a tropical wet climate (Köppen-Geiger classification: Af) with no dry or cold season as it is constantly moist (rainfalls during the whole year).
+
+The average amount of rainfall for the year in the city is . The month with the most precipitation on average is November with of rainfall, followed by October with .
+
+The driest season is winter. The month with the least rainfall on average is February with an average of and the second is March with .
+
+Samaná is in a warm region; the average temperature for the year is . The warmest month, on average, is July with an average temperature of . The coolest month on average is January, with an average temperature of .
+
+The municipality of Santa Bárbara de Samaná has 3 municipal districts:AmateurThe word amateur is normally used to mean: somebody who does something (e.
+
+g. a job) without being paid for it.
+
+The opposite of an amateur is a professional. He (or she) will expect to be paid a professional fee for the job.
+
+The word “amateur” comes from a French word meaning: "lover of". An amateur is someone who does something (e.
+
+g. play the piano, football) because they enjoy doing it. They are not doing it in order to be paid. It is not how they earn money to live.
+
+People often forget the real meaning of the word “amateur”. It is often mistakenly used to mean: someone who is not good at something. On the other hand, an amateur might be described as having done a very “professional” job, i.
+
+e. done it as well as someone who is paid.
+
+Although one might expect a professional to be better than an amateur, this is not always the case. Someone might be a very good amateur pianist, possibly better than some professionals.
+
+In some jobs it would be impossible for amateurs to be allowed to work. One cannot have amateur doctors or lawyers. In some areas, however, amateurs have been very useful in fields including computer programming and astronomy and birdwatching. Wikipedia, for example, is written by amateurs.
+
+In some sporting events, all players are professional or all are amateur. Many events mix professional and amateur participants.

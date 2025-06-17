@@ -1,0 +1,25 @@
+Reaching this shrine is easy because it is close to Srinagar Highway. The Imambara is in the middle of Zadibal, and it is near the Khushal Sar Lake and Hari Parbat Fort that most people call Qilla. The nearest railway station is the Srinagar railway station. It is an hour's ride away by car. Sheikh ul Alam International Airport is only a few kilometers from the Imambara. Taxi services are also available within the city of Srinagar.
+
+Windows on WindowsWith computers, Windows on Windows (often shortened to WOW,) is a compatibility layer of x86 versions of the Microsoft Windows NT family of operating systems that allows many legacy 16-bit programs run that were made for Windows 3.
+
+x or before to run.
+
+WOW allows many 16-bit Windows programs to run without changes on newer 32-bit versions of Windows. This was made to give software developers time to make their software 32-bit while people moved from Windows 3.
+
+1x to Windows 95, so the OS can be upgraded to a newer version while running most, or all of, a customer's 16-bit programs.
+
+Windows 9x operating systems, which were made on top of DOS, had both 16 and 32-bit systems, so if it kept those 16-bit parts, the OS could run 16-bit software without emulation. NT-based versions are very different in how they run, so they need a more sophisticated solution. There are two main techniques to let 16-bit programs run on 32-bit versions of Windows (with some limitations) called thunking and shimming.
+
+WOW "thunks" 16-bit instructions into 32-bit equivalents to permit 16-bit pointers, memory spaces, and address spaces.
+
+16-bit programs usually run in a single virtual DOS machine, sharing memory between them. However, they can be changed to run in a private, separate memory space, where every 16-bit process has a separate process. This can reduce system crashes by not letting programs interfere with others, but it can cause reduced 16-bit inter-process communication and can use more of your computer's memory.
+
+WOW is a part of 32-bit editions of Windows NT. 64-bit versions of Windows (including Windows Server 2008 R2 and later where they only have 64-bit versions) can not run 16-bit software without using different emulation software (for example, DOSBox).
+
+WOWEXEC.
+
+EXE on Windows NT allows WoW to work. Windows-on-Windows can, using the WIN.
+
+COM file, emulate the Windows 3.
+
+x (for NTVDM), Windows 95 and Windows 98 kernels, which can run 16-bit DOS-powered Windows applications on Windows NT.

@@ -1,0 +1,175 @@
+Me Against the World is the third studio album by American rapper, Tupac Shakur. "Me Against the World" was released on March 14, 1995. The album was released when 2Pac was imprisoned and it debuted at #1 on the Billboard 200. By having this happen, it made him the first artist to have an album debut at number one on Billboard 200 while serving time in prison. It was nominated for Best Rap Album at the 1996 Grammy Awards. The album's first single "Dear Mama" was nominated for Best Rap Solo Performance.
+
+Palatal consonantA palatal consonant is a consonant that is pronounced with the body (the middle part) of the tongue against the hard palate (which is the middle part of the roof of the mouth). There is only one palatal consonant in English which is , which is the sound for "y" in the English word "yes". The most common palatal consonant used in the world is .
+
+These are the palatal consonants in the International Phonetic Alphabet:Approximant consonantAn approximant consonant is a consonant that sounds in some ways like a vowel. For example, lateral approximants like the sound for "l" in the English word "like", the sound for "r" in the English word "right", and semivowels like the sound for "y" in "yes" and the sound for "w" in "wet" are all approximants. These sounds are pronounced by bringing two parts of the mouth, for example the tongue and the roof of the mouth, close to each other. However, it is not close enough to cause the air to be blocked, like in a fricative consonant. Also, the parts are not far apart enough to become a vowel.
+
+Semivowels are a type of approximant consonant, which sound like vowels if you pronounced them alone. However, many languages use them as consonants. Here are the common semivowels in the International Phonetic Alphabet.
+
+In lateral approximants, only the centre of the tongue touches the roof of the mouth. So, air can only flow through the sides of the tongue, like the sound "l" in "like".
+
+All Eyez on MeAll Eyez on Me is the fourth studio album by American rapper, Tupac Shakur. "All Eyez on Me" was released on February 13, 1996. The album was certified 10× Diamond in 2014. The album also featured the Billboard Hot 100 number one singles "How Do U Want It" and "California Love".
+
+Windows 8Windows 8 is a no longer supported version of the Windows computer operating system, which was published by Microsoft. Windows 8 was released everywhere on October 26, 2012. The president of the Windows Division, Steven Sinofsky, said: "With this system we shall make the biggest change from Windows 95". Microsoft removed the "Start" button and designed a new tile-based user interface to replace the "Start" menu (which first appeared in Windows 95). Microsoft unsupported Windows 8 from January 12, 2016, and users will upgrade Windows 8.
+
+1 after it was discontinued on January 10, 2023.
+
+Several versions of Windows 8 were made available to software developers well before the final release. The first of these, the Developer Preview, came out in September 2011. On February 29, 2012, Microsoft released a beta version of Windows 8.
+
+0 known as the Consumer Preview. Anyone could register online to download this version for free. After the Consumer Preview, a final preview named "Release Preview" was released on May 31, 2012.
+
+On October 26, 2012, Windows 8 became available to the general public. Windows 8 received negative reviews. Microsoft also released a version called Windows RT, which was adapted for devices using ARM processors. Windows RT could not run most Windows applications. On the same day, Microsoft also put new devices running Windows 8, including its newly-created Surface tablets up for sale in stores and online.
+
+An update for Windows 8 was released on October 17, 2013, and it is called Windows 8.
+
+1. Windows 8.
+
+1 returns the normal "Start" button to the taskbar. During development, Windows 8.
+
+1 was known as "Blue".
+
+Windows 10 was made to replace Windows 8 and 8.
+
+1, and it came out on July 29, 2015. Users who owned Windows 7 with Service Pack 1 installed, or Windows 8.
+
+1, were able to upgrade to Windows 10 for free until July 29, 2016.
+
+As of August 2023, Windows 8 (i.
+
+e. 8.
+
+0) was used by 0.
+
+35% of PCs; with Windows 8.
+
+1, at 1% of PCs.
+
+One new feature in Windows 8 was the Windows Store. The Windows Store lets users buy new computer programs, or download them for free.
+
+Windows 8 added a new graphic user interface called "Modern" (also called Metro). Modern is meant to be suitable for smartphones, tablets, notebooks, and desktop computers. This interface shows “tiles”, which work as links and also as interactive widgets (tools you can look at, like RSS feeds, weather, e-mails). The Modern interface is best used with a touchscreen, but can be controlled by a mouse or keyboard. Windows 8 still offers the classic desktop interface through the "Desktop" tile.
+
+Microsoft reworked the booting process, replacing the classic BIOS with a new system called UEFI. This provides Secure Boot, a feature that only lets the computer start by using software its manufacturer has allowed.
+
+Windows To Go allows users to run the complete Windows system from a USB drive.
+
+Although Windows 8 is faster than Windows 7, it demands more pixels on the screen. The minimum is 1366 x 768 pixels, which affects many laptops that have a maximum resolution of 1024 x 600 pixels. Some users with older hardware have continued to use Windows 7 for this reason. Windows 8 will work on resolutions lower than this, but some of its features will be unavailable.
+
+File Explorer, formerly called Windows Explorer, has a new ribbon bar interface. It can stop and restart a file transfer, and makes it easier to save files that have the same name.
+
+Windows 8 lets users log in using face detection, voice control, or hand gestures using a camera.
+
+Two months after Windows 8 was released, there were rumors that Microsoft was making a major update to be code-named "Blue". In May 2013, Microsoft announced that "Windows Blue" was going to be called "Windows 8.
+
+1". On June 26, 2013, Microsoft released build 9431 as the Windows 8.
+
+1 Preview, which could be downloaded.
+
+On August 14, 2013, Microsoft announced that Windows 8.
+
+1 would be released digitally on October 17, and released in stores and in new computers on October 18. It included greater customization, and new Modern apps, such as a calculator, sound recorder, and file manager.
+
+In April 2014, Microsoft released an update for Windows 8.
+
+1 with improvements for keyboard and mouse users. This update pins the Windows Store to the taskbar by default. Each Modern app has a bar at the top and can be closed the same way desktop apps are closed.
+
+Windows To GoWindows To Go is a feature in Windows 8 and later that allows the entire system to run from a USB flash drive or external USB Hard Drive.
+
+In September 2011 Microsoft officially announced Windows To Go at the Build Conference, and gave out bootable USB Flash drives. These could hold 32GB of information. They also had Windows To Go pre-installed.
+
+DardistanDardistan (Perso-Arabic: داردستان) is a name for the northern Pakistan, and Kashmir in the upper Indus valleys and parts of north-eastern Afghanistan. It is inhabited by the Dards speaking Dardic languages.
+
+Lahore Stock ExchangeLahore Stock Exchange (Guarantee) Limited (LSE) is Pakistan's second-largest stock exchange after the Karachi Stock Exchange. It is in Lahore.
+
+M25 motorwayThe M25 motorway, or London Orbital, is a orbital motorway around Greater London.
+
+The motorway was first suggested early in the 20th century, and a few sections were built in the early 1970s. The M25 was completed in 1986: is one of the world's longest orbital roads.
+
+It is one of the busiest and most congested parts of the British motorway network. 196,000 vehicles were recorded in a single day near London Heathrow Airport. The M25 is a crucial link between the four main London airports: Heathrow, Gatwick, Stansted and Luton.
+
+Bearing in mind that no motorways go through the centre of London, the M25 is a main route connecting north with south, and east with the west of England.
+
+The motorway was originally built with only six lanes (three each way), despite research which suggested eight lanes were necessary. Now a fourth lane exists over most of the motorway, and more in special sections (see diagram). Plans were scaled back in 2009 in response to rising costs, but work is still going on.
+
+Public enquiries continued through the 1970s and 1980s. Each section had its own enquiry, where local citizens and interest groups could question the plans. In all, "39 public inquiries before independent Inspectors were held, taking over 700 sitting days – with many more working days (and nights) preparing evidence". Objectors could put forward alternatives, and each of these had to be answered with presentation of evidence. Evidence included predictions of traffic and events which would affect growth of traffic. Enquiries and evidence were open to public scrutiny and debate.
+
+Some enquiries lasted a day, and one one lasted 97 sitting days over 13 months. Proposals had to go before Parliament, and a special Act was needed to authorise the crossing of the northern tip of Epping Forest by the route in tunnel.
+
+As predicted by research, soon after the motorway opened in 1986 traffic levels exceeded maximum designed capacity. In 1990 the Secretary of State for Transport announced plans to widen the whole of the M25 to four lanes. By 1993 the motorway that was designed for a maximum of 88,000 vehicles per day was carrying 200,000. 15% of UK motorway traffic volume was on the M25 and there were plans to add 6 lanes to the section from Junction 12 to 15 as well widening the rest of the motorway to 4 lanes.
+
+In 1995 a contract was awarded to widen the section between junctions 8 and 10 from six to eight lanes for a cost of £93.
+
+4 million and a 'Motorway Incident Detection and Automatic Signalling' (MIDAS) system was introduced to the M25 from junction 10 to junction 15 at a cost of £13.
+
+5m in 1995 and then extended to junction 16 at a cost of £11.
+
+7m in 2002. This consists of a distributed network of traffic and weather sensors, speed cameras and variable-speed signs that control traffic speeds with little human supervision. The system has improved traffic flow slightly, and reduced the amount of start-stop driving. The use of variable speed limits makes this a "controlled motorway", and if hard shoulders are used at peak times it becomes a "managed motorway".
+
+In 1995 there was a proposal to widen the section close to Heathrow Airport to 14 lanes. This attracted fierce opposition from road protesters opposing the Newbury Bypass and other schemes, and it was cancelled shortly afterwards. However, in 1997 the Department of Transport announced new proposals to widen the section from junction 12 (M3) and junction 15 (M4) to 12 lanes. At the Terminal Five public inquiry a Highways Agency official said that the widening was needed to accommodate traffic to the proposed new terminal, however the transport minister said that no such evidence had been given. Environmental groups objected to the decision to go ahead without holding a public inquiry. A decision to go-ahead was given for a 10-lane scheme in 1998, and the £148 million 'M25 Jct 12 to 15 Widening' contract was awarded to Balfour Beatty in 2003. The scheme was completed in 2005 as dual-five lane between junctions 12 to 14 and dual six lanes from 14 to 15.
+
+The road cost £1 billion (in 1980s money) and took 11 years to build. It used two million tons of concrete and 3½ million tons of asphalt.
+
+Traffic bottleneck at the Dartford Crossing in the east is the greatest problem on the motorway at present, even though the crossing is technically not part of the M25. At present the crossing is by bridge from the north, and by tunnel from the south. There are usually long tailbacks in both directions.
+
+On its 25th birthday the BBC listed some of its effect on life near the capital:!
+
+scope=col| miles!
+
+scope=col| km!
+
+scope=col| Clockwise exits (A carriageway)!
+
+scope=col| Junction!
+
+scope=col| Anti-clockwise exits (B carriageway)!
+
+scope=col| Opening date! scope=row| RiverThames! scope=row| J1A! scope=row| J1B! scope=row| J2! scope=row| J3! scope=row| J4! scope=row| J5! scope=row| Services! scope=row| J6! scope=row| J7! scope=row| J8! scope=row| J9! scope=row| Services! scope=row| J10! scope=row| J11! scope=row| J12! scope=row| J13! scope=row| J14! scope=row| J15! scope=row| J16! scope=row| J17! scope=row| J18! scope=row| J19! scope=row| J20! scope=row| J21! scope=row| J21A! scope=row| J22! scope=row| J23! scope=row| J24! scope=row| J25! scope=row| J26! scope=row| J27! scope=row| J28! scope=row| J29! scope=row| J30! scope=row| J31! scope=row| RiverThamesHarold UreyHarold Clayton Urey (April 29, 1893 – January 5, 1981) was an American physical chemist. His pioneering work on isotopes earned him the Nobel Prize in Chemistry in 1934. He played a significant role in the development of the atom bomb, and he had ideas on the development of organic life from non-living matter.
+
+Urey earned a degree in zoology from the University of Montana and a Ph.
+
+D. in chemistry, studying thermodynamics under Gilbert N. Lewis at the University of California, Berkeley.
+
+At Berkeley, Urey was influenced by the work of physicist Raymond T. Birge and soon joined Niels Bohr in Copenhagen to work on atomic structure at the Institute for Theoretical Physics.
+
+On his return to the U.
+
+S. and between 1924 and 1928, he taught at The Johns Hopkins University as 'Associate in Chemistry', and then at Columbia where he assembled a team of associates. He wrote (with Arthur Ruark), "Atoms, quanta and molecules", one of the first English texts on quantum mechanics and its applications to atomic and molecular systems.
+
+He discovered deuterium, isolating it by repeatedly distilling a sample of liquid hydrogen. In 1931, he and his associates went on to demonstrate the existence of heavy water. Urey was awarded the Nobel Prize in Chemistry in 1934 for this work.
+
+During World War II, Urey's team at Columbia worked on a number of research programs that contributed towards the Manhattan Project to develop an atomic bomb for the United States. Most importantly, they developed the gaseous diffusion method to separate uranium-235 from uranium-238. In autumn 1941, Urey, with G.
+
+B. Pegram, led a diplomatic mission to England to establish co-operation on the development of the atomic bomb.
+
+Isaac Asimov, a student at Columbia at this time, remembers Urey lamenting, perhaps too strongly, how pained he was that he could do nothing to help the war effort. Asimov pointed out innocently that perhaps the enriched uranium kept at Columbia may have had something to do with the war effort. Urey reddened and changed the subject. Urey had worried about the German atomic bomb while working on uranium separation at Columbia during the war, and now referred to "the most dangerous situation that humanity has ever faced in all history".
+
+After the war, Urey became professor of chemistry at the Institute for Nuclear Studies, then Ryerson professor of chemistry at the University of Chicago before moving to the University of California, San Diego. A UCSD building was named in his honor in the early 1960s, during a time when nearly all buildings other than student dormitories had only generic names. The name of the building is actually the "Frieda and Harold Urey Hall". Urey would have rejected the honor, he hated the architecture of the building, but since it also honored his wife he accepted.
+
+In later life, Urey helped develop the field of 'cosmochemistry' and is credited with coining the term. His work on oxygen-18 led him to develop theories about the abundance of the chemical elements on Earth and of their abundance and evolution in the stars. This work was among the pioneering paleoclimatic research. Urey summarised his work in the book "The planets: their origin and development" (1952). Urey speculated that the early terrestrial atmosphere was probably composed of ammonia, methane and hydrogen; it was one of his Chicago graduate students, Stanley L. Miller, who showed that, if such a mixture be exposed to electric sparks and to water, it can interact to produce amino acids, commonly called the "building blocks of life" ("see Miller-Urey experiment").
+
+Urey died at La Jolla, California, and is buried in the Fairfield Cemetery in DeKalb County, Indiana. While working at Columbia University, Urey was a resident of Leonia, New Jersey.
+
+German ReichGerman Reich () was the official name for Germany from 1871 to 1945.
+
+The history of Germany during the time of the German Reich is usually broken into three parts:Trịnh Công SơnTrịnh Công Sơn (February 28, 1939 – April 1, 2001) was a Vietnamese composer, musician, painter and songwriter.
+
+He, along with Pham Duy and Van Cao, is widely considered one of the three salient figures of modern (non-classical) Vietnamese music.
+
+Constituent Assembly of PakistanThe Constituent Assembly of Pakistan was Pakistan's first parliament and first met on 10 August, 1947. The next day Quaid-i-Azam Muhammad Ali Jinnah (1876-1948), was elected as the President of the assembly and the new national flag was approved. On 14 August, 1947, Jinnah gave a speech which outlined the important principles of the future government of an independent Pakistan. Jinnah was chosen as the first Governor-General of Pakistan. The assembly's main task was to write a new constitution for Pakistan.
+
+This was a difficult task, however the assembly did agree on the "Objective Resolution" on 12 March, 1949. A special committee of 24 members of the Constituent Assembly worked on a constitution based on the ideas in the Objective Resolution. The Governor-General, Ghulam Muhammad, shut down the assembly on 24 October 1954, before the draft constitution could be presented. The President of the Assembly, took legal action as he believed that shutting down the assembly was illegal. He lost the case in the Federal Court.
+
+A second Constituent Assembly of Pakistan was formed on 28 May 1955. They wrote the new constitution which came into force on 23 March 1956.
+
+Piranha 3DPiranha 3D is a 3-D movie directed by Alexandre Aja. It stars Elisabeth Shue, Steven R. McQueen, Jessica Szohr, Jerry O'Connell, Kelly Brook, Riley Steele, Gianna Michaels, Christopher Lloyd, Ving Rhames, Roberto Chavira, Dina Meyer, Sage Ryan, Brooklynn Proulx and special starring Richard Dreyfuss.
+
+In Lake Victoria, an earthquake forms a underwater fault line. Hungry piranhas come out. In the city of Lake Victoria (named for the lake), spring break has just started and some guys go into the lake celebrate and swim.
+
+Dimension Films has announced that a sequel will be released in November 2011 due to the success of this and the sequel will be called "Piranha 3DD".
+
+Richard Dreyfuss makes a cameo in the movie when he sings the song "Show Me The Way To Go Home".
+
+Dreyfuss sang the same song in Steven Spielberg's "Jaws".
+
+You Lost Me"You Lost Me" is a song by American singer Christina Aguilera, from her 2010 album "Bionic". The song was written by Aguilera, Samuel Dixon and Sia Furler. It's a slow melody pop-ballad song that talks about a cheating boyfriend, who has left the world in Aguilera's view as "infected". It was released on July 6, 2010 as the third single from Aguilera's "Bionic" album.
+
+Metric system

@@ -1,0 +1,105 @@
+This enzyme catalyzes the following chemical reaction Hydrolysis of DNA containing ring-opened 7-methylguanine residues, releasing 2,6-diamino-4-hydroxy-5-(N-methyl)formamidopyrimidineThis enzyme participates in processes leading to recovery from mutagenesis and/or cell death by alkylating agents.
+
+This enzyme catalyzes the following chemical reaction: Hydrolysis of four peptide bonds in the viral precursor polyprotein, commonly with Asp or Glu in the P6 position, Cys or Thr in P1 and Ser or Ala in P1'This enzyme is encoded by the genome of the viruses of the hepatitis C group.
+
+This enzyme catalyzes the following chemical reaction Hydrolysis of gamma-D-glutamyl bonds to the L-terminus (position 7) of meso-diaminopimelic acid (meso-A2pm) in 7-(L-Ala-gamma-D-Glu)-meso-A2pm and 7-(L-Ala-gamma-D-Glu)-7-(D-Ala)-meso-A2pm.
+
+This enzyme catalyzes the following chemical reaction Hydrolysis of -Gln76-Phe- bond in synaptobrevinThis cinc enzyme produced by Clostridium tetani.
+
+This enzyme catalyzes the following chemical reaction Hydrolysis of oligopeptides, with broad specificity.
+
+This enzyme catalyzes the following chemical reaction Hydrolysis of O-sialoglycoproteins; cleaves -Arg31-Asp- bond in glycophorin A. Does not cleave unglycosylated proteins, desialylated glycoproteins or glycoproteins that are only N-glycosylatedThis enzyme is secreted by the bacterium Pasteurella haemolytica.
+
+This enzyme catalyzes the following chemical reaction Hydrolysis of peptides of at least six residues, with bulky hydrophobic residues in the P1' position.
+
+This enzyme catalyzes the following chemical reaction Hydrolysis of polypeptides, preferably at -Xaa-Arg-Lys-, and less commonly at -Arg-Arg-Xaa-, in which Xaa is not Arg or LysThis enzyme is present rat brain and testis.
+
+This enzyme catalyzes the following chemical reaction Hydrolysis of polypeptides with Arg or Lys in P1 and P2, e.
+
+g. to hydrolyse pro-oxytocin at -Lys-Arg-Ala-Val-.
+
+This endopeptidase is present in bovine pituitary neurosecretory granules.
+
+This enzyme catalyzes the following chemical reaction Hydrolysis of proteins.
+
+This enzyme catalyzes the following chemical reaction Hydrolysis of proteins, but not Bz-Tyr-OEt, Ac-Phe-beta-naphthylester, or Bz-Arg-OEtThis is an Escherichia coli cytoplasmic endopeptidase.
+
+This enzyme catalyzes the following chemical reaction Hydrolysis of proteins, favoring hydrophobic residues at P1 and P1'.
+
+This enzyme catalyzes the following chemical reaction Hydrolysis of proteins, including azocasein, and peptides.
+
+This enzyme catalyzes the following chemical reaction Hydrolysis of proteins, including basement membrane collagen and azocasein.
+
+This enzyme catalyzes the following chemical reaction Hydrolysis of proteins, including collagenThis peptidase is isolated from Thermoactinomyces vulgaris.
+
+This enzyme catalyzes the following chemical reaction Hydrolysis of proteins including elastin, collagen types III and IV, fibronectin and immunoglobulin A, generally with bulky hydrophobic group at P1'.
+
+This enzyme catalyzes the following chemical reaction Hydrolysis of proteins, including fibronectin, type IV collagen and nucleolin.
+
+This enzyme catalyzes the following chemical reaction Hydrolysis of proteins including native collagen at -Ala bond leaving an N-terminal (75%) and a C-terminal (25%) fragmentThis enzyme is isolated from the larva of a warble fly, Hypoderma lineatum.
+
+This enzyme catalyzes the following chemical reaction Hydrolysis of proteins in presence of ATPThis enzyme is a product of the lon gene in Escherichia coli.
+
+This enzyme catalyzes the following chemical reaction Hydrolysis of proteins of the fertilization envelope and dimethylcaseinThis enzyme is a glycoprotein from various members of the class Echinoidea.
+
+This enzyme catalyzes the following chemical reaction Hydrolysis of proteins to small peptides in the presence of ATP and Mg2+.
+
+This bacterial enzyme contains subunits of two types, ClpP, with peptidase activity, and ClpA, with ATPase activity.
+
+This enzyme catalyzes the following chemical reaction Hydrolysis of proteins with broad specificity.
+
+This enzyme catalyzes the following chemical reaction Hydrolysis of proteins with broad specificity, and of Bz-Arg-OEt > Ac-Tyr-OEt.
+
+This enzyme catalyzes the following chemical reaction Hydrolysis of proteins, with broad specificity for peptide bonds.
+
+This enzyme catalyzes the following chemical reaction Hydrolysis of proteins with broad specificity for peptide bonds, similar to those of papain and chymopapainThis enzyme is isolated from papaya plant, Carica papaya.
+
+This enzyme catalyzes the following chemical reaction Hydrolysis of proteins with broad specificity similar to that of pepsin A, preferring hydrophobic residues at P1 and P1'.
+
+This enzyme catalyzes the following chemical reaction Hydrolysis of proteins with broad specificity similar to that of pepsin A, preferring hydrophobic residues at P1 and P1', but also cleaving Gly20-Glu in the B chain of insulin.
+
+This enzyme catalyzes the following chemical reaction Hydrolysis of proteins with broad specificityThis enzyme is isolated from the sarcocarp of the musk melon (Cucumis melo).
+
+This enzyme catalyzes the following chemical reaction Hydrolysis of proteins with specificity similar to chymotrypsinThis enzyme is isolated from Streptomyces griseus.
+
+This enzyme catalyzes the following chemical reaction Hydrolysis of proteins with specificity similar to that of pepsin A, but also cleaves Cys(SO3H)7-Gly and Leu17-Val in the B chain of insulinThis enzyme is isolated from the fungus Scytalidium lignicolum.
+
+This enzyme catalyzes the following chemical reaction Hydrolysis of proteins with specificity similar to that of pepsin A; prefers hydrophobic residues at P1 and P1', but does not cleave Ala14-Leu in the B chain of insulin or Z-Glu-Tyr.
+
+This enzyme catalyzes the following chemical reaction Hydrolysis of proteins with trypsin-like specificityThis enzyme is isolated from Streptomyces griseus.
+
+This enzyme catalyzes the following chemical reaction Hydrolysis of soluble and insoluble elastin.
+
+This enzyme catalyzes the following chemical reaction Hydrolysis of sucrose and maltose by an alpha-D-glucosidase-type actionThis enzyme is isolated from intestinal mucosa as a single polypeptide chain.
+
+This enzyme catalyzes the following chemical reaction Hydrolysis of terminal, non-reducing alpha-D-xylose residues with release of alpha-D-xylose.
+
+This enzyme catalyzes the following chemical reaction Hydrolysis of terminal, non-reducing beta-D-mannose residues in beta-D-mannosidesThis gene encodes a member of the glycosyl hydrolase 2 family.
+
+This enzyme catalyzes the following chemical reaction Hydrolysis of terminal non-reducing N-acetyl-D-glucosamine residues in N-acetyl-alpha-D-glucosaminidesThis enzyme hydrolyses UDP-N-acetylglucosamine.
+
+This enzyme catalyzes the following chemical reaction Hydrolysis of the 4-sulfate groups of the N-acetyl-D-galactosamine 4-sulfate units of chondroitin sulfate and dermatan sulfateThis enzyme also acts on N-acetylglucosamine 4-sulfate.
+
+This enzyme catalyzes the following chemical reaction: Hydrolysis of the alpha-D-mannosyl-(1->6)-beta-D-mannosyl-(1->4)-N-acetyl-beta-D-glucosaminyl-(1->4)-N-acetyl-beta-D-glucosaminyl sequence of glycoprotein to alpha-D-mannosyl-(1->6)-D-mannose and N-acetyl-beta-D-glucosaminyl-(1->4)-N-acetyl-beta-D-glucosaminyl sequencesThe substrate group is a substituent on N-4 of an asparagine residue in the glycoprotein.
+
+This enzyme catalyzes the following chemical reaction Hydrolysis of the alpha-linked peptide bond in the sequence Gly-Gly-!
+
+Ala-Thr-Tyr at the C-terminal end of the small ubiquitin-like modifier (SUMO) propeptide, Smt3The enzyme from Saccharomyces cerevisiae can also recognize small ubiquitin-like modifier 1 (SUMO-1) from human.
+
+This enzyme catalyzes the following chemical reaction Hydrolysis of the B chain of insulin at -Glu13-Ala-, -Leu15-Tyr- and -Phe25-Tyr-, and angiotensin I at -Tyr4-Ile-.
+
+This enzyme catalyzes the following chemical reaction Hydrolysis of the bonds linking certain hydrophobic residues in hemoglobin or globin.
+
+This enzyme catalyzes the following chemical reaction Hydrolysis of the N-glycosylic bond at A-4324 in 28S rRNA from eukaryotic ribosomes.
+
+This enzyme catalyzes the following chemical reaction Hydrolysis of the -Phe33-Leu- bond in the alpha-chain of hemoglobin, leading to denaturation of the moleculeThis enzyme is present in the malaria organism, Plasmodium.
+
+This enzyme catalyzes the following chemical reaction Hydrolysis of the terminal alpha-D-glucosyl-(1,3)-D-mannosyl unit from the GlcMan9(GlcNAc)2 oligosaccharide component of the glycoprotein produced in the Golgi membraneThis protein is involved in the synthesis of glycoproteins.
+
+This enzyme catalyzes the following chemical reaction Hydrolysis of Xaa!
+
+His dipeptidesThis mammalian cytosolic enzyme also acts on anserine and homocarnosine.
+
+This enzyme catalyzes the following chemical reaction Hydrolysis of Xaa!
+
+Pro dipeptides; also acts on aminoacyl-hydroxyproline analogsThis enzyme is Mn2+-activated.

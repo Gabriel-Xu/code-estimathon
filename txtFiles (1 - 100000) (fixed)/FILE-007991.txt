@@ -1,0 +1,113 @@
+CamelCase is used in some wiki markup languages for terms that should be automatically linked to other wiki pages. This convention was originally used in Ward Cunningham's original wiki software, WikiWikiWeb, and can be activated in most other wikis. Some wiki engines such as TiddlyWiki, Trac and PMWiki use it in the default settings. They also usually provide an option or plugin to disable it. Wikipedia used to use CamelCase linking. However, they have switched to explicit link markup using square brackets and many other wiki sites have done the same. Some wikis that do not use CamelCase linking may still use the CamelCase as a naming convention, such as AboutUs.
+
+The NIEM registry requires that XML data elements use upper CamelCase and XML attributes use lower CamelCase.
+
+Most popular command-line interfaces and scripting languages usually can't handle file names that contain embedded spaces. Because of this, users of those systems often use CamelCase (or underscores, hyphens and other "safe" characters) for compound file names like MyJobResume.
+
+pdf.
+
+Microblogging and social networking sites that limit the number of characters in a message (most famously Twitter, where the 140-character limit can be quite restrictive in languages that rely on alphabets, including English) are usually outlets for medial capitals. Using CamelCase between words reduces the number of spaces, and thus the number of characters in a given message. This allows more content to fit into the limited space.
+
+CamelCase has been used in languages other than English for several purposes. Some examples are:CamelCase is sometimes used in the writing or translation of certain scripts as a way to tell the difference between certain letters or markings. An example is the rendering of Tibetan proper names like "rLobsang": the "r" here stands for a prefix glyph in the original script that functions as tone marker rather than a normal letter. Another example is "tsIurku", a Latin transcription of the Chechen term for the capping stone of the characteristic Medieval defensive towers of Chechenia and Ingushetia; the capital letter "I" here showing a phoneme different from the one transcribed as "i".
+
+CamelCase may also be used when writing proper names in languages that add prefixes to words. In some of those languages, the custom is to leave the prefix in lower case and capitalize the root.
+
+This convention is used in Irish orthography e.
+
+g., ("in Galway"), from ("Galway"); ("to Ireland"), from ("Ireland).
+
+Similarly, when translating the Hebrew language, "haIvri" means "the Hebrew person" and "biYerushalayim" means "in Jerusalem".
+
+This convention is also used by several Bantu languages (e.
+
+g., "kiSwahili" = "Swahili language", "isiZulu" = "Zulu language") and several indigenous languages of Mexico (e.
+
+g. Nahuatl, Totonacan, Mixe–Zoque and some Oto-Manguean languages).
+
+Abbreviations of some academic qualifications are sometimes presented in CamelCase without punctuation, e.
+
+g. PhD or BSc.
+
+In French, CamelCase acronyms such as OuLiPo (1960) were favored for a time as alternatives to initialisms (or representing compound words only by the first letter of each word).
+
+CamelCase is often used to transliterate initialisms into alphabets where two letters may be required to represent a single character of the original alphabet, e.
+
+g., DShK from Cyrillic ДШК and PPSh from Cyrillic ППШ.
+
+In Chinese pinyin, CamelCase is sometimes used for place names so that it is easier for readers to pick out the different parts of the word. For example, places like Beijing (北京) and Qinhuangdao (秦皇岛) and Daxing'anling (大兴安岭) can be written as "BeiJing," "QinHuangDao," and "DaXingAnLing," with the number of capital letters being the same as the number of Chinese characters for each word. Writing word compounds only by the initial letter of each character is also acceptable in some cases, so Beijing can be written as "BJ," Qinghuangdao as "QHD," and Daxing'anling as "DXAL".
+
+In several languages, including English, pronouns and possessives may be capitalized to show respect. For example: when referring to the reader of a formal letter or to God. In some of those languages, the capitalization is retained even when those words occur within compound words or suffixed to a verb. For example, in Italian one would write ("offering to You respectful salutations") or ("adore Him").
+
+In German nouns carry a grammatical gender—which, for roles or job titles, is usually masculine. Since the feminist movement of the 1980s, some writers and publishers have been using the feminine title suffixes "-in" (singular) and "-innen" (plural) to help boost the inclusion of women; but written with a capital 'I', to indicate that males are not excluded. Example: ("co-workers, <nowiki>male or</nowiki> female") instead of ("co-workers", masculine grammatical gender) or ("female co-workers"). This use is analogous to the use of parentheses in English, for example in the phrase "congress(wo)man."
+
+In German, the names of statutes are shortened using embedded capitals. An example would be: StGB (Strafgesetzbuch) for criminal code, PatG (Patentgesetz) for Patent Act or the very common GmbH (Gesellschaft mit beschränkter Haftung) for Company with Limited Liability.
+
+Ibrahim LodiIbrahim Lodi (d. 21 April 1526) was the last sultan of Delhi. He was an ethnic Pashtun. He became sultan in 1517 after Sikandar Lodi died. Sikandar was his father and Ibrahim was soon challenged by his younger brother, Jalal Kahn. Ibrahim had military skills. But unlike his father he lacked tact.
+
+He faced a number of rebellions. The Mewar ruler Rana Sangram Singh extended his empire right up to western Uttar Pradesh and threatened to attack Agra. There was rebellion in the East also. Ibrahim Lodi also displeased the nobility when he replaced old and senior commanders by younger ones who were loyal to him. He further alienated them by throwing some of the older noblemen in prison. His Afghan nobility eventually invited Babur to invade India. In 1526, the Mughal forces of Babur, the king of Kabulistan, defeated Ibrahim's much larger army in the 1st Battle of Panipat. Ibrahim was killed during the battle. It is estimated that Babur's forces numbered around 12,000 men. His army had between 20 to 24 pieces of field artillery. Ibrahim Lodi had around 30,000-40,000 men along with at least 100 war elephants. After Ibrahim Lodi was overthrown, the mughals invaded India.
+
+St Nicholas DaySaint Nicholas Day is the feast day of Saint Nicholas. It is on December 6 (December 19 in most Orthodox countries). It is a festival for children in many countries around Europe related to surviving legends of Saint Nicholas. The American Santa Claus, as well as the British Father Christmas, are based on these legends. "Santa Claus" is based in part from the Dutch "Sinterklaas".
+
+Saint Nicholas in different countries travels with different people. He may travel with Angels, Krampus, and others.
+
+Julio VelascoJulio Velasco (born February 9, 1952 in La Plata, Argentina) is a professional volleyball coach from Argentina. He guided the Italian national men's team to several successes in the 1990s. After the 1996 Summer Olympics, where the Italians won silver, he switched to the Italian women's team (1996–1997). In 2011, Velasco was signed as the head coach of the Iran men's national team. He became coach of the Argentina men's national team before his contract expired with the Iranian national team on 1 March 2014. The President of Argentina asked him to take this job. The change was approved by the Iranian volleyball confederation.
+
+Marina Oswald PorterMarina Nikolayevna Oswald Porter (July 17, 1941) is the widow of Lee Harvey Oswald. According to the Warren Commission he was the sole assassin of U.
+
+S. President John F. Kennedy. She married Oswald during his temporary defection to the Soviet Union and emigrated to the United States with him. After the assassination and Oswald's murder, she testified against Oswald during the Warren Commission hearings and remarried two years after.
+
+She was born in Severodvinsk (formerly named Molotovsk), Arkhangelsk Oblast, Russia on 17 July 1941. She met Lee Harvey Oswald at a dance in March 1961 in Russia. They were married on April 30 1961. Their daughter, June Lee, was born on February 15, 1962. Later that year the Oswalds moved from Russia to the United States. In Dallas, Marina gave birth to a second daughter, Audrey Marina Rachel Oswald. After the assassination of President Kennedy in 1963, Oswald was arrested. Two days later Oswald was shot and killed by nightclub owner Jack Ruby while still in police custody. Porter was under Secret Service protection until she finished giving testimony before the Warren Commission. She told the commission she believed husband was guilty of shooting President Kennedy on Nov. 22, 1963. In 1965, she married Kenneth Jess Porter. They worked at eluding reporters, who had learned of the engagement, and travelled to Fate to be wed by a justice of the peace. They had one son. In 1989, Porter became a naturalized citizen of the United States. As of 2013, Marina lives in Rockwall, Texas, and generally avoids publicity.
+
+Porter has said that she now believes that Lee Harvey Oswald was completely innocent of the deaths of Kennedy and Tippit. In 1980 she was convinced by conspiracy buffs that the man in Harvey's grave was a Russian spy and not her husband. She still lives with her second husband but in private and is afraid to go out in public. She believes her phones are tapped by the Secret Service. Porter also believes the Secret Service want to kill her. She also expressed her belief that Oswald was the "prayer man", a man seen standing on the Depository front steps in films taken by Dave Wiegman of NBC-TV and Jimmy Darnell of WBAP-TV during the assassination, an unprompted Marina told Ed LeDoux that the “Prayer Man” was Lee. Ed Ledoux rang Marina Oswald after Stan Dane had sent enlargements and a copy of his book "Prayer Man: The Exoneration of Lee Harvey Oswald", in 2018. She volunteered “It’s Lee”. She was not prompted at all. She maintains her belief that Oswald was "prayer man".
+
+Alisohbat SumbatzadeAlisohbat Sumbat oglu Sumbatzade (8 January 1907, Amirjan, Baku – 1992, Baku) was an Azerbaijani historian and orientalist (and a member of the Academy of Sciences of the Azerbaijani SSR from 1958).
+
+Sumbatzade graduated from the Department of Oriental Studies of Azerbaijan State University in 1929. In 1963 he became director of the Institute of the Peoples of the Near and Middle East of the Academy of Sciences of the Azerbaijan SSR. Sumbatzade's main works are on the socioeconomic history of Azerbaijan in the 19th and 20th centuries.
+
+Aydin BalayevAydin Balayev Huseynaga oglu (; 19 November 1956 – 8 December 2021) was an Azerbaijani historian, ethnologist and professor.
+
+Balayev was born on November 19, 1956 in Baku, capital of Azerbaijan. In 1980, he graduated from the Department of History of the Azerbaijan State University and in 1982 he started working at the Archeology and Ethnography Institute of the Azerbaijan National Academy of Sciences. In 1983-1985, Balayev was a researcher at the Ethnography Department of Moscow State University. From 1985 he continued his doctoral studies at the Ethnography Institute of the USSR Academy of Sciences in Moscow, graduating with a PhD in History in 1988.
+
+Balayev wrote and published many articles on the history of the Azerbaijani independence movement in the 1980s and 1990s, and the Karabakh conflict, in the United States, Great Britain, Germany, France, Canada, Denmark and Russia. In total, Balayev wrote 72 books, 16 of which were published abroad, and 6 monographs.
+
+Don LawsDon Laws (May 30, 1929 – December 2, 2014) was an American figure skater and coach. Laws competed in single skating and ice dancing. With his ice dancing partner, Mary Firth, he won the U.
+
+S. junior title in 1948. Laws was born in Washington, D. C..
+
+In men's singles, he won the 1950 U.
+
+S. junior title and placed seventh at the 1951 World Championships in Milan, Italy. He was coached by Osborne Colson.
+
+Laws died of heart failure in Sandy Springs, Maryland, aged 85.
+
+Jean BéliveauJoseph Jean Arthur Béliveau, (August 31, 1931 – December 2, 2014) was a Canadian professional ice hockey player. He played parts of 20 seasons with the National Hockey League's (NHL) Montreal Canadiens from 1950 to 1971. He was nicknamed "Le Gros Bill".
+
+Béliveau ranks among the ten greatest NHL players. Béliveau first played professionally in the Quebec Major Hockey League (QMHL). He made his NHL debut with the Canadiens in 1950, but chose to remain in the QMHL full-time until 1953.
+
+Béliveau was born in Trois-Rivières, Quebec, Canada.
+
+By his second season in the NHL, Béliveau was among the top three scorers. He was the fourth player to score 500 goals and the second to score 1,000 points. Béliveau won two Hart Memorial Trophies (1956, 1964) and one Art Ross Memorial Trophy (1956), as well as the inaugural Conn Smythe Trophy (1965).
+
+As a player, he won the Stanley Cup 10 times, and as an executive he was part of another seven championship teams, the most Stanley Cup victories by an individual to date. He was inducted into the Hockey Hall of Fame in 1972.
+
+Béliveau died on December 2, 2014 at the age of 83, in Longueuil, Quebec, Canada, a suburb of Montreal from unknown causes.
+
+Luc OurselLuc Oursel, (7 September 1959 – 3 December 2014), was a French businessman. He was the former chairman of the board of the nuclear company Areva and member of its Executive Committee.
+
+He resigned on October 20, 2014 for health reasons. Until June 2013, he was the President of the French Nuclear Energy Corporation.
+
+Lynne KoskyLynne Janice Kosky (2 September 1958 – 4 December 2014) was a former Australian politician and senior minister in the Parliament of Victoria. She represented the electoral district of Altona in the Victorian Legislative Assembly for the Australian Labor Party from 1996 to 2010Kosky died from breast cancer in Melbourne, Victoria, Australia, aged 56.
+
+Jacques BarrotJacques Barrot (February 3, 1937 – December 3, 2014) was a French politician. He served as European Commissioner for Justice between 2008 and 2010, after having spent four years serving as Commissioner for Transport (2004–2008) and Commissioner for Regional Policy for eight months (2004).
+
+He was also a minister, and mayor of Yssingeaux.
+
+Ian McLaganIan Patrick 'Mac' McLagan ; (12 May 1945 – 3 December 2014) was an English keyboard instrumentalist. He was best known as a member of the English Rock bands Small Faces and Faces. He also worked with The Rolling Stones and led his own band from the late 1970s.
+
+McLagan died on 3 December 2014, reportedly due to a massive stroke, in Austin, Texas aged 69.
+
+Herman BadilloHerman Badillo (August 21, 1929 – December 3, 2014) was an American politician. He was a borough president, United States Representative and candidate for Mayor of New York City. He was the first Puerto Rican to have been elected to these posts and been a mayoral candidate in the continental United States.
+
+Badillo died on December 3, 2014 of congestive heart failure in Manhattan, New York, aged 85.
+
+Walter ReynoWalter Reyno (13 February 1935 – 3 December 2014) was a Uruguayan actor and theater director. He was known for his roles in "25 Watts", "El ojo en la nuca", and in "El aura". Reyno was born in Montevideo, Uruguay.

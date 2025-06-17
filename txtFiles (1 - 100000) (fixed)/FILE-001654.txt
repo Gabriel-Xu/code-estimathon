@@ -1,0 +1,121 @@
+A college student found the first "Quetzalcoatlus" fossil in Big Bend National Park in Texas. His name was Douglas Lawson, from the University of Texas in Austin. When he was in the park, he saw a bone sticking out of a rock. Since the bone looked hollow, like the bone of a bird, he thought it was part of a flying creature – and he was right. With his professor's help, he kept digging until lots of bones from an arm and wing were found. The rest of the animal's body was missing. Many others have looked for the rest of that huge pterosaur, but it has never been found. Other fossils of "Quetzalcoatlus" have been found, but none are as big as the one Lawson found.
+
+Since "Quetzalcoatlus" was so large, two researchers suggested it was too heavy to fly. This would have been astonishing, because in the whole fossil record there is no flightless pterosaur. It has been thought their mobility on the ground was too poor for them to survive without flight. However, a recent discussion of this idea concluded they probably could fly after all. Another analysis suggested their flight was quite strong. Since we have only a few bones, the question of weight cannot be settled at present.
+
+The feeding habits of "Quetzalcoatlus" (which had a long beak with no teeth) are unknown. This question, and its flight, are still being discussed. The lack of a more detailed skeleton is the main problem in reaching conclusions. Two theories have been proposed.
+
+One idea is that it ate fish, by flying with its jaw in the water, and snapping up fish when it hit them. Texas was largely covered by the Western Interior Seaway at the time. "Of these proposed lifestyles, in-flight piscivory [fish-eating] appears to have gained the most acceptance, with skim-feeding being a frequently suggested foraging method.
+
+The other theory is that it fed on land, partly as a carrion feeder, like vultures and buzzards, and foraged for small animals. This view is gaining ground, because the jaw does not show the adaptations for skimming found in modern birds who catch fish this way.
+
+In flight, it was certainly a soarer, flying on up-currents of air in a warm environment, and its remains come from a site which was far inland in the Cretaceous."
+
+Quetzalcoatlus" was shown in the movie "When Dinosaurs Roamed America" eating a dead "Triceratops" carcass.
+
+Mozilla (web browser)Mozilla was a web browser that was made open source. It was developed by Mozilla Foundation. It was the base of Mozilla Firefox.
+
+Fedora (operating system)Fedora Linux is a distribution (or "distro") of Linux developed by the community-supported Fedora Project and sponsored by Red Hat. It is designed to be safe and is used by companies and governments. Fedora's mission statement is: "Fedora is about the rapid progress of Free and Open Source software."
+
+Linus Torvalds, author of the Linux kernel, says he uses Fedora because it had fairly good support for PowerPC when he used that processor architecture. He became used to the operating system and continues to use it."
+
+Fedora Core 1" was the first version of Fedora and was released on November 6, 2003, and was codenamed Yarrow. Fedora Core 1 was based on Red Hat Linux 9 and shipped with version 2.
+
+4.
+
+19 of the Linux kernel, version 2.
+
+4 of the GNOME desktop environment, and version 3.
+
+1.
+
+4 of KDE (the K Desktop Environment)."
+
+Fedora Core 2" was released on May 18, 2004, codenamed Tettnang. It shipped with Linux 2.
+
+6, GNOME 2.
+
+6, KDE 3.
+
+2.
+
+2, and SELinux XFree86 was replaced by the newer X.
+
+org, a merger of the previous official X11R6 release, which additionally included a number of updates to Xrender, Xft, Xcursor, fontconfig libraries, and other significant improvements."
+
+Fedora Core 3" was released on November 8, 2004, codenamed Heidelberg. This was the first release of Fedora Core to include the Mozilla Firefox web browser, as well as support for the Indic languages. This release also replaced the LILO boot loader with GRUB. SELinux was also enabled by default, but with a new targeted policy, which was less strict than the policy used in Fedora Core 2. Fedora Core 3 shipped with GNOME 2.
+
+8 and KDE 3.
+
+3. It was the first release to include the new Fedora Extras repository."
+
+Fedora Core 4" was released on June 13, 2005, with the codename Stentz. It shipped with Linux 2.
+
+6.
+
+11, KDE 3.
+
+4 and GNOME 2.
+
+10. This version introduced the new Clearlooks theme, which was inspired by the Red Hat Bluecurve theme. It also shipped with the OpenOffice.
+
+org 2.
+
+0 office suite, as well as Xen, a high performance and secure open source virtualization framework. It also introduced support for the PowerPC CPU architecture, and over 80 new policies for SELinux.
+
+The last two cores introduced specific artwork for that version. This is a trend that has continued in later Fedora versions."
+
+Fedora Core 5" was released on March 20, 2006, with the codename Bordeaux, and introduced the Fedora Bubbles artwork. It was the first Fedora release to include Mono and tools built with it such as Beagle, F-Spot and Tomboy. It also introduced new package management tools such as pup and pirut ("see Yellow dog Updater, Modified"). This release replaced the old LinuxThreads, with the Native POSIX Thread Library."
+
+Fedora Core 6" was released on October 24, 2006, codenamed Zod. This release introduced the Fedora DNA artwork, replacing the Fedora Bubbles artwork used in Fedora Core 5. The codename is derived from the infamous villain, General Zod, from the Superman DC Comic Books. This version introduced support for the Compiz compositing window manager and AIGLX (a technology that enables GL-accelerated effects on a standard desktop). It shipped with Firefox 1.
+
+5 as the default web browser, and Smolt, a tool that allows users to inform developers about the hardware they use.
+
+None of these distributions are maintained by the Fedora Project.
+
+Fedora 10, codenamed "Cambridge", was released on November 25, 2008.
+
+Fedora's official software package repository includes, for example, UNetbootin.
+
+BagelBagels are a type of bread made with flour. They look like doughnuts, and they are leavened with yeast. They have a crisp, shiny crust and a dense inside. Bagels are glazed, and in a ring-shaped roll. They are different from doughnuts because they are boiled before baked. Bagels are sometimes called "the cement doughnuts".
+
+The bagel is regarded as a special kind of Jewish food. They are eaten usually for breakfast or a snack.
+
+Bagels are made from the basic bread ingredients of flour, yeast, salt, and sweet kinds of spices. Flour gives the bread its chewy taste, which can be made more light by eggs, milk, and butter. They are the only bread product that is boiled before it is baked.
+
+Bagels are often toasted in a toaster and then paired with foods like cream cheese (a soft cheese that tastes a little sweet) and jam, or with butter. Bagels can also be used to make sandwiches, with meat (for example smoked salmon) and egg and cheese. Bagel sandwiches are usually eaten for breakfast or lunch.
+
+Bagels were formally an obscure ethnic treat found only in the city's Jewish neighourhoods. Bagels were first sold in grocery stores in the 1950s. Frozen bagels were first introduced in 1960.
+
+When Polish Jews went away to America, they brought the beugel with them. The first beugel bakeries were founded in New York City in the 1920s. Later the name was changed and called a bagel. Bagels have been used as a symbol of the continuous cycle of life—without beginning and without end.
+
+In the East End of London, the bagel is known as a beigel, and poplar in many of the areas where many Jewish immigrants first arrived in London in the 19th century, such as Whitechapel and Spitalfields, and Brick Lane in particular, home to the Beigel Bake.
+
+DoughnutA doughnut (spelled donut in various marketing sectors) is a type of deep fried dessert food made out of dough or batter.
+
+Round ringed doughnuts are made by joining the ends of a long, thin piece of dough into a ring or by using a doughnut cutter, which perfectly cuts the outside and inside shape, leaving a doughnut-shaped piece of dough and a doughnut hole from dough removed from the center. This smaller piece of dough can be cooked or re-added to the batch to make more doughnuts. A disk-shaped doughnut can also be stretched and molded into a torus until the center breaks to form a hole. Or, a doughnut depositor can be used to place a circle of liquid dough (batter) into the deep fryer. Doughnuts can be made from a yeast-based dough for more puffy doughnuts or a special type of cake batter. Yeast-raised doughnuts contain about 25% oil by weight, whereas cake doughnuts' oil content is around 20%, but they have extra fat in the batter before frying. Cake doughnuts are fried for about 90 seconds at about 190 °C to 198 °C, turning once. Yeast-raised doughnuts absorb more oil because they take longer to fry, about 150 seconds, at 182 °C to 190 °C. Cake doughnuts normally weigh between 24 g and 28 g, whereas yeast-raised doughnuts normally are 38 g and are mostly larger when finished. Some types of cake doughnuts are also baked, as opposed to fried, which greatly reduces the fat content.
+
+The two most common types of doughnut are ring doughnuts, which are shaped like rings, and filled doughnuts, which are round and have jam, jelly, custard, whipped cream, or chocolate inside them. There are also "doughnut holes" or "munchkins" which come in the shape of small balls. Most doughnuts have an icing (also called a "frosting") made with icing sugar, water, and flavourings (such as chocolate). Some doughnuts are rolled in sweet foods such as sugar or shredded coconut.
+
+Doughnuts are often eaten in the morning, along with a cup of hot coffee. Doughnuts are sold at doughnut shops, bakeries, or grocery stores. People also eat doughnuts as a dessert, or as a snack. Canadians eat more doughnuts per person than any other nation and has more doughnuts shops per person than any other nations.
+
+Mary II of EnglandMary II (30 April 1662 – 28 December 1694) was Queen regnant of England, Scotland, and Ireland from 1689 until her death. Mary was a Protestant. She became queen after the Glorious Revolution, which resulted in the deposition of her Roman Catholic father, James II and VII. Mary ruled together with her husband, William III and II. He became the ruler of both countries when she died in 1694. Popular histories usually call their joint reigns as those of "William and Mary". Mary had less power than William when William remained in England. When William went to military campaigns, however, she governed alone. She was a powerful, firm, and effective ruler. She gave most of her authority to her husband, but he greatly depended on her. She was very active in the Church of England, ruling it as its Supreme Governor.
+
+Mary was born at St. James Palace in London on 30 April 1662. Her father was James, Duke of York, and her mother was his first wife, Lady Anne Hyde. She was their oldest daughter. Mary's uncle was Charles II. Her grandfather by her mother's side was Edward Hyde, 1st Earl of Clarendon. He served for a long time as Charles's chief advisor. Her mother gave birth to eight children, but only Mary and her younger sister Anne lived to adulthood.
+
+The Duke of York became a Roman Catholic in 1668 or 1669, but Mary and Anne had a Protestant education, as Charles II had commanded. Mary's mother died in 1671, and her father married again in 1673. He took Mary of Modena, a Catholic, as his second wife. She was also known as Mary Beatrice d'Este. Before her marriage, Mary wrote many letters to Frances Apsley, the daughter of James II's hawks keeper. However, she did not return Mary's interest.
+
+When she was 15, Lady Mary became betrothed to her first cousin, the Protestant William, Prince of Orange. William was the son of Mary, Princess Royal and Prince William II of Nassau. At first, Charles II did not want Mary to marry William. He wanted Mary to marry the heir to the French Throne, the Dauphin Louis, instead. This was because he hoped that England would become friends with France. He also wanted to have a Catholic successor to the throne. But because of Parliament's pressure, he later approved their marriage. He thought that it would make the Protestants like him more, but he was wrong. Mary and William married in London on 4 November 1677. It was reported that Mary wept through the whole ceremony.
+
+Mary went to the Netherlands and lived there as William's wife. The Dutch people liked her because of her lively, friendly nature, and Mary loved William deeply. However, the marriage was often unhappy. Her three pregnancies ended in miscarriage or stillbirth, and Mary was very sad that she did not have a child. Her husband was often cold to her, and he had an affair with Elizabeth Villiers, one of Mary's ladies-in-waiting, for a long time. After some time, though, he grew warmer towards Mary.
+
+When Charles II died without any children in 1685, the Duke of York became King as James II in England and Ireland. He also became James VII in Scotland. He tried to give freedom of religion to non-Anglicans. He did this by making the acts of Parliament invalid by Royal Decree. The public did not like this. Several Protestant politicians and noblemen entered into negotiations (trying to reach agreements through discussion) with Mary's husband as early as 1687. In May 1688, James forced Anglican clergymen to read the Declaration of Indulgence. The Declaration of Indulgence was a statement that gave religious freedom to those who did not agree with the Church of England. This made him much less popular. Protestants became even more fearful when his wife, Mary of Modena, gave birth to a son–James Francis Edward–in June 1688. They were fearful because the son would, unlike Mary and Anne, be raised a Roman Catholic. Some said that the boy had been secretly carried into the Queen's room in a bed-warming pan instead of her stillborn baby. There was no strong proof to support this story, but Mary publicly doubted the boy's legitimacy. She sent a list of suspicious questions to her sister, Anne, about the boy's birth.
+
+On 30 June, the Immortal Seven secretly asked William, who was in the Netherlands with Mary, to come to England with an army. William, who was jealous of Mary's position and power, did not want to go at first. But Mary told William that she did not care about political power. She said "she would be no more but his wife, and that she would do all that lay in her power to make him King for life".
+
+William agreed to attack. He declared that James' newborn son was the "pretended Prince of Wales". He also gave a list of what the English people wanted, and said that he only wanted to have "a free and lawful Parliament assembled". The Dutch army, which had been turned back by a storm in October, landed on 5 November. The English Army and Navy went over to William. At this time, the English people's confidence in James was very low. They did not even try to save their King. On 11 December, the King tried to run away, but failed. He tried to run away again on 23 December. This second attempt was successful, and James escaped to France. He lived there in exile until his death.
+
+Though Mary was sad because of the deposition of her father, William ordered her to look happy when they arrived in London. Because of this, people thought she was being cold to her father. James also thought his daughter was unfaithful to him. This hurt Mary deeply.
+
+In 1689, a Convention Parliament called by the Prince of Orange came together to discuss what they should do. William of Orange felt uncomfortable about his position. He wanted to rule as a King, not simply as a husband of a Queen. The only example of joint monarchy was from the sixteenth century. This was Queen Mary I and the Spanish Prince Philip. When they married, it was agreed that Prince Philip would take the title of King. But Philip II was King only during his wife's lifetime. He also did not have much power. William wanted to remain King even after his wife's death. Some important people suggested making Mary the only ruler. But Mary, who was faithful to her husband, refused.
+
+On 13 February 1689, Parliament passed the Declaration of Right. In this declaration, it said that James, by trying to run away on 11 December 1688, had abandoned the government, so no one at the time was king. Normally, James's oldest son, James Francis Edward would have been the heir. However, Parliament offered the crown to William and Mary as joint Sovereigns instead. But it was added that "the sole and full exercise of the regal (royal) power be only in and executed by the said Prince of Orange in the names of the said Prince and Princess during their joint lives." The declaration was later extended to take out all Catholics. This was because "it hath been found (discovered) by experience that it is inconsistent (not in harmony) with the safety and welfare of this Protestant kingdom to be governed by a papist prince".

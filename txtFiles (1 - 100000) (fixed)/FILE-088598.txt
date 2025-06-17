@@ -1,0 +1,39 @@
+Mr. Jobs, the adopted son of a family in California, was born on Feb. 24, 1955. A college dropout, he established his reputation early on as a tech innovator when, at 21 years old, he and friend Steve Wozniak founded Apple Computer Inc. in the Jobs family garage in 1976. Mr. Jobs chose the name, in part, because he was a Beatles fan and admired the group's Apple records label, according to the book "Apple: The Inside Story of Intrigue, Egomania, and Business Blunders" by Wall Street Journal reporter Jim Carlton.{
+
+if djIsFlashPossible} The version of Adobe Flash Player required to view this interactive has not been found. To enjoy our complete interactive experience, please download a free copy of the latest version of Adobe Flash Player here {else} {else} This content can not be displayed because your browser does not support the Adobe Flash player required to view it. {/if} {/if}The pair came out with the Apple II in 1977, a computer that was relatively affordable and designed for the mass market rather than for hobbyists. It went on to become one of the first commercially successful PCs, making the company $117 million in annual sales by the time of Apple's initial public offering in 1980. The IPO instantly made Mr. Jobs a multimillionaire.
+
+Not all of Mr. Jobs's early ideas paid off. The Apple III and Lisa computers that debuted in 1980 and 1983 were flops. But the distinctive all-in-one Macintosh—foreshadowed in a TV ad inspired by George Orwell's novel "1984" that famously only aired once—would set the standard for the design of modern computer operating systems.
+
+Even then, Mr. Jobs was a stickler for design details. Bruce Tognazzini, a former user-interface expert at Apple who joined the company in 1978, once said that Mr. Jobs was adamant that the keyboard not include "up," "down," "right," and "left" keys that allow users to move the cursor around their computer screens.
+
+Cultivated ImageMr. Jobs's pursuit of aesthetics sometimes bordered on the extreme. George Crow, an Apple engineer in the 1980s and again from 1998 to 2005, recalls how Mr. Jobs wanted to make even the inside of computers attractive. On the original Macintosh PC, Mr. Crow says Mr. Jobs wanted the internal wiring to be in the colors of Apple's early rainbow logo. Mr. Crow says he persuaded Mr. Jobs it was an unnecessary expense.
+
+Even in his appearance, Mr. Jobs seemed to cultivate an image more like that of an artist than a corporate executive. In public, he rarely deviated from an outfit consisting of Levi's jeans, a black mock turtleneck and New Balance running shoes.
+
+As Apple expanded, Mr. Jobs decided to bring in a more experienced manager to lead the company. He recruited John Sculley from PepsiCo Inc. to be Apple CEO in 1983, overcoming Mr. Sculley's initial reluctance by asking the executive if he just wanted to sell "sugar water to kids" or help change the world.
+
+After Apple fell into a subsequent slump, a leadership struggle led to a board decision to back Mr. Sculley and fire Mr. Jobs two years later at the age of 30. "What can I say—I hired the wrong guy," Mr. Jobs brooded in a PBS documentary. "He destroyed everything I had spent 10 years working for."
+
+Mr. Jobs then created NeXT Inc., a start-up that in 1988 introduced a black desktop computer with advanced software. The machine suffered from a high price and some key design decisions. But its operating system would eventually become a foundation for OS X, the software backbone of today's Macs, after Apple purchased NeXT for $400 million in December 1996.
+
+In 1986, using part of his fortune from Apple, Mr. Jobs paid filmmaker George Lucas $10 million to acquire the computer-graphics division of Lucasfilm Ltd. The company Mr. Jobs formed from that purchase, Pixar Animation Studios, went on to create a string of computer-animated film hits, such as "Toy Story." Mr. Jobs sold Pixar to Disney in 2006 in a $7.
+
+4 billion deal.
+
+In Mr. Jobs's absence, Apple began foundering, and computers using Intel chips and Microsoft software became increasingly dominant. By 1997, Apple had racked up nearly $2 billion in losses in two years, its shares were at record lows and it was on its third CEO—Gil Amelio—in four years.
+
+Eight months after the deal to buy NeXT in December 1996, Mr. Amelio was ousted and Mr. Jobs appointed interim CEO, a title that became permanent in January 2000. One former Apple employee recalls Mr. Jobs joking soon after he returned that "the lunatics have taken over the asylum and we can do anything we want."
+
+Series of StumblesMr. Jobs, who was given a salary of $1 a year along with options to Apple stock, made a series of changes. He killed the struggling Newton handheld computer and trimmed a confusing array of Mac models to a handful of systems focused on the consumer market.
+
+In May 1998, he introduced the iMac, an unusual one-piece computer that sported a colorful translucent case. Apple launched an ad campaign featuring the phrase "Think Different," featuring photographs of creative individuals including Albert Einstein and Muppets creator Jim Henson.
+
+While shareholders cheered the changes, Mr. Jobs flexed his power on Apple's Cupertino, Calif., campus. Within months of taking over, he replaced four of the five top executives with former NeXT underlings. He issued emails forbidding employees to bring pets to the office or to smoke, even in parking lots. He threatened to fire anyone caught leaking company documents.
+
+Apple had stumbles during Mr. Jobs's second stint, including a cube-shaped Macintosh that failed to catch on and was scrapped in 2001. The failure was one reason Apple posted a quarterly loss and warned it would miss estimates several times in 2000 and 2001.
+
+But big hits followed. In 2001, Apple introduced the iPod, which transformed digital music players. Apple has more than 70% market share in the market.
+
+A key advantage was the iTunes Music Store, opened in 2003. Mr. Jobs helped persuade major record labels to sell recordings for 99 cents each. The store, which has sold more than 16 billion songs, became an incentive for people to buy iPods because, for much of its history, songs from the iTunes store could be downloaded only to Apple's music player.
+
+Bench of ExecutivesAt the same time, Mr. Jobs was building his bench of executives. He recruited Mr. Cook, a former Compaq Computer Corp. executive, in the late 1990s to straighten Apple's operations and promoted him over time to chief operating officer.

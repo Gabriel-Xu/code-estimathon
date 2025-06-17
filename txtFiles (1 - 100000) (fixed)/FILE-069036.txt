@@ -1,0 +1,255 @@
+The encoded protein is predicted to have a subcellular location within the cytosol.
+
+The encoded protein is predominantly localized to the cytoplasm, and can undergo nucleocytoplasmic shuttling dependent on novel nuclear localization and export signals.
+
+The encoded protein is primarily composed of 22 spectrin repeats which are involved in dimer formation.
+
+The encoded protein is secreted through the plasma membrane but remains membrane-bound, where it is involved in lipid transport.
+
+The encoded protein is similar in sequence to another G protein-coupled receptor (GPR7), and it is structurally similar to opioid and somatostatin receptors.
+
+The encoded protein is similar to a rat cell surface receptor proposed to function in a neuronal survival pathway.
+
+The encoded protein is specifically expressed in the brain, is a homodimeric dipeptidase which was identified as human carnosinase.
+
+The encoded protein is strongly expressed in granule cells of the cerebellum where it associates with membranes in a calcium-dependent manner and modulates intracellular signaling pathways of the central nervous system by directly or indirectly regulating the activity of adenylyl cyclase.
+
+The encoded protein is structurally similar to myotubularin but in addition contains a FYVE domain and an N-terminal PH-GRAM domain.
+
+The encoded protein is the I-branching enzyme, a beta-1,6-N-acetylglucosaminyltransferase responsible for the conversion of fetal i antigen to adult I antigen in erythrocytes during embryonic development.
+
+The encoded protein is thought to be an extracellular and/or membrane protein, and may be involved in cell-cell interactions.
+
+The encoded protein is thought to be a part of the semaphorin signal transduction pathway implicated in semaphorin-induced growth cone collapse during neural development.
+
+The encoded protein is thought to play a crucial role in cone phototransduction.
+
+The encoded protein is tyrosine phosphorylated by activated PYK2.
+
+The encoded protein is ubiquitously expressed in human tissues, membrane-bound, and may act as a cellular antioxidant, protecting cells from oxidative stress.
+
+The encoded protein, known as ADH1B or beta-ADH, can form homodimers and heterodimers with ADH1A and ADH1C subunits, exhibits high activity for ethanol oxidation and plays a major role in ethanol catabolism.
+
+The encoded protein likely promotes hydrolysis of ARF1-bound GTP, which is required for the dissociation of coat proteins from Golgi-derived membranes and vesicles.
+
+The encoded protein localizes to the centrosome where it binds to microtubules as part of a complex referred to as the gamma-tubulin ring complex.
+
+The encoded protein localizes to the lysosome where it is the final exoglycosidase in the pathway for N-linked glycoprotein oligosaccharide catabolism.
+
+The encoded protein localizes to the nuclear matrix, PML nuclear bodies, and cytoplasmic vesicles.
+
+The encoded protein may act as a growth factor and have adenosine deaminase activity.
+
+The encoded protein may act as a transcriptional activator after forming a protein complex with other proteins.
+
+The encoded protein may act as a transcriptional activator and be important for continued function of the mature organ of Corti.
+
+The encoded protein may act as a transcriptional regulator after forming a protein complex with other proteins.
+
+The encoded protein may also function as an E3 ubiquitin-protein ligase which accepts ubiquitin from E2 ubiquitin-conjugating enzymes and transfers it to substrates.
+
+The encoded protein may also play a role in tumor invasion and metastasis through activation of MMP2.
+
+The encoded protein may also repress the transcriptional activity of the proto-oncogene c-Myc.
+
+The encoded protein may be a component of C complex spliceosomes, and the orthologous protein in the mouse localizes to the nucleus.
+
+The encoded protein may be an integral membrane protein.
+
+The encoded protein may be distinct from other members of this family, however, as studies suggest it is not growth factor dependent and may not participate in the same signaling pathways.
+
+The encoded protein may be found in the Golgi apparatus and is a member of glycosyltransferase family 29.
+
+In melanocytic cells, ST8SIA1 gene expression may be regulated by MITF.
+
+The encoded protein may be involved in activation of cytochrome oxidase expression and nuclear control of mitochondrial function.
+
+The encoded protein may be involved in activation of Wnt/beta-catenin signaling pathways.
+
+The encoded protein may be involved in cell growth.
+
+The encoded protein may be involved in cell growth and survival.
+
+The encoded protein may be involved in matrix remodeling processes in the liver.
+
+The encoded protein may be involved in mediating calcium-activated chloride conductance in the intestine.
+
+The encoded protein may be involved in mediating the uptake and clearance of prostaglandins in numerous tissues.
+
+The encoded protein may be involved in protein-protein interactions.
+
+The encoded protein may be involved in the functional and dynamic regulation of mitotic spindles.
+
+The encoded protein may bind single-stranded DNA.
+
+The encoded protein may function as an anticoagulant that indirectly inhibits the thromboplastin-specific complex.
+
+The encoded protein may function as a positive regulator in the T-cell receptor signaling pathway.
+
+The encoded protein may function as a transcriptional regulator.
+
+The encoded protein may function as a transcriptional regulator and be involved in control of differentiation and development of the pituitary gland.
+
+The encoded protein may function as a transcriptional regulator and may be involved in the control of differentiation and development of neural and lymphoid cells.
+
+The encoded protein may function during the development of the eyes, teeth, and brain.
+
+The encoded protein may function in renal tubular development and function.
+
+The encoded protein may function in renal tubular development and function, and in left-right axis determination.
+
+The encoded protein may have a role in protein processing in limb, cardiac and reproductive system development.
+
+The encoded protein may have a role in spermatogenesis, cell cycle control, and in meiotic cell division.
+
+The encoded protein may help induce the disassembly of actin filaments.
+
+The encoded protein may play a critical role in the regulation of apoptosis.
+
+The encoded protein may play an important role in magnesium homeostasis by mediating the epithelial transport and renal reabsorption of Mg2+.
+
+The encoded protein may play an important role in the anti-apoptotic effects of insulin-like growth factor-1.
+
+The encoded protein may play a protective role against proteinases present in the oral cavity.
+
+The encoded protein may play a role as an intrinsic regulator of the self-renewal capacity of germline and hematopoietic stem cells.
+
+The encoded protein may play a role in breast cancer proliferation and chemoresistance.
+
+The encoded protein may play a role in development.
+
+The encoded protein may play a role in obesity and sensorineural degradation.
+
+The encoded protein may play a role in organelle biogenesis associated with melanosomes, platelet dense granules, and lysosomes.
+
+The encoded protein may play a role in pigmentary retinopathy, obesity, polydactyly, renal malformation and mental retardation.
+
+The encoded protein may play a role in pre-mRNA splicing.
+
+The encoded protein may play a role in regulating dendritic cell function.
+
+The encoded protein may play a role in regulating the availability of serum glycoproteins, oncogenesis, and differentiation.
+
+The encoded protein may play a role in single-stranded DNA repair.
+
+The encoded protein may play a role in the developing kidney, branchial arches, eye, and ear.
+
+The encoded protein may play a role in the development and survival of chondrocytes in cartilage matrices.
+
+The encoded protein may play a role in the establishment and function of specific cell-cell connections in the brain.
+
+The encoded protein may play a role in the innate immune response by regulating autophagy formation in response to intracellular pathogens.
+
+The encoded protein may play important roles in the regulation of the mitochondrial membrane potential and in protection against oxidant-induced apoptosis.
+
+The encoded protein may promote neurite outgrowth and adhesion via a homophilic mechanism.
+
+The encoded protein may regulate expression of the cone opsin genes early in development.
+
+The encoded protein mediates p53 inhibition of cell growth by activating AMP-activated protein kinase, which results in the inhibition of the mammalian target of rapamycin protein.
+
+The encoded protein of this gene does not use N-acetylglucosamine as an acceptor sugar at all.
+
+The encoded protein of this gene is approximately 45 kD and may assist in the V-ATPase-mediated acidification of neuroendocrine secretory granules.
+
+The encoded protein plays a role in signal transduction by regulating the intracellular concentration of these cyclic nucleotides.
+
+The encoded protein possesses domains and several tyrosine phosphorylation sites characteristic of adaptor proteins that mediate the interactions linking proteins involved in signal transduction pathways.
+
+The encoded protein removes unfolded proteins, accumulated during ER stress, by retrograde transport to the cytosol from the ER.
+
+The encoded protein sequence does not show similarity to other kinases, but the protein does exhibit kinase activity.
+
+The encoded protein sequence is 100% identical to the mouse homolog and 98% identical to the frog and zebrafish homologs.
+
+The encoded protein serves as an assembly factor that is required for formation of the membrane arm of the complex.
+
+The encoded protein shares 100% sequence identity with the mouse and rat counterparts, which indicates that this enzyme is highly conserved in eukaryotes.
+
+The encoded protein shares 100% sequence identity with the mouse counterpart.
+
+The encoded protein shares 81% amino acid identity with the rat ps20 protein, which was originally identified as a secreted growth inhibitor.
+
+The encoded protein shares significant similarity with Arabidopsis FUS6, which is a regulator of light-mediated signal transduction in plant cells.
+
+The encoded protein shares similarity with dipeptidyl peptidase IV in that it is ubiquitously expressed, and hydrolyzes the same substrates.
+
+The encoded proteins of Tbx5 and Tbx4 play a role in limb development, and play a major role in limb bud initiation specifically.
+
+The encoded protein specifically binds to CRE as a homodimer or a heterodimer with c-Jun or CRE-BP1, and functions as a CRE-dependent trans-activator.
+
+The encoded protein, upon tyrosine phosphorylation, has been shown to recruit the Src homology 2 domain-containing protein-tyrosine phosphatases SHP1 and SHP2.
+
+The encoded protein was found to inhibit endocytosis of epidermal growth factor receptor (EGFR) and platelet-derived growth factor receptor.
+
+The encoded protein, which belongs to the peptidase C1 protein family, can act both as an aminopeptidase and as an endopeptidase.
+
+The encoded protein, which has a greater tendency to allow potassium to flow into a cell rather than out of a cell, is controlled by G-proteins and plays an important role in regulating heartbeat.
+
+The encoded protein, which is a member of glycosyltransferase family 29, is a type II membrane protein that may be present in the Golgi apparatus.
+
+The encoded protein, which is a type II membrane protein found in the Golgi, is also required for the synthesis of the bacterial verotoxins receptor.
+
+The encoded protein, which is insoluble and found both in the nucleus and in the cytoplasm, can function as a translation initiation factor and catalyzes the association of the 40S and 60S ribosomal subunits along with eIF5 bound to GTP.
+
+The encoded protein, which is normally found in the Golgi but which can be proteolytically processed to a soluble form, is involved in the generation of the cell-surface carbohydrate determinants and differentiation antigens HB-6, CDw75, and CD76.
+
+The encoded protein, which is secreted, is primarily found in bone marrow.
+
+The encoded protein, which may be a substrate of neuronal CDC2-like kinase, has also been found in vascular endothelial cells, where it mediates cell proliferation.
+
+The encoded protein, which may play a role in neuronal plasticity, is abundant in neurofibrillary lesions of patients with Alzheimer's disease.
+
+The encoded protein, whose degradation is induced in a proteasome-dependent manner by MDM2, is a membrane-bound protein that has been shown to associate with EPS15, LNX1, and NOTCH1.
+
+The encoded regions are optically active (have a varying index of refraction) and thus may be "read out" optically.
+
+The encoded secreted protein is involved in the formation of a gel matrix that encases ejaculated spermatozoa.
+
+The encoded transmembrane protein binds to SEMA3C protein {sema domain, immunoglobulin domain (Ig), short basic domain, secreted, (semaphorin) 3C} and SEMA3F protein {sema domain, immunoglobulin domain (Ig), short basic domain, secreted, (semaphorin) 3F}, and interacts with vascular endothelial growth factor (VEGF).
+
+The encoded transmembrane protein directs phagocytosis of several bacterial species that is dependent on the small GTPase Rac.
+
+The encoded type 2 transmembrane protein may function as a cell activation antigen.
+
+The encoded type 2 transmembrane protein may play a role in inflammatory and immune response.
+
+The encode holds up two fingers and the decoder may know from previous experience that this means two.
+
+The encoder and decoder are part of the free, open-source library libavcodec in the project FFmpeg since June 2003.
+
+The encoder and decoder is compatible with standard-compliant audio applications using one or more of these object types and facilities.
+
+The encoder can be either incremental or absolute.
+
+The encoder then moves along the boundary of the region and, at each step, transmits a symbol representing the direction of this movement.
+
+The encoding has traditionally been either ASCII, sometimes EBCDIC.
+
+The encoding is a simple polyalphabetic substitution using three alphabets.
+
+The encoding is variable-length, as code points are encoded with one or two 16-bit code units (also see Comparison of Unicode encodings for a comparison of UTF-8, -16 & -32).
+
+The encoding must be robust against intentional attacks.
+
+The encoding of sensor descriptions and sensor observation data with Semantic Web languages enables more expressive representation, advanced access, and formal analysis of sensor resources.
+
+The encoding products were subsequently ported to FreeBSD, Microsoft Windows and Mac OS X, and the range of products expanded to offer additional features such as product licensing and encryption of non-PHP files.
+
+The encoding resembles that used by many abaci, with four beads indicating either 0 through 4 or 5 through 9 and another bead indicating which of those ranges.
+
+The encoding should support an extremely low risk of false positives.
+
+The encoding specificity principle provides a framework for understanding how the conditions present while encoding information relate to memory and recall of that information.
+
+The encoding specificity principle suggests that it does.
+
+The encoding table is shown on the right.
+
+The encoding technology grew out of earlier work on the PHP Accelerator project, and at first launch included an online encoding service where PHP scripts can be uploaded and an encoded version downloaded in return, and a command line tool for Linux soon after.
+
+The encoding two genes are TSC1 and TSC2.
+
+The encoding used is a simple form of frequency shift keying.
+
+The encoding validation is done using a flex lexical analyser written in JFlex.

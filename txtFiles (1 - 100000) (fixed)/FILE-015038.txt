@@ -1,0 +1,57 @@
+A context save is not required for servicing an FIQ since it has its own set of banked registers.
+
+A context-sensitive grammar (CSG) is a formal grammar in which the left-hand sides and right-hand sides of any production rules may be surrounded by a context of terminal and nonterminal symbols.
+
+A Context Service is described, which allows management of activities by means of the begin and complete operations, which create and destroy the context respectively.
+
+A context that is neither downward nor upward entailing is non-monotone, such as "exactly".
+
+A contextual inquiry interview is usually structured as an approximately two-hour, one-on-one interaction in which the researcher watches the user in the course of the user's normal activities and discusses those activities with the user.
+
+Acontheus is an extinct genus from a well-known class of fossil marine arthropods, the trilobites.
+
+Acontia albida is a moth of the family Noctuidae.
+
+Acontia behrii is a moth in the family Noctuidae described by Smith in 1900.
+
+Acontia chea is a species of bird dropping moth in the family Noctuidae.
+
+Acontia coquillettii is a species of bird dropping moth in the family Noctuidae.
+
+Acontia feae is a moth of the Noctuidae family.
+
+Acontia gratiosa is a moth of the family Erebidae.
+
+Acontia guttifera is a moth of the Noctuidae family.
+
+Acontia imitatrix is a moth of the Noctuidae family.
+
+Acontia is a genus of moths of the family Noctuidae.
+
+Acontia marmoralis is a moth of the Noctuidae family.
+
+Acontia opalinoides is a moth of the Noctuidae family.
+
+Acontia sexpunctata is a moth of the Noctuidae family.
+
+Acontias gracilicauda, the slendertail lance skink, is a species of skink found in the Republic of South Africa.
+
+Acontias meleagris, the Cape legless skink, is a species of skink found in the southern Cape of South Africa.
+
+Acontias percivali, also known as Percival's legless lizard, Tanzanian legless lizard, and Percival's lance skink, is a small, legless (snake-like) species of lizard in the family Scincidae, collectively known as "skinks".
+
+A contig (from contiguous) is a set of overlapping DNA segments that together represent a consensus region of DNA.
+
+A contiguous gene syndrome (CGS), also known as a contiguous gene deletion syndrome is a clinical phenotype caused by a chromosomal abnormality, such as a deletion or duplication that removes several genes lying in close proximity to one another on the chromosome.
+
+Acontiinae is a subfamily of moth family Noctuidae.
+
+A continental arc is a type of volcanic arc occurring as an "arc-shape" topographic high region along a continental margin.
+
+A continental divide is a drainage divide on a continent such that the drainage basin on one side of the divide feeds into one ocean or sea, and the basin on the other side either feeds into a different ocean or sea, or else is endorheic, not connected to the open sea.
+
+A Continental Indoor Football League team called the Columbus Aces was set to begin play in 2010, but the ownership group instead decided to keep their Marion Mayhem franchise going for one more season.
+
+A Continental runabout driven by Johnson at the Yale University Automobile Club spring 1907 meet did a mile in a minute.
+
+A Continental tire or a Continental kit is an upright externally-mounted spare tire located behind an automobile's trunk, made popular by the original Lincoln Continental.

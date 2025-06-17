@@ -1,0 +1,337 @@
+This gene encodes the alpha chain of type XIX collagen, a member of the FACIT collagen family (fibril-associated collagens with interrupted helices).
+
+This gene encodes the alpha chain of type XV collagen, a member of the FACIT collagen family (fibril-associated collagens with interrupted helices).
+
+This gene encodes the alpha chain of type XVII collagen.
+
+This gene encodes the alpha chain of type XVIII collagen.
+
+This gene encodes the alpha subunit in rods.
+
+This gene encodes the alpha subunit of the barbed-end actin binding protein.
+
+This gene encodes the alpha subunit of these transferases.
+
+This gene encodes the basic form of complement factor 4, part of the classical activation pathway.
+
+This gene encodes the beta C chain of inhibin, a member of the TGF-beta superfamily.
+
+This gene encodes the beta subunit of casein kinase II, a ubiquitous protein kinase which regulates metabolic pathways, signal transduction, transcription, translation, and replication.
+
+This gene encodes the beta-subunit of glucosidase II, an N-linked glycan-processing enzyme in the endoplasmic reticulum (ER).
+
+This gene encodes the beta subunit of the acetylcholine receptor.
+
+This gene encodes the beta-subunit protein.
+
+This gene encodes the b subunit of the proton channel.
+
+This gene encodes the D3 subtype of the dopamine receptor.
+
+This gene encodes the E1 beta subunit.
+
+This gene encodes the enzyme acylpeptide hydrolase, which catalyzes the hydrolysis of the terminal acetylated amino acid preferentially from small acetylated peptides.
+
+This gene encodes the enzyme responsible for formation of the blood group I antigen.
+
+This gene encodes the enzyme that catalyzes the second step in the formation of the mannose 6-phosphate recognition marker on lysosomal hydrolases.
+
+This gene encodes the erythrocyte (E) isoforms, whereas other family members encode isoforms that predominate in muscle (M) and liver (L) cells.
+
+This gene encodes the e subunit of the F0 complex.
+
+This gene encodes the fifth largest subunit of RNA polymerase II, the polymerase responsible for synthesizing messenger RNA in eukaryotes.
+
+This gene encodes the folylpolyglutamate synthetase enzyme.
+
+This gene encodes the fourth-largest subunit of RNA polymerase II, the polymerase responsible for synthesizing messenger RNA in eukaryotes.
+
+This gene encodes the GA-binding protein transcription factor, beta subunit.
+
+This gene encodes the gamma chain isoform laminin, gamma 1.
+
+This gene encodes the gamma form of its catalytic subunit.
+
+This gene encodes the gamma subunit of the catalytic core.
+
+This gene encodes the g subunit of the F0 complex.
+
+This gene encodes the heavy chain subunit of axonemal dynein, a large multi-subunit molecular motor.
+
+This gene encodes the homolog of a protein identified in Drosophila as a suppressor of malignant transformation of neuroblasts and ganglion mother cells in the optic centers of the brain.
+
+This gene encodes the homolog of the mouse protein Cidea that has been shown to activate apoptosis.
+
+This gene encodes the human homolog of the yeast Imp3 protein.
+
+This gene encodes the Ig-beta protein of the B-cell antigen component.
+
+This gene encodes the IL-11 receptor, which is a member of the hematopoietic cytokine receptor family.
+
+This gene encodes the integrin alpha 5 chain.
+
+This gene encodes the light, alpha subunit, which has been proposed as a primary component of the microbicidal oxidase system of phagocytes.
+
+This gene encodes the liver (L) subunit of an enzyme that catalyzes the conversion of D-fructose 6-phosphate to D-fructose 1,6-bisphosphate, which is a key step in glucose metabolism (glycolysis).
+
+This gene encodes the mammalian mago nashi homolog.
+
+This gene encodes the member 3 of the phospholipid-transporting ATPase 8B. Alternatively spliced transcript variants encoding different isoforms have been found for this gene.
+
+This gene encodes the most probable candidate for synthesis of the type 1 Lewis antigens which are frequently found to be elevated in gastrointestinal and pancreatic cancers.
+
+This gene encodes the muscle-type isozyme.
+
+This gene encodes the p80 subunit.
+
+This gene encodes the plasma membrane calcium ATPase isoform 1.
+
+This gene encodes the plasma membrane calcium ATPase isoform 2.
+
+This gene encodes the plasma membrane calcium ATPase isoform 3.
+
+This gene encodes the plasma membrane calcium ATPase isoform 4.
+
+This gene encodes the poly(ADP-ribosyl)transferase 3, which is preferentially localized to the daughter centriole throughout the cell cycle.
+
+This gene encodes the protein core of a seminal plasma proteoglycan containing chondroitin- and heparan-sulfate chains.
+
+This gene encodes the protein elongin A, which is a subunit of the transcription factor B (SIII) complex.
+
+This gene encodes the protein IL-2RG, which is a cytokine receptor sub-unit that is part of the receptors for IL-2, IL-4, IL-7, IL-9, IL-15 and IL-21.
+
+This gene encodes the protein responsible for this enzymatic activity which uses S-adenosyl methionine as the methyl donor.
+
+This gene encodes the protein Usherin that contains laminin EGF motifs, a pentaxin domain, and many fibronectin type III motifs.
+
+This gene encodes the rate-limiting enzyme of the polyamine biosynthesis pathway which catalyzes ornithine to putrescine.
+
+This gene encodes the receptor for reticulon 4, oligodendrocytemyelin glycoprotein and myelin-associated glycoprotein.
+
+This gene encodes the receptor for type 1 gonadotropin-releasing hormone.
+
+This gene encodes the second largest subunit of RNA polymerase II, the polymerase responsible for synthesizing messenger RNA in eukaryotes.
+
+This gene encodes the seventh largest subunit of RNA polymerase II, the polymerase responsible for synthesizing messenger RNA in eukaryotes.
+
+This gene encodes the sixth largest subunit of RNA polymerase II, the polymerase responsible for synthesizing messenger RNA in eukaryotes, that is also shared by the other two DNA-directed RNA polymerases.
+
+This gene encodes the small chain of this complex.
+
+This gene encodes the smallest subunit of dynactin, a macromolecular complex consisting of 10 subunits ranging in size from 22 to 150 kD. Dynactin binds to both microtubules and cytoplasmic dynein.
+
+This gene encodes the substrate of breast tumor kinase, an Src-type non-receptor tyrosine kinase.
+
+This gene encodes the subunit s, also known as factor B, of the proton channel.
+
+This gene encodes the third of three enzymes that posttranslationally modify isoprenylated C-terminal cysteine residues in certain proteins and target those proteins to the cell membrane.
+
+This gene encodes the transacylase (E2) subunit.
+
+This gene encodes the type II 5-phosphatase.
+
+This gene encodes the V1 domain D subunit protein.
+
+This gene encodes twinfilin, an actin monomer-binding protein conserved from yeast to mammals.
+
+This gene encodes two alternatively spliced transcript variants which differ only in the 5' UTR.
+
+One study found associations between cleft lip and palate and mutations in the HYAL2 gene.
+
+This gene encodes two principal proteins of the dentin extracellular matrix of the tooth.
+
+This gene encodes two transcripts with two alternatively spliced 5' untranslated exons.
+
+This gene encodes two transcript variants encoding distinct isoforms.
+
+This gene encodes UDP-GalNAc transferase 3, a member of the GalNAc transferase family.
+
+This gene encodes WW domain-containing binding protein 4.
+
+This gene encompasses almost 1.
+
+6% of chromosome 7 and is one of the largest genes in the human genome.
+
+This gene expresses a soluble protein that stimulates lipolysis, induces a reduction in body fat in mice, is associated with the cachexia related to cancer, and is known to be expressed in secretory cells of lung epithelium.
+
+This gene expression is limited to skeletal muscle.
+
+This gene for chemokine is located on human chromosome 7.
+
+This gene for this molecule is now officially called IL-27 under HGNC guidelines.
+
+This gene functions in the protection of cells from Fas- or tumor necrosis factor type alpha-induced apoptosis.
+
+This gene generates several mRNA species as a result of complex alternative polyadenylation.
+
+This gene (GRINL1A) is part of a complex transcript unit that includes the gene for GRINL1A combined protein (Gcom1).
+
+This gene had previous gene symbols of ATP6G and ATP6G2.
+
+This gene has a closely linked pseudogene that is distally located.
+
+This gene has also been associated with a variety of other psychiatric disorders, including antisocial behavior.
+
+This gene has a mouse ortholog.
+
+This gene has an important paralog NQO2.
+
+This gene has a nonsynonymous nucleotide polymorphism at its start codon.
+
+This gene has a possible role in Graves' disease.
+
+This gene has a pseudogene on chromosome 13.
+
+This gene has a pseudogene on chromosome 20.
+
+This gene has a pseudogene on chromosome 3.
+
+This gene has a pseudogene on chromosome 6.
+
+This gene has a pseudogene on chromosome 7.
+
+This gene has a pseudogene on chromosome 8.
+
+This gene has a role in the creation of the carpel during the formation of flowers through the fusion of epidermal cells.
+
+This gene has been described as a transcribed retropseudogene (or retro-xaptonuon) based on its structure which lacks most of the introns of SEDL and the detection of transcripts from this locus.
+
+This gene has been found to be activated in various tumors, such as insulinomas, esophageal cancers, and colon cancers.
+
+This gene has been found to be highly expressed in breast cancer.
+
+This gene has been found to have multiple copies on many chromosomes, some of which, if not all, represent different pseudogenes.
+
+This gene has been implicated in the transcriptional regulation of housekeeping genes.
+
+This gene has been linked to both genetic and acquired hypertension.
+
+This gene has been referred to as ribosomal protein L30 because the encoded protein shares amino acid identity with the L30 ribosomal proteins from Saccharomyces cerevisiae; however, its official name is ribosomal protein L24.
+
+This gene has been referred to as RPL17 because the encoded protein shares amino acid identity with ribosomal protein L17 from Saccharomyces cerevisiae; however, its official symbol is RPL23.
+
+This gene has been referred to as RPL23 because the encoded protein shares amino acid identity with ribosomal protein L23 from Halobacterium marismortui; however, its official symbol is RPL17.
+
+This gene has been shown to be expressed in liver and adipocytes, particularly in lipomatous modules.
+
+This gene has been shown to be linked to weight gain.
+
+This gene has been shown to be overexpressed in some esophageal tumors compared to normal matched tissues.
+
+This gene has higher expression in p53-expressing cells than in control cells and is an immediate-early induction target of p53-mediated apoptosis.
+
+This gene has homologs in eukaryotes as far back as Trichoplax.
+
+This gene has multiple polyadenylation sites.
+
+This gene has multiple pseudogenes.
+
+This gene has pseudogenes on chromosomes 2, 3 and 4.
+
+This gene has three mRNAs from the use of alternative transcription sites.
+
+This gene has two identical copies at different loci.
+
+This gene has two paralog in the human genome, LOC201158, which is located on chromosome 17 at 17p12, and TVP23A, which is located on chromosome 16.
+
+This gene has two pseudogenes at chromosome 7q11.
+
+21 and one at chromosome 11p11.
+
+12.
+
+This gene impacts the early development of the forelimb by triggering fibroblast growth factor, FGF10.
+
+This gene includes 10 exons within its coding region.
+
+This gene is 32,1 kbps long.
+
+This gene is 3,885 nucleotides long and resides at chromosome 7 (7p15.
+
+2) and is transcribed from an independent gene promoter.
+
+This gene is a candidate colorectal tumor suppressor gene that is thought to negatively regulate cell cycle progression.
+
+This gene is a candidate gene for a familial infantile convulsive disorder with paroxysomal choreoathetosis.
+
+This gene is a candidate gene for alveolar soft part sarcoma (ASPS).
+
+This gene is a candidate gene for other hereditary spastic paraplegias or neurodegenerative disorders as well as spastic ataxia-neuropathy syndrome.
+
+This gene is a candidate gene for periventricular heterotopia.
+
+This gene is a candidate meningioma gene.
+
+This gene is a candidate tumor suppressor gene.
+
+This gene is a classical cadherin from the cadherin superfamily.
+
+This gene is a downstream target of the B-cell receptor signal transduction pathway.
+
+This gene is a highly conserved lung cancer candidate gene.
+
+This gene is a homolog of the Drosophila delta gene.
+
+This gene is a homolog of the yeast CHL1 gene, and may function to maintain chromosome transmission fidelity and genome stability.
+
+This gene is also a potential candidate for human X-linked disorders of gonadal development and gametogenesis.
+
+This gene is also expressed in non-neural tissues and may play a general role in cell-cell communication via signaling from its intracellular domain to the actin cytoskeleton during directional cell migration.
+
+This gene is also known as Essential for Respiration and Vegatative growth/Augmenter of Liver Regeneration/Growth Factor Erv1-like/Hepatic regenerative Stimulation Substance/hepatopoietin.
+
+This gene is also known as GW, GWL, THC2, MAST-L, GREATWALL.
+
+This gene is also known as hypertrophic chondrocyte specific 24 (hcs24).
+
+This gene is also known by several other names: CMG 2 (CAMGUK protein 2), calcium/calmodulin-dependent serine protein kinase 3 and membrane-associated guanylate kinase 2.
+
+This gene is also linked to an autosomal recessive form of Alport syndrome.
+
+This gene is also one the determining factors in wet or dry type earwax, as the mammary glands are a form of apocrine gland.
+
+This gene is also the strongest candidate in the neuroblastoma tumor suppressor genes.
+
+This gene is a maternally imprinted putative tumor suppressor, and reduced expression of ARHI has been reported in 70% of invasive breast cancers.
+
+This gene is a member of a family of L-glutamate-gated ion channels that mediate fast synaptic excitatory neurotransmission.
+
+This gene is a member of a family of methyltransferases that share homology with, but are distinct from, the UbiE family of methyltransferases.
+
+This gene is a member of a gene family that encodes lipid phosphatases.
+
+This gene is a member of a multi-gene family which shares strong similarity with the Drosophila disheveled gene, dsh.
+
+This gene is a member of a photoreceptor-specific gene family and encodes an integral membrane protein found in the photoreceptor disk rim of the eye.
+
+This gene is a member of KDWK gene family.
+
+This gene is a member of the aldehyde dehydrogenase family and encodes a bifunctional ATP- and NADPH-dependent mitochondrial enzyme with both gamma-glutamyl kinase and gamma-glutamyl phosphate reductase activities.
+
+This gene is a member of the ankyrin-repeat family and is induced by lipopolysaccharide (LPS).
+
+This gene is a member of the Antp homeobox family and encodes a nuclear protein with a homeobox DNA-binding domain.
+
+This gene is a member of the Antp homeobox family and encodes a protein with a homeobox DNA-binding domain.
+
+This gene is a member of the beta-1,6-N-acetylglucosaminyltransferase gene family.
+
+This gene is a member of the brain expressed X-linked gene family.
+
+This gene is a member of the carboxypeptidase A/B subfamily, and it is located in a cluster with three other family members on chromosome 7.
+
+This gene is a member of the casein kinase I (CKI) gene family whose members have been implicated in the control of cytoplasmic and nuclear processes, including DNA replication and repair.
+
+This gene is a member of the caudal-related homeobox transcription factor family that is expressed in the nuclei of intestinal epithelial cells.
+
+This gene is a member of the chimerin family and encodes a protein with a phorbol-ester/DAG-type zinc finger, a Rho-GAP domain and an SH2 domain.
+
+This gene is a member of the cyclophilin family of peptidylprolyl isomerases (PPIases).
+
+This gene is a member of the DNA2/NAM7 helicase gene family.
+
+This gene is a member of the EMP24/GP25L/p24 family and encodes a protein with a GOLD domain.
+
+This gene is a member of the F-box/WD-40 gene family, which recruit specific target proteins through their WD-40 protein-protein binding domains for ubiquitin mediated degradation.
+
+This gene is a member of the forkhead/winged helix transcription factor family.

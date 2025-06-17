@@ -1,0 +1,305 @@
+Rendang is a spicy meat dish which originated from Indonesia, especially the ethnic group of Minangkabau people, and is now commonly served across the country.
+
+Rendang is traditionally prepared by the Minangkabau community during festive occasions such as traditional ceremonies, wedding feasts and Hari Raya (Eid al-Fitr).
+
+Rendani Masutha is a retired South African naval officer, currently serving as Deputy Military Ombud.
+
+Renda Radio, Inc. purchased the translator from Family Life Ministries on January 27, 2016, for $120,000.
+
+Rendava Veedhi (English: Gandhinagar 2nd Street) is a 1987 Telugu, comedy film, produced by G. Reddy Shekar, J.
+
+Gopal Reddy, P. Pardhasaradhi Reddy on Suseela Arts banner, Presented by Sarath Babu and directed by P. N. Ramachandra Rao.
+
+Renda was born in Des Moines, Iowa.
+
+Rendcomb College was founded in 1920 by Frederick Noel Hamilton Wills (Noel Wills).
+
+Rende Calcio 1968 S.
+
+r.
+
+l. is an Italian football club, based in Rende, Calabria, currently playing in Serie C, the third highest football division in Italy.
+
+Ren DeGaris was elected to fill the vacancy on 15 December.
+
+Rende is a town and comune in Calabria, southern Italy, home to the headquarters of the University of Calabria.
+
+Rendel is a 2017 Finnish superhero film written, produced and directed by Jesse Haaja.
+
+Rendell grew up in Devon and joined the Royal Marines aged sixteen, going on to serve in the Special Boat Service.
+
+Rendell has said that "if a visitor is overwhelmed with the enormity and the complexity of the war, I have achieved my goal."
+
+Rendell then recast his conclusion, stating that while there was "the absence of any indication of forgery in the letter itself, there was also no evidence that it was genuine."
+
+Rendell was elected as a Member of the Legislative Council, which was reconstituted into the Legislative Assembly with the implementation of the 2009 Constitution.
+
+Rendell was elected to the Legislative Council at the 2005 general election, but did not stand for re-election in the 2009 general election.
+
+Render also published German Exercises, a Pocket Dictionary in English and German, and other manuals of instruction in German.
+
+Render came to England about 1790, and settled in London.
+
+Rendered centers around creative people as well as the processes and resources used to create various skills, communities, and ideas.
+
+Rendered images can be exported in Degas Elite or NeoChrome format.
+
+Rendered in a simple style reminiscent of the Golden Age Captain Marvel, the series starred a superhero named Powerman.
+
+Rendered in grayscale, the comic is a fusion of hardboiled noir fiction and a samurai adventure tale.
+
+Rendered mainly in the Gothic style, the building in its oldest parts shows traces of the Romanesque.
+
+Rendered obsolete by succeeding compilations that contain almost all of the songs in this album, it was nonetheless re-released in 2003, in a re-mastered edition with the addition of "Clock Strikes Ten".
+
+Rendered obsolete by the mechanical drainage improvements after World War II, it was finally removed in 1991.
+
+Rendered obsolete in 1906 with the commissioning of the revolutionary Dreadnought, she underwent a refit in 1907, following which she was assigned to the Channel Fleet and then to the Home Fleet.
+
+Rendered obsolete with the emergence of the new dreadnoughts from late 1906 onwards, she underwent an extensive refit in 1909, after which she served with the Atlantic Fleet.
+
+Rendered redundant by the car ferry revolution, she was sold for a new career as a floating restaurant on the Thames, under the name Hispaniola.
+
+Rendered redundant by the car ferry revolution, she was sold to Greek owners in 1975.
+
+Rendered redundant by the car ferry revolution, she was sold to Italian owners in 1973.
+
+Rendered with distinct realism, biomechanical art expresses an internal fantasy world, most typically represented with human or animal anatomy where bones and joints are replaced with metal pistons and gears, but infused with muscles and tendons.
+
+Rendered with English lyrics by Carl Sigman as "You're My World", the song has reached No. 1 in Australia (twice), Belgium, Mexico, Netherlands, South Africa and United Kingdom via recordings by Cilla Black, Daryl Braithwaite, Guys 'n' Dolls and Helen Reddy.
+
+Rendering APIs typically provide just enough functionality to abstract a graphics accelerator, focussing on rendering primitives, state management, command lists/command buffers; and as such differ from fully fledged 3D graphics libraries, 3D engines (which handle scene graphs, lights, animation, materials etc.), and GUI frameworks; Some provide fallback software rasterisers, which were important for compatibility and adoption before graphics accelerators became widespread.
+
+Rendering can be carried out on an industrial, farm, or kitchen scale.
+
+Rendering can be split into two main categories: real-time rendering (also known as online rendering), and pre-rendering (also called offline rendering).
+
+Rendering can refer to any processing of animal products into more useful materials, or, more narrowly, to the rendering of whole animal fatty tissue into purified fats like lard or tallow.
+
+Rendering everything with the (general-purpose) CPU has the main advantage that it is not restricted to the (limited) capabilities of graphics hardware, but the disadvantage that more semiconductors are needed to obtain the same speed.
+
+Rendering Favors: Performing helpful requests for another individual.
+
+Rendering graphics can require massive computational resources for complex scenes that arise in scientific visualization, medical visualization, CAD applications, and virtual reality.
+
+Rendering has proved one of Berio's most enduring pieces and has been recorded several times, twice by Chailly alone.
+
+Rendering in passes is based on a traditions in motion control photography which predate CGI.
+
+Rendering in visual art and technical drawing means the process of formulating, adding color, shading, and texturing of an image.
+
+Rendering is a 1989/1990 composition by the Italian composer Luciano Berio.
+
+Rendering is an embarrassingly parallel workload in multiple domains (e.
+
+g., pixels, objects, frames) and thus has been the subject of much research.
+
+Rendering is a process that converts waste animal tissue into stable, usable materials.
+
+Rendering is done with antialiasing and gamma correction.
+
+Rendering is the last step in an animation process, and gives the final appearance to the models and animation with visual effects such as shading, texture-mapping, shadows, reflections and motion blurs.
+
+Rendering is used in architecture, simulators, video games, movies and television visual effects and design visualization.
+
+Rendering on typical GPU hardware requires conversion to polygon meshes, e.
+
+g. by the marching cubes algorithm.
+
+Rendering plants often also handle other materials, such as slaughterhouse blood, feathers and hair, but do so using processes distinct from true rendering.
+
+Renderings for the building were first released in April 2016.
+
+RenderMan has much in common with OpenGL, despite the two APIs being targeted to different sets of users (OpenGL to real-time hardware-assisted rendering and RenderMan to photorealistic off-line rendering).
+
+Renderman Shading Language (abbreviated RSL) is a component of the RenderMan Interface Specification, and is used to define shaders.
+
+RenderMan Shading Language defines standalone functions and five types of shaders: surface, light, volume, imager and displacement shaders.
+
+Renders can be done by leveraging either the 3Delight render engine, or the Iray render engine, both of which ship for free along with Daz Studio, or with a variety of purchasable add-on render engine plugins for Daz Studio from various vendors and companies.
+
+RenderScript is a component of the Android operating system for mobile devices that offers an API for acceleration that takes advantage of heterogeneous hardware.
+
+Render's Tour through Germany, particularly along the Banks of the Rhine, Mayne, also appeared in 1801.
+
+Render to Caesar is a 2014 Nigerian crime thriller film written and produced by Desmond Ovbiagele, directed by Desmond Ovbiagele and Onyekachi Ejim.
+
+RenderWare is a game engine developed by the British game developer Criterion Software.
+
+Render was ordained to the Lutheran ministry.
+
+Render was picked up after the draft by the Tampa Bay Buccaneers as an undrafted free agent, but was released after the team signed Keydrick Vincent.
+
+RenderX develops products that convert XML content into printable formats such as PDF, PostScript and AFP.
+
+RenderX, Inc is a commercial software development company that provides standards-based software products, used for typeset-quality electronic and print output of business content."
+
+Rendezvous" (1975), "Lonely School Year" (1975), and "Help Wanted" (1976).
+
+Rendezvous 24 is a 1946 American drama film directed by James Tinling and written by Aubrey Wisberg.
+
+Rendezvous at Midnight is a 1935 American mystery film directed by Christy Cabanne and written by Ferdinand Reyher and Gladys Buchanan Unger.
+
+Rendezvous at Romano's was an Australian television series which aired on Sydney station TCN-9.
+
+Rendezvous became released in digital format on iTunes in mid-2008.
+
+Rendezvous delay is a term that pertains to mobile wireless networking, and the hand-off of a mobile device from one base station to a new base station.
+
+Rendezvous, famously known as RDV is the annual Cultural Festival of the Indian Institute of Technology (IIT), Delhi.
+
+Rendezvous FC is a Barbadian football club that currently plays in the Barbados Premier Division, the top level of football on Barbados.
+
+Rendezvous has been noted for its unusual place name.
+
+Rendez-vous Houston is remembered for being the concert which celebrated the astronauts of the Space Shuttle Challenger disaster, which had happened only two and a half months earlier.
+
+Rendezvous in July (French: Rendez-vous de juillet) is a 1949 French comedy film directed and written by Jacques Becker.
+
+Rendezvous in New York is an album by American pianist Chick Corea, released on April 22, 2003, on Corea's own Stretch Records, as a two-CD set.
+
+Rendezvous in Paris is a 1982 Franco-German film directed by Gabi Kubach and starring Claude Jade, Harald Kuhlmann and Barry Stokes.
+
+Rendezvous in Rio is a jazz vocal album by Michael Franks, released in 2006 with Koch Records.
+
+Rendezvous in Space is a 1964 documentary film about the future of space exploration, directed by Frank Capra.
+
+Rendezvous is a 1935 spy film set in World War I, directed by William K. Howard, starring William Powell and Rosalind Russell and featuring Binnie Barnes, Lionel Atwill, Cesar Romero and Samuel S. Hinds.
+
+Rendezvous is a 1977 album by English folk rock singer-songwriter Sandy Denny, and was her last release before her death.
+
+Rendezvous is a 2016 action-adventure film directed by Amin Matalqa with a screenplay by Terrel Seltzer.
+
+Rendezvous is a data synchronization mechanism in Plan 9 from Bell Labs.
+
+Rendezvous is a latin jazz album released by Michel Camilo, pianist and composer from Santo Domingo, Dominican Republic, in 1993 on the Columbia Records label.
+
+Rendez-vous is an album by In-Grid released in 2003.
+
+Rendez-Vous is an album by trumpeter/vocalist Chet Baker which was recorded in 1979 and released on the French Bingow label.
+
+Rendezvous is an EP by the British heavy metal band Tokyo Blade, released in 1984 through the UK independent record label Powerstation Records.
+
+Rendezvous is an unincorporated community in Ouachita County, Arkansas, United States.
+
+Rendez-Vous is a post-punk french band from Paris, France, formed in 2012.
+
+Rendez-Vous is concept album by the French-born Greek presenter, author, singer-songwriter Nikos Aliagas, released on 17 October 2007 in Greece, Cyprus, France and Turkey.
+
+Rendez-vous is the eighth studio album by electronic musician and composer Jean-Michel Jarre released on Disques Dreyfus, licensed to Polydor, in April 1986.
+
+Rendezvous is the seventh album by American alternative rock band Luna.
+
+Rendezvous Lake is in the Sawtooth Wilderness, and a wilderness permit can be obtained at a registration box at trailheads or wilderness boundaries.
+
+Rendezvous may or may not be followed by docking or berthing, procedures which bring the spacecraft into physical contact and create a link between them.
+
+Rendezvous Music (formerly known as Rendezvous Entertainment) is a record label founded by multiple-Grammy Award nominee and RIAA Certified Gold recording artist Dave Koz, radio entrepreneur Frank Cody and music business veteran Hyman Katz in 2002.
+
+Rendezvous requires a precise match of the orbital velocities and position vectors of the two spacecraft, allowing them to remain at a constant distance through orbital station-keeping.
+
+Rendezvous Shores is a recent development on the lands which were a large grass field between a marine basin and the Rendezvous Tavern, the Tavern was approximately 1150feet south from the Lake St. Clair shore and the marine basin, while the adjoining properties were a maximum 800 feet, thus the marine basin jutted out into the southwest corner of Lake St. Clair.
+
+Rendezvous Sports World Limited is a consortium made up of multiple companies.
+
+Rendezvous Sports World (RSW) was a cricket franchise in the Indian Premier League which had 10% of equity on Kochi IPL Team.
+
+Rendezvous was supported by one official single, Your Father, featuring label-mate Dice Ailes.
+
+Rendezvous was the band's final studio album with most of its original lineup.
+
+Rendezvous was the fourth album by Canadian progressive rock band CANO, released in 1979.
+
+Rendezvous with Annie is a 1946 comedy film directed by Allan Dwan and written by and Mary Loos and Richard Sale.
+
+Rendezvous with Death features interviews with four Cuban former secret service agents and an American FBI agent, and also cites documents from KGB and Mexican government archives.
+
+Rendezvous with God is a 2012 book compiled by Shreeja Mohatta Jhawar and Abhilasha Agarwal.
+
+Rendezvous with Kenton is an album by bandleader and pianist Stan Kenton featuring performances recorded at the Rendezvous Ballroom in 1957 and released on the Capitol label.
+
+Rendezvous with Lindley Evans (sometimes listed in TV listings as Pianist Lindley Evans) was an Australian television series featuring pianist Lindley Evans.
+
+Rendezvous with RagNaRok is a performance film by the band Gwar coinciding with their 1995 album RagNaRok, though the video was released in early 1997 (much of the footage was from 1996).
+
+Rendezvous with Rama is an interactive fiction computer game with graphics published by Telarium (formerly known as Trillium), a subsidiary of Spinnaker Software, in the year 1984.
+
+Rendezvous with Rex is an album by cornetist Rex Stewart which was recorded in 1958 and released on the Felsted label.
+
+Rendham is a village and civil parish on the B1119 road, in the Suffolk Coastal District, in the English county of Suffolk.
+
+Rendi Irwan Saputra (born 26 April 1987) is an Indonesian football player who plays for Persija Jakarta as a midfielder.
+
+Rendille (also known as Rendile, Randile) is an Afro-Asiatic language spoken by the Rendille people inhabiting northern Kenya.
+
+Rendi Saputra (born on April 28, 1989) is an Indonesian footballer who currently plays for Persegres Gresik United.
+
+Rendition can also be seen as the act of handing over, after the request for extradition has taken place.
+
+Rendition can also mean the act of rendering, i.
+
+e. delivering, a judicial decision, or of explaining a series of events, as a defendant or witness.
+
+Rendition is a 2007 American political thriller film directed by Gavin Hood and starring Reese Witherspoon, Meryl Streep, Peter Sarsgaard, Alan Arkin, Jake Gyllenhaal and Omar Metwally.
+
+Rendition is a 2007 drama film directed by Jim Threapleton and starring Omar Berdouni and Andy Serkis, known for his role in The Lord of The Rings.
+
+Rendition is a 2007 work of interactive fiction by "nespresso", written using Inform 7 and published in z-code format, in which the player performs an interrogation of a suspected terrorist.
+
+Rendition of legal advice by a person who is not licensed to do so can be the basis for a charge of unauthorized practice of law.
+
+Renditions is an extended play by American post-hardcore band SECRETS.
+
+Renditions is the first studio album by Amelia Warner under the name Slow Moving Millie.
+
+Rend Lake College (RLC), located in Ina, Illinois, is one of 48 two-year, open-admission colleges of the Illinois Community College System (ICCS), organized under the Illinois Public Community College Act.
+
+Rendle became an International Master in June 2006 and is part way towards becoming a Grandmaster, with one GM Norm.
+
+Rendle currently works as a chess coach, both online and face-to-face.
+
+Rendle Obetia ficifolia Gaudich.
+
+Rendlesham Forest is a 1,500-hectare mixed woodland in Suffolk owned by the Forestry Commission with recreation facilities for walkers, cyclists and campers.
+
+Rendlesham Hall was a large manor house in the village of Rendlesham in Suffolk.
+
+Rendon is a census-designated place (CDP) in Tarrant County, Texas, United States.
+
+Rendova is an island in the Western Province of the Solomon Islands in the South Pacific, east of Papua New Guinea.
+
+Rendrick Taylor (born April 3, 1987) is a former American football fullback.
+
+Rendsville Township is a township in Stevens County, Minnesota, United States.
+
+Rendu (English: Two) is a 2006 Tamil action comedy film directed by Sundar C and produced by Kushboo.
+
+Rendu Jella Sita is a 1983 Telugu comedy film, written and directed by Jandhyala.
+
+Rendu, which featured music composed by D. Imman, performed well at the box office upon release.
+
+Rendville is a village in Perry County, Ohio, United States.
+
+Rendy Siregar (born September 14, 1986 in Jakarta) is an Indonesian footballer who plays as a defender for Madura United in the Liga 1.
+
+Renea bourguignatiana is a species of land snail with an operculum, a terrestrial gastropod mollusk in the family Aciculidae.
+
+Rene Adrian Gonzales (born September 3, 1960) is an American former professional baseball infielder.
+
+Renea is a genus of air-breathing land snails with an operculum, terrestrial gastropod mollusks in the family Aciculidae.
+
+Rene Alexander Acosta (born January 16, 1969) is an American attorney, academic, and politician who is the 27th and current United States Secretary of Labor.
+
+Rene Alexander Steer (born 31 January 1990) is an English footballer who plays for Maidenhead United as a left back.
+
+Renealmia alpinia is a flowering plant species native to the Americas, where it grows from southern Mexico through much of South America, though not in the Southern Cone.
+
+Renealmia alpinia is commonly known as mardi gras in Trinidad, where hunters administer it either orally or topically to their hunting dogs to treat a variety of conditions, from sprains to snakebite.
+
+Renealmia aurantifera is a species of plant in the Zingiberaceae family.
+
+Renealmia dolichocalyx is a species of plant in the Zingiberaceae family.
+
+Renealmia oligotricha is a species of plant in the Zingiberaceae family.
+
+Renealmia sessilifolia is a species of plant in the Zingiberaceae family.

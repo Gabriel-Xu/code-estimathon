@@ -1,0 +1,101 @@
+The term "manure" was used for inorganic fertilizers in the past, but this usage is now very rare. Manure from birds and bats is called guano.
+
+The word manure came from Middle English "manuren" meaning "to cultivate land," and initially from French "main-oeuvre" = "hand work" alluding to the work which involved manuring land.
+
+There are two classes of manures in soil management: green manures and animal manures. Compost is distinguished from manure in that it is the "decomposed" remnants of organic materials (which may, nevertheless, include manure).
+
+Most animal manure is feces–excrement of plant-eating mammals (herbivores) and plant material (often straw) which has been used as bedding for animals and thus is heavily contaminated with their feces and urine.
+
+Green manures are crops grown for the express purpose of plowing them under. In so doing, fertility is increased through the nutrients and organic matter that are returned to the soil.
+
+Manure has been used for centuries as a fertilizer for farming, as it is rich in nitrogen and other nutrients which facilitate the growth of plants. Liquid manure from pig/hog operations is usually knifed (injected) directly into soil to reduce the unpleasant odors. Manure from hogs and cattle is spread on fields using a manure spreader. Due to the relatively lower level of proteins in grasses, which herbivores eat, cattle manure has a milder smell than the dung of carnivores–for example, elephant dung is practically odorless. However, due to the quantity of manure applied to fields, odor can be a problem in some agricultural regions. Poultry droppings are harmful to plants when fresh but after a period of composting are valuable fertilizers.
+
+The dried manure of animals has been used as fuel throughout history. Dried manure (usually known as dung) of cows was, and still is, an important fuel source in countries such as India, while camel dung may be used in treeless regions such as deserts. On the Oregon Trail, pioneering families collected large quantities of "buffalo chips" in lieu of scarce firewood. It has been used for many purposes, in cooking fires and to combat the cold desert nights.
+
+Another use of manure is to make paper. This has been done with dung from elephants where it is a small industry in Africa and Asia, and also horses, llamas, and kangaroos. Other than the llama, these animals are not ruminants and thus tend to pass plant fibres undigested in their dung.
+
+NutrientA nutrient is either a chemical element or compound used in an organism's metabolism or physiology. A nutrient is essential to an organism if it cannot be produced by the organism and must be obtained from a food source.
+
+This article deals with nutrition in animals, especially humans. Nutrition in plants, fungi, bacteria and archaea is not discussed here.
+
+These three types of nutrients are often called macronutrients.
+
+The following table gives an idea of what elements are essential for humans:Periodic table highlighting dietary elementsHistogramA histogram is a concept from statistics. It is a graphical display that tells us about the distribution of the samples involved. They are commonly a picture made from a table with many categories. The table tells how many samples there are in each category.
+
+The word "histogram" is derived from "histos" and "gramma" in Greek. "Histos" means "web" or "mast". "Gramma" means "drawing", "record" or "writing". A histogram of something is therefore, etymologically speaking, a drawing of the web of this something.
+
+A histogram is a graphical representation of the distribution of numerical data. It is a type of bar chart that shows the frequency or number of observations within different numerical ranges, called bins. The bins are usually specified as consecutive, non-overlapping intervals of a variable. The histogram provides a visual representation of the distribution of the data, showing the number of observations that fall within each bin.
+
+The histogram is one of the seven basic tools of quality control, which also include the Pareto chart, check sheet, control chart, cause-and-effect diagram, flowchart, and scatter diagram.
+
+A population pyramid is two histograms.
+
+A generalization of the histogram is kernel smoothing techniques. This will construct a smooth probability density function from the supplied data.
+
+Green manureTypically, a green manure crop is grown for a specific period, and then plowed under and incorporated into the soil. Green manures usually perform several functions, that include soil improvement and soil protection:Historically, the practice of green manuring can be traced back to the fallow cycle of crop rotation, which was used to allow soils to recover.
+
+Organic farming relies on soil health and cycling of nutrients through the soil using natural processes, such as the addition of animal manures. If animal manures are not available, in a stockless rotation, green manures perform a vital function of fertilization.
+
+Normal distributionThe normal distribution is a probability distribution. It is also called Gaussian distribution because it was first discovered by Carl Friedrich Gauss.
+
+The normal distribution is very important in many fields because many things take this form. It is often called the "bell curve", because the graph of its probability density looks like a bell.
+
+These two parameters are represented by the symbols formula_1 and formula_2, respectively.
+
+The standard normal distribution (also known as the Z distribution) is the normal distribution with a mean of zero and a standard deviation of one (the green curves in the plots to the right).
+
+Many values follow a normal distribution. Some examples include:Its origin goes back to the 18th century to De Moivre and in the early 19th century with Gauss.
+
+It is the most widely used piece of statistics by far. It was famously used in World War I by the United States Army to decide when men were so poor mentally that they could not be used by the Army in any job.
+
+BiomassBiomass is a basic term in ecology, and in the energy production industry.
+
+Organic waste such as dead plant and animal material, animal dung and kitchen waste can be converted into gaseous fuel called biogas. The organic waste is decomposed by bacteria in biogas digesters to emit biogas which is essentially a mixture of methane and carbon dioxide.
+
+In ecology, biomass means the accumulation of living matter. It is the total living material in a given area or a biological community or group. Biomass is measured by weight, or by dry weight, per given area (per square metre or square kilometer).
+
+In the energy industry, it refers to biological material which can be used as fuel or for industrial production. Biomass includes plant matter grown for use as biofuel, and also includes plant or animal matter used for production of fibres, chemicals or heat. Biomass may also include biodegradable wastes which can be burnt as fuel. It excludes organic material which has been transformed by geological processes into substances such as coal or petroleum. It is usually measured by dry weight.
+
+The term biomass is especially useful for plants, where some internal structures may not always be considered living tissue, such as the wood (secondary xylem) of a tree.
+
+Biofuels include bioethanol, biodiesel, biogas, and firewood.
+
+Biomass is grown from several plants, including switchgrass, hemp, corn, poplar, willow and sugarcane. The particular plant used is usually not very important to the end products, but it does affect the processing of the raw material.
+
+Though biomass is a renewable fuel, its use can still contribute to global warming. This happens when the natural carbon equilibrium is disturbed; for example by deforestation or urbanization of green sites.
+
+Biomass is part of the carbon cycle. Photosynthesis converts carbon from the atmosphere into plant matter. When the plant rots or burns, the carbon goes back into the atmosphere. This happens somewhat quickly, and plant matter used as a fuel can be constantly replaced by planting for new growth. Therefore, it doesn't much change the amount of atmospheric carbon.
+
+Although fossil fuels come from things that died long ago, they are not considered biomass by the generally accepted definition because they contain carbon that has been 'out' of the carbon cycle for a very long time. Burning fossil fuels in combustion therefore adds much carbon dioxide to the atmosphere.
+
+Other uses of biomass, besides fuel:Plastics from biomass, like some made to dissolve in seawater, are made the same way as petroleum-based plastics, are actually cheaper to manufacture and meet or exceed most performance standards. But they lack the water resistance of conventional plastics.
+
+The most successful animal, in terms of biomass, is the Antarctic krill, "Euphausia superba", with a biomass of probably over 500 million tons across the world, about twice the total biomass of humans.
+
+Biomass may also be a measure of the dried organic mass of an ecosystem.
+
+This is a summary of biomass data.
+
+VarianceIn probability theory and statistics, the variance is a way to measure how far a set of numbers is spread out.
+
+Variance describes how much a random variable differs from its expected value. The variance is defined as the average of the squares of the differences between the individual (observed) and the expected value. This means that it is always positive. A variance is often represented by the symbol formula_1, if the data is the entire population, and formula_2, if the data is from a sample.
+
+In practice, variance is a measure of how much something changes. For example, temperature has more variance in Moscow than in Hawaii.
+
+The variance is not simply the average difference from the expected value. The standard deviation, which is the square root of the variance and comes closer to the average difference, is also not simply the average difference. Variance and standard deviation are used because it makes the mathematics easier—when adding two random variables together.
+
+In accountancy, a variance refers to the difference between the budget for a cost, and the actual cost.
+
+Karl Pearson, the father of biometry, first used the term variance as follows:""It is here attempted to (show) the biometrical properties of a population of a more general type that has (..) been examined, inheritance in which follows this scheme. It is hoped that in this way it will be possible to make a more exact analysis of the causes of human variability. The great body of available statistics shows us that the deviations of a human measurement from its mean follow very closely the Normal Law of Errors, and that therefore, the variablility may be uniformly measured by the standard deviation, corresponding to the square root of the mean square error.""
+
+Tarzan's TreehouseTarzan's Treehouse is a walk-through attraction in Disneyland in Anaheim, California. It was originally called the Swiss Family Treehouse. The treehouse explores the past of the Disney character Tarzan. The tree is fake, but is considered by Disney imagineers a real species or "Disneyodendron eximus" which translates to "out of the ordinary Disney tree". The tree has 1,400 branches and 300,000 polyethlyne leaves. The tree is covered in live Spanish moss.
+
+Adam MałyszAdam Henryk Małysz (born 3 December 1977 in Wisła, Poland) is a Polish former ski jumper. He has four Olympic medals (3 silver, 1 bronze). His longest jump was 230,5 meters. Since 2011 he is a rally driver.
+
+SalomeSalome or Salomé (Hebrew: שלומית Shlomit) (c AD 14 between 62 and 71), is the name of a character in the New Testament. Her name is not actually given there, but she was an entirely historical person. She was the daughter of Herod Antipas and Herodias. Her name is pronounced with a short 'o', and the 'e' at the end is sounded.
+
+This Salome is not the same Salome who is said to be a witness to the Crucifixion of Jesus in Mark 15:40.
+
+According to Mark 6:21-29, Salome was the stepdaughter of Herod Antipas, and danced before Herod and her mother Herodias at the occasion of Herod's birthday. The New Testament suggests that Salome caused John the Baptist to be executed because his spoke out that Herod's marriage to Herodias was adulterous. Herodias put her up to the demand that John be executed, something the king was initially reluctant to do.
+
+The version in Matthew (Chapter 14, verses 311, is perhaps clearer:

@@ -1,0 +1,99 @@
+Each state's constitution or legislature spells out what type of courts the state will have, how they will work, and how judges will be chosen. Like with state executive departments, state courts can be very different from state to state.
+
+List of amendments to the United States ConstitutionThis page is a list of the amendments to the United States Constitution. Since the Constitution went into effect on March 4, 1789, twenty-seven amendments have been added to the Constitution. This page gives just a short summary of each of these amendments. For more information about each amendment, click on the links in the box at the right of this page. The amendments are numbered in Roman numerals from I (One) to XXVII (Twenty-seven).
+
+Usually, for an amendment to be approved and added to the Constitution, there are two steps:Once this happens, the amendment becomes part of the Constitution.
+
+The first ten amendments to the Constitution were all approved together. As a group, they are called the Bill of Rights.
+
+Between 1789 and December 2014, about 11,623 amendments were proposed in Congress. However, most of these suggested amendments "die" in the committees that suggest them. In total, in the past 227 years, Congress has sent only 33 amendments to the states for ratification just about one out of every 500 suggested amendments. Of these 33, the states have set 27.
+
+Out of the six unratified amendments, two failed when they were not ratified by a set deadline. The other four are still officially "pending"; they do not have enough votes to pass or fail, but they also do not have deadlines written into them.
+
+Congress sent twelve amendments to the states for ratification on September 25, 1789. Ten of these were officially ratified on December 15, 1791: two years, two months, and 20 days after Congress proposed them. Here is a summary of what those amendments say.
+
+KirtankholaKirtankhola () is a river that starts from Sayeshtabad in Barisal district and ends into the Gajalia near Gabkhan khal (canal). The total length of the river is about .
+
+Separate but equalSeparate but equal was a legal doctrine that existed in the United States for 58 years. It was based on the United States Supreme Court decision "Plessy v. Ferguson". Here the Court ruled that racial segregation was not in violation of the Fourteenth Amendment to the United States Constitution, as long as the racially separate facilities were equal. The Court also said segregation was not discrimination. Segregation in public accommodations, transportation and schools was legally justified by "Plessy" until it was overturned in 1954 by "Brown v. Board of Education".
+
+After the American Civil War, the Republican controlled Congress passed three amendments to the Constitution called the Reconstruction Amendments. The first was the Thirteenth Amendment to the United States Constitution which abolished slavery in the United States. The second was the Fourteenth Amendment to the United States Constitution which provided equal protection of the laws to all citizens. The third was the Fifteenth Amendment to the United States Constitution that gave voting rights to African American men.
+
+After the passage of the reconstruction amendments, things began to get worse for black people in the South. Many whites would not accept the new changes. The economy in the south was stagnant and taxes were high. There was a good deal of corruption which was made worse by carpetbaggers from the north and southern supporters of reconstruction called scalawags. Out of fear and hatred, white supremacy groups such as the Ku Klux Klan were born. Through the use of violence including lynching, rape, murder and terrorism, they sought to control African Americans and keep them from using their new rights.
+
+Congress enacted the Civil Rights Act of 1875. It guaranteed African Americans equal treatment in public accommodations, public transportation, and to prevent being excluded from jury duty. The bill was passed by the 43rd United States Congress and signed into law by President Ulysses S. Grant on March 1, 1875. Several years later, the Supreme Court ruled in "Civil Rights Cases" (1883) that sections of the act were unconstitutional. The Court's reasoning was the Fourteenth Amendment prohibited discrimination by states not by individuals. As a result Congress could not protect against individual cases of discrimination.
+
+Florida was the first to pass a law requiring railroads to provide “equal but separate accommodations for the white, and colored, races”. Soon, Texas, Mississippi and other states had the same or similar laws. In 1890, when Louisiana passed a similar law, blacks began resisting. In 1892 it was agreed Homer Plessy would challenge the laws in order to form a test case. Plessy "passed" for white and while riding on an East Louisiana train in the "white section" announced he was black and refused to move to the "colored" section. Plessy was arrested and 1896 his case reached the Supreme Court. The case was "Plessy v. Ferguson", Fergusson being the name of the Judge who first ruled against him in the New Orleans Criminal District Court.
+
+In 1896, the Supreme Court heard the case. Plessy's lawyers argued Louisiana's Separate Car Act violated the Thirteenth and Fourteenth Amendments. The Court, in a 7-1 decision decided against Plessy and that the law was constitutional. Writing the majority opinion, Justice Henry Brown wrote:The lone dissenter, Justice John Harlan, saw terrible consequences in the judicial opinion rendered by the court. He wrote:Beginning in 1890, Southern Democrats began to pass state laws that took away the rights African Americans had gained. These racist laws became known as Jim Crow laws. "Plessy" caused Jim Crow laws to go unchallenged by the federal government for 58 years. They included laws that made it impossible for blacks to vote. Since they could not vote, blacks also could not be on juries. Other laws required racial segregation so blacks could not go to the same schools, restaurants or hospitals as whites. They could not use the same bathrooms or drink from the same drinking fountains. They could also not sit in front of whites on busses or trains. Many southern Christian ministers taught that whites were the chosen people and blacks were cursed by God. Lynchings were designed to instill fear in blacks and keep them in their place. Between 1882 and 1968, 3,440 black men and women were lynched. Others were burned at the stake, castrated, beaten or murdered. The Jim Crow era began to end after the Supreme Court’s unanimous Brown v. Board of Education decision overruled Plessy.
+
+Berber calendarThe Berber calendar is a calendar used most often in the region of North Africa, to control seasonal agricultural works.
+
+Address busAn address bus is a computer bus architecture. It is used to transfer data between devices. The devices are identified by the hardware address of the physical memory (the physical address). The address is stored in the form of binary numbers to enable the data bus to access memory storage.
+
+Address buses are made up of a collection of wires connecting the CPU with main memory that is used to identify particular addresses in main memory. The width of the address bus (that is, the number of wires) determines how many unique memory locations can be addressed. Modern personal computers and Macintoshes have as many as 36 address lines. This theoretically allows them to access 64 gigabytes of main memory. The actual amount of memory that can be accessed is usually much less than this theoretical limit due to chipset and motherboard limitations.
+
+An address bus is part of the system bus architecture. Most modern computers use a variety of individual buses for specific tasks.
+
+An individual computer contains a system bus, which connects the major components of the computer system and has three main elements, of which the address bus is one, along with the data bus and control bus.
+
+An address bus is measured by the amount of memory a system can retrieve. A system with a 32-bit address bus can address 4 gigabytes of memory space. Newer computers using a 64-bit address bus with a supporting operating system can address 16 exbibytes of memory locations, which is virtually unlimited.
+
+AvolarAvolar was a Mexican low-cost airline. Its headquarters and largest hub were in Tijuana. It started on September 7, 2005 with one Boeing 737-500 airplane. It was one of the first low-cost airlines in Mexico. By 2008, the airline had 10 Boeing 737 airplanes. It flew to 21 cities throughout Mexico. Avolar suspended flights for 3 days in August 2008 and for 1 day in October 2008. This was due to large debts. Avolar asked to fly to the United States on October 28, 2008. Avolar finally stopped flying on that same day - October 28, 2008. The airline has never flown again since then.
+
+Drag kingDrag kings are female performance artists who dress in male clothes. They play male gender roles as part of an individual or group routine. Drag kings may be straight, lesbian or transgender. They often perform as macho male characters, like construction workers and rappers.
+
+In the late 1800s/early 1900s, several drag kings became British music hall stars. British pantomime has preserved the tradition of women in male roles. Starting in the mid 1990s, drag kings started to have the fame and attention for which drag queens are known.
+
+The term "drag king" was first used in print in 1972.
+
+Drag kings are mostly a part of lesbian culture. They can be most often seen at lesbian festivals or bars. However, not all drag kings are lesbians.
+
+Controlled Substances ActThe Controlled Substances Act (CSA) is a United States federal law. It controls what drugs American people and companies can have, make, import, and use. It also controls what drugs doctors can prescribe."
+
+Controlled substances" include illegal drugs, chemicals that are used to make illegal drugs, and some medications. If a government has rules or laws about a certain drug, then that drug is called a controlled substance.
+
+The United States Congress passed the law as part of the Comprehensive Drug Abuse Prevention and Control Act of 1970. President Richard Nixon signed the bill into law on October 27, 1970.
+
+The Controlled Substances Act (CSA) sets laws about:The CSA does not include alcohol or tobacco as "controlled substances."
+
+The CSA divides controlled substances up into five groups, called Schedules. Drugs are put into these categories based mostly on:Since the CSA was created in 1970, many new illegal drugs and medications have been developed. Because of this, the Act has been amended many times to add on new types of drugs.
+
+For example, since 1970, the CSA has been amended:There are five different Schedules of controlled substances, numbered IV (one through five in Roman numerals). The CSA describes the different Schedules based on three things:This table gives a summary of the differences between the different Schedules.
+
+The CSA says that no doctor in the United States can write a prescription for a Schedule I drug. Some states have passed laws allowing doctors to prescribe marijuana for diseases like cancer and AIDS. Even though those prescriptions are legal in those states, they are still illegal under the CSA.
+
+Here are some examples of Schedule I drugs:Schedule II drugs are the most-controlled type of drugs that a doctor can write a prescription for. Some drugs that are usually illegal are on Schedule II. They are on Schedule II instead of Schedule I because sometimes, they can be used for medical reasons. For example, Schedule II includes cocaine, because it can stop bleeding and kill pain in the mouth, throat, and nose. Schedule II also includes methamphetamine, because it is sometimes used to treat Attention-Deficit Hyperactivity Disorder (ADHD) and severe obesity.
+
+Other drugs on Schedule II include:The CSA puts limits on prescriptions for Schedule II drugs. For example, prescriptions for these drugs cannot be refilled. The patient cannot get more of the medication at the pharmacy without getting a new prescription. Also, the doctor must write the prescription they cannot call or fax the prescription to the pharmacy. The pharmacy needs an original copy of the prescription.
+
+Schedule III drugs are less controlled than Schedule II drugs. Doctors can send these prescriptions to a pharmacy by fax or phone. These prescriptions can be refilled five times in six months without the patient needing a new prescription.
+
+Drugs in Schedule III include:Schedule IV drugs have the same rules for prescriptions and refills that Schedule III drugs do. Examples of Schedule IV drugs include:Schedule V drugs are the least strictly controlled of all the controlled substances. A doctor can call or fax the prescription to the pharmacy. There is no limit on the number of times a prescription can be refilled.
+
+Examples of Schedule V drugs include:The United States Drug Enforcement Administration (DEA) is in charge of enforcing the CSA. The DEA is part of the United States Department of Justice.
+
+Usually, only two government agencies can add or remove drugs from a Schedule. These agencies are the (DEA) and the United States Food and Drug Administration (FDA). However, sometimes Congress passes special laws to add a drug to the CSA.
+
+Anyone can ask the DEA to add a drug, remove a drug, or change a drug to a different Schedule in the CSA. Even a regular person can petition the DEA for a change. After it gets a petition, the DEA starts an investigation of the drug.
+
+During these investigations, the DEA gathers a lot of information, talks to different government agencies, gets the FDA's opinion, and does research. Because all of this takes time, a federal law allows the Attorney General of the United States to put a drug on Schedule I for a year. The law only allows this when there is "an imminent hazard" (an immediate threat) "to the public safety." For example, in 2011, the Attorney General used this law to put synthetic cannabinoids on Schedule I.
+
+Pop Goes the Weasel"Pop! Goes the Weasel" is an English nursery rhyme and singing game.
+
+There are many different versions of this song.
+
+American versions include the following words:There are many other American and English versions.
+
+Nursery rhymeA nursery rhyme is a traditional poem for young children. The term has been used since the 18th century or early 19th century. In North America, the term "Mother Goose rhymes", first used in the mid-18th century, is often used.
+
+Some examples of English nursery rhymes are "Three Blind Mice", "Jack and Jill" , "Hey Diddle Diddle"and "Baa Baa Black Sheep."
+
+Amicus curiaeAn amicus curiae (literally, friend of the court; plural, amici curiae) is someone who is not a party to a case and offers information that affects the case but who has not been asked by any of the parties to assist a court. This may take the form of legal opinion, testimony or learned treatise (the "amicus" brief). It is a way to introduce concerns that might be overlooked by the parties directly involved in the case. The decision on whether to admit the information lies at the discretion of the court. The phrase "amicus curiae" is legal Latin.
+
+The "amicus curiae" practice was found in Roman law. It played an important part in both English common law and the American legal system. Later, it was introduced in international law, in particular, concerning human rights. Today, it is used by the European Court of Human Rights. It is also used in the Inter-American Commission on Human Rights, the Inter-American Court of Human Rights, the Court of Justice of the European Union and the Special Tribunal for Lebanon.
+
+The situation most often noted in the press is when an advocacy group files a brief in a case before an appellate court to which it is not a litigant. Appellate cases are normally limited to the factual record and arguments coming from the lower court case under appeal. Usually attorneys focus on the facts and arguments most favorable to their clients. Where a case may have broader implications, "amicus curiae" briefs are a way to introduce those concerns, so that the possibly broad legal effects of court decisions will not depend solely on the parties directly involved in the case.
+
+In prominent cases, "amici curiae" are generally organizations with sizable legal budgets. In the United States, for example, non-profit legal advocacy organizations, such as the American Civil Liberties Union, the Landmark Legal Foundation, the Pacific Legal Foundation, and others, frequently submit such briefs to advocate for or against a particular legal change or interpretation. If a decision could affect an entire industry, companies other than the litigants may wish to have their concerns heard. In the United States, federal courts often hear cases involving the constitutionality of state laws. Hence states may file briefs as "amici curiae" when their laws are likely to be affected, as in the Supreme Court case "McDonald v. Chicago," when thirty-two states under the aegis of Texas (and California independently) filed such briefs."
+
+Amici curiae" who do not file briefs often present an academic perspective on the case. Newspaper editorials, blogs, and other opinion pieces arguably have the capability to influence Supreme Court decisions as "de facto amici curiae". They are not, however, technically considered "amicus curiae," as they do not submit materials to the Court, do not need to ask for leave, and have no guarantee that they will be read.

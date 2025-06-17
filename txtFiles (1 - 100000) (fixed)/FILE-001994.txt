@@ -1,0 +1,133 @@
+For applications requiring direct current, the alternating current is typically distributed to a substation and then converted to direct current.
+
+Long after the usage of direct current had been established, physicists realized that the current was made of negative electric charges, the electrons, and that the actual flow was from the negative to the positive pole (and so-called "holes" flow in the opposite direction), but by convention, the usage of the term was never changed.
+
+SnowmobileA snowmobile is a motorized vehicle used for travelling over snow. It is like a car, only instead of wheels, it has treads. Some snowmobiles have skis in the front for steering.
+
+Adding snowmobile studs to the tread decreases the time and distance it takes to stop a snowmobile. Once you make a decision to stop a snowmobile, the distance it will take to stop will be a combination of the speed of the machine, weight of the machine and the available friction and or the mechanical damping (which will equal the effective drag factor) between the snowmobile and the surface on which it is trying to stop. If the surface is icy or hard-packed, the mechanical damping portion of the effective drag factor is decreased, leaving you with only the friction provided by the tread to stop.
+
+Snowmobile studs made from steel or stainless steel with carbide tips are installed in the tread. The studs are designed for specific terrains in varying lengths, shapes and materials. The studs control acceleration, deceleration and maneuverability. The correct amount and type of stud installed in an effective pattern will produce the best traction results.
+
+The Remo FourThe Remo Four were a rock band from Liverpool, England, from the late 1950s and early 1960s, at the same time the Beatles were starting their musical careers.
+
+While the Beatles gained experience performing in Hamburg, Germany, the Remo Four played at American Air Force bases in France. Members of the two bands were friends, and often played at the same places back in Liverpool, or would go to watch each other perform.
+
+After the Beatles became famous under Brian Epstein's management, Epstein signed up the Remo Four also. He worked hard to promote the band, but they never achieved massive success as the Beatles had. Epstein paired the Remo Four with a singer he also managed, called Tommy Quickly. They made a series of singles together, but none became hits. Quickly retired from music, and the Remo Four went on to work with other singers, including Billy J. Kramer. They also released an album, titled "Smile", on a German record label.
+
+George Harrison was invited to record a movie soundtrack in late 1967. Instead of working with the Beatles, he invited the Remo Four to work with him. The movie, "Wonderwall", got little exposure, but the soundtrack album, "Wonderwall Music", became a minor hit the next year.
+
+Magnitude (mathematics)The magnitude of a mathematical object is its size: a property by which it can be larger or smaller than other objects of the same kind.
+
+In mathematical language one would say: It is an ordering of the class of objects to which it belongs.
+
+The Ancient Greeks distinguished between several types of magnitude, including:They had proven that the first two could not be the same, or even isomorphic systems of magnitude. They did not consider negative magnitudes to be meaningful, and "magnitude" is still primarily used in contexts in which zero is either the lowest size, or less than all possible sizes.
+
+The magnitude of a real number formula_1 is usually called the absolute value or modulus. It is written as formula_2, and is defined by:This gives the number's distance from zero on the real number line. For example, the modulus of formula_5 is formula_6.
+
+The magnitude of a vector formula_7 is called its norm, and is usually written as formula_8. It measures the length of the vector. For a three-dimensional vector formula_9, the norm can be calculated using the formula formula_10.
+
+A magnitude is never negative. When comparing magnitudes, it is often helpful to use a logarithmic scale. Real-world examples include the loudness of a sound (decibel), the brightness of a star, or the Richter scale of earthquake intensity.
+
+Because magnitudes are often not linear, they usually cannot be added or subtracted in a meaningful way.
+
+Fraction (mathematics)A fraction is a number that shows how many equal parts there are. When we write fractions, we show one number with a line above (or a slash next to) another number. For example, formula_1, and 1/4.
+
+are different ways of writing the same fraction (in this case a quarter). The top number tells us how many parts there are, and the bottom number tells us the total number of parts.
+
+The top part of a fraction (example: 1/4) is a numerator. Numerators can be any real numbers. The numerator can be on the top or to the left when writing fractions. The bottom part of a fraction (example: 1/4) is called a denominator. This number cannot be zero. It is on the bottom or on the right when writing fractions.
+
+A proper fraction is a fraction with the numerator smaller than the denominator. An improper fraction is a fraction where the numerator is bigger than the denominator. For example, formula_1 is a proper fraction, and formula_3 is an improper fraction.
+
+A fraction is a mathematical expression relating two quantities or numbers, where one divides the other. When the two quantities are whole numbers (or integers), this is called a rational number (such as the fraction formula_7). When the two quantities are polynomials, this is called a rational function.
+
+Mathematically, a fraction is a quotient of numbers, representing the number's value when the numerator (upper number) is divided by the denominator (lower number). Thus formula_7 means one divided by two, or, in decimals, 0.
+
+5.
+
+To find formula_7 of formula_7, the denominators are multiplied, and because denominator 2 multiplied by 2 equals 4, we have that formula_7 x formula_7 = formula_1, or 0.
+
+5 x 0.
+
+5 = 0.
+
+25.
+
+To find formula_7 "divided by" formula_7, multiply formula_7 by the reciprocal of formula_7, which is 2. That answer is 1.
+
+To multiply two fractions, the first numerator is multiplied by the other numerator, and the first denominator is multiplied by the other denominator. For example. ' x ' = '. One can simplify this by dividing both numbers by a common factor. This would be ' after the simplification.
+
+BucketheadBrian Patrick Carroll, better known as Buckethead, is an American musician and songwriter. Buckethead has released 435 studio albums, 388 of them are in the Pike series. He has performed on over 50 more albums by other music artists. His music spans many different styles and genres.
+
+When performing onstage Buckethead wears a white KFC bucket over his head and an expressionless plain white costume mask.
+
+Although he can play many different types of musical instruments, Buckethead is best known for his guitar playing. He has been voted as a top guitarist in many magazines dedicated to the topic of guitar playing.
+
+Buckethead records and performs onstage as a solo artist most of the time. He has also worked with many musicians including: Bill Laswell, Bootsy Collins, Bhargav Polara Bernie Worrell, Iggy Pop, Les Claypool, Serj Tankian, Mike Patton and Viggo Mortensen. Buckethead was a member of Guns N' Roses from 2000 to 2004.
+
+Buckethead has created music for movies such as: "Saw II", "Ghosts of Mars", "Beverly Hills Ninja" and "Last Action Hero".
+
+QuotientIn mathematics, the quotient is the result of a division. For example, in the division of 6÷3, the quotient would be 2. Here, 6 is also called the dividend, and 3 the divisor. The quotient can thus be expressed as the number of times the divisor adds together into the dividend.
+
+On the other hand, a quotient can also mean just the integral part of the result of dividing two integers. For example, the quotient of 17 ÷ 5 would be 3 (since 5 goes into 17 at most 3 times), whilst the remainder, the leftover of the division, would be 2.
+
+Quotients also come up in certain tests, like the IQ test, which evaluates one's intelligence quotient. In this case, the quotient is the score of the test. In recent decades, as people begin to emphasize multi-dimensional personal development, other similar quotients (such as emotional quotient) are being developed and considered as well.
+
+Norman languageNorman is a language spoken mainly in Normandy. It is a Romance language (a language which comes from Latin). It is closely related to French and is often called "Norman French". After the Norman Conquest, Norman changed the English language considerably.
+
+Forms of the Norman are still used in the Channel Islands,No one now uses Sercquiais or Auregnais as their first language, but Jèrriais and Guernésiais are still used.
+
+Division (mathematics)In mathematics, division is the operation which is the opposite of multiplication. The symbols for division are the slash (formula_1) and the fraction line, as in:where both expressions mean "6 divided by 3", with 2 as the answer. The first number (6) is the dividend, and the second number (3) is the divisor. The result (or answer) of a division is the quotient, where any left-over amount as whole numbers is called the remainder. For example, formula_4 gives quotient 3 with remainder 2, all expressed as the mixed number formula_5 or formula_6).
+
+If formula_7 times formula_8 equals formula_9, written as:where formula_8 is not formula_12, then formula_7 equals formula_9 divided by formula_8, written as:For example,becauseIn the above expressions, the dividend is formula_19, the divisor is formula_20 and the quotient is formula_21 (with no remainder).
+
+Division by zero, as inis not defined.
+
+Division is most often shown by placing the "dividend" over the "divisor" with a horizontal line (called a vinculum) between them. For example, formula_7 divided by formula_8 is written asThis can be read as "x divided by y", or "x over y". A way to express division on one line is to write the "dividend", then a slash, then the "divisor", like this:This is the usual way to write division in most computer programming languages, since it can easily be typed as a simple sequence of characters.
+
+A typographical variation which is halfway between these two forms uses a slash, but elevates the dividend and lowers the divisor:Any of these forms can be used to show a fraction. A fraction is a division expression where the dividend and divisor are both integers (in that case, the two numbers are called "numerator" and "denominator").
+
+Division should not be confused with ratios, which are written as formula_27, and read "formula_28 (is) to formula_29".
+
+DivisionDivision could mean:Processes:Units/ Entities:Music:Miscellaneous:DivisorIn mathematics, a divisor of an integer "n", also known as a 6th grade math factor of "n", is an integer which divides "n" without leaving a remainder. The statement ""m" is a divisor of "n"" can be written as formula_1. Any number is always divisible by 1 and itself, which are two of the divisors. A prime number is a number with no other divisors. The positive divisors of a number "n", other than "n" itself, are the proper divisors of "n".
+
+Finding one or more factors of a given number is called factorization.
+
+For example, 7 is a divisor of 42 because 42÷7 = 6. We also say that "42 is divisible by 7", "42 is a multiple of 7", "7 divides 42", or "7 is a factor of 42", and we usually write 7 | 42. For example, the positive divisors of 42 are 1, 2, 3, 6, 7, 14, 21, 42.
+
+In general, we say that "m" divides "n" for non-zero integers "m" and "n", if and only if there exists an integer "k" such that "n" = "km". Thus, divisors can be negative as well as positive, although we often restrict our attention to positive divisors. (For example, there are six divisors of four, 1, 2, 4, -1, -2, -4, but one would usually mention only the positive ones, 1, 2, and 4.)
+
+1 and -1 divide (are divisors of) every integer, every integer is a divisor of itself, and every integer is a divisor of 0, except by convention 0 itself (see also Division by zero). Numbers divisible by 2 are called even, and numbers not divisible by 2 are called odd.
+
+A divisor of "n" that is not 1, -1, "n" or -"n" is known as a non-trivial divisor; numbers with non-trivial divisors are known as composite numbers, while prime numbers have no non-trivial divisors.
+
+The name comes from the arithmetic operation of division: if "a÷b" = "c", then "a" is the dividend, "b" the divisor, and "c" the quotient.
+
+There are properties which allow one to recognize certain divisors of a number from the number's digits. Those properties can be used as "math tricks" to quickly spot some divisors of a number.
+
+For example, if the last digit is even (0, 2, 4, 6 or 8), then 2 is a divisor. If the last digit is 0 or 5, then 5 is a divisor. If the digits add up to a multiple of 3, then 3 is a divisor. For the number 340, ending in "0" then both 2 and 5 are divisors, plus 2×5 = 10 is also a divisor. Dividing by 10, 340/10 = 34, as finally 2×17. Combining all the smaller numbers, the 12 divisors of 340 are:Note that any number is always evenly divisible by 1 and itself.
+
+RemainderIn arithmetic, the result of the division of two integers usually cannot be expressed with an integer quotient, unless a remainder—an amount "left over" after the division—is also accepted.
+
+Given a natural number formula_1 and a non-zero natural number formula_2, it can be shown that there exist unique integers formula_3 and formula_4, such that formula_5 and formula_6. The number formula_3 is called the "quotient", while formula_4 is called the "remainder".
+
+If formula_1 and formula_2 are integers with formula_2 being non-zero, then a remainder is an integer formula_4 such that formula_5 for some integer formula_3, and with formula_15.
+
+When defined this way, there are two possible remainders. For example, the division of -42 by -5 can be expressed as eitherorSo the remainder is then either 3 or -2.
+
+This ambiguity in the value of the remainder is not very serious; in the case above, the negative remainder is obtained from the positive one just by subtracting 5, which is formula_2. This holds in general. When dividing by formula_2, if the positive remainder is formula_20, and the negative one is formula_21, thenWhen formula_1 and formula_2 are real numbers, with formula_2 being non-zero, then formula_1 can be divided by formula_2 without remainder, with the quotient being another real number. If the quotient is constrained to being an integer, however, the concept of remainder is still necessary. It can be proven that there exists a unique integer quotient formula_3 and a unique real remainder formula_4 such that formula_5 with formula_31. Similar to the case of division of integers, the remainder could be required to be negative, that is, formula_32.
+
+Extending the definition of remainder for real numbers, as described above, is not of theoretical importance in mathematics; however, many programming languages implement this definition—see modulation for more.
+
+Remainder (disambiguation)Remainder is the amount "left over" when dividing two integers.
+
+Remainder could also mean:List of 20th Century Studios moviesThis is a list of movies produced and/or distributed by the U.
+
+S. movie studio 20th Century Studios (formerly 20th Century Fox). The company was founded on May 31, 1935 as a merger between Fox Film Corporation and 20th Century Pictures. For the movies of those two companies, see List of pre-1940 Fox films and List of 20th Century Pictures films. Those marked with an <nowiki>*</nowiki> are available in the public domain.
+
+Andreas StarkeAndreas Starke (SPD) (born 17 September 1956 in Hamburg) became the Lord Mayor of Bamberg in Bavaria, Germany in 2006. He won the election against Peter Neller (CSU), Ursula Sowa (Bündnis 90/Die Grünen) and Norbert Tscherner (BBB).
+
+Robert EnkeRobert Enke (born 24 August 1977 in Jena, East Germany - died 10 November 2009, Neustadt am Rübenberge, Germany) was a German football player. He was a goalkeeper for the German football team.
+
+Enke started to play football at "BSG Jenapharm Jena", a local club in his city. In 1985 he came to the youth teams of Jena's major football club, Carl Zeiss Jena. On 11 November 1995, at the age of 18, he played his first professional match for Jena in the German 2. Bundesliga. In 1996, he came to Borussia Mönchengladbach in the German Bundesliga.
+
+From 1997 to 1999 he played in fifteen matches for the German under-21 national team. In 1999 he was nominated as one of three goalkeepers of the national team and he went to the FIFA Confederations Cup in the same year. After leaving Germany in 1999 and playing in Portugal, Spain and Turkey, he was not nominated.

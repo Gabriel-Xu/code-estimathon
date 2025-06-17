@@ -1,0 +1,77 @@
+"Shut Up and Let Me Go" (aka: "Shut Up & Let Me Go") is the third single off the studio album "We Started Nothing" by The Ting Tings. The song was released in the United Kingdom on July 21st of 2008, and was the follow-up to the number one hit single "That's Not My Name". The song was added to the coveted A-list of BBC Radio 1's playlist, and has received a substantial amount of airplay during the day on the station. The single peaked at number six in both the UK Singles Chart and the UK Download Chart.
+
+1987 Sino-Indian skirmishThe 1987 Sino-Indian skirmish occurred at Sumdorong Chu Valley. This was the second conflict between the PRC and India, with the previous one taking place exactly a quarter of a century earlier.
+
+Longbridge PlantLongbridge Plant is an automobile plant in Longbridge, Birmingham, West Midlands, England. Most of it was demolished in 2005 and 2007.
+
+Curzon Street railway stationCurzon Street railway station is a former railroad station in Birmingham, United Kingdom. It opened in 1838 and became a goods yard in 1854.
+
+HolographyHolography is a way of making three-dimensional picture with a laser. It allows the holographer to make a more exact image than with photography. The holograph seems to move and change slightly to look as if it were three-dimensional. Holography uses the wave aspect of light.
+
+Holograms are made with light flashed onto a plate or screen, almost like how photos are made. To make a hologram instead of a photograph, some of the light, called a "reference beam," has to go directly to the screen. The light has to be a laser because lasers are more accurate and have a wavelength that does not change the way the wavelengths of light from other sources does, like light from lightbulbs. To stop other light from ruining the hologram, holograms are usually taken in the dark. Because even the tiniest vibration can stop the hologram from forming properly, the tables upon which that the holographer places the equipment may be built with shocks or inflated chambers to stop vibrations from the floor.
+
+Holograms can be compared to photos. Holography records the intensity of light, like photography, but also records the difference in the phase of light. Holography records all of information from the light that the object reflects.
+
+Holography uses a reference wave (which goes onto the plate) and an exposure wave (object wave, which comes from the object). The reference wave can save the phase information as patterns of light and dark on a film. The object wave and reference wave must have the same wavelength in order to save the phase information and they usually come from the same laser.
+
+The most famous person in the history of holography is the physician Dennis Gabor, the inventor of the hologram. In 1947, he was trying to improve microscopes, and he figured out how to display three-dimensional objects.
+
+Holograms need laser beams. A dispersing lens makes the beam bigger and then it goes through a special mirror. Only a piece of this laser beam can go through the mirror. Then this beam becomes the reference wave, and it is recorded on the film. The other piece of the laser beam is reflected off of the mirror. This piece becomes the exposure wave at the object. The object reflects this wave on the film.
+
+Making a hologram is very similar to making a photograph, and it needs chemicals. To look at a hologram the film must be lit up with the reference wave. These waves are reflected on the film (hologram) and create a virtual picture of the recorded object, even if that picture can only be seen from a specific angle.
+
+Industries use holograms to measure things. In the car industry, cars are measured using holography so engineers can see bulges and vibration characteristics. Phase-shift holography is one kind of holography used to make cars.
+
+The first step in making a hologram is to examine the ground level state of the object, then overload the object through heat or mechanical pressure. Covering the original hologram and the modified hologram can produce interference fringes. By measuring the interference fringes, engineers learn how big the deformation or other problem is. Engineers can measure tiny terminal expansions or vibrations in mechanical systems. This needs two reference waves.
+
+There are holographic storage machines for analog pictures and digital data. Digital information will be affiliated by a two-dimensional bit-pattern.
+
+Dirty paper codingIn telecommunications, dirty paper coding (DPC) is a good way to send digital data through a channel that is subject to some interference that is known to the sender. The sender does precoding of the data so as to cancel the effect of the interference.
+
+Costa asked the following question:When Costa asked his question, the Shannon–Hartley theorem (and the more general noisy-channel coding theorem) was well known.
+
+The Shannon–Hartley theorem tells us that, all else being equal, a paper sent along a path that picks up less dirt can reliably deliver more information than another paper sent along a path that picks up more dirt.
+
+People have also thought up many ways of dealing with such dirt added after the message is written—see error detection and correction for details.
+
+Most people expected that the same thing would happen when dirt is added to the paper before the message was written—the more dirt, the less information can be reliably sent.
+
+In 1983, Costa showed the surprising result that we can send just as much information on such a dirty piece of paper as we can when writing on a clean sheet of paper, and gave a way to get that capacity.
+
+A dirty paper code is a way for the writer to adapt his message to the dirt already on the paper.
+
+The writer and the reader agree ahead of time on which dirty paper code they will use for the messages.
+
+People have thought up several dirty paper codes, including Costa precoding (1983), Tomlinson-Harashima precoding (1971) and the vector perturbation technique of Hochwald et al. (2005).
+
+A similar problem called "writing on dirty tape (WDT)" is more complicated.
+
+As of 2005, the capacity computation problem and the capacity-achievingproblem for writing on dirty tape are unsolved"Writing on wet paper" is a related problem in steganographyMany wireless networks use dirty paper coding, especially MIMO systems.
+
+In a wireless network, often a transmitter has many different messages, and each one needs to be sent to a different person.
+
+The sum-rate capacity of a system that transmits all the messages at the same time—and uses dirty-paper codes to reduce the interference between messages—can be many times the sum-rate capacity of a similar system that only sends one message at a time (TDMA).
+
+Any one receiver is only concerned with the messages for that receiver—all the other messages the transmitter is simultaneously sending to everyone else are—to that receiver—irrelevant noise that only interferes with the desired message.
+
+The "dirty paper" story can be seen as a parable for wireless communication.
+
+Recently, there has been interest in DPC as a possible solution to optimize the efficiency of wireless networks, in particular multiuser MIMO networks and into an interference aware coding technique for dynamic wireless networks.
+
+People doing "informed digital watermarking" use dirty paper codes, using this analogy:Klamath RiverThe Klamath River flows through Oregon and northern California in the United States. It is long. The river empties into the Pacific Ocean.
+
+The Klamath is the second largest river in California after the Sacramento River.
+
+BandaiBandai Co., Ltd. is a Japanese company that makes toys and video games. It is the third largest toy maker in the world.
+
+Battle, East SussexBattle is a town in East Sussex, England, UK. It is known as this because it was the place where the Battle of Hastings was fought.
+
+John KeyJohn Phillip Key (born 9 August 1961) was the 38th Prime Minister of New Zealand and was the leader of the New Zealand National Party. He entered the New Zealand Parliament in 2002 representing the north-west Auckland area of Helensville as a National MP, a seat that he still holds. In 2006 he succeeded Don Brash as the National Party leader in 2006. Key led his party to victory in the November 2008 general election.
+
+On 5 December 2016, Key resigned as prime minister and as party leader. Bill English soon replaced Key as prime minister and party leader.
+
+Key was born in Auckland, New Zealand, to George Key and Ruth Key. His father, who was from the UK, died of a heart attack in 1967. Key and his two sisters were raised in a state house in Christchurch by his Jewish mother.
+
+He attended Burnside High School, and earned a Bachelor of Commerce degree in accounting from the University of Canterbury in 1981. He has attended management studies courses at Harvard University, although he did not receive a degree from this institution.
+
+Key met his wife Bronagh when they were both students at Burnside High School. They married in 1984. They have two children, Stephie and Max.

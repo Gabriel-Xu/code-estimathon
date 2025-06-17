@@ -1,0 +1,95 @@
+On June 10, 1968, James Earl Ray was arrested in London at Heathrow Airport. Ray was extradited to the United States and charged with killing King. On March 10, 1969, Ray told the court he was guilty, and was sentenced to 99 years in the Tennessee state penitentiary. Ray later tried many times to take away his guilty plea and be tried by a jury, but he was unsuccessful.
+
+The United States House of Representatives Select Committee on Assassinations was created in 1976 to look into the assassinations of John F. Kennedy and Martin Luther King, Jr., and the shooting of Governor George Wallace. The Committee investigated until 1978, and put out a final report in 1979. About the King assassination, the Committee decided:In 1999, Coretta Scott King, King's widow, and the rest of King's family won their wrongful death lawsuit against Loyd Jowers and "other unknown co-conspirators" (other people who were part of the conspiracy). Jowers claimed to have received $100,000 to arrange King's assassination. The jury of six whites and six blacks found Jowers liable for King's murder. They also found that governmental agencies were part of the assassination plot.
+
+James Earl Ray died in prison on April 23, 1998, at the age of 70.
+
+In 2000, the Department of Justice completed the investigation about Jowers' claims. They did not find evidence to support the accusations about conspiracy. The investigation report recommends no more investigation unless some reliable new facts are presented.
+
+The Lorraine Motel is now a civil rights museum.
+
+Christmas 2011 Nigeria attacksOn 25 December, 2011, there were a number of attacks on Christmas Day during church services in northern Nigeria. There were bombings and shootings at churches in Madalla (near the capital, Abuja), Jos, Gadaka and Damaturu. At least 39 people were killed. The attacks were claimed by the Islamist group Boko Haram.
+
+Albert Leo SchlageterAlbert Leo Schlageter (12 August 1894 — 26 May 1923) was a member of the German Freikorps. His activities sabotaging French occupying troops after World War I led to his arrest and eventual execution by French forces. His death created an image of martyrdom around him, which was cultivated by German nationalist groups, in particular the Nazi Party. During the Third Reich, he was widely commemorated as a national hero.
+
+Magnetic reluctanceMagnetic reluctance, or magnetic resistance, is a measurement used in the analysis of magnetic circuits. It is like resistance in an electrical circuit, but rather than dissipating magnetic energy it stores magnetic energy. As an electric field causes an electric current to follow the path of least resistance, a magnetic field causes magnetic flux to follow the path of least magnetic reluctance. It is a scalar,extensive quantity, like electrical resistance.
+
+Reluctance is usually represented by ℜ.
+
+The term was coined in May 1888 by Oliver Heaviside. The notion of “magnetic resistance” was first mentioned by James Joule and the term "magnetomotive force” (MMF) was first named by Bosanquet. The idea for a magnetic flux law, similar to Ohm's law for closed electric circuits, is attributed to H. Rowland.
+
+The total reluctance is equal to the ratio of the "magnetomotive force” (MMF) in a passive magnetic circuit to the magnetic flux in this circuit. In an AC field, the reluctance is the ratio of the amplitude values for a sinusoidal MMF and magnetic flux. (see phasors)The definition can be expressed as:whereIt is sometimes known as Hopkinson's law and is analogous to Ohm's Law with resistance replaced by reluctance, voltage by MMF and current by magnetic flux.
+
+Magnetic flux always forms a closed loop, as described by Maxwell's equations, but the path of the loop depends on the reluctance of the surrounding materials. It is concentrated around the path of least reluctance. Air and vacuum have high reluctance. Easily magnetized materials such as soft iron have low reluctance. The concentration of flux in low-reluctance materials forms strong temporary poles and causes mechanical forces that tend to move the materials towards regions of higher flux so it is always an attractive force (pull).
+
+The reluctance of a uniform magnetic circuit can be calculated as:orwhereThe inverse of reluctance is called "permeance".
+
+Its SI derived unit is the henry (the same as the unit of inductance, although the two concepts are distinct).
+
+Reluctance can also be applied to:TriglavTriglav is a mountain in the Alps. It is the highest mountain in Slovenia. It is also the highest peak of the Julian Alps, in the southeastern part of the Alps.
+
+Its name means "three-headed" in Slovene. While this can describe the mountain, it is more likely the mountain was named for the Old Slovene god, Triglav. The mountain is shown on the Flag of Slovenia.
+
+This mountain is in a national park.
+
+Ampère's circuital lawAmpère's circuital law, discovered by André-Marie Ampère in 1826, relates the magnetic field around a closed loop to the electric current passing through the loop. It is now one of Maxwell's equations, which form the basis of classical electromagnetism.
+
+The law relates magnetic fields to electric currents that produce them. A scientist can use Ampere's law to determine the magnetic field associated with a given current or current associated with a given magnetic field, if there is no time changing electric field present.
+
+In its original form, Ampère's Circuital Law relates the magnetic field to its electric current source.
+
+The law can be written in two forms, the "integral form" and the "differential form". The forms are equivalent, and related by the Kelvin–Stokes theorem. It can also be written in terms of either the B or H magnetic fields. Again, the two forms are equivalent (see the "proof" section below).
+
+Ampère's circuital law is now known to be a correct law of physics in a magnetostatic situation: The system is static except possibly for continuous steady currents within closed loops. In all other cases the law is incorrect unless Maxwell's correction is included (see below).
+
+In SI units (the version in cgs units is in a later section), the "integral form" of the original Ampère's circuital law is:or equivalently,whereSee below for further explanation of the curve "C" and surface "S". There are a number of ambiguities in the above definitions that require clarification and a choice of convention.
+
+First, three of these terms are associated with sign ambiguities: the line integral formula_5 could go around the loop in either direction (clockwise or counterclockwise); the vector area dS could point in either of the two directions normal to the surface; and "I" is the net current passing through the surface "S", meaning the current passing through in one direction, minus the current in the other direction—but either direction could be chosen as positive. These ambiguities are resolved by the right-hand rule: With the palm of the right-hand toward the area of integration, and the index-finger pointing along the direction of line-integration, the outstretched thumb points in the direction that must be chosen for the vector area dS. Also the current passing in the same direction as dS must be counted as positive. The right hand grip rule can also be used to determine the signs.
+
+Second, there are infinitely many possible surfaces "S" that have the curve "C" as their border. (Imagine a soap film on a wire loop, which can be deformed by moving the wire). Which of those surfaces is to be chosen? If the loop does not lie in a single plane, for example, there is no one obvious choice. The answer is that it does not matter; it can be proven that any surface with boundary "C" can be chosen.
+
+By the Kelvin–Stokes theorem, this equation can also be written in a "differential form". Again, this equation only applies in the case where the electric field is constant in time; see below for the more general form. In SI units, the equation states:whereThe electric current that arises in the simplest textbook situations would be classified as "free current." For example, the law can apply to the current that passes through a wire or battery. In contrast, "bound current" arises in the context of bulk materials that can be magnetized and/or polarized. (All materials can to some extent.)
+
+When a material is magnetized (for example, by placing it in an external magnetic field), the electrons remain bound to their respective atoms, but behave as if they were orbiting the nucleus in a particular direction, creating a microscopic current. When the currents from all these atoms are put together, they create the same effect as a macroscopic current, circulating perpetually around the magnetized object. This magnetization current J is one contribution to "bound current".
+
+The other source of bound current is bound charge. When an electric field is applied, the positive and negative bound charges can separate over atomic distances in polarizable materials, and when the bound charges move, the polarization changes, creating another contribution to the "bound current", the polarization current J.
+
+The total current density J due to free and bound charges is then:with J the "free" or "conduction" current density.
+
+All current is fundamentally the same, microscopically. There are often practical reasons for wanting to treat bound current differently from free current. For example, the bound current usually originates over atomic dimensions, and one may wish to take advantage of a simpler theory intended for larger dimensions. The result is that the more microscopic Ampère's law, expressed in terms of B and the microscopic current (which includes free, magnetization and polarization currents), is sometimes put into the equivalent form below in terms of H and the free current only. For a detailed definition of free current and bound current, and the proof that the two formulations are equivalent, see the "proof" section below.
+
+Two issues regarding Ampère's law are important. First, there is an issue regarding the continuity equation for electrical charge. There is a theorem in vector calculus that states the divergence of a curl must always be zero. Henceand so the original Ampère's law implies thatBut in generalwhich is non-zero for a time-varying charge density. An example occurs in a capacitor circuit where time-varying charge densities exist on the plates.
+
+Second, there is an issue regarding the propagation of electromagnetic waves. For example, in free space, whereAmpère's law implies thatbut insteadTo treat these situations, the contribution of displacement current must be added to the current term in Ampère's law.
+
+James Clerk Maxwell conceived of displacement current as a polarization current in the dielectric vortex sea, which he used to model the magnetic field with water (hydrodynamically) and with mechanical systems (mechanically). He added this displacement current to Ampère's circuital law at equation (112) in his 1861 paper "" .
+
+In free space, the displacement current is related to the time rate of change of electric field.
+
+In a dielectric the above contribution to displacement current is also present, but a major contribution to the displacement current is related to the polarization of the individual molecules of the dielectric material. Even though charges cannot flow freely in a dielectric, the charges in molecules can move a little under the influence of an electric field. The positive and negative charges in molecules separate under the applied field, causing an increase in the state of polarization, expressed as the polarization density P. A changing state of polarization is equivalent to a current.
+
+Both contributions to the displacement current are combined by defining the displacement current as:where the electric displacement field is defined as:where ε is the electric constant, "ε" the relative static permittivity, and P is the polarization density. Substituting this form for D in the expression for displacement current, it has two components:The first term on the right hand side is present everywhere, even in a vacuum. It doesn't involve any actual movement of charge, but it nevertheless has an associated magnetic field, as if it were an actual current. Some authors apply the name "displacement current" to only this contribution.
+
+The second term on the right hand side is the displacement current as originally conceived by Maxwell, associated with the polarization of the individual molecules of the dielectric material.
+
+Maxwell's original explanation for displacement current focused upon the situation that occurs in dielectric media. In the modern post-aether era, the concept has been extended to apply to situations with no material media present, for example, to the vacuum between the plates of a charging vacuum capacitor. The displacement current is justified today because it serves several requirements of an electromagnetic theory: correct prediction of magnetic fields in regions where no free current flows; prediction of wave propagation of electromagnetic fields; and conservation of electric charge in cases where charge density is time-varying. For greater discussion see Displacement current.
+
+Ampère's equation was extended by including the polarization current, thereby remedying the limited applicability of the original Ampère's circuital law.
+
+Treating free charges separately from bound charges, Ampère's equation including Maxwell's correction in terms of the H-field is (the H-field is used because it includes the magnetization currents, so J does not appear explicitly, see H-field and also Note):(integral form), where H is the magnetic H field (also called "auxiliary magnetic field", "magnetic field intensity", or just "magnetic field", D is the electric displacement field, and J is the enclosed conduction current or free current density. In differential form,On the other hand, treating all charges on the same footing (disregarding whether they are bound or free charges), the generalized Ampère's equation (also called the Maxwell–Ampère equation) is (see the "proof" section below):in integral form. In differential form,In both forms J includes magnetization current density as well as conduction and polarization current densities. That is, the current density on the right side of the Ampère–Maxwell equation is:where current density J is the "displacement current", and J is the current density contribution actually due to movement of charges, both free and bound. Because , the charge continuity issue with Ampère's original formulation is no longer a problem. Because of the term in "ε∂E / ∂t", wave propagation in free space now is possible.
+
+With the addition of the displacement current, Maxwell was able to hypothesize (correctly) that light was a form of electromagnetic wave. See electromagnetic wave equation for a discussion of this important discovery.
+
+In cgs units, the integral form of the equation, including Maxwell's correction, readswhere "c" is the speed of light.
+
+The differential form of the equation (again, including Maxwell's correction) isUnited States Air Force AcademyThe United States Air Force Academy ("USAFA" or "Air Force") is an American military college. It was created in 1954. The Acadey is an accredited college for the undergraduate education of people who want to be officers for the United States Air Force. The college is north of Colorado Springs in El Paso County. The Academy's goal is "to educate, train, and inspire men and women to become officers of character, motivated to lead the United States Air Force in service to our nation." It is the youngest of the five United States service academies. The Academy had its first graduation in 1959. Graduates of the Academy's four-year program get a Bachelor of Science degree. Most become second lieutenants in the United States Air Force.
+
+The Academy is one of the largest tourist attractions in Colorado. More than a million people visit it each year. Students are called "cadets".
+
+The Air Force Academy is one of the most selective colleges in the United States. "U.
+
+S. News and World Report" recently ranked it tied for 5th place in the category Undergraduate Engineering Programs. "Forbes" magazine, in 2009, ranked the Academy the #2 public college in the United States and the #7 college overall in its "America's Best Colleges 2009" publication. People wanting to study at the Academy are judged on their academic achievement, leadership, athletics and character. They must pass a fitness test, pass a medical examination, and be nominated by the member of Congress where they live. Recent classes have had about 1,400 cadets. Normally, under 1,000 of the cadets will graduate. The cost of going to the Academy, Housing and food are paid for by the U.
+
+S. government. Cadets are paid monthly while at the Academy but they must be a part of the military for a number of years after they graduate.
+
+The program at the Academy is based on the Air Force's core values. These are ""Integrity First, Service Before Self, and Excellence in All We Do"". They are also based on four "pillars of excellence": military training, academics, athletics and character development. Cadets study military training and large curriculum in engineering, humanities, social sciences, basic sciences, military studies and physical education. All cadets take part in athletics. The academy has a character development and leadership curriculum.

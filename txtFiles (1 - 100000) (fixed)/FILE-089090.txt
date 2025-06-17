@@ -1,0 +1,85 @@
+In study 1, human participants rated officer utterances on several overlapping dimensions of respect. With a high degree of agreement, participants inferred these dimensions from officer language. Even though they were not told the race of the stopped driver, participants judged officer language directed toward black motorists to be less respectful than language directed toward whites. In study 2, we build statistical models capable of predicting aspects of respect based on linguistic features derived from theories of politeness, power, and social distance. We discuss the linguistic features that contribute to each model, finding that particular forms of politeness are implicated in perceptions of respect. In study 3, we apply these models to all vehicle stop interactions between officers of the Oakland Police Department and black/white community members during the month of April 2014. We find strong evidence that utterances spoken to white community members are consistently more respectful, even after controlling for contextual factors such as the severity of the offense or the outcome of the stop.
+
+DataOur dataset consists of transcribed body camera footage from vehicle stops of white and black community members conducted by the Oakland Police Department during the month of April 2014. We examined 981 stops of black (N = 682) and white (N = 299) drivers from this period, 68.
+
+1% of the 1,440 stops of white and black drivers in this period. These 981 stops were conducted by 245 different officers (see SI Appendix, Data Sampling Process for inclusion criteria). Per Oakland Police Department policy, officers turn on their cameras before making contact with the driver and record for the duration of the stop. From the 183 h of footage in these interactions, we obtain 36,738 usable officer utterances for our analysis.
+
+Study 1: Perceptions of Officer Treatment from Language. We first test whether human raters can reliably judge respect from officers’ language, and whether these judgments reveal differences in officer respect toward black versus white community members. Respect is a complex and gradient perception, incorporating elements of a number of correlated constructs like friendliness and formality. Therefore, in this study, we ask participants to rate transcribed utterances spoken by officers along five conceptually overlapping folk notions related to respect and officer treatment. We randomly sampled 414 unique officer utterances (1.
+
+1% of all usable utterances in the dataset) directed toward black (N = 312) or white (N = 102) community members. On each trial, participants viewed the text of an officer utterance, along with the driver’s utterance that immediately preceded it. All proper names and places were anonymized, and participants were not told the race or gender of the driver. Participants indicated on four-point Likert scales how respectful, polite, friendly, formal, and impartial the officer was in each exchange. Each utterance was rated by at least 10 participants. Could participants reliably glean these qualities from such brief exchanges? Previous work has demonstrated that different perceivers can arrive at similar judgments from “thin slices” of behavior (22). In a similar vein, participants showed consistency in their perceptions of officer language, with reliability for each item ranging from moderate (Cronbach’s α = 0.
+
+73) to high ( α = 0.
+
+91) agreement (see SI Appendix, Annotator Agreement). These results demonstrate that transcribed language provides a sufficient and consensual signal of officer communication, enough to gain a picture of the dynamics of an interaction at a given point in time. To test whether participant ratings uncovered racial group differences, we averaged scores across raters to calculate a single rating on each dimension for each utterance, then built a linear mixed-effects regression model to estimate the fixed effect of community member race across interactions, controlling for variance of a random effect at the interaction level. Officer utterances directed toward black drivers were perceived as less respectful [b = −0.
+
+23, 95% confidence interval (−0.
+
+34, −0.
+
+11)], polite [b = −0.
+
+23 (−0.
+
+35, −0.
+
+12)], friendly [b = −0.
+
+24 (−0.
+
+36, −0.
+
+12)], formal [b = −0.
+
+16 (−0.
+
+30, −0.
+
+03)], and impartial [b = −0.
+
+26 (−0.
+
+39, −0.
+
+12)] than language directed toward white drivers (Fig. 1). These differences persisted even when controlling for the age and sex of the driver (see SI Appendix, Model Outputs for Each Rated Dimension). Fig. 1. (Left) Differences in raw participant ratings between interactions with black and white community members. (Right) When collapsed to two uncorrelated components, Respect and Formality, we find a significant difference for Respect but none for Formality. Error bars represent 95% confidence intervals. PC, principal component. Given the expected conceptual overlap in the five perceptual categories we presented to the participants, we used principal component analysis to decompose the ratings into their underlying components. Two principal components explained 93.
+
+2% of the variance in the data (see SI Appendix, Principal Component Analysis (PCA) Loadings for loadings). The first component, explaining 71.
+
+3% of the variance and composed of positive loadings on the impartial, respectful, friendly, and polite dimensions with some loading on the formal dimension, we characterize as Respect, broadly construed. The second, explaining 21.
+
+9% of the variance and composed primarily of a very high positive loading on the formal dimension and a weak negative loading on the friendly dimension, we characterize as Formality. This component captures formality as distinct from respect more generally, and is likely related to social distance. Standardizing these factor scores as outcome variables in mixed-effects models, we find that officers were equal in Formality with white and black drivers [ β = −0.
+
+01 (−0.
+
+19, 0.
+
+16)], but higher in Respect with white drivers [ β = 0.
+
+17 (0.
+
+00, 0.
+
+33)] (Fig. 1). Study 1 demonstrates that key features of police treatment can be reliably gleaned from officer speech. Participant ratings from thin slices of police–community interactions reveal racial disparities in how respectful, impartial, polite, friendly, and formal officers’ language to community members was perceived. Such differences were driven by differences in the Respect officers communicated toward drivers rather than the Formality with which officers addressed them.
+
+Study 2: Linguistic Correlates of Respect. The methods of study 1 (human coding of 414 individual utterances), although effective at discovering racial disparities in officer respect toward community members in our dataset, cannot offer a general solution to the analysis of body camera data. One problem is scale: Each year, on the order of 26 million vehicle stops are made (5). Furthermore, using only a small sample of individual utterances makes it impossible to study how police treatment varies over officers, or how the interaction progresses across time in each stop. In this study, we therefore develop computational linguistic models of respect and formality and tune them on the 414 individual utterances; in study 3, we apply these models to our full dataset of 36,738 utterances. Our method is based on linguistic theories of respect that model how speakers use respectful language (apologizing, giving agency, softening of commands, etc.) to mitigate “face-threatening acts.” We use computational linguistic methods (e.
+
+g., refs. 23⇓⇓–26) to extract features of the language of each officer utterance. The log-transformed counts of these features are then used as independent variables in two linear regression models predicting the perceptual ratings of Respect and Formality from study 1. Our model-assigned ratings agree with the average human from study 1 about as well as humans agree with each other. Our model for Respect obtains an adjusted R2 of 0.
+
+258 on the perceptual ratings obtained in study 1, and a root-mean-square error (RMSE) of 0.
+
+840, compared with an RMSE of 0.
+
+842 for the average rater relative to other raters. Our model for Formality obtains an adjusted R2 of 0.
+
+190, and an RMSE of 0.
+
+882 compared with 0.
+
+764 for the average rater (see SI Appendix, Model Comparison to Annotators for more details on how these values were calculated). These results indicate that, despite the sophisticated social and psychological cues participants are likely drawing upon in rating officers’ utterances, a constrained set of objectively measurable linguistic features can explain a meaningful portion of the variance in these ratings. Fig. 2 lists the linguistic features that received significant weights in our model of Respect (arranged by their model coefficients). For example, apologizing, gratitude, and expressions of concern for citizen safety are all associated with respect. The bars on the right show the log-odds of the relative proportion of interactions in our dataset taken up by each feature, where negative numbers mean that a feature comprised a larger proportion of officers’ speech in interactions with black community members and positive numbers mean the same for interactions with white community members. Example utterances containing instances of the highest-weighted features for the Respect model are shown in Fig. 3. See SI Appendix, Study 2 for full regression outputs and more detailed discussion of particular linguistic findings. Fig. 2. (Left) Respect weights assigned by final model to linguistic features and (Right) the corresponding log-odds of those features occurring in officer speech directed toward black versus white community members, calculated using Fisher’s exact test. †P < 0.
+
+1; ∗P < 0.
+
+05; ∗∗P < 0.
+
+01; ∗∗∗P < 0.
+
+001. Fig. 3. Sample sentences with automatically generated Respect scores. Features in blue have positive coefficients in the model and connote respect, such as offering reassurance (“no problem”) or mentioning community member well-being (“drive safe”). Features in red have negative coefficients in the model and connote disrespect, like informal titles (“my man”), or disfluencies (“that- that’s”).

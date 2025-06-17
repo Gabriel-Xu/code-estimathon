@@ -1,0 +1,97 @@
+An approach to resolving such difficulty is to use "predicates" as a general term for whether things are variously real, abstract, concrete, or of a particular property (e.
+
+g. "good"). Questions about the properties of things are then propositions about predicates, which propositions remain to be evaluated by the investigator. In the "graph 1" above, the graphical relationships like the arrows joining boxes and ellipses might denote predicates. Different levels of abstraction might be denoted by a progression of arrows joining boxes or ellipses in multiple rows, where the arrows point from one row to another, in a series of other graphs, say graph 2, etc.
+
+Abstraction in philosophy is the process (or, to some, the alleged process) in concept-formation of recognizing some set of common features in individuals, and on that basis forming a concept of that feature. The notion of abstraction is important to understanding some philosophical controversies surrounding empiricism and the problem of universals. It has also recently become popular in formal logic under predicate abstraction. Another philosophical tool for discussion of abstraction is thought space.
+
+The way in which physical objects, like rocks and trees, have "being" differs from the way that properties of abstract concepts or relations have "being". For example, the way the concrete, particular, individuals pictured in "picture 1" exist differs from the way the concepts illustrated in "graph 1" exist. That difference accounts for the ontological usefulness of the word "abstract". The word applies to properties and relations to mark the fact that, if they exist, they do not exist in space or time, but that instances of them can exist in many different places and times.
+
+Perhaps confusingly, some philosophies refer to "tropes" (instances of properties) as "abstract particulars". E.
+
+g., the particular redness of a particular apple is an "abstract particular". Akin to qualia and sumbebekos.
+
+If an abstract concept, such as "society" or "technology" is treated as if it were a concrete object, that is a fallacy (an error). In linguistics, it may happen that abstract concepts are used as if they were nouns that signify concrete objects:This is called "metonymy". It can blur the distinction between abstract and concrete things.
+
+An abstraction can be seen as a process of mapping multiple different pieces of constituent data to a single piece of abstract data based on similarities in the constituent data, for example many different physical cats map to the abstraction "CAT". This conceptual scheme emphasizes the inherent equality of both constituent and abstract data, thus avoiding problems arising from the distinction between "abstract" and "concrete". In this sense the process of abstraction entails the identification of similarities between objects and the process of associating these objects with an abstraction (which is itself an object).
+
+Chains of abstractions can therefore be constructed moving from neural impulses arising from sensory perception to basic abstractions such as color or shape to experiential abstractions such as a specific cat to semantic abstractions such as the "idea" of a CAT to classes of objects such as "mammals" and even categories such as "object" as opposed to "action".
+
+This conceptual scheme entails no specific hierarchical taxonomy (such as the one mentioned involving cats and mammals), only a progressive exclusion of detail.
+
+A recent meta-analysis suggests that the verbal system has greater engagement for abstract concepts when the perceptual system is more engaged for processing of concrete concepts. This is because abstract concepts cause greater brain activity in the inferior frontal gyrus and middle temporal gyrus, compared to concrete concepts when concrete concepts cause greater activity in the posterior cingulate, precuneus, fusiform gyrus, and parahippocampal gyrus.
+
+Other research into the human brain suggests that the left and right hemispheres, of the brain, differ in their handling of abstraction. For example, one meta-analysis reviewing human brain lesions has shown a left hemisphere bias during tool usage.
+
+Typically, "abstraction" is used in the arts as a synonym for abstract art in general. Strictly speaking, it refers to art unconcerned with the literal depiction of things from the visible world—it can, however, refer to an object or image which has been distilled from the real world, or indeed, another work of art. Artwork that reshapes the natural world for expressive purposes is called abstract; that which derives from, but does not imitate a recognizable subject is called nonobjective abstraction. In the 20th century the trend toward abstraction coincided with advances in science, technology, and changes in urban life, eventually reflecting an interest in psychoanalytic theory. Later still, abstraction was manifest in more purely formal terms, such as color, freed from objective context, and a reduction of form to basic geometric designs.
+
+In music, the term "abstraction" can be used to describe improvisatory approaches to interpretation, and may sometimes indicate abandonment of tonality. Atonal music has no key signature, and is characterized by the exploration of internal numeric relationships.
+
+Carl Jung's definition of abstraction broadened its scope beyond the thinking process to include exactly four mutually exclusive, opposing complementary psychological functions: sensation, intuition, feeling, and thinking. Together they form a structural totality of the differentiating abstraction process. Abstraction operates in one of these opposing functions when it excludes the simultaneous influence of the other functions and other irrelevancies, such as emotion. Abstraction requires selective use of this structural split of abilities in the psyche. The opposite of abstraction is concretism. "Abstraction" is one of Jung's 57 definitions in Chapter XI of "Psychological Types".
+
+There is an abstract "thinking", just as there is abstract "feeling", "sensation" and "intuition". Abstract thinking singles out the rational, logical qualities ... Abstract feeling does the same with ... its feeling-values. ... I put abstract feelings on the same level as abstract thoughts. ... Abstract sensation would be aesthetic as opposed to sensuous "sensation" and abstract intuition would be symbolic as opposed to fantastic "intuition". (Jung, [1921] (1971):par. 678).
+
+Computer scientists use abstraction to understand and solve problems, such as organizing data to be stored in a database.
+
+Abstraction in mathematics is the process of extracting the underlying essence of a mathematical concept, removing any dependence on real-world objects with which it might originally have been connected, and generalizing it so that it has wider applications or matching among other abstract descriptions of equivalent phenomena.
+
+The advantages of abstraction in mathematics are:The main disadvantage of abstraction is that highly abstract concepts are more difficult to learn, and require a degree of mathematical maturity and experience before they can be assimilated.
+
+Eye makeupEye makeup is a type of cosmetics which aims to make the eyes look noticeable and attractive. It is mostly used by females, and by stage performers of all types. Eye makeup is an important part of the fashion and cosmetic industries.
+
+The idea can be taken much further. The colour of the eye can be altered by using contact lenses. Glitter and other "appliqués" can be stuck on near the eye. Fake eyelashes or eyelash extensions are possible.
+
+Mascara is a cosmetic used to darken, colour, thicken, lengthen, or define eyelashes. Historically, it was (and still is) usually black, but now it also comes in many colours and tints. Mascara comes in three forms: liquid, cake, and cream. It is available in tubes with wand applicators. Ingredients in mascara include water, wax thickeners, film-formers, and preservatives.
+
+Eye shadow is a cosmetic that is applied on the eyelids and under the eyebrows. The average distance between eyelashes and eyebrows is twice as big in women as in men. Pale eye shadow visually enlarges this area and has a feminising effect.
+
+Eye shadow can be applied in a variety of ways depending upon the desired look. Typically application is done using sponges, fingers, and/or brushes. The most important aspect of applying eye shadow, and makeup in general, is blending well.
+
+To remove eye shadow, a commercial eye makeup remover may be used, though a face wash will usually remove all traces of colour. Generally it is easy to remove, and simple water and soap can be used. Eye shadow, eyeliner, and mascara may also be removed using baby oil or olive oil. There are also makeup wipes that may be used.
+
+Eye liner is a cosmetic used to define the eyes. It is applied around the contours of the eye, along and above the edges of the eyelids where the eyelashes grow. Often applied just on the outer half of the eye.
+
+Creating a baseline is the first step in applying liner. It provides a level surface that makes it easier to apply the liner and gives you more controlDepending on its texture, eyeliner can be softly smudged or clearly defined. There are six main types available on the market:Kohl is an ancient black eye pigment which survives to the present day in the Mediterranean, the Middle East and the Indian subcontinent. It was a dark-colored powder made of crushed galena (lead sulfide) and/or antimony, burnt almonds, lead, cupric oxide, ochre, ash, malachite, or any combination of them. It may be used as an eye liner, mascara or eyeshadow.
+
+The upper and lower eyelids were painted in a line that extended to the sides of the face for an almond effect. In addition to reducing sun glare, it was believed that kohl eyeliner could restore good eyesight and reduce eye infection. Kohl was kept in a small, flat-bottomed pot with a wide, tiny rim and a flat, disk-shaped lid.
+
+According to images of the time, the use of makeup was not limited to women. Highly polished silver and copper mirrors aided the application of makeup.
+
+Indy Racing LeagueThe Indy Racing League (IRL) is an American-based open-wheel auto racing sanctioning body. The League sanctions three racing series. The premier IZOD IndyCar Series (ICS), the two developmental series; Firestone Indy Lights and the U.
+
+S. F2000 National Championship. ICS is sometimes considered the same as the Indy Racing League. The Indy Racing League's centerpiece race is the Indianapolis 500.
+
+The IRL is owned by Hulman and Co., which also owns the Indianapolis Motor Speedway complex and the Clabber Girl brand.
+
+On September 10, 2010, the IRL announced that effective January 1, 2011, the Indy Racing League will simply be known as "IndyCar".
+
+The "IndyCar Series" is the series name for the premier series sanctioned by the IRL. The name started being used in 2003. Izod was announced as the IndyCar Series title sponsor in 2010. The deal is expected to run for at least five years.
+
+At first IndyCar only raced on oval tracks. In 2005, the series started adding road and street course events."
+
+Firestone Indy Lights" is the development series for the Izod Indycar series. It started in 2002, as the "IRL Infiniti Pro Series". "USF2000" is a series the IRL started sanctioning in 2010. It started in 1991 and ended in 2006. It then restarted in 2010."
+
+Indy car" is sometimes used as a name for any open-wheel auto racing in the United States. The Indy car name derived as a result of the link to the Indianapolis 500 Mile Race (often called to as the "Indy 500").
+
+Beginning in 1980, the term Indy car was used for the race cars in CART races. CART had become the main governing body for open-wheel racing in the United States. The Indianapolis 500 was not controlled by CART. It remained sanctioned by USAC. CART recognized the Indy 500 on its schedule, and awarded points for finishers in the race from 1980 to 1995 despite not sanctioning it. The two entities operated separately, but used the same equipment.
+
+In 1992, the Indianapolis Motor Speedway tradmarked the "IndyCar". They licensed CART to use the name. CART renamed its championship the "IndyCar World Series". The name "CART" was no longer used. The series did not want fans to think they were go-karts.
+
+The IRL was founded in 1994 by Tony George and began racing in 1996. George designed the IRL as a lower-cost open-wheel alternative to CART. CART was dominated by a few rich multi-car teams, much like Formula One. The split between IRL and CART was very unfriendly. Both series greatly suffered because of it.
+
+In February 2008, Indy Racing League founder and CEO Tony George and owners of the Champ Car World Series completed an agreement to join the sport for 2008. The Champ Car World Series was suspended except for the Long Beach Grand Prix. Many of the former Champ Car teams moved to the IndyCar Series using equipment provided by the League.
+
+Driver safety has also been a major concern. A number of drivers injured, mostly in the early years of the series. Several of those injuries were serious or fatal. Unlike road racing, the higher speed and lack of runoff areas on oval tracks, allowed for less margin for error. Car design was a leading cause of early injuries.
+
+The series made improvements to chassis design to address those safety concerns.
+
+The IRL was also the first race series to adopt the new SAFER barrier soft wall safety system. First at the Indianapolis 500 and now installed at almost all major oval racing circuits.
+
+Open wheel carOpen-wheel car describes cars with the wheels outside the car's main body and, in most cases, one seat. Other names include formula car, single-seater car in British English, or Indy car in the United States. Open-wheel cars are different from street cars, sports cars, stock cars, and touring cars. These car have their wheels below or inside the body or fenders. Open-wheel cars are usually built just for racing. Often, they have a higher amount of technological sophistication than in other forms of motor racing.
+
+A typical open-wheeler has a small cockpit. It is only large enough for the driver's body. The head is exposed to the air. In modern cars the engine is often located directly behind the driver, and drives the rear wheels. Depending on the rules of the class, many types of open-wheelers have spoilers or wings. They are very low and have an almost flat bottom. These help add aerodynamic downforce. This pushes the car on to the road and makes it handle better.
+
+Some races, such as the Monaco Grand Prix are held on temporary street circuits. Most open-wheel races are on dedicated road courses, such as the Nürburgring in Germany. In the United States some top-level open wheel events are held on ovals, both short track and superspeedways. The most famous the annual Indianapolis 500 (Indy 500)Driving an open-wheel car is very different from driving a car with fenders. Open-wheel vehicles, are light weight, have good aerodynamics, and powerful engines. Wheel-to-wheel contact is dangerous. If the forward edge of one tire contacts the rear of another tire, the vehicle my be flipped into the air and upside down.
+
+Speech and language therapistA speech and language therapist is a healthcare professional who specialises in communication and swallowing difficulties. The main part of their work involves assessing people and planning therapy. They work with people of all ages across different settings such as nurseries, schools, day centres, care homes, clinics and hospitals.
+
+These can include difficulties with fluency, stuttering, making sounds and words, making sentences, understanding what others say, and using language socially. These difficulties fall into two main areas:There are two types of language difficulties:People with receptive language difficulties have problems understanding spoken and written language. Because of this they usually also have expressive language difficulties although this is not always the case.

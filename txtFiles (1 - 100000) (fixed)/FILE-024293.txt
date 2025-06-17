@@ -1,0 +1,267 @@
+Composite applications often incorporate orchestration of "local" application logic to control how the composed functions interact with each other to produce the new, derived functionality.
+
+Composite armor is a type of vehicle armor consisting of layers of different material such as metals, plastics, ceramics or air.
+
+Composite artifact colors is a designation commonly used to address several graphic modes of some 1970s and 1980s home computers.
+
+Composite art produces a single, graphic image that is designed to be a likeness or similarity of the individual.
+
+Composite baseball bats, opposed to aluminum or wood baseball bats, incorporate a reinforced carbon fiber polymer, or composite, into the bat's construction.
+
+Composite bats can also be constructed to improve their trampoline effect over time.
+
+Composite bats, tested after they were already broke in, showed performance standards well beyond the accepted ball exit speed ratio (BESR) Test.
+
+Composite bearings can be customized to meet the individual requirements of many applications, such as wear- or high-temperature resistance.
+
+Composite bows are still made and used in Korea and in China, and the tradition has been revived elsewhere.
+
+Composite bows have been known from archeology and art since the second millennium BCE, but their history is not well recorded as they were developed by cultures without a written tradition.
+
+Composite Capability/Preference Profiles (CC/PP) is a specification for defining capabilities and preferences (also known as 'delivery context') of user agents.
+
+Composite classes are more common in smaller schools; an extreme form is the one-room school.
+
+Composite construction is often used in building aircraft, watercraft, and building construction.
+
+Composite construction was also used for some steamships.
+
+Composite Drawing: the main objective is to help investigators generate leads based on physical descriptions.
+
+Composite entity is a Java EE Software design pattern and it is used to model, represent, and manage a set of interrelated persistent objects rather than representing them as individual fine-grained entity beans, and also a composite entity bean represents a graph of objects.
+
+Composite epoxy materials (CEM) are a group of composite materials typically made from woven glass fabric surfaces and non-woven glass core combined with epoxy synthetic resin.
+
+Composite flowers (daisy and chamomile) and mints (spearmint, peppermint, or catnip) will attract predatory wasps, hoverflies, and robber flies.
+
+Composite gear housing refers to the use of composite materials to enclose the components of motor transmissions.
+
+Composite House for Terre Haute is a public artwork by American artist Lauren Ewing, located in Gilbert Park at 14 1/2 Street and Wabash Ave.
+
+Composite lumber is a material that is a mixture of wood fiber, plastic, and some type of binding agent.
+
+Composite market maker prices are used to calculate the FTSE MTIRS Index series and are used for rebalancing, supplying perfect correlation to OTC Interest Rate Swaps and effectively tracks fixed for floating Interest rates enabling the tracking of OTC Interest rate Swap exposure.
+
+Composite materials are used in a wide range of applications in aerospace, marine, automotive, surface transport and sports equipment markets.
+
+Composite materials are very light and strong and hence much used in aircraft and spacecraft industries.
+
+Composite materials lend themselves better than metal to fluid "organic" aerodynamic shapes of high efficiency, and the advent of sophisticated computer-aided design and modeling has led to an expansion in the use of these materials and forms.
+
+Composite materials were used to control the aeroelastic divergent twisting experienced by forward-swept wings, and to reduce weight.
+
+Composite measure in statistics and research design refer to composite measures of variables, i.
+
+e. measurements based on multiple data items.
+
+Composite or hybrid muscles are those muscles which have more than one set of fibers but perform the same function and are usually supplied by different nerves for different set of fibers.
+
+Composite particles can also be truly neutral.
+
+Composite pattern: a tree structure of objects where every object has the same interface Decorator pattern: add additional functionality to a class at runtime where subclassing would result in an exponential rise of new classes Extensibility pattern: a.
+
+k.
+
+a. Framework - hide complex code behind a simple interface Facade pattern: create a simplified interface of an existing interface to ease usage for common tasks Flyweight pattern: a large quantity of objects share a common properties object to save space Marker pattern: an empty interface to associate metadata with a class.
+
+Composite pattern: defines Composite object (e.
+
+g. a shape) designed as a composition of one-or-more similar objects (other kinds of shapes/geometries), all exhibiting similar functionality.
+
+Composite portraiture (also known as composite photographs) is a technique invented by Sir Francis Galton in the 1880s after a suggestion by Herbert Spencer for registering photographs of human faces on the two eyes to create an "average" photograph of all those in the photographed group.
+
+Composite propellers are made of an extremely strong, high-tech material.
+
+Composites of MAX phases, an emerging class of ternary carbides or nitrides with aluminum or titanium alloys have been studied since 2006 as high-value materials exhibiting favorable properties of ceramics in terms of hardness and compressive strength alongside ductility and fracture toughness typically associated with metals.
+
+Composite Software, Inc was previously a privately held data virtualization software company based in San Mateo, California.
+
+Composite Software was founded in October 2001 by Michael R. Abbott.
+
+Composite structure diagram in the Unified Modeling Language (UML) is a type of static structure diagram, that shows the internal structure of a class and the collaborations that this structure makes possible.
+
+Composite sync Combines horizontal and vertical synchronization onto one pair of wires.
+
+Composite test scores from 2009 are in the top 25% in the district among high schools, and exceed the state average.
+
+Composite transposons will also often carry one or more genes conferring antibiotic resistance.
+
+Compositeurs et Chansons de Paris is a French short film directed by Henri Verneuil in 1951.
+
+Composite video mostly comes in three standard formats: NTSC, PAL, and SECAM.
+
+Composite video (one channel) is an analog video transmission (without audio) that carries standard definition video typically at 480i or 576i resolution.
+
+Compositio Mathematica is a bimonthly peer-reviewed mathematics journal established by L.
+
+E.
+
+J. Brouwer in 1935.
+
+Composition 113 is a solo album by composer Anthony Braxton featuring his title piece, for one soloist, a large photograph, and prepared stage, which was released on the Sound Aspects label in 1984.
+
+Composition 192 is a live album by composer and saxophonist Anthony Braxton with vocalist Lauren Newton, recorded at Queen Elizabeth Hall in 1996 and released on the Leo label.
+
+Composition 98 is an album by composer Anthony Braxton featuring the title piece, recorded in 1981 performed by a quartet, and originally released on the hat ART label as a double LP containing live and studio versions of the composition, but only the studio version was rereleased on CD in 1990.
+
+Compositional changes in the crystals growth rings can be used to estimate the thermodynamic history of the entire crystal.
+
+Compositionality is a significant issue and consideration in the design of ITL.
+
+Compositionally pure polycrystalline silicon wafers are useful for photovoltaics.
+
+Compositionally, the painting is similar to De Morgan's Flora and Cassandra: Helena is standing upright and tall, in a peaceful posture that reminds to Boticcelli's representations of Greek and Roman goddesses (such as Athena or Venus) that are, at the same time, an evocation of classical art, a usual characteristic between Renaissance artists.
+
+Compositional pattern-producing networks (CPPNs) are a variation of artificial neural networks (ANNs) that have an architecture whose evolution is guided by genetic algorithms.
+
+Compositional support for this theory includes the rendering of the sisters in front of their husbands, taking up much more space, light falling directly onto their faces, while their husbands fade into the dark background.
+
+Composition and candidacy of the director is approved by the National Academy of Sciences of Ukraine.
+
+Composition and regulations of the commission along with its president are confirmed by the Verkhovna Rada on proposition of the parliamentary committee on issues of ecological policy and natural resources.
+
+Composition consists of approximately 22,000 military personnel and 9,000 civilian employees, although their missions overlap.
+
+Composition filters work by changing the behavior of an object through the manipulation of incoming and outgoing messages.
+
+Composition for the Axemen is a public artwork by American sculptor Ken Wyten, located at Union Center Plaza at 840 First Street NE in Washington, D.
+
+C., United States.
+
+Composition for use in inking was developed in England in the 1810s by Robert Harrild and another individual named Forster; they first used it for making ink balls, though they soon turned to making rollers.
+
+Composition H6 is a castable military explosive mixture composed of the following percentages by weight: 44.
+
+0% RDX 29.
+
+5% TNT 21.
+
+0% powdered aluminum 5.
+
+0% paraffin wax as a phlegmatizing agent.
+
+Composition implements a has-a relationship, in contrast to the is-a relationship of subtyping.
+
+Composition/Improvisation Nos. 1, 2 & 3 is a live album by jazz saxophonist and composer Roscoe Mitchell recorded in Germany in 2004 and released on the ECM label.
+
+Composition is credited to Brian Tregaskin.
+
+Composition is credited to Karen Tregaskin.
+
+Composition is of agglutinated matter, the outer layer of the wall imperforate.
+
+Composition is one of the most important features of design especially when utilizing pre-existing materials or using diverse elements.
+
+Composition may include carbon (C), silicon (Si), manganese (Mn), phosphorus (P), sulfur (S), and other elements.
+
+Composition No. 174 (subtitled For Ten Percussionists, Slide Projections, Constructed Environment And Tape) is a live album by composer and conductor Anthony Braxton with the Arizona State University Percussion Ensemble recorded in Arizona in 1994 and released on the Leo label.
+
+Composition No. 94 for Three Instrumentalists is a live album by composer and saxophonist Anthony Braxton featuring two variations of the title piece recorded in Italy in 1980 and first released on the Golden Years of New Jazz label in 1999.
+
+Composition of herds, management practices, social organization and all other aspects of pastoralism vary between areas and between social groups.
+
+Composition Of Sound began performing at Woodlands School, Basildon, Essex, England around March 1980, and ended at the Bridge House, London.
+
+Composition of the song is credited to A. P. Carter and Luisa Gerstein of Lulu and the Lampshades.
+
+Composition of the subclass has also varied; however, by definition it always includes the family Asteraceae (Compositae).
+
+Composition of the substances inducing necrotaxis is rather complex, some of them are still obscure.
+
+Composition over inheritance (or composite reuse principle) in object-oriented programming (OOP) is the principle that classes should achieve polymorphic behavior and code reuse by their composition (by containing instances of other classes that implement the desired functionality) rather than inheritance from a base or parent class.
+
+Composition professionals, including those with degrees in Writing Studies and Rhetoric and Composition, often focus on a rhetorical approach to help students learn how to apply an understanding of audience, purpose, context, invention, and style to their writing processes.
+
+Composition relates to narrative works of literature, but also relates to essays, biographies, and other works established in the field of rhetoric.
+
+Compositions (1992) is an album by American saxophonist and composer Anthony Braxton recorded in 1993 for the Italian Black Saint label.
+
+Compositions are arranged chronologically by year of composition, but within each year they are not necessarily listed in the order they were composed.
+
+Compositions are developed from acoustic and electronic instruments and from sounds of the natural world used as metaphors.
+
+Compositions by Cleary have been recorded by notable musicians including Taj Mahal, Bonnie Raitt and most recently John Scofield on his album Piety Street.
+
+Compositions by Travancore king Swathi Thirunal was also used in the film.
+
+Compositions "Colonial Man" and "A Song for Brazil" were re-released on CD in 1998 on Verve Records as part of The Boy's Doin' It.
+
+Compositions for several identical instruments were apparently a particular favorite, as witnessed by, for example, flute quartets Op.
+
+Compositions include, besides the standard "I Fall in Love Too Easily", tracks from his fusion studio albums Bitches Brew and In A Silent Way.
+
+Compositions in Epic Greek may date from as late as the 3rd century AD, though its decline was inevitable with the rise of Koine Greek.
+
+Compositions is the fourth album by American R&B/soul singer Anita Baker.
+
+Compositions of the Trinity of Carnatic music are recognized as being distinct in style, and original in handling ragas.
+
+Compositions published by Hecht-Lancaster & Buzzell Music and Calyork Music have been released by Columbia Records, Warner Bros. Records, MGM Records, ABC-Paramount Records, Capitol Records, London Records, United Artists Records, Decca Records, Mercury Records, RCA Victor Records, Jubilee Records, Coral Records, Top Rank Records, Date Records, Kapp Records, Apollo Records, Maine Records and Cabot Records.
+
+Compositions relate to, but are not the same as, data structures, and common ones are the tagged union, set, sequence, and various graph structures, as well as the object used in object-oriented programming.
+
+Compositions that the Breeders played on the tour included their 2018 single "Wait in the Car", the Pixies' "Gigantic", and songs by the Amps.
+
+Composition stretched from August to first week of October 1813, and the piece proved to be a substantial moneymaker for Beethoven.
+
+Compositions would be the last album and collaboration between Baker and producer Michael J. Powell.
+
+Composition that is used to store several instances of the composited data type is referred to as containment.
+
+Composition was handled by a team of composers, as with many of her albums.
+
+Composition with Red Blue and Yellow is a 1930 painting by Piet Mondrian.
+
+Composizioni is the second solo album by pianist Giovanni Allevi.
+
+Composr CMS (or Composr) is a web application for creating websites.
+
+Composr is available on various web application distributions platforms, including Installatron, Softaculous, Web Platform Installer and Bitnami.
+
+Composr is licensed as free software and primarily written in the PHP programming language.
+
+Compost (also titled Take Off Your Body) is the eponymous debut album from Compost.
+
+Compost becomes anaerobic due to the absence of air, and this can result in it becoming smelly.
+
+Compost bedded pack barns are a fairly new system for housing dairy cattle, and are appealing to producers due to the lower instances of lameness and hock lesions.
+
+Compost bedded pack barns are typically bedded with wood shavings/sawdust, or other organic materials that are compostable.
+
+Compostela is a 3rd municipal income class municipality in the province of Cebu, Philippines.
+
+Compostela is the fifth full-length studio album by the Canadian singer-songwriter Jenn Grant, released October 21, 2014, on Outside Music.
+
+Compostela is within the Metro Cebu area.
+
+Compostela, officially the Municipality of Compostela, is a 1st class municipality in the province of Compostela Valley, Philippines.
+
+Compostela Valley (Cebuano: Kawalogang Kompostela), or Davao de Oro , is a province in the Philippines located in the Davao Region in Mindanao.
+
+Compostela Valley last formed part of its representation in 1998.
+
+Compostibacillus humi has been isolated from sludge compost from Guangdong in China.
+
+Compostibacillus is a Gram-positive, moderately thermophilic rod-shaped, and spore-forming genus of bacteria from the family of Bacillaceae with one known species (Compostibacillus humi).
+
+Composting can be carried out at the household level, in garden composters or in composting toilets, or at municipal level at centralized composting plants.
+
+Composting process control parameters include the initial ratios of carbon and nitrogen rich materials, the amount of bulking agent added to assure air porosity, the pile size, moisture content, and turning frequency.
+
+Composting systems typically include organisms such as fungi that are able to break down lignin and celluloses to a greater extent than anaerobic bacteria.
+
+Compost is a versatile product resulting from composting - the biodegradation of organic waste at household, community or citywide level.
+
+Compost made with this method is called aerobic composting (no smell).
+
+Compost was an American jazz fusion ensemble, that released two albums for Columbia Records.
+
+Composure is the first full-length album by Waking Ashland, released on May 10, 2005 by Tooth & Nail Records.
+
+Compound 48/80 is a polymer produced by the condensation of N-methyl-p-methoxyphenethylamine with formaldehyde.
+
+Compound and goal tasks both require a sequence of primitive actions to be performed; however, goal tasks are specified in terms of conditions that have to be made true, while compound tasks can only be specified in terms of other tasks via the task network outlined below.
+
+Compound assertibles can be built up from simple ones through the use of logical connectives.
+
+Compound constructions such as "African Americans" likewise refer exclusively to people in or from the United States of America, as does the prefix "Americo-".

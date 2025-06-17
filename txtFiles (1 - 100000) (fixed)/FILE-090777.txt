@@ -1,0 +1,113 @@
+EXTENDED SUMMARY 11 It is not known how a severe space weather event far more intense than any experienced during the space age might impact our modern technological systems. Of particular concern is the degree to which the electric power grid, which lies at the heart of our national infrastructure, might be affected by such an event. A study by the Metatech Corporation suggests that, despite the protective procedures developed since the Hydro-QuÃ©bec collapse, an unusually powerful magnetic storm could result in widespread outages and possible long-term damage to the nationâs power grid. The Metatech study uses the great magnetic storm of May 1921 (âone of the great- est storms of the past ~130 yearsâ3) to estimate the impact of an extreme space weather event on todayâs electric power grid. Using the rate of change in Earthâs magnetic field measured in nanoteslas (nT) per minute as a proxy for GIC intensity, Metatech estimates that GICs during the 1921 storm would have been ten times more intense than those responsible for the March 1989 event. A storm of this magnitude today could result in large-scale blackouts affecting more than 130 million people (Figure 5). Moreover, according to the Metatech analysis, the intense GIC flows produced by the storm would place more than 300 large extra-high-voltage transformers at risk of failure or permanent damage, likely requiring a prolonged recovery period with long-term shortages of electric power to the affected areas (Figure 6). Collateral Impacts of Severe Space Weather An assessment of the societal and economic impacts of severe space weather must look beyond such direct space weather effects as spacecraft anomalies and power grid outages and consider how disruptions of vulnerable technological systems can affect the various sectors of society that are dependent on the functioning of these systems. Given the state of technology in the mid-19th century, the societal and economic impacts of the 1859 Carrington Event were limited to the disruptions of telegraph service âat the busy season when the telegraph is more than usually required,â4 the telegraph companiesâ associated loss of income, and whatever the attendant effects on commerce might have been. Should an event of the magnitude of the Car- rington Event occur today, the story could be quite different because of the central role that technologyâin particular, electric powerâplays in our society and because of the dependencies and interdependencies that characterize our critical infrastructures, rendering them vulnerable to failures cascading from one system to another. Some of the indirect or collateral effects of a severe space weather event are vividly described in the following account of the 1989 Hydro-QuÃ©bec blackout as it was experienced by the citi- zens of Montreal. The blackout closed schools and businesses, kept the Montreal Metro shut down during the morning rush hour, and paralyzed Dorval Airport, delaying flights. Without their navigation radar, no flight could land or take off until power had been restored. People ate their cold breakfast in the dark and left for work. They soon found themselves stuck in traffic that attempted to navigate darkened intersections without any streetlights or traffic control systems operating. . . . All these buildings [in downtown Montreal] were now pitch dark, stranding workers in offices, stairwells, and elevators. By some accounts, the blackout cost businesses tens of millions of dollars as it stalled production, idled workers, and spoiled products.
+
+512 EXTENDED SUMMARY Figure 5. Regions susceptible to power grid collapse during a 4800 nT/min geomagnetic field disturbance at 50Â° 7.
+
+1 and C.
+
+3a Kappenman.
+
+eps geomagnetic latitude, where the densest part of the U.
+
+S. power grid lies. The affected regions are outlined in black. Analysis of such an event indicates that widespread blackouts could occur, involving more 130 million people. A disturbance of such magnitude, although rare, is not unprecedented: analysis of the May 1921 storm shows that disturbance levels of ~5000 nT/min were reached during that storm. (Image courtesy of John Kappenman, Metatech Corporation.) ï¿½ ï¿½ ï¿½ ï¿½ ï¿½ ï¿½ ï¿½ ï¿½ï¿½ ï¿½ ï¿½ ï¿½ ï¿½ ï¿½ 40%ï¿½ ï¿½ 97% ï¿½ ï¿½ï¿½ ï¿½ 39% 30% ï¿½ ï¿½ï¿½ ï¿½ ï¿½ï¿½ ï¿½ ï¿½ ï¿½ 7% 24% ï¿½ ï¿½ ï¿½ ï¿½ ï¿½ 23% ï¿½ ï¿½ ï¿½ï¿½ 72% ï¿½ 34% ï¿½ 47% ï¿½ï¿½ ï¿½ï¿½ ï¿½ 32% ï¿½ï¿½ ï¿½ï¿½ ï¿½ 12% ï¿½ ï¿½ 36%ï¿½ ï¿½ ï¿½ 33% ï¿½ ï¿½ ï¿½ï¿½ ï¿½ ï¿½ ï¿½ ï¿½ï¿½ ï¿½ ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ ï¿½ ï¿½ ï¿½ ï¿½ ï¿½ ï¿½ ï¿½ ï¿½ ï¿½ ï¿½ ï¿½ 26% ï¿½ ï¿½ ï¿½ ï¿½ï¿½ ï¿½ ï¿½ï¿½ ï¿½ ï¿½ ï¿½ ï¿½ ï¿½ ï¿½ ï¿½ï¿½ ï¿½ ï¿½ ï¿½ ï¿½ ï¿½ï¿½ ï¿½ ï¿½ ï¿½ ï¿½ï¿½ 35% ï¿½ ï¿½ 9% ï¿½ ï¿½ ï¿½ ï¿½ ï¿½ ï¿½ ï¿½ ï¿½ï¿½ 55% ï¿½ ï¿½ ï¿½ ï¿½ï¿½ï¿½ ï¿½ ï¿½ 11% ï¿½ ï¿½ ï¿½ ï¿½ï¿½ï¿½ ï¿½ ï¿½ ï¿½ ï¿½ ï¿½ 15% ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ 6% 24% ï¿½ ï¿½ ï¿½ ï¿½ ï¿½ï¿½ ï¿½ ï¿½ ï¿½ ï¿½ 82% 19% 18% ï¿½ ï¿½ ï¿½ ï¿½ ï¿½ ï¿½ ï¿½ ï¿½ ï¿½ ï¿½ ï¿½ï¿½ ï¿½ ï¿½ ï¿½ ï¿½ï¿½ ï¿½ ï¿½ ï¿½ ï¿½ ï¿½ ï¿½ ï¿½ ï¿½ ï¿½ ï¿½ ï¿½ ï¿½ 30% ï¿½ ï¿½ï¿½ ï¿½ ï¿½ï¿½ ï¿½ ï¿½ 19% ï¿½ 55% 7% ï¿½ 27% ï¿½ ï¿½ ï¿½ ï¿½ ï¿½ ï¿½ ï¿½ ï¿½ 47% ï¿½ ï¿½ ï¿½ ï¿½ ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ ï¿½ 17% ï¿½ ï¿½ ï¿½ ï¿½ ï¿½ ï¿½ ï¿½ ï¿½ ï¿½ ï¿½ ï¿½ ï¿½ ï¿½ 17% ï¿½ ï¿½ ï¿½ ï¿½ ï¿½ ï¿½ ï¿½ ï¿½ ï¿½ ï¿½ ï¿½ ï¿½ ï¿½ ï¿½ ï¿½ ï¿½ï¿½ ï¿½ 37% ï¿½ 6%ï¿½ ï¿½ 38% ï¿½ ï¿½ 1% 7% ï¿½ ï¿½ ï¿½ 75% ï¿½ ï¿½ ï¿½ ï¿½ ï¿½ 8% ï¿½ 21% ï¿½ 7.
+
+2 and C.
+
+3b Kappenman.
+
+eps Figure 6. A map showing the extra-high-voltage transformer capacity (estimated at ~365 large transformers), by state, at risk of damage during a 4800 nT/min disturbance. Regions with high percentages could experience long- duration power outages lasting several years. (Image courtesy of John Kappenman, Metatech Corporation.)
+
+EXTENDED SUMMARY 13 A major power blackout, whether the result of severe space weather or severe terrestrial weather, has the potential to affect virtually all sectors of society: communications, transporta- tion, banking and finance, commerce, manufacturing, energy, government, education, health care, public safety, emergency services, the food and water supply, and sanitation (Figure 7). The severity of the impacts depends on a number of variables, including the duration of the outage. The socioeconomic impacts of a long-term outage, requiring replacement of permanently dam- aged transformers, could be extensive and serious. According to an estimate by the Metatech Corporation, the total cost of a long-term, wide-area blackout caused by an extreme space weather event could be as much as $1 trillion to $2 trillion during the first year, with full recovery requir- ing 4 to 10 years depending on the extent of the damage. (For comparison, the total cost for the United States of the August 2003 blackoutâa major non-space-weather-related blackout that affected 50 million people in the northeastern United States and Ontarioâis estimated to have been between $4 billion and $10 billion.
+
+6) Figure 7. Schematic illustrating the interconnection of critical infrastructures and their dependencies and interde- 3.
+
+1 Caverly.
+
+eps pendencies. As the nationâs infrastructures and services increase in complexity and interdependence over time, a bitmap major outage of any one infrastructure will have an increasingly widespread impact. (Image courtesy of Department of Homeland Security.)
+
+14 EXTENDED SUMMARY The Great Magnetic Storms of August-September 1859 (the Carrington Event)7 Shortly after midnight on September 2, 1859, campers in the Rocky Mountains were awakened by an âauroral light, so bright that one could easily read common print.
+
+â The campersâ account, published in the Rocky Mountain News, continues, âSome of the party insisted that it was daylight and began the preparation of breakfast.
+
+â Eighteen hundred miles to the east, Henry C. Perkins, a respected physician in Newburyport, Massachusetts, observed âa perfect dome of alternate red and green streamersâ over New England. To the citizens of Havana, Cuba, the sky that night âappeared stained with blood and in a state of general confla- gration.
+
+â Dramatic auroral displays had been seen five nights before as well, on the night of August 28/29, when (again in the words of Dr. Perkins) âthe whole celestial vault was glowing with streamers, crimson, yellow, and white, gathered into waving brilliant folds.
+
+â In New York City, thousands gathered on sidewalks and rooftops to watch âthe heavens . . . arrayed in a drapery more gorgeous than they have been for years.
+
+â The aurora that New Yorkers witnessed that Sunday night, the New York Times assured its readers, âwill be referred to hereafter among the events which occur but once or twice in a lifetime.
+
+â8 Low-latitude red auroras, such as those widely reported to have been observed during the Carrington Event, are a characteristic feature of major geomagnetic storms. The aurora shown here was photographed over Napa Valley, Cali- fornia, during the magnetic storm of November 5, 2001. (Image courtesy D. Obudzinski, Â© Dirk Obudzinski 2001, www. borealis2000.
+
+com.)
+
+EXTENDED SUMMARY 15 From August 28 through September 4, auroral displays of extraordinary brilliance were observed throughout North and South America, Europe, Asia, and Australia, and were seen as far south as Hawaii, the Caribbean, and Central America in the Northern Hemisphere and in the Southern Hemisphere as far north as Santiago, Chile. Even after daybreak, when the aurora was no longer visible, its presence contin- ued to be felt through the effect of the auroral currents. Magnetic observatories recorded disturbances in Earthâs field so extreme that magnetometer traces were driven off scale, and telegraph networks around the worldâthe âVictorian Internetâ9âexperienced major disruptions and outages. âThe electricity which attended this beautiful phenomenon took possession of the magnetic wires throughout the country,â the Philadelphia Evening Bulletin reported, âand there were numerous side displays in the telegraph offices where fantastical and unreadable messages came through the instruments, and where the atmospheric fireworks assumed shape and substance in brilliant sparks.
+
+â10 In several locations, operators disconnected their systems from the batteries and sent messages using only the current induced by the aurora.
+
+11 The auroras were the visible manifestation of two powerful magnetic storms that occurred near the peak of the sunspot cycle. The two storms, which occurred in rapid succession, are referred as the âCarrington Eventâ in honor of Richard Carrington, a British amateur astronomer. On September 1, the day before the onset of the second storm, Carrington had observed an outburst of âtwo patches of intensely bright and white lightâ12 from a large and complex group of sunspots near the center of the Sunâs disk. Although the connection was not understood at the time, Carringtonâs observation provided the first evidence that erup- tive activity on the Sun is the ultimate cause of geomagnetic storms. We know today that what Carrington observed was an extraordinarily intense white-light flare that was associated with a powerful, fast-moving coronal mass ejection (CME). The CME and the shock wave that preceded it impacted Earthâs magnetosphere some 17.
+
+5 hours after Carringtonâs observation, triggering an unusually severe geomagnetic storm. In addition to the low-latitude auroras and intense auroral currents responsible for the telegraph outages, all of the phenomena known today to be characteristic of a major magnetic storm occurred as well, although the mid-19th century lacked the means to detect and measure them, and its most sophisticated technologies were unaffected by them: an increased Earthward flow of magnetospheric plasma, creating or intensifying the ring current; the explosive release of stored magnetic energy in multiple magnetospheric substorms; an increase in the energy content of the radiation belts as well as the possible creation of temporary new belts; and changes in the ionospheric and thermospheric density at midlatitudes. Recent analysis of ice core data indicates that the geomagnetic storm was also ac- companied by a solar energetic particle event four times more intense than the most severe solar energetic particle event of the space age. By this as well as other measures, the Carrington Event ranks as one of the most severe space weather eventsâand by some measures the most severeâon record.
+
+13 Locations of reported auroral observations during the first ~1.
+
+5 hours of the September 2, 1859, magnetic 1.
+
+2 Green.
+
+eps storm (orange dots). (Image courtesy of J.
+
+L. Green, NASA.) bitmap16 EXTENDED SUMMARY Box 1 Space Weather: Some Institutional Issues Space weather potentially affects large complex technical systems that are vital for economic and social stability and functioning. But managing the effects of severe space weather is not just a technical problem: it is also, importantly, a problem of institutions and of society. A key issue affecting our ability to prevent disruption of large technical systems is the difficulty of developing the appropriate institutions to deal with the problem on a long-term basis. Institutional devel- opment occurs most often under conditions of frequent accidents or errors. When nothing bad appears to happen from one year to another, sustaining preparedness and planning in out-years is extraordinarily challenging. Consequently, space weather is not on the radar screen of many people outside the small technical community and some affected businesses. Dependency creep, risk migration, and new technologies are potential problems for operators of large technical systems. As systems become more complex, and as they grow in size, understanding and over- sight become more difficult. Subsystems and dependencies may evolve that escape the close scrutiny of organization operators. Dependencies allow risk present in one part the other overall system to âmigrateâ to others, with potentially damaging results. GPS and electric power systems have clearly accelerated dependency creep, and consequent risk migration. New technologies, such as nanoscale components, may not be adequately understood in the context of 11-year solar cycles. One of the most fundamental concerns for operators of large technical systems is the efficiency-vul- nerability tradeoffâthat is, the question of how much reserve capacity is available to deal with uncertainty and contingencies. In stable protected environments, systems operate with excess capacity: costs are passed on to users and the society. In competitive-market but benign environments, however, systems operate at close to their efficiency frontiers. Slack resources are consumed, buffers shrink, costs fall, and profits rise. But in competitive-market and âhostileâ environments where unexpected developments perturb the system, finely tuned technical systems become brittle and have trouble operating outside relatively narrow parameters. Vulnerability can be the consequence of increased efficiency. âSecurity externalitiesâ emerge due to interdependencies, lack of knowledge, lack of slack, lack of trust, and lack of ways to overcome coordination problems. Space storms of the magnitude of the Carrington Event are fortunately very rare, and the risk that such an event might cause a long-term catastrophic power grid collapse with major socio- economic disruptions, while real, is low. In the field of risk analysis, such an extreme event is termed a low-frequency/high-consequence (LF/HC) event. In terms of their potential broader, col- lateral impacts, LF/HC events present a unique set of problems for public (and private) institutions and governance, different from the problems raised by conventional, expected, and frequently experienced events. As a consequence, dealing with the collateral impacts of LF/HC events requires different types of budgeting and management capabilities and consequently challenges the basis for conventional policies and risk management strategies, which assume a universe of constant or reliable conditions. Moreover, because systems can quickly become dependent on new technologies in ways that are unknown and unexpected by both developers and users, vulnerabilities in one part of the broader system have a tendency to spread to other parts of the system. Consequently, it is difficult to understand, much less to predict, the consequences of future LF/HC events. Sustaining preparedness and planning for such events in future years is equally difficult (Box 1). ||||| Don't call it Solar Probe Plus anymore.
+
+NASA's upcoming sun-studying mission, which will come much closer to Earth's star than any spacecraft in history, has been renamed the Parker Solar Probe, agency officials announced today (May 31).
+
+The new moniker honors pioneering University of Chicago astrophysicist Eugene Parker, who predicted the existence of the solar wind — the stream of charged particles flowing constantly from the sun — back in 1958. [Solar Quiz: How Well Do You Know Our Sun?]
+
+NASA has named about 20 space missions after people; the Hubble Space Telescope is perhaps the most famous example. But the 89-year-old Parker is the first researcher to be celebrated in this manner while still alive, agency officials said."
+
+I'm certainly greatly honored to be associated with such a heroic scientific space mission," Parker said during a press conference at the University of Chicago today.
+
+An artist's illustration of NASA's Parker Solar Probe spacecraft, formerly known as Solar Probe Plus, studying the sun. The mission is scheduled to launch in July 2018. Credit: Johns Hopkins University Applied Physics LaboratoryThe ambitious $1.
+
+5 billion Parker Solar Probe mission is scheduled to soar to solar orbit atop a United Launch Alliance Delta IV Heavy rocket from Kennedy Space Center in Florida on July 31, 2018.
+
+Over the course of the next seven years, the spacecraft will perform 24 close flybys of the sun, some of which will bring it within just 3.
+
+9 million miles (6.
+
+2 million kilometers) of the solar surface. That's well inside the orbit of Mercury, and seven times closer than any other probe has ever gotten to the sun, NASA officials said.
+
+The environment in this region is extreme, to say the least: During its closest encounters, the 10-foot-long (3 meters) Parker Solar Probe is expected to experience temperatures of up to 2,500 degrees Fahrenheit (1,370 degrees Celsius) and solar radiation intensities 475 times greater than we're used to on Earth.
+
+Mission controllers will therefore retract the Parker Solar Probe's solar arrays as it approaches the sun and extend them as the spacecraft retreats, to keep panel power levels and temperatures from fluctuating too much. And the probe will be outfitted with a 7.
+
+5-foot-wide (2.
+
+3 m), 4.
+
+5-inch-thick (11.
+
+4 centimeters) heat shield made of advanced carbon-composite material, which will allow its four science instruments to operate at about room temperature, NASA officials said.
+
+The Parker Solar Probe will perform a number of tasks with this science gear, such as measure the sun's electric and magnetic fields, photograph solar structure and study the solar wind.
+
+If all goes according to plan, the Parker Solar Probe's observations will help mission scientists solve two long-standing puzzles: How is the solar wind accelerated, and why is the sun's outer atmosphere, known as the corona, so much hotter than the solar surface (3 million degrees F, or 1.
+
+7 million degrees C, compared with 10,000 degrees F, or 5,500 degrees C)?
+
+This latter situation is akin to water flowing uphill, said Parker Solar Probe mission scientist Nicola Fox, of the Johns Hopkins University Applied Physics Laboratory (APL) in Laurel, Maryland: "It shouldn't happen."
+
+These two big questions can be answered only by getting up-close observations of the sun, Fox added. And the answers are not just of academic interest."
+
+One recent study by the National Academy of Sciences estimated that, without advance warning, a huge solar event could cause $2 trillion in damage in the U.
+
+S. alone, and the Eastern Seaboard of the U.
+
+S. could be without power for a year," researchers at APL, which manages the mission for NASA, wrote in an online description."
+
+In order to unlock the mysteries of the corona, but also to protect a society that is increasingly dependent on technology from the threats of space weather, we will send [the Parker Solar Probe] to touch the sun," they added.
+
+The Parker Solar Probe will carry a chip loaded with photographs of Eugene Parker and a copy of his seminal 1958 solar-wind paper, Fox said. NASA has also invited Parker to come up with an inscription for a plate that will be installed on the spacecraft, she added.
+
+Follow Mike Wall on Twitter @michaeldwall and Google+. Follow us @Spacedotcom, Facebook or Google+. Originally published on Space.
+
+com. ||||| NASA will fly a spacecraft directly into the Sun in a bid to unlock the secrets of solar storms that plays havoc with satellites and power supplies, the agency has announced.

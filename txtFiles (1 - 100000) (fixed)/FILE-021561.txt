@@ -1,0 +1,101 @@
+Biometrics in schools is a growing technology in the U.
+
+S. education sector.
+
+Biometrics is a journal that publishes articles on the application of statistics and mathematics to the biological sciences.
+
+Biometrics is the technical term for body measurements and calculations.
+
+Biometric systems based on fingerprints can be fooled with a dummy finger fitted with a copied fingerprint; voice and facial characteristic-based systems can be fooled by recordings and high-resolution images.
+
+Biometric technologies capture, process and measure these characteristics electronically and compare them against existing records to create a highly accurate identity management capability.
+
+Biometric tokenization in particular builds upon the longstanding practice of tokenization for sequestering secrets in this manner by having the secret, such as user credentials like usernames and passwords or other Personally Identifiable Information (PII), be represented by a substitute key in the public sphere.
+
+Biometric tokenization is the process of substituting a stored biometric template with a non-sensitive equivalent, called a token, that lacks extrinsic or exploitable meaning or value.
+
+Biometrika is a peer-reviewed scientific journal published by Oxford University Press for the Biometrika Trust.
+
+Biometrology advances laboratory techniques into scalable bioproducts or services.
+
+Biometrology refers to measurement and data activities that provide quantitative characterization of biology.
+
+Biomicrofluidics is a bimonthly online-only peer-reviewed scientific journal covering all aspects of research on fundamental physicochemical mechanisms associated with microfluidic, nanofluidic, and molecular/cellular biophysical phenomena in addition to novel microfluidic and nanofluidic techniques for diagnostic, medical, biological, pharmaceutical, environmental, and chemical applications.
+
+Biomics is the biological study of biomes, and the processing of obtained information, such as ecological communities of plants, animals, and soil organisms.
+
+Biomimetic architecture is a contemporary philosophy of architecture that seeks solutions for sustainability in nature, not by replicating the natural forms, but by understanding the rules governing those forms.
+
+Biomimetic materials are materials developed using inspiration from nature.
+
+Biomimicry and bio-inspired design are sometimes confused.
+
+Biomimicry has led to the development of a different branch of robotics called soft robotics.
+
+Biomimicry is copying the nature while bio-inspired design is learning from nature and making a mechanism that is simpler and more effective than the system observed in nature.
+
+Biomimicry studies have shown the Stenocara gracilipes beetle has the natural ability to perform this task.
+
+Biomineralising polychaetes are polychaetes that biomineralize.
+
+Biomineralization in the form of calcium carbonate precipitation can be traced back to the Precambrian period.
+
+Biomineralization occurs mainly in crustaceans; in insects and Arachnids the main reinforcing materials are various proteins hardened by linking the fibers in processes called sclerotisation and the hardened proteins are called sclerotin.
+
+Biomining is an environmentally friendly technique compared to typical mining.
+
+Biomining is a technique of extracting metals from ores and other solid materials typically using prokaryotes or fungi.
+
+BioMOBY is a registry of web services used in bioinformatics.
+
+BioMOBY is released under the Artistic License.
+
+BioModels is a free and open-source repository for storing, exchanging and retrieving quantitative models of biological interest created in 2006.
+
+Biomolecular complex, also called macromolecular complex or biomacromolecular complex, is any biological complex made of more than one molecule of protein, RNA, DNA, lipids, carbohydrates.
+
+Biomolecular condensates are a class of non-membrane bound organelles and organelle subdomains.
+
+Biomolecular condensates form by phase separation.
+
+Biomolecular engineering is the application of engineering principles and practices to the purposeful manipulation of molecules of biological origin.
+
+Biomolecular engineers integrate knowledge of biological processes with the core knowledge of chemical engineering in order to focus on molecular level solutions to issues and problems in the life sciences related to the environment, agriculture, energy, industry, food production, biotechnology and medicine.
+
+Biomolecular engineers purposefully manipulate carbohydrates, proteins, nucleic acids and lipids within the framework of the relation between their structure (see: nucleic acid structure, carbohydrate chemistry, protein structure,), function (see: protein function) and properties and in relation to applicability to such areas as environmental remediation, crop and livestock production, biofuel cells and biomolecular diagnostics.
+
+Biomolecules are too small to see in detail even with the most advanced light microscopes.
+
+Biomolecules often form heterogenous complexes or homogeneous oligomers and multimers or polymers.
+
+Biomolecules that incorporate heavier isotopes give rise to more stable molecular structures with increased resistance to damages associated with aging or diseases.
+
+Biomorphism models artistic design elements on naturally occurring patterns or shapes reminiscent of nature and living organisms.
+
+Biomphalaria alexandrina is a species of air-breathing freshwater snail, an aquatic pulmonate gastropod mollusk in the family Planorbidae, the ram's horn snails and their allies.
+
+Biomphalaria andecola is a species of air-breathing freshwater snail, an aquatic pulmonate gastropod mollusk in the family Planorbidae, the ram's horn snails.
+
+Biomphalaria angulosa is a species of air-breathing freshwater snail, an aquatic pulmonate gastropod mollusk in the family Planorbidae, the ram's horn snails.
+
+Biomphalaria barthi is a species of air-breathing freshwater snail, an aquatic pulmonate gastropod mollusk in the family Planorbidae, the ram's horn snails.
+
+Biomphalaria glabrata is an intermediate snail host for the trematode Schistosoma mansoni, which is one of the main schistosomes that infect humans.
+
+Biomphalaria glabrata is a species of air-breathing freshwater snail, an aquatic pulmonate gastropod mollusk in the family Planorbidae, the ram's horn snails.
+
+Biomphalaria glabrata/Schistosoma mansoni provides a useful model system for investigating the intimate interactions between host and parasite.
+
+Biomphalaria havanensis, common name the ghost rams-horn, is a species of air-breathing freshwater snail, an aquatic pulmonate gastropod mollusk in the family Planorbidae, the ram's horn snails.
+
+Biomphalaria is a genus of air-breathing freshwater snails, aquatic pulmonate gastropod mollusks in the family Planorbidae, the ram's horn snails and their allies.
+
+Biomphalaria is the type genus of the tribe Biomphalariini.
+
+Biomphalaria kuhniana is a species of air-breathing freshwater snail, an aquatic pulmonate gastropod mollusk in the family Planorbidae, the ram's horn snails.
+
+Biomphalaria peregrina is a species of air-breathing freshwater snail, an aquatic pulmonate gastropod mollusk in the family Planorbidae, the ram's horn snails.
+
+Biomphalaria pfeifferi is a species of air-breathing freshwater snail, an aquatic pulmonate gastropod mollusk in the family Planorbidae, the ram's horn snails.
+
+Biomphalaria salinarum is a species of air-breathing freshwater snail, an aquatic pulmonate gastropod mollusk in the family Planorbidae, the ram's horn snails.

@@ -1,0 +1,111 @@
+In biochemistry, the DNA methyltransferase (DNA MTase) family of enzymes catalyze the transfer of a methyl group to DNA.
+
+In biochemistry, the native state of a protein or nucleic acid is its properly folded and/or assembled form, which is operative and functional.
+
+In biochemistry, the oxygen rebound mechanism is the pathway for hydroxylation of organic compounds by iron-containing oxygenases.
+
+In biochemistry, the term "precursor" often refers more specifically to a chemical compound preceding another in a metabolic pathway, such as a protein precursor.
+
+In biochemistry, the word is used for compounds that at least theoretically can be formed from the precursor compound.
+
+In biochemistry, two biopolymers are antiparallel if they run parallel to each other but with opposite alignments.
+
+In biochemistry, wybutosine (yW) is a heavily modified nucleoside of phenylalanine transfer RNA that stabilizes interactions between the codons and anti-codons during protein synthesis.
+
+Inbiocystiscus faroi is a species of very small sea snail, a marine gastropod mollusk or micromollusk in the family Cystiscidae.
+
+Inbiocystiscus gomezi is a species of very small sea snail, a marine gastropod mollusk or micromollusk in the family Cystiscidae.
+
+Inbiocystiscus is a genus of minute sea snail, a marine gastropod mollusc in the family Cystiscidae.
+
+Inbiocystiscus triplicata is a species of very small sea snail, a marine gastropod mollusk or micromollusk in the family Cystiscidae.
+
+In biodrying processes, the drying rates are augmented by biological heat in addition to forced aeration.
+
+In bioethics and law, gene theft or DNA theft is the act of acquiring the genetic material of another human being without his or her permission, often from a public place.
+
+In bioethics, ethics of organ transplantation refers to the ethical concerns on organ transplantation procedures .
+
+In bioethics, Grinnell engages in cross-disciplinary work at the boundary between science and philosophy.
+
+In bioethics, the ethics of cloning refers to a variety of ethical positions regarding the practice and possibilities of cloning, especially human cloning.
+
+In biogeochemistry, remineralization (US, UK Spelling: remineralisation) refers to the breakdown or transformation of organic matter (those molecules derived from a biological source) into its simplest inorganic forms.
+
+In biogeography and paleontology a relict is a population or taxon of organisms that was more widespread or more diverse in the past.
+
+In biogeography, a species is defined as indigenous to a given region or ecosystem if its presence in that region is the result of only natural process, with no human intervention.
+
+In biogeography, particularly phytogeography, the nunatak hypothesis about the origin of a biota in formerly glaciated areas is the idea that some or many species have survived the inhospitable period on icefree land such as nunataks.
+
+In bioinformatics, a DNA read error occurs when a sequence assembler changes one DNA base for a different base.
+
+In bioinformatics a dot plot is a graphical method for comparing two biological sequences and identifying regions of close similarity.
+
+In Bioinformatics, a Gene Disease Database is a systematized collection of data, typically structured to model aspects of reality, in a way to comprehend the underlying mechanisms of complex diseases, by understanding multiple composite interactions between phenotype-genotype relationships and gene-disease mechanisms.
+
+In bioinformatics, a hirendrasequence alignment is a way of arranging the sequences of DNA, RNA, or protein to identify regions of similarity that may be a consequence of functional, structural, or evolutionary relationships between the sequences.
+
+In bio-informatics, a peptide-mass fingerprint or peptide-mass map is a mass spectrum of a mixture of peptides that comes from a digested protein being analyzed.
+
+In bioinformatics EcoCyc is a biological database for the bacterium Escherichia coli K-12.
+
+In bioinformatics, FASTA format is a text-based format for representing either nucleotide sequences or peptide sequences, in which nucleotides or amino acids are represented using single-letter codes.
+
+In bioinformatics, hybrid genome assembly refers to utilizing various sequencing technologies to achieve the task of assembling a genome from fragmented, sequenced DNA resulting from shotgun sequencing.
+
+In bioinformatics, lncRNAdb is a biological database of Long non-coding RNAs The database focusses on those RNAs which have been experimentally characterized with a biological function.
+
+In bioinformatics, MAFFT (for multiple alignment using fast Fourier transform) is a program used to create multiple sequence alignments of amino acid or nucleotide sequences.
+
+In bioinformatics, miRBase is a biological database that acts as an archive of microRNA sequences and annotations.
+
+In bioinformatics research, pathway analysis software is used to identify related proteins within a pathway or building pathway de novo from the proteins of interest.
+
+In bioinformatics, sequence analysis is the process of subjecting a DNA, RNA or peptide sequence to any of a wide range of analytical methods to understand its features, function, structure, or evolution.
+
+In bioinformatics, sequence assembly refers to aligning and merging fragments from a longer DNA sequence in order to reconstruct the original sequence.
+
+In bioinformatics, sequence clustering algorithms attempt to group biological sequences that are somehow related.
+
+In bioinformatics, several computer programs have been created that search for SECIS elements within a genome sequence, based on the sequence and secondary structure characteristics of SECIS elements.
+
+In bioinformatics, TargetScan is a web server that predicts biological targets of microRNAs (miRNAs) by searching for the presence of sites that match the seed region of each miRNA.
+
+In Bioinformatics the Ciliate MDS/IES database is a biological database of spirotrich genes.
+
+In bioinformatics, the EzTaxon database is a web-based tool for the identification of prokaryotes based on 16S ribosomal RNA gene sequences.
+
+In bioinformatics, the Wernberg coloring, or Wernberg transformation is a way of color-coding DNA nucleotides.
+
+In bioinorganic chemistry, an entatic state is "a state of an atom or group which, due to its binding in a protein, has its geometric or electronic condition adapted for function."
+
+In biological cells, electrochemically active transmembrane ion channel and transporter proteins, such as the sodium-potassium pump, make electricity generation possible by maintaining a voltage imbalance from an electrical potential difference between the intracellular and extracellular space.
+
+In biological classification, a species inquirenda is a species of doubtful identity requiring further investigation.
+
+In biological classification, a subfamily (Latin: subfamilia, plural subfamiliae) is an auxiliary (intermediate) taxonomic rank, next below family but more inclusive than genus.
+
+In biological classification, class (Latin: classis) is a taxonomic rank, as well as a taxonomic unit, a taxon, in that rank.
+
+In biological classification, especially zoology, the type genus is the genus which defines a biological family and the root of the family name.
+
+In biological classification, the order (Latin: ordo) is a taxonomic rank used in the classification of organisms and recognized by the nomenclature codes.
+
+In biological classification, the term subspecies refers to a unity of populations of a species living in a subdivision of the species' global range and varies from other populations of the same species by morphological characteristics.
+
+In biological molecules that serve to capture or detect light energy, the chromophore is the moiety that causes a conformational change of the molecule when hit by light.
+
+In biological nitrification, the oxidation of NH3 to hydroxylamine is mediated by the enzyme ammonia monooxygenase (AMO).
+
+In biological nomenclature, a syntype is any one of two or more biological types that is listed in a description of a taxon where no holotype was designated.
+
+In biological nomenclature, organisms often receive scientific names that honor a person.
+
+In biological nomenclature, the Principle of Typification is one of the guiding principles.
+
+In biological oceanography, 'Critical Depth' is defined as a hypothesized surface mixing depth at which phytoplankton growth is precisely matched by losses of phytoplankton biomass within this depth interval.
+
+In biological oceanography, new production is supported by nutrient inputs from outside the euphotic zone, especially upwelling of nutrients from deep water, but also from terrestrial and atmosphere sources (as opposite to regenerated production, which is supported by recycling of nutrients in the euphotic zone).
+
+In biological research, plasmidome may refer to the actual plasmids that were found and isolated from a certain microorganism by means of culturing isolated microorganism and investigating the plasmids it possesses or by taking an environmental sample and performing a metagenomic survey using next generation sequencing methods in order to reveal and characterize plasmid genomes that belong to that environment.

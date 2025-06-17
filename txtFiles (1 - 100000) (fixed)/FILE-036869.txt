@@ -1,0 +1,43 @@
+If a candidate intersects a bin, it is chained to the bin's linked list.
+
+If a candidate is excluded from the count, all ballots are treated as if that candidate had never stood.
+
+If a candidate is RTU'd, the supervisor responsible for sending them home will supply a written report to the service person's OC detailing the reason why they have been RTU'd.
+
+If a candidate received a majority of the votes, then the primary was to be winner-take-all, but if no candidate met the 50% threshold, its 20 delegates were to be divided proportionally.
+
+IFAC and other accounting organizations are discussing the topic to decide on a common approach and XBRL auditing standards.
+
+If a car alarm was going off and the owner of the vehicle didn't rectify the situation, Bean would break into the car to disable the offending car alarm.
+
+If a card can be built on a foundation, it must be built.
+
+If a car dealer has additional incentives available for the purchase of a vehicle, he generally discounts the vehicle below the invoice price.
+
+If a card is lost, a person must call the number issued on the back of their EBT card.
+
+If a card was suspected of having a problem, you could test it by adding two more copies of the same card and they would "vote" before putting any data onto the system bus.
+
+If a car is moving across a surface in any direction other than the direction it is pointed, it is skidding (or sliding), and a sideways load is being imposed against the tires.
+
+If a carrier has no local presence, a foreign exchange line is used to reach its nearest point of presence.
+
+If a carrier is sensed, the node waits for the transmission in progress to end before initiating its own transmission.
+
+If a case comes before a court and all the main features of the case are local, the court will then apply the lex fori, the prevailing municipal law, to decide the case.
+
+If a case is deemed suitable to be heard at county court level, it can be heard in the Central London County Court.
+
+If a cause of action in a complaint does not state a cognizable claim (e.
+
+g., the claim is nonsense) or if it does not state all the required elements, then the challenged cause of action or possibly the entire complaint can be thrown out (informally speaking) at the demurrer stage as not legally sufficient.
+
+If accepted, it would make a sizeable profit for the Captain and his buccaneer crew.
+
+If accepted, Student Partners are assumed to further share the knowledge among the academic community by, for example, arranging courses, giving presentations and initiating projects.
+
+If accepted, the authors or maintainers will include the patch in their software, either immediately or in a future release.
+
+If accepted, Unsolved Mysteries posts a video of the viewer describing the mystery.
+
+If access exists at the bottom of the proposed shaft and ground conditions allow then raise boring may be used to excavate the shaft from the bottom up, such shafts are called borehole shafts.

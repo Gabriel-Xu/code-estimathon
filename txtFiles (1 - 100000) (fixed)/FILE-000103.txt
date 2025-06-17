@@ -1,0 +1,47 @@
+In Hebrew, a synagogue is called "beit knesset", which means, a "house of gathering". The word "synagogue" comes from "sunagoge", which is a Greek word. In a synagogue, Jews carry out the Jewish services, which consist of prayers, sometimes with special actions.
+
+A synagogue will usually have a large room for prayers. There might be some smaller rooms for studying. There will be some offices. There will also usually be a big room for special events.
+
+The front of a synagogue faces towards Jerusalem in Israel. In the front is the holiest part of the synagogue, the Ark. This is a closet which has the Torah scrolls inside. The Torah scrolls have the holy writings of Judaism on them. The Ark usually has a curtain in front of it.
+
+On top of the Ark is light which is always lit, called the “Eternal Lamp”. It is a symbol which means that God is always there.
+
+Every synagogue has a raised platform called the “Bimah”. The person who reads the Torah scroll stands there when he reads. The Bimah is either in the middle of the hall, or in front of the Ark.
+
+In some synagogues men and women sit in different places. Some synagogues even have a short wall so that they can not see each other. This is so that the people will think about the prayers better.
+
+Jews may call synagogues by different names. Many Orthodox and Conservative Jews living in English-speaking countries use the name "synagogue" or the word "shul", which is Yiddish. Jews who speak Spanish or Portuguese call synagogues "esnoga". Some Jews call the synagogue a temple.
+
+Jewish worship does not have to be carried out in a synagogue. It can be wherever a minyan of ten Jews are. It could be in someone's home or anywhere such as a cruise liner or an airplane. Some synagogues have a separate room or torah study, this is called the "beth midrash" meaning house of study. Some kinds of Jewish worship can be done alone or with fewer than ten people.
+
+Synagogues are places were Jews can worship.
+
+ScarcityScarcity in economics is the lack of various forms of capital. Scarcity can be used to describe an economic situation in economics, or it can be used to describe more general situations.
+
+In economics, scarcity is the result of people having "Unlimited Wants and Needs," or always wanting something new, and having "Limited Resources." Limited Resources means that there are never enough resources, or materials, to satisfy, or fulfill, the wants and needs that every person have. Scarcity is called the "basic economic problem," meaning that it always exists.
+
+Scarcity exists due to the effects of nature such as drought, floods, storms, pest infestation, fire and other things. Real scarcity can also exist by over use of non-renewable resources. Goods (things) and services are also scarce because there are only a limited number of things in the world and due to the limits of technology and our own priorities.
+
+More scarce goods and services have higher prices, because of supply and demand. Gold is used less than iron, but the price of gold is much higher, because gold is more scarce. Lawyers are paid more than janitors, because there is scarcity of qualified lawyers.
+
+Scarcity of capital is the main constraint in economic development of developing countries. Economic growth is an increase in the production and consumption of goods and services. It entails increasing population or per capita consumption. It is represented by increasing Gross Domestic Product (GDP). Scarcity refers to limited resources. These resources are the inputs of production i.
+
+e., land, labor and capital.
+
+Artificial scarcity is when somebody limits the amount of goods or services that are available, although it would be simple to make more. Artificial scarcity can increase profits for a business. Some people will pay more for something that is scarce, because it shows that they are rich (a status symbol). Copyrights, patents, monopolies, cartels, planned obsolesence can make artificial scarcity.
+
+ReadabilityReadability, or textual difficulty, means how easy or hard a text is to read. Research has shown that two main factors affect the ease with which texts are read.
+
+A readability test is a way to measure a text for how easy it is to read. Readability tests give a prediction as to how difficult readers will find a particular text. They do this by measuring one or both of the two main causes, as follows:Word difficulty is usually measured by vocabulary lists or word length.
+
+In 1923, Bertha A. Lively and Sidney L. Pressey published the first reading ease formula. They had been concerned that science textbooks in junior high school had so many technical words. They felt that teachers spent all class time explaining their meaning. They argued that their formula would help to measure and reduce the “vocabulary burden” of textbooks. Their formula used the Thorndike word list as a basis. Manually, it took three hours to apply the formula to a book.
+
+Several vocabulary lists have been published by researchers. These lists are based on samples of published texts in English, and (less often) samples of recorded spoken language. The lists differ slightly according to the sources chosen, but they are very reliable. The items listed may represent more than one actual word; they are lemmas. For instance the entry "be" contains within it the occurrences of "is", "was", "be" and "are". The top 100 lemmas account for 50% of all the words in the Oxford English Corpus."
+
+The Reading Teachers Book of Lists" claims that the first 25 words make up about one-third of all printed material in English, and that the first 100 make up about one-half of all written material.
+
+One of the first readability tests, the Dale–Chall formula, used a vocabulary list. It counted the number of listed words in a passage, and applied a formula which gave a grade level. It was used to rate textbooks for grade levels in US school districts.
+
+It is easy, in principle, to use a vocabulary list as part of a computer-based readability measure. The list is organised as a look-up table. The percentage of listed words in a passage gives the data for the formula, and the user is presented with a grade level.
+
+This is called an "index", or a "proxy". This is because word length is correlated with word frequency, and word frequency is correlated with word difficulty. "Longer words are, "on average", harder than short words".

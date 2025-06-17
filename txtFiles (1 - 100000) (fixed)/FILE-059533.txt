@@ -1,0 +1,307 @@
+Semantic heterogeneity is when database schema or datasets for the same domain are developed by independent parties, resulting in differences in meaning and interpretation of data values.
+
+Semantic HTML is processed by traditional web browsers as well as by many other user agents.
+
+Semantic HTML is the use of HTML markup to reinforce the semantics, or meaning, of the information in webpages and web applications rather than merely to define its presentation or look.
+
+Semantic integration is the process of interrelating information from diverse sources, for example calendars and to do lists, email archives, presence information (physical, psychological, and social), documents of all sorts, contacts (including social graphs), search results, and advertising and marketing relevance derived from them.
+
+Semantic Intelligence is the ability to gather the necessary information to allow to identify, detect and solve semantic gaps on all level of the organization.
+
+Semantic Interoperability Center Europe (SEMIC.
+
+EU) was an eGovernment service initiated by the European Commission and managed by the Interoperable Delivery of European eGovernment Services to public Administrations, Businesses and Citizens (IDABC) Unit.
+
+Semantic interoperability is a basic requirement for continuity of care.
+
+Semantic interoperability is a requirement to enable machine computable logic, inferencing, knowledge discovery, and data federation between information systems.
+
+Semantic interoperability is the ability of computer systems to exchange data with unambiguous, shared meaning.
+
+Semantic interoperability is therefore concerned not just with the packaging of data (syntax), but the simultaneous transmission of the meaning with the data (semantics).
+
+Semantic is a concept to add meaning to information.
+
+Semanticity is one of Charles Hockett's 16 design features of language.
+
+Semanticity refers to the use of arbitrary or nonarbitrary signals to transmit meaningful messages.
+
+Semantic lexicons are built upon semantic networks, which represent the semantic relations between words.
+
+Semantic loans often occur when two languages are in close contact, and takes various forms.
+
+Semantic mapping can also enhance performance.
+
+Semantic mapping or semantic webbing, in literacy, is a method of teaching reading using graphical representations of concepts and the relationships between them.
+
+Semantic mapping (SM) is a method in statistics for dimensionality reduction that can be used in a set of multidimensional vectors of features to extract a few new features that preserves the main data characteristics.
+
+Semantic MediaWiki (SMW) is an extension to MediaWiki that allows for annotating semantic data within wiki pages, thus turning a wiki that incorporates the extension into a semantic wiki.
+
+Semantic networks are in use in various Natural Language Processing applications.
+
+Semantic overload is related to the linguistic concept of polysemy.
+
+Semantic P2P network can execute complicated queries by SQL-like language.
+
+Semantic P2P networks are a new type of P2P network.
+
+Semantic P2P networks keep the semantic meanings of nodes and their contents.
+
+Semantic parameterization is a conceptual modeling process for expressing natural language descriptions of a domain in first-order predicate logic.
+
+Semantic parsing can thus be understood as extracting the precise meaning of an utterance.
+
+Semantic parsing is the task of converting a natural language utterance to a logical form: a machine-understandable representation of its meaning.
+
+Semantic predicates extend this capability to interesting non-context-free grammars (Fortran requires matching of multiple DO loops with shared CONTINUE statements by label; GLR with semantic predicates enables the DMS Fortran parser to produce ASTs for correctly nested loops as it parses).
+
+Semantic primes or semantic primitives are a set of semantic concepts that are innately understood but cannot be expressed in simpler terms.
+
+Semantic processing causes us to relate the word we just heard to other words with similar meanings.
+
+Semantic processing is the deepest level of processing and it requires the listener to think about the meaning of the cue.
+
+Semantic processing is the processing that occurs after we hear a word and encode its meaning.
+
+Semantic prosody, also discourse prosody, describes the way in which certain seemingly neutral words can be perceived with positive or negative associations through frequent occurrences with particular collocations.
+
+Semantic publication provides a way for computers to understand the structure and even the meaning of the published information, making information search and data integration more efficient.
+
+Semantic publishing has the potential to revolutionize scientific publishing.
+
+Semantic publishing on the Web, or semantic web publishing, refers to publishing information on the web as documents accompanied by semantic markup.
+
+Semantic queries allow for queries and analytics of associative and contextual nature.
+
+Semantic queries are used in triplestores, graph databases, semantic wikis, natural language and artificial intelligence systems.
+
+Semantic queries enable the retrieval of both explicitly and implicitly derived information based on syntactic, semantic and structural information contained in data.
+
+Semantic queries work on named graphs, linked-data or triples.
+
+Semantic relatedness includes any relation between two terms, while semantic similarity only includes "is a" relations.
+
+Semantics3 is a data company that provides API-based access to ecommerce product data based in San Francisco, California.
+
+Semantics3 provides retailers, logistics companies, and third-party ecommerce service access to standardized product data, most often via UPC Lookups.
+
+Semantics, although related to pragmatics, is distinct in that the former deals with word or sentence choice in any given context, while pragmatics considers the unique or particular meaning derived from context or tone.
+
+Semantics are a key feature of language, and whether music shares some of the same ability to prime and convey meaning has been the subject of recent study.
+
+Semantic satiation (also semantic saturation) is a psychological phenomenon in which repetition causes a word or phrase to temporarily lose meaning for the listener, who then perceives the speech as repeated meaningless sounds.
+
+Semantic Scholar is a project developed at the Allen Institute for Artificial Intelligence, released in November 2015.
+
+Semantics describes the processes a computer follows when executing a program in that specific language.
+
+Semantic search engines could then make these data widely available.
+
+Semantic search is not applicable to navigational searches.
+
+Semantic Search is not directly applicable to navigational searches.
+
+Semantic search lends itself well with this approach that is closely related with exploratory search.
+
+Semantic search systems consider various points including context of search, location, intent, variation of words, synonyms, generalized and specialized queries, concept matching and natural language queries to provide relevant search results.
+
+Semantic similarity and word-sense disambiguation are important components of GIR.
+
+Semantic similarity is a metric defined over a set of documents or terms, where the idea of distance between them is based on the likeness of their meaning or semantic content as opposed to similarity which can be estimated regarding their syntactical representation (e.
+
+g. their string format).
+
+Semantic similarity measures can then be used to filter out errors by identifying entities out of context, even when multiple interpretations are possible for the same entity.
+
+Semantics is basically about concepts, the meaning that thinking beings give to various elements of their experience.
+
+Semantics is the meaning of words.
+
+Semantics is the study of linguistic meaning.
+
+Semantics of an object depends on the context it is regarded within.
+
+Semantics of Song is the second full-length album by American indie rock band Cursive.
+
+Semantic spaces in the natural language domain aim to create representations of natural language that are capable of capturing meaning.
+
+Semantic Spaces is an album by Canadian industrial/electronic music group Delerium in 1994.
+
+Semantic structure analysis (or SSA) is a methodology for systematic description of the intended meaning of natural language, developed by the Summer Institute of Linguistics.
+
+Semantic studies are relevant to various stages of concept formation.
+
+Semantic Technology Institute (STI) International is an association of global experts in semantics and services, located in Austria.
+
+Semantic theories implicitly or explicitly incorporating the mentalist postulate include force dynamics and conceptual semantics.
+
+Semantic translation is the process of using semantic information to aid in the translation of data in one representation or data model to another representation or data model.
+
+Semantic translation requires that data elements in the source and destination systems have "semantic mappings" to a central registry or registries of data elements.
+
+Semantic translation should be differentiated from data mapping tools that do simple one-to-one translation of data from one system to another without actually associating meaning with each data element.
+
+Semantic translation takes advantage of semantics that associate meaning with individual data elements in one dictionary to create an equivalent meaning in a second system.
+
+Semantic warehousing will be equally or more important than data warehousing in the future.
+
+Semantic Web languages such as OWL make the open-world assumption.
+
+Semantic wikis, on the other hand, provide the ability to capture or identify information about the data within pages, and the relationships between pages, in ways that can be queried or exported like a database through semantic queries.
+
+Semantic wikis were first proposed in the early 2000s, and began to be implemented seriously around 2005.
+
+Semantides (or semantophoretic molecules) are biological macromolecules that carry phylogenetic information about evolutionary history.
+
+Semantoridae is an extinct family of stem-pinnipeds with fossils found in France, Kazakhstan, and Canada, dating back to various points in time in the Miocene epoch.
+
+Semantria offers text analysis via API and Excel plugin.
+
+Semaphore arraysOn Linux, it is provided by the util-linux package.
+
+Semaphore Flag Signaling System was initially described in RFC 4824, an April Fools RFC issued by the Internet Engineering Task Force edited by J. Hofmueller, et al. and released on April Fool's Day 2007.
+
+Semaphore is of the earliest forms of fixed railway signals.
+
+Semaphore is simply a variable.
+
+Semaphore is the second studio album by Fridge, released on 16 March 1998.
+
+Semaphore lines were a precursor of the electrical telegraph, which would replace them half a century later, and would also be cheaper, faster, and more private.
+
+Semaphore railway line was a railway line in the Australian state of South Australia located in the north-west of Adelaide servicing the suburbs of Semaphore and Exeter.
+
+Semaphores are a useful tool in the prevention of race conditions; however, their use is by no means a guarantee that a program is free from these problems.
+
+Semaphores are provided for this purpose, and are worked by the woman in charge.
+
+Semaphore signals were patented in the early 1840s by Joseph James Stevens, and soon became the most widely used form of mechanical signal.
+
+Semaphore South is a beachside suburb of Adelaide, in the City of Port Adelaide Enfield.
+
+Semaphores were used not only as a synchronization mechanism within the THE operating system, but also in the request and response data structures for I/O requests processed by the CHARON coprocessor.
+
+Semaphores which allow an arbitrary resource count are called counting semaphores, while semaphores which are restricted to the values 0 and 1 (or locked/unlocked, unavailable/available) are called binary semaphores and are used to implement locks.
+
+Semaphore was an electoral district of the House of Assembly in the Australian state of South Australia from 1938 to 1993.
+
+Semaphore was abolished in a boundary redistribution in 1993 and became the new seat of Hart.
+
+Semaphorin-3A is a protein that in humans is encoded by the SEMA3A gene.
+
+Semaphorin-3B is a protein that in humans is encoded by the SEMA3B gene.
+
+Semaphorin-3C is a protein that in humans is encoded by the SEMA3C gene.
+
+Semaphorin 3E is a protein that in humans is encoded by the SEMA3E gene.
+
+Semaphorin-3F is a protein that in humans is encoded by the SEMA3F gene.
+
+Semaphorin-4A is a protein that in humans is encoded by the SEMA4A gene.
+
+Semaphorin-4B is a protein that in humans is encoded by the SEMA4B gene.
+
+Semaphorin-4C is a protein that in humans is encoded by the SEMA4C gene.
+
+Semaphorin-4D (SEMA4D) also known as Cluster of Differentiation 100 (CD100), is a protein of the semaphorin family that in humans is encoded by the SEMA4D gene.
+
+Semaphorin-4F is a protein that in humans is encoded by the SEMA4F gene.
+
+Semaphorin-4G is a protein that in humans is encoded by the SEMA4G gene.
+
+Semaphorin-5A is a protein that in humans is encoded by the SEMA5A gene.
+
+Semaphorin-6A is a protein that in humans is encoded by the SEMA6A gene.
+
+Semaphorin-6C is a protein that in humans is encoded by the SEMA6C gene.
+
+Semaphorins are a large family of conserved secreted and membrane associated proteins which possess a semaphoring (Sema) domain and a PSI domain (found in plexins, semaphorins and integrins) in the N-terminal extracellular portion.
+
+Semaphorins are a large family of secreted or membrane-bound proteins that mediate repulsive effects on axon pathfinding during nervous system development.
+
+Semaphorins represent important molecular signals controlling multiple aspects of the cellular response that follows CNS injury, and thus may play an important role in neural regeneration.
+
+Semaphorins serve as axon guidance ligands via multimeric receptor complexes, some (if not all) containing plexin proteins.
+
+Semaphorins were named after the English word Semaphore, which originated from Greek, meaning sign-bearer.
+
+Semapimod (INN), formerly known as CNI-1493, is an investigational new drug which has anti-inflammatory, anti-cytokine, immunomodulatory, antiviral and antimalarial properties.
+
+SEMAP is partially funded by the Massachusetts Department of Agricultural Resources, which oversees efforts by both the state as well as groups and organizations to keep the state's agriculture both economically and environmentally sound.
+
+Semaq Beri or Semoq Beri people are the native Orang Asli people belonging to the Senoi branch, who live in the states of Pahang and Terengganu in peninsular Malaysia.
+
+Semaq Beri (Semoq Beri) is an Austroasiatic language spoken in the Malay Peninsula in the states of Pahang and Terengganu.
+
+Sema Ragalai is a 2004 Tamil comedy film directed by Ramkumar.
+
+Semarak Stadium is a football stadium in the Sawah Lebar District city of Bengkulu, Indonesia.
+
+Semarang is a regency (Indonesian: kabupaten) in Central Java province in Indonesia.
+
+Semarang Poncol Station (Dutch:Pontjol) is a historic railway station in Semarang, Indonesia.
+
+Semarang Tawang Station is the biggest train station in Semarang, the capital city of Central Java, Indonesia.
+
+Semarang United Football Club is an Indonesian football club based in Semarang, Central Java.
+
+Semarapura is the capital city of the Klungkung Regency in Bali, Indonesia.
+
+Semara Ratih, is a Hindu lunar goddess worshiped in Java and Bali.
+
+Semari Khurd is a village in the Bhopal district of Madhya Pradesh, India.
+
+Semar is a character in Javanese mythology who frequently appears in wayang shadow plays.
+
+Semari Taluka Purwa is a village in Allahabad, Uttar Pradesh, India.
+
+Semariya is a town and a nagar panchayat and Legislative Assembly Area in Rewa district in the Indian state of Madhya Pradesh.
+
+Semariya Vidhan Sabha constituency is one of the 230 Vidhan Sabha (Legislative Assembly) constituencies of Madhya Pradesh state in central India.
+
+Sema Soygenis is an architect and professor in Istanbul.
+
+Sema Station is a station on Seoul Subway Line 1 in the city of Osan, South Korea.
+
+Sematan Airport (IATA: BSE, ICAO: WBGN) is located in Sematan, Malaysia.
+
+Sematawy (II) succeeded his father as High Priest of Hathor.
+
+Sematawytefnakht or Somtutefnakht and other variants (floruit 330s BCE), was an ancient Egyptian high official, known for having witnessed the conquest of Persian Egypt by the hands of Alexander the Great.
+
+SEMATECH (from Semiconductor Manufacturing Technology) is a not-for-profit consortium that performs research and development to advance chip manufacturing.
+
+Sematophyllaceae is a family of mosses.
+
+Sematoptis is a genus of moth in the family Cosmopterigidae.
+
+SEMAT (Software Engineering Method and Theory) is an initiative to reshape software engineering such that software engineering qualifies as a rigorous discipline.
+
+Sematuridae is a family of moths in the lepidopteran order that contains two subfamilies (Minet and Scoble, 1999).
+
+Sematurinae is a subfamily of moths in the family Sematuridae, represented by at least 29 species in the Neotropics.
+
+Semat was an Ancient Egyptian Queen, who was a wife of the King Den.
+
+Semat was not the only woman identified from funerary stela.
+
+Semau is also used as a holiday village where snorkeling, swimming, and other water sports are popular.
+
+Sema vs. COMELEC (G.
+
+R. No. 177597, 2008) is a court case that was heard before the Supreme Court of the Philippines.
+
+Semaxanib is a potent and selective synthetic inhibitor of the Flk-1/KDR vascular endothelial growth factor (VEGF) receptor tyrosine kinase.
+
+Semaxanib (SU5416) is a tyrosine-kinase inhibitor drug designed by SUGEN as a cancer therapeutic.
+
+Semax has not been evaluated, approved for use, or marketed in other countries such as the United States.
+
+Semax is a drug which is used mostly in Russia and Ukraine for a broad range of conditions but predominantly for its purported nootropic, neuroprotective, and neurogenic/neurorestorative properties.
+
+Semayne's Case (January 1st, 1604) 5 Coke Rep. 91, is an English common law case reported by Sir Edward Coke, who was then the Attorney General of England.
+
+Semazen is the name for Whirling Dervishes in Sufi tradition.
+
+Sembabule District is a district in the Central Region of Uganda.

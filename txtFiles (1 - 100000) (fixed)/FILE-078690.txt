@@ -1,0 +1,309 @@
+The software takes into account all structural geology data such as dip, dip directions, strike, hingelines and axialtrace to build the geometry of geological units.
+
+The Software Testing Automation Framework (STAF) is an open source EPL (Eclipse Public License) project that enables users to create cross-platform, distributed software test environments.
+
+The software thereby tries to shift algorithm development capability from the software engineer to the user and practitioner.
+
+The software they create enables screen magnification, screen reading and use of refreshable Braille displays with modern computers.
+
+The software titles were also released in the French language by Emme Interactive.
+
+The software to create PAD files and the software to poll them for changes and updates is community effort provided by members of the ASP.
+
+The software tool is used by both assistants and the clients or a company managing the assistance.
+
+The software tool-set is designed specifically to transform sound samples mostly via offline processing (non-real time); the software is considered complementary to real-time processing and audio sequencers.
+
+The Software Toolworks both developed and published the MS-DOS and Super NES versions in 1993, while the NES version was developed by Radical Entertainment and published by The Software Toolworks in 1994.
+
+The Software Toolworks, Ltd. was a United States computer software company started in February 1980 in Sherman Oaks, California.
+
+The software tracks accounts, loans, bills, investments and budgets.
+
+The software typically works in conjunction with Internet usage to control or limit the amount of information made available to third parties.
+
+The software update adds the ability to select images for the AutoCollage, a richer integration with Windows Live Photo Gallery, support for network folders and the ability to define custom output sizes.
+
+The software update of Nokia Asha 302 is Mail for Exchange supported.
+
+The Software Updater cannot uninstall updates, although this can be accomplished by other package managers such as Ubuntu Software Center and more technically advanced ones such as Synaptic.
+
+The Software Upgrade Protocol (or SUP) System is a set of programs developed by Carnegie Mellon University in the 1980s (as was the Andrew File System).
+
+The software used JavaBeans technology.
+
+The software used Microsoft Agent technology similar to Office Assistant, and originally sported Peedy, a green parrot and one of the characters available with Microsoft Agent.
+
+The software used to be a DirectX instrument plugin, but became solely VSTi from version 1.
+
+08 on.
+
+The software uses a form of compression to increase the number of characters in each text message to 210.
+
+The software uses an online database of installers (called scripts) that are applied to different applications that need special configuration.
+
+The software uses Apple Computer's QuickTime VR, a technology which enables users to view every side of 3D rendered objects, and includes a virtual tour given by Jonathan Frakes (in his role as William Riker from the TV series).
+
+The software uses a proprietary file format identified by the .
+
+FSC file extension.
+
+The software uses a proprietary spline mesh technology to perform modeling and animation, and it is different in this sense from polygon mesh or NURBS-based programs.
+
+The software uses a proprietary system known as "SearchCube", (an OLAP server formerly known as MatchMaker), which is largely based on the Levenshtein distance.
+
+The software uses a technique called points of visibility path finding, where the agent takes into account dynamic obstacles and agent shape when navigating between points.
+
+The software uses brushing and linking techniques for displaying the numeric value of a highlighted country.
+
+The software uses cached data from network file servers that displays folders and drive mappings as if the user were connected to the enterprise network.
+
+The software uses evolutionary search to determine mathematical equations that describe sets of data in their simplest form.
+
+The software uses GoPro Odyssey with the HERO 4 module.
+
+The software uses GPS technology equipped in busses to relay real-time location information to passengers via internet-enabled devices (particularly smartphones), SMS messages, or countdown clocks installed at bus stops.
+
+The software uses methods known as SIFT and RANSAC.
+
+The software uses the Amazon S3 service from Amazon Web Services or Google Cloud Storage as the cloud storage service but also supports private cloud solutions such as OpenStack Swift or Walrus by Eucalyptus via the open source ZCloud API.
+
+The software uses the Java language, contains a fully integrated JavaDB database, is platform-independent, and is freely available.
+
+The software uses the Ken Burns Effect on digital photos and allows adding narration, effects, transitions and background music to create a Windows Media Video movie file with pan and zoom effects.
+
+The software uses the Windows API for its interface.
+
+The software utility was originally intended as a tape archiving program as part of the Programmer's Workbench (PWB/UNIX), and has been a component of virtually every Unix operating system released thereafter.
+
+The software utilizes an SQL database and enables tracking of customer purchase totals that cooperatives use in calculating patronage refunds for their members.
+
+The software utilizes its algorithms to automatically allocate, manage and optimize clients' assets.
+
+The software utilizes Microsoft's Visual Experience Engine technologies to function.
+
+The software was acquired by Digimage Arts in 2002 and is sold in versions for Windows and Mac operating systems.
+
+The software was actually designed by Computer Sciences Corporation (Fletcher Jones, Roy Nutt, and Robert L. Patrick) under contract to Richard Clippinger of Honeywell.
+
+The software was adapted and ported to the DCT4 platform at Nokia Copenhagen, Denmark by members of the S30 group.
+
+The software was also first advertised as a small classified advert in QL World magazine, but soon became a flagship product for the company formed to sell it, Sector Software.
+
+The software was announced on August 22, 2007 by Sony Computer Entertainment Europe at the 2007 Leipzig Games Convention, and was released on February 29, 2008.
+
+The software was a program generator, as distinct from an actual programming language, as programs were generated by the user selecting options from menus that would form the basis of the generated code.
+
+The software was available as an annual paid subscription, which could be used on up to three computers.
+
+The software was available to download onto computers running Windows, Mac or Linux, as well as Android and iOS smartphones and tablets.
+
+The software was awarded Gold by Acorn User magazine.
+
+The software was bought in 2006 by Trimble Navigation (now Trimble, Inc.) and further developed at Trimble Alignment Planning Solutions in Melbourne, Australia.
+
+The software was built to facilitate public consultation during the Version 3 draft process of the GNU General Public License.
+
+The software was built using Mozilla's Gecko browser engine, and was initially based on Thunderbird, Mozilla's own e-mail software.
+
+The software was copy protected with a hardware dongle.
+
+The software was created as an independently developed homebrew media player application named Xbox Media Center (abbreviated as XBMC) for the first-generation Xbox game console, and was later made available under the name XBMC as a native application for Android, Linux, BSD, Raspbian, macOS, iOS/tvOS, and Microsoft Windows-based operating systems.
+
+The software was created at FriendFeed and was open-sourced after FriendFeed was acquired by Facebook in 2009.
+
+Taylor attended Stanford University, where he earned his bachelor's degree (2002) and master's degree (2003) in computer science.
+
+The software was created by Database Austin and is available under the GNU General Public License.
+
+The software was created by Keith Halper, Mike Okuda, Rick Sternbach, John Knoll; Eric Zarakov and the Apple Advanced Technology Group; Peter Mackey and the Imergy Software Development Team.
+
+The software was created by Momote Ltd who have since changed their trading name to the product name: MyMobileWorkers.
+
+The software was created to replace Program Manager on Windows 3.
+
+x and the shell on Windows 95.
+
+The software was designed primarily for announcements, so the interface was extremely simple.
+
+The software was designed to replace standard physical music editing techniques in industries using commercial music catalogs, including soundtrack temping, radio and television advertising, film/video sound scoring, and theme production.
+
+The software was designed with the audience of clinical and basic science researchers in mind, and emphasis has been placed on having a user-friendly interface and maintaining a limited feature set to prevent feature creep.
+
+The software was developed at Vilnius University, located in Lithuania which was a republic of the Soviet Union at the time.
+
+The software was developed by Aaron Torpy, proprietor of Bundysoft.
+
+The software was developed by Big Top and the character Felix the Cat was licensed from Felix the Cat Productions.
+
+The software was developed by CADSoftTools in 2003.
+
+The software was developed by Chinese dissidents as a means of allowing internet users to bypass the Great Firewall of China.
+
+The software was developed by Edward Housman at the Signal Corps Research Laboratories Technical Information Division.
+
+The software was developed by Enalean, a company founded in 2011 and headquartered in France.
+
+The software was developed by Jake Dowie for both Windows and Macintosh operating systems.
+
+The software was developed by LULU Software, based in Montreal, Quebec, Canada.
+
+The software was developed by Michal Kocvara and Michael Stingl.
+
+The software was developed by Microsoft Research labs in Cambridge, England and launched on September 4, 2008.
+
+The software was developed by the Netherlands Organization for Applied Scientific Research (TNO) and is owned and distributed by TASS International Software and Services, headquartered in Helmond, the Netherlands.
+
+The software was developed by the United States Computer Emergency Readiness Team (US-CERT), which is the operational arm of the National Cyber Security Division (NCSD) of the United States Department of Homeland Security (DHS).
+
+The software was developed by two brothers at Simian Squared as part of an ongoing effort to bring new experiences to app users and gamers alike by merging the two fields.
+
+The software was developed by two brothers, Paul and David King; after they experienced similar frustrations while working freelance, the brothers wanted to create a product that would let them track time, expenses and business miles in a single online location.
+
+The software was developed first at University of Virginia in 1994, then Carnegie Mellon (from 1997), by a research group led by Randy Pausch.
+
+The software was developed using seed money from the CIA, and TriangleBoy was supported in part by the Voice of America as a way for Chinese readers to be able to reach the VoA website while bypassing China's Great Firewall.
+
+The softwarewas developed with an interface which allows user to change the skin view or other graphic elements as the wallpaper.
+
+The software was discontinued as of June 7, 2016.
+
+The software was engineered for the Microsoft Windows and UNIX operating systems.
+
+The software was eventually marketed as an enterprise content management system under the brand/product name OpenPages Composer.
+
+The software was first designed for application to the study of wild potatoes in South America.
+
+The software was first developed as a way to allow illiterate animal trackers to communicate their environmental observations.
+
+The software was first publicly released in 2010.
+
+The software was first released in 2011; the latest version 2.
+
+0 was released in 2015.
+
+The software was first released in late 2009.
+
+The software was first released on 12 March 2009 (version 1.
+
+0).
+
+The software was forked from the XBMC project (now known as Kodi and formerly known as Xbox Media Player) after XBMC removed support for the Xbox console.
+
+The software was generally available to customers starting on September 4, 2012.
+
+Unlike its predecessor, Windows Server 2012 has no support for Itanium-based computers, and has four editions.
+
+The software was granted by UC Irvine's Office of Technology Alliances to ALEKS Corporation under an exclusive, worldwide, perpetual license.
+
+The software was in alpha stage, and was referred to as a "web operating system" by WebShaka.
+
+The software was included in Oracle's acquisition of Bharosa.
+
+The software was initially developed as part of a 2009 workshop at Johns Hopkins University.
+
+The software was initially developed by Chris Morley; since 2000 the project has been led by Braden McDaniel.
+
+The software was initially known as the BI Accelerater.
+
+The software was initially launched as an iPad application in September 2011.
+
+The software was initially released in November 2004, with $250,000 in sales in its first month.
+
+The software was later reported to have been an elaborate "hoax" and Montgomery's former lawyer Michael J. Flynn called him a "con artist" and "habitual liar engaged in fraud".
+
+The software was launched in 2009 by Markus Goldbach and Johannes Knabe.
+
+The software was launched in September 2011 through Disrupt SF 2011 event and recently selected to the finalist of SXSW 2012 in Innovative Web Technology category.
+
+The software was licensed to Wavefront Technologies in 1992, and passed through to the merged company Alias/Wavefront.
+
+The software was licensed under a modified version of GNU GPL until 2014, when a rewritten version 2.
+
+0.
+
+0 was released for beta testing under a proprietary license.
+
+The software was named after the concept of Laplace's demon, which refers to a hypothetical being capable of predicting the universe.
+
+The software was obtained by Oracle as part of the company's acquisition of Sun in 2010.
+
+The software was originally called "StencylWorks" while in development and for the initial release, but was later shortened to just "Stencyl".
+
+The software was originally created by the Smallworld company founded in Cambridge, England, in 1989 by Dick Newell and others.
+
+The Software was originally designed to compete with Apple's Siri Virtual Assistant and to bring the functionality to Android devices, which are incompatible with Siri.
+
+The software was originally developed along with ModPlug Tracker, now known as OpenMPT, and modernized ModPlug engine is now used for decoding module files in OpenSource multimedia framework gstreamer under the name libmodplug.
+
+The software was originally developed by a company called Ark Interface, which was acquired by Packard Bell in 1994.
+
+The software was originally developed by Atomistix A/S, and was later acquired by QuantumWise following the Atomistix bankruptcy.
+
+The software was originally developed by Ventura Software, a small software company founded by John Meyer, Don Heiskell, and Lee Jay Lorenzen, all of whom met while working at Digital Research.
+
+The software was originally developed by VMware and then transferred to Pivotal Software, a joint venture by EMC, VMware and General Electric.
+
+The software was originally developed in 2005 for conservationists to keep in touch with communities in Kruger National Park in South Africa.
+
+The software was originally hosted on CadSoft's server.
+
+The software was originally inspired by the Tierra system.
+
+The software was originally produced by Arabesque Software in 1993, then purchased by NetManage, and discontinued in 1997.
+
+The software was originally produced by the Orton Family Foundation and in 2005 was handed off to Placeways LLC.
+
+The software was originally released in 1998 as The Paperless Office.
+
+The software was originally released in 2000 as a Personal Video Station.
+
+The software was originally released under the name Publishing Partner for the Atari ST in 1986.
+
+Autotracing application BME included.
+
+The software was originally titled "Supercomp-20".
+
+The software was originally written by Chris Zagar in 1999 who founded Useful Utilities LLC to support it.
+
+The software was originally written by Michael Thomas of Synthetic Technologies and later sold to Joseph Hodge of Lightspeed Technologies.
+
+The software was originally written for PowerPC Macs, so Macs with Intel CPUs must run the program under Mac OS X's Rosetta emulation layer.
+
+The software was originally written in QL Basic on the Sinclair QL, this was compiled with the Digital Precision Superbasic Compiler and released on Sinclair Microdrive cartridges for the Sinclair QL computer.
+
+The software was originally written to run on OS/2 2.
+
+0.
+
+The software was planned to provide anonymity for instant messaging and Internet Relay Chat.
+
+The software was ported to a wide set of Unix and Linux variants.
+
+The software was positioned as a companion to then-Fractal Design/MetaCreations Painter.
+
+The software was presented in 1999 at SIGGRAPH.
+
+The software was previously called Konfabulator, but after being acquired by computer services company Yahoo on July 25, 2005 it was rebranded.
+
+The software was primarily used around Melbourne until the Internet killed the old bulletin boards.
+
+The software was produced at the Center for Electronic Media Art (CEMA), Monash University, Australia.
+
+The software was released as a public beta on 6 June 2006.
+
+The software was released by the Church of Scientology in 1998 for Church members using Windows 95.
+
+The software was released by the not-for-profit Compendium Institute.
+
+The software was released for public use on June 12, 2002.
+
+The software was released in 1964 for the GE 235 computer.
+
+The software was released in 2006 with the latest update being from 2009.
+
+The software was released into open beta in February, 2017.
+
+The company received an investment of $500 million from SoftBank in May, 2017.
+
+The software was similar to that in other Ericsson phones of the period and the package offered voice dialing, vibrating call alert, and data/fax capabilities.

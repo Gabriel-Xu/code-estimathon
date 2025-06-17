@@ -1,0 +1,55 @@
+In May 1934, when Kanazawa was a Kyoto Imperial University student, he was selected the Japan national team for Far Eastern Championship Games in Manila. At this competition, on May 13, he debuted against Dutch East Indies. On May 15, he also played against Philippines. He played 2 games for Japan in 1934.!
+
+Total||2||0Yukio GotoGoto was born in Kobe. He played for Kwangaku Club which was consisted of his alma mater Kwansei Gakuin University players and graduates. He won 1929 and 1930 Emperor's Cup at the club.
+
+In May 1930, when Goto was a Kwansei Gakuin University student, he was selected the Japan national team for Far Eastern Championship Games in Tokyo and Japan won the championship. At this competition, on May 25, he debuted against Philippines. In 1934, he was also selected Japan for Far Eastern Championship Games in Manila. At this competition, he played 2 games as Japan team captain. He played 4 games for Japan until 1934.
+
+Goto died in 1976.!
+
+Total||4||0Akira NozawaNozawa was born in Hiroshima Prefecture. In May 1934, when he was a Waseda University student, he was selected the Japan national team for Far Eastern Championship Games in Manila. At this competition, on May 13, he debuted against Dutch East Indies. He also played against Philippines and Republic of China. He played 3 games and scored 3 goals for Japan in 1934.!
+
+Total||3||3Teiichi MatsumaruMatsumaru was born in Bunkyo, Tokyo on February 28, 1909. He played for Keio BRB which was consisted of his alma mater Keio University players and graduates. At Keio BRB, he won 1932 and 1936 Emperor's Cup. He also played for Tokyo OB Club and won 1933 Emperor's Cup with Shigemaru Takenokoshi and Shiro Teshima.
+
+In May 1934, Matsumaru was selected the Japan national team for Far Eastern Championship Games in Manila. At this competition, on May 13, he debuted against Dutch East Indies. He also played against Philippines and Republic of China. He played 3 games for Japan in 1934.
+
+Matsumaru died on January 6, 1997 at the age of 87. In 2015, he was selected Japan Football Hall of Fame.!
+
+Total||3||0Convex functionThree examples are:Koichi OitaOita was born in Tokyo Metropolis on April 9, 1914. In 1936, when he was a Tokyo Imperial University student, he was selected the Japan national team for 1936 Summer Olympics in Berlin. At this competition, on August 4, he debuted against Sweden. Although he was a midfielder, he played as a defender. Japan completed a come-from-behind victory against Sweden. The first victory in Olympics for the Japan and the historic victory over one of the powerhouses became later known as "Miracle of Berlin" () in Japan. In 2016, this team was selected Japan Football Hall of Fame. On August 7, he also played against Italy. He played 2 games for Japan in 1936.
+
+After retirement, in 1947, Oita became a manager for new club Sumitomo Metal and managed until 1956.
+
+September 11, 1996, Oita died of heart failure in Bunkyo, Tokyo at the age of 82.!
+
+Total||2||0Weighted averageA weighted average is the average of values which are scaled by importance. The weighted average equals the sum of weights times values divided by the sum of the weights.
+
+This collection of four integers is called a multiset because the integer formula_1 appears more than once:The straight average (or arithmetic mean) of these four variables is the sum divided by formula_3:In the above equation, we used the overline to express the fact that this is the average over four variables. These variables can also be expressed using subscripts:You get the same answer by calculating this as a "weighted average" of three variables. But you need to include a weight-value of formula_6 for the integer formula_1:Here the hat formula_9 is used to mark weight values, which represent how many times each of the three values formula_10 appear. While it is not common to put hats over numbers in calculations, this formula_11 representation allows us to see how the weights influence the calculation. We can also write the weighted average as:In conclusion, we have shown how an "arithmetic mean" over four variables (1, 3, 3, 5) can be understood as a weighted average over only three variables (1, 3, 5). This is accomplished by multiplying the repeated variable formula_1 by the number of times it is repeated (two).
+
+To understand how to express this using summation notation, we place a tilde formula_14 over variables that involve the weighted average. First we define:Note that the sum of the three weights equals formula_3:The ordinary average (with four terms) equals the weighted average (with three terms):Simplify this by replacing formula_19 with the sum over all the weights:Given two school classes, one with 20 students, and one with 30 students, the grades in each class on a test were:The straight average for the morning class is 80 and the straight average of the afternoon class is 90. The straight average of 80 and 90 is 85, the mean of the two class means. But this does not account for the difference in number of students in each class, so the value of 85 does not reflect the average student grade (independent of class). The average student grade can be calculated by averaging all the grades, without regard to classes (add all the grades up and divide by the total number of students):Or, this can be accomplished by weighting the class means by the number of students in each class (using a weighted mean of the class means):Thus, the weighted mean makes it possible to find the average student grade in the case where only the class means and the number of students in each class are available.
+
+Epigraph (mathematics)In mathematics, the epigraph of a function is the set of paired values so the output of the function at the first value is less than or equal to the second value. In math terms this means formula_1 if and only if formula_2.
+
+Kunitaka SueokaSueoka was born in Hiroshima Prefecture on February 1, 1917. He played for Waseda University. He won 1938 Emperor's Cup with Sei Fuwa, Sekiji Sasano, Shogo Kamo, Hidetoki Takahashi and so on. He also won the 2nd place at 1939 Emperor's Cup. He also played for Waseda WMW which was consisted of his alma mater Waseda University players and graduates. At the club, he won the 2nd place at 1940 Emperor's Cup. This tournament was the last Emperor's Cup before the war because Emperor's Cup was suspended for World War II from 1941 to 1945.
+
+On June 16, 1940, when Sueoka was a Waseda University student, he debuted for the Japan national team against Philippines and Japan won the match. This match was the first match since 1936 Summer Olympics and the only match in the 1940s in Japan's "International A Match" due to World War II.
+
+Sueoka died in November 1998 at the age of 81.!
+
+Total||1||0Kim Sung-ganKim Sung-Gan (Hangul:김성간, November 17, 1912 – May 19, 1984) was a South Korean athlete. He is best known as an association football player. He was a member of the Japan national team in 1940.!
+
+Total||1||0Taro KagawaKagawa was born in Kobe on August 9, 1922. After graduating from Kobe University of Economics, he joined Tanabe Pharmaceutical in 1948. He also played for Osaka SC. At Osaka SC, he won the 2nd place at Emperor's Cup 3 times (1951, 1952 and 1953).
+
+In March 1951, Kagawa was selected to the Japan national team for Japan's first game after World War II, at the 1951 Asian Games. At this competition, on March 7, he debuted against Iran. He also played at the 1954 Asian Games. He played 5 games for Japan until 1954.
+
+Kagawa died on March 6, 1990 at the age of 67. In 2006, he was selected to the Japan Football Hall of Fame.!
+
+Total||5||0David CoverdaleDavid 'Jack' Coverdale (born 22 September 1951) is an English rock singer. He is most famous for his work with hard rock band Whitesnake. The band was very successful commercially. During his early career Coverdale was the vocalist of Deep Purple for some time. He left the band to become a solo artist, and worked with Whitesnake. He also made an album with Led Zeppelin guitarist Jimmy Page. This was also successful.
+
+Coverdale was born on 22 September 1951, in Saltburn-by-the-Sea, Redcar and Cleveland, England. His love for music developed early. Around the age of 14, he began performing professionally as he wanted to be a singer. He developed his style of singing then. "I don't think my voice had broken," he explained to "Sounds" in 1974. "And that's when I first learnt how to sing with my stomach, which sounds silly, but it's totally different from a normal voice." Coverdale had been the vocalist local bands like The Government (1968–1972); Fabulosa Brothers (1972–73).
+
+In 1973, Coverdale saw an article in a copy of "Melody Maker", which said that Deep Purple was auditioning for singers to replace Ian Gillan. Coverdale was the frontman of a local group called The Government. They had played with Deep Purple in 1969. So both he and the band knew one another. Coverdale first sent a tape to the band. Then, he auditioned to become a singer. He was admitted into the band, with bassist Glenn Hughes being another vocalist.
+
+In February 1974, Deep Purple released their first album with Coverdale and Hughes called "Burn" which was certified Gold in the US on 20 March 1974 and in the UK on 1 July. In April 1974, Coverdale and Deep Purple performed to over 200,000 music fans at the California Jam. . This was his first trip to America.
+
+In December 1974 "Burn" was followed-up by "Stormbringer". This also ranked at Gold album status in the US and the UK. The album had funk and sould influences. So guitarist Ritchie Blackmore left the band in June 1975.
+
+Coverdale did not want Deep Purple to disband. He helped in persuading the band to continue with American guitarist Tommy Bolin (of Billy Cobham and The James Gang). So Jon Lord said, "David Coverdale came up to me and said, 'Please keep the band together.' David played me the album that Tommy did with Billy Cobham. We liked his playing on it and invited Tommy to audition.'" The band released one studio album with Bolin, "Come Taste the Band" in 1975. The album was less successful than previous records. At the end of the tour in March 1976, Coverdale walked off in tears. He handed in his resignation. But he was told Deep Purple was disbanding. So he had no band left to quit. The decision to disband Deep Purple had been made some time before the last show by Lord and Ian Paice (the last remaining original members). Lord and Paice had not told anyone else. The break-up was finally made public in July 1976. Said Coverdale in an interview: "I was frightened to leave the band. Purple was my life, Purple gave me my break, but all the same I wanted out."

@@ -1,0 +1,47 @@
+Virtual output queueing (VOQ) is a technique used in certain network switch architectures where, rather than keeping all traffic in a single queue, separate queues are maintained for each possible output location.
+
+Virtual Pascal is a free 32-bit Pascal compiler, IDE, and debugger for OS/2 and Microsoft Windows, with some limited Linux support.
+
+Virtual Pascal was developed by Vitaly Miryanov and later maintained by Allan Mertner.
+
+Virtual PC is Microsoft's related desktop virtualization software package.
+
+Virtual PC virtualizes a standard IBM PC compatible device and its associated hardware.
+
+Virtual periscope is a system that allows submerged submarines to observe the surface above them without having to come to a shallower depth, as is required by traditional periscopes.
+
+Virtual Pinball is an update/sequel to EA's 1983 title, Pinball Construction Set.
+
+Virtual pitch is a pitch at the missing fundamental of a harmonic complex tone.
+
+Virtual pitch is contrasted to spectral pitch, which is the pitch of a pure tone or spectral component.
+
+Virtual player piano software can simultaneously play MIDI / score music files, highlight the piano keys corresponding to the notes and highlight the sheet music notes.
+
+Virtual Playground is a software company producing many tycoon or business simulation games primarily for the PC platform, but their works do also extend to the Nintendo DS.
+
+Virtual Pool 2 (acronymed to VP2) is a 3D, first-person sports simulation video game developed by Celeris and released by VR Sports on behalf of Interplay Productions in 1997.
+
+Virtual Pool 3 is a 3D, first-person sports simulation video game, developed and released for the PC and PlayStation by Celeris.
+
+Virtual Pool 4 is a sports simulation video game developed and published by Celeris as an entry in the Virtual Pool franchise, a sequel to Virtual Pool 3.
+
+Virtual Pool (assigned the retronym Virtual Pool 1 after the release of sequels) is a 3D, first-person sports simulation video game released by Interplay Productions in 1995.
+
+Virtual Pool Hall is a sports simulation video game developed Celeris and published by Interplay Productions as an entry in the Virtual Pool franchise, an improvement and sequel to Virtual Pool 2 and PC sequel to Virtual Pool 64.
+
+Virtual Pool is a 3D, first-person sports simulation video game series with computer simulations of cue sports which was developed by Celeris.
+
+Virtual Pool releases are sold with a money back guarantee to improve a player's external game.
+
+Virtual population analysis (VPA) is a cohort modeling technique commonly used in fisheries science for reconstructing historical fish numbers at age using information on death of individuals each year.
+
+Virtual population analysis was introduced in fish stock assessment by Gulland in 1965 based on older work.
+
+Virtual Private LAN Service (VPLS) is a way to provide Ethernet-based multipoint to multipoint communication over IP or MPLS networks.
+
+Virtual Programming has worked with publishers such as Square Enix, 2K Games, Epic, Codemasters, Techland and CD Projekt Red.
+
+Virtual Programming is a video game publisher for OS X and Linux.
+
+Virtual Programming released a Mac OS X version of the game on May 9, 2013.

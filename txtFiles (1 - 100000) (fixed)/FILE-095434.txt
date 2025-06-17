@@ -1,0 +1,107 @@
+Washington (CNN) -- The suspect in Wednesday's shooting of a building manager at the headquarters of a conservative Christian group was charged Thursday with assault with intent to kill, ordered to undergo a mental health evaluation and held without bond. In his initial appearance in U.
+
+S. District Court, Floyd Lee Corkins II, 28, also was charged with interstate transportation of a firearm and ammunition. The assault charge is a District of Columbia offense that carries a maximum 30-year sentence. The federal firearms charge carries a 10-year maximum sentence. At about 11 a.
+
+m., Corkins entered the Washington office of the Family Research Council, where he encountered the building manager, Leo Johnson, at the front door, according to a criminal complaint that cited a witness. Corkins "stated words to the effect of, 'I don't like your politics,' " the witness told FBI agents, according to the complaint. Surveillance video shows that Corkins took a firearm from his backpack and shot Johnson in the arm, at which point the wounded Johnson "wrestled the firearm away from Corkins, and subdued him," according to the complaint. Corkins, who was wearing a white plastic jumpsuit during Thursday's court appearance, was ordered to remain in custody pending a prelimary and detention hearing on August 24. His right eye was red and appeared swollen. Magistrate Judge Alan Kay appointed a public defender after Corkins told him he had only $300 and could not afford to hire his own lawyer. A law enforcement official told CNN that initial evidence indicated Corkins was acting alone. Officials recovered a loaded Sig Sauer 9mm pistol and two additional loaded 9mm magazines, according to the complaint. Inside the backpack, police found 50 rounds of 9mm ammunition and 15 Chick-fil-A sandwiches, the complaint says. Family Research Council President Tony Perkins said the Chick-fil-A company gave the Family Research Council $1,000 "a number of years ago" but does not underwrite his group. And the Family Research Council, which which focuses on family and anti-abortion issues and religious liberties, supported Chick-fil-A President Dan Cathy after he said in an interview published last month that his company is "a family-owned business, a family-led business, and we are married to our first wives. We give God thanks for that." The statement sparked an uproar, with activists saying that Cathy voiced opposition to gay marriages. "The Chick-fil-A culture and service tradition in our restaurants is to treat every person with honor, dignity and respect -- regardless of their belief, race, creed, sexual orientation or gender," the company says in a posting on its website. Corkins "has strong opinions with respect to those he believes do not treat homosexuals in a fair manner," authorities said in the complaint, citing information from the suspect's parents, with whom he lives in Herndon, Virginia, outside Washington. In an interview with CNN affiliate WJLA, Johnson said Corkins told him he was there to interview for an internship, then shot him without warning. Johnson said it was after he had wrestled Corkins to the ground that the suspect told him the shooting was about the group's policies, according to WJLA. Authorities found what appeared to be an open gun box on the seat of his car, which had been parked at the East Falls Church Metro station, according to the complaint. Corkins legally purchased the handgun from a gun shop in Virginia within the last week, according to a law enforcement official. Corkins had volunteered at the DC Center for the LGBT Community, a source working with the center told CNN. The group provides services and support to lesbian, gay, bisexual and transgender people, . He received a master's degree from George Mason University's College of Education and Human Development in 2006, the university said. Family Research Council President Perkins told reporters Thursday that Johnson has a secondary role as a security guard, but that he was unarmed and did not wear a uniform. Perkins said that he was with the wounded building operations manager when the man came out of surgery about midnight. "I said, 'Leo, I want you to know that you're a hero.' " "He said, 'Wow, this hero business is hard work.' So, he did not lose his sense of humor." Perkins predicted Johnson would return to work soon. Warning signs of violence: What to do . While D.
+
+C. Police Chief Cathy Lanier and others have hailed Johnson as a hero, WJLA reported the 46-year-old told the station in a telephone interview that he was simply doing his job and is not comfortable being described as a hero. He told the station that Corkins spoke with him after he was apprehended. "He said it wasn't about me," Johnson said. "It was about the organization." Johnson's mother, Virginia Johnson, told the station her son is always trying to help people. "I think it's wonderful, wonderful," she said of his actions. By the numbers: Guns in America . After shootings, opinions on gun control haven't changed . White House spokesman Jay Carney declined to say whether the White House considers the attack a hate crime, but said President Barack Obama "firmly believes that violence of that kind has no place in our society." Presumptive Republican presidential nominee Mitt Romney used nearly identical language in decrying the attack on Wednesday. "There is no place for such violence in our society," he said in a statement. "My prayers go out to the wounded security guard and his family, as well as all the people at the Family Research Council whose sense of security has been shattered by today's horrific events." Opinion: Politicians hammered by the NRA . 5 things gun owners want you to know . CNN's Greg Seaby, Javi Morgado, Paul Courson, Sandra Endo, Mike M. Ahlers and Dan Gilgoff contributed to this report.
+
+CHICAGO --- You can fake a smile, but your phone knows the truth. Depression can be detected from your smartphone sensor data by tracking the number of minutes you use the phone and your daily geographical locations, reports a small Northwestern Medicine study.
+
+The more time you spend using your phone, the more likely you are depressed. The average daily usage for depressed individuals was about 68 minutes, while for non-depressed individuals it was about 17 minutes.
+
+Spending most of your time at home and most of your time in fewer locations -- as measured by GPS tracking -- also are linked to depression. And, having a less regular day-to-day schedule, leaving your house and going to work at different times each day, for example, also is linked to depression.
+
+Based on the phone sensor data, Northwestern scientists could identify people with depressive symptoms with 87 percent accuracy."
+
+The significance of this is we can detect if a person has depressive symptoms and the severity of those symptoms without asking them any questions," said senior author David Mohr, director of the Center for Behavioral Intervention Technologies at Northwestern University Feinberg School of Medicine. "We now have an objective measure of behavior related to depression. And we're detecting it passively. Phones can provide data unobtrusively and with no effort on the part of the user."
+
+The research could ultimately lead to monitoring people at risk of depression and enabling health care providers to intervene more quickly.
+
+The study will be published July 15 in the Journal of Medical Internet Research.
+
+The smart phone data was more reliable in detecting depression than daily questions participants answered about how sad they were feeling on a scale of 1 to 10. Their answers may be rote and often are not reliable, said lead author Sohrob Saeb, a postdoctoral fellow and computer scientist in preventive medicine at Feinberg."
+
+The data showing depressed people tended not to go many places reflects the loss of motivation seen in depression," said Mohr, who is a clinical psychologist and professor of preventive medicine at Feinberg. "When people are depressed, they tend to withdraw and don't have the motivation or energy to go out and do things."
+
+While the phone usage data didn't identify how people were using their phones, Mohr suspects people who spent the most time on them were surfing the web or playing games, rather than talking to friends."
+
+People are likely, when on their phones, to avoid thinking about things that are troubling, painful feelings or difficult relationships," Mohr said. "It's an avoidance behavior we see in depression."
+
+Saeb analyzed the GPS locations and phone usage for 28 individuals (20 females and eight males, average age of 29) over two weeks. The sensor tracked GPS locations every five minutes.
+
+To determine the relationship between phone usage and geographical location and depression, the subjects took a widely used standardized questionnaire measuring depression, the PHQ-9, at the beginning of the two-week study. The PHQ-9 asks about symptoms used to diagnose depression such as sadness, loss of pleasure, hopelessness, disturbances in sleep and appetite, and difficulty concentrating. Then, Saeb developed algorithms using the GPS and phone usage data collected from the phone, and correlated the results of those GPS and phone usage algorithms with the subjects' depression test results.
+
+Of the participants, 14 did not have any signs of depression and 14 had symptoms ranging from mild to severe depression.
+
+The goal of the research is to passively detect depression and different levels of emotional states related to depression, Saeb said.
+
+The information ultimately could be used to monitor people who are at risk of depression to, perhaps, offer them interventions if the sensor detected depression or to deliver the information to their clinicians.
+
+Future Northwestern research will look at whether getting people to change those behaviors linked to depression improves their mood."
+
+We will see if we can reduce symptoms of depression by encouraging people to visit more locations throughout the day, have a more regular routine, spend more time in a variety of places or reduce mobile phone use," Saeb said.###
+
+This research was funded by research grants P20 MH090318 and K08 MH 102336 from the National Institute of Mental Health of the National Institutes of Health. ||||| Conclusions: Features extracted from mobile phone sensor data, including GPS and phone usage, provided behavioral markers that were strongly related to depressive symptom severity. While these findings must be replicated in a larger study among participants with confirmed clinical symptoms, they suggest that phone sensors offer numerous clinical opportunities, including continuous monitoring of at-risk populations with little patient burden and interventions that can provide just-in-time outreach.
+
+Results: A number of features from GPS data were related to depressive symptom severity, including circadian movement (regularity in 24-hour rhythm; r =-.
+
+63, P =.
+
+005), normalized entropy (mobility between favorite locations; r =-.
+
+58, P =.
+
+012), and location variance (GPS mobility independent of location; r =-.
+
+58, P =.
+
+012). Phone usage features, usage duration, and usage frequency were also correlated ( r =.
+
+54, P =.
+
+011, and r =.
+
+52, P =.
+
+015, respectively). Using the normalized entropy feature and a classifier that distinguished participants with depressive symptoms (PHQ-9 score ≥5) from those without (PHQ-9 score <5), we achieved an accuracy of 86.
+
+5%. Furthermore, a regression model that used the same feature to estimate the participants’ PHQ-9 scores obtained an average error of 23.
+
+5%.
+
+Methods: A total of 40 adult participants were recruited from the general community to carry a mobile phone with a sensor data acquisition app (Purple Robot) for 2 weeks. Of these participants, 28 had sufficient sensor data received to conduct analysis. At the beginning of the 2-week period, participants completed a self-reported depression survey (PHQ-9). Behavioral features were developed and extracted from GPS location and phone usage data.
+
+Objective: The objective of this study was to explore the detection of daily-life behavioral markers using mobile phone global positioning systems (GPS) and usage sensors, and their use in identifying depressive symptom severity.
+
+Background: Depression is a common, burdensome, often recurring mental health disorder that frequently goes undetected and untreated. Mobile phones are ubiquitous and have an increasingly large complement of sensors that can potentially be useful in monitoring behavioral patterns that might be indicative of depressive symptoms.
+
+IntroductionDepression is a common mental disorder. Estimates of the 12-month prevalence rate for major depressive disorder range from 6.
+
+6-10.
+
+3%, while lifetime risk has been estimated at 16.
+
+6-17.
+
+1% [ - ]. Subthreshold depressive symptoms are far more common [ ], causing significant impairment in people’s lives and putting them at risk for future mental health concerns [ ]. Depression, at both diagnosable and subthreshold levels, imposes a very high societal burden in terms of cost, lost productivity, morbidity, suffering, and mortality [ - ] and is a leading cause of disability and disease burden worldwide [ ]. By the year 2020, the World Health Organization estimates that depression will be the second largest cause of “lost years of healthy life” worldwide [ ].
+
+Depression is treatable using a variety of methods, including antidepressants and psychotherapy; however, very few people who need treatment receive it [ ]. It often takes months or years for depression to be identified and treated in our health care system, when it is treated at all [ ]. One of the most common settings where depression is managed is primary care [ , ]; however, primary care physicians might fail to identify most patients with depressive symptoms [ , ]. Thus, more efficient methods of monitoring could significantly improve the delivery of services to those in need.
+
+Mobile phones are becoming the most ubiquitous consumer device in our world. Equipped with powerful sensing, computation, and communication capabilities, mobile phones—specifically smartphones—can continuously monitor an individual’s context including physical activity, location, and environment. Depression is associated with several behavioral components (eg, reduction in activity, psychomotor retardation, changes in sleep) and motivational states (eg, anhedonia), some of which may be detectable using mobile phone sensors [ , ]. Thus, mobile phones hold significant promise as a platform to monitor behavioral and environmental indicators of risk and resilience and to improve long-term management and treatment delivery to people suffering from depression.
+
+Indeed, some work has shown promise in this area. A first study in our group found that phone sensor data could detect social patterns among depressed patients, but this was a small study with only 8 participants [ ]. Other groups have found that phone sensors were effective at detecting social and sleep behaviors among patients with depression [ , ], and such features correlated significantly with severity of depressive symptoms [ ].
+
+The aim of this study was to extend previous work by focusing specifically on behavioral markers related to movement through geographic space, which we hypothesized would be related to depressive symptom severity, given depression results in decreased motivation, withdrawal, and activity. In addition, excessive use of mobile phones is considered compulsive behavior and has been linked to some symptoms of depression [ , ]. Thus, we also explored the relationship of depression symptom severity to the use of the phone that was used to collect the sensor data. To achieve these aims, we used our mobile phone app, Purple Robot [ , ], to collect global positioning system (GPS) location and phone usage data from participants with varying levels of depression severity. We defined a number of behavioral features based on these data and built classification and regression models to examine their relationship to depression symptom severity.
+
+MethodsParticipantsWe recruited 40 adult participants from April-July 2013 using craigslist advertisements. Participants were eligible if they had an email account, computer, and broadband access to the Internet, were within a cellular network range the majority of the day, were able to speak and read English, were at least 19 years of age, and lived within the United States of America. Participants signed an online consent form, and research staff reviewed the consent over the phone. The study was approved by the Northwestern University Institutional Review Board.
+
+At the beginning of the study, participants were asked to complete an online assessment consisting of a demographics questionnaire and the Patient Health Questionnaire-9 (PHQ-9), a commonly used measure of self-reported depressive symptom severity [ ], which produces scores ranging from 0-27. Scores of less than 5 indicate no depression, 5-9 mild depression, 10-14 moderate depression, 15-19 moderately severe, and over 20 severe depression [ ].
+
+If participants owned and used an Android device with operating system 2.
+
+3 (Gingerbread) or higher, research staff assisted with the download, installation, and configuration of Purple Robot (see the Purple Robot section below). Participants who did not own a compatible phone were given an Android Nexus 4 with Purple Robot installed and configured. Phones were either picked up from the study’s office or mailed directly to the participant.
+
+Participants were instructed to keep the phone with them and charged throughout the day for 2 weeks. In addition, research staff explained that Purple Robot would be collecting GPS location and phone usage data. As part of the purpose of this study was to test Purple Robot’s functionality in the field, research staff checked in periodically, via phone and email, with the participants to ensure the app was working properly and to answer questions.
+
+Purple Robot

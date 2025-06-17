@@ -1,0 +1,111 @@
+A convict is "a person found guilty of a crime and sentenced by a court" or "a person serving a sentence in prison". The word is sometimes abbreviated as "con". After a conviction, convicts often become prisoners in a prison. People convicted and sentenced but not sent to prison are not usually called "convicts". An ex-convict (or short: ex-con) is a person who has been let out of prison.
+
+In past centuries many convicts were send to penal colonies. Many British convicts were sent to the Thirteen Colonies as cheap workers, but that stopped after the War of Independence. After this, convicts were transported to Australia in 1788, the very start of European settlement. They were used as cheap workers. Transportation was stopped in 1868. British convicts were also sent to Canada and India.
+
+France also sent convicts to French Guiana and New Caledonia, and Russia sent them to Siberia.
+
+During wartime many convicts and prisoners were used in penal battalions (penal battalions were generally made up of convicts who were traitors) Also convicts were also known to be recruited directly into military units, eg. With the cases of the "Wagner PMC".
+
+Corpora cavernosaCorpora cavernosa are regions of biological tissue that are erectile (become hardened when they fill with blood). They are found in both men and women.
+
+The corpus cavernosum penis is found in the penis. It is found in pairs which contain most of the blood in the male penis during erection. The two corpus cavernosa, along with the corpus spongiosum are the areas of tissue along the length of the penis.
+
+The corpus cavernosum clitoridis is similar to the male corpus cavernosum. The body of the clitoris contains biological tissue that helps to create an erection. As in men, this tissue comes in a pair of corpora cavernosa. However, the female has no corpus spongiosum. Instead, there are two vestibular bulbs beneath the skin at the entrance to the vagina.
+
+Hamming codeA hamming code is an error-correcting block code. The code is named after Richard Hamming who developed it in the 1950s. At the time, Hamming worked with machines that had relays and used punched cards to read the data. Because they were heavily used, the punched cards often had errors, which needed to be corrected by employees.
+
+Hamming codes are used for digital signal processing and telecommunications. Hamming codes are generated according to certain rules. Hamming codes use multiple parity bits. A parity bit tells whether a group of bits is even or odd. In a hamming code, each bit of data is covered by several parity bits. This allows to detect errors, and in certain cases, to correct them as well. A hamming code uses redundancy. If there are three parity bits per code word, the code word must have a length of 7 (formula_1, for k as the number of parity bits). This leaves 4 bits of user data per code word, in the example. Usually, this is written as (N,n), where the first number is the total length of a code word, and the second is the number of bits for user data. The example above is (7,4).
+
+The shortest possible Hamming code is (3,1), 2 parity bits are used for one data bit. This code has two valid values "000" and "111" - The codes "001", "010" and "100" are transmission errors, and will be assigned to the valid code word "000". The other possibilities "011", "101" and "110" will be changed to "111".
+
+Benelux,The Benelux is an economic union in Western Europe. It includes three neighboring monarchies, Belgium, the Netherlands, and Luxembourg. They are in the north western European region between France and Germany. The name is formed from the beginning of each country's name. The Benelux region has a total population of about 27,562,220 and an area of about 74,640 km² (28,819 sq mi).
+
+On 25 july 1921, the Belgium-Luxembourg Economic Union was established, a treaty which is still upheld. Following World War II, the harsh economic climate in Europe led to a further desire for economic cooporation between Belgium, Luxembourg and Netherlands. The Benelux Customs Convention was signed in London on 5 September 1944, by the three governments-in-exile in London. The treaty officially entered into force in 1948. On 1 November 1960, the customs union was superseded by the "Benelux Economic Union" treaty"," signed in The Hague on 3 February 1958. The treaty contributed to the founding of the European Union (EU), serving as a proving ground for succesful economic cooperation within Europe.
+
+A Benelux Parliament (originally referred to as "Interparliamentary Consultative Council") was created in 1955. This parliamentary assembly is composed of 21 members of the Dutch parliament, 21 members of the Belgian national and regional parliaments, and 7 members of the Luxembourgish parliament. The treaty establishing the Benelux Economic Union ("Benelux Economische Unie/Union Économique Benelux") was signed 3 February 1958 and came into force in 1960 to promote the free movement of workers, capital, services, and goods in the region. Its secretariat-general is located in Brussels.
+
+In 1965, the treaty establishing a Benelux Court of Justice was signed. It entered into force in 1975. The Court, composed of judges from the highest courts of the three States, has to guarantee the uniform interpretation of common legal rules. This international judicial institution is in Brussels.
+
+The Benelux is particularly active in the field of intellectual property. The three countries established a Benelux Trademarks Office and a Benelux Designs Office, both in The Hague. In 2005, they concluded a treaty establishing a Benelux Organisation for Intellectual Property which replaced both offices upon its entry into force on 1 September 2006.
+
+Dutch and French are the official languages of the Benelux and its institutions. Out of the total of 27.
+
+2 million people living in the member states 22.
+
+5 million (83 percent) speak Dutch and 3.
+
+9 million (14%) speak French, of whom 3.
+
+4 million are Walloons and 0.
+
+5 million are Luxembourgians (that speak German and Luxembourgish), whereas 3% is bilingual Dutch-French.
+
+In 2000, Belgium and the Netherlands jointly hosted the UEFA European Championship. In June 2007, representatives of the three countries announced they would be, as a "single country", bidding for the 2018 FIFA World Cup.
+
+The treaty establishing the Benelux Economic Union expired in 2010. It has been replaced by a new legal framework, also dealing with matters of sustainable development, judiciary and internal affairs.
+
+Corpus cavernosum clitoridisThe corpus cavernosum clitoridis is one of two sponge-like tissue found in the body of the clitoris. It is similar to the corpus cavernosum penis in the male.
+
+The female has no corpus spongiosum, but instead two vestibular bulbs beneath the skin at the entrance to the vagina, which expand at the same time as the glans clitoris.
+
+Each corpus is connected to the blood vessels of the pubic bone and hip bone by the clitoris.
+
+Sometimes, release of nitric oxide relaxes muscles around the vagina, called sexual arousal. More blood flows in through the corpus cavernosum and the clitoris is filled with blood. This leads to better sensitivity.
+
+ZFSThe ZFS is a computer file system.
+
+FS stands for "file system".
+
+The letter Z was chosen, because it is the "last" letter in the English alphabet.
+
+This is supposed to mean ZFS was the last, “ultimate” file system ever made.
+
+Originally ZFS has been developed by Sun Microsystems for Solaris.
+
+Later, ZFS has been ported to other versions of Unix, including Linux and FreeBSD.
+
+Traditional file systems focus on managing data and ensuring integrity.
+
+Additional features like RAID had to be added externally, outside of the file system’s realm.
+
+This potentially led to difficulties and increased complexity of systems.
+
+The ZFS takes a different approach.
+
+It integrates many useful features into its ecosystem.
+
+This ensures all subsystems work together without problems and increases performance.
+
+Some features includeFurthermore, during development of ZFS there was a continuing trend to disks having larger capacities.
+
+In designing of ZFS it was taken account of that fact.
+
+The ZFS can handle (in comparison to traditional file systems) very large files, a large number of files, large number of disks, disks having large capacities, and so on.
+
+FreeBSD and Solaris use ZFS as the standard main file system.
+
+Ubuntu’s kernel includes ZFS, but it is not the default choice.
+
+Ariel WinterAriel Winter is an American child actress. Winter started her acting career in 2005. She has acted in the television show "Modern Family" since 2009.
+
+Killswitch EngageKillswitch Engage is an American metalcore band from Massachusetts. The band is signed to Roadrunner Records and has released six albums and one live DVD. Currently, the band is in the studio with producer Brendan O'Brein working on their 5th studio album, Killswitch Engage. Their current line-up consists of Howard Jones, Adam Dutkiewicz, Mike D'antonio, Joel Stroetzel, and Justin Foley. On stage, they are known for their humorous antics while performing.
+
+In December 2013 Killswitch Engage were nominated for Best Metal Performance at the 2014 Grammy Awards for their song "In Due Time".
+
+TimelineHarvest Moon 64Harvest Moon 64, known in Japan as is a farm simulation video game made by Victor Interactive Software and published in North America by Natsume Co., Ltd. It is about a farmer who has to build a great farm before three years are up. The player can also try to get married and have a baby.
+
+Roadrunner RecordsRoadrunner Records is an American record label. The company mainly deals with heavy metal bands. They are a subsidiary of Warner Music Group.
+
+Harvest Moon (video game)Harvest Moon, known in Japan as , is a farm simulation video game made by Pack-In-Video and published by Natsume in North America and Nintendo in PAL regions. It's about a farmer who has to make a great farm before the game reaches the end. He can also get married and have a baby.
+
+Wii MusicWii Music is a music video game that was made by Nintendo for the Wii game console. It was supervised by Kōji Kondō along with others.
+
+Face (movie)Face is a 1997 British crime drama thriller movie. It was directed by Antonia Bird and written by Ronan Bennett. The movie stars Robert Carlyle and Ray Winstone and features the rock singer Damon Albarn (Blur, Gorillaz) in his first acting job.
+
+IncesticideIncesticide is a compilation album by the American grunge band, Nirvana. This album features many of their B-Sides and demos of their songs. On the back of the CD, Kurt Cobain spells his name wrong. He spells it "Kurdt Cobain."
+
+Rape Me"Rape Me" is a song by the American grunge band, Nirvana. It was the second single from their last album, "In Utero". But there was much controversy about the song, so the single was a double-A-side single. The other song was "All Apologies."
+
+There was much controversy about the title of the song. Although many people were shocked about it, Kurt Cobain, the writer of the song, said that the song is about a man who rapes a woman. He is sent to prison for it, and he is raped there. There was a music video that was planned to be made. It was going to be set in a women's prison. However, Nirvana needed a break from the controversy and did not make it.
+
+Palm, Inc.

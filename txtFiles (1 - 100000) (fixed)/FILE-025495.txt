@@ -1,0 +1,261 @@
+Decoding the op-code in the instruction register includes determining the instruction, determining where its operands are in memory, retrieving the operands from memory, allocating processor resources to execute the command (in superscalar processors), etc.
+
+Decoding the STDF variable length binary field data format to extract ASCII text is non-trivial as it involves a detailed comprehension of the STDF specification, the current (2007) version 4 specification being over 100 pages in length.
+
+Decodoku is set of online citizen science games, based on quantum error correction.
+
+Decodon is a genus of wrasses found in the western Atlantic Ocean, the western Indian Ocean and the Pacific Ocean.
+
+Decodon verticillatus, the sole species in the genus Decodon, is a flowering plant in the Lythraceae family.
+
+Deco Drive is a daily live celebrity gossip and entertainment news magazine style program featuring reports on trends and celebrities in South Florida.
+
+Decogmus chalybeus is a species of beetle in the family Carabidae, the only species in the genus Decogmus.
+
+De Collega's is a classic Belgian comedy TV series about colleagues working in an office of the Ministry of Finance.
+
+Decollidrillia is a genus of sea snails, marine gastropod mollusks in the family Turridae, the turrids.
+
+Decollidrillia nigra is a species of sea snail, a marine gastropod mollusk in the family Turridae, the turrids.
+
+Decolonisation and Criticism won the American Conference for Irish Studies' Michael J. Durkan Prize for best book published in literary criticism, arts criticism or cultural studies in 1999.
+
+Decolonization (American English) or decolonisation (British English) is the undoing of colonialism: where a nation establishes and maintains its domination over one or more other territories.
+
+Decolonization is the dismantling of colonial systems that were established during the period of time when a nation maintains dominion over dependent territories.
+
+De Col started curling in 2000.
+
+Decommissioned 1992, she was mothballed at Portsmouth, Virginia.
+
+Decommissioned 5 December 1870, she remained in the New York Navy Yard until sinking in 1876.
+
+Decommissioned after the war, she was reactivated in 1953 as minehunter USS Avocet (AMCU-16).
+
+Decommissioned after World War I, Greyhound was sold on 2 July 1919.
+
+Decommissioned after World War I, Raazoo was returned to Burghard on 3 May 1919.
+
+Decommissioned and placed in reserve on 22 July, she lay in reserve at Portland until struck from the Navy list on 1 September 1961.
+
+Decommissioned and sold for scrap in 1947, her hulk was scuttled in 1949.
+
+Decommissioned and sold off at the end of the 20th and start of the 21st centuries, they have continued in service as civilian vessels, with some being converted to private yachts and others entering other commercial sectors.
+
+Decommissioned and struck from the Navy List on 10 April 1919, Wathena was simultaneously turned over to the United States Shipping Board.
+
+Decommissioned a second time, Bellatrix subsequently spent eight years in the Pacific Reserve Fleet before being transferred to Peru in 1963.
+
+Decommissioned at Boston, Massachusetts, on 11 March 1919, Whitecap was returned to the Bay State Fisheries Company on 1 April 1919.
+
+Decommissioned at Charleston Navy Yard on 14 November 1913, Stockton was struck from the Navy list on 15 November.
+
+Decommissioned at Mare Island on 28 November, Grampus remained inactive until recommissioned on 13 June 1908.
+
+Decommissioned at New London on 4 October 1922, she remained in the company's yards through the winter and was recommissioned on 8 March 1923.
+
+Decommissioned by the United States Navy 1 October 2004 and transferred to the United States Coast Guard and recommissioned the USCGC Shamal (WPC-13).
+
+Decommissioned by the U.
+
+S. Navy, the United States Shipping Board sold her back to the North German Lloyd line, where she saw mercantile service until being scrapped in 1932.
+
+Decommissioned for a second time in 1770, she was reinstated at the outbreak of the American Revolutionary War and sent to the Mediterranean as part of a small British squadron based at Gibraltar.
+
+Decommissioned for the second and last time in 2003, she was disposed of as a target in 2005.
+
+Decommissioned from naval service in 1986, the base was later reopened under the control of the Australian Army as Leeuwin Barracks.
+
+Decommissioned from the Navy, Santa Olivia entered merchant service for W. R. Grace & Co. in late 1919 as the freighter SS Santa Olivia, operating between the United States and South America.
+
+Decommissioned immediately after the end of the war, she was sold for scrap in 1959.
+
+Decommissioned in 1749, Chesterfield was restored to service when Britain declared war on France in 1755 for duty in the Mediterranean, North America and the Caribbean.
+
+Decommissioned in 1854, the castle was first leased, and later bought outright, by the Royal Yacht Squadron to form their new clubhouse.
+
+Decommissioned in 1874, Arethusa became a school and training ship on the River Thames, preparing young boys for maritime careers, until she was broken up in 1934.
+
+Decommissioned in 1920, Loos was transferred to the Department of Marine and Fisheries, where she was used as a lighthouse supply ship.
+
+Decommissioned in 1920, she was sold for scrapping to a German company but sank off the Netherlands during transit to Germany.
+
+De-commissioned in 1944, the station was under private ownership from 1947 until 1973, when it was finally purchased by the National Park Service.
+
+Decommissioned in 1945, she ran aground under tow in 1947 on rocks near Prussia Cove, Cornwall, and was eventually broken up nearby.
+
+Decommissioned in 1946, she was sold privately in 1964 and renamed SS Marymar, and was scrapped in 1979.
+
+Decommissioned in 1946, she was sold privately in 1964 and renamed SS Seamar, and was scrapped in 1979.
+
+Decommissioned in 1946, she was sold privately in 1965 and renamed SS Pennmar, and was eventually scrapped.
+
+Decommissioned in 1949, the fort was used as a storehouse for a shoe factory before it was purchased by the local council.
+
+Decommissioned in 1953, Giuseppe Garibaldi was converted between 1957 and 1961, at the La Spezia shipyards, into a guided missile cruiser.
+
+Decommissioned in 1961, Mitchel Field became a multi-use complex that is home to the Cradle of Aviation Museum, Nassau Coliseum, Mitchel Athletic Complex, Nassau Community College, Hofstra University, and Lockheed.
+
+Decommissioned in 1967, she was sold to Singapore breakers in January 1968.
+
+Decommissioned in 1971, Page County was transferred to the Hellenic Navy and renamed Kriti.
+
+Decommissioned in 1972, she was donated to the Harry Lundeburg Seamanship School of Seafarers International Union.
+
+Decommissioned in 1991, she has since been refurbished and now operates tours on Port Phillip, Melbourne.
+
+Decommissioned in 1992, the destroyer was sold to Greece and renamed Nearchos.
+
+Decommissioned in 1997, the ship was sold in 1999 for conversion to a yacht.
+
+Decommissioned in 1998, she was the last of the Iwo Jima class in service.
+
+Decommissioned in April 1919, she was scrapped in 1920.
+
+Decommissioned in April 1971, the ship was laid up at Devonport, and arrived at Grays, Essex for scrapping on 18 January 1973.
+
+Decommissioned in August 1965, she was sold for scrapping in 1970.
+
+Decommissioned in March 1975 Robert Middleton was sold commercially the same year and renamed Myrina.
+
+Decommissioned in September 1945, the ship was put into Reserve, and finally scrapped on 24 August 1960.
+
+Decommissioned into reserve then reactivated on five occasions between 1919 and 1928, Yarra was paid off for the final time in 1928, was taken to Cockatoo Island Dockyard for stripping, then was sunk in 1932 as a target ship.
+
+Decommissioned later that year, she was restored to active service in the Caribbean in 1744.
+
+Decommissioned later that year, she was scuttled by her crew before being scrapped by the French in 1949.
+
+Decommissioned on 13 February 1919, Barracuda was returned to her owner.
+
+Decommissioned on 14 December 1990, and stricken from the Navy list on 4 October 1991, McCloy was transferred to Mexico on 12 November 1993, where she was recommissioned as Nicolas Bravo.
+
+Decommissioned on 15 May 1919, Resolute was sold to her former owner the same day and returned to mercantile service.
+
+Decommissioned on 20 September 1946 and struck from the Navy List on 13 November 1946, Wandank was transferred to the Maritime Commission on 17 July 1947 and simultaneously delivered to W. A. Bisso of New Orleans, Louisiana.
+
+Decommissioned on 27 November 1917 at Philadelphia, Zipalong was returned to her owners in early 1918 and resumed her civilian pursuits.
+
+Decommissioned on 28 November 1906, Pike remained inactive until 8 June 1908, when she was recommissioned for local operations with the Pacific Torpedo Flotilla, off the Pacific coast.
+
+Decommissioned on 31 May 1918, she was returned to her owner on 16 July 1918.
+
+Decommissioned on 5 November 1943, at Norfolk, Virginia, she was struck from the Navy List on 16 November 1943, transferred to the War Shipping Administration on 9 December 1943, and subsequently transferred to the Pennsylvania Railroad.
+
+Decommissioned on 6 February 1919, she remained with NOTS until 4 September 1919, when she was turned over to the United States Coast Guard for use in communications work.
+
+Decommissioned on 7 August 1946 and returned to her owners on 5 November 1947, she was sold in 1957 and renamed Dampier.
+
+Decommissioned on 8 July 1943, Henrico then fitted out, and recommissioned on 26 November 1943, Commander J. H. Willis in command.
+
+Decommissioned on 8 May 1919, Edith M. III was sold on 2 July 1919.
+
+Decommissioned several times, in addition to serving in the World War, she also served during the Berlin Crisis of 1961.
+
+Decommissioned shortly after the end of the war, she was modernized and recommissioned in the early 1950s as an attack carrier (CVA).
+
+Decommissioned shortly after the end of the war, she was modernized and recommissioned in the early 1950s as an attack carrier (CVA), and then eventually became an Antisubmarine Aircraft Carrier (CVS).
+
+Decommissioned shortly after the end of the war, she was modernized and recommissioned in the early 1950s as an attack carrier (CVA), and then eventually became an antisubmarine carrier (CVS).
+
+Decommissioned shortly after the end of the war, she was recommissioned in 1951 for the Korean War.
+
+Decommissioned soon after the armistice, she was returned to her owner on 30 January 1919, and her name was struck from the Navy List that same day.
+
+Decommissioned there 30 April 1946, Gemsbok was stricken from the Naval Vessel Register on 8 May 1946 and subsequently sold to Maris Transportation System Inc. and in 1948 renamed Alpha.
+
+Decommissioning and demolition of the plant began in 1993 and was completed in 2006.
+
+While operating, Trojan represented more than 12% of the electrical generation capacity of Oregon.
+
+Decommissioning at Philadelphia on 30 November 1918, Nirvana II was returned to her owner on 2 December 1918.
+
+Decommissioning in Northern Ireland was a process in the Belfast Agreement as part of the Northern Ireland peace process.
+
+Decommissioning is now being carried out by Research Sites Restoration Limited on behalf of the Nuclear Decommissioning Authority.
+
+Decommissioning may proceed all the way to "greenfield" status.
+
+Decommissioning options for a retired nuclear plant may be chosen based on availability of decommissioning funds, operation of other reactors at the same site, or availability of waste disposal facilities.
+
+Decommissioning was a defining issue in the effort to negotiate peace in Northern Ireland.
+
+Decommissioning was chosen as a cost-saving measure.
+
+Decommissioning was fraught with problems and the ship eventually became a floating derelict in the North Atlantic Ocean in 2013.
+
+Decommodification has been identified as a strategy for sustainable consumption that acts one level up on the institutional context of consumption in Western societies as compared to strategies such as eco-efficiency and eco-sufficiency.
+
+Decommodification is the process of viewing utilities as an entitlement, rather than as a commodity that must be paid or traded for.
+
+Decommunization in Russia is the process of dealing with the communist legacies in terms of institutions and personnel that tends towards breaking with the Soviet past.
+
+Decommunization is a process of dismantling the legacies of the communist state establishments, culture, and psychology in the post-communist states.
+
+Decompensation describes an inability to compensate for these deficiencies.
+
+Decompensation may occur due to fatigue, stress, illness, or old age.
+
+Decompilers are usually unable to perfectly reconstruct the original source code, and as such, will frequently produce obfuscated code.
+
+Decomplexation is of particular interest when the ligand has been synthesized within the coordination sphere of the metal, as is often the case in organometallic chemistry.
+
+Decomposed granite is classification of rock that is derived from granite via its weathering to the point that the parent material readily fractures into smaller pieces of weaker rock.
+
+Decomposer also marks a vast departure from The Matches' previous strict alternative/punk sound and a growth into a more avant-garde and art rock sound.
+
+Decomposers and detritivores complete this process, by consuming the remains left by scavengers.
+
+Decomposers are organisms that break down dead or decaying organisms, and in doing so, they carry out the natural process of decomposition.
+
+Decomposers, otherwise known as detritivores, break down chemicals from producers and consumers (usually antibiotic) into simpler form which can be reused.
+
+Decomposing curves to connected straight lines allowed Hershey to produce complex typographic designs.
+
+Decomposing remains offer a temporary, changing site of concentrated resources which are exploited by a wide range of organisms, of which arthropods are often the first to arrive and the predominant exploitive group.
+
+Decomposing services into a set of stages also enables modularity and code reuse, as well as the development of debugging tools for complex event-driven applications.
+
+Decomposing the various sources of semantic heterogeneities provides a basis for understanding how to map and transform data to overcome these differences.
+
+Decomposition in animals is a process that begins immediately after death and involves the destruction of soft tissue, leaving behind skeletonized remains.
+
+Decomposition in computer science, also known as factoring, is breaking a complex problem or system into parts that are easier to conceive, understand, program, and maintain.
+
+Decomposition in water is not hazardous, and therefore titanium butoxide is often used as a liquid source of titanium dioxide, which allows deposition of TiO2 coatings of various shapes and sizes down to the nanoscale.
+
+Decomposition is a factor in which organic matter breaks down overtime.
+
+Decomposition is the process by which organic substances are broken down into simpler organic matter.
+
+Decomposition microbiology can be divided between two fields of interest: decomposition of plant materials; decomposition of cadavers and carcasses.
+
+Decomposition of biodegradable substances may include both biological and abiotic steps.
+
+Decomposition of pyrite by weathering forms sulfuric acid, which acts on potash and alumina constituents to form alum, which often occurs as efflorescences on the rock outcrop.
+
+Decomposition potential or Decomposition voltage, in electrochemistry, refers to the minimum voltage (difference in electrode potential) between anode and cathode of an electrolytic cell that is needed for electrolysis to occur.
+
+Decomposition rate of nitronium perchlorate can be altered by doping with multivalent cations.
+
+Decomposure (a.
+
+k.
+
+a. Caleb Mueller) is a Canadian electronic music musician.
+
+Decompression gas can be considered an alternative gas supply only when the risk of breathing it at the current depth is acceptable.
+
+Decompression has the most obvious consequences when applied to gasses or to liquids containing dissolved gasses.
+
+Decompression in the context of diving derives from the reduction in ambient pressure experienced by the diver during the ascent at the end of a dive or hyperbaric exposure and refers to both the reduction in pressure and the process of allowing dissolved inert gasses to be eliminated from the tissues during this reduction in pressure.
+
+Decompression may be continuous or staged, where the ascent is interrupted by stops at regular depth intervals, but the entire ascent is part of the decompression, and ascent rate can be critical to harmless elimination of inert gas.
+
+Decompression may be shortened (or accelerated) by breathing an oxygen-rich "decompression gas" such as a nitrox blend or pure oxygen.
+
+Decompression modeling attempts to explain and predict the mechanism of gas elimination and bubble formation within the organism during and after changes in ambient pressure, and provides mathematical models which attempt to predict acceptably low risk and reasonably practicable procedures for decompression in the field.
+
+Decompression obligation for a given dive profile must be calculated and monitored to ensure that the risk of decompression sickness is controlled.
+
+Decompression of the spinal neural elements is a key component in treating spinal radiculopathy, myelopathy and claudication.

@@ -1,0 +1,257 @@
+A programmer could use DirectDraw to draw 3D graphics, but the rendering would be slow compared to an API such as Direct3D which does support 3D hardware acceleration.
+
+A programmer, developer, dev, coder, or software engineer is a person who creates computer software.
+
+A programmer makes the process do that by writing a loop that calls GetMessage (which blocks for a message and retrieves it), and then calls DispatchMessage (which dispatches the message), and repeats indefinitely.
+
+A programmer may represent all the individuals of a population using binary encoding, permutational encoding, encoding by tree, or any one of several other representations.
+
+A programmer specifies a limited number of alternatives, but the program must later choose between them.
+
+A programmer's primary computer language (Assembly, COBOL, C, C++, C#, Java, Lisp, Python, etc.) is often prefixed to these titles, and those who work in a web environment often prefix their titles with web.
+
+A programmer supplied action file is input to FleXML; the output is a file suitable for input to Flex lexical analyser.
+
+A programmer typically creates a mock object to test the behavior of some other object, in much the same way that a car designer uses a crash test dummy to simulate the dynamic behavior of a human in vehicle impacts.
+
+A program (method, module, routine, subroutine, procedure, or any named block of code) contains more than 10 binary terms in conditional statements.
+
+A programming competition generally involves the host presenting a set of logical or mathematical problems to the contestants (who can vary in number from tens to several thousands), and contestants are required to write computer programs capable of solving each problem.
+
+A programming domain defines a specific kind of use for a programming language.
+
+A programming game is a video game that incorporates elements of computer programming, enabling the player to direct otherwise autonomous units within the game to follow commands in a domain-specific programming language, often represented as a visual language to simplify the programming metaphor.
+
+A programming idiom or code idiom is expressing a special feature of a recurring construct in one or more programming languages.
+
+A programming interview is a technical job interview in the software industry or in information technology (IT) departments of major corporations to test candidates' technical knowledge, coding ability, problem solving skills, and creativity about computers.
+
+A programming language describes the same for computations, so there is a close analogy between protocols and programming languages: protocols are to communication what programming languages are to computations.
+
+A programming language is a formal language which comprises a set of instructions used to produce various kinds of output.
+
+A programming language reference manual is one form of documentation that is associated with most mainstream programming languages.
+
+A programming language reference (or language reference manual) is an artifact that describes a programming language so that users and developers can understand the basic elements of and write computer programs in the target language.
+
+A programming language that permits the creation of blocks, including blocks nested within other blocks, is called a block-structured programming language.
+
+A Programming model refers to the style of programming where execution is invoked by making what appear to be library calls.
+
+A program of community consultation was undertaken to find out local people's priorities for any alterations.
+
+A program of conservation was undertaken to enable her to be opened to the public.
+
+A program of elimination and semi-finals and, where needed, sail-offs were scheduled.
+
+A Program of Evaluation and Assessment of Freedom was a top secret United States Department of Defense project that aimed to utilize information operations and resources at the Pentagon's disposal to counteract the ideological threat of Communism during the Cold War.
+
+A program of federal grants assists in the repatriation process and the Secretary of the Interior may assess civil penalties on museums that fail to comply.
+
+A "Program Office" was created in Washington, D.
+
+C. under the Executive branch of the U.
+
+S. Government.
+
+A program of illegal purchases, copying and reverse engineering of Western examples was established, after which GDR sold these computers to COMECON countries.
+
+A program of music events that has toured 25 countries, it is a ticketed event for adults ages 21 and over.
+
+A program of speakers is arranged, but the emphasis is on an informal, relaxing weekend open to anyone with an interest in astronomy.
+
+A program of Street Concerts, SplashClassics, saw a concert take place at five stations along the train line from Manchester Airport (where many of the academy students arrived into the UK) through to Windermere (the nearest station to the academy base near Ambleside).
+
+A program of work at the school led to the publication of landmark paper on multimorbidity in 2012.
+
+In 2007, Frank Sullivan was appointed Director.
+
+A program (or hardware) which can decode video or audio is called a codec; playing or encoding a video file will sometimes require the user to install a codec library corresponding to the type of video and audio coding used in the file.
+
+A program she produced, Our Peace, was awarded a Radio for Peacebuilding Award by Search for Common Ground.
+
+A program skeleton may also be utilized as a template that reflects syntax and structures commonly used in a wide class of problems.
+
+A Program Supervisor is comparable to a Principal (school), with the responsibility of enrolling students, hiring new teachers, placing students in their classes, and other duties of a principal.
+
+A Program Supervisor is responsible for reporting to a top executive, comparable to the Superintendent (education), or another higher administrator.
+
+A program that embodies SoC well is called a modular program.
+
+A program that includes file manager functionality may or may not send files to the recycle bin, or it may allow the user to choose between these options.
+
+A program that is designed to exploit such a vulnerability is called an arbitrary code execution exploit.
+
+A program that is run in such a modified environment cannot name (and therefore normally cannot access) files outside the designated directory tree.
+
+A program that is running in memory, that encounters a simple mistake, can be corrected without having to stop the current program or exit the debugger.
+
+A program that performs lexical analysis may be termed a lexer, tokenizer, or scanner, though scanner is also a term for the first stage of a lexer.
+
+A program that runs without error under the PL/C compiler should run under PL/I and produce the same results, unless certain incompatible diagnostic features, such as a macro section (begun by a $MACRO statement and finished by a $MEND statement), were used.
+
+A program that translates between high-level languages is usually called a source-to-source compiler or transpiler.
+
+A program that translates from a low-level language to a higher level one is a decompiler.
+
+A program that traverses the hypertext, following each hyperlink and gathering all the retrieved documents is known as a Web spider or crawler.
+
+A program to help women find work in conjunction with a day nursery was created.
+
+A program to install the layout is available for Microsoft Windows.
+
+A program transformation is any operation that takes a computer program and generates another program.
+
+A program used to inject arbitrary code into arbitrary processes is called a DLL injector.
+
+A program, usually running somewhere on the computer network, that takes care of authentication.
+
+A program was specified as a sequence of subroutines and arguments.
+
+A program which handles the interface is called a command language interpreter or shell (computing).
+
+A program which is different in its structure from one edition to another, it consists of different segments reserved to entertainment, interviews, sport, games, journalism.
+
+A program will normally perform its computations and then wait for an event (e.
+
+g. a message, time, or external I/O event) before continuing.
+
+A program will not compile until all syntax errors are corrected.
+
+A program with a similar name was also launched, much before The Times of India's Lead India campaign, by Dr. A. P. J. Abdul Kalam, the then President of India, in the early 2000s.
+
+A program with the title Science in Action is believed to have begun life in 1964, when it replaced an earlier series, dating from the 1950s, called Science and Industry.
+
+A program writes records that are read by the next program in the pipeline.
+
+A program written in such a language is formed by a sequence of one or more statements.
+
+A progress association was formed following a unanimous decision by the townspeople in 1907 and a committee was elected at the same meeting.
+
+A progress bar is a graphical control element used to visualize the progression of an extended computer operation, such as a download, file transfer, or installation.
+
+A progress indicator is an element of a command line interface, a textual user interface, or a graphical user interface that is intended to inform the user that an operation is in progress, to reassure that the system is not hung or waiting for user input, and often to provide the user with an estimate of how far through a task the system has progressed.
+
+A progression from the sound of The Garden (1981), Foxx called The Golden Section "a roots check: Beatles, Church music, Psychedelia, The Shadows, The Floyd, The Velvets, Roy Orbison, Kraftwerk, and cheap pre-electro Europop".
+
+A progressive activist, Bucholz is a member of Marx21, a network of revolutionary socialists within the Die Linke broadly aligned with the International Socialist Tendency.
+
+A progressive alarm clock, still new in the market, can have different alarms for different times (see Next-Generation Alarms) and even play music of your choice.
+
+A progressive alliance in the UK is the idea of a cross-party political alliance supporting "progressive politics", generally in opposition to right wing parties, chiefly the Conservative Party.
+
+A Progressive also unseated a Republican in the Senate.
+
+A Progressive Conservative, he has been a candidate for the Legislative Assembly of New Brunswick for the electoral district of Albert in every election since 1991.
+
+A Progressive Conservative, he was first elected to the Legislative Assembly of Ontario in 1985, and held the office of Member of Provincial Parliament (MPP) for Burlington until his resignation on September 28, 2006 to run for mayor of Burlington in the 2006 election.
+
+A Progressive Conservative, he was summoned to the Senate on the advice of Prime Minister John George Diefenbaker in 1958 and served in the upper house until his retirement in 1971.
+
+A Progressive Conservative, McLean was appointed Minister of Education in the minority government of Dufferin Roblin.
+
+A Progressive Conservative Party of Prince Edward Island leadership election was held on October 20, 2017 choosing MLA James Aylward as the new leader.
+
+A progressive decline of a behavior in a habituation procedure may also reflect nonspecific effects such as fatigue, which must be ruled out when the interest is in habituation as a learning process.
+
+A progressive Democrat, he first endorsed Bernie Sanders in his 2016 campaign for U.
+
+S. President, supporting Hillary Clinton after she was nominated as candidate by the Democratic Party.
+
+A progressive dinner (US) or safari supper (UK) is a dinner party with successive courses prepared and eaten at the residences of different hosts.
+
+A progressive download is the transfer of digital media files from a server to a client, typically using the HTTP protocol when initiated from a computer.
+
+A Progressive Future For Labor is a 2011 collection of essays by Labor politicians many of whom are considered to belong to the Blairite wing of the party.
+
+A progressive house ballad featuring vocalist Bonn, it was released via his STMPD RCRDS label, which is exclusively-licensed to a Sony Music sublabel, Epic Amsterdam.
+
+A Progressive house/trance remix by Paul Oakenfold preceded the release of the single during the summer of 2000.
+
+A progressive jackpot is a jackpot (a gambling grand prize or payout) which increases each time the game is played but the jackpot is not won.
+
+A progressive list of assist leaders showing how the record increased through the years.
+
+A progressive list of blocked shots leaders showing how the record has increased through the years.
+
+A progressive list of blocked shots leaders showing how the record increased through the years.
+
+A progressive list of free throws made leaders showing how the record has increased through the years.
+
+A progressive list of leaders, and records for minutes played showing how the record has increased through the years.
+
+A progressive list of playoffs free throws made leaders showing how the record has increased through the years.
+
+A progressive list of playoffs minutes played leaders showing how the record increased through the years.
+
+A progressive list of scoring leaders showing how the record increased through the past seasons.
+
+A progressive list of scoring leaders showing how the record increased through the years.
+
+A progressive list of steals leaders showing how the record has increased through the years.
+
+A progressive list of steals leaders showing how the record increased through the years.
+
+A progressive list of turnover leaders showing how the record has increased through the years.
+
+A progressive list of turnover leaders showing how the record increased through the years.
+
+A progressive parlay is a joint wager on multiple events, for example team sports or horse races.
+
+A progressive squeeze is a triple squeeze that, depending both on entries and on positional factors, may result in a subsequent, simple, two-suit squeeze that takes place against the opponent who has just been triple squeezed.
+
+A progressive squeezes is a subset of triple squeezes that, depending both on entries and on positional factors, may result in a subsequent, simple, two-suit squeeze that takes place against the opponent who has just been triple squeezed.
+
+A progressive uplift of the terrain around Lastarria and farther south has been recognized.
+
+A progress report was presented at the 2008 G8 Summit in Japan; a final report on the results of the dialog was put forward in Italy in 2009.
+
+A Proguibourtinidin is a type of condensed tannins formed from guibourtinidol (leucoguibourtinidin).
+
+APRO had many state branches, it remained active until late 1988.
+
+A prohibited invasive species is illegal to possess in Minnesota without a permit, and a regulated invasive species is legal to possess but still may not be released into public waters.
+
+A Prohibited Steps Order is a court order in the United Kingdom common in divorce and separation cases.
+
+A prohibition expressed only by the monarch or only by the Cortes will have no consequences to the succession.
+
+A prohibition referendum was held in Iceland on 10 September 1908, alongside parliamentary elections.
+
+A prohibition referendum was held in Iceland on 21 October 1933.
+
+A Prohibitory Order is a legal instrument issued by the United States Postal Service, against a mailer, on request of a recipient.
+
+A proinflammatory cytokine or more simply an inflammatory cytokine is a type of signaling molecule (a cytokine) that is excreted from immune cells like helper T cells (Th) and macrophages, and certain other cell types that promote inflammation.
+
+A project anatomy (also integration anatomy or organic integration plan) is a tool for integration planning that visualizes dependencies between work items in development projects.
+
+A project between 1991 and 2011 and supported by, among others, the forests of German states provided 450,000 trees for the desert city of Beersheba.
+
+A project by Transworld, initially a wholly owned subsidiary of the Australian corporation Mineral Commodities (MRC), the mine would be one of the largest mines of its kind in South Africa.
+
+A project called Bumblebee is an alternative open source implementation of Optimus support for Linux.
+
+A project called Eclipse eBPM has been recently created within the Eclipse foundation: this project will become the Spagic core, that will be contributed to the Eclipse foundation under the Eclipse Public License.
+
+A project called Ra-4 was initiated in 1943.
+
+A project called Vestibular Function Research was initiated in 1975 to fly a vestibular experiment in an Earth-orbiting spacecraft.
+
+A project called World Cleanup 2012 has been started on 24 March 2012, with people from more than 80 countries participating.
+
+A project called XX-Net claims to be "A Reborn GoAgent", with its first release in January 2015.
+
+A project can be certified, gold, or platinum, depending on how many points are achieved.
+
+A project charter will be created in the initiating process group of a phase or a project at the very start.
+
+A project consists of actions, of which there are around 650 types defined as of version 6 [1].
+
+A project delivery method is a system used by an agency or owner for organizing and financing design, construction, operations, and maintenance services for a structure or facility by entering into legal agreements with one or more entities or parties.
+
+A project document from 2008 states that the station could possibly be seasonal.
+
+A projected portico is located over one of the entrances and is unique in Georgian architecture.
+
+A projected release has not been decided upon yet by him.

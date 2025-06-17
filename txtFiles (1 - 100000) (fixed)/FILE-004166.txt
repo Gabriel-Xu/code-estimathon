@@ -1,0 +1,7 @@
+The contrasting areas in the texture each correspond to a domain where the LC molecules are rotated in a different direction. Within a domain, however, the molecules are well ordered. LC materials may not always be in an LC phase (just as water is not always in the liquid phase: it may also be found in the solid and gaseous phase).
+
+Liquid crystal displays use the optical properties of liquid crystals to control light.
+
+Turing completeTuring complete is a term used in computability theory to describe abstract machines. These are usually called automata. An automaton is Turing complete if it can be used to like a Turing machine. It is also called computationally universal.
+
+Most modern programming languages are Turing-complete.

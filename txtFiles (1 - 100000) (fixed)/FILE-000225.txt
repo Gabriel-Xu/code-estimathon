@@ -1,0 +1,115 @@
+Instead of using a lens it is also possible to have cells inside the eye that act like mirrors. The image can then be reflected to focus at a central point. This design also means that someone looking into such an eye will see the same image as the organism which has them.
+
+Many small organisms such as rotifers, copeopods and platyhelminthes use such this design, but their eyes are too small to produce usable images. Some larger organisms, such as scallops, also use reflector eyes. The scallop "Pecten" has up to 100 millimeter-scale reflector eyes fringing the edge of its shell. It detects moving objects as they pass successive lenses.
+
+Compound eyes are different from simple eyes. Instead of having one organ that can sense light, they put together many such organs. Some compound eyes have thousands of them. The resulting image is put together in the brain, based on the signals of the many eye units. Each such unit is called "ommatidium", several are called "ommatidia". The ommatidia are located on a convex surface, each of them points in a slighly different direction. Unlike simple eyes, compound eyes have a very large angle of view. They can detect fast movement, and sometimes the polarization of light.
+
+Compound eyes are common in arthropods, annelids, and some bivalved molluscs.
+
+The evolution of eyes started with simplest light-sensitive patches in unicellular organisms. These eye-spots do nothing but detect if the surroundings are light or dark. Most animals have a biochemical 'clock' inside. These simple eye-spots are used to adjust this daily clock, which is called circadian rhythm. Some snails, for example, see no image (picture) at all, but they sense light, which helps them stay out of bright sunlight.
+
+More complex eyes have not lost this function. A special type of cells in the eye senses light for a different purpose than seeing. These cells are called "ganglion" cells. They are located in the retina. They send their information about light to the brain along a different path (the "retinohypothalamic tract"). This information adjusts (synchronizes) the animal's circadian rhythm to nature's light/dark cycle of 24 hours. The system also works for some blind people who cannot see light at all.
+
+Eyes that are a little bit better are shaped like cups, which lets the animal know where the light is coming from.
+
+More complex eyes give the full sense of vision, including color, motion, and texture. These eyes have a round shape that makes light rays focus on the back part of the eye, called the "retina".
+
+Good fliers like flies or honey bees, or prey-catching insects like praying mantis or dragonflies, have specialized zones of ommatidia organized into a fovea area which gives sharp vision. In this zone the eyes are flattened and the facets are larger. The flattening allows more ommatidia to receive light from a spot. This gives a higher resolution.
+
+The body of "Ophiocoma wendtii", a type of brittle star, is covered with ommatidia, turning its whole skin into a compound eye. The same is true of many chitons.
+
+Tongue-twisterA tongue-twister is a phrase that is hard to say. They often use alliteration and homophones. They are commonly employed to help warm up singers and actorsAbiWordAbiWord is a free word processor that can be downloaded for free, it is open source and is much smaller in size than a proprietary alternative, Microsoft Word. It is available for FreeBSD, Linux, Microsoft Windows, Mac OS X, and QNX. Its mascot is Abi the ant. It is much smaller than many other commercial word-processors of its time, only using about 15Mb on a computer's hard drive under Microsoft Windows.
+
+InsectInsects are a class in the phylum Arthropoda. They are small terrestrial invertebrates which have a hard exoskeleton.
+
+Insects are the largest group of animals on Earth by far: about 926,400 different species have been described. They are more than half of all known living species. They may be over 90% of animal species on Earth.
+
+New species of insects are continually being found. Estimates of the total number of species range from 2 million to 30 million.
+
+All adult insects have six legs; and most have wings. Insects were the first animals capable of flight.
+
+As they develop from eggs, insects undergo metamorphosis. Insects live all over the planet: almost all are terrestrial (live on land). Few insects live in the oceans or in very cold places, such as Antarctica. The most species live in tropical areas.
+
+Some people call all insects "bugs", but this is not correct. Only some insects are true bugs, which is a particular order of insects. People who study insects are called entomologists.
+
+Insects have exoskeletons (skeletons on the outside). Their skeletons are made out of thin, hard pieces or plates, like armour, made of chitin. All together, these pieces make a hard layer around the insect's body. The exoskeleton protects the insect.
+
+The body of an insect has three main parts: a head, a thorax, and an abdomen. On the head are an insect's compound eyes, its two antennae (they feel and smell things), and its mouth.
+
+On the thorax, insects have wings and legs. All insects have six legs (three pairs of jointed legs) and usually four wings (two pairs).
+
+The abdomen is the back part of the insect. Inside the abdomen is the stomach, the heart, and the excretory system where body wastes pass out of the insect. Bees also have a stinger at the back of the abdomen.
+
+Just like our muscles connect to our bones to make us walk and stand up, the muscles of an insect connect to the exoskeleton to make it walk and move. Their muscles are on the "inside" of their skeleton.
+
+Insects are cold-blooded, which means that they cannot control their body temperature. This means that insects are not good at surviving the cold, at any rate out in the open. In the winter, many insects go into something called diapause, which is the insect version of hibernation. Some insects, like cockroaches, cannot go into diapause and they will die if it gets too cold outside. This is why cockroaches love living in people's warm houses.
+
+Insect respiration happens without lungs. There is a system of internal tubes and sacs through which gases diffuse or are actively pumped. Air is taken in through openings on the sides of the abdomen called spiracles. Oxygen gets to tissues that need it through their trachea (element 8 in diagram).
+
+Many insect larvae live in water. Many of those have gills that can extract oxygen dissolved in water. Others must rise to the water surface to get air which may be held or trapped in special parts of their body.
+
+Adult insects use oxygen at a high rate when they fly. They need it for the flight muscles, the most active tissue known in biology. The flight muscles use oxygen at a huge rate: 100 ccs of oxygen for every single cc of tissue per hour. With this system, the greatest diameter a muscle could have (and still consume oxygen at this rate) is about 0.
+
+5 cm. Even with special extra arrangements, insects cannot get larger than about 11 cm long. The largest insect bodies are about as big as a mouse.
+
+Some insects also use a molecule called haemocyanin, which does the same job as haemoglobin does in vertebrates (but less efficiently). The insect circulatory system has no veins or arteries. The 'blood' is called haemolymph, and moves around in the space called the haemocoel. The organs sit in the haemocoel and are bathed in the haemolymph. The 'heart' is little more than a single tube which pulses (squeezes).
+
+Insects start life as an egg. Usually a female (mother) insect lays eggs, but a few species have live birth (the eggs develop inside the mother). The eggs are small; but they can usually be seen with the naked eye.
+
+Although the adults are larger, they do need a magnifying glass or a binocular microscope to see the details. A professional entomologist uses a binocular microscope to identify insects, plus a printed reference work. There are far too many insects for anyone to remember them all, and most entomologists specialise in just one or two orders.
+
+After the eggs hatch, two kinds of development may occur. Some insects have what is called 'incomplete metamorphosis'. This means that a small insect, called a nymph comes out of the egg, and the nymph looks almost the same as the adult insect. As the nymph grows, it does not change the way it looks, but only how big it is. It goes through a number of stages, called 'instars'. Grasshoppers grow in this way.
+
+Other insects have complete metamorphosis, which means that the small larva which comes out of the egg looks very different from the adult insect. Insects that have complete metamorphosis usually come out of the egg as a larva, which usually looks like a worm. The larva eats food and gets bigger until it turns into a pupa. Butterfly pupae (plural for pupa) are often inside cocoons. Inside the cocoon the insect changes the way it looks and often grows wings. When the cocoon opens, the adult insect comes out. Many insects have complete metamorphosis, for example beetles, butterflies and moths, and flies. The adult stage of development is called the imago.
+
+The oldest known insect fossil is the Devonian "Rhyniognatha", from the 411 million year old Rhynie chert. It may have superficially resembled a modern-day silverfish insect. This species already possessed mandibles of a type associated with winged insects, suggesting that wings may already have evolved at this time. Thus, anatomical records suggest the first insects may have appeared earlier, in the Silurian period. Genomic analysis puts their origin even further back in the Ordovician period.
+
+If "Rhyniognatha" is not an insect, then "Rhyniella" from the same place is the first known insect. Also 411 mya.
+
+In 2008, researchers uncovered what they believe is the world's oldest known full-body impression of a primitive flying insect, a 300 million-year-old specimen from the Carboniferous period.
+
+The origin of insect flight is unclear, since the earliest known winged insects appear to have been capable fliers. Some extinct insects had an additional pair of winglets attaching to the first segment of the thorax, for a total of three pairs. It seems the insects were not a particularly successful group of animals before they evolved wings.
+
+Upper Carboniferous and Lower Permian insect orders include both living groups and a number of Palaeozoic groups, now extinct. During this era, some giant dragonfly-like forms reached wingspans of making them far larger than any living insect.
+
+This gigantism may have been due to higher atmospheric oxygen levels, which allowed increased respiratory efficiency. The lack of flying vertebrates could have been another factor. Many of the early groups became extinct during the PermianTriassic extinction event, the largest mass extinction in the history of the Earth, around 252 million years ago.
+
+Different kinds of insects are put into groups called orders. There are about 29 insect orders. The biggest insect orders are listed below:All these groups except one (Odonata) are strongly connected with plants as a source of food.
+
+Spiders, scorpions, and similar animals are not insects; they are arachnids. Arachnids are arthropods that have four pairs of legs. Centipedes are also arthropods, but not insects: they are in a subphylum called the Myriapoda.
+
+This taxonomy lists some of the better known groups of insects.
+
+Some insects can be pests to people in different ways. Some are parasites, such as lice and bed bugs. Some of these parasite insects spread diseases, for example mosquitoes spread malaria.
+
+Many insects eat agricultural products (plants meant for people to eat). Locustss are an example of pest insects that eat plants in agriculture.
+
+Some insects are used by us. Bees make honey. The larvae of some moths make silk, which people use to make clothing. In some parts of the world, people actually eat insects. Eating insects for food is called entomophagy.
+
+Many bees and flies pollinate plants. This means the insects help the plants make seeds by moving pollen from one flower to another. Some good insects eat pest insects, such as lady beetles (or ladybirds or ladybugs) eating aphids. Many insects eat dead plants and animals.
+
+People often use poisons called insecticides to kill pest insects. Insecticides do not always work. Sometimes the pest insects become resistant to the insecticides, which means the insecticides do not hurt them anymore. Both the Colorado potato beetle and the diamondback moth are insects that are resistant to many insecticides.
+
+Insecticides do not only kill pest insects; sometimes many helpful insects are killed too. When helpful insects are killed, such as those that eat pest insects, the pest insects may come back in larger numbers than before because they are not being eaten by helpful insects anymore.
+
+List of operating systemsThis is a list of operating systems for computers.
+
+Operating systems written for a hobby.
+
+Little operating systems that run on small devices.
+
+Operating systems that have only appeared in fiction or as jokes.
+
+Computer jargonComputer jargon means words to do with computers and surrounding topics. Knowing what these words mean can help people know more about computers. Most people use these words to discuss computer ideas, but some people use these words to impress others (also known as buzzwords).
+
+Some examples of jargon are:Million1,000,000 (1000000, one million or one thousand thousand or million or thousand thousand for short) is a natural number between 999,999 and 1,000,001. The name is derived from Italian, where was 1,000, and 1,000,000 became a ""milione"", as 'a large thousand'.
+
+In scientific notation, the number is written as 1×10 or just 10. Physical quantities can also be explained using the SI prefix when using SI units. For example, 1 megawatt is 1,000,000 watts.
+
+The word 'million' is common to both the short-scale and long-scale numbering systems, unlike the larger numbers, which have different names in the two systems.
+
+The million is sometimes used in the English language as a metaphor for a very large number, as in 'Never in a million years' and 'You're one in a million', or as hyperbole, as in 'I've walked a million miles'."
+
+Il Milione" is the title of Marco Polo's narration of his travels in China. The name is supposed to come from Polo's nickname after his tales of riches and multitudes.
+
+1/Turkey:xx666/Lira:×666/3/Turkish××666/Correctly:Ato:Fedelra:Germa:Erise1000 (number)1000 (1,000, one thousand or thousand for short) is the natural number after 999 and before 1001. One thousand thousands is known as a million.

@@ -1,0 +1,25 @@
+Kruger grew up on his grandfather's farm. He worked as a commando (a soldier defending farms), and became a respected leader.
+
+In 1877 the British Army took control of Transvaal, and Kruger became the leader of the resistance (the people who wanted to fight British control). On 30 December 1880, the government of the South African Republic (Transvaal) elected (chose) him to be president. In 1881 Kruger negotiated (talked with the enemy) to agree the peace.
+
+Kruger travelled to Europe, where many people respected him.
+
+The Second Boer War began in 1899, and Kruger had to escape to Europe in October 1900. He moved to Clarens in Switzerland, where he died in 1904. People took his body back to South Africa and buried him in Church Street Cemetery in Pretoria.
+
+Bridgeview, IllinoisBridgeview is a village in Illinois in the United States. It is the home of the Major League Soccer team the Chicago Fire.
+
+XfceXfce () is a free software desktop environment for Unix and other Unix-like platforms, such as Linux, Solaris and BSD. It is made to be fast and lightweight, while still looking nice and easy to use.
+
+The current version, 4.
+
+12, is modular and reusable. It is based on the GTK+ 2 toolkit (formerly used in GNOME). It uses the Xfwm window manager, described below. Its configuration is entirely mouse-driven, and the configuration files are hidden from the casual user.
+
+Olivier Fourdan started the project in 1996. The name "Xfce" originally stood for "XForms Common Environment", but after that Xfce has been rewritten twice and no longer uses that toolkit. The name survived, but it is no longer capitalized as "XFCE", but rather as "Xfce".
+
+Starting with version 4.
+
+2, the window manager of Xfce, Xfwm, integrates its own "compositing manager". Other compositing managers exist, but have been very unstable, and Xfce was the first to put its own compositing manager into the window manager. At its beginning, many users called it the most stable one available, though at the time, in late 2004, xcompmgr was the only other compositing manager available.
+
+While not as common in Linux distributions as the KDE and GNOME desktop environments, there are still some distributions where Xfce is the default desktop environment, and most support it as an optional part.
+
+These distributions include Xfce in their default environment:Jammu regionJammu Region (Panjabi: ਜੰਮੂ ਸੂਬਾ) is one of the three regions comprising Kashmir's southernmost area of Indian-administered Jammu and Kashmir. Jammu division borders Vale of Kashmir, the disputed part of the state, to the north, Ladakh region to the east, and Himachal Pradesh to the south. Sandwiched between the Vale of Kashmir to the north and the Daman Koh Plains to the south, the Margalla hills range of the foothills of the Himalayas which comprises most of the disputed region in Jammu. The Pir Panjal Range, the Trikuta Hills and the low-lying Tawi River of the branch Chenab River basin add beauty and diversity to the terrain of Jammu.

@@ -1,0 +1,109 @@
+By . Mark Prigg . Researchers have uncovered a series of major security holes in traffic light systems that allowed them to to control 100 signals in Michigan. Researchers say there were major flaws in the system, which is used in 40 states across America.. They worked with a local road agency to investigate the problems - and say they found a 'systemic lack of security' that allowed them to control lights. Scroll down for video . University of Michigan researchers hacked into nearly 100 wirelessly networked traffic lights - and were able to control every light on the system from a single laptop. Wirelessly networked traffic lights have four key components. There are sensors that detect cars, controllers that use the sensor data to control the lights at a given intersection, radios for wireless communication among intersections, and malfunction management units (MMUs), which return lights to safe fallback configurations if an 'invalid' configuration occurs. For example, if somehow every light at an intersection is green, the system might fall back to having them all become flashing red lights. With permission from a local road agency, the University of Michigan researchers hacked into nearly 100 wirelessly networked traffic lights. The team say the flaws they uncovered - which included the use of unsecured wireless networks and default passwords were used - are likely to be founds across the country. 'The vulnerabilities we discover in the infrastructure are not a fault of any one device or design choice, but rather show a systemic lack of security consciousness,' the researchers report in a paper. After gaining access to one of the controllers in their target network, the researchers were able to turn all lights red or alter the timing of neighboring intersections—for example, to make sure someone hit all green lights on a given route. They did not disclose exactly where in Michigan they did the research. The team, led by University of Michigan computer scientist J. Alex Halderman, said there were three major weaknesses in the traffic light system: unencrypted wireless connections, the use of default usernames and passwords that could be found online, and a debugging port that is easy to attack. 'The safety critical nature of traffic infrastructure requires that it be secure against computer-based attacks, but this is not always the case,' the team said. 'We investigate a networked traffic signal system currently deployed in the United States and discover a number of security flaws that exist due to systemic failures by the designers. 'We leveraged these flaws to create attacks which gain control of the system, and we successfully demonstrate them on the deployment.' 'The safety critical nature of traffic infrastructure requires that it be secure against computer-based attacks, but this is not always the case,' the team said. The team called for manufacturers and operators to improve their systems. 'Our attacks show that  an adversary can control traffic infrastructure to cause disruption, degrade safety, or gain an unfair advantage.' 'They need to be worrying about this and think about security - it needs to be one of their top priorities,' Branden Ghena, a graduate student who worked on the project told MIT Technology Review. 'It's hard to get people to care about these things in the same way that it's hard to get people to change their passwords.' Researchers said traffic-system administrators should not use default usernames and passwords, and should stop broadcasting communications unencrypted for 'casual observers and curious teenagers' to see. They also warned that devices like voting machines and even connected cars could suffer similar flaws.
+
+The Lionesses are currently in the United States for the SheBelieves Cup tournament and then play two Euro 2017 qualifiers next month.
+
+It means the new WSL season, which starts on 23 March, breaks after games on 28 March and resumes on 21 April."
+
+The challenge is to find the right balance," said Sampson."
+
+Have we got that yet? I don't think we have, we've still got to keep working on this, and make sure we give the players and clubs the best chance to be successful, but in turn that must allow the international team to have every opportunity to win major tournaments."
+
+We know that if England win a major tournament the impact that will have on the game is far greater than anything else we could ever do in the women's game."
+
+Sampson is keen to avoid a club-versus-country row but as a former boss of Bristol Academy he knows why WSL head coaches may be unhappy with the scheduling.
+
+England host Belgium on Friday, 8 April in Rotherham before travelling to face Bosnia-Herzegovina on Tuesday, 12 April."
+
+Any club manager will always want more time with their players, just like I want more time with the players," he added."
+
+We're in constant communication about doing what's right by the players, and getting the best out of the players and trying to develop a programme that fits international and fits club."
+
+The launcher is due to be introduced in 2020 and long-term will replace the Ariane 5 and Soyuz vehicles that currently operate out of French Guiana.
+
+Airbus Safran Launchers, the company set up exactly one year ago to build the new rocket, is in the process of pulling together its subcontractors.
+
+CEO Alain Charmeau said rapid progress was being made on the project."
+
+The basic design of Ariane 6 is now frozen to allow us to move into a more detailed design and production phase," he told BBC News."
+
+We have already signed some major contracts, and more will be signed in the coming days. And for those equipments not on the critical path, we will sign contracts in the coming months after running some competitions."
+
+The company is a joint venture between the aerospace giant Airbus and the aero and rocket manufacturer Safran. The tie-up has yet to receive full and final sign-off from the French authorities because of corporate tax arrangements, but Mr Charmeau said this delay had made no impact yet on future Ariane developments."
+
+We were set up to manage Ariane 5 and 6 and we are doing that very efficiently, but it's true we can't maintain our current company configuration forever. But we will soon shift into a new configuration."
+
+Ariane 6 will be a modular rocket that can be tailored to a wide range of satellite and mission types.
+
+One version, known as Ariane 62, will loft medium-sized spacecraft into orbit - the kind of platforms that image and study the Earth.
+
+The second version, known as Ariane 64, will put up the heavy telecoms spacecraft, which sit 36,000km above the equator.
+
+Both variants will lean heavily on technologies already proven or under development for Ariane 5.
+
+They will also borrow elements from Europe's small Vega launcher. The "2" and the "4" in the version names refer to the number of strap-on solid-fuelled boosters that do the initial lifting off the pad. These boosters will be the same as Vega's first firing stage.
+
+The hope is that the commonalities between the different rocket types will help drive down costs.
+
+Airbus Safran wants further economies by employing more modern methods of production and from streamlining assembly lines."
+
+We have chosen an optimised industrial organisation where we will try to maximise the rate of use of production tools. For example, there will be only one place for the machining of the big metallic structures. And we will of course be using additive layer manufacturing (3D printing) and processes like friction stir welding. We will be investing in new tools."
+
+The question that is always asked concerning the future, is whether Ariane 6 will ever become a re-useable rocket.
+
+The American company SpaceX already offers its Falcon vehicle for prices that significantly undercut the Ariane 5. And although Ariane 6 is expected to be 40-50% cheaper to produce than the existing model, SpaceX is promising to move the goalposts again by recovering and re-using its Falcons.
+
+This same capability is also currently being demonstrated by another US company, Blue Origin, which has aspirations in the same markets as both Ariane and SpaceX.
+
+For its part, Airbus Safran does not envisage making Ariane 6 recoverable, not in the short term.
+
+Mr Charmeau believes that different market conditions apply in Europe and the US, which means there will not be a single, winner-takes-all approach.
+
+He cites, for example, the restricted procurement that exists in all major political blocs, which essentially bars foreign rockets from launching home institutional and government satellites. Nowhere is this more true than in the US, but in Europe too there is an "unwritten rule" that European states should use European rockets.
+
+Mr Charmeau added: "And we have other specificities in Europe, such as the technology of propulsion, which is much better than the US one, both in solid and cryogenic propulsion. This allows us to launch [two satellites at once], which is another factor for competitiveness, maybe much better than re-usability - we will see in the future. And one characteristic, for example, is that we have only one (main) engine on the Ariane 64, whereas our competitor is going for re-usability because he is using much more engines. (The Falcon 9 has nine engines on its first stage.)
+
+Long term it is hard to envisage Ariane shunning re-usability, and Airbus is studying a concept called Adeline that would modify the 62 and 64 variants to allow their main engine to fly back to a runway after consuming its launch propellant.
+
+Whether Adeline, or some other re-usability concept, ever sees the light of day - and it would not be before 2030 - will ultimately come down to the attitude of European Space Agency member states. They fund the R&D of the Ariane programme and they may feel the American competition demands a response.
+
+But like Mr Charmeau, Esa's director general, Jan Woerner, is not rushing to judgement."
+
+There is no magic formula with one global validity," he told reporters earlier this month."
+
+So, don't say 'this is the one and only solution'. We have to find a way to the best launcher for Europe; and we are doing so."
+
+I could talk for two hours about the advantages or disadvantages of re-usability. Is it appropriate for the European situation? I don't say 'no'; I don't say 'yes'. I just say 'we're discussing it'; we're looking into it in detail."
+
+But just look to your daily life: you are buying returnable bottles or one-way bottles, and obviously for both there is a market."
+
+Defeats by Munster, Edinburgh and Ulster were followed by a run of nine wins in 11 Pro12 and European games, including a win against Toulon.
+
+Ospreys beat Scarlets 19-9 on Tuesday."
+
+Hopefully it's just a glitch. We'll see next week if it's a huge step back," Owens told BBC Radio Wales."
+
+We've bounced back well, we didn't have a great start [losing first three games] but we've built momentum."
+
+We've got some great performances in during the international period and over the last couple of weeks."
+
+Scarlets are fifth in the Pro12 following the Ospreys defeat but Owens is optimistic about their progress this season after a poor start to their league campaign."
+
+You can't win every game in the season and, as long as we turn up with a huge win against the Blues, then we'll be back in that winning groove again," Owens continued."
+
+You can't go all season winning every game, it's not going to happen, so we will put ourselves in a position now from the start we had."
+
+Scott Williams says Ospreys' kicking game proved vital in the defeat and says they need to look at themselves closely before facing Cardiff Blues on New Year's Day."
+
+We knew it was going to be close but there were too many mistakes and too many penalties," Williams said."
+
+Our defence has been pretty good the last couple of weeks but you can't be giving penalties away when they've got boys like Dan Biggar and Sam Davies in their team."
+
+We'll be tough on ourselves now. We've got another derby in four days so we've got to get our heads on for that and make sure we turn up."(
+
+CNN) -- [Breaking news alert, 9:12 a.
+
+m. ET Tuesday] . A 46-year-old Colorado man who had been presumed dead in the aftermath of the Colorado flooding has been found alive, authorities said Tuesday. The man says he managed to climb out of a window before his home was swept away by floodwaters, authorities said. [Previously published story] . The body of a 79-year-old woman was found this past weekend in the aftermath of the Colorado flooding, Larimer County authorities said Monday. The body of Evelyn Starner, of Cedar Cove, was discovered on a bank of the Big Thompson River, the sheriff's office said. It is the first confirmed fatality in the county due to the floods, and it brings the storm-related death toll in the state to eight. One other person in the county is currently listed as missing and presumed dead. A man previously listed as presumed dead checked in with authorities and is alive and well, the sheriff's office said. One other Cedar Cover resident, a 60-year-old woman, is still missing and presumed dead. Vice President Joe Biden visited Colorado on Monday and took a one-hour aerial tour to view the damage. He also checked on recovery efforts. "Once all these cameras are gone, once these press conferences are done, FEMA and the Red Cross are still going to be here until we make you whole. Until we make it right for you," Biden told Colorado residents. Biden said the federal government had approved $35 million thus far for road rebuilding and other projects. He said those funds wouldn't be affected by a possible government shutdown. Torrential rains fell September 12 in mountainous areas north of Denver, and such downpours persisted for several more days, adding up to 18.
+
+1 inches in parts of Boulder County and 15.
+
+6 inches in Adams County, Gov. John Hickenlooper said. The heavy rainfall spurred flash floods that turned picturesque canyons into funnels that deluged towns downstream and left hundreds stranded. More than a week later, many remained marooned -- cut off from the rest of the world thanks to floodwaters that wiped out roads and bridges. Tune strikes a poignant chord amid deluge in Colorado . How to help .

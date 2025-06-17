@@ -1,0 +1,51 @@
+Ingmar Bergman made a movie called "The Seventh Seal" in 1957. It shows the doom and gloom of the late Middle Ages caused by the Black Plague, famine, the Hundred Years' War between France and England, and papal schism.
+
+The movie "Taxi Driver" (which has the actor Robert De Niro) from 1976 has existential ideas in it. The main character feels sad and lonely, because he cannot understand the world.
+
+Jean-Luc Godard's "Vivre sa vie (film)" and Federico Fellini's 8 1/2 are prime examples of the Existentialism fashion in the European early 50's that influenced American films such as Easy Rider or The Graduate in the 1960s.
+
+King of the HillKing of the Hill was an American animated cartoon that ran from 1997 to 2010 on FOX. It featured a husband, a wife, a son, and their live-in niece. FOX, the network running the series, would not be showing new episodes anymore after its 13th and final season. The final four episodes aired in May 2010.
+
+HairdresserA hairdresser's job is to organise hair into a particular style or "look". They can cut hair, add colour to it or texture it. A hairdresser may be female or male. Qualified staff are usually called "stylists", who are supported by assistants. Most hairdressing businesses are unisex, that is, they serve both sexes, and have both sexes on their staff.
+
+Male hairdressers who simply cut men's hair (and do not serve females) are often called barbers.
+
+Qualifications for hairdressing usually mean a college course, or an apprenticeship under a senior stylist. Some aspects of the job are quite technical (such as hair dying) and require careful teaching.
+
+Eppie LedererEsther "Eppie" Pauline Friedman Lederer, better known as Ann Landers (July 4, 1918 – June 22, 2002), was an American writer. She is best known for writing the famous advice column "Ann Landers." For almost 45 years, it was a part of many newspapers across North America. In it, people wrote for advice and she answered.
+
+Lederer and her twin sister Pauline Esther Friedman Phillips, writer of the advice column "Dear Abby", were daughters of Russian Jewish emigrants.
+
+Northern bluefin tunaNorthern bluefin tuna are the largest kind of tuna fish. They live for 11 to 26 years. It is one of the largest, fastest, and most colorful of all the world’s fishes.
+
+Their name comes from the Latin: "Thunnus Thynnus"The normal size is 6.
+
+6 ft (2 m) at about 1,100 lb (500 kg). The I.
+
+G.
+
+F.
+
+A. record for a bluefin caught on rod and reel is 1,496 lb.
+
+Bluefins feed on mackerel, herring, mullet, whiting, squid, eels, and crustaceans. They are very powerful and fast and can swim at speeds up to 50 mph.
+
+The following are percentages of tuna caught in different regions in the world.
+
+AutomatonAn Automaton (one automaton, several "automata") is a concept from mathematics. Sometimes the concept is called "state machine". It is like an abstract machine.
+
+Such a machine can be given "input", which is either rejected, or accepted. It's like a vending machine. When something is bought, coins (or money) needs to be inserted into the machine. If these are the right coins, they are accepted, and the requested item is dropped so it can be removed. If the coins are wrong, they are rejected.
+
+Internally, the automaton has different "states" it can be in. Feeding it input may (or may not) change its state. That way, the automaton goes through all the input, consuming one item (which mathematicians call a symbol) at a time. When no symbol is left, the automaton is in a certain state. This may be an "final state". In this case the input is accepted. Otherwise, the input is rejected.
+
+If the machine has a countable, finite number of states, it is called "finite state machine". A diagram that shows all the states, and transitions of such a machine is called finite state diagram.
+
+Like in real life, there are machines that are too complex to understand. The mathematician and computer scientists therefore ask themselves if a certain automaton is "minimal". If it is not minimal, there must be another automaton with fewer states that can do the same thing. An example of an automaton is the Turing machine.
+
+Vending machineA vending machine is an automatic machine that sells food or drink or other items.
+
+An automated teller machine is a kind of vending machine, as are arcade games and bulk vending machines for toys or prizes, or anything that sells a physical item, service, or fun in exchange for money. Vending machine foods include snacks such as potato chips, chocolate bars, and candy. Hot vending machine drinks include coffee, tea, and hot chocolate. Cold vending machine drinks include juice, bottled water, and soft drinks. Other merchandise includes newspapers or cigarettes. Vending machines in bathrooms sometimes sell condoms, mouthwas h , or toothpaste and toothbrushes.
+
+The machines usually work when some money (usually coins or paper money) is put in a slot. Then, a button needs to be pushed, or a lever pulled. If there is enough money, the selected item will be dropped to a tray, where it can be taken out by hand. Ticket vending machines will print the ticket. Older vending machines were all mechanical, but most newer ones are partly electronic. Many modern vending machines can accept debit or credit cards in addition to cash.
+
+The first vending machine came about during 1st century AD in Roman Egypt and was invented by the Greek mathematician and engineer, Hero of Alexandria. It dispensed a certain amount of holy water, so people would not take much of it from the temple. People dropped tokens to release a certain amount of water.

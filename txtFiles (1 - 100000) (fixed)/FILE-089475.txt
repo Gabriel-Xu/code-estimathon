@@ -1,0 +1,85 @@
+Discussion The traits that engender initial engagement with a scientist’s work are distinct from, and sometimes opposite to, those that encourage the belief that the scientist does high-quality research. People reported more interest in the research of scientists who appear competent, moral, and attractive; when judging whether a researcher does “good science,” people again preferred scientists who look competent and moral, but also favored less sociable and more physically unattractive individuals. Notably, these sociocognitive traits “trumped” the influence of age, gender, and ethnicity—variables that are the primary of focus of much work on stereotypes and bias (37, 38)—implying an underlying source of influence that has received little attention in public discourse or academic studies of scientist stereotypes. Our results further demonstrate the centrality of apparent competence and morality to social outcomes (29, 39), and support the idea that sociability and morality are distinct components of social warmth (25, 40). The conflicting effects of attractiveness on interest and good scientist judgments indicate that, although the stereotypical scientist may be an impartial truth seeker with limited personal appeal (23, 31), people partly treat science communication as a form of entertainment, where emotional impact and aesthetic appeal are desirable qualities (41). Presumably, it is pleasant to look at attractive researchers even if they do not fit one’s conception of a top-notch scientist, a suggestion that is consistent with evidence that good-looking academics receive higher teacher evaluations but do not enjoy greater research success (32). These face-based impressions affected both the selection and evaluation of science news: People preferentially chose communications that were paired with scientists who looked interesting, and judged real science news stories more favorably when they were paired with faces that looked like good scientists. These results held for male and female researchers, for biology and physics news stories, and for text- and video-based communications, a breadth that implies that real-world metrics of communication success (e.
+
+g., web page views or social media feedback) will be positively correlated with the apparent competence of practicing academics. Although appearance can be an accurate signal of a person’s disposition or abilities (42), this is limited to specific circumstances and traits (19), and the same face can produce radically different impressions (43). Thus, the fact that the same piece of research is evaluated differently when arbitrarily paired with different faces means that facial cues are a potential source of bias in science communication. This bias was not always large, but it is practically significant given the current scale of web-based media production and dissemination, where the 60% preference for “interesting-looking” scientists found in the Video condition of study 3 would amount to tens or hundreds of thousands of extra views. Indeed, the effect was particularly strong for video communications, and the rising use of video media such as TED talks means that face-based judgments are likely to play an increasing role in shaping the public’s engagement with scientific research. Moreover, although people with greater science engagement reported more interest in scientists’ work, engagement did little to moderate the effects of facial appearance on the selection and evaluation of science communications, indicating a pervasive bias that may not readily be rectified by improving motivation or education. Our results show that science is a social activity whose outcomes depend on facial appearance in ways that may bias public attitudes and government actions regarding key scientific issues such as climate change and biotechnology. Moreover, because effective communication is increasingly important to scientists’ career progression (44), face-based biases may influence not just which scientists’ work gains popularity or acceptance among the public but also which scientific research is actually conducted, and by whom.
+
+Materials and Methods Ethical approval was granted by the University of Essex Faculty of Science Ethics Sub-committee. Participants gave informed consent and were given links to the original sources of the science news stories. The data are available via the University of Cambridge Data Repository. Studies 4 and 6 were preregistered on the Open Science Framework (osf.
+
+io/ev794; osf.
+
+io/fterb). Additional information about participants, stimuli, procedures, and results is provided in SI Appendix. Participants. Participants in study 1 who provided trait ratings for the scientist face set were members of the University of Essex (United Kingdom) participant panel and participated in the laboratory; all other participants were members of the US population recruited via an online platform (45). At the end of all studies, participants provided demographic information and completed a questionnaire to measure their engagement with science (e.
+
+g., “I am knowledgeable about science,”“I find scientific ideas fascinating”). Design and Procedure. Trial order, block order, stimulus locations, and assignment of participants to conditions were randomized. Assignments of news items to faces and conditions were counterbalanced. Unless otherwise noted, all studies presented stimuli sequentially. Studies 1 and 2. The study 1 faces were a random sample of profile pictures from the websites of the physics and genetics/human genetics departments of the top 200 ranked US universities (46), cropped and edited to have a gray background and uniform height (130 pixels). Study 2 used 400 faces randomly sampled from the biological sciences and physics departments of UK universities in proportion to the number of scientists from each institution submitted to the United Kingdom’s 2014 Research Excellent Framework, cropped and standardized to 150-pixel height and presented against their original background (47). Participants made judgments on a nine-point scale (1 = “not at all,” 9 = “extremely”). In study 1, 54 participants each rated the faces on traits related to competence (competence, intelligence), sociability (likability, kindness), and morality (trustworthiness, honesty) (48), as well as judging the attractiveness of the faces and estimating the face’s age in years (values below 16 and above 100 were discarded). Each dimension was judged in a separate block. The face set was divided into two subsets (54 biologists and 54 physicists per subset); 27 participants judged one subset; 26 judged the other. Two separate groups of participants indicated for all 216 photos “How interested would you be in finding out more about this person’s research?” ( N = 27 ) or “How likely is it that this person is a good scientist?” ( N = 27 ), with the latter defined as “someone who conducts accurate scientific research which yields valid and important conclusions.” In study 2, 762 participants rated all faces on 1 of 12 social traits related to competence (competent, intelligent, capable, effective), morality (trustworthy, honest, moral, fair), and sociability (likable, friendly, warm and sociable), or judged attractiveness; a further 68 judged age. Participants could skip a face if they recognized it. Two separate groups provided Interest judgments ( N = 103 ) and good scientist judgments ( N = 103 ); each participant judged one of six sets of 200 faces. In both studies, two independent judges rated the ethnicity (white vs. nonwhite) of the photos, with a third judge resolving discrepancies. Studies 3 and 4. Study 3 ( N = 849 ) used the titles of eight biology and eight physics news stories selected from a prerated pool. For each scientist gender, the four lowest- and four highest-scoring faces on the interest dimension were selected from the study 1 stimuli. To boost the plausibility of the cover story, participants in the video condition completed an audio check at the start of the session. Study 4 ( N = 408 ) used the four biology titles from study 3 with the least-extreme interest preratings. On each trial, one of two faces instantiating the relevant attractiveness–competence combination was randomly presented. Ratings were on a seven-point scale. Studies 5 and 6. Study 5 ( N = 558 ) used four biology and four physics news stories selected from a prerated set for being of similar, moderate quality, of high clarity, and very seldom recognized. The faces were those with the two lowest and two highest good scientist scores for each gender from study 1 (after excluding the lowest-scoring male because of conspicuous headwear). Study 6 ( N = 824 ) used the four physics news stories from study 3 with the least-extreme quality preratings, and the face stimuli from study 4. After reading all their articles, participants were shown the title and photo for each science article; they rated the rigor, importance, validity, and overall quality of the work on a seven-point scale and indicated whether they had seen the scientist (study 6) or read about the research (studies 5 and 6) before the experiment (recognized trials were excluded). The four judgments were averaged ( α S t u d y 5 = 0.
+
+882 ; α S t u d y 6 = 0.
+
+875 ). Data Analysis. All analyses used mixed-effects regression (49) with maximal but uncorrelated random effects, i.
+
+e., by-participant random intercepts and random slopes for all effects that are nested within participants (studies 1 to 6) and by-face random intercepts and random slopes for participant-level predictors (studies 1 and 2). Categorical predictors were coded as: gender (male = 0, female = 1); ethnicity (white = 0, nonwhite = 1); discipline (biology = 0, physics = 1); format (text = 0, video = 1); and face type (low on dimension of interest = 0; high = 1). All predictors were standardized (before computing interaction terms). To test simple main effects in study 3, we refit the model using dummy coding of the relevant predictor.
+
+Acknowledgments This work was supported by Economic and Social Research Council studentship ES/J500045/1.
+
+Footnotes Author contributions: A.
+
+I.
+
+G., M.
+
+J.
+
+C., and W.
+
+J.
+
+S. designed research; A.
+
+I.
+
+G. performed research; A.
+
+I.
+
+G. contributed new reagents/analytic tools; A.
+
+I.
+
+G. and W.
+
+J.
+
+S. analyzed data; and A.
+
+I.
+
+G., M.
+
+J.
+
+C., and W.
+
+J.
+
+S. wrote the paper.
+
+The authors declare no conflict of interest.
+
+This article is a PNAS Direct Submission. A.
+
+T. is a guest editor invited by the Editorial Board.
+
+This article contains supporting information online at www.
+
+pnas.
+
+org/lookup/suppl/doi:10.
+
+1073/pnas.
+
+1620542114/-/DCSupplemental.
+
+Freely available online through the PNAS open access option. |||||The Met Office has issued a yellow "be aware" warning for the south and central Scotland, Western Isles, Northern Isles and the Highlands .
+
+It said south westerly winds with gusts of around 75mph were expected near exposed coasts and over hills.
+
+Lewis-based meteorologist Dr Eddy Graham said the potential storm was of an intensity that used to be rare but has been occurring more frequently.
+
+The yellow warning covers from midday to 23:45 on Friday.

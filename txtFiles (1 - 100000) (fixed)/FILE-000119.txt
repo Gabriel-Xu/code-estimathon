@@ -1,0 +1,3 @@
+0 is also used as a numerical digit used to represent that number in numerals. It is used to hold the place of that digit, because correct placing of digits affects a numeral's value.
+
+Examples:The number 0 and the letter O are both round, though of different widths. The difference is important on a computer. For one thing, a computer will not do arithmetic with the letter O, because it does not know that it should have been a zero.

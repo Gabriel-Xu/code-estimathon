@@ -1,0 +1,55 @@
+Study PopulationUsing the Centers for Medicare and Medicaid Services carrier files for a 20% random sample of beneficiaries from January 1, 2008, through December 31, 2011, we identified index emergency department visits at acute care hospitals by Medicare beneficiaries. We defined an index visit as the earliest visit at which a beneficiary had an evaluation and a management claim by an emergency medicine physician with a place-of-service designation in the emergency department. Emergency medicine physicians were defined as physicians with an emergency medicine specialty who billed 90% or more of claims with an emergency department place of service. We included only one index visit to the emergency department per beneficiary and excluded all visits to the emergency department that resulted in a hospital admission.
+
+We limited our analyses to beneficiaries who had been continuously enrolled in Medicare Part D for 18 months or more, including at least the period from 6 months before the index visit to 12 months afterward. We included only beneficiaries who had not had an opioid prescription filled in the 6 months before the index visit. In addition, we excluded beneficiaries with hospice claims or a cancer diagnosis between 2008 and 2012.
+
+We assigned each index emergency department visit to a physician according to the billing National Provider Identifier (NPI) and then linked each visit to a hospital by matching to facility claims in the outpatient department file according to the date and beneficiary. To ensure that we had an adequate sample size at the physician and hospital level, we excluded physicians with fewer than five emergency department visits and hospitals with fewer than five physicians billing for emergency department visits in our sample. If physicians practiced in more than one hospital, they were assigned to the hospital at which they had the most visits, and any visits at other facilities were excluded.
+
+This study was approved by the institutional review board at Harvard Medical School, which waived the requirement for informed consent since the data were deidentified and only aggregate results would be reported.
+
+Definitions of Opioid Prescriptions and Intensity of Physicians’ PrescribingWe identified prescription claims corresponding to an opioid (excluding methadone) according to the National Drug Code in the Medicare Part D database.
+
+16 We attributed an opioid prescription to an index emergency department visit and the associated physician if it was filled by the patient within 7 days after the date of the emergency department visit; in a sensitivity analysis, we restricted this duration to 3 days. This attribution method was necessary because prescriber NPI information is not available in the Part D database (see the Methods and Results section in the Supplementary Appendix, available with the full text of this article at NEJM.
+
+org). For this and subsequent opioid prescriptions, we extracted the number of days for which opiates were supplied and calculated the morphine equivalents dispensed, using standard conversion tables.
+
+21We defined the main exposure as treatment by a “high-intensity” or “low-intensity” opioid prescribing physician within the same hospital. For each physician, we first calculated the proportion of all emergency department visits after which an opioid prescription was filled. We then grouped physicians into quartiles of rates of opioid prescribing within each hospital and classified physicians as being in the top (high-intensity) or bottom (low-intensity) quartile of prescribing rates. In 93 hospitals, because of a high number of prescribers who did not prescribe opioids, there were fewer than four separate groups of prescribers to assign to quartiles; therefore, the highest and lowest prescribers in a hospital were assigned to the high-intensity and low-intensity groups. We also defined an alternative exposure, classifying physicians according to the median dose (in morphine equivalents) of prescriptions filled after an emergency department visit (“high-dose intensity” and “low-dose intensity”).
+
+OutcomesOur primary outcome was long-term opioid use, which we defined as 180 days or more of opioids supplied in the 12 months after an index emergency department visit, excluding prescriptions within 30 days after the index visit. We applied this exclusion because otherwise this outcome, by design, would be correlated with our definition of the main exposure. We chose 180 days as a specific marker for clinically significant long-term opioid use beyond the common duration of 90 days described in previous literature.
+
+16,22,23 Therefore, this outcome captures the extent to which other physicians prescribe opioids for the subsequent 12 months after a patient’s index emergency department visit.
+
+Secondary outcomes were rates of hospital encounters (emergency department visits, hospitalizations, or both), including those potentially related to adverse effects of opioids and those associated with a selection of medical conditions that were unlikely to be influenced by opioid use, in the 12 months after an index emergency department visit (definitions are provided in the Methods and Results section in the Supplementary Appendix).
+
+8-10,24 To assess for possible undertreatment of pain by low-intensity prescribers that could have led to repeat emergency care, we also measured rates of repeat emergency department visits at 14 and 30 days that resulted in the same primary diagnosis as the initial emergency department visit, classified according to Clinical Classifications Software (CCS) groups (categorizations of codes in the International Classification of Diseases, 9th Revision).
+
+25Patient CovariatesTable 1. Table 1. Characteristics of the Patients, According to Opioid Prescribing Intensity of Physician Seen.
+
+We collected information on the patients’ age, sex, race or ethnic group, dual eligibility for Medicaid and Medicare coverage, and disability status.
+
+26 Using the Chronic Conditions Warehouse database, we also captured the presence of any of 11 chronic conditions (Table 1) as well as the number of coexisting chronic conditions that a patient had at the time of an index emergency department visit.
+
+Statistical AnalysisOur strategy to reduce selection bias relied on the assumption that within the same hospital, patients do not choose specific emergency physicians, and therefore patients treated by physicians of varying opioid prescribing intensity may be similar with respect to both observable and unobservable characteristics. To assess this approach, we compared the characteristics of patients who saw high-intensity prescribers with those who saw low-intensity prescribers. We assessed balance in the case mix by comparing rates of visits classified according to the top 25 CCS groups, as well as by plotting the cumulative distribution of the primary-diagnosis CCS group between high-intensity and low-intensity prescribers. Differences in distributions between groups were assessed with the use of the Kolmogorov–Smirnov test.
+
+27Table 2. Table 2. Rate of Filling a Prescription for Opioids within 7 Days after Emergency Department Visit and Rate of Long-Term Use, According to Opioid Prescribing Intensity of Physician Seen.
+
+We then computed unadjusted rates and odds ratios for each outcome, stratified according to treatment by a high-intensity or low-intensity opioid prescriber. To account for residual differences between patient populations, we estimated adjusted odds ratios with patient-level multivariable logistic regression. Dependent variables were the occurrence of primary or secondary outcomes. The key explanatory variable was a binary indicator for whether a patient was treated by a high-intensity or low-intensity prescriber (the middle two quartiles of prescribers were not included in these models). Other covariates included the patients’ age, sex, race or ethnic group, Medicaid eligibility, and disability status, as well as the presence of 11 different chronic conditions. We prespecified several subgroup analyses to assess for heterogeneity (Table 2). All models accounted for grouping of patients within hospitals with the use of robust standard errors clustered at the hospital level.
+
+28The hypothetical long-term effect of filling an initial opioid prescription after an emergency department visit versus not filling a prescription was estimated to approximate the number of patients who would need to be prescribed an initial opioid for one patient to become a long-term user. A definition of “number needed to harm” is provided in the Methods section in the Supplementary Appendix.
+
+29We performed additional sensitivity analyses to address the possibility of selection bias and sensitivity to design assumptions (details are provided in the Methods section in the Supplementary Appendix). These analyses included an alternative exposure in which intensity was defined according to the median dose of opioid prescription filled after an emergency department visit, as described above. Replicating our results with an alternative definition of exposure that operates through a similar causal pathway (increased opioid exposure) could argue against selection bias, particularly if the two exposures (dose and frequency of opioid prescribing) are minimally correlated.
+
+All analyses were performed with the use of Stata software, version 14.
+
+1 (StataCorp). The 95% confidence intervals around reported estimates reflect 0.
+
+025 in each tail, or P values no higher than 0.
+
+05. ||||| Some emergency room doctors are far more likely than others even within their own department to prescribe opioids to treat pain in older people, and their patients are at greater risk of using the powerful drugs chronically than those who saw doctors who prescribe them less frequently, according to a large new study.
+
+The research was published Wednesday in The New England Journal of Medicine.
+
+As the opioid epidemic continues to devastate communities around the country, the study was the latest attempt to identify a starting point on the path to excessive use.“
+
+This is the analysis we have been looking for to show the risk of a single exposure of a patient in an emergency room to an opioid,” said Dr. Lewis S. Nelson, the chairman of emergency medicine at Rutgers New Jersey Medical School and University Hospital, who was not involved in the study.
+
+The study tracked about 375,000 Medicare patients with a similar range of complaints in several thousand hospital emergency rooms from 2008 to 2011, as well as the frequency of opioid prescriptions written by the doctors who treated them. It found that the prescribing patterns of whichever physician they encountered were an important factor in their future opioid use. |||||

@@ -1,0 +1,151 @@
+The common cold is generally mild and goes away on its own with most symptoms improving in one week. Severe complications, if they occur, are usually in the very old, the very young, or those who are immunosuppressed (have a weakened immune system). Secondary bacterial infections may occur resulting in sinusitis, pharyngitis, or an ear infection. It is estimated that sinusitis occurs in 8% of cases. Ear infections occur in 30% of cases.
+
+The common cold is the most common human disease and people are affected all around the world. Adults typically have two to five infections per year. Children may have six to ten colds per year (and up to twelve colds per year for school children). Rates of symptomatic infections increase in the elderly due to a weakening immune system.
+
+While the cause of the common cold has been known since only the 1950s, the disease has been with humanity since ancient times. Its symptoms and treatment are described in the Egyptian Ebers papyrus, the oldest existing medical text, written before the 16th century BC. The name "common cold" came into use in the 16th century, due to the similarity between its symptoms and those of exposure to cold weather.
+
+In the United Kingdom, the Common Cold Unit (CCU) was set up by the Medical Research Council in 1946, and it was here that the rhinovirus was discovered in 1956. In the 1970s, the CCU demonstrated that treatment with interferon during the incubation phase of rhinovirus infection provided some protection against the disease. No practical treatment could be developed. The unit was closed in 1989, two years after it completed research of zinc gluconate lozenges in the prevention and treatment of rhinovirus colds. Zinc was the only successful treatment developed in the history of the CCU.
+
+The economic impact of the common cold is poorly understood in much of the world. In the United States, the common cold leads to 75 million to 100 million physician visits annually, costing at least $7.
+
+7 billion per year (by conservative cost estimates). Americans spend $2.
+
+9 billion on over-the-counter (OTC) drugs. Americans spend an additional $400 million on prescription medicines for symptomatic relief. More than one-third of people who saw a doctor received an antibiotic prescription. The use of antibiotic prescriptions has implications for antibiotic resistance. An estimated 22 million to 189 million school days are missed each year due to a cold. As a result, parents missed 126 million workdays to stay home to care for their children. When added to the 150 million workdays missed by employees suffering from a cold, the total economic impact of cold-related work loss exceeds $20 billion per year. This accounts for 40% of time lost from work in the United States.
+
+A number of antivirals have been tested for effectiveness in the common cold. As of 2009, none have been both found effective and licensed for use. There are ongoing trials of the antiviral drug pleconaril. It shows promise against picornaviruses. There are also ongoing trials of BTA-798. The oral form of pleconaril had safety issues and an aerosol form is being studied.
+
+Researchers from the University of Maryland, College Park and the University of Wisconsin–Madison have mapped the genome for all known virus strains that cause the common cold.
+
+Qajar dynastyThe Qajar dynasty (Azerbaijani: Qacarlar) (Persian: سلسله قاجار), was an Iranian dynasty that originated from the Turkic Qajar tribe. It ruled Iran from 1789 to 1925.
+
+Zenwalk LinuxZenwalk (formerly Minislack), or Zenwalk Linux, is a Linux distribution started by Jean-Philippe Guillemin. It was at first based on Slackware. Since its creation, the distribution has become very different from Slackware while still still being able to use its binary packages. Zenwalk aims to be a Linux distribution with many uses by focusing on Internet applications, multimedia and programming tools.
+
+The Zenwalk Project aims to create a Linux operating system that can be used on old and slow computers through the use of the latest software available for a stable release, optimization for a specific processor architecture to increase execution speed, and introduces a very powerful package management system with dependency resolution.
+
+There are four main versions of Zenwalk:Zenwalk (full version ~ 420 MB iso download) is a distribution aimed at mainstream desktop use. Designed to be a stand-alone operating system, it installs to the hard drive by way of a ncurses-based installer. It includes all of the officially released software packages that are deemed most useful for their tasks. This collection may change with every release.
+
+Zenwalk Core (~ 230 MB iso download) is a Zenwalk system built with customization in mind. Released with no X Window System binaries, its aim is to allow a skilled user to build a system fit for his or her needs. The project's lead developer is Emmanuel Bailleul.
+
+ZenLive (~ 476 MB iso download) is a Zenwalk system built on a Live CD design. ZenLive follows the progress made by the full Zenwalk system closely, thus mirroring the version number, and attempts to stay true to the original distribution's goals. In addition, it includes all of the necessary libraries and applications to develop and compile software, a particularly rare feature in Live CD distributions. Project members include Pierrick Le Brun, creator, Mauricio Tricoli, project lead, and Michael Verret, artwork.
+
+Zenserver (~ 263 MB iso download) is a Zenwalk Core-derived system specifically designed for servers. The main goals are to create a secure, reliable, easy to use, easy to configure, expandable and dependable server operating system, in the best Zenwalk tradition. The distribution development team is led by Teran McKinney.
+
+There are currently four Zenwalk-based distributions:Thermodynamic equilibriumIn thermodynamics, a thermodynamic system is said to be in thermodynamic equilibrium when it is in thermal equilibrium, mechanical equilibrium, radiative equilibrium, and chemical equilibrium. The local state of a system at thermodynamic equilibrium is determined by the values of its intensive parameters, as pressure, temperature, etc. Specifically, thermodynamic equilibrium is characterized by the minimum of a thermodynamic potential.
+
+Thermodynamic potentialIn thermodynamics, thermodynamic potentials are parameters associated with a thermodynamic system and have the dimensions of energy. They are called "potentials" because in a sense, they describe the amount of potential energy in a thermodynamic system when it is subjected to certain constraints. The different potentials correspond to different constraints to which the system may be subjected. The four most common thermodynamic potentials are:where "T" = temperature, "S" = entropy, "p" = pressure, "V" = volume. The Helmholtz free energy is often denoted by the symbol "F", but the use of "A" is preferred by IUPAC (See Alberty, 2001). formula_1 is the number of particles of type "i" in the system. For the sake of completeness, the set of all formula_1 are also included as natural variables, although they are sometimes ignored.
+
+Thermodynamic potentials are very useful when calculating the equilibrium results of a chemical reaction, or when measuring the properties of materials in a chemical reaction. The chemical reactions usually take place under some simple constraints such as constant pressure and temperature, or constant entropy and volume, and when this is true, there is a corresponding thermodynamic potential which comes into play. Just as in mechanics, the system will tend towards lower values of potential and at equilibrium, under these constraints, the potential will take on an unchanging minimum value. The thermodynamic potentials can also be used to estimate the total amount of energy available from a thermodynamic system under the appropriate constraint.
+
+Thermal efficiencyThe thermal efficiency (formula_1) is a dimensionless performance measure of a thermal device such as an internal combustion engine, a boiler, or a furnace, for example.
+
+The input, formula_2, to the device is heat, or the heat-content of a fuel that is consumed. The desired output is mechanical work, formula_3, or heat, formula_4, or possibly both. Because the input heat normally has a real financial cost, a memorable, generic definition of thermal efficiency isformula_5From the first and second law of thermodynamics, the output can not exceed what is input, soformula_6When expressed as a percentage, the thermal efficiency must be between 0% and 100%. Due to inefficiencies such as friction, heat loss, and other factors, thermal efficiencies are typically much less than 100%. For example, a typical gasoline automobile engine operates at around 25% thermal efficiency, and a large coal-fueled electrical generating plant peaks at about 36%. In a combined cycle plant thermal efficiencies are approaching 60%.
+
+When transforming thermal energy into mechanical energy, the thermal efficiency of a heat engine is the percentage of energy that is transformed into work. Thermal efficiency is defined asformula_7,or via the first law of thermodynamics to substitute waste heat rejection for the work produced,formula_8.
+
+For example, when 1000 joules of thermal energy is transformed into 300 joules of mechanical energy (with the remaining 700 joules dissipated as waste heat), the thermal efficiency is 30%.
+
+For an energy conversion device like a boiler or furnace, the thermal efficiency isformula_9.
+
+So, for a boiler that produces 210 kW (or 700,000 BTU/h) output for each 300 kW (or 1,000,000 BTU/h) heat-equivalent input, its thermal efficiency is 210/300 = 0.
+
+70, or 70%. This means that the 30% of the energy is lost to the environment.
+
+An electric resistance heater has a thermal efficiency of at or very near 100%, so, for example, 1500W of heat are produced for 1500W of electrical input. When comparing heating units, such as a 100% efficient electric resistance heater to an 80% efficient natural gas-fueled furnace, energy prices must be compared to find the lower cost.
+
+Heat pumps, refrigerators, and air conditioners, for example, move heat, rather than convert it, so other measures are needed to describe their thermal performance. The common measures are the coefficient-of-performance (COP), energy-efficiency ratio (EER), and seasonal-energy-efficiency ratio (SEER).
+
+The Efficiency of a Heat pump (HP) and Refrigerators (R)*:formula_10formula_11formula_12If temperatures at both ends of the Heat Pump or Refrigerator are constant and their processes reversible:formula_13formula_14The 'thermal efficiency' is sometimes called the energy efficiency. In the United States, in everyday usage the SEER is the more common measure of energy efficiency for cooling devices, as well as for heat pumps when in their heating mode. For energy-conversion heating devices their peak steady-state thermal efficiency is often stated, e.
+
+g., 'this furnace is 90% efficient', but a more detailed measure of seasonal energy effectiveness is the Annual Fuel Utilization Efficiency (AFUE).
+
+Thermodynamic stateA thermodynamic state is the macroscopic condition of a thermodynamic system as described by its particular thermodynamic parameters. The state of any thermodynamic system can be described by a set of thermodynamic parameters, such as temperature, pressure, density, composition, independently of its surroundings or history.
+
+The parameters required to specify the state depend on the characteristics of the system. There is an optimal ensemble of parameters that uniquely specify the state, and all other parameters can be derived from these. The "state postulate" says that the state of a simple compressible system is completely specified by two independent, intensive properties.
+
+Thermal physicsThermal physics is the combined study of thermodynamics, statistical mechanics, and kinetic theory. This umbrella-subject is typically designed for physics students. It gives a general introduction to each of the three core heat-related subjects. Some people define thermal physics loosely as only thermodynamics and statistical mechanics.
+
+Thermal physics is the study of the statistical nature of physical systems from an energy perspective. Starting with heat and temperature, thermal physics analyzes the first law of thermodynamics and second law of thermodynamics from the statistical perspective, in terms of the number of microstates corresponding to a given macrostate. In addition, the concept of entropy is studied via quantum theory.
+
+A central topic in thermal physics is the canonical probability distribution. The electromagnetic nature of photons and phonons are studied which show that the oscillations of electromagnetic fields and of crystal lattices have much in common. Waves form a basis for both, provided one incorporates quantum theory.
+
+Other topics studied in thermal physics include: chemical potential, the quantum nature of an ideal gas, i.
+
+e. in terms of fermions and bosons, Bose-Einstein condensation, Gibbs free energy, Helmholtz free energy, chemical equilibrium, phase equilibrium, the equipartition theorem, entropy at absolute zero, and transport processes as mean free path, viscosity, and conduction.
+
+There are two types of thermodynamic instruments, the meter and the reservoir. A thermodynamic meter is any device which measures any parameter of a thermodynamic system. In some cases, the thermodynamic parameter is defined in terms of an idealized measuring instrument. The zeroth law states that if two bodies are in thermodynamic equilibrium with a third body, they are also in thermodynamic equilibrium with each other. This principle, as noted by James Maxwell in 1872, asserts that it is possible to measure temperature. An idealized thermometer is a sample of an ideal gas at constant pressure.
+
+A thermodynamic reservoir is a system which is so large that it does not appreciably alter its state parameters when brought into contact with the test system.
+
+It is important that these two types of instruments are distinct. A meter does not perform its task accurately if it behaves like a reservoir of the state variable it is trying to measure. If, for example, a thermometer, were to act as a temperature reservoir it would alter the temperature of the system being measured, and the reading would be incorrect. Ideal meters have no effect on the state variables of the system they are measuring.
+
+Statistical mechanicsStatistical mechanics is the application of probability theory, which includes mathematical tools for dealing with large populations, to the field of mechanics, which is concerned with the motion of particles or objects when subjected to a force.
+
+It provides a framework for relating the microscopic properties of individual atoms and molecules to the macroscopic or bulk properties of materials that can be observed in everyday life, therefore explaining thermodynamics as a natural result of statistics and mechanics (classical and quantum) at the microscopic level. In particular, it can be used to calculate the thermodynamic properties of bulk materials from the spectroscopic data of individual molecules.
+
+This ability to make macroscopic predictions based on microscopic properties is the main asset of statistical mechanics over thermodynamics. Both theories are governed by the second law of thermodynamics through the medium of entropy. However, entropy in thermodynamics can only be known empirically, whereas in statistical mechanics, it is a function of the distribution of the system on its micro-states.
+
+Kinetic theoryKinetic theory or "kinetic theory of gases" attempts to explain overall properties of gases, such as pressure, temperature, or volume, by considering their molecular composition and motion. The theory basically states that pressure is not caused by molecules pushing each other away, like earlier scientists thought. Instead, pressure is caused by the molecules colliding with each other and their container. Kinetic theory is also known as "kinetic-molecular theory" or "collision theory".
+
+There are three main components to kinetic theory:The main postulate of this theory are--1.
+
+The particles attract each other with a force. This force is called cohesive force if the particles are of same kind and adhesive force when particles are of different kinds.
+
+2. All matter is composed of small particles called molecules. (Atoms or ions as the situation demands).
+
+3. The particles are in a state of unending motion (continuous motion) and as such have kinetic energy.
+
+4. with the supply of heat energy (thermal energy) to matter, the kinetic energy of a particle increase, i.
+
+e., they start moving more vigorously. Reverse happens if the matter is cooled.
+
+i.
+
+e., heat energy is taken out of it.
+
+5. The force of attraction between the particles decreases, if the distance between them increases and vice versa.
+
+Last updated Sat,16 May 20209:00 pmBy Rachit VishwakarmaFrikFrik was an Armenian poet who lived in the 13th and 14th centuries, at the time of Mongolian control over Armenia.
+
+MongolianMongolian might mean:Yeghishe CharentsYeghishe Charents (born Yeghishe Soghomonian, ) (13 March 1897, Kars - 29 November 1937, Yerevan) was an Armenian poet killed in Stalin's purges.
+
+From 1904 to 1912 Yeghishe Soghomonian he was at school in Kars. Amid the upheavals of the First World War and the Armenian Genocide in the Ottoman Empire, he volunteered in 1915 for the Caucasian Front. In 1917-1918 he was in Karin Erzurum during the bitter fighting. Some of his experiences would later appear in his poetry.
+
+Yeghishe Charents (Soghomonian), one of the nation's favourite poets - a famous philanderer who apparently sought the USSR Kremlin's favours - produced a now famous poem called "The Message". Its praise of Uncle Joe might grind the average set of teeth down to the gum; it included the following: "A new light shone on the world... It is only this sunlight/Which for centuries will stay alive." And more of the same.
+
+Undiscovered by the USSR Kremlin's censors for many months, however, Charents (1897 - 1937) had used the first letter of each line to frame a quite different "message", which read: "O Armenian people, your only salvation is in the power of your unity." Whoops! Like the distant Mount Ararat, it was a brave, hopeless symbol, as doomed as it was impressive. Yeghishe Charents was "disappeared" by the NKVD (KGB) in 1937 after being denounced by the architect Alexsandr Tamanyan - now hard at work building Yerevan's new Stalinist opera house - the moment Yeghishe Charents' schoolboy prank was spotted. Then Alexsandr Tamanyan fell from the roof of his still unfinished opera house, and even today Armenians - with their Arab-like desire to believe in "заговор" the plot - ask the obvious questions."
+
+Three songs to the sad and pale girl", poems (1914)"Blue-eyed Homeland", poem (1915)"Soma", poem (1918) Yerevan"Charents-Name", poem (1922)"Uncle Lenin", poem (1924)"Country of Nayiri" (Yerkir Nayiri) (1926)"Epical Sunrise", poems (1930)"Book of the Way", poems (1934)KarsKars (, ) is a city in northeast Turkey and is the capital of the Kars Province, before at the head of a sanjak in the Turkish vilayet of Erzurum. Population: 8,672 (1878); 20,891 (1897); 54,000 (1970); 142,145 (1990); 130,361 (2000).
+
+The early history of Kars is little known, beyond that it had its own dynasty of Armenian rulers and was the capital of a region known as Vanand. At some point in the 9th century (at least by 888) it became part of the territory of the Armenian Bagratids. From 928 to 961 Kars became the capital of their kingdom. It was during this period that the cathedral, later known as the Church of the Apostles, was built.
+
+Kars ProvinceKars is a province of Turkey. It is in the northeastern part of the country. It shares part of its border with the Republic of Armenia.
+
+From 1878 until 1917 most of the present-day Turkish province of Kars was part of the Russian oblast of Kars.
+
+In 1919 and 1920 the province came under the control of the Democratic Republic of Armenia as the Vanand province (with the city of Kars as its capital). Its territory was ceded to Turkey by the Soviet Union in the Treaty of Kars.
+
+Kars province is divided into 8 districts ("ilçe"), each named after the administrative center of the district:There are 383 villages in Kars.
+
+Manny GamburyanManvel Gamburyan (was born in 1981) is a mixed martial artist with a history in judo. Manvel was chosen as a participant on the reality show "The Ultimate Fighter 5". He fights on Jens Pulver's team. Manny defeated Noah Thomas in the preliminary round.
+
+In May, 1991, Manvel's family relocated from Armenia to United States. Shortly after his arrival, Manvel began training in judo at Gokor Chivichyan's Hayastan MMA Academy and quickly became one of the top judokas in the country, winning junior nationals less than two years later. He went on to win junior nationals eight times, the junior Olympics once, and was a member of the 2000 judo junior world team.
+
+The Mickey Mouse ClubThe Mickey Mouse Club was an American variety television series that began in 1955, ran intermittently, and left the air in 1996. It was directed by Walt Disney Productions.
+
+Over the years, the series featured many stellar teenage performers including Annette Funicello, Britney Spears, and Justin Timberlake. The original series ran newsreels, cartoons, talent segments, and Disney produced serials such as The Hardy Boys with Tommy Kirk and Tim Considine."
+
+Mickey Mouse Club" was hosted by Jimmie Dodd, a songwriter and the Head Mouseketeer. He provided leadership both on and off screen. In addition to his other contributions, he often provided short segments encouraging young viewers to make the right moral choices. These little sermons became known as "Doddisms".
+
+FantaFanta is an orange soda drink. It was created in Germany in 1940.
+
+Fanta was created during World War II in Nazi Germany by the German Coca-Cola (GmbH) bottling company. Because of the war, there was no shipping between Nazi Germany and the United States. Therefore, the German bottling plant could no longer get Coca-Cola syrup. The manager of the plant, Max Keith, needed to do something to keep the plant going. He came up with a fruit-flavored drink made from whatever he could find. Using apple fiber leftover from lollipops and whey, from cheesemakers, Fanta was created and became quite popular. The original German Fanta had a red-orange color from beets and tasted different from today's Fanta Orange; the flavor would change during the war, depending on what ingredients could be found.
+
+Back in America, the Coca-Cola Company—led by Robert Woodruff—did not discourage this. The company sponsored the 1936 Berlin Olympics, which Woodruff attended, and made banners featuring the Coca-Cola logo alongside the Hooked cross/ Hakenkreuz. Keith used a 10th anniversary party for Coca-Cola GmbH to order a mass Sieg-Heil (Nazi salute) in honor of the dictator’s 50th birthday. He declared that this was “to commemorate our deepest admiration for our Fuhrer.”
+
+The name 'Fanta' came during an employee contest to name the new beverage. Keith told them to let their Fantasie (German for imagination) run wild. On hearing that, salesman Joe Knipp thought of the name "Fanta".
+
+After the war, Fanta was brought to the United States by Coca-Cola, and in 1960 they bought the trademark. Fanta Orange is the most popular Fanta flavor. It is available in 180 countries. Fanta is more popular in Europe and South America than in the United States.
+
+There are over 90 different flavors worldwide. Most of them are only available by region in some countries. For example, in Romania (and some other countries), there is "Fanta Shokata" based on the traditional Romanian drink "Socată". This drink is made from Elderflower. In Switzerland and the Netherlands the local fruit, blackcurrant is used to make Fanta as well. Some identical flavors have different names in different markets. “The classic orange”, for example, was renamed "Fanta Funky Orange" in 2003 for the Nordic countries and Belgium, while other countries have kept the older "Fanta Orange" brand name. As of the year 2005, the Fanta brand has been connected with the word "Bambaacha" (or "Bamboocha"), which is often seen in the Fanta commercials. TaB diet Cola was originally produced by the Fanta division of Coca-Cola. It was available in different non-cola flavors as well. Later in 2005, Fanta branched out into new Fanta Zero (diet versions) varieties in Great Britain and in other countries as well.
+
+Parameter

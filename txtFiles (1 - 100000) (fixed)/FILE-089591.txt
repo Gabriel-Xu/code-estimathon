@@ -1,0 +1,81 @@
+larger image TIFF original image Download: Table 1. Pb concentrations from analysis of Franklin expedition sailors and relevant comparative contexts discussed here and within past publications. https://doi.
+
+org/10.
+
+1371/journal.
+
+pone.
+
+0202983.
+
+t001 Many questions remain regarding the source(s) of Pb as well as the level and duration of exposure, especially since Pb exposure was common in the 19th century in many occupations such as mining, printing, and manufacturing [26]. Thus, while Pb levels from the Franklin Expedition crew’s skeletal remains appear high when compared with those from contemporary Inuit and modern individuals, a key limitation of assessing the significance of the Pb levels is the availability of contemporary comparative data [22, 27]. Recently published data for skeletal remains from the Royal Naval Hospital cemetery (1793–1822), English Harbour, Antigua, report Pb levels as high as 251 ppm [24]. While direct comparison of quantitative data should be made cautiously due to differences in analytical techniques, such values for another contemporary sample from the British Navy suggest that the Pb exposure on the Franklin expedition was not uniquely high. Further caution is warranted when interpreting Pb levels from archaeological remains due to the potential impacts of diagenesis. While traditional techniques such as atomic absorption spectrometry (AAS), inductively coupled plasma atomic emission spectroscopy (ICP-AES) and ICP mass spectrometry (ICP-MS) can be used to identify the overall bulk concentration of a particular element in a sample, the origin of the element remains uncertain due to potential diagenetic factors that may have resulted in the uptake of environmental trace elements into the bone sample. Moreover, as Montgomery and colleagues comment, Pb is not distributed homogeneously through the skeleton, so bulk analysis makes it impossible to know if the Pb is present because of a single acute exposure or from a low chronic exposure [28]. These problems can be mitigated by using the synchrotron radiation X-ray fluorescence imaging (SR-XFI) technique which reveals the precise spatial distribution of elements and thus their association with microstructural features such as secondary osteons found in cortical bone that are created throughout life through the process of remodeling [29–31]. SR-XFI has been previously employed by Martin and colleagues (2013) to examine Pb within three bone samples derived from expedition crew members (one from Beechey Island (Hartnell) and two from King William Island) [32]. They found a wide distribution of Pb thereby suggesting that there was no massive increase of Pb towards the end of these individuals’ lives; however, they lacked the spatial resolution necessary to precisely examine the patterning of Pb within individual microstructural features. Thus, within the current study, we aimed to utilize high resolution SR-XFI in confocal mode on a larger set of bone and dental samples to shed further light on the historical question of the Pb exposure of the Franklin expedition crew. Specifically, through the analysis of the microstructural patterning of Pb we investigated three hypotheses related to the level, duration and timing of exposure. First, if elevated Pb exposure was experienced by the crew during the expedition, we hypothesized that those sailors who survived longer would exhibit more extensive uptake of Pb in the microstructure of their bones and vice versa. To test this hypothesis, we contrasted the spatial patterns of Pb distribution in bone samples retrieved from Beechey Island and King William Island. Second, we hypothesized that Pb concentration would be markedly elevated in bone and dental microstructural features forming at or near the time of death. Finally, we hypothesized that the bone microstructure of crew members would exhibit evidence of higher and more sustained uptake of Pb than that observed in skeletal remains from a contemporary comparator population such as the Royal Naval Hospital cemetery (1793–1822), Antigua.
+
+Materials and methods Bone samples For this study, we focused on cortical bone samples to facilitate the examination of Pb distribution within microstructural features to interpret the extent and timing of Pb exposure. High and sustained exposure to Pb should result in enrichment of newly formed primary bone (e.
+
+g. due to surface apposition) as well as newly formed secondary bone (e.
+
+g. secondary osteons) produced by remodeling which involves resorption of existing bone followed by new formation (Fig 2). With respect to timing of exposure, newly forming secondary osteons in compact bone can be identified by their relatively large central canals. Further, newly completed, and thus relatively young, osteons are hypomineralized relative to older microstructural features (e.
+
+g. mature osteons and interstitial/osteon fragments). PPT PowerPoint slidePowerPoint slide PNG larger imagelarger image TIFF original image Download: Fig 2. Idealized schematic representation of human cortical bone microarchitecture and the process of remodeling. (a) A bone is bounded by outer periosteal (PO) and inner endosteal (EO) surfaces. During growth, layers of bone known as primary lamellae (PL) can accumulate on either surface but predominantly do so at the periosteal surface. Following growth, the primary lamellae are largely replaced by secondary osteons. Fully mature osteons (MO) have a mineral density comparable to surrounding bone structure (matching grey level). Initially, newly formed young osteons (YO) are relatively hypomineralized (darker grey) and progressively accumulate mineral until they reach the mature state. As remodeling progresses, overlapping osteons may leave interstitial fragments (IF) of the primary lamellae as well as osteon fragments (OF). (b) Remodeling begins with the creation of a resorption space (RS) cutting through the existing microarchitecture. (c) The reversal between resorption and formation is marked by the cement line (CL), which outlines all secondary osteons. New concentric lamellae of bone begin to form within the resorption space, constituting a forming osteon (FO). (d) Bone formation continues centripetally until completed, leaving a central vascular canal within a new young osteon (YO). https://doi.
+
+org/10.
+
+1371/journal.
+
+pone.
+
+0202983.
+
+g002 All bone samples that were studied are listed in Table 2 along with contextual data (e.
+
+g. Pb levels from previous ICP-MS assessments). A total of 14 bone samples, representing 13 individuals were comprised of two Beechey Island samples (Torrington and Hartnell), ten King William Island samples, and two samples from the Antigua Royal Naval Hospital Cemetery (1793–1822) [33]. PPT PowerPoint slidePowerPoint slide PNG larger imagelarger image TIFF original image Download: Table 2. List of the bone samples studied. https://doi.
+
+org/10.
+
+1371/journal.
+
+pone.
+
+0202983.
+
+t002 The samples from King William Island (KWI) originated from two sites (NgLj-2 and NgLj-3) at Erebus Bay, on the northwest coast of the island. These sites were first discovered in 1859 and 1861, respectively, and the principal feature of each was a ship’s boat containing expedition supplies and equipment, and human skeletal remains [35]. At both sites, human bones were also found on the ground surface. When revisited in 1879, the skeletal remains at NgLj-3 were collected and placed in a shallow grave [36], which was excavated in 2013 [37]. Samples were obtained for the current study from bones temporarily removed from NgLj-2 and NgLj-3 for other analyses. The samples were curated in a secure storage facility at Trent University, Peterborough, Ontario and were returned to the sites in 2014. Samples from Beechey Island (BI), which were recovered from permafrost graves [19] were also curated temporarily at Trent University. They were returned to the Canadian Museum of History in Ottawa, Ontario post-analysis. The Royal Naval Hospital Cemetery (RNHC) samples are curated at Lakehead University, Thunder Bay, Ontario. Ethics approval was obtained from the University of Saskatchewan Biomedical Research Ethics Board (Bio 14–58). Prior to this study, bulk element concentrations were determined for a subset of the samples using ICP-MS at McMaster University Department of Geology [8]. The RNHC 19a sample included here has been scanned by conventional XFI [29] and confocal XFI [34] with the latter study providing the image data used here. No sample preparation was required for the fragments and sections previously created. The capacity of the confocal XFI technique to produce virtual sections represented a significant advantage in that the samples were preserved as they were [30]. Dental samples Dental cementum, the external tissue of the tooth root, accumulates on the exterior surface of the root throughout life thereby providing a means of age-at-death estimation [38, 39]. Cementum does not normally remodel and thus it provides a powerful window on the timing of trace element uptake (Fig 3). The current study included two dental samples, a right first mandibular molar (#423) and a left first mandibular molar (#226), which were surface collected from site NgLj-2 on King William Island in 1993 by A. Keenleyside and stored temporarily at Trent University. The tooth roots were shared with the team from Western University, where they were sectioned longitudinally using a one-inch-diameter Dremel rotating saw to provide a flat surface for SR-XFI. PPT PowerPoint slidePowerPoint slide PNG larger imagelarger image TIFF original image Download: Fig 3. Idealized schematic representation of a tooth depicting the primary tissue types. Cementum covers the dentin of the tooth root. Layers of cementum are progressively added on the exterior surface, and it does not remodel under normal conditions. This creates a stable temporal sequence of mineral accumulation that continues throughout life. https://doi.
+
+org/10.
+
+1371/journal.
+
+pone.
+
+0202983.
+
+g003 Synchrotron radiation X-ray fluorescence imaging (SR-XFI) Two dimensional elemental spatial maps were collected over five separate periods (bone samples–June, 2013, April 2014, and June 2014, and dental samples—November 2015 and November 2016) using the confocal XFI method at beamline 20ID-B of the Advanced Photon Source (APS) (a Canadian Light Source (CLS) @ APS beamline), Argonne National Laboratory, IL, USA. A liquid-nitrogen-cooled silicon (111) double-crystal monochromator was employed to create an incident X-ray energy of 16.
+
+5 kiloelectron-volts (keV). The APS was operating in top-up mode with 102 milliamps (mA) of current in the ring. The incident flux was approximately 2×1011 photons per second within the 5 × 5 μm2 micro-focus beam spot obtained from the Kirkpatrick-Baez (K-B) style mirrors. An ionization chamber filled with nitrogen gas monitored the intensity of the incident X-ray beam, I 0 , which was used for the normalization of the fluorescence; this process eliminated the impact of any possible flux variations of the source. Samples were oriented at 45° to the incident beam and detector. The emitted fluorescence was detected using a Si-drift Vortex® detector (SII NanoTechnology USA Inc.). For the bone samples, a polycapillary-based confocal detection strategy was employed, which preserved sample integrity by enabling non-destructive three-dimensionally resolved investigation of elements from intact samples [30]. The primary X-ray fluorescence emission lines monitored were for Pb (Pb L α , Pb L β ). Calcium (Ca K α , Ca K β ) and strontium (Sr K α ) were secondarily (simultaneously) monitored to provide additional microstructural information. Ca maps, as a reflection of mineralization, yielded information regarding relative osteon age with newer (young) osteons being lower in Ca. Sr maps provided a contrast in terms of the nature of elemental uptake compared to Pb and generated improved contextual spatial maps due to the higher energy of the Sr K α fluorescence photons. The confocal detection mode enables the ability to resolve arbitrary planes within an intact sample; however, the attenuation of emitted fluorescence by the overlying sample thickness is a drawback that complicates quantitative analysis. As a consequence, the current study yielded only relative elemental distributions rather than absolute concentrations. In circumstances when the overlying sample thickness is significantly uneven over the plane being imaged, a noticeable variation in the measured fluorescence intensity is observed across the image (e.
+
+g. KWI-51-NgLj-2 in Fig 4). Ca proved particularly difficult to effectively map due to its low energy fluorescence (3.
+
+691 keV and 4.
+
+012 keV for Ca K α and Ca K β , respectively) and meaningful data for this element was collected for only limited regions of a few specimens (e.
+
+g. Fig 4). PPT PowerPoint slidePowerPoint slide PNG larger imagelarger image TIFF original image Download: Fig 4. XFI images from KWI-51-NgLj-2. Zoomed in maps of Ca in yellow (a), Pb in red (b), Sr in Blue (c) from the full Pb scan (d). The relatively low density (Ca) osteons schematically highlighted (e) reflect younger osteons relative to the surrounding bone and those in the upper portion of the zoomed images have large canals surrounded by lower density bone which supports the interpretation that these osteons were forming at the time of death. These newer structures are elevated in Sr and also show Pb deposition. https://doi.
+
+org/10.
+
+1371/journal.
+
+pone.
+
+0202983.
+
+g004 For the bone specimens, a higher resolution (20 microns) than previously employed (30–50 microns) by Martin et al. [32], as well as the confocal configuration, meant that the current study benefitted from far sharper elemental maps that enabled a more detailed assessment of Pb distribution across individual microstructural features. For the dental samples we employed a modification of the confocal approach involving the use of spoked channel array optics that provided even greater depth resolution (~2 μm) and thus precise delineation of elemental patterns within the cementum. Additionally, the teeth were subjected to micro-computed tomography (μCT), in order to investigate their structural integrity as a means of assessing the likelihood of taphonomic changes. This was conducted using a high-resolution Nikon X-Tek XT H 225 ST industrial μCT scanner housed at Sustainable Archaeology in London, Ontario, Canada. The tooth roots were scanned using settings of 80 kVp and 177μA and using a molybdenum reflection target and no filter. Three thousand, one hundred and forty-one individual projections were acquired and the total scan time was 53 minutes. Data Processing All XFI data were processed using the SMAK software package (https://www.
+
+sams-xrays.
+
+com/smak). The recorded fluorescence counts were normalized to the incident intensity I 0 and were background corrected by subtracting the average intensity of pixels outside the image from the intensity of each pixel of the image. The μCT volumes of the teeth were reconstructed using Nikon’s CT Pro 3D and the data were visualized using VG Studio (https://www.
+
+volumegraphics.
+
+com/) and ORS (http://theobjects.
+
+com/).

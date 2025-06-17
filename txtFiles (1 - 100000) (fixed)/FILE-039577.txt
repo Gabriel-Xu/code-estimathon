@@ -1,0 +1,41 @@
+In logic, a rule of replacement is a transformation rule that may be applied to only a particular segment of an expression.
+
+In logic, counterinduction is a measure that helps to call something into question by developing something against which it can be compared.
+
+In logic, defeasible reasoning is a kind of reasoning that is rationally compelling, though not deductively valid.
+
+In logic, equivocation ('calling two different things by the same name') is an informal fallacy resulting from the use of a particular word/expression in multiple senses throughout an argument leading to a false conclusion.
+
+In logic, especially as applied in mathematics, concept A is a special case or specialization of concept B precisely if every instance of A is also an instance of B but not vice versa, or equivalently, if B is a generalization of A. A limiting case is a type of special case which is arrived at by taking some aspect of the concept to the extreme of what is permitted in the general case.
+
+In logic, extensionality, or extensional equality, refers to principles that judge objects to be equal if they have the same external properties.
+
+In logic he was considered a master.
+
+In logic, inference is the process of deriving logical conclusions from premises known or assumed to be true.
+
+In logic, it is the practice of treating two distinct concepts as if they were one, which produces errors or misunderstandings as a fusion of distinct subjects tends to obscure analysis of relationships which are emphasized by contrasts.
+
+In logic, mathematics and computer science, especially metalogic and computability theory, an effective method or effective procedure is a procedure for solving a problem from a specific class.
+
+In logic, pluralism is the view that there is no one correct logic, or alternatively, that there is more than one correct logic.
+
+In logic, statistical inference, and supervised learning, transduction or transductive inference is reasoning from observed, specific (training) cases to specific (test) cases.
+
+In logics with the unique name assumption, different names always refer to different entities in the world.
+
+In logic, the corresponding conditional of an argument (or derivation) is a material conditional whose antecedent is the conjunction of the argument's (or derivation's) premises and whose consequent is the argument's conclusion.
+
+In logic, the law of identity states that each thing is identical with itself.
+
+In logic, the semantic principle (or law) of bivalence states that every declarative sentence expressing a proposition (of a theory under inspection) has exactly one truth value, either true or false.
+
+In logic, the semantics of logic is the study of the semantics, or interpretations, of formal and (idealizations of) natural languages usually trying to capture the pre-theoretic notion of entailment.
+
+In logistics, a cross belt sorter is type of conveyor-based sortation system.
+
+Inlogov, founded in 1964, is the Institute of Local Government Studies at the University of Birmingham in the United Kingdom.
+
+INLOGOV is currently home to 150 postgraduates studying masters degrees or postgraduate certificates and 15 PhD students.
+
+In Lois McMaster Bujold's sci-fi series, The Vorkosigan Saga, the Barrayaran Imperial Military Service is the national military force of the planet of Barrayar.

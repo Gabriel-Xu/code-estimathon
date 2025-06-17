@@ -1,0 +1,177 @@
+The main rivers of the Pacific Northwest are the Fraser River, the Columbia River, and the Snake River. The Fraser River is mainly in British Columbia; it flows west to the Pacific Ocean near Vancouver. The Fraser drains most of the southern Canadian Cascades. The Columbia River begins in the Canadian Cascades and flows south, then turns west where it meets the Snake River. From there, it flows on to the ocean near Portland. The Snake River is mainly in inland Idaho. After a journey west from the Rocky Mountains, it meets the Columbia at Kennewick, Washington.
+
+Other rivers in the Northwest include the Finlay, the Skagit, the Umpqua, the Rogue, and the Klamath. The Finlay drains the northern Canadian Cascades and flows on to join the Mackenzie River, which flows through Canada to Hudson Bay. The Skagit also begins in the Canadian Cascades, and crosses into Washington; it turns west and flows into the sea north of Everett, Washington. The Umpqua River begins in the Southern Oregon Cascades, and flows west to the Pacific Ocean near Reedsport, Oregon. The Rogue parallels the Umpqua and dumps into the sea at Gold Beach, Oregon. The Klamath flows south from a valley in inland Oregon, then turns west through northern California, cutting through the Cascade Range to its mouth near Klamath, California.
+
+AdaptationAdaptation is the evolutionary process where an organism becomes better suited to its habitat. This process takes place over many generations. It is one of the basic phenomena of biology.
+
+When people speak about adaptation, they often mean a 'feature' (a trait) which helps an animal or plant survive. An example is the adaptation of horses' teeth to grinding grass. Grass is their usual food; it wears the teeth down, but horses' teeth continue to grow during life. Horses also have adapted to run fast, which helps them to escape their predators, such as lions. These features are the "product" of the process of adaptation.
+
+The illustration of bird beaks shows an obvious sign of their different ways of life. However, eating a different food also means having a different digestive system, gut, claws, wings and above all, different inherited behaviour. For the major adaptations, what changes is not a single trait, but a whole group of features.
+
+Adaptation occurs because the better adapted animals are the most likely to survive, and to reproduce successfully. This process is known as natural selection; it is the basic cause of evolutionary change.
+
+Adaptation is, first of all, a "process", rather than a physical part of a body.
+
+Adaptation... could no longer be considered a static condition, a product of a creative past, and became instead a continuing dynamic process. "Ernst Mayr".
+
+An internal parasite (such as a fluke) is a good example: it has a very simple bodily structure, but still the organism is highly adapted to its particular environment. From this we see that adaptation is not just a matter of visible traits: in such parasites critical adaptations take place in the life cycle, which is often quite complex.
+
+However, as a practical term, adaptation is often used for the "product": those features of a species which result from the process. Many aspects of an animal or plant can be correctly called adaptations, though there are always some features whose function is in doubt. By using the term "adaptation" for the evolutionary "process", and "adaptive trait" for the bodily part or function (the product), the two senses of the word may be distinguished.
+
+Adaptation is one of the two main processes that explain the diverse species we see in biology. The other is speciation (species-splitting or cladogenesis). A favourite example used today to study the interplay of adaptation and speciation is the evolution of cichlid fish in African lakes.
+
+An organism must be viable at all stages of its development and at all stages of its evolution. This places "constraints" on the evolution of development, behaviour and structure of organisms.
+
+The general idea is that each genetic and phenotypic change during evolution should be relatively small, because developmental systems are so complex and interlinked. But polyploidy in plants is a fairly common large genetic change. The origin of the eukaryota by the symbiosis of micro-organisms is a more exotic example.
+
+All adaptations help organisms survive in their ecological niches. This implies an increase in biological fitness.
+
+These adaptive traits may be structural, behavioural or physiological. Structural adaptations are physical features of an organism (shape, body covering, armament; and also the internal organization).
+
+Behavioural adaptations are composed of inherited behaviour chains and/or the ability to learn: behaviours may be inherited in detail (instincts), or a tendency for learning may be inherited (see neuropsychology). Examples: searching for food, sex, vocalizations.
+
+Physiological adaptations permit the organism to perform special functions (for instance, making venom, secreting slime, phototropism); but also more general functions such as growth and development, temperature regulation, ionic balance and other aspects of homeostasis. Adaptation, then, affects all aspects of the life of an organism.
+
+Important adaptations do not come singly. They come in groups, which work together to make the animal or plant successful in its particular niche or life-style.
+
+Woodpecker adaptations are a good example of how a whole suite of features are needed for a successful way of life.
+
+Ancestral woodpeckers, which switched to climbing on tree trunks, had ancestral foot and tail structure. This suggests that a change in behaviour, perhaps to get at a better food source, was one of the first things that happened in the chain of events. The way evolutionary novelties start is an important topic.
+
+Not all features of an organism are adaptations. It may need field investigations or experiments to find out whether it has a function in the life of the species.
+
+Adaptations tend to reflect the past life of a species. If a species has recently changed its life style, a once valuable adaptation may become a dwindling vestige. Animals which live in dark caves often lose, over a long period, their colours and eyesight.
+
+The reasons for this may vary. The loss of structure and function may be a positive adaptation which saves energy and materials. But it may be simply a by-product of genes selected for other functions (pleiotropy). Or the structure may be linked in development, and affected by selection for some other structure.
+
+It is a general rule that any adaptations which are no longer useful either become vestigial organs (see vermiform appendix), or may be selected and adapted to other functions (see ear ossicles).
+
+Many adaptations serve more than one function. This is often the reason some traits become so noticeable that they almost define the species concerned. The legs of a horse are also a main defence: a horse's kick is very destructive. The antlers of male deer serve a sexual function as well as a defence against predators. Man's large brain serves not only for language, but also for thinking and problem-solving. Bird feathers are not just used to fly; they are the basis of its heat conservation, temperature regulation and signallingIt is a profound truth that Nature does not know best; that genetical evolution... is a story of waste, makeshift, compromise and blunder. "Peter Medawar".
+
+Adaptations are never perfect. There are always tradeoffs between the various functions and structures in a body. It is the organism as a whole which lives and reproduces, therefore it is the complete set of adaptations which gets passed on to future generations.
+
+All adaptations have a downside: horse legs are great for running on grass, but they cannot scratch their backs; mammals' hair helps temperature regulation, but offers a niche for ectoparasites. Compromise and make-shift occur widely, not perfection. Selection pressures pull in different directions, and the adaptation that results is some kind of compromise.
+
+Since the phenotype as a whole is the target of selection, it is impossible to improve simultaneously all aspects of the phenotype to the same degree. "Ernst Mayr".
+
+Camouflage to avoid detection is destroyed when vivid colours are displayed at mating time. Here the risk to life is counterbalanced by the need for reproduction. The peacock's ornamental train (grown anew in time for each mating season) is a famous adaptation. It must reduce his maneuverability and flight, and is hugely conspicuous; also, its growth costs food resources.
+
+Darwin's explanation of its advantage was in terms of sexual selection: "it depends on the advantage which certain individuals have over other individuals of the same sex and species, in relation to reproduction". The kind of sexual selection represented by the peacock is called 'mate choice', meaning the process selects the more fit over the less fit, and so has survival value. In practice, the blue peafowl "Pavo cristatus" is a pretty successful species, with a big natural range in India, so the overall outcome of their mating system is quite viable.
+
+The size of the human foetal brain at birth means the brain of a newborn child is quite immature. The newborn's brain cannot be larger than about 400ccs, else it will not get through the mother's pelvis. Yet the size needed for an adult brain is about 1400ccs.
+
+The most vital things in human life (locomotion, speech) just have to wait while the brain grows and matures. That is the result of the birth compromise. Much of the problem comes from our upright bipedal stance, without which our pelvis could be shaped more suitably for birth. Neanderthals had a similar problem.
+
+The function of a trait can, and often does, change over time. Several terms have been used to describe this: "preadaptation", "exaptation", "cooption". 'Preadaptation' is the most common term used when a preexisting structure or trait inherited from an ancestor evolves a different function. It was the term used by Julian Huxley and Ernst Mayr. The term 'pre-' does not mean any foresight, it just means the adaptation was already available, serving some older function. 'Exaptation' was Stephen J. Gould's word.
+
+One example of preadaptation is in dinosaurs, which evolved feathers with the function of thermo-insulation and display long before they were used for flight by early birds. Sweat glands in mammals were later transformed into mammary glands. Another example is the long journey of the mammalian ear ossicles, which started in the gill covers of ancient fish, then became part of the lower jaw of reptiles, and then became part of the inner ear of mammals. Another example is the wings of penguins. Once used for flying, they are now used for 'flying' under water.
+
+Change of function in organs and structures is extremely common in evolution. Many of the features of tetrapods (land vertebrates) evolved from features with different functions in the ancestral lobe-finned fish (Sarcopterygii).
+
+The following definitions are mainly due to Theodosius Dobzhansky.
+
+Amaranth (color)Amaranth is a rose-red color that is the color of the flower of the amaranth plant.
+
+The first written use of "amaranth" as a color name in English was in 1690.
+
+The name "amaranth" comes from the Greek "a" (not) + "marainean" (to waste away). A flower that never died that was believed to grow on Mount Olympus.
+
+Amaranth flowers come in many different colors:Cobra StarshipCobra Starship was an American alternative dance band. The group started in 2005 in New York City. They are most famous for their songs "Snakes on a Plane (Bring It)" and "Good Girls Go Bad". They are currently signed to record label Fueled by Ramen.
+
+Cobra Starship officially dissolved on November 10, 2015.
+
+San Felipe de Puerto PlataThe Dominican city of San Felipe de Puerto Plata, usually called just Puerto Plata is the head municipality of the Puerto Plata province, on the north (Atlantic) coast of the country.
+
+The name Puerto Plata ("Silver Port") came from the name given by Columbus to the mountain just to the south of the city: "Monte de Plata" ("Silver Mountain") because the mountain always had clouds on its top and not because there was the metal silver; that mountain now is called Isabel de Torres mountain (in Spanish, the complete name is "Loma Isabel de Torres"). Isabel de Torres was a lady who lived in Puerto Plata in 1605 and had a lot of land in the mountain.
+
+The city was called first "Puerto de Plata" but later it was changed to just "Puerto Plata", the name that is still usedColumbus visited the Puerto Plata Bay on 11 January 1493. The city was founded and built by Nicolás de Ovando in 1502. Soon it became the most important port in the northern coast of the Hispaniola island and, in 1508, the king of Spain gave a coat of arms to the city.
+
+Because there were many pirates and other British and French ships along the northern coast of the island, a fort was built here by orders of Carlos I, king of Spain; its construction took several years and it was finished in 1577. Because at that moment the Spanish's king was Felipe II, the fort was named Fuerte San Felipe (in English, "Saint Phillip Fort").
+
+In 1606, those that were living in the towns of Puerto Plata and Monte Cristi were ordered by the Spanish king to move to the southeast of the island and to found a new town: Monte Plata. Puerto Plata and Monte Cristi were, then, destroyed. They were founded again in the 18th century with families that came from the Canary Islands.
+
+The municipality had, in , a total population of 128,240: 63,564 men and 64,676 women. The urban population was of the total population.
+
+San Felipe de Puerto Plata has a total area of (without including its municipal districts), about of the total area of the province of Puerto Plata. The city is at an elevation of , and at to the north of Santo Domingo.
+
+The "Cordillera Septentrional" ("Northern mountain range") runs along the southern half of the municipality. There are only two roads that go through this mountain range. It rains a lot in these mountains.
+
+The mountain "Loma Isabel de Torres" (the "Monte de Plata" of Columbus) is at about to the southeast of the city of Puerto Plata. It stands alone even if it is part of the Cordillera Septentrional. On top of the mountain, there is rainforest because it gets a lot of rain there; it rains almost every day. That forest is now a national park. It is high and there are two ways for getting to the top: by road or by a cable car (a type of car that runs on cables above the car).
+
+There are many rivers in the municipality but, because the Cordillera Septentrional is close to the coast, they are all very short. The two most important rivers are Camú del Norte and Yásica. Two small rivers that are close to the city are San Marcos and Muñoz.
+
+There are some bays along the coast. Two of them are the "Puerto Plata Bay" and "Maimón Bay".
+
+Puerto Plata has a tropical wet climate (Köppen-Geiger classification: Af) with no dry or cold season as it is constantly moist (rainfalls during the whole year).
+
+The average amount of rainfall for the year in the city is . The month with the most precipitation on average is December with of rainfall, followed by November with .
+
+The driest season is summer. The month with the least rainfall on average is July with an average of and the second is June with .
+
+Puerto Plata is in a warm region; the average temperature for the year is . The warmest month, on average, is July with an average temperature of . The coolest month on average is February, with an average temperature of .
+
+The municipality of San Felipe de Puerto Plata has two municipal districts:North CascadesThe North Cascades are a name used for the mountains at the north end of the Cascade Range, south of Canada. The North Cascades are entirely in the United States, in the state of Washington. At the Canadian border, the North Cascades are called the Canadian Cascades. The highest point in the North Cascades is Mount Baker (10,781 ft/3,286m). North Cascades National Park is located at the northernmost end of the North Cascades.
+
+Some of the primary rivers in the North Cascades are the Skagit, Nooksack, Stillaguamish, and Stehekin. Lake Chelan is the largest lake in the North Cascades. Although now termed a reservoir, it was originally a natural lake, but enlarged by a dam. The urban areas of Seattle, Tacoma and Everett are all west of the North Cascades. The Columbia River, Washington's largest river, forms the east and south boundary.
+
+The Point!
+
+The Point! is a 1971 animated cartoon movie, written by singer-songwriter Harry Nilsson and Carole Beers, and directed by Fred Wolf. It first appeared on ABC television, in the United States. It starred the voices of Mike Lookinland ("Bobby" of "The Brady Bunch" fame), and actor Dustin Hoffman. (Later editions replaced Hoffman's voice with that of Alan Thicke, then musician Ringo Starr.)"
+
+The Point!" tells a story about a boy named Oblio (Mike Lookinland), who is the only round-headed person in a land full of people and animals with pointed heads. Banished to the Pointless Forest for not conforming to what is "normal", Oblio and his dog Arrow (Don Messick) (whose head was pointed, but he was still loyal to Oblio) meet many different people, and come to learn that everything and everyone indeed has a "point"; a purpose for being what they are. Oblio and Arrow return home, bringing back what they have learned to share with everyone.
+
+Harry Nilsson said later the inspiration for "The Point!" was an LSD experience. Resting on the ground, he noticed everything (trees, buildings) that reached into the sky from the ground came to a "point", leading Nilsson to believe that "everything has a point, and if it doesn't, then there's a point to that". Nilsson developed this idea into a story about tolerance, and acceptance of uniqueness in others.
+
+Nilsson devoted a whole album to music from "The Point!", alternating songs from the show with his own of the story. "Me And My Arrow" became the breakout hit from the album, with a single reaching the Top 20 in the American music charts. (The song was later used in a commercial, for the Plymouth Arrow automobile.)
+
+Nilsson later adapted "The Point!" into a musical stage play, that featured more of his own songs. A London production of the play reunited former Monkees Micky Dolenz and Davy Jones, who were also friends of Nilsson's.
+
+DarwiniusDarwinius is a genus of primates known from only one fossil. It was discovered in 1983 by an amateur at the Messel Pit. This is a disused shale quarry noted for its astonishing fossil preservation, near the village of Messel, about 35 km (22 miles) southeast of Frankfurt am Main in Germany.
+
+The fosssil dates from the Eocene epoch, 47 million years ago. The genus "Darwinius" was named to celebrate Charles Darwin on his bicentenary and the species name "masillae" honors Messel, where the specimen was found. The creature appeared superficially similar to a modern lemur. It is the only known specimen of its species.
+
+The fossil, nicknamed 'Ida', was divided into a slab and partial counterslab after the excavation. The two parts were sold separately, was not reassembled until 2007.
+
+The specimen was privately collected and sold in two parts. Only the lesser part was known earlier. The second part shows that the skeleton is the complete primate fossil known. It includes the skeleton, soft body outline and contents of the digestive tract.
+
+Skull radiography shows teeth developing within the juvenile face. The individual was a weaned and independent-feeding female that died in her first year of life. She was "an agile, nail-bearing, generalized arboreal quadruped living above the floor of the Messel rain forest".
+
+Redmond BarryRedmond Barry (1813—1880), was a judge in Victoria, Australia. He is famous for being the person who started the University of Melbourne and the State Library of Victoria. As a judge he is famous for sentencing bushranger Ned Kelly to death. He was also the judge in the trials of the rebel miners from the Eureka Stockade in Ballarat, Victoria.
+
+Transport networkA transport network, or transportation network is a network of roads, railways, streets, pipes, power lines, or any structure that lets either movement of vehicles or flow of some commodity.
+
+BuxtonBuxton is a spa town in Derbyshire, England. It is the highest market town in England. Buxton is near to Cheshire and Staffordshire. Buxton is described as "the gateway to the Peak District National Park". Buxton is also close to Manchester."
+
+Poole's Cavern", a limestone cavern, and St Ann's Well are in Buxton. Also in the town is an Opera House.
+
+The Romans developed the town when it was called Aquae Arnemetiae (or the spa of the goddess of the grove). Roman coins have been found in Buxton. The town largely grew in importance in the late 18th century when it was developed by the Dukes of Devonshire, with a second revival a hundred years later as the people visited to use the healing properties of the waters.
+
+The Dukes of Devonshire have been helping Buxton since 1780, when the Duke used his money from his copper mines to develop the town as a spa like Bath.
+
+Bess of Hardwick had taken one of her four husbands, the Earl of Shrewsbury, to "take the waters" at Buxton shortly after he became the jailer of Mary, Queen of Scots, in 1569.
+
+Dr. Erasmus Darwin recommended the waters at Buxton to Josiah Wedgwood. The Wedgwood family often went to Buxton on holiday. Two of Charles Darwin's half-cousins, Edward Levett Darwin and Reginald Darwin also settled there.
+
+Buxton is twinned with two other towns—Oignies in France and Bad Nauheim in Germany.
+
+Alice's Adventures in WonderlandAlice's Adventures in Wonderland by Lewis Carroll is an 1865 childrens’ story written by Charles Dodgson and illustrated by John Tenniel. Dodgson used Lewis Carroll as a pen name when writing poetry and fiction.
+
+The story is more well known as Alice in Wonderland and is the basis for many adaptations in films, art and music.
+
+One of the very commonly used phrases today - “down the rabbit hole” - comes from the beginning of the story. Alice is a young girl who, while falling asleep outside on a golden afternoon, sees a white rabbit and follows it into a rabbit hole. When she falls down the rabbit hole, she begins her fantastical adventures in Wonderland.
+
+Her adventures include distortions of time and proportion. Throughout the story she shrinks and grows repeatedly as she meets characters of all kinds and sizes, including the iconic Caterpillar who asks “Who are you?” and Cheshire Cat who asks her “Where do you want to go?”
+
+The story starts with Alice sitting with her sister beside a lake. Suddenly, a white rabbit runs by. Alice runs after him. She finds his rabbit hole. She falls through the hole. She meets many characters underground and has some amazing adventures. She grows larger or smaller by eating different things like cakes and mushrooms. At the end, she enters a lovely garden. The Knave of Hearts is charged with stealing some tarts. A trial is held. Alice thinks the trial is ridiculous. She says so. Everyone is offended. There is a great commotion. Alice suddenly wakes up. She is back where she started, sitting with her sister beside the lake.
+
+The story was told on a summer outing to three little girls. One of them was named Alice Liddell. Alice asked Dodgson to write the story down. Dodgson accepted the task. It took two years.
+
+The story was first called "Alice's Adventures Under Ground". When Dodgson prepared the "Alice" story for publication, he added more events, such as the Mad Hatters's Tea Party, new characters, such as the Cheshire Cat, and changed the title to "Alice's Adventures in Wonderland".
+
+The story was so popular that Dodgson, (under the pen name Lewis Carroll), wrote a sequel called "Through the Looking-Glass". The Alice stories, often known as "Alice in Wonderland", are popular in music, movies and plays.
+
+The book has been adapted many times to movies and television. These adaptations include:Penny sterlingThe penny sterling (plural "pence") is a subdivision of Pound sterling, the currency for the United Kingdom.
+
+Montreal WanderersThe Montreal Wanderers were a professional men's ice hockey team that played in Montreal, Quebec at the Montreal Arena, and were one of the founding franchises of the National Hockey League in the 1917–18 NHL season. The Wanderers won a total of eight Stanley Cup challenges within a span of five seasons from 1906 to 1910. Prior to the formation of the NHL, the "Redbands" were one of the most successful teams in hockey."
+
+Note: GP = Games played, W = Wins, L = Losses, T = Ties, Pts = Points, GF = Goals for, GA = Goals against"Note: 1 = first half of season, 2 = second half of seasonThe following Hockey Hall of Fame players played for the Wanderers during some point in their careers:£sd

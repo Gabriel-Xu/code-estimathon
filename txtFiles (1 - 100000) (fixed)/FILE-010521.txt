@@ -1,0 +1,177 @@
+RYB, or red yellow blue, is an older idea of what the primary and secondary colors are. It was once thought that the secondary colors are orange, mixed from red and yellow, green, mixed from yellow and blue, and purple, mixed from red and blue. This way of mixing colors was used for dyes before CMY became widely used. The blue in RYB is usually more of an azure color, which makes their likeness more clear.
+
+Tertiary colorTertiary colors are colors made by mixing a primary color and a secondary color.
+
+A tertiary color can be made with inks or paints by mixing a material of a primary color with a material of a secondary color.
+
+A tertiary color can be shown on a computer screen when the pixels are lit at a brightness between those of both a primary color and a secondary color.
+
+Another kind of tertiary color is made when the secondary color is complementary to the primary color. This means the primary color is "not" one of the colors used to make the secondary color itself. They are opposite colors.
+
+The result of mixing complementary colors in an additive color model is white. The result in a subtractive color model is black.
+
+The colors shown on this list are from the RGB color model.
+
+RGBRGB, also called additive color mixing, is a color coding using light, with red, green, and blue. These three are mixed with different levels of brightness to create different colors. For example, to obtain white, they are blended with equal intensity for each. For black, no colour receives any intensity.
+
+There are several ways of representing RGB colors, which are used in different situations and purposes. In general, each RGB color consists of red, green and blue light, each of which shines with some intensity; the higher the intensity of (for example) green light, the more 'green' the overall color will seem.
+
+In some digital systems each of red, green and blue has 256 different intensities, from being completely turned off (level 0) to being completely turned on (level 255). The three intensities together are usually listed on their own to then represent the overall color. When the numbers are not annotated with the color they each represent, the first number represents the intensity of red, the second number that of green, and the third number that of blue.
+
+There are usually different ways of writing these lists, for example when creating websites. The most common way uses hexadecimal code, in which the numbers ranging from 0 to 255 can be represented using 2 digits. This only needs six hexadecimal digits (which may be the numbers 0-9 or the letters A-F) to represent RGB colors. When using hexadecimal code, these digits are preceded with a '#' character. See the Examples section below.
+
+An alternative way is to write the numbers in the conventional denary way, then usually enclosed in parentheses with the label 'RGB' to indicate what the numbers stand for. Within computer storage, the three numbers are just stored as binary numbers, much like any other data, though the binary representation is not usually used by humans directly.
+
+The below table shows a few examples of how RGB is used to blend different colours.
+
+Police impersonationPolice impersonation is when someone pretends to be a police officer. It is illegal in most countries.
+
+Prime Minister of SerbiaThe Prime Minister of Serbia (Serbian: Премијер Србије / "Premijer Srbije"), officially the President of the Government of the Republic of Serbia (Председник Владе Републике Србије / "Predsednik Vlade Republike Srbije"), is the Head of government of Serbia. The prime minister works for the Government, and sends it to the National Assembly the Government's Program.
+
+The current Prime Minister, Ana Brnabić was nominated by the former Prime Minister and newly elected President of the Republic, Aleksandar Vučić and elected and appointed by the National Assembly on 29 June 2017.
+
+Dragutin ZelenovićDragutin Zelenović (; 19 May 1928 — 27 April 2020) was a Serbian educator and politician. He was rector of the University of Novi Sad. He was a member of the Serbian Academy of Sciences and Arts. He was the Prime Minister of Serbia in 1991.
+
+He was a professor at the Faculty of Technical Sciences and Rector of the University of Novi Sad (1987–89).
+
+He died on 27 April 2020 in Novi Sad, aged 91.
+
+Tanjung PinangTanjung Pinang is the capital city of the Indonesian province of the Riau Islands. It covers a land area of 144.
+
+56 km. With an estimated population of 209,280 as of 2018, it is the second largest city of the province, after Batam. Tanjung Pinang is a historic city of the Malay culture, serving as the capital of Johor Sultanate and Riau-Lingga Sultanate.
+
+SyahrulSyahrul (August 30, 1960 – April 28, 2020) was an Indonesian politician, teacher, and member of the Great Indonesia Movement Party. He was the Mayor of Tanjung Pinang, and capital and second largest city in the Riau Islands, from September 21, 2018, until his death on April 28, 2020. He was Deputy Mayor of Tanjung Pinang from 2013 to 2018.
+
+Syahrul died in April 2020 from COVID-19, aged 59.
+
+Alexander MünninghoffAlexander Münninghoff (13 April 1944 – 28 April 2020) was a Polish-born Dutch journalist and chess player. From 1974 to 2007, he worked for the "Haagsche Courant". Münninghoff wrote among others many articles and books about chess sport. He was born in Poznan, Poland. In 1983 he won the and in 2015 he won the for his book "De stamhouder".
+
+Münninghoff died at his home in The Hague on 28 April 2020, aged 76.
+
+Harland SvareHarland James Svare (November 25, 1930 – April 4, 2020) was an American professional football player and coach. Svare was a linebacker who played eight seasons with the Los Angeles Rams and New York Giants of the National Football League (NFL) from 1953 to 1960. He was the Rams head coach from the 1962 season through 1965 and the San Diego Chargers head coach from 1971 through 1973. He was born in Clarkfield, Minnesota.
+
+Svare died on April 4, 2020 of respiratory arrest in Steamboat Springs, Colorado at the age of 89.
+
+Clarkfield, MinnesotaClarkfield is a city in Yellow Medicine County, Minnesota, United States. The population was 852 at the 2020 census.
+
+Granite Falls, MinnesotaGranite Falls is a city in Chippewa and Yellow Medicine counties in the State of Minnesota. The population was 2,737 at the 2020 census. It is the county seat of Yellow Medicine County.
+
+Ronnie EarleRonald Dale Earle (February 23, 1942 – April 5, 2020) was an American Democratic politician and lawyer. He was born in Fort Worth, Texas. From 1977 to 2009, he was the District Attorney of Travis County, Texas. He was known for being the lawyer that prosecuted House Majority Leader Tom DeLay for money laundering.
+
+Earle died on April 5, 2020 in Austin, Texas after a long-illness, aged 78.
+
+Albert H. WilkeningMajor General Albert H. Wilkening (February 1, 1946 – April 8, 2020) was an American major general. He was an adjutant general of Wisconsin from 2002 to 2007. He was responsible for both the federal and state missions of the Wisconsin Army and Air National Guard and the Wisconsin Division of Emergency Management.
+
+In March 2003, Wilkening was appointed by Governor Jim Doyle as in charge of the Homeland Security Council in Wisconsin and to be the governor's homeland security advisor. He was born in Freeport, New York.
+
+Wilkening died of pancreatic cancer in Wisconsin on April 8, 2020, at the age of 74.
+
+Freeport, New YorkFreeport (officially The Incorporated Village of Freeport) is a village in the town of Hempstead, Nassau County, New York, US, on the South Shore of Long Island. The population was 44,472 at the 2020 census.
+
+Jim DoyleJames Edward Doyle, Jr., (born November 23, 1945) is an American lawyer and politician. He is a member of the Democratic Party. He was the 44th Governor of Wisconsin from January 6, 2003 to January 3, 2011.
+
+Marianne LundquistIngrid Marianne Lundquist (later "Grane", 24 July 1931 – 10 April 2020) was a Swedish freestyle swimmer. She was born in Stockholm. Lundquist won a bronze medal in the 4 × 100 m relay at the 1950 European Aquatics Championships. She competed at the 1948 and 1952 Olympics.
+
+Lundquist died on 10 April 2020 from COVID-19 in Stockholm, aged 88.
+
+Lowell A. Reed Jr.
+
+Lowell A. Reed Jr. (June 21, 1930 – April 11, 2020) was an American politician and lawyer. He was a United States District Judge of the United States District Court for the Eastern District of Pennsylvania from 1988 to 1999. He was nominated by President Ronald Reagan. Reed Jr. was born in West Chester, Pennsylvania.
+
+Reed Jr. died on April 11, 2020 in Jenkintown, Pennsylvania of Parkinson's disease-related problems, aged 89.
+
+Jenkintown, PennsylvaniaJenkintown is a borough in Montgomery County, Pennsylvania, about 10 miles (16 km) north of Philadelphia.
+
+Axel Berg (footballer)Axel August Berg (8 July 1938 – 12 April 2020) was a Norwegian football winger. He played for Lyn between 1955 and 1965 and the national team from 1959 and 1961.
+
+Berg died on 12 April 2020, aged 81.
+
+Elisabeth BergeElisabeth Berge (27 November 1954 – 13 April 2020) was a Norwegian businessperson and politician. She worked in the Ministry of Petroleum and Energy from 1981 to 1990. She then worked in Statoil from 1990 to 2004. Beginning in 2001, she was chief of communications. In 2004 she was appointed permanent under-secretary of State in the Ministry of Petroleum and Energy.
+
+Berge died on 13 April 2020, aged 65.
+
+Paul RontyPaul Ronty (July 12, 1928 – April 22, 2020) was a Canadian professional ice hockey centre. Ronty started his National Hockey League career with the Boston Bruins in 1947. He also played for the New York Rangers and Montreal Canadiens. He retired after the 1955 season. He was born in Toronto.
+
+Ronty died on April 22, 2020 in Newton, Massachusetts at the age of 91.
+
+Brian StepanekBrian Patrick Stepanek (born February 6, 1971) is an American actor. He was born in Cleveland, Ohio. He is known for his role as Arwin Hawkhauser on the Disney Channel Original Series "The Suite Life of Zack & Cody" and Brian on "Brian O'Brian". He was also a Sector Seven Agent in the 2007 Michael Bay movie "Transformers". He played Tom Harper on the Nickelodeon series "Nicky, Ricky, Dicky & Dawn" from 2014 to 2018.
+
+Lynn HarrellLynn Harrell (January 30, 1944 – April 27, 2020) was an American classical cellist. He was born in New York City. Harrell made his recital debut in New York in 1971. He was the Music Director of the Los Angeles Philharmonic Institute from 1988 to 1992. From 1986 to 1993, he held the post of "Gregor Piatigorsky Endowed Chair in Violoncello" at the University of Southern California.
+
+Harrell died on April 27, 2020 in Santa Monica, California of cardiac arrest at the age of 76.
+
+Francesco PerroneFrancesco Perrone (3 December 1930 – 27 April 2020) was an Italian long-distance runner. He competed in the marathon at the 1960 Summer Olympics. Perrone was an athlete of the Gruppo Sportivo Fiamme Oro. He was born in Cellino San Marco, Italy.
+
+Perrone died of COVID-19 on 27 April 2020 in Bari, Italy at the age of 89.
+
+Mohammad Shariff (admiral)Admiral Mohammad Shariff (Urdu: ايڈمرل محمد شريف ; born 1920 – 27 April 2020), was a four-star rank admiral. He was an important figure in the Indo-Pakistani war of 1971. He was the Chief of Naval Staff from 1975 to 1979 and Chairman Joint Chiefs of Staff Committee from 1977 to 1980.
+
+Shariff died on 27 April 2020, aged 99.
+
+Kim RhodesKimberly Rhodes (born June 7, 1969) is an American actress. She is known for her roles as Ensign Lydnsey Ballard in "" episode of "Star Trek Voyager", Cindy Harrison on two different soap operas, "Another World" and "As the World Turns", and as Carey Martin in the Disney Channel sitcom "The Suite Life of Zack & Cody" and "The Suite Life on Deck", She is also known for playing Sheriff Jody Mills on "Supernatural".
+
+Nur YerlitaşNuray "Nur" Yerlitaş (11 August 1955 – 27 April 2020) was a Turkish fashion designer. She was born in Istanbul. She was a judge on the television reality show "İşte Benim Stilim" from 2015 to 2017. She started her career by selling accessories from Italy. In the following years she opened her own boutique and entered into designing business.
+
+In August 2018, Yerlitaş was diagnosed with brain cancer. She died on 27 April 2020 at her home in Istanbul from the disease, aged 64.
+
+Giacomo dalla Torre del Tempio di SanguinettoFra' Giacomo dalla Torre del Tempio di Sanguinetto (9 December 1944 – 29 April 2020) was an Italian nobility. He was the 80th Prince and Grand Master of the Sovereign Military Order of Malta in 2008 and again from 2017 until his death.
+
+His full title is "His Most Eminent Highness Fra' Giacomo dalla Torre del Tempio di Sanguinetto, Prince and Grand Master of the Sovereign Military Hospitaller Order of St. John of Jerusalem, of Rhodes and of Malta, Most Humble Guardian of the Poor of Jesus Christ". He was born in Rome.
+
+Dalla Torre died on 29 April 2020 in Rome from throat cancer, aged 75.
+
+List of grand masters of the Knights HospitallerThis is a list of Grand Masters of the Knights Hospitaller including their replacement Sovereign Military Order of Malta after 1798.
+
+AdjaraAdjara is a region of Georgia. Its official name is Autonomous Republic of Adjara. The capital city is Batumi, which is the 2nd largest city in Georgia.
+
+The region is on the coast of the Black Sea near the foot of the Lesser Caucasus Mountains. About 333,953 people live there (2014).
+
+There are 5 municipalities plus the city of Batumi. The five municipalities are:Ludwig Hoffmann-RumersteinFra' Ludwig Hoffmann von Rumerstein (born January 21, 1937) is an Austrian nobility. He was the interim Prince and Grand Master of the Sovereign Military Order of Malta in 2017. From 1994 to 2004 and again from 2014 to 2019, he was Grand Commander of the Sovereign Military Order of Malta. He was born in Innsbruck.
+
+Ron MarleneeRonald Charles "Ron" Marlenee (August 8, 1935 – April 26, 2020) was an American Republican politician. He was in the United States House of Representatives from Montana between January 3, 1977 to January 3, 1993. He represented . Marlenee was born in Scobey, Montana.
+
+Marlenee died on April 26, 2020 in Bozeman, Montana of a short-illness, aged 84.
+
+South Berwick, MaineSouth Berwick is a town in York County, Maine, United States. The population was 7,467 at the 2020 census.
+
+York County, MaineYork County is the southwesternmost county in the U.
+
+S. state of Maine. As of the 2020 census, the population was 211,972. Its county seat is Alfred.
+
+Alfred, MaineAlfred is a town in York County, Maine, United States. As of the 2020 census, the town population was 3,073. Alfred is the seat of York County.
+
+GuriaGuria is a region in Georgia. The capital city is Ozurgeti. It is bordered by the eastern end of the Black Sea.
+
+Guria is divided into 3 municipalities:Auburn, MaineAuburn is a small city in south-central Maine, United States. The city is the county seat of Androscoggin County. The population was 24,061 at the 2020 census. Auburn and its sister city Lewiston are known locally as the Twin Cities or Lewiston–Auburn (L–A).
+
+Auburn has 20 listings on the National Register of Historic Places they are listed below.
+
+Ellsworth, MaineEllsworth is a city in and the county seat of Hancock County, Maine, United States. The 2020 Census it had a population of 8,399.
+
+Rockland, MaineRockland is a city in Knox County, Maine, in the United States. As of the 2020 census, the city population was 6,936. It is the county seat of Knox County.
+
+Wiscasset, MaineWiscasset is a town in and the seat of Lincoln County, Maine, United States. The population was 3,742 as of the 2020 census.
+
+Penobscot County, MainePenobscot County is a county in the U.
+
+S. state of Maine. As of the 2020 census, the population was 152,199. Its county seat is Bangor. Penobscot County is home to the University of Maine.
+
+Piscataquis County, MainePiscataquis County is a county located in the U.
+
+S. state of Maine. As of the 2020 census, its population was 16,800, making it Maine's least-populous county. Its county seat is Dover-Foxcroft.
+
+Sagadahoc County, MaineSagadahoc County ( ) is a county in the state of Maine, in the United States. As of the 2020 census, the county's population was 36,699. The county seat is Bath.
+
+Paris, MaineParis is a town in and the county seat of Oxford County, Maine, United States. 5,179 people lived there at the 2020 census.
+
+Oxford County, MaineOxford County is a county in the state of Maine, in the United States. As of the 2020 Census, the county had a population of 57,777. Its county seat is the town of Paris.
+
+Belfast, MaineBelfast is a city in Waldo County, Maine, in the United States. As of the 2020 census, the city population was 6,938.
+
+Waldo County, MaineWaldo County is a county in the state of Maine, in the United States. As of the 2020 census, the county's population was 39,607. The county seat is Belfast.
+
+Machias, MaineMachias is a town in and the county seat of Washington County in downeast Maine, United States. As of the 2020 census, the town population was 2,060.
+
+ImeretiImereti is a region of Georgia. The capital city is Kutaisi. It is along the Rioni River.
+
+Imereti has the following divisions:Kings of Imereti included:Washington County, Maine

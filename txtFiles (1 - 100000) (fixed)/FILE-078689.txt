@@ -1,0 +1,201 @@
+The software plays a low drone, and touching the screen produces different tones, which play in a loop.
+
+The software portion focuses on users' internet and multimedia experiences, while the hardware sector focuses on the ability of a system to handle multimedia files and the convergence of consumer electronics (CE) and personal computing (PC) into one computer chassis.
+
+The Software Process Achievement Award is a non-competitive award offered by the IEEE Computer SocietySoftware Engineering Institute (SEI) and annually presented for outstanding and innovative contributions to the field of software quality.
+
+The software produced by Data Design in Barnsley, England, UK allowed its users to design a medieval style- castle by means of a WIMP based design environment.
+
+The Software Product Line Conference SPLC is an international conference which is held annually.
+
+The software products developed by ISV's serve a wide variety of purposes.
+
+The software product was generally well received and praised for its ease of use.
+
+The software program Dendral is considered the first expert system because it automated the decision-making process and problem-solving behavior of organic chemists.
+
+The software program RadeonPro can be used to significantly reduce or eliminate the effects of micro-stuttering when using AMD graphics cards in CrossFire.
+
+The software program VICE, standing for VersatIle Commodore Emulator, is a free and cross platform emulator for Commodore's 8-bit computers.
+
+The software protects at the volume or block level, tracking all write changes.
+
+The software provided by evimed supports and automates processes of patient recruitment and feasibility studies as well as monitoring and documentation of clinical trials.
+
+The software provides additional functionality to Microsoft's Instant messaging client, Windows Live Messenger, by adding its own controls to the main interface.
+
+The software provides a flexible environment to display, manipulate, and analyze small and large molecules, proteins, nucleic acids, and their interactions.
+
+The software provides a freely available application programming interface (API) called Steamworks, which developers can use to integrate many of Steam's functions into their products, including networking, matchmaking, in-game achievements, microtransactions, and support for user-created content through Steam Workshop.
+
+The software provides an extensible framework that allows Java developers to interact with various data services, including databases, web services, Object XML mapping (OXM), and Enterprise Information Systems (EIS).
+
+The software provides a number of features for probing computer networks, including host discovery and service and operating-system detection.
+
+The software provides a visual environment that allows people to structure and record collaboration as they discuss and work through 'wicked problems'.
+
+The software provides backup, restore and replication functionality for virtual machines, physical servers and workstations as well as cloud-based workload.
+
+The software provides basic email collaboration features such as create, reply, forward and delete (including attachment support).
+
+The software provides direct support for many US based carriers including DHL Global Mail, FedEx, UPS, USPS, Stamps.
+
+com, Endicia, Express 1, OnTrac, uShip and i-Parcel, however integration with non-US based shipping accounts is incomplete.
+
+The software provides intelligence data including website traffic information, keywords projected AdWords spend, and other SEO-related data.
+
+The software provides one main utility for molecular dynamics called qdyn, and various subprograms such as qprep (to prepare input files from X-ray coordinates), qfep (to process MD calculations for FEP), and others.
+
+The software provides user interfaces for command line, gtk2+gdk, gtk2+gl, and motif supporting multiple GUIs with the same thing for every interface.
+
+The software provides word-processing, spreadsheet and database functionality.
+
+The software quickly became popular due to its advanced and unique features, speed and 100% reliability and efficiency to properly include the roms' wi-fi blocks.
+
+The software received a number of awards as well as extensive press coverage.
+
+The software received positive reviews in South Korea for its simplicity, and for having a Korean language interface, illustrating the importance of localization for software.
+
+The software redirects links from domains that have been seized by governments to backup sites, in order to bypass the blocking.
+
+The Software Refinery was a United Kingdom-based computer game development company formed by Ciaran Gultnieks, Ian Martin and Mark Griffiths.
+
+The Software Reliability Case can be created or maintained to serve the needs of a support organization in sustaining reliability objectives and be used to supply the data needed by independent, regulatory, and/or third party certification bodies.
+
+The software relies heavily on the Desktop Window Manager (or DWM, part of Windows Aero).
+
+The software relies on iTunes and iPhoto and is controlled by an Apple Remote or the keyboard function keys.
+
+The software renders live video using common graphics hardware instead of using the CPU.
+
+The software renders videos in an AVI format.
+
+The software repairs MOV, MP4, F4V, M4V, 3GP, & 3G2 files on Windows & Mac.
+
+The software requirements specification lays out functional and non-functional requirements, and it may include a set of use cases that describe user interactions that the software must provide.
+
+The software requires a connection to a computer running Mac OS X Server with Podcast Producer.
+
+The software run on AutoCAD.
+
+The software runs as a stand-alone executable, or as a VST, DXi, or RTAS plugin in a Digital audio workstation.
+
+The software runs only on Windows XP and is blocked due to "compatibility reasons" under Windows Vista and later.
+
+The software runs only under Windows.
+
+The software runs on SPARC machines with Solaris.
+
+The software runs on standard x86-64 servers.
+
+The software runs on the Android operating system.
+
+The software runs on the Windows platform only.
+
+The software's AI also offered a challenging opponent in single-player games.
+
+The software's algorithm analyzed face attributes like skin color, face structure and angles of the face.
+
+The software saw early success in the Mac music player market, competing with Panic's Audion.
+
+The software schedules resources in a data center and applies policy management tools.
+
+The software's creator, Alexey Shchepin was awarded the Erlang User of the Year award at the 2006 Erlang user conference.
+
+ejabberd has a number of notable deployments, IETF Groupchat Service, BBC Radio LiveText, Nokia's Ovi, KDE Talk and one in development at Facebook.
+
+The software's documentation recommends the module approach, if possible.
+
+The software seeks to combine a full featureset with a lightweight code base while being easy to learn, use and extend.
+
+The software's encryption was intended to prove resistant to being cracked by quantum computers.
+
+The software's features can be extended by purchasing extentions.
+
+The software's functions may be designed to analyze the user's location and which Internet sites the user visits and to present advertising pertinent to the types of goods or services featured there.
+
+The software shows uncertainty in both the alignment and the tree.
+
+The software's intended uses are for medical visualization, material science, forensic animation and visual effects.
+
+The software size (UCP) is calculated based on elements of the system use cases with factoring to account for technical and environmental considerations.
+
+The software solution for SAP America is the Global Trade Services module (SAP-GTS) which falls under their Governance, Risk, and Compliance (GRC) directory of software solutions.
+
+The software solutions developed by MindCite use Semantic Web and Ontology driven technologies.
+
+The software solutions enabled developers, quality assurance (QA) teams and security experts to conduct web application security testing and remediation.
+
+The software solution typically uses a link of the scheme sqrl:// or optionally a QR code, where a user identifies via a pseudonymous zero-knowledge proof rather than providing a user ID and password.
+
+The software source code is released to the licensee if the licensor files for bankruptcy or otherwise fails to maintain and update the software as promised in the software license agreement.
+
+The software speeds deployment of application-based services across hybrid cloud delivery platforms and traditional IT environments.
+
+The software spots attempts at obfuscating URLs (for example, to lure the user into thinking they are signing into their bank, when in reality they are using an imposter web site) and modifies the email with a suitable warning.
+
+The software's programmers only needed to talk to the serial driver in a standardized way to send and receive their data.
+
+The software's role as a music and video player and streaming service has been superseded by Groove Music and Xbox Video.
+
+The software stack is currently at version 0.
+
+11.
+
+The hardware currently put forward for use with the FreedomBox software is explained on the Hardware page.
+
+The software started as a way to create a visual routing diagram of and audio/visual system, that is similar to an A/V schematic or a Computer network diagram.
+
+The software stores 2-D grids as COARDS-compliant netCDF files and comes with a comprehensive collection of free GIS data, such as coast lines, rivers, political borders and coordinates of other geographic objects.
+
+The software suite contains Morpheus Photo Morpher, Morpheus Photo Warper and Morpheus Photo Mixer, although these three are also available individually.
+
+The software suite is written as a web application and includes both server and client.
+
+The software suite was selected commercially as the routing platform for the Vyatta line of products in its early releases, but later has been replaced with quagga.
+
+The software's underlying engine as later refitted for The Simpsons: Cartoon Studio in 1996.
+
+The software supports a number of hydraulic and hydrologic models that can be used to create drainage basin simulations.
+
+The software supports a variety of real-time notification mechanisms, including Short Message Service (SMS).
+
+The software supports backup to locally writable folders, including attached USB devices, network drives and local directories.
+
+The software supports both non-Unicode ASCII formats and ISO-compliant Unicode formats.
+
+The software supports design of degenerate primers on alignments for amplifying related set of nucleotide sequences for detecting common traits among organisms and to determine heredity.
+
+The software supports enterprises in knowledge management, data analytics and content organization.
+
+The software supports many GNU and Linux distributions such as Arch Linux, Fedora, Ubuntu and Slackware, and also some of the BSD distributions as well.
+
+The software supports many industry standard file input and outputs including DGN by Bentley Systems, DWG by Autodesk, STL (Stereo Lithography), Rhino, and others.
+
+The software supports most Adobe Photoshop plug-ins, including TWAIN.
+
+The software supports OpenGL and Microsoft DirectX. The software is sold stand alone for servers, virtual machines and non HP Workstations.
+
+The software supports PDF, XHTML (through the nonproprietary EPUB file type specification) and Flash-based content.
+
+The software supports several graph layout algorithms, and allows the user to interact with the nodes.
+
+The software supports Windows, Linux and Mac, and its source code is available on GitHub..
+
+The software's website features a Web 2.
+
+0 social media service, which includes a video hosting service, and an online community where movie-makers can talk about their movies, find collaborators, and organize online events.
+
+The software system, Avaloq Banking Suite, is used by more than 140 banks worldwide.
+
+The software system maps the patrol routes of forest guards, and the resulting data are then analyzed in a geographic information system.
+
+The software system was recently honored with an R&D 100 Award for technical innovation.
+
+The software taggant term was proposed by Arun Lakhotia (due to its similarities with chemical taggants) who also analyzed the economics of a packer ecosystem.
+
+The software takes an audio input either from the computer's audio interface or from an audio file, and allows various types of audio transformation to be applied.
+
+The software takes a picture or video of the user's computer screen and uploads it to the Web, FTP, computer or clipboard.
+
+The software takes a screenshot of the user's computer screen and uploads it to the Web, FTP, computer or copy to clipboard.

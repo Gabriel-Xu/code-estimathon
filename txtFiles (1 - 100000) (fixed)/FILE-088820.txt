@@ -1,0 +1,51 @@
+The Parthenon's façade as well as elements of its façade and elsewhere are said by some to be circumscribed by golden rectangles.[
+
+30] Other scholars deny that the Greeks had any aesthetic association with golden ratio. For example, Midhat J. Gazalé says, "It was not until Euclid, however, that the golden ratio's mathematical properties were studied. In the Elements (308 BC) the Greek mathematician merely regarded that number as an interesting irrational number, in connection with the middle and extreme ratios. Its occurrence in regular pentagons and decagons was duly observed, as well as in the dodecahedron (a regular polyhedron whose twelve faces are regular pentagons). It is indeed exemplary that the great Euclid, contrary to generations of mystics who followed, would soberly treat that number for what it is, without attaching to it other than its factual properties."[
+
+31] And Keith Devlin says, "Certainly, the oft repeated assertion that the Parthenon in Athens is based on the golden ratio is not supported by actual measurements. In fact, the entire story about the Greeks and golden ratio seems to be without foundation. The one thing we know for sure is that Euclid, in his famous textbook Elements, written around 300 BC, showed how to calculate its value."[
+
+32] Later sources like Vitruvius exclusively discuss proportions that can be expressed in whole numbers, i.
+
+e. commensurate as opposed to irrational proportions.
+
+A 2004 geometrical analysis of earlier research into the Great Mosque of Kairouan reveals a consistent application of the golden ratio throughout the design, according to Boussora and Mazouz.[
+
+33] They found ratios close to the golden ratio in the overall proportion of the plan and in the dimensioning of the prayer space, the court, and the minaret. The authors note, however, that the areas where ratios close to the golden ratio were found are not part of the original construction, and theorize that these elements were added in a reconstruction.
+
+The Swiss architect Le Corbusier, famous for his contributions to the modern international style, centered his design philosophy on systems of harmony and proportion. Le Corbusier's faith in the mathematical order of the universe was closely bound to the golden ratio and the Fibonacci series, which he described as "rhythms apparent to the eye and clear in their relations with one another. And these rhythms are at the very root of human activities. They resound in man by an organic inevitability, the same fine inevitability which causes the tracing out of the Golden Section by children, old men, savages and the learned."[
+
+34][35]Le Corbusier explicitly used the golden ratio in his Modulor system for the scale of architectural proportion. He saw this system as a continuation of the long tradition of Vitruvius, Leonardo da Vinci's "Vitruvian Man", the work of Leon Battista Alberti, and others who used the proportions of the human body to improve the appearance and function of architecture. In addition to the golden ratio, Le Corbusier based the system on human measurements, Fibonacci numbers, and the double unit. He took suggestion of the golden ratio in human proportions to an extreme: he sectioned his model human body's height at the navel with the two sections in golden ratio, then subdivided those sections in golden ratio at the knees and throat; he used these golden ratio proportions in the Modulor system. Le Corbusier's 1927 Villa Stein in Garches exemplified the Modulor system's application. The villa's rectangular ground plan, elevation, and inner structure closely approximate golden rectangles.[
+
+36]Another Swiss architect, Mario Botta, bases many of his designs on geometric figures. Several private houses he designed in Switzerland are composed of squares and circles, cubes and cylinders. In a house he designed in Origlio, the golden ratio is the proportion between the central section and the side sections of the house.[
+
+37]In a recent book, author Jason Elliot speculated that the golden ratio was used by the designers of the Naqsh-e Jahan Square and the adjacent Lotfollah mosque.[
+
+38]From measurements of 15 temples, 18 monumental tombs, 8 sarcophagi, and 58 grave stelae from the fifth century BC to the second century AD, one researcher has concluded that the golden ratio was totally absent from Greek architecture of the classical fifth century BC, and almost absent during the following six centuries.[
+
+39]Painting[3] The drawing of a man's body in a pentagram suggests relationships to the golden ratio.
+
+Leonardo da Vinci's illustrations of polyhedra in De divina proportione (On the Divine Proportion) and his views that some bodily proportions exhibit the golden ratio have led some scholars to speculate that he incorporated the golden ratio in his paintings.[
+
+40] But the suggestion that his Mona Lisa, for example, employs golden ratio proportions, is not supported by anything in Leonardo's own writings.[
+
+41] Similarly, although the Vitruvian Man is often[42] shown in connection with the golden ratio, the proportions of the figure do not actually match it, and the text only mentions whole number ratios.[
+
+43]The 16th-century philosopher Heinrich Agrippa drew a man over a pentagram inside a circle, implying a relationship to the golden ratio.[
+
+3]Salvador Dalí, influenced by the works of Matila Ghyka,[44] explicitly used the golden ratio in his masterpiece, The Sacrament of the Last Supper. The dimensions of the canvas are a golden rectangle. A huge dodecahedron, in perspective so that edges appear in golden ratio to one another, is suspended above and behind Jesus and dominates the composition.[
+
+41][45]Mondrian has been said to have used the golden section extensively in his geometrical paintings,[46] though other experts (including critic Yve-Alain Bois) have disputed this claim.[
+
+41]A statistical study on 565 works of art of different great painters, performed in 1999, found that these artists had not used the golden ratio in the size of their canvases. The study concluded that the average ratio of the two sides of the paintings studied is 1.
+
+34, with averages for individual artists ranging from 1.
+
+04 (Goya) to 1.
+
+46 (Bellini).[
+
+47] On the other hand, Pablo Tosto listed over 350 works by well-known artists, including more than 100 which have canvasses with golden rectangle and root-5 proportions, and others with proportions like root-2, 3, 4, and 6.[
+
+48]Book design[49] Depiction of the proportions in a medieval manuscript. According to Jan Tschichold : "Page proportion 2:3. Margin proportions 1:1:2:3. Text area proportioned in the Golden Section."
+
+According to Jan Tschichold,[50]

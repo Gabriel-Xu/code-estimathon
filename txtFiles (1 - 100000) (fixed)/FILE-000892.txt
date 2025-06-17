@@ -1,0 +1,161 @@
+The main purpose and task of IP is the delivery of datagrams from the source host (source computer) to the destination host (receiving computer) based on their addresses. To do this, IP includes methods and structures for putting tags (address information, which is part of metadata) within datagrams. The process of putting these tags on datagrams is called encapsulation. Think of the analogy of the postal system. IP is similar in that it allows a package (a datagram) to be addressed (encapsulation) and put into the system (the Internet) by the sender (source host). However, there is no direct link between sender and receiver.
+
+The package (datagram) is almost always divided into pieces, but each piece contains the address of the receiver (destination host). Eventually, each piece arrives at the receiver, often by different routes and at different times. These routes and times are also determined by the Postal System, which is the IP. However, the Postal System (in the transport and application layers) puts all the pieces back together before delivery to the receiver (destination host).
+
+IP is a connectionless protocol, meaning that the circuit to the receiver (destination host) does not need be set up before transmission (by the source host). Continuing the analogy, there does not need to be a direct connection between the physical return address on the letter/package and the recipient address before the letter/package is sent.
+
+Originally, IP was a connectionless datagram service in a transmission control program created by Vint Cerf and Bob Kahn in 1974. When format and rules were applied to allow connections, the connection-oriented Transmission Control Protocol was created. The two together form the Internet Protocol Suite, often referred to as TCP/IP.
+
+Internet Protocol version 4 (IPv4) was the first major version of IP. This is the dominant protocol of the Internet. However, IPv6 is active and in use, and its deployment is increasing all over the world.
+
+Addressing and routing are the most complex aspects of IP. Intelligence in the network is located at nodes (network interconnection points) in the form of routers which forward datagrams to the next known gateway on the route to the final destination. The routers use interior gateway protocols (IGPs) or external gateway protocols (EGPs) to help with making forwarding route decisions. Routes are determined by the routing prefix within the datagrams. The routing process can therefore become complex. But at the speed of light (or nearly so) the routing intelligence determines the best route, and the datagram pieces and datagram all eventually arrive at their destinationIP packets or datagram has two parts. The first part is the header, which is like a label on an envelope. The second part is the payload, which is like the letter inside an envelope. The header contains the source and destination IP addresses, and some extra information. This information is called metadata, and is about the packet itself. Putting data in a packet with a header is encapsulation.
+
+Every computer on a network does some kind of routing. Dedicated computers talk with each other to figure out where to send packets. These computers are called routers, and talk using routing protocols.
+
+Along every hop in a packet's journey, a computer reads the header. The computer sees the destination IP address and figures out where to send the packet.
+
+ARPANET, the early ancestor of the internet, was designed to survive a nuclear war. If one computer was destroyed, communication between all the other computers would still work. Computer networks still follow this same design.
+
+Computers talking to each other handle the "smart" functions to simplify computer networks. The end nodes will check for errors instead of a central authority. Keeping the "smart" things on the end computers or nodes follows the end-to-end principle.
+
+The Internet Protocol sends packets out without ensuring they arrive safely. This is "best-effort delivery", and is unreliable. Packets could get messed up, lost, duplicated, or received out of order. Higher level protocols like the Transmission Control Protocol ("TCP") ensure packets are delivered correctly. IP is also "connectionless", so it does not keep track of communications. It assumes that another protocol such as TCP will keep track of connections.
+
+Internet Protocol Version 4 (IPv4) uses a checksum to check for errors in an IP header. Every checksum is unique to a source/destination combination. A routing node generates a new checksum when it gets a packet. If the new checksum is different from the old one, the routing node knows the packet is bad and throws it out. IPv6 assumes another protocol will check for errors and leaves out the checksum. This is to improve performance.
+
+In 1974, the Institute of Electrical and Electronics Engineers published a paper called "A Protocol for Packet Network Intercommunication". The paper described a way for computers to talk to each other using Packet Switching. A big part of this idea was the "Transmission Control Program". The Transmission Control Program was too big, so it split into TCP and IP. This model is now called the "DoD" "Internet Model" and "Internet Protocol Suite", or the TCP/IP Model.
+
+Versions 0 to 3 of IP were experimental, and used between 1977 and 1979. Versions 2 and 3, and a draft of version 4, allowed an address length of up to 128 bits, but this was mistakenly reduced to 32 bits in the final version of IPv4. Versions 7-9 were prototypes of what eventually became IPv6.
+
+IPv4 addresses will run out, because the number of possible addresses is running out. To fix this, the IEEE made IPv6 which had even more addresses. While IPv4 has 4.
+
+3 Billion addresses, IPv6 has 340 undecillion of them. This means we will never run out of IPv6 addresses. IPv5 was reserved for the Internet Stream Protocol, which was only used experimentally.
+
+1850sThe 1850s was the decade that began on January 1, 1850 and ended on December 31, 1859.
+
+14791479 was a common year.
+
+AkihitoAkihito became emperor after the death of his father in 1989, who was Emperor Shōwa. The current emperor's official reign name is "Heisei" (establishing peace).
+
+The Japanese government announced in December 2017 that Akihito would abdicate on 30 April 2019. He then did so in a brief ceremony on that date.
+
+The emperor has many duties and responsibilities. For example, he regularlyAs a personal interest, Akihito studies fish.
+
+Akihito directly addressed his subjects in a television broadcast after the 2011 Tōhoku earthquake and tsunami. This was the first time any emperor used television in this way.
+
+In July 2022, Akihito was diagnosed with heart failure.
+
+Aero Space MuseumThe Aero Space Museum is an airplane museum in Calgary in Canada. The museum, founded in 1975, is near the Calgary Airport.
+
+Some things at the museum are war-time airplanes: a Sopwith Triplane from World War I and an Avro Lancaster from World War II.
+
+There are also peace-time airplanes made by Cessna and de Havilland, and a helicopter made by Sikorsky. The museum also has a large library of flying information available for people to read and look at.
+
+Canadian Museum of FlightThe Canadian Museum of Flight is an aircraft museum at the Langley Airport in Langley, British Columbia, Canada. The museum has about 20 peace-time and war-time motor airplanes, gliders, and helicopters to see, six of which can still fly.
+
+List of aircraft displayed :Olympic Flight MuseumThe Olympic Flight Museum is an aircraft museum at the Olympia Airport in Olympia, Washington, USA. The museum has more than 20 airplanes and helicopters to see, most of which can still fly.
+
+San Diego Aerospace MuseumSan Diego Aerospace Museum is an aircraft and space exploration museum in San Diego, California, USA. It contains many original and copies of old aircraft and spacecraft, including:Pearson Air MuseumThe Pearson Air Museum is an airplane museum at Pearson Field Airport in Vancouver, Washington, USA. The museum and Pearson Field, and the Fort Vancouver National Historic Site, are all part of the Vancouver National Historic Reserve.
+
+The Pearson Air Museum shows different kinds of unusual, special, and historic airplanes. For example, an experimental and one-of-a-kind aircraft known as the "flying pickle" originally based at Watts Airport (or Bernard's Airport), is shown at the Pearson. Alley reports on this special airplane based at Watts Airport in 1929, that was an experimental one-of-a-kind model. In this aircraft the pilot sits in an open air compartment, behind a roomy enclosed passenger cabin.
+
+Newfoundland and LabradorNewfoundland and Labrador () is a province on the East Coast of Canada, and is the farthest east of all Canadian provinces and territories. The capital of Newfoundland and Labrador is St. John's. In 2016, 519,716 people lived in Newfoundland and Labrador.
+
+Newfoundland is an island, while Labrador is within the mainland of Canada and on a border with Quebec.
+
+The province of Newfoundland and Labrador was originally called Newfoundland and joined Canada in 1949, becoming the newest province of Canada, after being a colony of the United Kingdom. Until an agreement was reached in 1927, Quebec also claimed Labrador.
+
+In 2001, the name of Newfoundland changed to its new official name, Newfoundland and Labrador, while the postal code abbreviation changed from NF to NL. The island of Newfoundland, and part of Labrador, are in a time zone that is a half hour off from any other part of North America.
+
+GreenfinchThe greenfinch ("Chloris chloris"), also known as the European greenfinch, is a small passerine bird in the finch family Fringillidae.
+
+This bird is widespread throughout Europe, north Africa and southwest Asia. It is mainly resident, but some northernmost populations migrate further south. The Greenfinch has also been introduced into both Australia and New Zealand.
+
+Woodland edges, farmland hedges and gardens with relatively thick vegetation are favoured for breeding. It nests in trees or bushes, laying 38 eggs. This species can form large flocks outside the breeding season, sometimes mixing with other finches and buntings. They feed largely on seeds, but also take berries.
+
+St. John's, Newfoundland and LabradorSt. John's is the capital of the Canadian province of Newfoundland and Labrador. It is also the largest city in the province, with 108,860 people living there and 205,955 people in the St. John's Metropolitan Area.
+
+Memorial University of Newfoundland (MUN) has two campuses in St. John's and College of the North Atlantic (CNA) also has two (and a third in Seal Cove, within the St. John's Metropolitan Area). MUN and CNA are the only two public higher education institutions in Newfoundland. Given this, there are many students living in St. John's to pursue studies.
+
+Close to St. John's is Cape Spear, the easternmost point in North America.
+
+St. John's is home to the Newfoundland Growlers who play in the ECHL.
+
+NestA nest is a place where animals build to hold their eggs or provide a place to raise their babies. They are most typical of birds, but many other vertebrates do make nests.
+
+Nests can be made of organic materials such as twigs, grass, and leaves. They may be a simple depression in the ground, or a hole in a rock, tree, or building. Nests can be found in all types of habitat.
+
+Egg (biology)An egg results from fertilization of an ovum. The egg is a container for the zygote. It protects the zygote, and feeds the embryo.
+
+The animal embryo develops until it can survive on its own, at which point the egg hatches. Most vertebrates, arthropods and molluscs lay eggs outside the mother's body. They are always in some kind of container, a shell or covering.
+
+Reptiles, birds and monotremes lay cleidoic eggs: bird eggs are an example. These are a special kind of egg with a good supply of food and water. They have an outside covering which lets through gases so that carbon dioxide can get out, and oxygen can get in.
+
+Fish, amphibia, insects and arachnids lay simpler eggs in greater numbers, but with much less protection and nourishment.
+
+Some animals, mostly mammals, keep the zygote inside their body where the embryo grows until it is ready to be born. These are also cleidoic eggs, but all the development is done inside the mother's body, as with humans.
+
+Most mammals, and a number of marine reptiles, give live birth. Also, there are some invertebrates, such as scorpions, where the eggs develops inside the mother. They also give birth to live young.
+
+The ostrich has the largest eggs of all living animals. Eggs, mostly bird eggs, are often eaten as food. The shell of an egg is a hard calcareous (CaCO) material. The shell of an ostrich egg can support the weight of a fully grown human.
+
+Javan tigerThe Javan tiger ("Panthera tigris sondaica") is 1 of 3 extinct subspecies of tigers. It lived on the island of Java in Indonesia. It became extinct in the 1970s-1990s. The last known sighting of one was in 1972.
+
+It was small when compared with the subspecies from the Asian mainland. However, it was larger than the Bali tiger and around the size of the Sumatran tiger. It had numerous long, thin stripes.
+
+15291529 was a common year.
+
+AbacusAn abacus is an old tool used for arithmetic. It is still used in some parts of the world, and it is well suited for use in shops and street markets. Sometimes blind people use an abacus, because they can feel the numbers easily. The most common abacuses work by moving beads on rods.
+
+Abacuses can do addition, subtraction, multiplication, division. They can be used to find the square root of whole numbers. Expert abacus users can sometimes do math faster than basic calculators.
+
+There is a common Chinese abacus. This abacus is split into two kinds of basic rows, the top is for the "5"s, and the bottom is for the "ones". There are one or two beads in the top rows, and four or five beads in the bottom ones. For example, 8 is one bead on top and 3 below, because 5 + 3 = 8. Every column represents a different digit.
+
+The use of the word "abacus" dates from before 1387 AD, when the word was got from Latin to describe a sandboard abacus. The Latin word came from ancient Greek ("abax") which means something without base, or (improperly) any piece of rectangular board or plank.
+
+Both "abacuses' and "abaci" are used as plurals. The user of an abacus is called an "abacist" (soft or hard 'c')."
+
+There is a Japanese version of the abacus called the 'soroban'. It works in essentially the same way.
+
+16061606 was a common year.
+
+15471547 was a common year starting on a Saturday in the Julian calendar. It was the 547th year of the 2nd millennium, the 47th year of the 16th century and the 8th year of the 1540s decade.
+
+1547 was a year that marked the deaths of two powerful European Kings - Henry VIII of England and Francis I of France. In England, Henry's nine-year-old son took over as Edward VI of England, while in France, Henry II became the next King. Also, during this year, Ivan IV of Russia was crowned Tsar. He later became better known as Ivan the Terrible.
+
+AccordionAn accordion is a musical instrument that has keys similar to a piano, but is small enough for a person to hold. It makes sounds using air pushed and pulled through reeds using a bellows. The accordion can also have buttons instead of keys. The 6-plus-6-system with three rows has the same fingering in all twelve scales.
+
+The accordion was first patented in 1829 in Austria by Cyrill Demain.
+
+It was invented in Germany by Friedrich Buschmann in 1822. Since then, the instrument has made a significant impact on the world of modern and classical music. The accordion is similar to a portable piano. It is a wind instrument, comprising two reed organs that are connected by folding bellows.
+
+1781The year 1781 is .
+
+1841eventually calls "hypnosis".
+
+Georg AgricolaGeorg or Georgius Agricola (1494-1555) was a German scholar and scientist. He was one of the first people to study mining and minerals (stones and gems), that is the father of mineralogy.
+
+1440Year 1440 (MCDXL) was a leap year which started on a Sunday in the Julian calendar. It was the first year of the 1440s decade.
+
+14281126was a leap year.
+
+Amiga CD32The Amiga CD32 was a game console made by Commodore International release in 1993. It was based around the Amiga A1200 Computer.
+
+Using third party devices, it is possible to upgrade the CD32 with keyboard, floppy drive, hard drive, RAM and mouse, turning it into the equivalent of an Amiga 1200 personal computer.
+
+In the Christmas period of 1993, the CD32 accounted for 38% of all CD-ROM drive sales in the UK, exceeding sales of the Mega-CD; however, it was soon overshadowed by CD-ROM based games consoles from other companies, and was discontinued as Commodore went into bankruptcy in 1994.
+
+175 known game discs were released for the Amiga CD32GX4000The GX4000 was a console made by Amstrad in 1990. At first, it was successful. But it did not continue its early success. The GX4000 games could be used with other Amstrad computers. Only 40 games were made for it. Soon it disappeared into the mist of history. These days it is very rare to see one that is still in working condition.
+
+ApeXtremeApeXtreme is a console created by Apex Digital Inc. It was released January 9, 2004.
+
+It can do many things, like play computer games, DVDs, CDs, VCDs and use the Internet.
+
+What it can do:16171617 (MDCXVII) was a common year starting on Sunday (link will display the full calendar) of the Gregorian calendar and a common year starting on Wednesday of the 10-day slower Julian calendar.
+
+15611561 was a common year.
+
+New Year's DayNew Year's Day is a holiday in many countries. It was made to welcome the new year. In most countries, New Year's Day is celebrated on 1 January. This holiday is celebrated the most, with over 200 countries and territories in the world that observe it.
+
+The new year is an event that happens when a culture celebrates the end of one year and the beginning of the next. Cultures that measure yearly calendars all have new year celebrations.
+
+In Christmas Style dating, the new year started on 25 December. This was used in Germany and England until the thirteenth century, and in Spain from the fourteenth to the sixteenth century.

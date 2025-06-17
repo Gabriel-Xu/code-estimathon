@@ -1,0 +1,11 @@
+A fuse is a device that shuts off the power to an electrical circuit when too much electric current flows through it. This usually happens when too many appliances are plugged in or when there is a short circuit. A fuse is made as an intentional weak spot in a circuit that will melt (or "blow") when too much current is flowing through it, shutting off the power to the rest of the circuit. This protects the rest of the circuit. After the fuse blows, the problem that caused it to blow must be corrected and the fuse must be replaced to restore power to the circuit. A circuit breaker does the same job as a fuse, but it can be reset without replacing anything.
+
+Fuses in plugs are made in standard ratings. The most common are 3 A, 5 A and 13 A. The fuse should be rated at a slightly higher current than the device needs. e.
+
+g. if the device works a 3 A use 5 A fuse. Fast and slow fuses are made. Fast acting fuses blow immediately once the current rating is exceeded. Slow blow fuses will let the current exceed the rating for a fraction of a second, to allow devices like motors to start up.
+
+NaengmyeonNaengmyeon is a traditional Korean summer food. The name means "cold noodles". Naengmyeon’s basic ingredients are flour, a boiled egg, slices of cucumber and slices of boiled meat. Water or gochujang can be added depending on the type of Naengmyeon. There are many kinds of noodles made from wheat, buckwheat, potatoes or sweet potatoes.
+
+According to the 19th century writings, it has been made since the Joseon Dynasty. It began as a delicacy in northern Korea. It was popular in the cities of Pyongyang and Hamhung in North Korea. Naengmyeon became widely popular in Korea after the Korean War.
+
+The two main types of naengmyeon are "mul naengmyeon" and "bibim naengmyeon". Mul naengmyeon is served as a cold soup with the noodles contained in broth made from beef or chicken. Bibim naengmyeon is served with a spicydressing made mainly from gochujang (red chili paste).

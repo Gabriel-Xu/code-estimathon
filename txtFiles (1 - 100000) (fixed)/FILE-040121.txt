@@ -1,0 +1,223 @@
+Instructions regarding activities and acceptable behavior are disseminated through The Watchtower magazine and other official publications, and at conventions and congregation meetings.
+
+Instructions such as multiply and divide often leave the flag undefined, or affected by the last partial result.
+
+Instructions that modified or stored index registers used a four-bit field (xo) to select that index register.
+
+Instructions that refer directly to specific memory addresses sometimes execute faster, and replacing them with equivalent relative-addressing instructions may result in slightly slower execution, although modern processors make the difference practically negligible.
+
+Instructions typically include those to compute or manipulate data values using registers, change or retrieve values in read/write memory, perform relational tests between data values and to control program flow.
+
+Instructions upon virtue spaces advance players toward the goal while those upon vice spaces force them to retreat.
+
+Instructions were relayed to the pilots only from the squadron's sector control rooms, normally co-located at the fighters' operating bases.
+
+Instructions were represented as 30-bit words in the following format: f 6 bits function code j 3 bits jump condition designator k 3 bits partial word designator b 3 bits which index register to use y 15 bits operand address in memory Numbers were represented as 30-bit words.
+
+Instruction were an alternative rock band that formed in 2002 in Brooklyn, New York.
+
+Instructograph was a paper tape-based machine used for the study of Morse code.
+
+Instructor-led training, or ILT, is the practice of training and learning material between an instructor and learners, either individuals or groups.
+
+Instructors also train Marines in use of the M9 pistol.
+
+Instructors and active agents teach courses on subjects such as physical security for installations, transnational investigations, post-blast investigations, countering wildlife trafficking, anticorruption, illicit drug trafficking, money laundering and financial crimes, terrorism and human trafficking.
+
+Instructors and staff evaluate each student's progress throughout the weekend, and make recommendations on the student's advancement through successively higher skilled driver groups.
+
+Instructors are credentialed by the State of California.
+
+Instructors are evaluated on technical skills and teaching skills.
+
+Instructors at Arizona Combat Sports include Trevor Lally for Muay Thai , Jameson White, and BJJ Black Belt Steve Rosenberg.
+
+Instructors at KTA are volunteers from the ranks of the US Army, ROK Army, and KATUSA.
+
+Instructors at the gym include former world kickboxing champion Conrad Pla and Firas Zahabi.
+
+Instructors can also be referred to as a facilitator, who may be knowledgeable and experienced in the learning material, but can also be used more for their facilitation skills and ability to deliver material to learners.
+
+Instructors comprise a mixture of regular RAF/RN/Army personnel, reservists, civilian gliding instructors (CGIs) and flight staff cadets (FSCs).
+
+Instructors have, in addition to sharing a wealth of field experience and knowledge in best practices, been known to take on students for solar projects, offering practical, paid experience to beginners looking to enter the solar industry.
+
+Instructors in a bioengineering course at the University of Wisconsin-Madison published results of a pilot effort using the software to teach the course in 2014, and Yale published a report of adopting it for research labs in 2014.
+
+Instructors include a three-times world champion, world record holders, British cross country champion, British distance record holder, Royal Aeroclub gold medal winner and members of the British hang gliding and paragliding team.
+
+Instructors marked with an asterisk are also graduates of the Clarion or Clarion West workshops.
+
+Instructors may deliver training in a lecture or classroom format, as an interactive workshop, as a demonstration with the opportunity for learners to practice, or even virtually, using video-conferencing tools; and the instructor may have facilitation and teaching skills, in which they can use different methods to engage learners and embrace different learning styles.
+
+Instructors may have to alter some of the techniques and some equipment may also need changing to meet the individual's need.
+
+Instructors monitor and teach life drawing and painting sessions.
+
+In structural applications, the combination of high flexural rigidity, thermal stability, thermal conductivity and low density (1.
+
+85 times that of water) make beryllium metal a desirable aerospace material for aircraft components, missiles, spacecraft, and satellites.
+
+In structural design, a design load is greater than the load which the system is expected to support.
+
+In structural engineering and material science, fast fracture is a term given to a phenomenon in which a flaw (such as a crack) in a material expands quickly, and leads to catastrophic failure of the material.
+
+In structural engineering, a pre-engineered building (PEB) is designed by a PEB supplier or PEB manufacturer, to be fabricated using best suited inventory of raw materials available from all sources and manufacturing methods that can efficiently satisfy a wide range of structural and esthetic design requirements.
+
+In structural engineering a profile means a hot rolled structural steel shape like an I-beam.
+
+In structural engineering, a structure can become unstable when excessive load is applied.
+
+In structural engineering, a structure is a body or combination of pieces of rigid bodies in space to form a fitness system for supporting loads.
+
+In structural engineering the amplification factor is the ratio of second order to first order deflections.
+
+In structural engineering, the open web steel joist (OWSJ) is a lightweight steel truss consisting, in the standard form, of parallel chords and a triangulated web system, proportioned to span between bearing points.
+
+In structural geology and diagenesis, pressure solution or pressure dissolution is a deformation mechanism that involves the dissolution of minerals at grain-to-grain contacts into an aqueous pore fluid in areas of relatively high stress and either deposition in regions of relatively low stress within the same rock or their complete removal from the rock within the fluid.
+
+In structural geology, a suture is a joining together along a major fault zone, of separate terranes, tectonic units that have different plate tectonic, metamorphic and paleogeographic histories.
+
+In structural geology, a syncline is a fold with younger layers closer to the center of the structure.
+
+In structural geology, fabrics may provide information on both the orientation and magnitude of the strains that have affected a particular piece of deformed rock.
+
+In structural geology, metallurgy and materials science, deformation mechanisms refer to the various mechanisms at the grain scale that are responsible for accommodating large plastic strains in rocks, metals and other materials.
+
+In structural geology section restoration or palinspastic restoration is a technique used to progressively undeform a geological section in an attempt to validate the interpretation used to build the section.
+
+In structural geology the term was first used to describe the thrust-bounded imbricates found within a thrust duplex.
+
+In structuralism, a binary opposition is seen as a fundamental organizer of human philosophy, culture, and language.
+
+In structuralist and poststructuralist accounts, however, difference is understood to be constitutive of both meaning and identity.
+
+In structural rigidity, the existence of (infinitesimal) parallel redrawings of a structural framework is dual to the existence of an infinitesimal motion, one that preserves its edge lengths but not their orientations.
+
+In structural road design, the main considerations consist of soil parameters, parameters (thickness and stiffness) for the other road foundation materials, and the expected number of times a standard load will pass over.
+
+In structure, a beast poem can be as humble as one speech by a bird struggling to fly home safely...
+
+Instructure also developed Canvas Network, a massive open online course (MOOC) platform.
+
+In structured finance, a structured product, also known as a market-linked investment, is a pre-packaged investment strategy based on a single security, a basket of securities, options, indices, commodities, debt issuance or foreign currencies, and to a lesser extent, derivatives.
+
+In structured finance, a tranche is one of a number of related securities offered as part of the same transaction.
+
+In structure fire fighting the main type of hose pack is the high-rise pack.
+
+Instructure, Inc. is an educational technology company based in Salt Lake City, Utah.
+
+In structure, it is a cycle containing only two guanine bases linked by ribose and phosphate.
+
+In structure prediction, the structure is determined from a known sequence, while in nucleic acid design, a sequence is generated which will form a desired structure.
+
+In structure, Renfield is something of a cross between poker and trick-taking games.
+
+In structures, be they land-based, offshore or even ships, the owners and operators are responsible to maintain their facilities in accordance with a design-basis that is rooted in laws, including the local building code and fire code, which are enforced by the Authority Having Jurisdiction.
+
+In structure, the organisms of this group are ovoid and have a holdfast, at the tip of a thin cylindrical extension from the cell body called the stalk, at the nonreproductive end that helps them to attach to each other during budding.
+
+In structure, they are longer than typical microvilli and have more of the characteristics of the cellular membrane proper.
+
+In structure, they share cadherin repeats, which are the extracellular Ca2+-binding domains.
+
+Instructus Skills (formerly Skills CFA) is both the standard setting organization for business skills and the largest apprenticeship-issuing authority in the United Kingdom by number of certificates issued.
+
+Instruktsiya po Vyzhivaniyu (Instructions for Survival in English) are a Russian rock band from Tyumen, formed in 1985 by Miroslav Nemirov.
+
+Instrumental analysis is a field of analytical chemistry that investigates analytes using scientific instruments.
+
+Instrumental arrangements and production was by Bill Maxwell.
+
+Instrumental Assassination is a 1966 jazz-rock EP by Manfred Mann, produced by Shel Talmy and released by Fontana Records (TE17483).
+
+Instrumental Asylum is an EP by Manfred Mann, released in 1966.
+
+Instrumental backing was provided by L.
+
+A. session musicians from the Wrecking Crew.
+
+Instrumental backing was provided by members of the Wrecking Crew, L.
+
+A. session musicians.
+
+Instrumental backing was written by Bill Holman and provided by session musicians commonly known as the Wrecking Crew.
+
+Instrumental convergence is the hypothetical tendency for most sufficiently intelligent agents to pursue certain instrumental goals such as self-preservation and resource acquisition.
+
+Instrumental convergence suggests that an intelligent agent with apparently harmless goals can act in surprisingly harmful ways.
+
+Instrumental Dependency: the act of convincing the target individual that the ingratiator is completely dependent upon him/her.
+
+Instrumental Driving Music for Felons is the debut extended play (EP) by American desert rock collective The Desert Sessions.
+
+Instrumental for breeding new strains of wheat, linseed, and sesame, he is the author of the book Research on wheat and triticale in the Punjab along with several additional articles on the subject.
+
+Instrumental in exposing a police-politician nexus and working towards implementing police reforms.
+
+Instrumental in forming the National Association for the Advancement of Colored People.
+
+Instrumental in its establishment was Philander Chase, son of one of the three founders of Cornish and then a student at Dartmouth College.
+
+Instrumental in its founding were John Caffey, Edward Neuhauser, and Frederic Silverman.
+
+Instrumentalists and Kantorei members include some of the finest trained musicians in the St. Louis area.
+
+Instrumentalists wore Glengarry caps, the color guard wore Balmoral tams, and the Drum Majors wore shakos.
+
+Instrumentally, it was the ISB's most complex and experimental album to date, featuring a wide array of exotic instruments.
+
+Instrumentally, the group consists of guitar, keyboard and bass.
+
+Instrumentally, the music is dominated by David Sinclair's keyboard solos, and side two is taken up by a 22-minute suite of songs, "Nine Feet Underground".
+
+Instrumentally, the song features a trumpet, a timpani, a harp, and calypso steel drums.
+
+Instrumentally, the song features synths, a saxophone, and percussion.
+
+Instrumentally the songs are held together by Yester's piano.
+
+Instrumentally, the song was almost entirely composed and performed by Mike Mills, with Michael Stipe supplying the lyric and vocal.
+
+Instrumentally the track was constructed by co-writer Walter Morrison.
+
+Instrumental Marxism, or elite model, is a theory which reasons that policy makers in government and positions of power tend to "share a common business or class background, and that their decisions will reflect their business or class interests".
+
+Instrumental music was considered important by Classical period composers.
+
+Instrumental parentification involves the child completing physical tasks for the family, such as looking after a sick relative, paying bills, or providing assistance to younger siblings that would normally be provided by a parent.
+
+Instrumental pieces played on an erhu or dizi are popular, and are often available outside of China, but qin, pipa and zheng music, which is more traditional, are more popular in China itself.
+
+Instrumental polyphony is achieved primarily by lutes and fiddles.
+
+Instrumental Quarter is an Italian instrumental post-rock band, formed in 1999 in Cuneo.
+
+Instrumental rock was most popular from the mid-1950s to mid-1960s, with artists such as Bill Doggett Combo, The Fireballs, The Shadows, The Ventures and The Spotnicks.
+
+Instrumentals is an album by rapper Lil Rob.
+
+Instrumentals is an album by Ricky Skaggs and Kentucky Thunder, released through Skaggs Family Records on August 1, 2006.
+
+Instrumentals is the debut album by The Nels Cline Singers led by American guitarist Nels Cline which was released in March 2002 on the Cryptogramophone label.
+
+Instrumentals is the debut mixtape of American record producer Clams Casino.
+
+Instrumentals is the fourth studio album by German electronica duo Mouse on Mars.
+
+Instrumental solos are usually kept to a minimum, and blues elements are largely downplayed.
+
+Instrumental Surf Bands of the Sixties is a book by Robert J. Dalley which covers the instrumental side of the surf genre in the 1960s and looks at groups and artists from that era.
+
+Instrumentals was released September 13, 2005 by Delicious Vinyl Records.
+
+Instrumental to the birth of American movie culture, the Kinetoscope also had a major impact in Europe; its influence abroad was magnified by Edison's decision not to seek international patents on the device, facilitating numerous imitations of and improvements on the technology.
+
+Instrumental Tourist is a collaborative studio album by Canadian musician Tim Hecker and American musician Daniel Lopatin (who records as Oneohtrix Point Never).
+
+Instrumental versions have also been recorded by Nat Adderley, Ike Quebec and others.
+
+Instrumental versions of the song have been recorded featuring variously the piano, guitar, saxophone, pan flute, steel drum, and music box.
+
+Instrumentalyst (Octagon Beats) is a remix album by American emcee Keith Thornton, credited under the title Dr. Octagon.

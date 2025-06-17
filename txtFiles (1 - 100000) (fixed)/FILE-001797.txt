@@ -1,0 +1,47 @@
+In some semiconducting ceramics a gain in temperature causes grain boundaries to become insulating. This is most common in mixtures of heavy metal titanates. We can adjust the transition temperature (the temperature at which this happens) over a wide range by changing the chemistry. In this kind of material, current passes through the material until it reaches the transition temperature, at which point the circuit breaks and current flow stops. We use these ceramics as self-controlled heating elements in, for example, rear-window defrosting circuits in cars.
+
+At the transition temperature, the material's dielectric response approaches infinity. We cannot use the material near its critical temperature because it is hard to control temperature at that range. Despite this, the dielectric effect remains strong even at much higher temperatures. For this reason as well as because of how low their critical temperatures are, we use titanates as ceramic capacitors.
+
+Non-crystalline ceramics:Non-crystalline ceramics, being glasses, tend to be formed from melts. The glass is shaped when either fully molten, by casting, or when in a state of toffee-like viscosity, by methods such as blowing to a mold. If later heat-treatments cause this class to become partly crystalline, the resulting material is known as a glass-ceramic.
+
+Crystalline ceramics:Crystalline ceramic materials are not amenable to a great range of processing. Methods for dealing with them tend to fall into one of two categories – either make the ceramic in the desired shape, by reaction in situ, or by "forming" powders into the desired shape, and then sintering to form a solid body. Ceramic forming techniques include shaping by hand (sometimes including a rotation process called "throwing"), slip casting, tape casting (used for making very thin ceramic capacitors, etc.), injection molding, dry pressing, and other variations. (See also Ceramic forming techniques. Details of these processes are described in the two books listed below.) A few methods use a hybrid between the two approaches.
+
+The most common use of this method is in the production of cement and concrete. Here, the dehydrated powders are mixed with water. This starts hydration reactions, which result in long, interlocking crystals forming around the aggregates. Over time, these result in a solid ceramic.
+
+The biggest problem with this method is that most reactions are so fast that good mixing is not possible, which tends to prevent large-scale construction. However, small-scale systems can be made by deposition techniques, where the various materials are introduced above a substrate, and react and form the ceramic on the substrate. This borrows techniques from the semiconductor industry, such as chemical vapour deposition, and is very useful for coatings.
+
+These tend to produce very dense ceramics, but do so slowly.
+
+The principles of sintering-based methods is simple. Once a roughly held together object (called a "green body") is made, it is baked in a kiln, where diffusion processes cause the green body to shrink. The pores in the object close up, resulting in a denser, stronger product. The firing is done at a temperature below the melting point of the ceramic. There is virtually always some porosity left, but the real advantage of this method is that the green body can be produced in any way imaginable, and still be sintered. This makes it a very versatile route.
+
+There are thousands of possible refinements of this process. Some of the most common involve pressing the green body to give the densification a head start and reduce the sintering time needed. Sometimes organic binders such as polyvinyl alcohol are added to hold the green body together; these burn out during the firing (at 200–350 °C). Sometimes organic lubricants are added during pressing to increase densification. It is not uncommon to combine these, and add binders and lubricants to a powder, then press. (The formulation of these organic chemical additives is an art in itself. This is particularly important in the manufacture of high performance ceramics such as those used by the billions for electronics, in capacitors, inductors, sensors, etc. The specialized formulations most commonly used in electronics are detailed in the book "Tape Casting," by R.
+
+E. Mistler, et al., Amer. Ceramic Soc. [Westerville, Ohio], 2000.) A comprehensive book on the subject, for mechanical as well as electronics applications, is "Organic Additives and Ceramic Processing," by D. J. Shanefield, Kluwer Publishers [Boston], 1996.
+
+A slurry can be used in place of a powder, and then cast into a desired shape, dried and then sintered. Indeed, traditional pottery is done with this type of method, using a plastic mixture worked with the hands.
+
+If a mixture of different materials is used together in a ceramic, the sintering temperature is sometimes above the melting point of one minor component – a "liquid phase" sintering. This results in shorter sintering times compared to solid state sintering.
+
+Inorganic compoundAn inorganic compound is a chemical compound that does not have carbon–hydrogen bonds that is, it is "not" an organic compound. That means it is not a carbon-based compound.
+
+The division between the two types of compound is not absolute. Some carbon-containing compounds are traditionally considered inorganic. Many chemicals in nature are not compounds, but are ions. Sodium, chloride, and phosphate ions are essential for life, as are some inorganic molecules such as nitrogen, carbon dioxide, water and oxygen. Aside from these simple ions and molecules, virtually all compounds covered by biochemistry contain carbon and can be considered organic or organometallic.
+
+Major types of inorganic compounds may include:Applied mechanicsApplied mechanics, also known as theoretical and applied mechanics, is a branch of the physical sciences and the practical application of mechanics. Applied mechanics examines the "response of bodies (solids and fluids) to external forces". Some examples of "mechanical systems" include the flow of a liquid under pressure, the fracture of a solid from an applied force, or the vibration of an ear in response to sound. A practitioner of the discipline is known as a mechanician.
+
+Applied mechanics, as its name suggests, bridges the gap between physical theory and its application to technology.
+
+MechanicsMechanics is a branch of physics which looks at objects that are moved by forces (including other bodies, or forces of nature).
+
+The discipline has its roots in ancient Greece where Aristotle studied the way bodies behaved when they were thrown through the air (e.
+
+g. a stone). However it was Galileo, Kepler and especially Newton who laid the foundations for much of the so-called "Newtonian mechanics" we know today.
+
+A person working in the discipline is known as a mechanician.
+
+Mechanics is the original discipline of physics, dealing with the macroscopic world that humans perceive. It is therefore a huge body of knowledge about the natural world. Mechanics encompasses the movement of all matter in the universe under the four forces: gravity, the strong and weak interactions, and the electromagnetic interaction.
+
+Mechanics also constitutes a central part of technology.
+
+Newton proposed three laws of motion.
+
+The following are categorized as being part of Quantum mechanics:Blogs:NewtonNewton may refer to many things:

@@ -1,0 +1,133 @@
+“Do you schedule time with your shower?” said Mr. Kalanick, when asked by Mr. Benioff if Uber would introduce scheduled rides, reported Forbes.
+
+And yet, ever since it started six years ago, Uber said it has received requests from customers for pre-scheduled rides “so they can rest assured that an Uber will be available when they need it, even if it’s for a 4 a.
+
+m. ride to the airport,” wrote Uber in Thursday’s blog post.
+
+Taxis and limos have long offered schedule-ahead services. In fact, it’s a foundation of the limousine industry. Gett, which operates in Europe, Russia, Israel, and New York City, recognized this when it launched the service more than a year ago. Lyft was next. It started to pilot service in San Francisco about two weeks ago, and plans to expand it to other cities sometime this summer, reported PC Magazine. Lyft, though, will allow users to reserve a ride up to 24 hours in advance, compared to up to 30 days through Uber.
+
+Uber introduced pre-scheduling in part to keep up with its rivals. Yet it’s also an indication that ride-hailing companies are learning they can’t do away with too much of the traditional model.“
+
+If you want to really, truly upend the market, then you have to focus on perfecting the tools people use to create change,” wrote Kevin Harrington, the inventor of the infomercial, in a Forbes article. “In the end, companies don’t upend markets – customers do.” ||||| Uber’s working on making it easier for you to get a ride when you need it.“
+
+Ride-scheduling,” unveiled June 9 on a trial basis in Seattle, is the latest feature to be added, according to the company’s blog.
+
+AdvertisementWhile the new feature allows riders to schedule a pickup request up to 30 days in advance, it doesn’t allow riders to match with drivers ahead of time.
+
+Since launching its ride-sharing application six years ago, the company said on its blog that riders have wanted the ability to arrange a pickup in advance.
+
+The company said it did not have a specific date when Boston would receive the new feature, but “other top business travel cities” will soon be added. Uber is also limiting the new feature to users it identifies as “business travelers.’’
+
+To use the function, users will have to select “uberX” in the app, followed by a “Schedule a Ride” option.
+
+After filling out the appropriate information, such as pickup date and time, confirmation will be sent to the user. The company says they’ll send reminders 24 hours and then again at 30 minutes before the requested pickup time.
+
+AdvertisementThe driver’s information will be shared once a match is made, like the app currently does with unscheduled rides, Uber said.
+
+The ability to schedule a ride is a complete turnaround for Uber.
+
+According to Forbes in 2015, Uber’s Travis Kalanick told Salesforce Chief Executive Officer Marc Benioff that Uber had no plans to introduce a scheduling capability.
+
+Roughly two weeks ago, ride-share rival Lyft also announced plans for testing ride-scheduling capabilities. According to an announcement posted May 23 on its blog, Lyft users in San Francisco can schedule rides up to 24 hours in advance.
+
+Uder’s scheduling proposal comes on the heels of another announcement — guaranteed uberPOOL arrival time.
+
+In a June 7 blog post, the company stated that uberPOOL users will see an “arrival time” estimate as opposed to the current travel time estimate. If you miss your “arrival time,” Uber will give you $2 off your next uberPOOL ride.
+
+Currently, uberPOOL arrival time is only offered in Los Angeles, but the company hopes to expand it to other cities soon.
+
+Uber said it also does not have a specific date to roll out the new uberPOOL feature in Boston. ||||| Seattle will be the first city where Uber offers scheduled rides to app users with a business profile.
+
+Uber will allow riders to schedule a ride as early as 30 days in advance.
+
+The new service will be first offered to business travelers in the Seattle area starting at 11 a.
+
+m. Thursday, though the company has promised quick expansion to other cities.
+
+Hoping to please meticulous planners with loaded calendars, Tom Fallows, Uber’s director of global experiences, said the service is aimed at those who “want an extra degree of assurance Uber will be there when they head out,” such as travelers with early morning flights.“
+
+They sleep better knowing their Uber ride is arranged,” Fallows said.
+
+To schedule a trip, app users with a business profile choose a route and set a date and time. Scheduled rides are priced like a normal Uber ride and subject to surge pricing.“
+
+If you’re requesting the ride at 8 a.
+
+m. on a Monday morning and it’s super high demand, surge may apply just like it normally would,” Fallows said. “We send riders a push notification on the way, notifying them if there’s any surge.”
+
+Passengers can modify their scheduled rides before the driver has been dispatched. Once the push notification is sent and the driver is en route, users will have 5 minutes to cancel without penalty, Fallows said.
+
+Initially, scheduled rides will be available only on UberX, but Fallows said the company plans to expand it to black cars and other Uber lines soon.
+
+Uber chose to launch in Seattle because developers here built the system and the city has a lot of business travelers, Fallows said.
+
+Although scheduling is a simple concept, Fallows said the architecture that runs the dispatching system requires complex algorithms that determine the right time to ask a driver to pick up a scheduled ride.
+
+The algorithm weighs proximity, traffic obstacles and the likelihood a driver will accept a scheduled ride, among other factors.
+
+The best driver for a given ride won’t always be the one nearest to the person requesting it, Fallows said.
+
+For example, “We may know a driver who currently has a passenger in the car is headed to drop them off nearby your house or pickup location,” Fallows said. “The best driver to be offered your ride is not an available driver 10 blocks away, but is a driver who is currently occupied but will soon be free two blocks away.”
+
+Fallows said Uber’s engineers in Seattle will be watching how the new feature is used and eager for feedback from customers.“
+
+There’s nothing like having things happen in your own backyard to excite you about building and testing,” he said. |||||(CNN) -- Oscar-winning director James Cameron has plunged to the deepest known point in the world's oceans, tweeting from his one-man submersible during the process. The filmmaker reached Challenger Deep, which is part of the Mariana Trench in the western Pacific Ocean, near Guam, at 7:52 a.
+
+m. Monday (5:52 p.
+
+m. ET Sunday), according to Ellen Stanley, a spokeswoman for the National Geographic Society that is working with Cameron on the project. "Just arrived at the ocean's deepest pt," Cameron wrote on Twitter. "Hitting bottom never felt so good." At more than 10,900 meters (about 35,800 feet), the Mariana Trench is deeper than Mount Everest is tall. And it has had only two previous human visitors, as U.
+
+S. Navy Lt. Don Walsh and late Swiss explorer Jacques Piccard descended to that spot in 1960. Cameron is the first person to make the dive solo, a distinction that also had been sought by billionaire businessman and adventurer Richard Branson and Patrick Lahey, an experienced submarine pilot. The man behind the blockbuster hits "Titanic" and "Avatar" went down in a high-tech vessel, the Deepsea Challenger, which he and a team of scientists and engineers constructed in Australia over the past eight years. Outfitted with special cameras and robotic arms, Deepsea Challenger is able to dive vertically at speeds of 500 to 700 feet per minute and can withstand immense pressure -- up to 16,000 pounds per square inch. Engineers and scientists joined Cameron's team during Sunday's deep sea endeavor. Earlier, he'd said he plans to spend six hours at the bottom of the trench collecting samples for research that will allow scientists on board and around the world to learn about the habitat and life forms at that depth. "It's so exciting -- every second you see something cool or you've got something to do or you're photographing or you see some amazing fish," Cameron told CNN earlier this month. Scientists hope that a fresh look at Challenger Deep will provide insight into many unfamiliar life forms in the depths of the ocean. It is estimated that more than 750,000 marine species have not been formally described in scientific literature over the centuries, triple the number of those that have been. The figures exclude microbes, of which a 2010 marine life census estimates there are up to one billion kinds. The nonprofit X-Prize Foundation has announced it will award a $10 million prize to the first person to reach the bottom of the Mariana Trench. Cameron told CNN he's not interested in competing for this prize, or any other, because his mission is purely about scientific research. "You know, there's so much we don't know," Cameron said. "I'm hopeful that we'll be able to study the ocean before we destroy it." CNN's Adam Reiss contributed to this report.
+
+This is a symbol to remember those who have given their lives in war.
+
+This year, over 45 million poppies will be given out by 150,000 volunteers.
+
+But why do we wear these red flowers to remember people in this way?
+
+The reason poppies are used to remember those who have given their lives in battle is because they are the flowers which grew on the battlefields after World War One ended.
+
+This is described in the famous World War One poem In Flanders Fields, which you can read below.
+
+Ever since then, they have come to be a symbol of remembering not just those who gave their lives in World War One, but all those who have died on behalf of their country.
+
+Every year, volunteers make poppies available throughout the country and people make a donation in order to get their poppy.
+
+The money raised from these donations is used to help servicemen and women who are still alive, whose lives have been changed by wars that they fought in.
+
+It might help them to get jobs and somewhere to live, and will also help older war veterans with any support they may need.
+
+It is also used to help those who have lost loved ones because of wars.
+
+The charity that runs this Poppy Appeal is called The Royal British Legion.
+
+Wearing poppies like this to raise money to help people who had fought in wars started in 1921.
+
+This was year that the Royal British Legion was founded on 15 May.
+
+However, back then the poppies weren't made out of paper like they are today. They were made out of silk.
+
+They sold out straight away and raised more than Â£106,000 for those whose lives had been affected by the war, by helping to find them jobs and somewhere to live once they were no longer serving in the army.
+
+In 1922, a factory was set up where disabled former soldiers were employed to make the poppies.
+
+This factory is still running - and producing many millions of poppies each year - to this very day.
+
+While the majority of people wear their poppy on their chest, there is in fact no right or wrong way to wear a poppy.
+
+As the Royal British Legion says: "We only ask you to wear it with pride."
+
+In Flanders fields the poppies blowBetween the crosses, row on row,That mark our place; and in the skyThe larks, still bravely singing, flyScarce heard amid the guns below.-
+
+We are the Dead. Short days agoWe lived, felt dawn, saw sunset glow,Loved and were loved, and now we lieIn Flanders fields.-
+
+Take up our quarrel with the foe:To you from failing hands we throwThe torch; be yours to hold it high.
+
+If ye break faith with us who dieWe shall not sleep, though poppies growIn Flanders fields.
+
+A slender mother-of-four devoured a 72oz steak in 2 minutes 44 seconds, earning her a place in the world record books - and a spot of indigestion, no doubt. Molly Schuyler, 34, of Nebraska, uploaded a video to YouTube showing her tackling the hefty lump of beef at Sayler's Old Country Kitchen in Portland on January 3. Instead of using a knife and fork she is seen eating with her hands. When she is a third of the way through the meat feast, a spectator exclaims: 'This is where most men stop . . . after an hour', but Ms Schuyler perseveres. Scroll down for video . Large appetite: Molly Schuyler wolfed down a 72oz steak in 2 minutes 44 seconds, earning her a place in the world record books - and a spot of indigestion, no doubt . She manages to obliterate the previous 72oz steak-eating world record - which stood at 6 minutes and 48 seconds and was held by a 'body building huge man' - by cleaning her plate in less than half the time. Despite the colossal size of her dish, Mrs Schuyler's appetite continues to roll, and she is seen reaching for handfuls of fries after taking a gulp of water. Ready, set, go! The 34-year-old uploaded a video to YouTube showing her tackling the hefty lump of beef at Sayler's Old Country Kitchen in Portland on January 3 . No time wasted: Instead of using a knife and fork she is seen eating with her hands . Final mouthful! The previous world record, apparently held by a 'huge male body builder', stood at 6 minutes and 48 seconds . Room for more: Despite the colossal size of her dish, Mrs Schuyler's appetite continues to roll, and she is seen reaching for handfuls of fries . Just the day before, on January 2, Mrs . Schuyler smashed another record by demolishing a 12lb sandwich, 1lb of French fries and a large soda as part of the Mad Greek Deli . Challenge in Portland. She completed the incredible feat in 54 minutes and was the only woman to finish. A $650 cash prize was awarded to her for finishing the food. Video courtesy: Big Eaters Club . The size of a baby! An image of the Sayler's Old Country Kitchen 72oz steak . Non stop: On January 2 Mrs Schuyler smashed another record by demolishing a 12-pound sandwich, one pound of French fries and a large soda as part of the Mad Greek Deli Challenge in Portland . When asked what the toughest part was Mrs Schuyler, who works as a restaurant server, said the meat because she doesn't like salami or pepperoni. Talking about her speed-eating abilities, she added: ‘It's an unexplained phenomenon. ‘I was just born that way. I started doing this about a year ago, and I guess it's like a stupid human trick.' Her husband, Sean, also says she is 'amazing when it comes to eating.' In 2013 Mrs Schuyler competed in more than 20 different food eating contests across the country. Slender: Mrs Schuyler's slim physique, and the fact that she has birthed four kids, may come as a surprise to those who've watched her eat . New-found skill: Mrs Schuyler, a full-time server, only started eating competitively last August . Victories included eating 9lbs of fried mushrooms in 8 minutes and eight beef patties in 1 minute and 46 seconds. She also beat ‘Man vs Food’s Adam Richman at Jethro's BBQ Diner challenge in Iowa by polishing off a 5lb meat sandwich made of pork, chicken, bacon, brisket and deep fried cheese in less than eight minutes. All Pro Eating, the world's only independent competitive eating organization, lists her as the world's number one female.
+
+By . Sam Webb . PUBLISHED: . 04:35 EST, 25 April 2013 . | . UPDATED: . 07:57 EST, 25 April 2013 . The BBC once again faces questions over product placement of top clothing brands on news programmes after two presenters were seen wearing the same £550 jacket in the same bulletin. Both Jeremy Bowen and Ian Pannell sported £550 waxed biker jackets from prestige manufacturer Belstaff on the 10 o'clock news on Tuesday. It is not the first time questions have been raised over the broadcaster's journalists wearing expensive brands. Scroll down for video . Prominent: Jim Bowen (right), seen here wearing the distinctive Belstaff jacket during his report about kidnapping from Syria. His colleague was seen in the same jacket in the same edition of the 10 o'clock news . The BBC has come under scrutiny for prominent clothing branding in news broadcasts on two other occasions . Wardrobe coincidence: BBC Boston Reporter Ian Pannell wearing the same Belstaff Jacket . In 2011 the BBC was accused of . allowing its presenters to advertise Berghaus clothing by ‘the back . door’ – after negotiating a deal to buy Berghaus jackets at a 45 per . cent discount. The waxed biker jacket starts at £550 and goes up to £8,-000 for a python skin version . The Corporation was reported to have spent thousands kitting out staff on its most popular programmes in a range of the brand’s latest jackets and fleeces. Presenters such as BBC news anchor George Alagiah, diplomatic correspondent Peter Hunt and scientist Professor Brian Cox were seen in the jackets bearing the brand’s red and blue logo alongside the name Berghaus. And in 2008 viewers noticed a number of staff reporting from chillier climes were wearing jackets from outdoor brand North Face. Its instantly-recognisable logo with the curved stripes has been seen on screen in a variety of locations across the U.
+
+S. and Europe, providing invaluable publicity for the manufacturer. Wearers included economics editor . Evan Davis and business presenter Declan Curry when they covered the . Davos Summit in Switzerland. it was also worn by David Grossman when he was . reporting on the New Hampshire Primaries in the U.
+
+S. A Corporation spokesman said the two reporters wearing the same jacket was simply a 'coincidence'. She . added: 'The BBC has no links with Belstaff and it would be wrong to . suggest the BBC ever agrees to clothing discounts in exchange for on-air . promotion.' Belstaff also made the famous 'Milford' coat for Bernard Cumberbatch as Sherlock Holmes in the hit BBC show Sherlock. The coat had been discontinued, but after the success of Sherlock, Belstaff re-launched it in August 2010. George Alagiah in a Berghaus jacket. The BBC was accused of allowing its presenters to advertise Berghaus clothing by 'the back door'- after negotiating a deal to buy jackets at a 45 per cent discount . And again: BBC News reader Evan Davis in Davos wearing a North Face Jacket with a prominent logo in 2008 .

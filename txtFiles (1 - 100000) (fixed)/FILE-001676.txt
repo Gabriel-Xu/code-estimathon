@@ -1,0 +1,105 @@
+When power is lost in a traction elevator system, all elevators will initially come to a halt. One by one, each car in the group will return to the lobby floor, open its doors and shut down. People in the remaining elevators may see an indicator light or hear a voice announcement informing them that the elevator will return to the lobby shortly. Once all cars have successfully returned, the system will then automatically select one or more cars to be used for normal operations and these cars will return to service. The car(s) selected to run under emergency power can be manually overridden by a key or strip switch in the lobby. In order to help prevent entrapment, when the system detects that it is running low on power, it will bring the running cars to the lobby or nearest floor, open the doors and shut down.
+
+In hydraulic elevator systems, emergency power will lower the elevators to the lowest landing and open the doors to allow passengers to exit. The doors then close after an adjustable time period and the car remains unusable until reset, usually by cycling the elevator main power switch. Typically, due to the high current draw when starting the pump motor, hydraulic elevators are not run using standard emergency power systems. Buildings like hospitals and nursing homes usually size their emergency generators to accommodate this draw. However, the increasing use of current limiting motor starters, commonly known as "Soft-Start" contactors, avoid much of this problem and the current draw of the pump motor is less of a limiting concern.
+
+Elevators may feature talking devices as an accessibility aid for the blind. In addition to floor arrival notifications, the computer announces the direction of travel, and notifies the passengers before the doors are to close.
+
+In addition to the call buttons, elevators usually have floor indicators (often illuminated by LED) and direction lanterns. The former are almost universal in cab interiors with more than two stops and may be found outside the elevators as well on one or more of the floors. Floor indicators can consist of a dial with a rotating needle, but the most common types are those with successively illuminated floor indications or LCDs. Likewise, a change of floors or an arrival at a floor is indicated by a sound, depending on the elevator.
+
+Direction lanterns are also found both inside and outside elevator cars, but they should always be visible from outside because their primary purpose is to help people decide whether or not to get on the elevator. If somebody waiting for the elevator wants to go up, but a car comes first that indicates that it is going down, then the person may decide not to get on the elevator. If the person waits, then one will still stop going up. Direction indicators are sometimes etched with arrows or shaped like arrows and/or use the convention that one that lights up red means "down" and green means "up". Since the color convention is often undermined or overrided by systems that do not invoke it, it is usually used only in conjunction with other differentiating factors. An example of a place whose elevators use only the color convention to differentiate between directions is the Museum of Contemporary Art in Chicago, where a single circle can be made to light up green for "up" and red for "down." Sometimes directions must be inferred by the position of the indicators relative to one another.
+
+In addition to lanterns, most elevators have a chime to indicate if the elevator is going up or down either before or after the doors open, usually in conjunction with the lanterns lighting up. Universally, one chime is for up, two is for down, and none indicates an elevator that is 'free'.
+
+Observatory service elevators often convey other facts of interest, including elevator speed, stopwatch, and current position (altitude), as with the case for Taipei 101's service elevators.
+
+The mechanical and electrical design of elevators is dictated according to various standards (aka elevator codes), which may be international, national, state, regional or city based. Whereas once many standards were prescriptive, specifying exact criteria which must be complied with, there has recently been a shift towards more performance-based standards where the onus falls on the designer to ensure that the elevator meets or exceeds the standard..
+
+Some of the national elevator standards include:Because an elevator is part of a building, it must also comply with standards relating to earthquake resilience, fire standards, electrical wiring rules and so forth.
+
+The American National Elevator Standards Group (ANESG) sets an elevator weight standard to be 2200 lbs.
+
+Additional requirements relating to access by disabled persons, may be mandated by laws or regulations such as the Americans with Disabilities Act.
+
+Billy BraggStephen William Bragg (born 20 December 1957), known as Billy Bragg, is an English singer and guitarist. He was born in Barking, Essex. He is famous for his mix of folk, punk, and protest music.
+
+Brixton riotsThere have been three riots in Brixton, London:Budweiser (Anheuser-Busch)Budweiser is a popular American beer made by the Anheuser-Busch company. It is made with hops, barley, and rice. It is known as the "King of Beers". It is brewed in St. Louis and other cities around the United States. There are several different types of Budweiser beer, such as Bud Light.
+
+The name is similar to a Czech beer of the same name, Budweiser Budvar. They are currently the official beer sponsor of Fantasy Premier League.
+
+Shia IslamShia Islam (, ) is the second largest branch of Islam. Shia Muslim believe that Prophet Muhammad under the command of God chose Ali as Caliph (or Successor) and publicly declared it during his last sermon after Hajj at Ghadir Khumm. Shi'a Muslims believe in the teachings of the Qu'ran and the Prophet Muhammad's family, whom they call the Ahl al-Bayt. The Shias think that the first three ruling Sunni Caliphs had no importance to the development of the faith. The singular/adjective form is "Shī'ī " () and means a follower.
+
+Shi'a Islam, like Sunni Islam, has at times been divided into many branches, however only three of these have a significant number of followers nowadays. The best known and the one with most adherents is Twelvers ("Ithnā 'ashariyya"), followed by the Ismaili and Zaidiyyah.
+
+1981 Brixton riotThe Brixton riot of 11 April 1981 was the biggest of three riots in Brixton, London, and the biggest riot in London.
+
+Brixton in south London was a very poor inner-city area with many problems — high unemployment, much crime, bad housing. Many black people, mostly of Caribbean origin, lived there. Many people there disliked the police.
+
+The riot was unplanned. On the evening of the 10th, at around 5.
+
+15pm, a black boy with a knife wound was stopped by police. As he was brought to a police car by two policemen along Railton Road a large crowd attacked the police and the fight only ended when more policemen arrived; the youth was taken to hospital.
+
+Through the night of the 10th and on the 11th the police brought many officers into the area. Throughout the day crowds slowly got together. In early evening, as the police tried to make some arrests on Atlantic Road, the riots started: a few bricks were thrown and windows smashed. More police came and more things were thrown. The police retreated, leaving their cars to be burned. Other cars were burned and things were stolen from shops on Railton Road, Mayall Road, Leeson Road and Brixton Road before the police came back.
+
+The police closed the Atlantic-Railton-Mayall area to the public, although many other streets had groups of rioting people as well. The rioters started throwing with bricks, bottles, and Molotov cocktails. Cars and buildings were burned and fire engines attacked as they tried to stop the flames.
+
+The riot was at its peak at around 8pm, with two public houses, schools and other buildings burning. Two hours later the police had the area under some control, although the fire brigade returned at the next morning only. By 1am the area was largely under control, with no large crowds – except the police – on the streets. There were tries to start violence again on the 12th, but they were stopped by more than 1,000 police on the streets.
+
+The riot was followed by almost 300 police injuries and 65 bad civilian injuries; over 100 cars were burned, including 56 police cars; almost 150 buildings were damaged, with thirty burned. There were 82 arrests.
+
+Between 3 and 11 July of that year, there were more riots in England. There were riots in Handsworth, Southall, Toxteth, and Moss Side. There were also smaller pockets of unrest in Leeds, Leicester, Southampton, Halifax, Bedford, Gloucester, Coventry, Bristol, and Edinburgh.
+
+The riots inspired the Eddy Grant song, "Electric Avenue."
+
+The Clash also made a song about Brixton, "The Guns of Brixton." This song came out before the riots of 1981 (The album was sold first in 1979), but it describes the general atmosphere in the area.
+
+CaudipteryxCaudipteryx was a small feathered dinosaur. It was related to "Oviraptor" but looked more like "Archaeopteryx". It was a relative of "Protarchaeopteryx". It was found in China. It was a small insectivore, with long thin legs, less than a metre long. It had a fan of tail feathers and a fringe of feathers along the trailing edge of each arm. They are very like bird feathers, with a central stalk, and vanes on either side. Its arms were too short for it to fly.
+
+ProtarchaeopteryxProtarchaeopteryx was a small feathered dinosaur from China. It was a bird-like predator with teeth. It looked like "Archaeopteryx". It is one of the Chinese feathered dinosaurs.
+
+PentaceratopsPentaceratops was a very large ceratopsian dinosaur. It was almost 11 meters in length and 4 meters tall. It was larger than Triceratops.
+
+Greenwich Mean TimeGreenwich Mean Time (GMT) is an internationally standardized time format. It is the main time zone in several countries, including the United Kingdom, the Republic of Ireland and Portugal. GMT has the same time as UTC, but there are differences between the two. Technically, GMT is a time zone, while UTC is a time standard.
+
+GMT was established in 1884 at the International Meridian Conference, which met to establish a standardized system for measuring world longitude. They decided that the meridian passing through the Royal Observatory in Greenwich, England would be 0° longitude.
+
+This conference also decided that the time zone around the meridian, GMT, would be the time zone used for reference around the world. Other countries would define their time based on GMT.
+
+UTC was defined in 1963 as the new world reference for time. The major advantage of the new standard was that its time was determined by highly accurate atomic clocks, not the sun at Greenwich. Other advantages of UTC are that calling the new standard Coordinated Universal Time avoids giving more importance to any one country, and that UTC does not adjust for Daylight Saving Time, which means the world always has a standard time.
+
+ReciprocalIn mathematics, the reciprocal (or multiplicative inverse) of a number is 1 divided by the number, or equivalently, the number raised to the power of -1 (as in formula_1 and formula_2). All numbers have a reciprocal except zero, since no number times 0 is 1. Two numbers are reciprocal of each other if and only if their product is 1. For example:To find the reciprocal of a fraction, swap the numerator and the denominator. Whole numbers can be thought as having a denominator of 1. For example:Dividing a fraction is the same as multiplying its reciprocal and vice versa.
+
+2006 in spaceflightThis is a list of spacecraft which were launched into space during the year 2006.
+
+British MuseumThe British Museum in London is one of the world's largest and most important museums of human history and culture. It has more than seven million objects from all continents. They illustrate and document the story of human culture from its beginning to the present. As with all other national museums and art galleries in Britain, the Museum charges no admission fee.
+
+The British Museum set up in 1753 and opened in 1759. It was the first museum in the world to be open to everyone. The museum gradually grew over the next two hundred years. It has nearly six million visitors a year and is the third most popular art museum in the world.
+
+Some of the museum's most popular and important exhibits include the Rosetta Stone and the Elgin Marbles.
+
+The history of the British Museum began with the Irish born British physicist Hans Sloane, who died aged 93 in 1753. During his life, he had collected many important things from all around the world. When he died, he did not want his collection to be split up between his relatives. He sold his collection to the parliament of King George II. The parliament set up the British Museum to hold the collection. By the time he died, Sloane had collected over 80,000 objects from all over the world including Egypt, Greece, Rome and the Americas. The collection was mostly books and manuscripts. There were many important archaeological pieces included as well.
+
+The government looked at many possible places to build the new museum, including Buckingham House, which later became Buckingham Palace. Eventually a building called Montagu House was chosen. The Museum opened on 15 January 1759, although all visitors had to be shown around by stewards. Over the years the museum began to concentrate more and more on historical objects and sculptures. For this reason they were given the Rosetta Stone by King George III in 1802. The Rosetta Stone had previously been important to French historians trying understand the Hieroglyph language written by the Ancient Egyptians. In 1816 the Museum acquired the Elgin Marbles from Thomas Bruce, 7th Earl of Elgin. Elgin had taken them from the Parthenon in Athens, Greece several years earlier. Many people disagreed with the way Elgin took them from Greece. They compared his acts to looting and vandalism. People still argue about this issue today.
+
+In 1822 King George III donated the entire Royal Library to the museum. This contained over 65,000 books and pamphlets. In 1823 the original building was demolished and work began on new buildings to hold the ever growing collection. Some of the space was freed up when the National Gallery opened in 1824, as many of the Museum's paintings and drawings were moved there.
+
+The Museums collection continued to get bigger over the following years, and more and more buildings were added to hold the new objects. Important discoveries by people working for the British Museum included the Mausoleum of Halicarnassus by Charles Newton in 1857 and the Temple of Artemis in 1869. Many things found at these sites were taken to the Museum, where they have remained ever since. In 1852 the British Museum's famous round Reading Room was opened. It had enough space to display a million books at once.
+
+The collection continued to get bigger and bigger. Eventually the Natural History Museum was set up in 1887 to hold the natural parts of the Museum's collection. It was around this time that electric lights were first put in the Museum. It was one of the first public places in England to do so.
+
+In the early 1900s the Museum's board of directors bought all the houses surrounding it, knocked them all down and built over them. In 1939, just before the start of World War II, most of the Museum's exhibits were taken to other places because the directors were worried the Nazis might bomb the Museum during the Blitz. The exhibits were stored in old London Underground stations, as well as other places. The evacuation proved to be a good idea, as parts of the Museum were destroyed by bombs in 1940.
+
+Much of the 1950s was spent fixing the parts of the Museum destroyed by the bombing, and bringing back the pieces that had been taken away. During all this time the collection continued to get bigger, although space was slowly running out for all the books being brought in. The British Library was set up in 1973 to deal with this problem. In 1972 the Museum was loaned the Tutankhamun collection from the Museum of Cairo. They held a big exhibition called 'The Treasures of Tutankhamun' and it attracted over 1.
+
+5 million people to come and see it.
+
+In 1998 the central courtyard, which had been unused before, was turned into the Great Court with the Reading Room at its centre. The Great Court has over 2 acres of space under its roof. This makes it the largest covered public space in Europe. It was opened by Queen Elizabeth II in January 2000.
+
+Since then the Museum has collected more things to do with history, rather than more modern pieces. They now have a large collection of Roman British, Ancient Greek and Ancient Egyptian artefacts, as well as objects from many other cultures and times around the world.
+
+Because of its extremely large size the Museum's collection is split into many parts, called "departments". The departments have changed many times over the years. They are sometimes merged together, split into smaller departments or renamed and changed altogether.
+
+The British Museums department of Ancient Egypt and Sudan is one of the biggest collections of Ancient Egyptian art in the world. Only the Egyptian Museum in Cairo has a bigger collection. They cover Egyptian and Sudanese history from around 10000 BC all the way to the 12th century AD, a period of around 12,000 years.
+
+Around 150 of the objects in the Egyptian department were part of the first collection which was given to the Museum by Hans Sloane in 1753. In 1801 the British defeated the French, led by Napoleon Bonaparte, at the battle of the Nile. After the battle, British forces took lots of Ancient Egyptian artifacts from the defeated French. They were given to the British Museum in 1803. These objects included the famous Rosetta Stone.
+
+The department continued to get bigger, paying for archaeologists to go to Egypt and Sudan. They did this until 2001 when the Egyptian government made it much harder for Museums to take historical artefacts back to their own country. The collection now has over 110,000 exhibits.

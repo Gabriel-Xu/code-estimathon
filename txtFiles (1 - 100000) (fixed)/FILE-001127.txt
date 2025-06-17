@@ -1,0 +1,113 @@
+Existing qinpu generally come from private collections or in public libraries throughout China. Those that are available for public purchase are photographic copies printed and bound in the traditional Chinese bookbinding process. More modern qinpu tend to be bound in the normal Western way on modern paper. The format uses qin notation with staff notation and/or "jianpu" notation.
+
+Qin pieces are usually around three to eight minutes in length, with the longest being "Guangling San" , which is 22 minutes long. Other famous pieces include "Liu Shui" (Flowing Water), "Yangguan San Die" (Three Refrains on the Yang Pass Theme), "Meihua San Nong" (Three Variations on the Plum Blossom Theme), "Xiao Xiang Shui Yun" (Mist and Clouds over the Xiao and Xiang Rivers), and "Pingsha Luo Yan" (Wild Geese Descending on the Sandbank). The average player can generally play around ten pieces from memory which they will aim to play very well, learning new pieces as and when they feel like it. Players mainly learn popular well studied versions, often using a recording as a reference. In addition to learning to play established or ancient pieces very well, highly skilled qin players may also compose or improvise, although the player must be very good and extremely familiar with the instrument to be successful at it.
+
+Dapu is the conversion of old tablature into a playable form. This can be used to create new music as well as to reconstruct the ancient melodies. Since qin tablature does not indicate note value, tempo or rhythm, the player must work it out for him/herself. Normally, qin players will learn the rhythm of a piece through a teacher. They sit facing one another, with the student copying the master. The tablature will only be looked at if the teacher is not sure of how to play a certain part. Because of this, traditional qinpu do not indicate them. If one did not have a teacher, then one had to work out the rhythm by themselves. But it would be a mistake to say that qin music has no rhythm or melody. By the 20th century, there had been attempts to try to replace the shorthand notation, but so far, it has been unsuccessful; since the 20th century, qin music is generally printed with staff notation above the qin tablature. Because qin tablature is so useful, logical, easy, and the fastest way (once the performer knows how to read the notation) of learning a piece, it is invaluable to the qin player and cannot totally be replaced. There are two views of how to best use dapu: one is to use it to create new music, and the other is to use it to reconstruct the way the original music was played.
+
+According to tradition, the qin originally had five strings, representing the five elements of metal, wood, water, fire and earth. Later, in the Zhou dynasty, Zhou Wen Wang added a sixth string to mourn his son, Bo Yihou . His successor, Zhou Wu Wang, added a seventh string to motivate his troops into battle with the Shang. The thirteen "hui" on the surface represent the 13 months of the year (the extra 13th is the 'leap month' in the lunar calendar). The surface board is round to represent Heaven and the bottom board flat to represent earth. The entire length of the qin (in Chinese measurements) is 3 feet, 6.
+
+5 inches, representing the 365 days of the year (though this is just a standard since qins can be shorter or longer depending on the period's measurement standard or the maker's preference). Each part of the qin has meaning, some more obvious, like "dragon pool" and "phoenix pond" .
+
+The sound chamber of the qin is constructed with two boards of wood, typically of differing wood types. The slightly rounded top board (soundboard) is usually made of "tong" wood , the Chinese parasol tree, or Chinese paulownia. The bottom board is made of "zi mu" catalpa ("Catalpa ovata") or, more recently, "nan mu" camphor wood ("Machilus nanmu"). The wood must be well aged, that is, the sap and moisture must be removed (of the top board wood). If sap remains then the sound will not be clear and, as the moisture evaporates, the wood will warp and crack. Some makers use old wood to construct qins because most of the sap and moisture has been removed naturally by time (old "shan mu" , Chinese Cunninghamia or Japanese Cryptomeria, is often used for creating modern qins). Some go to lengths to obtain extremely ancient wood, such as that from Han dynasty tomb structures or coffins. Although such wood is very dry, it is not necessarily the best since it may be infected with wood worm or be of a bad quality or type. Many modern qins made out of new "tong" wood (such as those made by Zeng Chengwei) can be better than the quality of antique qins.
+
+There are two sound holes in the bottom board, as the playing techniques of the qin employ the entire surface of the top board which is curved / humped. The inside of the top board is hollowed out to a degree. Inside the qin, there are 'nayin' sound absorbers, and a 'tian chu' and 'di chu' soundposts that connect the bottom board to the top. The boards are joined using bamboo nails. Lacquer from the Chinese lacquer tree ("Rhus vernicifera") is then applied to the surfaces of the qin, mixed with various types of powder, the most common being "lujiao shuang" , the remains of deer antler after the glue has been removed. Often, ceramic powder is used instead of deer antler powder, but the quality is not as good. After the lacquer has dried (a qin will need several layers), the surface will be polished using oil stones. At the head end of the instrument is the "yue shan" or bridge, and at the other end is the "long yin" (dragon's gums) or nut. There are 13 circular mother-of-pearl inlays which mark the harmonic positions, as well as a reference point to note position, called "hui" ("insignia").
+
+Until the Cultural Revolution, the guqin's strings were always made of various thicknesses of twisted silk, but since then most players use modern nylon-flatwound steel strings . This was partly due to the scarcity of high quality silk strings and partly due to the newer strings' greater durability and louder tone.
+
+Silk strings are made by gathering a prescribed number of strands of silk thread, then twisting them tightly together. The twisted cord of strings is then wrapped around a frame and immersed in a vat of liquid of natural glue that binds the strands together. The strings are taken out and left to dry, before being cut into the appropriate length. The top thicker strings (i.
+
+e. strings one to four) are further wrapped in a thin silk thread, coiled around the core to make it smoother.
+
+Recently in China, production of very good quality silk strings has resumed and more players are beginning to use them. Although most contemporary players use nylon-wrapped metal strings, some argue that nylon-wrapped metal strings cannot replace silk strings for their refinement of tone. Furthermore, it is the case that nylon-wrapped metal strings can cause damage to the wood of old qins. Many traditionalists feel that the sound of the fingers of the left hand sliding on the strings to be a distinctive feature of qin music. The modern nylon-wrapped metal strings were very smooth in the past, but are now slightly modified in order to capture these sliding sounds.
+
+To string a qin, one traditionally had to tie a butterfly knot ("shengtou jie" ) at one end of the string, and slip the string through the twisted cord ("rongkou" ) which goes into holes at the head of the qin and then out the bottom through the tuning pegs ("zhen" ). The string is dragged over the bridge ("yueshan" ), across the surface board, over the nut ("longyin" dragon gums) to the back of the qin, where the end is wrapped around two legs ("fengzu" "phoenix feet" or "yanzu" "geese feet"). Afterwards, the strings are fine tuned using the tuning pegs. The most common tuning, "zheng diao" , is pentatonic: 1245612 in the traditional Chinese number system or "jianpu" . Today this is generally interpreted to mean C D F G A c d, but this should be considered do re fa so la do re, since historically the qin was not tuned to absolute pitch. In fact the same tuning can also be considered as 5612356 when the third string is played as do. Thus, except when accompanied by other instruments, only the pitch relations between the seven strings needs to be accurate. Other tunings are achieved by adjusting the tension of the strings using the tuning pegs at the head end. Thus "manjiao diao" (slackened third string) gives 1235612 and "ruibin diao" (raised fifth string) gives 1245712, which is transposed to 2356123.
+
+The guqin is nearly always used a solo single instrument, as its quietness of tone means that it cannot be heard over the sounds of most other instruments or an ensemble. It can, however, be played together with a "xiao" (end-blown bamboo flute), with other qin, or played while singing. In old times, the "se" (a long zither with movable bridges and 25 strings, similar to the Japanese koto) was frequently used in duets with the qin.
+
+In order for an instrument to accompany the qin, its sound must be mellow and not overwhelm the qin. Thus, the "xiao" generally used for this purpose is one pitched in the key of F, known as "qin xiao", which is narrower than an ordinary "xiao". If one sings to qin songs (which is rare nowadays) then one should not sing in an operatic or folk style as is common in China, but rather in a very low pitched and deep way; and the range in which one should sing should not exceed one and a half octaves. The style of singing is similar to that used to recite Tang poetry. To enjoy qin songs, one must learn to become accustomed to the strange style some players may sing their songs to.
+
+Traditionally, the qin was played in a quiet studio or room by oneself, or with a few friends; or played outdoors in places of outstanding natural beauty. Nowadays, many qin players perform at concerts in large concert halls, almost always, out of necessity, using electronic pickups or microphones to amplify the sound. Many qin players attend yaji ( literally "elegant gatherings"), at which a number of qin players, music lovers, or anyone with an interest in Chinese culture can come along to discuss and play the qin.
+
+Chinese books on qin:English books on qin:Qin society sitesGeneral Qin sitesOther specialist Qin sitesSites with music samplesRipuarianRipuarian may refer to:VandalVandal can mean several things:São Paulo (state)São Paulo (Portuguese: Saint Paul) is a state in the Southeast Region of Brazil. Its capital city is called São Paulo too.
+
+São Paulo is located in the South Region of Brazil, with an area of . (For comparison, the state of Oregon in the United States of America has an area of , but has a much smaller population).
+
+It borders the state of Minas Gerais to the north, the state of Rio de Janeiro and the Atlantic Ocean to the east, the state of Paraná to the south and state of Mato Grosso do Sul to the west.
+
+The capital of São Paulo is the city of São Paulo.
+
+São Paulo is the state in Brazil with the highest economical output.
+
+It has the second highest per capita income of Brazil, second only to the Brazilian Federal District, where the federal capital Brasília is located.
+
+With the states of Santa Catarina and Rio Grande do Sul it shares the highest standard of living in Brazil, despite of pockets of extreme poverty in the favelas (slums) in its largest cities.
+
+The robust economy of São Paulo is based in industrial production, to include automobile and aviation, agriculture, services and tourism.
+
+São Paulo is the Brazilian state with the largest population and also is the most ethnically diverse.
+
+Portuguese, Italian, Spanish, Arab, Japanese and other people chose São Paulo as their home, due to its thriving economy.
+
+Also migrants from other poorer Brazilian states (especially from the Northeast Region) come to São Paulo in search of a better life. Because there are not enough jobs, these people usually have to go back to their states, where there are even less jobs.
+
+São Paulo is the state in Brazil with the largest and most efficient transportation system.
+
+The city of São Paulo relies on underground train and also suburban at-grade rail systems. City buses complement the public transportation system.
+
+Air traffic is the busiest of all Brazil.
+
+Harbors along the state's ocean front receive and ship a great share of Brazil's export and import goods.
+
+São Paulo is a vibrant place when it comes to sports. Football (soccer) is king but the state has human resources and facilities to produce some of the best athletes in the world in many other fields.
+
+The state has many professional soccer clubs but also volleyball has found a niche here.
+
+Auto racing is a staple of the paulista's way of life. The state has produced several racing drivers that have attained international fame.
+
+São Paulo, Campinas, Guarulhos, Osasco, Ribeirão Preto, Santo André, Santos, São Bernardo do Campo, São Carlos, São José dos Campos and Sorocaba.
+
+TrolleyA trolley is a small vehicle with wheels that can carry things. People can push trolleys.
+
+There are different kind of trolleys. There are shopping trolleys which are used in supermarkets and other large stores with self-service. In American English these are called shopping carts. Customers can put things they want to buy in the trolley and then pay for everything at the checkout. Usually they are then allowed to wheel the trolley with the things they have bought out to their car.
+
+Sometimes the customers have to pay a small deposit when collecting a trolley. The trolleys are chained together. The customer puts in a coin (in Britain a £1 coin) which he can have back again when he parks the trolley back in the trolley chain.
+
+Trolleys are used in airports and some large railway stations for passengers to carry their luggage. Deposits are not refundable.
+
+A trolley can also be a tea-trolley. This is a small trolley used traditionally in the house for plates, cups, saucers and sandwiches and cakes for afternoon tea. Tea-trolleys are also used in hospitals and offices to take cups of tea and coffee to people.
+
+In American English "trolley" can be used to mean a tram (or streetcar). This is not to be confused with a trolleybus which is a bus which uses electricity from an overhead cable (like a tram).
+
+AbuseAbuse might mean:Mutant (Marvel Comics)A mutant is a type of fictional character in a fictional universe created by Marvel Comics. In this world, mutants can be either heroes or villains. A mutant is someone who has different DNA than its parents. These mutations often lead to superpowers. They may also cause physical changes such as wings, blue skin, or a tail.
+
+Mutants were created in the Marvel Universe in the 1960s with the comic book "The X-Men". It was a way for them to tell stories that dealt with racism. Racism, hatred and fear of mutants are an important part of their history . Two main teams of mutants have been around since the 1960s: The X-Men (heroes) and the Brotherhood of Mutants (villains).
+
+Sometimes a human is born with a certain kind of DNA change. This "X-GENE" is passed to their children. This genetic change may not create any noticeable difference. It could pass for generations without anyone knowing about it.
+
+Mutants may be born to human or mutant parents, though the odds of a mutant birth are much better for the latter. Likewise, it is rare but possible for mutant parents to have human children, termed "baseline" by characters within the Marvel Universe. Some baseline humans are genetically predisposed towards having mutant descendants such as the Guthrie family (see Cannonball, Husk, and Icarus). Mutant children born to mutant parent(s) will not necessarily have the same power(s) as their parent(s), nor will they necessarily have the same power(s) as any mutant siblings they may have; however, examples of children with the same power(s) as their parents and/or siblings are not uncommon.
+
+There is, however, a chance that mutants may not even be able to reproduce a child at all. The Hayes (Runaways), telepathic mutant doctors, were unsure their mutant heritage could even produce a child; it did, however, take them several years to finally have a child: Molly Hayes.
+
+Marvel's mutants are classified by their level of power.
+
+Note: Only Alpha and Omega have actually been used as classification within comics. The other ranks were created by fans.
+
+The X-Men were created in the 1960s during a time of civil unrest in the United States. The characters allowed the writer to write stories that showed racism and bigotry without singling out a specific minority.
+
+By classifying Mutants as they did, they also created different aspects of racism. Some mutants are easily recognized by how they look (similar to African-Americans). Some have a few physical characteristics that can make them get noticed (Similar to Jews). Other mutants blend in so well that it nearly impossible to tell they are a mutant unless they use their powers (similar to how people in the LGBT community were thought of in society).
+
+In the Marvel universe normal people often hate and fear mutants. This is because they think mutants may make normal humans extinct. They fear what they do not understand. They are jealous of them having superpowers. Bigotry and xenophobia are also reasons for hatred of mutants. In the Marvel universe, anti-mutant feeling has led to the separation of mutants from society. It has led to mob violence and government sponsored attempts to fight mutants.
+
+The X-Men books have been written as typical superhero comic books. They have epic adventures and battles with super villains. Yet, the idea of mutants as a metaphor for real world minorities who face oppression is shown throughout the series. Some examples:UrethraThe urethra is a tube that connects the bladder to the outside of the body. All mammals have it. It allows the removal of urine from the body. There is a muscle (the "urethral sphincter") which controls urination.
+
+In male mammals, the urethra is also a part of the reproductive system, because males use it as a tube for sperm during sex.
+
+In human anatomy, men have longer urethras than women. This means that women have bladder infections more often because their bladders are closer to the outside. Because the male urethra is longer and is not straight, inserting a catheter (tube to help urination) is more difficult in men.
+
+In women, the urethra is 3-4 cm (1.
+
+5 in) long. It's opening to the outside of the body is part of the vulva (the area between a woman's legs). The female urethra is between the clitoris and the opening to the vagina. Men's urethra goes through their penis, but in women, it is not in the clitoris.
+
+In men, the urethra is about 20 cm (8 in) long and its opening to the outside of the body is at the end of the penis.
+
+The male urethra has three sections:Stanislav LemStanisław Herman Lem () (September 12, 1921 – March 27, 2006) was a Polish science fiction writer. His writings are highly philosophical and satirical. His books have been translated into 41 languages. Over 27 million copies of his books have been sold worldwide. At one point he was among the most widely read science fiction authors in the world. Lem's writing is full of intelligent humor, puns, and neologisms, and Michael Kandel's translations into English have been praised by many for capturing Lem's style.

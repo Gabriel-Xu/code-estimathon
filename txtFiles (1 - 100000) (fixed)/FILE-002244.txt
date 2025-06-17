@@ -1,0 +1,95 @@
+<br> Now, Ganz has made the "Ganz E-store", where you can buy Webkinz codes and items with just a credit card and a click. They also made tinier versions called "Lil' Kinz" plush toys.
+
+List of popesThe list of popes begins with St. Peter and continues through the present day. The pope is the head of the Catholic Church.
+
+Peter was called the Bishop of Rome. All others who became Bishop of Rome were also recognized as popes.
+
+The list sometimes says "interregnum". This is Latin for "between reigns". It means there was no Pope; as in a Pope had died, and his successor hadn't yet been elected.
+
+TowradgiTowradgi is a small suburb, north of Wollongong. It is on the coast and close to beaches.
+
+It has a school, soccer fields, a lawn-bowling field, and many other attractions. It has a few restaurants/dining places.
+
+ACIDACID is a concept used with databases. It is the way some databases keep their data true and meaningful. Not all databases use the concept of ACID, but relational databases usually do.
+
+ACID is an abbreviation. It stands forDatabase transactionDepending on the model used, making changes to the data in a database can be complex. That means that several steps are needed to perform a change. In that context, all the steps are grouped. This group is called a transaction. Many databases give guarantees about the data, and they also do checks. When something goes wrong in one step, all the steps in the group, or transaction, are undone. This is called a "rollback". When all the steps have been executed, and there was no error, this state can be persisted. People will talk about "committing" a transaction.
+
+A database transaction is generally atomic. That means, it is either done completely, or it is not done. The state of it being done is not visible.
+
+Most of the time, transactions are needed to guarantee the ACID principle of databases.
+
+AargauAbout 580.
+
+000 people live in the canton. Its capital is Aarau.
+
+Aargau is divided into 11 districts:List of municipalities of the NetherlandsThe Netherlands has 342 municipalities in 12 provinces in Europe and 3 special municipalities (public bodies) in the Caribbean, the Caribbean Netherlands. Together 345 municipalities since 2023.
+
+Provinces of the NetherlandsThe modern day European Netherlands are divided into twelve provinces ("provincies" in Dutch). The Caribbean Netherlands and other countries within the Kingdom of the Netherlands are completely separate.
+
+A Dutch province is the administrative layer in between the national government and the local municipalities. It has the responsibility for matters of regional importance. The government of each province is made of three major parts: the "Provinciale Staten" which is the provincial parliament elected every four years. Elected from its members are the "Gedeputeerde Staten", a college charged with most executive tasks. This college is presided by the "Commissaris van de Koningin" or royal commissioner, appointed by the Crown.
+
+The twelve provinces are listed below with their people, area, density, and so on:Almost all Dutch provinces came from a medieval state, like a county or duchy. This is the same with the regions of Belgium. Their status changed once they came under the influence of a ruler. This single ruler then centralised their administration. They then became provinces of a larger state. In total there are 17 provinces today. From these unified Netherlands, seven northern provinces formed the Republic of the Seven United Provinces in the 16th century. These were Holland, Zeeland, Gelderland, Utrecht, Friesland, Overijssel and Groningen. The Republic's lands also included Drenthe (one of the 17, but without the autonomous status of the others), and parts of Brabant, Limburg and Flanders, which were considered to be "conquered lands" and were governed directly by the "Staten-Generaal", the parliament. From this came their name Generality Lands. They were called "Staats-Brabant", "Staats-Limburg" and "Staats-Vlaanderen", meaning "of the state". Each of these "Netherlands" had a high degree of autonomy. They co-operated with each other mainly on defense and on the international level in general. They kept to their own affairs elsewhere.
+
+On January 1, 1796, during the Batavian Republic, Drenthe and Staats-Brabant became the eighth and ninth provinces of the Netherlands; the latter known as "Bataafs Brabant", Batavian Brabant, changing its name to "Noord Brabant", North Brabant, in 1815 when it became part of the United Kingdom of the Netherlands. This kingdom also contained (then) South Brabant, a province in Belgium. This new unified state featured the provinces in their modern form. Today, they are non-autonomous subdivisions of the national state. There are again numbering 17 provinces, though not all are the same as the 16th century ones. In 1839, with the independence of Belgium, the original single province of Limburg was divided between the two countries. Each country now has a province called Limburg. A year later, Holland, the largest and most populous of the Dutch provinces, was also split into two provinces for a total of 11. The 12th member was to be Flevoland, a province consisting almost entirely of reclaimed land, established on January 1, 1986.
+
+During the Batavian Republic, the Netherlands were from 1798 to 1801 completely reorganised into 8 new departments, most named after rivers, inspired by the French revolutionary example, in an attempt to do away with the old autonomous provincial status. They are listed below, with their capitals and the territory of the former provinces they mostly incorporated:After only three years, following a coup d'état, the borders of the former provinces were restored, though not their autonomous status. They were now also called "departments" and Drenthe was added to Overijssel. In 1806 the Kingdom of Holland replaced the republic to further French interests. It was during this administration that Holland was first split in two, with the department of "Amstelland" to the north and that of "Maasland" to the south. East Frisia, then as now in Germany, was added to the kingdom as a department in 1807 and Drenthe split off again making a total of 11 departments.
+
+When the Netherlands finally did become fully part of France in 1810, the departments of the kingdom and their borders were largely maintained, with some joined together. They were however nearly all renamed, again mainly after rivers, though the names differed from their Batavian counterparts. Following are their names and the modern day province they corresponded for the most part to:With the defeat and withdrawal of the French in 1813, the old provinces and their names were re-established, Holland was reunited and East-Frisia went its separate way. The 17 provinces of the United Kingdom of the Netherlands were for a significant part based on the former French departments and their borders, in particular in what would later become Belgium.
+
+FlevolandFlevoland is one of the provinces of the Netherlands. Lelystad is its capital, but Almere is its biggest city. About 445,000 people are living in Flevoland (2023).
+
+Location of the municipalities of Flevoland.
+
+North BrabantNorth Brabant (Dutch: 'Noord-Brabant') is a province of the Netherlands. It is in the south of the country. It is bordered by Belgium in the south, the Meuse River ("Maas") in the north, Limburg in the east and Zeeland in the west. See Google maps. Its capital is 's-Hertogenbosch. The largest city is Eindhoven. About 2,626,000 people are living in North Brabant (2023).
+
+Local Government Act 1985The Local Government Act 1985 was an Act of Parliament in the United Kingdom. Its main effect was to abolish the county councils of the metropolitan counties that had been set up in 1974 by the Local Government Act 1972, along with the Greater London Council that had been established in 1965.
+
+The main provision, section 1 stated that "the Greater London Council; and the metropolitan county councils" shall not exist anymore.
+
+It came into effect on 1 April 1986. The metropolitan boroughs and London boroughs got some of the powers of the former institutions, but others went to central government. At the time of the Act, one third of the population of England were living in Greater London and the metropolitan counties.
+
+The act established a system of joint-boards to take over some of the functions of the abolished councils in the metropolitan counties and in Greater London. The joint-boards had councillors appointed by the boroughs.
+
+The Act was passed by Margaret Thatcher's government after a series of disputes between the councils and the central government.
+
+List of zombie moviesGreater London CouncilThe Greater London Council (GLC) was the local government administrative body for Greater London from 1965 to 1986. It replaced the earlier London County Council (LCC) which had covered a much smaller area.
+
+The Labour Party had controlled the LCC from 1934 and by the 1950s the Conservative Government considered that elections were becoming one-sided, since the London County Council (LCC) covered only the inner (generally Labour-voting) districts. The government sought to create a new body covering all of London.
+
+Livingstone's high-spend socialist policies put the GLC into direct conflict with Margaret Thatcher's Conservative government. Livingstone soon became a thorn in the side of the sitting Tory government. He deliberately antagonised Mrs. Thatcher through a series of actions (including posting a billboard of London's rising unemployment figures on the side of, and endorsing a statue of Nelson Mandela whilst Thatcher regarded the future South African president as a terrorist.
+
+By 1983, Thatcher was determined to crush both Livingstone and the GLC, and the Cabinet agreed "in principle" to abolish the GLC and give its functions to the boroughs.
+
+The Local Government Act 1985, which abolished the GLC, faced considerable opposition from many quarters but was narrowly passed in Parliament, setting the end of the council for 31 March 1986.
+
+After its abolition, London was left as the only major city in the world without a central administrative body. Most of the powers of the GLC were given to the London boroughs. Some powers, such as the fire service, were taken over by joint boards made up of councillors appointed by the boroughs - see waste authorities in Greater London for an example. In total, around 100 organisations were responsible for service delivery in Greater London.
+
+It was argued by many people that this situation was chaotic and un-coordinated and a new London-wide body was needed to co-ordinate the whole city.
+
+Tony Blair's Labour government was elected in 1997, and was committed to bring back London-wide government. In 1999 a referendum was held on the establishment of a new London authority and elected mayor, which was approved by a two to one margin.
+
+The new Greater London Authority (GLA) was established in 2000. The GLA has a very different structure to the GLC, it consisted of a directly elected Mayor of London and a London Assembly. The Mayor of London elections were won by the same Ken Livingstone, who began his victory speech with the words: "As I was saying before I was so rudely interrupted 14 years ago".
+
+Greater London AuthorityThe Greater London Authority (GLA) controls the 1579 km² (610 sq. miles) of Greater London, England, covering the 32 London boroughs and the City of London. The GLA members are the Mayor and the 25 people the London Assembly. The current Mayor of London is Sadiq Khan.
+
+The GLA was created to improve the coordination between the London boroughs, and the Mayor of London's role is to give London a single person to represent it. The Mayor proposes policy and the GLA's budget, and makes appointments to the capital's strategic transport body (Transport for London) and economic development body (the London Development Agency).
+
+One of the primary purposes of the London Assembly is to hold the Mayor of London to account. The Assembly must also accept or amend(change) the Mayor's budget on an annual basis(every year).
+
+The GLA is different from the Corporation of the City of London with its largely ceremonial Lord Mayor. Corporation controls only the square mile of the City, London's chief financial centre. The GLA governs a much wider areaThe GLA is at City Hall, a new building on the south bank of the River Thames, next to Tower Bridge.
+
+Mayor of LondonThe Mayor of London is an elected politician in London. The role, created in 2000, was the first directly elected mayor in the United Kingdom. The Mayor of London is also referred to as the London Mayor, a form which helps to avoid confusion with the Lord Mayor of London, the ancient and now mainly ceremonial role in the City of London. The Mayor of London is mayor of Greater London, which has a population of over 7.
+
+5 million while the City of London is only a small part of the modern city centre and has a population of less than 10,000.
+
+The first elected Mayor of London is Ken Livingstone, who was re-elected in 2004. Boris Johnson was elected mayor in 2008. Johnson announced that he will not run for re-election in 2016. Sadiq Khan was elected mayor in 2016.
+
+The Mayor is responsible for budgeting and strategic planning of some governmental functions across the whole of the London region. The plans of the mayor are looked at by the London Assembly and actioned by the Greater London Authority. Responsibilities include transport, the police, fire and emergency services, cultural strategy and economic development.
+
+The mayor of London's salary is one that ranks along that of a government cabinet minister's. The current salary is £137,579 per year.
+
+This provides a list of people who have held the office of Mayor of London,Rock and Roll Hall of FameThe Rock and Roll Hall of Fame (RRHOF), sometimes simply referred to as the Rock Hall, is a museum in Cleveland, Ohio, United States, which has information on the history of some of the best-known and most influential artists, producers, and other people who have in some major way influenced the music industry, mostly in the area of rock and roll and rock music.
+
+The first group of musicians, added on January 23, 1986, were Chuck Berry, James Brown, Ray Charles, Sam Cooke, Fats Domino, the Everly Brothers, Buddy Holly, Jerry Lee Lewis, Little Richard, and Elvis Presley.
+
+Muddy Waters

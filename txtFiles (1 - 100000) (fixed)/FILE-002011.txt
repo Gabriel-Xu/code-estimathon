@@ -1,0 +1,171 @@
+The contest began in Atlantic City, New Jersey in 1921. It was an idea of newspaper reporter, Harry Finley, to increase newspaper sales and to promote Atlantic City. The first competition had eight entrants. The entrants were selected by their local city newspapers and their prize was a holiday in Atlantic City, and to take part in the "Intercity Beauty Contest". This was held as part of the second annual Atlantic City Pageant. Margaret Gorman, "Miss Washington D.
+
+C.", a school girl from Washington D.
+
+C was selected by the Washington Herald. She won the "Inter-City Beauty, Amateur" and "The Most Beautiful Bathing Girl in America" contests. She was given the Golden Mermaid Trophy. Because these were awkward titles, in 1922 Gorman was renamed as "Miss America".
+
+Firewall (networking)In terms of computer security, a firewall is a piece of software. This software monitors the network traffic between the inside and outside. The firewall is placed between the network that is to be protected (trusted) and the outside network (less trusted) aka WAN or Internet. A firewall has a set of rules which are applied to each packet. The rules decide if a packet can pass, or whether it is discarded. When a large network needs to be protected, the firewall software often runs on a computer that does nothing else.
+
+A firewall protects one part of the network against unauthorized access.
+
+Data travels on the internet in small pieces; these are called packets. Each packet has certain metadata attached, like where it is coming from, and where it should be sent to. The easiest thing to do is to look at the metadata. Based on rules, certain packets are then dropped or rejected. It is done at the network layer.
+
+In addition to the simple packet filtering (above), this kind of firewall also keeps track of connections. A packet can be the start of a new connection, or it can be part of an existing connection. If it is neither of the two, it is probably useless and can be dropped.
+
+Application-layer firewalls do not just look at the metadata; they also look at the actual data transported. They know how certain protocols work, for example FTP or HTTP. They can then look if the data that is in the packet is valid (for that protocol). If it is not, it can be dropped.
+
+Firewalls can provide a secure connection between two networks. This is called "tunnellng". The data may be encrypted. It is decrypted at the other end. Since the firewalls are doing this, the rest of the network is unaware of it. An alternative is to provide a secure access (to the corporate network).
+
+Very often, firewalls can translate IP addresses. That way, many computers can share a few public IP addresses. The firewall translates between the public and the private IP addresses.
+
+In general, there are two types of firewalls:Prominent Brands include OPNsense, pfsense, comodo etc.
+
+Prominent Brands include PaloAlto, WiJungle, Checkpoint, Cisco etc.
+
+Firewalls can protect against some problems (viruses and attacks) that come from the internet. They cannot protect against viruses, that come from infected media (like an infected office document on an USB flash drive).
+
+The Cask of Amontillado"The Cask of Amontillado" (sometimes spelled "The Casque of Amontillado") is a short story by Edgar Allan Poe. It was first published in "Godey's Lady's Book" in November 1846.
+
+The narrator [Montresor] talks to a priest about his sin. Montresor wants to take revenge on Fortunato for an insult.
+
+During a masquerade (ball where people wear masks) in the city. Fortunato is dressed in a jester's costume. Montresor tells Fortunato he has bought a wine called amontillado. He wants Fortunato to test it to be sure it is real. Montresor leads Fortunato into his underground catacombs/wine cellar to test the wine. When there, Montressor chains Fortunato and then walls him up alive in a niche.
+
+Fortunato cries out "For the love of God, Montresor!" to which Montresor replies, "Yes, for the love of God!" He twice calls out for a reply but hears nothing. Before placing the last stone, he drops a burning torch through the gap, but hears only the jester's bells ringing.
+
+The crime took place 50 years before... Montressor expresses no regrets except for remarking about Fortunato: In pace requiescat! ("May he rest in peace!").
+
+Osei BonsuOsei Bonsu (died January 21, 1824) was the Asantehene (King of the Ashanti). He ruled from 1804 to 1824. He died in Kumasi, and was succeeded by Osei Yaw Akoto.
+
+Uther PendragonUther Pendragon is the father of King Arthur in the Arthurian legend. His name, "Pendragon", means the "Chief-Dragon", which means he is the "foremost leader" or "chief of warriors". He is mentioned briefly in Old Welsh poems, but his biography was first written down by Geoffrey of Monmouth in his "Historia Regum Britanniae" ("History of the Kings of Britain"). Geoffrey's description of him has been used in most later stories.
+
+According to the stories, Arthur is the son of Uther Prendragon and the Lady Igraine.
+
+Chocolate milkChocolate milk, also known as cocoa milk or syruped chocolate milkshake, is a kind of cold, sweetened milk drink. Chocolate milk may be made by mixing cold milk with chocolate syrup or cocoa powder and sugar.
+
+A mixture of hot milk and melted chocolate (or cocoa powder and sugar) is called hot chocolate. A mixture of ice cream, cold milk, and chocolate syrup is called a milkshake.
+
+Chocolate syrupChocolate syrup is a thick, sweet, chocolate-flavored liquid. It is made from sugar and cocoa (or chocolate). Chocolate syrup is used to sweeten and flavor hot and cold drinks such as hot chocolate, chocolate milk, chocolate milk shakes, and poured on desserts.
+
+Chocolate syrup is used in many different types of drinks. Coffee shops add chocolate syrup and other flavored syrups to coffee drinks. Ice cream parlors add chocolate syrup to milk shakes.
+
+Chocolate syrup is also used in many desserts. Ice cream parlors pour chocolate syrup on bowls of ice cream.
+
+WetsuitA wetsuit is a garment used by scuba divers, snorkelers, windsurfers, and surfers to keep themselves warm when they are in cold ocean water. Wetsuits act as insulation invented by Jack O'Neill, and help the body to retain its heat. Wetsuits are made of plastic or rubber materials such as neoprene. Wetsuits include torso coverings, leggings, head coverings, and hand and feet coverings.
+
+When people are doing diving or water sports in areas where the water is not very cold, they may only wear some parts of a wetsuit, such as a torso covering or leggings.
+
+Wet suits are garments that oceangoers wear!
+
+It's very vital when going to the ocean and dive because it serves as a life and system protector.
+
+Deepwater divers often wear full wetsuits that include torso coverings, leggings, head coverings, and hand and feet coverings. In very cold water, a scuba diver may need to wear a dry suit.
+
+Touch rugbyTouch rugby, also named Touch or Touch Football, is a sport which is derived from rugby league. It minimizes body contact so that rugby players practice over the preseason and improve their handling skills without any risk of injuries. It also eliminates body contact to allow inclusion of both genders and people from all ages.
+
+Touch rugby was started in South Sydney in the late 1960s, pursued as a non-contact off season sport and as a fitness program for Rugby League players. The game was introduced in Europe in the 1980s and the first Touch league began in Ireland in 2005.
+
+It is played on fields or pitches of 70 meters long by 50 meters, wide with sidelines, a half-way line and In goal areas.
+
+According to official rules, each team can have up to 14 players, with 6 players per team in the field at one time. Therefore, total 12 players get to play on a field. It is possible to interchange players as many as they want.
+
+By tossing a coin, starting team is decided and an attacking team gets to have six chances to make a score. These chances are called touches.
+
+Players can score by grounding the ball in goal areas. The definition of grounding is holding a ball and letting it touch the ground.
+
+If the attacking team drops a ball, the possession is changed to the other team and the game starts over with rollball by using hands or feet. The definition of rollball is rolling the ball slightly backward by using your hand or feet.
+
+Team which has possession can pass a ball to teammates who is at sideways or backwards. If it is passed forward, it is a penalty and they lose the possession. The game starts over by a tap kick, which is kicking the ball by using your foot.
+
+If a player passes the ball after being touched a penalty occurs for forward pass.
+
+Players must start over with rollball or a penalty at the same mark where a rollball or a penalty were given.
+
+In Touch, tackle from traditional rugby is replaced with touch by using a hand. It allows any part of body to be touched and must use minimum force.
+
+Touch rugby encourages many people to join the rugby world. No matter who you are, how old you are. It is used as a tool to promote rugby to new players such as youth players or girls and women.
+
+CovenCoven is a word that first meant any type of meeting or gathering. It is used today to mean a group of witches.
+
+First Geneva ConventionThe First Geneva Convention is one of several Geneva Conventions. It is more formally known as the Convention for the Amelioration of the Condition of the Wounded in Armies in the Field, 1864. It covers the treatment of battlefield injuries and was made in 1864 as part of the making of the International Red Cross and Red Crescent Movement.
+
+Second Geneva ConventionThe Second Geneva Convention of 1906 is one of the Geneva Conventions. Its full title is Convention for the Amelioration of the Condition of the Wounded in Armies in the Field. It was made in Geneva, on 6 July 1906. It extended the principles from the First Geneva Convention of 1864 on the treatment of battlefield casualties and hospital ship. The Convention of 1906 should not be confused with "Convention (II) for the Amelioration of the Condition of Wounded, Sick and Shipwrecked Members of Armed Forces at Sea" (Geneva, 12 August 1949).
+
+As of 27 June 2006, when Nauru adopted the convention, it has been ratified by 194 countries.
+
+Disc jockeydisc jockey (also called a DJ or deejay) is a person who plays recorded pop or dance music for dancers or listeners and introduces the names of the songs using a microphone.
+
+There are several types of DJs. A radio DJ plays music files (like mp3) or recorded CDs on a radio station and announces the names of the songs. A club DJ plays music files or recorded CDs over a PA system (an amplifier and loudspeakers) at a nightclub, rave, or disco. A hip hop DJ uses turntables and vinyl records to do scratching and make music while other hip hop musicians do rapping (rhythmic type of singing). A Reggae DJ plays recordings of rhythm instruments and then rap on top of the prerecorded track with a microphone.
+
+A Electronic Dance Music DJ creates their own music and some can even remix their own songs on the fly.
+
+similar to different types of musicians in other genres like people who play baroque music Vs people who play Jazz or People who like Death Metal vs People who like Screamo, depending on the genre some DJs tend to act quite differently, for example, Dubstep DJs are more rowdy and prefer faster more zappy treble, While House producers are the opposite and prefer slower and more natural melodys and then you also have Psytrance DJs who prefer more techno driven white noise delivered in high beats per minute with whale songs and sound effects.
+
+The term "disc jockey" was ostensibly coined by radio gossip commentator Walter Winchell in 1935, and the phrase first appeared in print in a 1941 "Variety" magazine, used to describe radio personalities who introduced phonograph records on the air. Playing recorded music for dancing and parties rose with the mass marketing of home phonographs in the late 19th century. British radio disc jockey Jimmy Savile hosted his first live dance party in 1943 using a single turntable and a makeshift sound system. Four years later, Savile began using two turntables welded together to form a single DJ console. In 1947, the Whiskey A Go-Go opened in Paris as the first discotheque. In the 1960s, Rudy Bozak began making the first DJ mixers, mixing consoles specialized for DJing.
+
+In the late 1960s to early 1970s Jamaican sound system culture, producer and sound system operator (DJ), (Jamaican) King Tubby and producer Lee "Scratch" Perry were pioneers of the genre known as dub music. They experimented with tape-based composition; emphasized repetitive rhythmic structures (often stripped of their harmonic elements); electronically manipulated spatiality; sonically manipulated pre-recorded musical materials from mass media; and remixed music among other innovative techniques. It is widely known that the Jamaican dancehall culture has had and continues to have a significant impact on the American hip hop culture.
+
+Vintage DJ Station. A DJ mixer is placed between the two turntables.
+
+Pioneer DJ ControllerDJ turntablism has origins in the invention of direct-drive turntables. Early belt-drive turntables were unsuitable for turntablism and mixing, since they had a slow start-up time, and they were prone to wear-and-tear and breakage, as the belt would break from backspinning or scratching. The first direct-drive turntable was invented by engineer at Matsushita (now Panasonic), based in Osaka, Japan. It eliminated belts, and instead employed a motor to directly drive a platter on which a vinyl record rests. In 1969, Matsushita released it as the SP-10, the first direct-drive turntable on the market, and the first in their influential Technics series of turntables.
+
+In 1972, Technics started making their SL-1200 turntable, which became the most popular turntable for DJs due to its high torque direct drive design. The SL-1200 had a rapid start and its durable direct drive enabled DJs to manipulate the platter, as with scratching techniques. Hip hop DJs began using the Technics SL-1200s as musical instruments to manipulate records with turntablism techniques such as scratching and beat juggling rather than merely mixing records. These techniques were developed in the 1970s by DJ Kool Herc, Grand Wizard Theodore, and Afrika Bambaataa, as they experimented with Technics direct-drive decks, finding that the motor would continue to spin at the correct RPM even if the DJ wiggled the record back and forth on the platter. Although Technics stopped producing the SL-1200 in 2010, they remain the most popular DJ turntable due to their high build quality and durability.
+
+In 1980, Japanese company Roland released the TR-808, an analog rhythm/drum machine, which has unique artificial sounds, such as its booming bass and sharp snare, and a metronome-like rhythm. Yellow Magic Orchestra's use of the instrument in 1980 influenced hip hop pioneer Afrika Bambaataa, after which the TR-808 would be widely adopted by hip hop DJs, with 808 sounds remaining central to hip hop music ever since. The Roland TB-303, a bass synthesizer released in 1981, had a similar impact on electronic dance music genres such as techno and house music, along with Roland's TR-808 and TR-909 drum machines.
+
+In 1982, the Compact Disc (CD) format was released, popularizing digital audio. In 1998, the first MP3 digital audio player, the Eiger Labs MPMan F10, was introduced. In January of that same year at the BeOS Developer Conference, N2IT demonstrated FinalScratch, the first digital DJ system to allow DJs control of MP3 files through special time-coded vinyl records or CDs. While it would take some time for this novel concept to catch on with the "die-hard Vinyl DJs," this would become the first step in the Digital DJ revolution. Manufacturers joined with computer DJing pioneers to offer professional endorsements, the first being Professor Jam (a.
+
+k.
+
+a. William P. Rader), who went on to develop the industry's first dedicated computer DJ convention and learning program, the "CPS (Computerized Performance System) DJ Summit", to help spread the word about the advantages of this emerging technology.
+
+In 2001, Pioneer DJ began producing the CDJ-1000 CD player, making the use of digital music recordings with traditional DJ techniques practical for the first time. As the 2000s progressed, laptop computers became more powerful and affordable. DJ software, specialized DJ sound cards, and DJ controllers were developed for DJs to use laptops as a source of music rather than turntables or CDJs. In the 2010s, like laptops before them, tablet computers and smartphones became more powerful & affordable. DJ software was written to run on these more portable devices instead of laptops, although laptops remain the more common type of computer for DJing.
+
+PadniewkoPadniewko is a village in Poland in Kuyavia-Pomerania voivodship. It has about 400 inhabitants and 4.
+
+95 km.
+
+Sierra Nevada (US)The Sierra Nevada (Spanish for "Snowy Range") is a mountain range that is almost entirely in the eastern part of California.
+
+The range started to uplift less than five million years ago.
+
+The Sierra Nevada stretches 400 miles (650 km), from North to South. It is bounded on the West by California's Central Valley, and on the East by the Great Basin.
+
+Uplift continues, and ground slips make spectacular fault escarpments along the eastern edge of the southern Sierra. The Sierra Nevada is part of the American Cordillera, an almost continuous chain of mountain ranges which make up the western "backbone" of the Americas.
+
+The Sierra Nevada has played an important role in the history of California and the United States. The California Gold Rush occurred in the western foothills from 1848 through 1855.
+
+FlurbereinigungFlurbereinigung (pronounce: FLOOER-be-rye-nee-gung) is a word used in Germany to refer to the rearranging of fields in agriculture. During the second half of the 20th century, Flurbereinigung led to major changes in the landscape in the German countryside.
+
+Many German farmers used to have several small fields which were not together but were in different places, some of them maybe two or three miles away from where they lived. This was particularly a problem in the area to the left of the Rhine which had been ruled by Napoleon, because in the 19th century, when a farmer and his wife had died, their land was shared between all their children, so it got divided into smaller pieces. In other parts of Germany only the eldest son inherited the land.
+
+Since the 1960s, people understood that it would be much easier for a farmer to have all his fields together so that he did not have to keep making journeys between lots of small fields. Larger fields are easier to manage and more economical. The German government encouraged farmers to swap some of their fields among themselves so that each farmer had his land all in one place.
+
+In the last few years the government have realized that the way the changes have been made are not always good. Nature often suffers when hedgerows are taken away to make fields bigger. Flurbereinigung today tries to keep some of the hedgerows and small groups of trees which sometimes stand in the middle of fields. They are good places for birds to nest and other animals like to live there, too.
+
+Winegrowers do not always find it a good thing to have all their land together. This is because the soil in one field may be slightly different from the soil in a field just farther up the road, and this gives the wine a slightly different taste. Also, if all their land is on one hillside and a storm hits that hillside and ruins the crops, then they have lost everything. If they have several pieces of land in different places they are less likely to lose all their crops because of one disaster.
+
+Live 8Live 8 was a rock concert organized by activist Bob Geldof. The concert took place in nine places at once on July 2, 2005. Like Bob's Live Aid concert, Live 8 was made for helping out African citizens who were not getting enough food and medicine. However, this concert was not for charity. Instead, it was held to make people aware of the famine in Africa. Bob wanted to make the political group named the G8 give more to Africa. The concerts featured singers like Paul McCartney, Juan Diego Flórez and U2.
+
+In November 2005, the concerts were released on DVD. The money used to buy the DVD sets was also used to help Africans.
+
+RigvedaRigveda is an ancient Indian religious book. It is counted as one of the four sacred Hindu writings, which are called Vedas. It is the world's oldest religious writings. It is also one of the oldest writings in Sanskrit language. Rigveda is very important to Hindus, especially Hindus in India and Nepal. Its words are said during prayers and religious gatherings. It is dated up to 3700 years ago.
+
+Rig Veda mainly contains various hymns for praying to Vedic Gods such as Agni (Fire God), Indra (The lord of Heavens), Mitra, Varuna (Water God), Surya (Sun God) etc. These hymns are called Riks. Hence the Veda is called Rik-Veda or RigVeda. This writing consists of 10 writings. The Rigveda has 1,028 hymns and 10,600 verses.
+
+EcozoneAn ecozone or biogeographic realm is the largest scale biogeographic division of the earth's surface.
+
+These divisions are based on the historic and evolutionary distribution of plants and animals. Ecozones represent large areas of the earth's surface where plants and animals developed in relative isolation over long periods of time, and are separated from one another by geologic features, such as oceans, broad deserts, or high mountain ranges, that formed barriers to plant and animal migration. Ecozones correspond to the floristic kingdoms of botany or zoogeographic regions of mammal zoology.
+
+Ecozones are characterized by the evolutionary history of the plants and animals they contain. As such, they are distinct from biomes, also known as major habitat types, which are divisions of the earth's surface based on "life form", or the adaptation of plants and animals to climatic, soil, and other conditions. Biomes are characterized by similar climax vegetation, regardless of the evolutionary lineage of the specific plants and animals. Each ecozone may include a number of different biomes. A tropical forest in Central America, for example, may be similar to one in New Guinea in its vegetation type, but these forests are inhabited by plants and animals with very different evolutionary histories.
+
+The patterns of plant and animal distribution in the world's ecozones was shaped by the process of plate tectonics, which has redistributed the world's land masses over geological history.
+
+The term ecozone, as used here, is a fairly recent development, and other terms, including kingdom, realm, and region, are used by other authorities with the same meaning. J. Schultz uses the term "ecozone" to refer his classification system of biomes.
+
+In 1975 Miklos Udvardy proposed a system of 203 biogeographical provinces, which were grouped into eight biogeographical realms (Afrotropical, Antarctic, Australian, Indomalayan, Nearctic, Neotropical, Oceanian, and Palaearctic). Udvardy's goal was to create an integrated ecological land classification system that could be used for conservation purposes.
+
+The WWF ecozones are based largely on the biogeographic realms of Pielou (1979) and Udvardy (1975). A team of biologists convened by the World Wide Fund for Nature (WWF) developed a system of eight biogeographic realms (ecozones) as part of their delineation of the world's over 800 terrestrial ecoregions.
+
+The WWF scheme is broadly similar to Udvardy's system, the chief difference being the delineation of the Australasian ecozone relative to the Antarctic, Oceanic, and Indomalayan ecozones. In the WWF system, The Australasia ecozone includes Australia, Tasmania, the islands of Wallacea, New Guinea, the East Melanesian islands, New Caledonia, and New Zealand. Udvardy's Australian realm includes only Australia and Tasmania; he places Wallacea in the Indomalayan Realm, New Guinea, New Caledonia, and East Melanesia in the Oceanian Realm, and New Zealand in the Antarctic Realm.
+
+Amorphous solid

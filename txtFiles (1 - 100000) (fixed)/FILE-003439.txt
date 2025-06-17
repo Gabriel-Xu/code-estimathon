@@ -1,0 +1,331 @@
+Some people thought the LHC could create a black hole, which would be very dangerous. There are two reasons not to be worried. The first is that the LHC didn't do anything that the cosmic rays that hit the Earth every day don't do, and these rays do not create black holes. The second reason is that even if the LHC did make black holes, they would be very tiny. The smaller a black hole is, the shorter its life. Very tiny black holes would evaporate before they could hurt people.
+
+The LHC was first used on September 10, 2008, but it did not work because a cooling system broke. The magnets that help to move the charged particles must be cold. The failure caused part of the facility to collapse. The lab shut down for the winter and the collider was not used again until November 2009. While it was being repaired, scientists used the Tevatron to look for the Higgs Boson. When the LHC was restarted in November 2009, it set a new speed record by accelerating protons to 1.
+
+18 TeV (teraelectronvolt, or trillion electronvolt). On March 30 2010, the LHC created a collision at 3.
+
+5 TeV.
+
+S.
+
+M.
+
+A.
+
+R.
+
+T.
+
+Self-Monitoring, Analysis, and Reporting Technology, or S.
+
+M.
+
+A.
+
+R.
+
+T. is a system to watch computer hard disks to help stop the risk of failures. It does this by watching reliability of the hard disks to try and see when a failure might happen and where.
+
+Hard drive failures fall into two categories:Predictable failures can be detected by certain monitoring devices. This is like a thermometer in a vehicle that can alert the driver to do something before serious damage occurs, for example because the engine is too hot.
+
+About 60% of all drive failures are caused by mechanical failure. Most result from gradual wear. An eventual failure may be catastrophic. Before complete failure occurs, there are usually signs that failure will happen. These may include increased heat output, a more noisy drive, problems with reading or writing data and a big increase in the number of damaged disk sectors.
+
+The purpose of S.
+
+M.
+
+A.
+
+R.
+
+T. is to warn a user or system administrator that a drive is about to fail. At the time of the warning, there is usually still time to do somethings to prevent data loss by copying the data to a different drive. About 30% of failures can be predicted by S.
+
+M.
+
+A.
+
+R.
+
+T. Work at Google on over 100,000 drives has shown little overall predictive value of S.
+
+M.
+
+A.
+
+R.
+
+T. status as a whole. The study suggests that certain sub-categories of information which some S.
+
+M.
+
+A.
+
+R.
+
+T. implementations track "do" correlate with actual failure rates. In the 60 days after the first scan error on a drive, the drive is 39 times more likely to fail on average than it would have been had no such error occurred. Also, first errors in reallocations, offline reallocations and probational counts have higher probabilities of failure.
+
+PCTechGuide's page on S.
+
+M.
+
+A.
+
+R.
+
+T. commented in 2003 that the technology had gone through three phases:The first hard disk monitoring technology was introduced by IBM in 1992 in their IBM 9337 Disk Arrays for AS/400 servers using IBM 0662 SCSI-2 disk drives. Later it was named Predictive Failure Analysis technology. It was measuring several key device health parameters and evaluating them within the drive firmware. Communications between the physical unit and the monitoring software were limited to a binary result – either "device is OK" or "drive is likely to fail soon".
+
+Later, another variant, which was named IntelliSafe, was created by computer manufacturer Compaq and disk drive manufacturers Seagate, Quantum, and Conner. The disk drives would measure the disk’s "health parameters", and the values would be transferred to the operating system and user-space monitoring software. Each disk drive vendor was free to decide which parameters were to be included for monitoring, and what their thresholds should be. The unification was at the protocol level with the host.
+
+Compaq submitted their implementation to Small Form Committee for standardization in early 1995. It was supported by IBM, by Compaq's development partners Seagate, Quantum, and Conner, and by Western Digital, who did not have a failure prediction system at the time. The Committee chose IntelliSafe's approach, as it provided more flexibility. The resulting jointly developed standard was named S.
+
+M.
+
+A.
+
+R.
+
+T.
+
+The technical documentation for SMART is in the AT Attachment standard.
+
+The most basic information that SMART provides is the SMART status. It provides only two values: "threshold not exceeded" and "threshold exceeded". Often these are represented as "drive OK" or "drive fail" respectively. A "threshold exceeded" value is intended to indicate that there is a relatively high probability that the drive will not be able to honour its specification in the future – that is, the drive is "about to fail". The predicted failure may be catastrophic or may be something as subtle as the inability to write to certain sectors, or perhaps slower performance than the manufacturer's declared minimum.
+
+The SMART status does not necessarily indicate the drive's past or present reliability. If a drive has already failed catastrophically, the SMART status may be inaccessible. Alternatively, if a drive has experienced problems in the past, but the sensors no longer detect such problems, the SMART status may, depending on the manufacturer's programming, suggest that the drive is now sound.
+
+The inability to "read" some sectors is not always an indication that a drive is about to fail. One way that unreadable sectors may be created, even when the drive is functioning within specification, is through a sudden power failure while the drive is writing. In order to prevent this problem, modern hard drives will always finish writing at least the current sector immediately after the power fails (typically using rotational energy from the disk). Also, even if the physical disk is damaged at one location, such that a certain sector is unreadable, the disk may be able to use spare space to replace the bad area, so that the sector can be overwritten.
+
+More detail on the health of the drive may be obtained by examining the SMART Attributes. SMART Attributes were included in some drafts of the ATA standard, but were removed before the standard became final. The meaning and interpretation of the attributes varies between manufacturers, and are sometimes considered a trade secret for one manufacturer or another. Attributes are further discussed below.
+
+Drives with SMART may support a number of 'logs'. The "error log" records information about the most recent errors that the drive has reported back to the host computer. Examining this log may help to determine whether computer problems are disk-related or caused by something else.
+
+A drive supporting SMART may support a number of self-test or maintenance routines, and the results of the tests are kept in the "self-test log". The self-test routines may be used to detect any unreadable sectors on the disk, so that they may be restored from back-up sources (for example, from other disks in a RAID).
+
+Many motherboards will display a warning message when a disk drive is approaching failure. Although an industry standard among most major hard drive manufacturers, there are some remaining issues and much proprietary "secret knowledge" held by individual manufacturers as to their specific approach.
+
+The term "S.
+
+M.
+
+A.
+
+R.
+
+T." refers only to a signalling method between internal disk drive electromechanical sensors and the host computer. Hence, a drive may be claimed by its manufacturers to include S.
+
+M.
+
+A.
+
+R.
+
+T. support even if it does not include, say, a temperature sensor, which the customer might reasonably expect to be present.
+
+Depending on the type of interface being used, some S.
+
+M.
+
+A.
+
+R.
+
+T.-
+
+enabled motherboards and related software may not communicate with certain S.
+
+M.
+
+A.
+
+R.
+
+T.-
+
+capable drives. For example, few external drives connected via USB and Firewire correctly send S.
+
+M.
+
+A.
+
+R.
+
+T. data over those interfaces. With so many ways to connect a hard drive (SCSI, Fibre Channel, ATA, SATA, SAS, SSA, and so on), it is difficult to predict whether S.
+
+M.
+
+A.
+
+R.
+
+T. reports will function correctly in a given system.
+
+Even on hard drives and interfaces that support it, S.
+
+M.
+
+A.
+
+R.
+
+T. information may not be reported correctly to the computer's operating system. Some disk controllers can duplicate all write operations on a secondary "back-up" drive in real time. This feature is known as "RAID mirroring". However, many programs which are designed to analyze changes in drive behaviour and relay S.
+
+M.
+
+A.
+
+R.
+
+T. alerts to the operator do not function properly when a computer system is configured for RAID support. Generally this is because, under normal RAID operational conditions, the computer is not permitted by the RAID subsystem to 'see' (or directly access) individual physical drives, but may access only logical volumes instead.
+
+On the Windows platform, many programs designed to monitor and report S.
+
+M.
+
+A.
+
+R.
+
+T. information will function only under an administrator account. At present, S.
+
+M.
+
+A.
+
+R.
+
+T. is implemented individually by manufacturers, and while some aspects are standardized for compatibility, others are not.
+
+Each drive manufacturer defines a set of attributes, and sets threshold values beyond which attributes should not pass under normal operation. Each attribute has a "raw value", whose meaning is entirely up to the drive manufacturer (but often corresponds to counts or a physical unit, such degrees Celsius or seconds), and a normalized value, which ranges from 1 to 253 (with 1 representing the worst case and 253 representing the best). Depending on the manufacturer, a value of 100 or 200 will often be chosen as the "normal" value.
+
+Threshold Exceeds Condition (TEC) is a supposed date when a critical drive statistic attribute will reach its threshold value. When Drive Health software reports a "Nearest T.
+
+E.
+
+C.", it should be regarded as a "Failure date".
+
+Prognosis of this date is based on the factor "Speed of attribute change"; how many points each month the value is decreasing or increasing. This is calculated automatically at any change of S.
+
+M.
+
+A.
+
+R.
+
+T. attributes for each attribute individually. Note that TEC dates are not guarantees; hard drives can and will either last much longer or fail much sooner than the date given by a TEC.
+
+Uncomplicated FirewallUncomplicated Firewall is a firewall for host-based iptables firewall configuration.
+
+A graphical user interface exists, called "GUI for Uncomplicated Firewall"Good Morning (Kanye West song)"Good Morning" is a single on Kanye West's 3rd studio album "Graduation". The song was released in late August 2007 on iTunes. "Good Morning" is the 1st track on the album. It has samples of "Someone Saved My Life Tonight" as sung by Elton John.
+
+Additional vocals were provided by Connie Mitchell, Tony "Penafire" Williams, and Jay-Z.
+
+LoupfougèresLoupfougères is a commune of 368 people (1999). It is in the region Pays de la Loire in the Mayenne department in the northwest of France.
+
+LouvernéLouverné is a commune of 3,538 people (1999). It is found in the region Pays de la Loire in the Mayenne department in the northwest of France.
+
+LouvignéLouvigné is a commune of 774 people (2007). It is found in the region Pays de la Loire in the Mayenne department in the northwest of France.
+
+MadréMadré is a commune in Pays de la Loire in the Mayenne department in northwest France.
+
+Maisoncelles-du-MaineMaisoncelles-du-Maine is a commune of 400 people (1999). It is found in the region Pays de la Loire in the Mayenne department in the northwest of France.
+
+Marcillé-la-VilleMarcillé-la-Ville is a commune of 740 people (1999). It is found in the region Pays de la Loire in the Mayenne department in the northwest of France.
+
+Marigné-PeutonMarigné-Peuton is a commune of 487 people (1999). It is found in the region Pays de la Loire in the Mayenne department in the northwest of France.
+
+Martigné-sur-MayenneMartigné-sur-Mayenne is a commune of 1,309 people (1999). It is found in the region Pays de la Loire in the Mayenne department in the northwest of France.
+
+Mée, MayenneMée is a commune of 171 people (1999). It is found in the region Pays de la Loire in the Mayenne department in the northwest of France.
+
+MénilMénil is a commune of 785 people (1999). It is found in the region Pays de la Loire in the Mayenne department in the northwest of France.
+
+MéralMéral is a commune of 913 people (1999). It is found in the region Pays de la Loire in the Mayenne department in the northwest of France.
+
+Meslay-du-MaineMeslay-du-Maine is a commune of 2,616 people (1999). It is found in the region Pays de la Loire in the Mayenne department in the northwest of France.
+
+MézangersMézangers is a commune of 700 people (3 March 2005). It is found in the region Pays de la Loire in the Mayenne department in the northwest of France.
+
+MontaudinMontaudin is a commune of 914 people (1999). It is found in the region Pays de la Loire in the Mayenne department in the northwest of France.
+
+MontenayMontenay is a commune of 1,399 people (1999). It is found in the region Pays de la Loire in the Mayenne department in the northwest of France. The name of the place occurred as "Montaniaco" in the ninth century, and as "Monteneio" en 1225. It probably comes from the Latin "Montanus". The area was probably settled in Neolithic times (5000-3000 BC). There is a dolmen and a groove nearby. The groove is called St. Guillaume's stone, and is located about 3km from the village.
+
+MontfloursMontflours is a commune of 204 people (1999). It is found in the region Pays de la Loire in the Mayenne department in the northwest of France.
+
+Montigné-le-BrillantMontigné-le-Brillant is a commune of 1,234 people (2007). It is found in the region Pays de la Loire in the Mayenne department in the northwest of France.
+
+Montjean, MayenneMontjean is a commune of 797 people (1999). It is found in the region Pays de la Loire in the Mayenne department in the northwest of France.
+
+MontourtierMontourtier is a former commune of 326 people (2009). It is found in the region Pays de la Loire in the Mayenne department in the northwest of France. On 1 January 2019, the commune was unified with Montsûrs-Saint-Céneré, Deux-Évailles and Saint-Ouën-des-Vallons, and the new municipality took the name of Montsûrs.
+
+Montreuil-PoulayMontreuil-Poulay is a commune of 414 people (1999). It is found in the region Pays de la Loire in the Mayenne department in the northwest of France.
+
+MontsûrsMontsûrs is a commune of 2,020 people (1999). It is found in the region Pays de la Loire in the Mayenne department in the northwest of France. On 1 January 2017, it was merged with Saint-Céneré and formed the short-lived commune Montsûrs-Saint-Céneré. Montsûrs-Saint-Céneré was merged with Deux-Évailles, Montourtier and Saint-Ouën-des-Vallons on 1 January 2019, and the new commune took the name of "Montsûrs".
+
+MoulayMoulay is a commune of 907 people (1999). It is found in the region Pays de la Loire in the Mayenne department in the northwest of France.
+
+NeauNeau is a commune of 712 people (1999). It is found in the region Pays de la Loire in the Mayenne department in the northwest of France.
+
+Neuilly-le-VendinNeuilly-le-Vendin is a commune of 426 people (1999). It is found in the region Pays de la Loire in the Mayenne department in the northwest of France.
+
+NiaflesNiafles is a commune of 287 people (1999). It is found in the region Pays de la Loire in the Mayenne department in the northwest of France.
+
+Nuillé-sur-VicoinNuillé-sur-Vicoin is a commune of 1,184 people (2007). It is found in the region Pays de la Loire in the Mayenne department in the northwest of France.
+
+OisseauOisseau is a commune of 1,101 people (1999). It is found in the region Pays de la Loire in the Mayenne department in the northwest of France.
+
+Olivet, MayenneOlivet is a commune of 381 people (1999). It is found in the region Pays de la Loire in the Mayenne department in the northwest of France.
+
+OrignéOrigné is a commune of 278 people (1999). It is found in the region Pays de la Loire in the Mayenne department in the northwest of France.
+
+La PalluLa Pallu is a commune of 160 people (1999). It is found in the region Pays de la Loire of the Mayenne department, in the northwest of France.
+
+Predictive Failure AnalysisPredicive failure analysis is a technology developed by IBM to monitor the likelihood of a hard disk failure. Today, it is part of S.
+
+M.
+
+A.
+
+R.
+
+T.
+
+Parallel ATAParallel ATA is a way to connect storage devices, such as Hard disks, solid-state drives, and CD-ROM drives inside personal computers. The standard is maintained by X3/INCITS committee T13.
+
+It used to be called Advanced Technology Attachment with Packet Interface (ATA/ATAPI). ATA/ATAPI is the result of a long history of development. It is an evolution of the AT Attachment Interface, which was itself evolved in several stages from Western Digital's original Integrated Drive Electronics interface. As a result, many near-synonyms for ATA/ATAPI and its previous incarnations exist, including abbreviations such as IDE which are still in common informal use. With the market introduction of Serial ATA in 2003, the original ATA was retroactively renamed Parallel ATA (PATA).
+
+Parallel ATA standards allow cable lengths up to only 18 inches (46 centimeters). Because of this length limit the technology normally appears as an internal computer storage interface.
+
+For many years ATA provided the most common and the least expensive interface for this application.
+
+As of 2007, it has largely been replaced by Serial ATA (SATA) in new systems. Older computers based on Parallel ATA are still widely-used in embedded and industrial applications.
+
+Serial Attached SCSISerial Attached SCSI (SAS) is a technology designed to move data to and from computer storage devices such as hard drives and tape drives. It is a point-to-point serial protocol that replaces the parallel SCSI. SCSI first appeared in the mid 1980s in corporate data centers. SAS uses the standard SCSI command set. At present it is slightly slower than the final parallel SCSI implementation, but in 2009 it will double its present speed to 6 Gbit/s. This will permit much higher speed data transfers. The protocol is "downwards"-compatible with second generation SATA drives. These drives may be connected to SAS backplanes (controllers), but SAS drives can not be connected to SATA backplanes.
+
+The SAS protocol is developed and maintained by the T10 technical committee of the International Committee for Information Technology Standards (INCITS) and promoted by the SCSI Trade Association (SCSITA).
+
+The SAS connector is much smaller than traditional parallel SCSI connectors allowing for the small drives. SAS supports point data transfer speeds up to 3 Gbit/s, but is expected to reach 12 Gbit/s by the year 2012.
+
+The physical SAS connector is available in several different variants:All the Greatest HitsAll the Greatest Hits is an album from the band McFly. They released it on November 5, 2007 and it features all of McFly's UK singles. The album also includes 3 new songs: "The Heart Never Lies", "The Way You Make Me Feel" and "Don't Wake Me Up".
+
+The Judas Kiss"The Judas Kiss" is the fourth single off the album by rock band Metallica off their ninth studio album "Death Magnetic".
+
+Death MagneticDeath Magnetic is the ninth studio album by heavy metal band Metallica. The album was released September 12, 2008 with the hits "The Day That Never Comes", "Cyanide", "My Apocalypse", "The Unforgiven III", and "The Judas Kiss"."
+
+Death Magnetic" was nominated for four Grammy awards. Rick Rubin won "Producer of the Year, Non-Classical" for his work on "Death Magnetic", as well as other albums this past year.
+
+The album won two Grammys for "Best Metal Performance" and "Best Recording Package" at the 51st Grammy Awards on February 8, 2009.
+
+Tagged Command QueuingTagged Command Queueing (TCQ) is a technology that allows to send multiple read and write requests to a hard drive simultaneously. ATA TCQ is not identical in function to the more efficient Native Command Queuing (NCQ) used by SATA drives. SCSI TCQ does not suffer from the same limitations as ATA TCQ.
+
+Before TCQ, an operating system was only able to send one request at a time. In order to boost performance, it had to decide the order of the requests based on its own, possibly incorrect, idea of what the hard drive was doing. With TCQ, the drive can make its own decisions about how to order the requests (and in turn relieve the operating system from having to do so). The result is that TCQ can improve the overall performance of a hard drive if it is implemented correctly.
+
+For efficiency the sectors should be serviced in order of proximity to the current head position, rather than in the order received. The queue is constantly receiving new requests and fulfilling and removing existing requests, and re-ordering the queue according to the current pending read/write requests and the changing position of the head. The exact reordering algorithm may depend upon the controller and the drive itself, but the host computer simply makes requests as needed, leaving the controller to handle the details.
+
+This queuing mechanism is sometimes referred to as "elevator seeking", as the image of a modern elevator in a building servicing multiple calls and processing them to minimise travel illustrates the idea well.
+
+If the buttons for floors 5, 2, and 4 are pressed in that order with the elevator starting on floor 1, an old elevator would go to the floors in the order requested. A modern elevator processes the requests to stop at floors in the logical order 2, 4, and 5, without unnecessary travel. Non-queueing disk drives service the requests in the order received, like an old elevator; queueing drives service requests in the most efficient order. This may improve performance slightly in a system used by a single user, but really comes into its own in a system with many users, making requests all over the disk surface.
+
+Native Command QueuingNative Command Queuing (NCQ) is a technology designed to increase performance of SATA hard disks on computers. It can do this under certain situations by allowing the individual hard disk to internally optimize the order in which it executes the read and write requests it received. This can reduce the amount of unnecessary drive head movement and result in better performance (and slightly decreased wear of the drive) where multiple read/write requests happen at the same time. This situation most often occurs in server-type applications. However, the technology can slow down HD access in certain applications, like games and sequential reads and writes, because of the added latency induced by NCQ logic.
+
+Native Command Queuing came after Parallel ATA's version of Tagged Command Queuing (TCQ). ATA's attempt at integrating TCQ was constrained by the requirement that ATA host bus adapters use ISA bus device protocols to interact with the operating system.
+
+NCQ differs from TCQ in that the command re-ordering is performed by the drive rather than the operating system, and each command is equal in importance. This is preferable since the drive has the most knowledge of its performance characteristics, and is able to take rotational position into account. NCQ and PATA TCQ have a maximum queue length of 32 in-flight commands (31 in practice), while SCSI TCQ has a maximum queue length of 2 in-flight commands.

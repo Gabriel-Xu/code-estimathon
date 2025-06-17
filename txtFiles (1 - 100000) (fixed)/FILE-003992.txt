@@ -1,0 +1,109 @@
+The Tevatron discovered three of the 17 fundamental particles including the top quark. The main ring of the Tevatron will probably be reused in future experiments, and its components may be transferred to other particle accelerators.
+
+MOSFETMOSFET stands for metal-oxide-semiconductor field-effect transistor. It is an electronic component that acts as an electrically controlled switch.
+
+Transistors are small electrical devices that are used in radios, calculators, and, perhaps most famously, computers; they are some of the most basic building blocks of modern electronic systems. A few MOSFETs amplify or process analog signals but most are used in digital electronics.
+
+MOSFETs act like valves for electricity. They have one input connection (the "gate") which is used to control the flow of electricity between two other connections (the "source" and "drain"). Said another way, the gate acts as a switch that controls the two outputs. Think of a dimmable light switch: the knob itself selects 'ON', 'OFF', or somewhere in between, controlling the brightness of the light. Think of a MOSFET in place of the light switch: the switch itself is the "gate", the "source" is the power coming into the house, and the "drain" is the light bulb.
+
+The name MOSFET describes the structure and the function of the transistor. MOS refers to the fact that a MOSFET is built by layering metal (the "gate") on oxide (an insulator which prevents the flow of electricity) on semiconductor (the "source" and "drain"). FET describes the action of the gate on the semiconductor. An electric signal is sent to the gate, which creates an electric field that alters the connection between the "source" and "drain".
+
+Almost all MOSFETs are used in integrated circuits. As of 2008, it is possible to fit 2,000,000,000 transistors on a single integrated circuit. In 1970, that number was around 2,000.
+
+There are four common types of MOSFET:The enhancement mode N-Channel MOSFET, where the switch between the "source" and "drain" is usually off. You can turn the switch on by applying a positive voltage to the "gate", so it is at a higher voltage than the "source". The P-Channel MOSFET is also usually off, but you use a negative voltage to turn it on. The Depletion mode N and P-Channel MOSFET transistors are very similar to their enhancement mode counterparts, but they are normally on, and you use a negative or positive voltage to turn it off. The Depletion mode P-Channel MOSFET isn't normally available for use.
+
+A small piece of silicon can have millions of MOSFETs created on it. This makes an integrated circuit.
+
+This section is about single MOSFETs with three connections.
+
+If the MOSFET is partly on, it will reduce the power going through it. It does that by converting some power into heat. Even if it is on, it will still convert some power to heat. The MOSFET also has a resistance. When current flows from the MOSFET's drain to its source, there will be a voltage drop. Multiply that current, and the voltage, to get the power loss. That lost power becomes heat. The MOSFET must get rid of that heat, usually by passing it into the air. Smaller MOSFETs warm up and heat the nearby air, while some other MOSFETs must be on a circuit board, which has a larger area to heat more air. The highest-power MOSFETs must be under a heatsink.
+
+There are lots of different MOSFETs available. When choosing a MOSFET, once you have decided among the 4 main types, there are lots of other things to think about. Differences between MOSFETs include:There are many different ways to make MOSFETs on the semiconductor. The simplest method is shown in the diagram to the right of this text. The blue part represents P-type silicon, while the red part represents N-type silicon. The intersection of the two types makes a diode. In silicon semiconductor, there is a quirk called the "Depletion Region". In doped silicon, with one part being doped N-Type, and one part being doped P-Type, a depletion region will naturally form on the intersection between the two. This is because of their acceptors and donors. P-type silicon has acceptors, also known as holes, which attract electrons towards them. The N-Type silicon has donors, or electrons, which are attracted to holes. In the border between the two, the electrons from the N-Type fill the holes in the P-type. This results in the acceptor, or P-type atoms becoming negatively charged, and since negative charges attract positive charges, acceptors, or holes, will flow towards the "junction". On the N-Type side, there is a positive charge, which results in the donors, or electrons, flowing towards the "junction." When they get there, they will be repelled by the negative charge on the other side of the junction, since alike charges repel. The same will happen on the P-Type side, the donors, or holes will be repelled by the positive area in the N type side. No electricity can flow between the two, since no electrons can move to the other side.
+
+MOSFETs use this to their advantage. The "Body" of the MOSFET is powered negatively, which widens the depletion region, since the holes are filled with the new electrons, so the opposite force to the electrons on the N side becomes much larger. The "Source" of the MOSFET is powered negatively, which shrinks the depletion zone in the N type entirely, since there are enough electrons to fulfill the positive depletion zone. The "Drain" has a positive power. When the "Gate" is supplied with positive power, it will make a small electromagnetic field, which will remove the depletion zone directly below the gate, since there will be a "spray" of holes, which will make something called an "N-Channel". The N-Channel is a temporary region of the P-Type silicon area where there is no depletion zone. The positive electric field will neutralize all of the spare electrons that make up the depletion zone. The electrons in the source area will then have a clear way to move to the "Drain", which would make electricity flow from source to drain.
+
+First Punic WarThe First Punic War started in 264 BC. It lasted for 23 years, ending in 241 BC. It was the first of three wars fought between ancient Carthage and the Roman Republic. They were rivals for trade and influence in the Mediterranean. For more than 20 years the two powers struggled for supremacy. Key areas were the island of Sicily and its surrounding waters, and also North Africa. Rome eventually won control of Sicily.
+
+With the help of her own allies and rebels among the indigenous African allies of Carthage, Rome won the First Punic War after 23 years. In the end it became the dominant naval power of the Mediterranean. To get terms for peace, the Carthaginians had to pay a large amount of money (in silver), and give up a number of islands in the Mediterranean. They kept Sardinia and Corsica.
+
+Scott WesterfeldScott Westerfeld (born May 5, 1963) is an American author of science fiction and young adult literature. One of his most famous book series was "Uglies".
+
+The two books were re-published in 2005 in one volume, also titled "The Risen Empire".
+
+Partial differential equationPartial differential equations (abbreviated as PDEs) are a kind of mathematical equation. They are related to partial derivatives, in that obtaining an antiderivative of a partial derivative involves integration of partial differential equations.
+
+Since PDEs have appeared in mathematics and physics, many scientists have studied methods to solve them. But unfortunately, no one could establish methods to solve any kind of PDE. Therefore, numerical methods for PDEs (such as the finite element method) are widely studied since the appearance of computers.
+
+Trade paperback (comics)Trade paperbacks, or "trades" as they are commonly called, are collections of comic books that are usually bound in a better format than the comic magazines, using the same materials and methods as printed books. They are generally sold in bookstores and specialty comic book shops rather than at newsstands.
+
+Unlike graphic novels, the material in a trade paperback is reprinted from comic magazines that were released in the standard 32-page format. Unlike comic books, which only tell one small part of a story, trade paperbacks usually collect a complete story, story arc, or a large part of a story. They usually reprint the material from 4 to 12 comic books, depending on the size of the trade and the story being collected.
+
+Some famous examples of trade paperbacks:Mathematical inductionMathematical induction is a special way of proving a mathematical truth. It can be used to prove that something is true for all the natural numbers (or all positive numbers from a point onwards). The idea is that if:thenIn the careful language of mathematics, a proof by induction often proceeds as follows:Because it is true for 1, then it is true for 1+1 (=2, by the induction step), then it is true for 2+1 (=3), then it is true for 3+1 (=4), and so on.
+
+Prove that for all natural numbers "n":Proof:First, the statement can be written as:By induction on "n",First, for "n"=1:so this is true.
+
+Next, assume that for some "n"="n" the statement is true. That is,:Then for "n"="n"+1:can be rewritten asSince formula_12Hence the proof is complete by induction.
+
+Mathematical induction is often stated with the starting value 0 (rather than 1). In fact, it will work just as well with a variety of starting values. Here is an example when the starting value is 3: "The sum of the interior angles of a formula_1-sided polygon is formula_15 degrees."
+
+The initial starting value is 3, and the interior angles of a triangle is formula_16 degrees. Assume that the interior angles of a formula_1-sided polygon is formula_15 degrees. Add on a triangle which makes the figure a formula_5-sided polygon, and that increases the count of the angles by 180 degrees formula_20 degrees. Since both the base case and the inductive case are handled, the proof is now complete.
+
+There are a great many mathematical objects for which proofs by mathematical induction works. The technical term is a "well-ordered set".
+
+The same idea can work to "define" a set of objects, as well as to prove statements about that set of objects.
+
+For example, we can define formula_1th degree cousin as follows:There is a set of axioms for the arithmetic of the natural numbers which is based on mathematical induction. This is called "Peano's Axioms". The undefined symbols are | and =.
+
+The axioms areOne can then define the operations of addition and multiplication and so on by mathematical induction. For example:Kader AbdolahHossein Sadjadi Ghaemmaghami Farahani (, better known by his pen name Kader Abdolah () (Arak, 12 November 1954), is a Dutch author who was born in Iran.
+
+Kader Abdolah was born "Hossein Sadjadi Ghaemmaghami Farahani" () in Arak, Iran. Since 1988 he has been living in the Netherlands.
+
+His books are often written in Dutch. He adds ideas from Persian literature. He wrote "De reis van de lege flessen", "The journey of the empty bottles". The book is about an Iranian who goes to live in the Netherlands. "The House of the Mosque" was voted second best Dutch novel ever in Holland. "My Father's Notebook: A Novel of Iran" and "The House of the Mosque" are available in English.
+
+WiganWigan is a town located within the Metropolitan Borough of Wigan in Greater Manchester, North West England. It is home to Wigan Athletic football club and Wigan Warriors rugby league team. It is about twenty miles from Liverpool, Manchester and Preston.
+
+PolymerizationPolymerization or polymerisation is the process in which small molecules, called monomers, join chemically to produce a very large chain-like or network molecules, called polymers. The monomer molecules may all be alike, or they may represent two, three, or more different compounds. Usually at least 100 monomer molecules must be combined to make a product that has certain unique physical properties—such as elasticity, high tensile strength, or the ability to form fibres—that differentiate polymers from substances composed of smaller and simpler molecules. Often, many thousands of monomer units are in a single molecule of a polymer. The formation of stable covalent chemical bonds between the monomers sets polymerization apart from other processes, such as crystallization, in which large numbers of molecules aggregate under the influence of weak intermolecular forces. Alkene molecules can react with themselves, by adding polymerization to form 'plastic' or polymeric materials. When a catalyst (a substance that speeds up chemical processes) is added to the reaction, or it is heated under pressure, unsaturated alkenes link together, when the double bond partially breaks.
+
+Polyethene is a cheap and useful plastic used for plastic bags and bottles, it is also very flexible and quite strong.
+
+Final CrisisFinal Crisis is was a seven issue miniseries published by DC Comics from May 2008 to January 2009 written by Grant Morrison and drawn by JG Jones, Carlos Pacheco and Doug Mahnke.
+
+In "Final Crisis", the bad guys win. But after some fighting, Superman deep freezes the Earth's population. After he defeats a vampire god called the Dark Monitor, he brings the world back with his imagination.
+
+Portishead"This article is about the town. For the band with the same name, see Portishead (band)."
+
+Portishead is a town near the sea in North Somerset, England, where about 21000 people live (Local council update July 24, 2007).
+
+Portishead has had a history since Roman times. Its name comes from the words ‘port at the head of the river’. The town was built on the mouth of a small river; the main road in the town once met the water at the top of the river.
+
+Lots of buildings in the town are of a Victorian style.
+
+In the 1860s, in the middle of the iron and steel era, a pier and a dock were built for the big boats that could not easily get to Bristol Harbour. The ships brought in expensive items from around the world and took items made in the town to other countries. Many ships carried coal.
+
+In the 1880s Portishead Dock was bought by Bristol Corporation, and was managed as part of the Port of Bristol until it closed.
+
+The Portishead power stations were coal power stations built near the dock. The first power station was built in 1926. It began making electricity in 1929 for the Bristol Corporation. The power station was made bigger in 1948.
+
+A 2nd power station was started in 1949 and began making electricity in 1955.
+
+After 1949, the power stations became part of the country's electricity industry. They used some local coal produced in the Somerset coalfield which was moved by train along the Portishead Railway. The line had opened on 12 April 1867 as the Bristol and Portishead Pier and Railway Company; it opened to the dock on 5 July 1879.
+
+The 1st power station closed in 1976, and the 2nd closed in 1982. The dock was closed in 1992.
+
+Portishead had two train stations for people who lived in the town. The main station was near the centre of Portishead, and the other was at the Pier. The construction of the 2nd power station caused the 1st train station to be removed and another station was opened in the main street of the town on 2 January 1954. The new station closed on 7 September 1964. People who live in Portishead now want the train station to be opened again.
+
+Okashina OkashiOkashina Okashi - Strange Candy is a webcomic drawn by Emily Snodgrass (Emi-chan) and written by Allison Brownlow (Tanzy), Karen Olympia (Kourin), and J. Baird (Xuanwu). It started in 2001, with Brownlow as its first writer and Olympia added to the team in October 2001. Snodgrass has appeared at conventions (large groups of people with a common interest), speaking as an amateur artist answering questions from an audience. Snodgrass is an amateur artist who does not earn a living from her online comic."
+
+Okashina Okashi" is hosted on Comic Genesis, a free online provider of webcomics. Baird used his comics while teaching for Hess Educational Organization, an English education business in the Republic of China and Singapore. He used "Okashina Okashi" in the "Create a Comic Project" when he volunteered to teach a free after-school youth literacy library event in New Haven, CT.
+
+In August 2007, Emi-chan added a new comic set in the Beauty Man Garden, a chain of restaurants featured prominently throughout "Okashina Okashi". The new comic is called "Mini BMG".
+
+A group of people who don't know each other are sucked into a different universe called UberTokyo. They must try to find a way home by using "plotholes" (holes in the air) to move between worlds. Each world is a parody of a kind of anime and manga, such as sports, sentai, and fantasy. The stories from beginning to present are:In addition to these stories, there are many smaller stories. The longest small story has Kerisu, an evil overlord, who needs new servants and wants the main cast to replace them. Ho-chan and Daisuke, who were left behind in the sentai adventure world, have been seen again a number of times for their own small story. A third small story has Professor Li and his assistant Terra.
+
+The comic features a large number of references to many anime and video games, such as Neon Genesis Evangelion, Revolutionary Girl Utena, and Guilty Gear. It also uses male homoeroticism as fanservice. One of its important male characters, Eeichi, is bisexual. Another male character, Takeshi, frequently cross dresses. Two less important female characters, Jen Puni and Zuga Ma, are hinted to be lesbians.
+
+Adverse possessionAdverse possession is a rule in property law. This rule says that if property is not being used by its owner while another person is using the property, this other person (called an "adverse possessor") becomes the new owner of the property. To get these rights, the adverse possessor usually must use the property in the way a normal owner would do for a period of time, typically 20 years. In some jurisdictions, a form of adverse possession exists in which the adverse possessor ends up with sharing some rights to property with the owner, such as a right-of-way, instead of getting all the rights.
+
+Rule against perpetuitiesThe Rule against Perpetuities is one of the most complicated rules in property law and wills and trusts. In general, the rule states that a gift of a will (or a trust) will not be enforced if the subject of the gift is to be given to a person who can not be known now, and will not be able to be known, by the end of 21 years after the death of everyone who was alive (including children in their mother's uterus but not yet born) at the time the gift was created.
+
+For example, if a woman says in her will that her house is to be given "to the children of her children when they graduate from college" this would not be enforced by a court. It would not be enforced because one (or more) of her children's children might not graduate from college until 21 years after everyone who was alive at the time of the woman's death has died.

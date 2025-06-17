@@ -1,0 +1,133 @@
+In team sports, a shutout (a clean sheet in association football) means that one team in a game prevented the other from scoring. They often happen in ice hockey and association foot, sometimes in baseball and American football, rarely in rugby, and although it is possible, it almost never occurs in basketball.
+
+In association football, it is commonly known as a clean sheet.
+
+Goals against averageGoals against average (often shortened to GAA) is a statistic used in ice hockey, water polo, lacrosse, and association football that is the mean of goals allowed per game by a goaltender.
+
+Time ProtocolThe TIME service is an Internet protocol defined in . Its purpose is to provide a site-independent, machine readable date and time.
+
+TIME can operate over either TCP or UDP. When operating over TCP, a host connects to a server that supports the TIME protocol on TCP port 37. The server then sends the time as a 32-bit unsigned binary number in network byte order representing a number of seconds since 00:00 (midnight) 1 January, 1900 GMT and closes the connection. The host receives the time and closes the connection.
+
+When operating over UDP, the client sends a (usually empty) datagram to UDP port 37. The server responds with a single datagram of length 4 containing the time. There is no connection setup or teardown.
+
+BurstBurst may refer to:Tropical Depression Sixteen (2008)Tropical Depression Sixteen was the sixteenth, and weakest, tropical cyclone of the 2008 Atlantic hurricane season. Sixteen formed from a strong tropical disturbance off the eastern shores of Nicaragua on October 13. The disturbance quickly turned into a tropical depression the next day while being very close to the coastline. Because of its close distance towards land, the depression was not able to form strong convection, which was the reason why it did not become stronger. Once off the northern shores of Honduras, the depression became disorganized, but was able to strengthen a little bit, reaching its peak intensity with winds of 35 mph (55 km/h) on the afternoon of October 15. The depression then moved onshore and quickly died out by the next morning.
+
+A lot of rainfall from the depression started deadly flooding in Central America which left at least 75 people dead and forcing 100,000 people to move, and being responsible for $150 million in damage.
+
+On the afternoon of October 13, a large area of low pressure formed in the southwestern Caribbean Sea, about 160 mi (160 km) east-southeast of Puerto Cabezas, Nicaragua. The low was found in a place that was good for development and a tropical cyclone formation alert was given out soon after the low formed. The low slowly became better organized and was thought to have turned into a tropical depression the next morning while it was 50 mi (80 km) northeast of the Nicaragua/Honduras border. The depression was predicted to move across from the coastline, and later move to the west when it was north of Honduras, and by then make landfall in Belize as a tropical storm with winds of 65 mph (105 km/h) on October 18.
+
+But the convection that was associated with the depression went away and the whole structure of the storm started to get worse. The depression stayed disorganized during the morning, in spite of curved banding traits forming, they stayed far from the center of circulation. In the late afternoon, the depression mooved onto the northern coastline of Honduras with winds still at 30 mph (45 km/h). Even though being over land and still being disorganized, the depression became a little bit more strong enough to reach its peak intensity of 35 mph (55 km/h) on the afternoon of October 15. This happened because of a mistake of a QuikSCAT satellite pass a ship, with the code H3VR, reporting 38 mph (61 km/h) sustained winds, and a buoy report. However, the winds were actually though to have been weaker than what was said because of the ridge of high pressure that was over the southern United States. The final advisory on the depression was given out the next morning as it turned back into a remnant low.
+
+The National Hurricane Center gave out a lot of tropical storm watches while the storm was still alive, while in Costa Rica a red alert warning was put into effect across much of the country, and more than 100,000 people were told to move to safer places. Because the depression never became a tropical storm, tropical storm-conditions were not felt in the watch areas.
+
+Heavy rains from the depression's remnant low left at least 16 people dead and six missing and forced 100,000 other people from their homes across Central America. The depression destroyed bridges, flooded villages and blocked roads. Total damage is thought to be at about $150 million (2008 USD).
+
+High pressure areaA high pressure area (also called a high or high-pressure) is an area where the atmospheric pressure is greater than the rest of the atmosphere.
+
+Tropical cyclone formation alertA Tropical Cyclone Formation Alert (TCFA) is a notice given out by the U.
+
+S. Navy-run Joint Typhoon Warning Center in Honolulu, Hawaii or the Naval Maritime Forecast Center in Norfolk, Virginia warning of the possibility of a tropical cyclone forming from a tropical disturbance that has been watched carefully.
+
+90377 Sedna90377 Sedna (or simply Sedna; symbol ) is a trans-Neptunian object which is the farthest dwarf planet from the Sun. It was discovered on November 14, 2003 by Mike Brown, Chad Trujillo and David Rabinowitz. Around 1250-1800 km in diameter, Sedna takes roughly 11,400 years to orbit the Sun, much higher than most known trans-Neptunian objects. It is one of the most distant known objects in the Solar System. Therefore, Sedna's surface temperature never rises above -240°C.
+
+The name "Sedna" comes from the Inuit goddess of the sea, thought to live at the bottom of the Arctic Ocean.
+
+NASA is not currently planning any space missions to explore Sedna, but there is some talk of missions to happen when Sedna reaches perihelion again in 2076. It is considered to be a likely candidate as a dwarf planet.
+
+No pictures can be taken of Sedna because very little light from the Sun reaches it. For this reason, Sedna is known as "Cobian", meaning shadows in Ancient Greek. Due to its orbit, the chances of Sedna being found were 0.
+
+017%. 40-120 more objects this size should exist without us knowing, but, as they are so small and far away, they may not be discovered for a while.
+
+Boa constrictorBoa constrictor is a non-venomous Boa species. The snake is found in Central and South America, and on some islands in the Caribbean. The common name is the same as the scientific name, which is unusual. The color pattern of its skin can vary considerably. Boa constrictors grow to a large size. There are ten subspecies."
+
+The size adult animals reach varies among subspecies. The largest animals have been found in Northern south America. Two animals from Suriname are currently the largest on record: One reached 411cm (13.
+
+5 ft), the other 427cm (a bit over 14 ft). Such sizes are rare, boas reaching 3m are considered large. There is a report of a boa reaching 5.
+
+6m in Trinidad, but it is believed that snake was an anaconda,"Eunectes murinus", taken for a boa.
+
+Boas can use their tail to grasp things. Boas do not have organs that react to warmth around the mouth.
+
+Boas have a color pattern that is brownish, and becomes brick red around the tail. Dorsally, the ground color is overlaid with a series of large tan-colored saddles that become lighter towards the tail. Here, the saddles break up into half rings of a pale cream color in vivid contrast with the red.
+
+All boids are constrictors, that is, they kill by squeezing their prey to suffocation. This species is a rare instance of an animal having the same common and scientific binomial name.
+
+All subspecies are referred to as "boa constrictors"."
+
+B. c. constrictor" is also called the "common boa."
+
+Other common names include "jibóia" (Brazil) and "macajuel" (Trinidadian, pronounced "mah-cah-well").
+
+Found from northern Mexico through Central America (Belize, Guatemala, Honduras, El Salvador, Nicaragua, Costa Rica and Panama) to South America north of 35°S (Colombia, Ecuador, Peru, Venezuela, Guyana, Suriname, French Guiana, Brazil, Bolivia, Uruguay and Argentina. Also in the Lesser Antilles (Dominica and St. Lucia), on San Andrés, Providencia and many other islands along the coasts of Mexico and Central and South America.
+
+Flourishes in a wide variety of environmental conditions, from tropical rainforests to arid country.
+
+Small individuals may climb into trees and shrubs to forage, but they become mostly terrestrial as they become older and heavier. It is said that specimens from Central America are more irascible, hissing loudly and striking repeatedly when disturbed, while those from South America tame down more readily.
+
+Prey includes a wide variety of mammals and birds. Their diet mostly consists of rodents, but larger lizards and mammals as big as ocelots are also reported to have been consumed.
+
+Ovoviviparous, females give birth to live young that average 15-20 inches (38–51 cm) in length.
+
+This species does well in captivity, usually becoming quite tame. It is a common sight in zoos. Captive longevity is 20 to 30 years, with rare accounts of over 40 years, making them a long-term commitment as a pet. Proper animal husbandry is the most significant factor in captive lifespan. Though still exported from their native South America in significant numbers, it is widely bred in captivity.
+
+Just FontaineJust Louis Fontaine (18 August 1933 – 1 March 2023) was a French former football player and manager. He had played for France national team.
+
+200||164200||164!
+
+Total||21||30Didier DeschampsDidier Deschamps (born 15 October 1968) is a former French football player who is currently the manager for the France national football team since 2012.
+
+He won the World Cup with France in 1998. As manager, he helped France win the 2018 FIFA World Cup.
+
+MarseilleJuventusChelseaValenciaFranceIndividualMonacoJuventusMarseilleFranceIndividual!
+
+colspan="3" style="background:#C1D8FF;"| World Cup-winners statusHideki TsukamotoHideki Tsukamoto (born 9 August 1973) is a former Japanese football player.
+
+93||0||13||0||22||0||128||093||0||13||0||22||0||128||0Siniša MihajlovićSiniša Mihajlović (20 February 1969 – 16 December 2022) was a Serbian football player. He played for Yugoslavia national team and Serbia national team.
+
+In July 2019, Mihajlović was diagnosed with leukaemia. He died from the disease on 16 December 2022.
+
+111||28315||38426||66!
+
+Total||4||0!
+
+Total||58||9Ryo OkataniRyo Okatani (born 13 January, 1981) is a Japanese football player.
+
+10||110||1Daisuke MatsuiMatsui was born in Kyoto on May 11, 1981. After graduating from Kagoshima Jitsugyo High School, he joined J1 League club Kyoto Purple Sanga in 2000. He played many matches from first season. The club won the champions in the 2002 Emperor's Cup. In summer 2004, he moved to French Ligue 2 club Le Mans. The club won the 2nd place in the 2004/05 season and was promoted to Ligue 1. In 2008, he moved to Saint-Étienne. After that, he played Grenoble, Tom Tomsk, Dijon, Slavia Sofia and Lechia Gdańsk. In January 2014, he returned to Japan and joined Júbilo Iwata and played in 4 seasons. From summer 2017, he played Odra Opole, Yokohama FC and Saigon FC.
+
+In June 2003, Matsui was selected the Japan national team for 2003 Confederations Cup. At this tournament, he debuted against Colombia on June 22. He was also selected Japan U-23 national team for 2004 Summer Olympics. From 2008, he played many matches under manager Takeshi Okada. In 2010, he was selected Japan for 2010 World Cup. He played all 4 matches and Japan qualified to the knockout stage. He also played at 2011 Asian Cup and Japan won the champions. This Asian Cup was his last game for Japan. He played 31 games and scored 1 goal for Japan until 2011.
+
+248||27||21||5||19||2||288||34189||20||6||1||10||2||218||237||0||0||0||colspan="2"|-||7||011||0||2||0||colspan="2"|-||13||019||4||2||0||colspan="2"|-||21||4474||51||31||6||29||4||534||61!
+
+Total||31||1Kiyoshi OkumaKiyoshi Okuma (born 21 June 1964) is a former Japanese football player. He has played for Tokyo Gas.
+
+Oleg BlokhinOleg Blokhin (born 5 November 1952) is a Ukrainian football player turned manager. He played for Soviet Union national team. He was born in Kiev to a Ukrainian mother and Russian father.
+
+432||20241||921||5494||216!
+
+Total||101||35Allan SimonsenAllan Simonsen (born 15 December 1952) is a former Danish football player. He has played for Denmark national team.
+
+166||70178||7698||3116||9458||186!
+
+Total||56||21GarrinchaManuel dos Santos (28 October 1933 – 20 January 1983) was a Brazilian football player. He played for the Brazil national team. Garrincha, the nickname, "little bird", he got from his sister. He won the 1962 World Cup in Chile with Brazil after Pelé was injured. He is regarded as one of the greatest footballers of all time and considered one of the best dribblers and by many the greatest dribbler ever.
+
+Garrincha's best talent consisted in his very particular dribbling, a game that he performed in making two different types of movements: cutting towards the inside of the field or, typically, widening to the right, always starting with the ball placed near the sideline of the pitch. Garrincha, after receiving the ball on the wing, aimed at the direct opponent and then stopped, causing the marker to stop in turn, after which he threw himself to the right, subsequently folding on the opposite side. He repeated the play more than once, when he decided to overtake the now disoriented defender with a definitive acceleration again on the right. Dribbling was made particularly effective by the explosiveness of the shot and the unpredictability of the movements due to the asymmetry of the lower limbs. Garrincha often abused this skill, as he used to dribble opponents and wait for them to retrace their steps so as to overcome them a second time, for pure pleasure; in a match for the Rio-San Paolo tournament that Botafogo played against América, the referee threatened to expel him due to the excessive number of dribbles carried out at the expense of full-back Ivan.
+
+Despite having been afflicted with several birth defects (he had strabismus, an imbalance of the pelvis, six centimeters of length difference between the legs; the right knee had valgus and the left varus), Garrincha, "The Anjo de Pernas Tortas", was one of the main players in the 1958 FIFA World Cup and the 1962 FIFA World Cup, when, after Pelé's injury, he became the main player of the Brazilian team. Of Brazil's 14 goals in the competition, six (42%) went through his feet (he scored four and provided two assists for goals). In this tournament, he became the first player to win the Golden Ball (best player in the tournament), the Golden Boot (the competition's top scorer) and the World Cup trophy. Because of this, the 1962 World Cup is known in Brazil as "The Garrincha Cup".
+
+Included in the World Team of the 20th Century by 250 of the world's most respected football writers and journalists, he was selected in 1994 for the FIFA World Cup All-Time Team and ranked seventh in a vote among FIFA experts. about the best player of the 20th century.
+
+Garrincha was born in 1933 in Pau Grande, a small town near Rio de Janeiro. At birth, it was found that his left leg was turned outwards and that his right leg was six centimeters shorter and turned inwards. Despite, or perhaps because of this handicap, Garrincha went on to become a highly technical footballer and one of the greatest dribblers of all time. Garrincha was a great footballer, but in his private life he had a lot of problems. He was a heavy drinker and was involved in a car accident several times. In 1969, his mother-in-law was killed in one of these accidents.
+
+Garrincha married twice. The first time with Nair Marques, a factory girl from his hometown of Pau Grande, and the second time with Elza Soares, a well-known samba singer. But in addition, Garrincha had several other affairs and in total he left behind thirteen children after his death, one of which was in Sweden. In the spring of 1959, Garrincha had an affair with a waitress from the players' hotel in Umeå, after a Botafogo friendly match in Sweden. Nine months later, a letter was delivered to him in Rio de Janeiro saying that Garrincha had fathered a son. His Swedish grandson, Martin Lindberg, also had an aptitude for football and played as a right winger as a youth player for Halmstads BK, but had to finish football at level after he tore his knee ligament in 2009.
+
+After his football career, things quickly went downhill for Garrincha. He didn't know how to handle the fame and started drinking more and more. In 1983, at the age of 49, he died of cirrhosis. His funeral procession, from Maracanã Stadium to Pau Grande, drew thousands of people and after his death people wrote on the wall: "Thank you, Garrincha, for living".
+
+In the capital Brasilia, a stadium is named after him: Estádio Mané Garrincha, and the stadium of Esporte Clube Pau Grande also bears his name.
+
+Garrincha played in his youth for a local club from Pau Grande. At the age of nineteen, in the summer of 1953, he reported for the first time for a trial training, at Botafogo in Rio de Janeiro. He played as a right winger against international Nílton Santos (later elected by FIFA as left back in the twentieth century world team). Garrincha passed him immediately. Nilton Santos thought he could tame this young lad, but Garrincha also left him behind for the next five moves. The trainer had seen enough and after three training sessions, Garrincha was allowed to try in the first team of Botafogo and immediately scored a hat trick.
+
+He played for the club for twelve years and scored 232 times in 581 matches. With Botafogo he won the Campeonato Brasileiro once and the Campeonato Carioca three times. In his last years at this club, Garrincha's body started to work against him and his broken knees started to hinder him more and more. After his stint with Botafogo, he played a number of matches for Sport Club Corinthians Paulista, Flamengo and Colombian Atlético Junior. In 1969 there was talk of him being sold to the French Red Star Paris, but he never signed a contract. In 1972 he finished his career with Olaria.
+
+On tour through Europe, with Botafogo, he played in the Netherlands in 1959 against Willem II (win), Fortuna '54 (win) and Feyenoord (loss).
+
+Between 1955 and 1966, Garrincha played 50 games for the Brazil national team with 12 goals and played in the 1958 World Cup, 1962 World Cup and 1966 World Cup. Brazil became world champions in 1958 and 1962. He also won the Oswaldo Cruz Cup five times in 1955, 1956 but he didn't play any matches, 1958, 1961 and 1962. He became champions in 3 O'Higgins Cup tournaments in 1955, 1959 and 1961. He also won the Roca Cup in 1957, 1960 and 1963 but he wasn't able to play any matches in that year's tournament. And he also won the Taça Atlântico Cup in 1956 but he couldn't play any matches and he won the 1960 tournament. Garrincha was omitted to play for the 1954 FIFA World Cup and 1956 South American Championship.

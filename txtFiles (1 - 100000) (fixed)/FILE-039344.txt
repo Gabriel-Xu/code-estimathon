@@ -1,0 +1,359 @@
+In hypersolvus granites, as used by Tuttle and Bowen in 1958, crystallization at relatively low water pressures results in the formation of a single feldspar as opposed to subsolvus granites in which two distinct types of feldspar are present.
+
+In hyperspectral imaging, the recorded spectra have fine wavelength resolution and cover a wide range of wavelengths.
+
+In hypertensive encephalopathy, generally the blood pressure is greater than 200/130 mmHg.
+
+In hypertext, cross-referencing is maintained to a document with either in-context (XRIC) or out-of-context (XROC) cross-referencing.
+
+In hypertrophic cardiomyopathy the heart muscle enlarges and thickens.
+
+In hypervascularized cancers, overexpression of endocan has been detected by immunohistochemistry using monoclonal antibodies against endocan / ESM-1.
+
+In hypervigilance, there is a perpetual scanning of the environment to search for sights, sounds, people, behaviors, smells, or anything else that is reminiscent of activity, threat or trauma.
+
+In hypoxia, under bioreductive condition, it has been observed that TPZ primarily produces hydroxyl or and benzotriazinyl radicals as the DNA damaging reactive species.
+
+In hypoxic cells, such as those on the inner surface of the urinary bladder, apaziquone is converted to active metabolites by intracellular reductases.
+
+Iniabasi Samuel Henshaw (born 22 February 1994), professionally known as Samm Henshaw, is a British singer, songwriter and record producer of Nigerian descent, signed to Columbia Records.
+
+Iniaheide is a hamlet in Tytsjerksteradiel in the province of Friesland, the Netherlands.
+
+In Iain Banks' novel Against a Dark Background, the Lazy Guns have a lot of mass and yet little weight, and weigh three times as much upside-down as upright.
+
+Inia is a genus of river dolphins from South America.
+
+Ini (also Intef) was an ancient Egyptian or Nubian ruler who most likely reigned at the end of the 11th and beginning of the 12th Dynasty over Lower Nubia.
+
+Ini (also known as Ini I) was the successor of Merneferre Ay, possibly his son, and the thirty-third king of the Thirteenth Dynasty of Egypt.
+
+In I am Joaquin, Joaquin (the narrative voice of the poem) speaks of the struggles that the Chicano people have faced in trying to achieve economic justice and equal rights in the U.
+
+S, as well as to find an identity of being part of a hybrid mestizo society.
+
+In Ian Fleming's James Bond novels and the derived films, the 00 Section of MI6 is considered the secret service's elite.
+
+In Ian Fleming's James Bond novels, Bill Tanner is M's chief of staff and a recurring character throughout the series.
+
+Ini Assmann was a German film actress of the 1960s and 1970s.
+
+In IBDD, voters would still have the right to vote directly on every issue or delegate their vote to someone else, but unlike in liquid democracy, voters can choose to forego votes on one issue to use on another issue.
+
+In IBD they are used to select a single, or a range of ion species for deposition in order to avoid contamination.
+
+In Ibiza 2010 is a digital album compiled by British trance group Above & Beyond, released on 24 August 2010 on Anjunadeep, the sub-label of Anjunabeats.
+
+In IBM GPFS represents a set of files within a file system which have an independent inode space.
+
+In IBM mainframe operating systems, basic partitioned access method (BPAM) is an access method for libraries, called partitioned datasets (PDSes) in IBM terminology.
+
+In IBM mainframe operating systems, Basic sequential access method (BSAM) is an access method to read and write datasets sequentially.
+
+In IBM mainframe operating systems, Execute Channel Program in Real Storage (EXCPVR) is a supervisor call for low-level device access, where the programmer is responsible for providing a list of device-specific CCWs, that is, a channel program, to be executed by I/O channels, control units and devices.
+
+In IBM mainframe operating systems, Execute Direct Access Program (XDAP) is a pseudo access method for accessing direct access datasets on a block by block basis.
+
+In IBM mainframe operating systems from the OS/360 and successors line, a Unit Control Block (UCB) is a memory structure, or a control block, that describes any single input/output peripheral device (unit), or an exposure (alias), to the operating system.
+
+In IBM mainframe operating systems, such as OS/360, MVS, z/OS, a Data Control Block (DCB) is a description of a dataset in a program.
+
+In IBM mainframes, a record is a basic unit of device-to-program data transfers.
+
+In IBM mainframe technology, a channel-to-channel adapter (CTCA) is a device which connects two channels on (usually) two separate computer systems.
+
+In IBM PC compatible computing, DOS memory management refers to software and techniques employed to give applications access to more than 640 kibibytes (640*1024 bytes) (kiB) of "conventional memory".
+
+In IBM products, it superseded the ISA bus and was itself subsequently superseded by the PCI bus architecture.
+
+In IBM's OS/360 and its successors they are referred to as partitioned data sets.
+
+In IBM System/360 through present day z/Architecture, an address constant or "adcon" is an assembly language data type which contains the address of a location in computer memory.
+
+In IBM System z9 (and successor) mainframes, the System z Integrated Information Processor (zIIP) is a special purpose processor.
+
+In IBM terminology, Access Registers are hardware registers in the processor.
+
+In IBM zSeries computers with two direct access storage device (DASD) control units connected through dedicated connections, PPRC is the protocol used to mirror a DASD volume in one control unit (the primary) to a DASD volume in the other control unit (the secondary).
+
+Inibsa Laboratorios is a pharmaceutical company in Spain.
+
+In IBSS network beacon generation is distributed among the stations.
+
+In ICD-10, a distinction is made between "exfoliative dermatitis" at L26, and "erythroderma" at L53.
+
+9.
+
+In Ice Climber, the characters Popo and Nana, collectively known as the Ice Climbers, venture up 32 ice-covered mountains to recover stolen vegetables from a giant condor.
+
+In ice dance, dancers must always skate to music with a definite beat or rhythm.
+
+In ice hockey, a backhanded shot (or backhander) is a shot taken from the backside of the blade.
+
+In ice hockey, a forward is a player position on the ice whose primary responsibility is to score and assist goals.
+
+In ice hockey, a goaltender is credited with a save when they prevent a shot by the opponent from entering the net.
+
+In ice hockey, a Gordie Howe hat trick is a variation on the hat-trick, wherein a player scores a goal, records an assist, and gets in a fight all in one game.
+
+In ice hockey, a grinder is a player better known for his hard work and checking than his scoring.
+
+In ice hockey, a line is a group of forwards that play in a group, or "shift", during a game.
+
+In ice hockey, an assist is attributed to up to two players of the scoring team who shot, passed or deflected the puck towards the scoring teammate, or touched it in any other way which enabled the goal, meaning that they were "assisting" in the goal.
+
+In ice hockey, an awarded goal is an unusual situation in which a goal is awarded to a team rather than scored.
+
+In ice hockey and lacrosse statistic that represents the percentage of shots on goal a goaltender stops.
+
+In ice hockey, an official is a person who has some responsibility in enforcing the rules and maintaining the order of the game.
+
+In ice hockey, a penalty shot is a type of penalty awarded when a team loses a clear scoring opportunity on a breakaway because of a foul committed by an opposing player.
+
+In ice hockey, a play is offside if a player on the attacking team crosses the offensive blue line entering the offensive zone before the puck, and anyone on that player's team touches the puck before it leaves the offensive zone, also known as the red zone.
+
+In ice hockey, a shot on goal is a shot that directs the puck towards the net and either goes into the net for a goal or is stopped by the goaltender for a save.
+
+In ice hockey, a sport not sponsored by the MAAC for either men or women, both Quinnipiac teams play in ECAC Hockey.
+
+In ice hockey, a stay-at-home defenceman, also known as defensive defencemen or shutdown defencemen, is a defenceman who plays a very defensive-first game.
+
+In ice hockey, a two-way forward is a forward who handles the defensive aspects of the game as well as the offensive aspects.
+
+In ice hockey, holding the stick is a penalty called when a player intentionally holds an opposing player's stick in his hands and between any part of his body (i.
+
+e. under arms or between legs) to restrict the opposing player's ability to play the puck.
+
+In ice hockey in North America, three players of the game, called the "three stars", are recognized.
+
+In ice hockey, players are substituted "on the fly," meaning a substitution can occur even in the middle of play as long as proper protocol is followed (under typical ice hockey rules, the substituting player cannot enter the ice until the substituted player is within a short distance of the bench and not actively playing the puck); substitutions can still be made during stoppages.
+
+In ice hockey, point has three contemporary meanings.
+
+In ice hockey, power forward (PWF) is a loosely applied characterization of a forward who is big and strong, equally capable of playing physically or scoring goals and would most likely have high totals in both points and penalties.
+
+In ice hockey, the captain is the player designated by a team as the only person authorized to speak with the game officials regarding rule interpretations when the captain is on the ice.
+
+In ice hockey, the goaltender wears specialized goaltending equipment to protect himself or herself from the impact of the puck and to assist him or her self in making saves.
+
+In ice hockey, the Goodall Cup Final is the championship game to determine the winner of the Goodall Cup, the oldest ice hockey trophy outside of North America and the oldest inside Australia.
+
+In Iceland 30 per cent of smaller shops have closed.
+
+In Iceland and in the United Kingdom, the product's main competitor is Lypsyl, made by Novartis Consumer Health and distributed in similar packaging to ChapStick.
+
+In Iceland co-habitation of a couple without a formal wedding has not carried as much stigma as elsewhere.
+
+In Icelandic orthography, the n-rules are rules for determining when one letter n or two consecutive n's should be written, a difference that sometimes affects the pronunciation.
+
+In Icelandic Poetic Edda Eir was the art-of-medicine goddess.
+
+In Icelandic, the main stress is always on the first syllable.
+
+In Icelandic this kind of land still uses the term "almenningurheim".
+
+In Iceland it peaked at number 1.
+
+In Iceland it peaked at number 2 and in Sweden it peaked at number 3.
+
+In Iceland, Norway, and Sweden such cloth is referred to as hringofann, meaning "hauberk", a term persisting to the present day.
+
+In ichnology, footprints and other traces are given a genus and species name, the ichnogenus and ichnospecies, that is based on the shape of the print.
+
+In ichnology, underprints (also known as transmitted prints or ghost prints) are fossil footprints that are preserved in a sedimentary level beneath that which was directly imprinted upon by the foot of the trackmaker.
+
+Inichthys is an extinct genus of prehistoric bony fish that lived during the Late Permian epoch.
+
+Iniciales was a Spanish individualist anarchist and naturist eclectic magazine which ran between 1929 and 1937.
+
+Iniciativa Amotocodie is an environmental organization in Paraguay.
+
+Iniciativa Amotocodie is part of the International Alliance for the Protection of Isolated Peoples and is on its Executive Committee.
+
+In ICM each molecule is constructed as a tree from an entry atom where each next atom is built iteratively from the preceding three atoms via three internal variables.
+
+In iconography he is frequently represented with a wheel, representing the legend that he crossed the English Channel on a wheel and arrived in Normandy near Flamanville, or with a dragon, representing the legend that he killed a seven-headed dragon at Trou Baligan in the Cotentin.
+
+In iconography, they may also be placed around images of "Bob's" head, framing his head in the same way that the letters in the word "Bob" are framed, and acting as a sort of alternate halo.
+
+Inico Prabakar is an Indian actor who predominantly acts in Tamil films.
+
+I Nicotera is a 1972 Italian drama television miniseries directed by Salvatore Nocita and starring Turi Ferro.
+
+In Idaho, its main competitors were Gem State Airlines, Cascade Airways, and to a lesser extent Hughes Airwest (later Republic Airlines).
+
+In Idaho, the Comprehensive Litter Prevention and Abatement Act was signed into law in 2006.
+
+INID codes use Arabic numerals, and so are language-independent.
+
+In idea art the idea is the most important aspect of the art work.
+
+In ideal circumstances, the term applies mutually to both parties and corresponds both ways, hence the plural being childhood sweethearts.
+
+In ideal conditions it can form colonies of hundreds of plants and often grows under melaleucas on the edge of winter-wet areas.
+
+In ideal theory, the fundamental theorem of ideal theory in number fields states that every nonzero proper ideal in the ring of integers of a number field admits unique factorization into a product of nonzero prime ideals.
+
+In IDEF1X, a government standard for capturing requirements, possible sub-type relationships are: Complete subtype relationship, when all categories are known.
+
+In identifying a specific headquarters unit, it is usually referred to by its abbreviation as an HHC.
+
+In identifying this name as the possible source of the word cry, the Oxford English Dictionary cites Varro.
+
+Inidhu Inidhu is a 2010 Indian Tamil language musical coming of age film co written, cinematographer and directed by cinematographer-turned-director K.
+
+V.
+
+Guhan, starring eight newcomers in lead roles.
+
+Inidhu Inidhu Kadhal Inidhu is a 2003 Tamil romance film directed by Sakthi Chidambaram, and produced by Ramoji Rao.
+
+INID is an acronym for Internationally agreed Numbers for the Identification of (bibliographic) Data.
+
+In Idleness is a 1944 comedy play by the British writer Terence Rattigan.
+
+Ini Edo (born 23 April 1982 in Akwa Ibom) is a Nigerian actress.
+
+In IEEE 802.
+
+11 networks, SIFS is the interframe spacing prior to transmission of an acknowledgment, a Clear To Send (CTS) frame, a block ack frame that is an immediate response to either a block ack request frame or an A-MPDU, the second or subsequent MPDU of a fragment burst, a station responding to any polling a by point coordination function and during contention free periods of point coordination function.
+
+In IEEE 802.
+
+11 wireless local area networking standards, a service set is a group of wireless network devices that are operating with the same networking parameters.
+
+In IEEE 802.
+
+1X, an authenticator is an entity at one end of a point-to-point LAN segment that facilitates authentication of the entity attached to the other end of that link.
+
+Inielika is a volcano located in the central part of the island of Flores, Indonesia, north of the city of Bajawa.
+
+Ini Ellam Sugame is a 1998 Tamil romance film directed by A. R. Ramesh.
+
+Inierie is a stratovolcano located in the south-central part of the island of Flores, Indonesia, overlooking the Savu Sea.
+
+Iniesta is a municipality located in the province of Cuenca, Castile-La Mancha, Spain.
+
+INI files are simple text files with a basic structure composed of sections, properties, and values.
+
+INI files were also generally used by applications to store their individual settings.
+
+In "If You Were Gay", one of Avenue Q's most popular songs, Nicky, who is straight, encourages Rod to come out of the closet, but Rod refuses to admit that he is gay.
+
+Inigala is a village in Sri Lanka.
+
+In Igbo mythology, Ahia Njoku, also known as Ifejioku, Aha Njoku, is a goddess worshiped by the Igbo people of Nigeria.
+
+In IGBT, charge carrier concentration at emitter side in n-base layer is low as holes injected from collector easily pass to emitter electrode through p-base layer.
+
+Inignaouei is a town and commune in the Arlit Department of the Agadez Region of northern-central Niger.
+
+In igneous petrology an intermediate composition refers to the chemical composition of a rock that has 52-63 wt% SiO2 being an intermediate between felsic and mafic compositions.
+
+In igneous petrology, a phenotype is an aphanitic igneous rock which is identified and classified according to the mineralogy of its phenocrysts, when it is impossible to determine the mineralogy of the groundmass.
+
+In igneous petrology, eutaxitic texture describes the layered or banded texture in some extrusive rock bodies.
+
+In igneous petrology, flux melting occurs when water and other volatile components are added to hot solid rock.
+
+In IGN, Tres Dean noted the creators' "complex and intriguing worldbuilding and precise, emotional character work", as well as Tocchini's "impeccable and breathtaking" art.
+
+Inigo Bing's early education was at St Olave's Grammar School in Southwark.
+
+Inigo Bing was a District Judge (formerly Metropolitan Stipendiary Magistrate) from 1989 to 2000.
+
+Inigoes also has a small commercial area with a general store, a pool hall and a gas station.
+
+Inigoes is also the site of the oldest Catholic parish in America, dating back to the 1640s.
+
+Inigoes, sometimes called St. Inigoes Shores, is a small, rural, unincorporated farming, fishing and crabbing community at the southern end of St. Mary's County in the U.
+
+S. state of Maryland that is undergoing a transition to small residential subdevelopment plots.
+
+Inigo Geoffrey Bing (born 1 April 1944) is a British judge.
+
+Inigo Montoya is a fictional character in William Goldman's 1973 novel The Princess Bride.
+
+Inigo was a soldier and also served as Liberal Chief Whip in the House of Lords from 1948 to 1949.
+
+InI had released a demo-tape called "Krossroads", and "Concerned", grap describes this as their earlist tapes.
+
+Inih Effiong (born 2 March 1991) is an English professional footballer who plays for Dover Athletic.
+
+Iniidae, also known as the Amazon River Dolphin or boto, can be found throughout the freshwater habitats of the Amazon rivers and Orinoco Basin.
+
+Iniidae are highly morphologically different from marine dolphins, making them suited to their habitat.
+
+Iniidae is a family of river dolphins containing one living and four extinct genera.
+
+In II - III century AD in fact, this area was occupied by the Romans.
+
+Ini Ikpe is a Nigerian actress.
+
+Ini is located in the south of Nigeria and is a local government area of Akwa Ibom State.
+
+Iniistius is a genus of wrasses native to the Indian and Pacific Oceans.
+
+Inika McPherson (born September 29, 1986 in Port Arthur, Texas) is an American track and field athlete specializing in the high jump.
+
+In Ikaros knockout mice, T cells but not B cells are generated late in mouse development due to late compensatory expression of the related gene Aiolos (IKZF3).
+
+Ini Kita Punya is the third studio album from Malaysian punk rock band, Bunkface.
+
+Inikkum (English: Sweet Memories) is a 1979 Indian Tamil-language romantic comedy film directed by K. Balachander starring Kamal Haasan, Rajinikanth, Jayaprada, Geetha and Nakul.
+
+In "I Know You're Out There Somewhere", the man realizes he still loves her, and vows to "return again" to her.
+
+In IKON's airtime, the Wilde Ganzen collected money for projects in the Third World.
+
+Ini Kopuria (died 1945), a police officer from Maravovo, Guadalcanal, Solomon Islands formed the Melanesian Brotherhood in 1925.
+
+In IK Tjalve she is coached by Knut Kvalheim.
+
+Inilah Jac is the second album released in 2006 by Jaclyn Victor since winning Malaysian Idol.
+
+In I'll Be Home for Christmas, Chuck and Edith realize how empty their marriage has become as they await the arrival of their adult children.
+
+In ill-conditioned problems, significant error may accumulate.
+
+In ill health, he resigned as lieutenant-governor on February 26, 1945.
+
+In Illinois' 2002 gubernatorial election, Quinn won the Democratic nomination for Lieutenant Governor of Illinois in the primary and was paired with then-U.
+
+S. Representative Rod Blagojevich in the general election.
+
+In Illinois, 25,207 miners went on strike, while only 610 continued to work through the strike, with the average Illinois miner out of work for 72 days because of the strike.
+
+In Illinois Center, the lower level has been split, with a middle level for through traffic and a lower level for service vehicles.
+
+In Illinois, Greater St. Louis takes in much of 618 and a small part of the southern area of area code 217.
+
+In Illinois, it is commonly shown to classes in home economics for whom it illustrates the concepts of responsibility and deviancy.
+
+In Illinois, regional library systems were established by state law.
+
+In Illinois, the first major center to be developed after Market Square was Spanish Court (1928).
+
+In Illinois, the lieutenant governor and governor run on a joint ticket, and are directly elected by popular vote.
+
+In Illinois, units of the disbanded 33rd Infantry Division were reorganized into the 66th Infantry Brigade and made part of the 47th Division.
+
+In illuminated manuscripts, initials with images inside them, such as those illustrated here, are known as historiated initials.
+
+In illusion optics, invisibility is a special case of illusion effects: the illusion of free space.
+
+In illustrations he is often depicted wearing bright colors and several pairs of glasses on his elongated proboscis.
+
+In Illyricum, in 42, some soldiers supported a rebellion against Claudius by Illyricum's governor, Lucius Arruntius Camillus Scribonianus.
+
+In Ilocano language, the terms "Iloko" and "Ilocano" are different.
+
+In Iloilo province it's called Bulan-bulan.
+
+In "I Love America", the artist wears tight, red, white, and blue, athletic apparel and sunglasses, while performing a twitchy pub-dance to a 2 measure loop of disco percussion that continues for thirty minutes.
+
+Inimabakesh then succeeded Elulmesh.
+
+Inimabakesh was the successor of Elulmesh.
+
+In-image advertising is a form of contextual advertising where specific images on a website are matched with related advertisements.

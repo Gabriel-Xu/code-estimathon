@@ -1,0 +1,39 @@
+For example, connected light bulb firm LIFX has produced a version that can beam infrared light outdoors, enabling a compatible security camera, such as the Nest Cam Outdoor, to see better in the dark.
+
+The key innovation, however, has been the integration of the smartphone into such connected networks, giving users remote control wherever they have an internet connection.
+
+But aren't all these security cameras intrusive and even a little voyeuristic?
+
+Netatmo has addressed this issue by making its Welcome camera programmable, so you can disable recording for individuals you specify. And most camera systems can be disabled remotely.
+
+It isn't just our homes that technology is helping keep safe.
+
+Cars are also a common target for thieves. This is why Matej Persolja, 33, founded CarLock, a company based in Nova Gorica, Slovenia, and San Francisco in the US.
+
+CarLock's system plugs into a vehicle's onboard diagnostics port and sends an alarm to your phone if your vehicle is moved, the engine starts, it detects unusual vibration, or if the gadget is disconnected.
+
+Mr Persolja started the business after thinking his car had been stolen. It turned out his car had only been moved to make way for construction work taking place in the area."
+
+Before I learned that, I was almost certain my car had been stolen and I still remember that awful feeling," he says.
+
+The CarLock system enables owners to track the location of their car if it has been stolen and also acts like a telematics box recording driving behaviour and the general health of the engine.
+
+And there are a growing number of remote control apps for cars on the market.
+
+Viper's SmartStart app - currently only available in the US and Canada - enables you to start your car, lock and unlock it, and track its movements remotely using your smartphone.
+
+Remote starting is useful for de-icing your car in the mornings while you get ready for work and have breakfast. Even if someone sees the car running and a thief smashes a window to steal it, the physical key is still needed to drive the car off.
+
+You can also keep an eye on your kids' driving habits and receive an alert if they take the car beyond a geographical point that you specify.
+
+Ford is even integrating Amazon's Alexa voice-activated software into its cars, enabling drivers to remotely start their cars with a voice command and personal identification number.
+
+Of course, the elephant in the room with all these connected security products is the risk of being hacked. The UK's National Cyber Security Centre recently demonstrated how a connected doll could be hacked and used to open remote control door locks.
+
+And poorly secured security cameras have been hijacked to carry out web attacks.
+
+How to protect your smart home and all its internet-connected devices will be the subject of a future Technology of Business feature.
+
+The woman was assaulted as she walked on a pathway near Buckingham Road, Bletchley, at about 13:00 BST on Friday.
+
+A man pushed her to the ground and attacked her before walking off.

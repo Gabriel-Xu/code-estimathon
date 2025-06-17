@@ -1,0 +1,183 @@
+Carrara marble has been used since the time of Ancient Rome for buildings, like the Pantheon and Trajan's Column in Rome. Many sculptures of the Renaissance, such as Michelangelo's "David", were made from Carrara marble.
+
+The city has academies of sculpture and fine arts and a museum of statuaries and antiquities. The local marble is exported around the world.
+
+298 Baptistina298 Baptistina is a common Main belt asteroid. It was found by Auguste Charlois on September 9, 1890 in Nice.
+
+Although it has an orbit similar to the Flora family asteroids, it was found to be an unrelated asteroid.
+
+A 2007 US-Czech study decided that 298 Baptistina may be the biggest remnant of a 170 km (110 mile) asteroid that was destroyed about 160 million years ago in an impact with a smaller body, making the Baptistina family of asteroids and that the Baptistina event may have created the eventual impact asteroid believed by many to have caused the K/T extinction event about 65 million years ago. This is the K/T impactor believed to be shown in the geological record. This theory has not, as yet, found general acceptance among the scientific community.
+
+VLC media playerVLC media player (also known as VLC or VideoLAN Client) is a free software media player by the VideoLAN project.
+
+It is a highly portable multimedia player, encoder, and streamer that supports many kinds of audio and video. VLC can repair and play corrupt files, damaged or unfinished.
+
+It is one of the most platform-independent players, available for BeOS, BSD, Linux, Mac OS X, Microsoft Windows, Solaris and Windows CE, and had over 50 million downloads for version 0.
+
+8.
+
+6.
+
+VLC uses a large number of free decoding and encoding libraries. Many of its codecs are provided by the libavcodec codec library from the FFmpeg project, but it uses mainly its own muxer and demuxers. VLC gained honor as the first player to support playback of encrypted DVDs on Linux by using the libdvdcss DVD library.
+
+VLC was initially the client for the VideoLAN project, and it was originally made by students at the École Centrale de Paris, and was released under the GPL license on the 1 February 2001. It now has supporters and contributors worldwide.
+
+The icon of VLC is a traffic cones collected by Ecole Centrale's Networking Students' Association.
+
+VLC has a very flexible design, which makes it easier to include modules for new file formats, codecs or streaming methods. There are more than 300 modules in VLC. VLC also supports highly personalizable skins through the skins2 interface, Winamp 2 and XMMS skins and can play high definition recordings of D-VHS tapes duplicated to a computer using CapDVHS.
+
+exeGuitar Hero (video game)Guitar Hero is a music video game, released on November 8, 2005 for the PlayStation 2. The game uses a guitar-shaped controller that allows players to simulate the playing of rock music. "Guitar Hero" has earned comparisons to "Dance Dance Revolution" played with a guitar. Despite a high price for the guitar/game bundle, "Guitar Hero" was very successful and had several sequels; "Guitar Hero II" and "", as well as other games in the music game genre. The game features artists such as David Bowie, Judas Priest, Sum 41 and Deep PurpleGuitar Hero IIGuitar Hero II is a music video game, released for the PlayStation 2 on November 7, 2006 and the Xbox 360 on April 3, 2007. It is the sequel to "Guitar Hero". The game features a guitar-shaped controller that allows players to simulate the playing of rock music. Much like the original game, "Guitar Hero II" was very successful and helped the "Guitar Hero" series become a cultural phenomenon. The game features artists such as Aerosmith, Nirvana, Foo Fighters, Rage Against the Machine and Guns N' Roses.
+
+PeaZipPeaZip is an open source, cross-platform, portable data compression, file manager and encryption software, available for Microsoft Windows and Linux.
+
+PeaZip created and can open the "Pea" archive format, made by the same corporation. Peazip is written in Free Pascal, using Lazarus. Peazip is under the GNU Lesser General Public License, PeaZip is free software.
+
+Peazip can change look, like opacity, colors, and icons.
+
+7Z, 7Z-sfx, BZip2/TBZ, GZip/TGZ, LPAQ1/5, PAQ8F/JD/L/O, PEA, QUAD/BALZ/BCM, split (.
+
+001), TAR, WIM, XZ, ZIPACE, ARJ, CAB, CHM, COMPOUND files (MSI, DOC, PPT, XLS...), CPIO, DEB, ISO CD/DVD images, Java archives (JAR, EAR, WAR), LZH, NSIS installers, OpenDocument, PET/PUP (Puppy Linux installers), PAK/PK3/PK4, RAR, RPM, WIM, XPI, Z, ZIPXGuitar Hero III: Legends of RockGuitar Hero III: Legends of Rock is a music video game, released on October 28, 2007. The game, like "Guitar Hero II", was made for PlayStation 2 and Xbox 360, but this time it was also released for PlayStation 3, Nintendo Wii, PC and Mac home computers. The game features a guitar-like controller that simulates the playing of rock music. The game has a number of controllers like microphones and keyboards that can be bought.
+
+There are songs in this game by many bands and singers. Some of these include "Anarchy in the U.
+
+K." by the Sex Pistols, "Paint it Black" the Rolling Stones, "Even Flow" by Pearl Jam, "Through the Fire and Flames" by DragonForce, "Before I Forget" by Slipknot, "Story of my Life" by Social Distortion, "My Name is Jonas" by Weezer and "The Number of the Beast" by Iron Maiden.
+
+Volcanic Explosivity IndexIn volcanology, the Volcanic Explosivity Index (VEI) is the way to measure the strength of a volcanic eruption. The Volcanic Explosivity Index measures how large or strong volcanic eruptions are. The index is a scale of 0 to 8. 0 is very small, and 8 is huge and very rare.
+
+The largest eruption in modern times, the 1980 eruption of Mount St. Helens, was a 5 on the index. The Oruanui eruption of the Taupo Volcano in New Zealand was the world’s largest known eruption in the past 70,000 years was an 8. Another eruption of the Taupo volcano happened about 1,800 years ago. It was the most violent eruption in the world in the last 5,000 years. Mt Tambora was a 7 on the Volcanic Explosivity Index. Supervolcanoes have a Volcanic Explosivity Index of 8; and if the definition is expanded, also include volcanoes with a Volcanic Explosivity Index of 7.
+
+Lockheed U-2"For the band, see U2 (band)."
+
+The U-2 (nicknamed the Dragon Lady) is an espionage fixed-wing aircraft made by Lockheed (now Lockheed Martin). It first flew in 1955 and was introduced in 1957. It flies a lot like a glider. It was made during the Cold War, because the United States needed a way to look at the Soviet military from high up. Taiwan also used it to spy on China.
+
+The United States wanted to keep the purpose of the U-2 secret, but on May 1, 1960, Francis Gary Powers was shot down in his U-2 by a Soviet SAM SA-2 missile. In 1962, Powers was released and traded for captured Soviet spy Rudolf Abel. After this, the SR-71 Blackbird started spying on the Soviet Union, which was faster and harder to see on radar.
+
+The U-2 is still in service even though the design is over 50 years old.
+
+The U-2S is 62.
+
+99 feet (19.
+
+20 meters) long, 104.
+
+99 feet (32 meters wide), and is 15.
+
+75 feet (4.
+
+80 meters) tall. It weighs 14,991 pounds (6,800 kilograms) empty, but when full, it weighs 41,006 pounds (18,600 kilograms). It is powered by one General Electric F118-101 engine with 17,000 pounds (7711.
+
+2 kilograms) of thrust. It can go 475 miles per hour (764 kilometers per hour), fly 7,000 miles (11,265 kilometers) without refueling, and can fly upwards of 70,000 feet (21,336 meters), possibly as high as 84,974 feet (25,900 meters).
+
+The Soviet military shot down a U-2 spy plane that was doing aerial reconnaissance over the Soviet Union. They shot it down with a surface-to-air ballistic missile. The pilot survived and was captured and sentenced to 10 years of hard labour in a Soviet gulag for espionage.
+
+Russell BrandRussell Edward Brand (born 4 June 1975) is an English comedian, actor, television presenter, radio host author and activist. He is best known for playing Dr. Nefario in the films "Despicable Me" (2010), "Despicable Me 2" (2013) and "" (2022).
+
+In 2004, he presented "Big Brother's Big Mouth", a side-show of "Big Brother UK". In 2006, he started presenting a radio show, "The Russell Brand Show", on BBC Radio 6 Music. In 2007 the show was moved to BBC Radio 2. He was involved in a controversy over a prank phone call with Jonathan Ross in 2008. After this Brand quit his job at the BBC.
+
+He presented "Russell Brand's Ponderland" in 2007 and 2008. He wrote a book in 2007 about his life, which is called "My Booky Wook". In October 2014, he wrote another book called "Revolution".
+
+Many people notice his unusual fashion sense; his choice of clothing and hairstyle is unique. He has been diagnosed with attention-deficit hyperactivity disorder and bipolar disorder. He has had bulimia nervosa and been addicted to crack cocaine, heroin and alcohol.
+
+As of March 2013, Brand has not used drugs or alcohol for ten years. From 2006 to 2008, Brand won The Sun's Shagger of the Year award. He has been arrested 12 times. He married Katy Perry in October 2010. He filed for divorce from her in January 2012, which was finalised in July 2012. He dated Jemima Khan from 2013-2014.
+
+In 2017, Brand married Scottish lifestyle blogger Laura Gallacher. They have a daughter.
+
+Brand lives in Shoreditch, London.
+
+CypherA cypher is an algorithm for performing encryption (coding) or decryption (decoding). It is a series of well-defined steps that can be followed as a procedure. To encipher or encode is to convert information from plain text into cipher or code.
+
+In non-technical usage, a 'cipher' often means the same thing as a 'code'; but in cryptography, cyphers are distinguished from codes. One 20th century source gives this explanation: a cypher is "a method in which the basic unit of concealment is the letter.
+
+In comparison, a code is a form of concealment in which the basic unit is the word". Late in the century, "codes" in this cryptographic sense became rare. 21st century cryptography mostly encrypts bitstreams.
+
+Codes operated by substituting according to a large codebook which linked a random string of characters or numbers to a word or phrase. For example, "UQJHSE" could be the code for "Proceed to the following coordinates".
+
+A cypher is used to turn the original information ("plaintext") to the encrypted form "ciphertext". The ciphertext message contains all the information of the plaintext message, but cannot be read by human or computer without the proper mechanism to decrypt it.
+
+To encipher or decipher, you need the "key". In encryption, a key specifies the particular transformation of plaintext into ciphertext, or vice versa during decryption.
+
+By type of key used cyphers are divided into:The word cypher in French is "cifre" and in Medieval Latin "cifra", from the Arabic "sifr", meaning 'zero'. The first known English use of "zero" was in 1598.
+
+Chief Justice of the United StatesThe Chief Justice of the United States is the senior judge of the Supreme Court of the United States.
+
+They have no more powers than any of the other judges of the Supreme Court, who are called Associate Justices. The Chief Justice is responsible for organizing the Court's schedules and administration.
+
+By tradition, the Chief Justice administers the oath of office to the President of the United States. The only time this has not happened is when Calvin Coolidge became president.
+
+SturmabteilungThe Sturmabteilung (; often shortened to SA) was a paramilitary group for the German Nazi Party.
+
+Their leader was Ernst Röhm.
+
+The group was important in helping Adolf Hitler gain power in the 1930s.
+
+In English, they are often called the Stormtroopers or the Brownshirts, while "Sturmabteilung" literally translates to “assault detachment” or “assault section”.
+
+They wore a brown uniform, similar to the black uniform worn by Mussolini's Blackshirts.
+
+The word "Sturmabteilung" was used before the founding of the Nazi Party in 1919.
+
+It originally comes from the specialized assault troops used by Germany in World War I using "" infiltration tactics.
+
+The SA played a key role in Adolf Hitler’s rise to power in the 1930s.
+
+Other political parties also had their own partisan militia, and the SA fought them.
+
+The SS began as a small part of SA, and later replaced them.
+
+The Army and other conservatives disliked the SA.
+
+In 1934 Hitler launched the Night of the Long Knives in which the Schutzstaffel arrested and killed their leaders.
+
+Green cardGreen Card or Permanent Resident Card is an identification card that proves that someone who is not a United States citizen is a permanent resident of the United States. The holder of the card is allowed to live, work and study in the United States on a permanent basis.
+
+Most people get Green Cards after being sponsored by a family member, such as a wife or husband, or by an employer that is located in the United States. Other people may become permanent residents through refugee or asylum programs, or similar programs designed to protect their human rights. In some cases, a person may be allowed to file for their own Green Card without a sponsor.
+
+After five years of legal permanent residency within the United States, the holder of the card is eligible to become a U.
+
+S. Citizen.
+
+Council of ChalcedonThe Council of Chalcedon was an ecumenical council that took place from October 8 to November 1, 451, at Chalcedon (a city of Bithynia in Asia Minor). Chalcedon is today part of the city of Istanbul on the Asian side of the Bosphorus.
+
+The most comprehensive confession of the Person of Christ was made at the Council of Chalcedon in 451:For many people, these definitions were too dogmatic; The Oriental Orthodox Churches split from the main church (that would later become the Roman Catholic and the Eastern Orthodox Church).
+
+ChalcedonChalcedon (Χαλκηδών, sometimes transliterated as "Chalkedon") was an ancient maritime town of Bithynia, in Asia Minor, almost directly opposite Byzantium, south of Scutari (modern Üsküdar). Today, in modern Turkish, Chalcedon is called Kadıköy and a district of Istanbul, Turkey.
+
+BithyniaBithynia was an old kingdom of a Roman province in the northwest of Asia Minor. It was at the coast of the Black Sea. It was named after the Bithyni, a tribe that moved there from Thrace. It was an important territory for the Roman empire. Bithynia was also the site of early Christian activities in the first and second centuries AD.
+
+KadıköyKadıköy is a large district on the Anatolian side of İstanbul, Turkey. It is on the shore of the Sea of Marmara. It faces the historic city centre on the European side of the Bosporus. Kadıköy was known as Chalcedon in ancient history.
+
+AntiquityAntiquity may mean:BosporusThe Bosporus or Bosphorus is a strait that forms part of the boundary between the European part of Turkey and its Asian part (Anatolia). It connects the Black Sea with the Sea of Marmara. It is about 30 km long, with a maximum width of 3,700 metres at the northern entrance, and a minimum width of 700 metres between Kandilli and Aşiyan; and 750 metres between Anadoluhisarı and Rumelihisarı. The depth varies from 36 to 124 metres in midstream.
+
+The shores of the strait are heavily populated as Istanbul is located on each side. Three bridges and one tunnel cross the strait.
+
+StraitA strait is a narrow channel of water between two land areas. A strait connects two bodies of water. Straits often connect two seas. Many straits are economically and strategically important. Straits may be part of important shipping routes. So, someone who controls a strait can control the shipping. Wars have been fought to control them. Although rivers and canals often connect two large lakes or a lake and a sea, they are not straits. Straits are much larger and wider and do not have water running in a single direction.
+
+Well-known straits in the world are:ChannelChannel, channels, channeling, etc., may refer to:Strait of DoverThe Strait of Dover or Dover Strait is the strait at the narrowest part of the English Channel.
+
+The strait is at the east end of the English Channel, where it joins the North Sea. Its width is the shortest distance between France and England. On a clear day, it is possible to see the coastline on the other side and the buildings on the shore without the help of binoculars.
+
+The shortest distance across the strait is from the South Foreland, some 6 km (4 mi) north-east of Dover in the county of Kent, England, to Cap Gris Nez, a cape near Calais in the "département" of Pas-de-Calais, France. Between these two points – the most popular route for cross-channel swimmers – the distance is just 33 km (20 mi).
+
+SASA is an abbreviation. It can stand for different things.
+
+The Pigeon DetectivesThe Pigeon Detectives are an English band who originated from Rothwell in Leeds, they formed in 2002. They have received praise by such well known DJs as Steve Lamacq and Jo Whiley, and performed at the Reading and Leeds Festivals in 2006, where they were "the band most likely to leap to the main stage in 2007” in an issue of the NME.
+
+They supported "Dirty Pretty Things" whilst they toured in spring 2006. In early November 2006 they supported The "Kaiser Chiefs", who are known to be admirers of the band. On 8 July 2007, they played on the Radio 1 NME Stage in front of thousands of people at T in the Park. The performance was televised and shown later that day on BBC3 television channel.
+
+HirschaidHirschaid is the biggest municipality in the district of Bamberg. About 11,650 people live there. The mayor is Andreas Schlund.
+
+Julián MaríasJulián Marías Aguilera (June 17, 1914 – December 15, 2005) was a Spanish philosopher. He is the author of "History of Philosophy" (1941) written in Spanish on the subject of the history of philosophy. He was a pupil of the Spanish philosopher José Ortega y Gasset.
+
+DeuteronomyDeuteronomy is a book in the Bible. It is the last of the five books of Moses, meaning it deals with Moses, the Israelites and their ancestors, and their relationship with God. It is part of the Torah. The Hebrew name of the book is , which means 'Words.'
+
+The book begins with the words Moses spoke to the Israelites in the wilderness east of the Jordan. He told them that they had been very rebellious towards God, so God made them travel from place to place before reaching the land he promised them. This was the fortieth year they travelled.
+
+Moses told the Israelites what had happened throughout their journey. He scolded them for disobeying God, who made them go through a very hard journey. Moses then gave them the Law, teaching them what must be done, and what cannot be done. These laws were given to him by God. (See Ten Commandments.) The Law warns against worshipping other gods, and tells that all Israel, every one, must obey God alone. He warned them against worshipping idols, and commanded them to treat the poor, foreigners, and orphans well. If the Israelites obey God, they will prosper (be successful). But God predicted that the future generations will suffer because of their disobedience. One day, however the Israelites would return to God.
+
+God then commanded Moses to write the Law on stone tablets for the Israelites to remember. Then Moses formally made Joshua, son of Nun, the new leader over the Israelites. God gave Moses a song to sing, and asked him to teach it to the Israelites. The song would remind them in the future about how they had gone against God.
+
+Moses was very old - 120 years - during that time. He knew he was going to die because God had told him it would happen. Therefore, before he died, he gave a blessing to all the twelve tribes of Israel.
+
+Finally God made Moses climb Mount Nebo and showed him all the land he was giving to Israel. Because Moses and his brother Aaron disobeyed God earlier on, Moses was not allowed to enter the land, only to see it. Moses died on Mount Nebo, and the Israelites mourned for him for thirty days. After that Joshua began to lead Israel under God's command.
+
+Viareggio

@@ -1,0 +1,35 @@
+The front-line trenches were also protected by barbed-wire entanglements and machine-gun posts. Short trenches called saps were dug from the front-line trench into No-Man's Land. The sap-head, usually about 30 yards forward of the front-line, was then used as listening posts.
+
+Behind the front-line trenches were support and reserve trenches. The three rows of trenches covered between 200 and 500 yards of ground. Communication trenches were dug at an angle to the front-line trench and were used to transport men, equipment and food supplies.
+
+Port-de-PaixPort-de-Paix (Kréyòl: "Pòdepè" or "Pòdpè"; in English means "Peace Port") is a city and the capital of the département of Nord-Ouest in Haiti on the Atlantic coast.
+
+The city is close to the mouth of the river Trois-Rivières, one of the most important river in Haiti. It has a population of 115,000 (2003 census), with 25,000 living in the city.
+
+Christopher Columbus came to this region on 15 December 1492 and he gave it the name "Valle del Paraíso" or "Valparaiso" (Spanish for "Paradise Valley") because he found that this was a very beautiful valley.
+
+A ferry operates between the town and Tortuga Island (La Tortue) situated just across the water.
+
+The town was founded in 1665 by French buccaneers (a kind of pirates in the Caribbean) from Tortuga Island when they had to leave the island. In 1676 the town saw the first black slave revolt; its leader was "Padre Jean" (also "Padrejean" and "Pedro Juan") and who was killed by buccaneers in 1679 in the mountains close to Port-de-Paix.
+
+The area saw great success during the 19th century and Port-de-Paix was an important port; from here, bananas and coffee were sent to other countries. In 1902 the town was almost entirely destroyed by fire.
+
+Port-de-Paix is also the chief town of an arrondissement (a part of a department) of the same name. The arondissement consists of four communes (like municipalities): Port-de-Paix, Bassin Bleu, Chansolme and Tortuga Island.
+
+Le NovateurDevice controllerA device controller is a system that handles the incoming and outgoing signals of the CPU by acting as a bridge between CPU and the I/O devices. A device is connected to the computer via a plug and socket, and the socket is connected to a device controller. Device controllers use binary and digital codes. An IO device contains mechanical and electrical parts. A device controller is the electrical part of the IO device.
+
+Device-Operating System CommunicationThe Device Controller receives the data from a connected device and stores it temporarily in some special purpose registers (i.
+
+e. local buffer) inside the controller. Then it communicates the data with a Device Driver. For each device controller there is an equivalent device driver which is the standard interface through which the device controller communicates with the Operating Systems through Interrupts. Device controller is a hardware whereas device driver is a software.
+
+The controller's job is to convert the serial bit stream to block bytes and perform any error correction necessary.
+
+Each device controller is in charge of a specific type of device (for example disk drives, audio devices, or video displays). Each device controller has a local buffer.[[
+
+Category:Computer science[[Category:Electronics]]Rostov-on-DonRostov-on-Don () is a city in the European part of Russia. It is on the River Don, about 46 km before it flows into the Sea of Azov. The city is the administrative center of Rostov Oblast and the Southern Federal District of Russia. About 1 million people live in the city (as of 2002).
+
+The mouth of the Don River has been very important since the ancient times. It has been important for cultural reasons and for trade. The Greek colony "Tanais" was there, and also the Genoese fort Tana. Later, the Ottoman Empire built a fortress there. This fortress was named Azov.
+
+Rostov-on-Don was founded in 1749. In that year, a customs house was built on the Don. Later, a large fortress followed. It was named after Saint Dimitry of Rostov. Dmitry of Rostov was a bishop from the old Northern town Rostov the Great. With the time, the importance of the fortress Asov became less and less. The settlement near the fortress became more important than the fortress. It was the commercial centre of the region. In 1796 this settlement received city rights and was renamed Rostov-on-Don.
+
+The Don River that the city is named afrer is a major shipping lane. It connects southwestern Russia with regions to the north. Rostov-on-Don is an important river port both for people and industrial shipping. With such a good geographical location, the city grew quickly. It is the most industrialized city of South Russia. Because of this, the city caused a large problem between the Whites and the Bolsheviks during the Civil War. By 1928, the regional government was moved from the old Cossack capital Novocherkassk to Rostov. The nearby Armenian town of Nor Nakhijevan became a part of the city.

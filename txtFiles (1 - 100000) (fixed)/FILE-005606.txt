@@ -1,0 +1,3 @@
+it includes preventing the capture of the hash of the transmitted password and protection against multiple authentication attempts in the system. Secure (encrypted) communication channels can be used to prevent interception.
+
+Diary of a Wimpy Kid (series)Diary of a Wimpy Kid is an ongoing series of books written by Jeff Kinney. There are nineteen books in the main series. The series is about a middle school student named Greg Heffley. The books are written in the style of Greg's diary. They contain many drawings, all with no color.

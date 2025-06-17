@@ -1,0 +1,71 @@
+Recent testing conducted by PassMark Software found the 2009 version had the least impact on system performance. As noted earlier, Symantec funded the testing and provided some of the scripts used. Warner's scripts were also used to test file read/write time. The second and third ranked suites were ESET Smart Security 2008 and Kaspersky Internet Security 2009, respectively. Systems were benchmarked with a clean installation of Windows Vista, then again with a security suite installed. The 2009 version had the least impact on boot time, the fastest scan speed, lowest memory utilization, and the program itself installed the fastest out of its competitors. However, the 2009 version had the second most impact on file read/write time.
+
+Norton Internet Security (Windows versions) have been criticized for refusing to uninstall completely, leaving unnecessary files behind. Versions prior to 2009 installed a separate LiveUpdate program, which updated Norton-branded software. The user must uninstall both Norton Internet Security and the LiveUpdate component manually. The LiveUpdate component is purposely left behind to update other Norton-branded products, if present. In response, Symantec developed the Norton Removal Tool to remove leftover registry keys and values along with files and folders. Uninstallation will not remove subscription data, preserved to prevent users from installing multiple trial copies.
+
+When Norton Internet Security 2008 is installed, users encountered incompatibilities upgrading to Windows XP Service Pack 3 or Windows Vista Service Pack 1. Users report numerous invalid registry keys being added by a tool named fixcss.
+
+exe, resulting in an empty Device Manager and missing devices such as wireless network adapters. Symantec initially blamed Microsoft for the incompatibilities but has since accepted partial responsibility.
+
+Dave Cole, Symantec's senior director of product management, acknowledged that users running Norton products were experiencing problems, but said the numbers are small. Cole also said that Symantec had done "extensive testing" of its products with Windows XP SP3, but this issue had not surfaced. Cole essentially blamed Microsoft, "This is related to XP SP3," he stated. Microsoft recommended users to contact Windows customer support. To resolve the problem, Symantec issued a fix intended for users before upgrading. Symantec also recommended disabling the tamper protection component in the 2008 release, dubbed SymProtect. A tool to remove the added registry entries is also available from Symantec.
+
+Sarah Hicks, Symantec's vice president of consumer product management, voiced concern over Windows Vista 64-bit's PatchGuard feature. PatchGuard was designed by Microsoft to ensure the integrity of the kernel, a part of a operating system which interacts with the hardware. Rootkits often hide in an operating system's kernel, complicating removal. Mike Dalton, European president of McAfee said, "The decision to build a wall around the kernel with the assumption it can't be breached is ridiculous", claiming Microsoft was preventing security vendors from effectively protecting the kernel while promoting its own security product, Windows Live OneCare. Hicks said Symantec did not mind the competition from OneCare. Symantec later published a white paper detailing PatchGuard with instructions to obtain a PatchGuard exploit. After negotiations and investigations from antitrust regulators, Microsoft decided to allow security vendors access to the kernel by creating special API instructions.
+
+Ottauquechee RiverThe Ottauquechee River is a river in Vermont, in the eastern United States. It is a tributary to the Connecticut River, and is about long. It begins in the Green Mountains, and flows through the counties of Rutland County and Windsor County, flowing into the Connecticut River in the town of Hartland. There is one hydroelectric dam on the river, which forms a lake called North Hartland Lake.
+
+San Diego CreekSan Diego Creek is a small northwest-flowing river in Orange County, California. It is about long and its watershed covers 112.
+
+2 square miles (291 square kilometers) in three cities. Its source is in the Coast Range, but several of its tributaries begin in the Santa Ana Mountains and flow west to the creek. San Diego Creek flows into Upper Newport Bay, a branch of Newport Bay and eventually the Pacific Ocean.
+
+Gateshead F.
+
+C.
+
+Gateshead F.
+
+C. is an association football team who are from North East England. They are an professional club.
+
+Their supporters, known as Tynesiders, number in the hundreds.
+
+During the early years of the English Football League, South Shields played in the league, finishing as high as sixth in the Second Division. However problems with money saw them move the short distance between to Gateshead. Gateshead became an established team in the Football League's bottom division, coming close to promotion twice. But in 1960, they were controversially voted out of the league, to be replaced by Peterborough United F.
+
+C.. The team never really recovered and entered administration in 1974.
+
+A successor to Gateshead were soon founded, and attempted to join the Scottish Football League, but they did not get enough votes. This new team also went out of business. But once again, the people of South Shields saved Gateshead and in 1977 the current Gateshead side moved to the town. Gateshead have since moved between the Northern Premier League and the Football Conference. Under Gary Mills, they were able to reach the playoff final but Cambridge beat them to end their hopes of return to the League. Since then a more mellow patch followed.
+
+Ragdoll ProductionsRagdoll Productions Limited, or simply Ragdoll, is a British television production company founded in 1984 by Anne Wood, who had previously worked for Yorkshire Television and TV-am. It is located in Stratford-upon-Avon, Warwickshire, and has produced a number of children's programmes, most notably "Pob's Programme", "Teletubbies", "Rosie and Jim", "Brum", "Boohbah", "Tots TV", and "In the Night Garden...," most of which are now owned by WildBrain.
+
+The following are some of Ragdoll's productions before the company was founded, accompanied by a brief description and vital statistics:Ragdoll's programmes produced between 1990 and 2017 (excluding "Pob's Programme", "BOOM!" and "Storytime") are currently owned by WildBrain (formerly known as DHX Media).
+
+Fun and Fancy FreeFun and Fancy Free is a 1947 American animated musical fantasy comedy package movie. It was produced by Walt Disney. It was released on September 27, 1947 by RKO Radio Pictures. It is the 9th Disney animated movie and the fourth of the package movies the studio produced in the 1940s in order to save money during World War II. The Disney package movies of the late 1940s helped finance "Cinderella", and subsequent others, such as "Alice in Wonderland" and "Peter Pan".
+
+The movie features two stories.
+
+The first story, "Bongo", is hosted by Jiminy Cricket and narrated by Dinah Shore. Based on the tale "Little Bear Bongo" by Sinclair Lewis, "Bongo" tells the story of a circus bear cub named Bongo who longs for freedom from captivity. Bongo escapes the circus and eventually forms a romantic relationship with a female bear cub named Lulubelle in the wild, realizing that he must prove himself in order to earn Lulubelle as his mate.
+
+The second story, "Mickey and the Beanstalk", is hosted by Edgar Bergen and Sterling Holloway and is a retelling of "Jack and the Beanstalk" featuring Mickey, Donald, and Goofy as three pheasants who discover the temperamental Willie the Giant's castle in the sky through the use of some magic beans. They must battle the greedy but lovable giant in order to restore peace to their valley. "Mickey and the Beanstalk" was the last time Walt Disney voiced Mickey Mouse, because he was too busy on other projects to continue voicing the famous character. Disney replaced himself with sound effects artist Jimmy MacDonald."
+
+Fun and Fancy Free" received mostly positive reception. Rotten Tomatoes said that the movie has a 71% approval rating based on 7 reviews, with an average score of 6/10. The site's consensus reads, "Though it doesn't quite live up to its title, "Fun and Fancy Free" has its moments, and it's a rare opportunity to see Mickey, Donald, and Goofy together.""
+
+Fun and Fancy Free" was first released on VHS in 1982. It was re-released on VHS and LaserDisc in 1997 as part of the Walt Disney Masterpiece Collection. It made its DVD debut in 2000 as part of the Walt Disney Gold Classic Collection. The movie was released in a 2-Movie collection Blu-ray with "The Adventures of Ichabod and Mr. Toad" on August 12, 2014.
+
+Melody TimeMelody Time is the 10th animated movie in the Disney animated features canon, produced by Walt Disney Productions and first released to theatres by RKO Radio Pictures on May 27, 1948. Melody Time was first released on home video on June 2, 1998, under the Walt Disney Masterpiece Collection title. Its next, and so far last, release was on June 6, 2000 on DVD under the Walt Disney Gold Classic Collection title.
+
+AntimetaboleAn antimetabole is the identical or near repetition of words in one phrase or clause, in reverse order in the next phrase or clause. For example, US President John F. Kennedy used an antimetabole in this famous statement: "Ask not what your country can do for you; ask what you can do for your country".
+
+Karachi DivisionKarachi Division () is an administrative division of the Sindh Province of Pakistan.
+
+The Karachi Division was abolished in 2000 and five districts of Karachi were merged in City District Karachi.
+
+On 11 July 2011, Sindh Government restored again 5 districts of Karachi division.
+
+In November 2013, a new district (6th), Korangi was formed by splitting District Karachi East.
+
+Santa Margarita RiverThe Santa Margarita River is a river in southern California, between Los Angeles and San Diego. It is about long. It begins in the Santa Ana Mountains and flows west to the Pacific Ocean, at the Gulf of Santa Catalina.
+
+Ray ComfortRay Comfort (born December 5, 1949) is a New Zealand-born American Christian minister and evangelist of Jewish descent. He started Living Waters Publications and "The Way of the Master", with Kirk Cameron, and has written many books.
+
+Flaming Gorge DamThe Flaming Gorge Dam is a concrete-arch dam on the Green River in Utah, in the United States. Built in 1958-1964, the dam is tall, long, and thick. It is one of the biggest dams in the United States. Its reservoir, the Flaming Gorge Reservoir, is about long, and covers 42,000 acres (170 square kilometers). The dam was built for water storage and hydroelectric power, and it produces about 152 megawatts of electricity.
+
+Salton SeaThe Salton Sea is a large inland lake in the United States state of California. There are no rivers which flow out of it (making it an endorheic lake), so it is very salty. It is approximately long from north to south, and wide from east to west. It is well below sea level, with its surface elevation at , and its deepest part is deep. The New River and Alamo River flow in from the south, while the Whitewater River flows in from the north. It was created in 1905, when heavy rain flooded the Colorado River and caused it to flow into the basin that now holds the Salton Sea.
+
+Endorheic basin

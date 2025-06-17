@@ -1,0 +1,207 @@
+In computer hypertext, a fragment identifier is a short string of characters that refers to a resource that is subordinate to another, primary resource.
+
+In computer interface design, a pie menu (also known as a radial menu) is a circular context menu where selection depends on direction.
+
+In computer interface design, a ribbon is a graphical control element in the form of a set of toolbars placed on several tabs.
+
+In computer interface design, a toolbar (originally known as ribbon) is a graphical control element on which on-screen buttons, icons, menus, or other input or output elements are placed.
+
+In computerized accounting systems with computable quantity accounting, the accounts can have a quantity measure definition.
+
+In computer jargon, a killer poke is a method of inducing physical hardware damage on a machine or its peripherals by the insertion of invalid values, via, for example, BASIC's POKE command, into a memory-mapped control register.
+
+In computer languages, the term pre-declared refers to built-in information, encodings or tools that are available to a programmer, often in the form of entities, variables, objects, functions or instructions.
+
+In computer log management and intelligence, log analysis (or system and network log analysis) is an art and science seeking to make sense out of computer-generated records (also called log or audit trail records).
+
+In computer magazines, VPN services are typically judged on connection speeds; privacy protection, including privacy at signup and grade of encryption; server count and locations, interface usability, and cost.
+
+In computer-mediated environments, interpersonal relationship development may require more time to develop than traditional face-to-face (FtF) relationships.
+
+In computer music and professional audio creation, a DirectX plugin is a software processing component that can be loaded as a plugin into host applications to allow real-time processing, audio effects, mixing audio or act as virtual synthesizers.
+
+In computer network engineering, an Internet Standard is a normative specification of a technology or methodology applicable to the Internet.
+
+In computer networking, a failure domain encompasses a section of a network that is negatively affected when a critical device or network service experiences problems.
+
+In computer networking, a Fiber Channel frame is the frame of the Fiber Channel protocol.
+
+In computer networking, a firewall pinhole is a port that is not protected by a firewall to allow a particular application to gain access to a service on a host in the network protected by the firewall.
+
+In computer networking, a hop is one portion of the path between source and destination.
+
+In computer networking, a host model is an option of designing the TCP/IP stack of a networking operating system like Microsoft Windows or Linux.
+
+In computer networking, a hostname (archaically nodename) is a label that is assigned to a device connected to a computer network and that is used to identify the device in various forms of electronic communication, such as the World Wide Web.
+
+In computer networking, a media access control attack or MAC flooding is a technique employed to compromise the security of network switches.
+
+In computer networking, a minimal pause may be required between network packets or network frames.
+
+In computer networking, a mouse flow is a short (in total bytes) flow set up by a TCP (or other protocol) flow measured over a network link.
+
+In computer networking and computer architecture, a northbound interface of a component is an interface that conceptualizes the lower level details (e.
+
+g., data or functions) used by, or in, the component.
+
+In computer networking and databases, the three-phase commit protocol (3PC) is a distributed algorithm which lets all nodes in a distributed system agree to commit a transaction.
+
+In computer networking and telecommunication, collision-avoidance methods try to avoid resource contention by attempting to avoid simultaneous attempts to access the same resource.
+
+In computer networking and telecommunications, a pseudowire (or pseudo-wire) is an emulation of a point-to-point connection over a packet-switching network (PSN).
+
+In computer networking and telecommunications, a pseudowire (PW) is an emulation of a native service over a packet switched network (PSN).
+
+In computer networking and telecommunications, a switched communication network is a communication network which uses switching for connection of two non-adjacent nodes.
+
+In computer networking and telecommunications, route flapping occurs when a router alternately advertises a destination network via one route then another (or as unavailable, and then available again) in quick sequence.
+
+In computer networking and telecommunications, TDM over IP (TDMoIP) is the emulation of time-division multiplexing (TDM) over a packet switched network (PSN).
+
+In computer networking, an elephant flow is an extremely large (in total bytes) continuous flow set up by a TCP (or other protocol) flow measured over a network link.
+
+In computer networking, a network service is an application running at the network application layer and above, that provides data storage, manipulation, presentation, communication or other capability which is often implemented using a client-server or peer-to-peer architecture based on application layer network protocols.
+
+In computer networking, a packet drop attack or blackhole attack is a type of denial-of-service attack in which a router that is supposed to relay packets instead discards them.
+
+In computer networking, a routing domain is a collection of networked systems that operate common routing protocols and are under the control of a single administration.
+
+In computer networking a routing table, or routing information base (RIB), is a data table stored in a router or a networked computer that lists the routes to particular network destinations, and in some cases, metrics (distances) associated with those routes.
+
+In computer networking, a softwire protocol is a type of tunneling protocol that creates a virtual "wire" that transparently encapsulates another protocol as if it was an anonymous point-to-point low-level link.
+
+In computer networking, a supplicant is an entity at one end of a point-to-point LAN segment that seeks to be authenticated by an authenticator attached to the other end of that link.
+
+In computer networking, a unicast flood is the potentially unintentional behavior of a switch treating a unicast packet as a broadcast packet; a packet destined for one host is flooded or transmitted out of all the ports of a switch.
+
+In computer networking, a virtual storage area network (VSAN) is a collection of ports from a set of connected Fiber Channel switches, that form a virtual fabric.
+
+In computer networking, a wildcard certificate is a public key certificate which can be used with multiple subdomains of a domain.
+
+In computer networking, a wireless access point (WAP), or more generally just access point (AP), is a networking hardware device that allows a Wi-Fi device to connect to a wired network.
+
+In computer networking, a wire protocol refers to a way of getting data from point to point: A wire protocol is needed if more than one application has to interoperate.
+
+In computer networking, carrier sense multiple access with collision avoidance and resolution using priorities (CSMA/CARP) is a channel access method.
+
+In computer networking, CDP spoofing is a technique employed to compromise the operation of network devices that use Cisco Discovery Protocol for discovering neighboring devices.
+
+In computer networking, cell relay refers to a method of statistically multiplexing small fixed-length packets, called "cells", to transport data between computers or kinds of network equipment.
+
+In computer networking, Cisco ASA 5500 Series Adaptive Security Appliances, or simply Cisco ASA, is Cisco's line of network security devices introduced in May 2005, that succeeded three existing lines of popular Cisco products: Cisco PIX, which provided firewall and network address translation (NAT) functions ended sale on 28 July 2008.
+
+In computer networking, cut-through switching, also called cut-through forwarding is a method for packet switching systems, wherein the switch starts forwarding a frame (or packet) before the whole frame has been received, normally as soon as the destination address is processed.
+
+In computer networking, DECserver initially referred to a highly successful family of asynchronous console server / terminal server / print server products introduced by Digital Equipment Corporation (DEC) and later referred to a class of UNIX-variant application and file server products based upon the MIPS processor.
+
+In computer networking, delay-gradient congestion control refers to a class of congestion control algorithms, which react to the differences in round-trip delay time (RTT), as opposed to classical congestion control methods, which react to packet loss or an RTT threshold being exceeded.
+
+In computer networking, DHCP snooping is a series of techniques applied to improve the security of a DHCP infrastructure.
+
+In computer networking, egress filtering is the practice of monitoring and potentially restricting the flow of information outbound from one network to another.
+
+In computer networking, encapsulation is a method of designing modular communication protocols in which logically separate functions in the network are abstracted from their underlying structures by inclusion or information hiding within higher level objects.
+
+In computer networking, Gigabit Ethernet (GbE or 1 GigE) is a term describing various technologies for transmitting Ethernet frames at a rate of a gigabit per second (1,000,000,000 bits per second), as defined by the IEEE 802.
+
+3-2008 standard.
+
+In computer networking, Identity Web Services Framework is a protocol stack that profiles WS-Security, WS-Addressing, SAML and adds new protocol specifications of its own, such as the Discovery Service, for open market per user service discovery, and the People Service for delegation and social networking.
+
+In computer networking, ingress filtering is a technique used to ensure that incoming packets are actually from the networks from which they claim to originate.
+
+In computer networking, Internet Protocol Control Protocol (IPCP) is a Network Control Protocol (NCP) for establishing and configuring Internet Protocol over a Point-to-Point Protocol link.
+
+In computer networking, Internet Protocol Version 4 addresses (IPv4 addresses) are commonly written using the quad-dotted notation of four decimal integers, ranging from 0 to 255 each.
+
+In computer networking, IntServ or integrated services is an architecture that specifies the elements to guarantee quality of service (QoS) on networks.
+
+In computer networking, IP address spoofing or IP spoofing is the creation of Internet Protocol (IP) packets with a false source IP address, for the purpose of hiding the identity of the sender or impersonating another computing system.
+
+In computer networking, it is typically used for communications between network-attached printers, computers and servers, for example by HP in their JetDirect print servers.
+
+In computer networking, it refers to processes used to obtain the assigned IP addresses needed to communicate with devices whose host or domain names are known.
+
+In computer networking, large send offload (LSO) is a technique for increasing egress throughput of high-bandwidth network connections by reducing CPU overhead.
+
+In computer networking, LibVNCServer and LibVNCClient are cross-platform C libraries that enable one to easily implement VNC server or client functionality in an application.
+
+In computer networking, localhost is a hostname that means this computer.
+
+In computer networking, Media Access Control MAC Filtering (or EUI filtering, or layer 2 address filtering) refers to a security access control method whereby the 48-bit address assigned to each network card is used to determine access to the network.
+
+In computer networking, micro-bursting is a behavior seen on fast packet-switched networks, where rapid bursts of data packets are sent in quick succession, leading to periods of full line-rate transmission that can overflow packet buffers of the network stack, both in network endpoints and routers and switches inside the network.
+
+In computer networking, MILNET (Military Network) was the name given to the part of the ARPANET internetwork designated for unclassified United States Department of Defense traffic.
+
+In computer networking, multicast is group communication where data transmission is addressed to a group of destination computers simultaneously.
+
+In computer networking, multiple-channel architecture (MCA) is the design of a wireless network in such a way that the client sees multiple points of access to the wireless network.
+
+In computer networking, network traffic control is the process of managing, controlling or reducing the network traffic, particularly Internet bandwidth, e.
+
+g. by the network scheduler.
+
+In computer networking, out-of-band data is the data transferred through a stream that is independent from the main in-band data stream.
+
+In computer networking, out-of-order delivery is the delivery of data packets in a different order from which they were sent.
+
+In computer networking, packet delay variation (PDV) is the difference in end-to-end one-way delay between selected packets in a flow with any lost packets being ignored.
+
+In computer networking, peering is a voluntary interconnection of administratively separate Internet networks for the purpose of exchanging traffic between the users of each network.
+
+In computer networking, per-hop behavior (PHB) is a term used in differentiated services (DiffServ) or multiprotocol label switching (MPLS).
+
+In computer networking, Photuris is a session key management protocol defined in RFC 2522.
+
+In computer networking, Point-to-Point Protocol (PPP) is a data link layer (layer 2) communications protocol used to establish a direct connection between two nodes.
+
+In computer networking, policy-based routing (PBR) is a technique used to make routing decisions based on policies set by the network administrator.
+
+In computer networking, port forwarding or port mapping is an application of network address translation (NAT) that redirects a communication request from one address and port number combination to another while the packets are traversing a network gateway, such as a router or firewall.
+
+In computer networking, port knocking is a method of externally opening ports on a firewall by generating a connection attempt on a set of prespecified closed ports.
+
+In computer networking, promiscuous traffic, or cross-talking, describes situations where a receiver configured to receive a particular data stream receives that data stream and others.
+
+In computer networking, Rate Based Satellite Control Protocol (RBSCP) is a tunneling method proposed by Cisco to improve the performance of satellite network links with high latency and error rates.
+
+In computer networking, single-channel architecture (SCA) is the design of a wireless network in such a way that the wireless client sees a single point of access to the network.
+
+In computer networking, source routing, also called path addressing, allows a sender of a packet to partially or completely specify the route the packet takes through the network.
+
+In computer networking, specifically Internet Relay Chat (IRC), netsplit is the disconnection of a given node from the previously established network or between two nodes.
+
+In computer networking, split-horizon DNS, split-view DNS, split-brain DNS, or split DNS is the facility of a Domain Name System (DNS) implementation to provide different sets of DNS information, usually selected by the source address of the DNS request.
+
+In computer networking, split-horizon route advertisement is a method of preventing routing loops in distance-vector routing protocols by prohibiting a router from advertising a route back onto the interface from which it was learned.
+
+In computer networking, Structured Stream Transport (SST) is an experimental transport protocol that provides an ordered, reliable byte stream abstraction similar to TCP's, but enhances and optimizes stream management to permit applications to use streams in a much more fine-grained fashion than is feasible with TCP streams.
+
+In computer networking, telecommunication and information theory, broadcasting is a method of transferring a message to all recipients simultaneously.
+
+In computer networking, Teredo is a transition technology that gives full IPv6 connectivity for IPv6-capable hosts that are on the IPv4 Internet but have no native connection to an IPv6 network.
+
+In computer networking, the Application Session Controller (ASC) network element resides at the application layer and sits between the application layer and the core network to provide and manage connectivity to the evolving telecom network.
+
+In computer networking, the contention ratio is the ratio of the potential maximum demand to the actual bandwidth.
+
+In computer networking, the default route is a setting on a computer that defines the packet forwarding rule to use when no specific route can be determined for a given Internet Protocol (IP) destination address.
+
+In computer networking, the ICMP Internet Router Discovery Protocol (IRDP), also called the Internet Router Discovery Protocol, is a protocol for computer hosts to discover the presence and location of routers on their IPv4 local area network.
+
+In computer networking, the Link Control Protocol (LCP) forms part of the Point-to-Point Protocol (PPP), within the family of Internet protocols.
+
+In computer networking, the link layer is the lowest layer in the Internet Protocol Suite, the networking architecture of the Internet.
+
+In computer networking, the management plane of a networking device is the element of a system that configures, monitors, and provides management, monitoring and configuration services to, all layers of the network stack and other parts of the system.
+
+In computer networking, the maximum transmission unit (MTU) is the size of the largest protocol data unit (PDU) that can be communicated in a single network layer transaction.
+
+In computer networking, the Message Session Relay Protocol (MSRP) is a protocol for transmitting a series of related instant messages in the context of a communications session.
+
+In computer networking, the Name/Finger protocol and the Finger user information protocol are simple network protocols for the exchange of human-oriented status and user information.
+
+In computer networking, the Network Access Identifier (NAI) is a standard way of identifying users who request access to a network.
+
+In computer networking, the Reliable User Datagram Protocol (RUDP) is a transport layer protocol designed at Bell Labs for the Plan 9 operating system.

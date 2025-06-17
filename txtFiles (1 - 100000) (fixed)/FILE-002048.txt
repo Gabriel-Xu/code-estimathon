@@ -1,0 +1,185 @@
+The polar area diagram is used to plot cyclic phenomena (e.
+
+g., count of deaths by month).
+
+For example, if the count of deaths in each month for a year are to be plotted then there will be 12 sectors (one per month) all with the same angle of 30 degrees each. The radius of each sector would be proportional to the square root of the death count for the month, so the area of a sector represents the number of deaths in a month.
+
+If the death count in each month is subdivided by cause of death, it is possible to make multiple comparisons on one diagram, as is seen in the polar area diagram used by Nightingale.
+
+Pie charts are not the most accurate way to show data: that has been known for some time. Pie charts should be used only when the sum of all categories is meaningful, for example if they represent proportions.
+
+Pie charts are rare in scientific writing. They are more common in business and economics. One reason for this may be that it is more difficult to compare the size of items in a chart when area is used instead of length. Stevens' power law says that it is harder to see small differences using visual area than when using length. This means that length is a better scale to use, because differences can be seen more easily.
+
+This can be shown with the image to the right. The pie chart and the bar chart have the same data. Most people have difficulty putting the slices in the pie chart in order by size from biggest to smallest. When using the bar chart, it is much easier to tell the difference between bars that are very similar in size.
+
+Biographical Directory of the United States CongressThe Biographical Directory of the United States Congress is a biographical dictionary of all present and former members of the United States Congress. It also includes all members of the Continental Congress. It also includes delegates from territories and the District of Columbia and Resident Commissioners from the Philippines and Puerto Rico.
+
+TeapotA teapot is a container used to mix tea leaves with boiling water to make tea. Usually the tea leaves are in a tea bag when the tea leaves are put into the water. The tea can be poured from the teapot into cups.
+
+Le MondeLe Monde (English: "The World") is a French daily evening newspaper. It is among the newspapers most read in France. Its political opinion is slightly left-wing. In many countries outside France, this is the only French newspaper available.
+
+The newspaper should not be confused with the monthly publication "Le Monde diplomatique". "Le Monde" has 51% ownership of the monthly. Despite this, the monthly has a different editorial staff."
+
+Le Monde" was founded by Hubert Beuve-Méry. This was at the request of General Charles de Gaulle after the German army was driven from Paris during World War II. The newspaper took over the format of "Le Temps", because the reputation of the latter had suffered during the Occupation of France. Beuve-Méry reportedly asked for total editorial independence as the condition for his taking on the project. Its first edition appeared on December 19, 1944. "Le Monde" has been available on the Internet since December 19, 1995. It is the main publication of Groupe Le Monde.
+
+In 2004, "Le Monde" had a circulation of 371,803 copies.
+
+Begging the questionBegging the question requires two or more ideas. Each of these ideas may or may not be true. The speaker of these ideas tries to show that one idea is true by saying a second idea proves it, but the second idea is true only if the first idea is true already.
+
+Begging the question is commonly known as circular reasoning, though they are not exactly the same.
+
+Begging the question is a fallacy."
+
+This begs the question" has recently been used to mean "this raises the question." This usage is often criticized as inappropriate.
+
+Ciwan HacoCiwan Haco (born 1957) is a Kurdish singer. He was born near Qamishlo in Syria. After finishing high school, he left for Germany in order to continue his studies. He studied music at the University of Bochum for three years. After university, he started his career as a singer. He combined Kurdish folk music with western style pop music, rock, blues, and jazz. He has released 14 albums. He become well known on the Kurdish music scene after he sang for more than 200.
+
+000 people in Batman, south Turkey, in 2003. Haco lives in Sweden with his wife. He has two children, Lorin, 7, and Rosa, 5.
+
+Tata YoungAmita Marie "Tata" Young (born December 14, 1980 in Bangkok) is a Thai singer, model and actress, partly from American descent.
+
+She became a singer when she was 15. Her first album was called "Amita Tata Young" and it was very successful. It sold more than a million copies in less than 5 months. In 2004, she made an English album called "I Believe". It sold many copies and made her famous in other countries as well.
+
+In 2006 she made her second English album called "Temperature Rising", which made her even more popular, especially in Asia. In 2008 Tata Young released a Thai language album called "One Love".
+
+Her most recent album "Ready for Love" was released in 2009.
+
+TripTrip has several meanings:Trip may also be:PracticePractice or practise (a verb form in British English) is the act of repeating a behavior over and over, or doing an activity again and again.
+
+It is a way to learn things faster, by repeating them. For example, sport teams practice to prepare for real games, or a musician practices for some hours every day, so he can play perfectly in his concert.
+
+A practice can also mean the way something is done, like in "medical practice".
+
+Stevens' power lawStevens' power law is a proposed relationship between the magnitude of a physical stimulus and the intensity or strength that people feel.
+
+Most people think that it describes a wider range of sensations than Weber-Fechner law. But critics argue that the validity of the law is not sure.
+
+The theory is named after psychophysicist Stanley Smith Stevens (1906–1973). Although the idea of a power law had been suggested by 19th century researchers, Stevens is credited with reviving the law and publishing a body of psychophysical data to support it in 1956.
+
+The general form of the law iswhere formula_2 is the magnitude of the physical stimulus, formula_3 is the psychophysical function capturing sensation (the subjective size of the stimulus), formula_4 is an exponent that depends on the type of stimulation and formula_5 is a proportionality constant that depends on the type of stimulation and the units used.
+
+The table to the right lists the exponents reported by Stevens.
+
+StimulusA Stimulus (plural stimuli) is something which causes a response. It is used in various bodies:Logic gateA logic gate is an electronic component that can be used to conduct electricity based on a rule. The output of the gate is the result of applying this rule to one or more "inputs". These inputs may be two wires or the output of other logic gates.
+
+Logic gates are digital components. They normally work at only two levels of voltage, a positive level and zero level. Commonly they work based on two states: "On" and "Off". In the On state, voltage is positive. In the Off state, the voltage is at zero. The On state usually uses a voltage in the range of 3.
+
+5 to 5 volts. This range can be lower for some uses.
+
+Logic gates compare the state at their inputs to decide what the state at their output should be. A logic gate is "on" or active when its rules are correctly met. At this time, electricity is flowing through the gate and the voltage at its output is at the level of its On state.
+
+Logic gates are electronic versions of Boolean logic. Truth tables will tell you what the output will be, depending on the inputs.
+
+AND gates have two inputs. The output of an AND gate is on only if both inputs are on. If at least one of the inputs is off, the output will be off.
+
+Using the image at the right, if "A" and "B" are both in an On state, the output (out) will be an On state. If either "A" or "B" is in an Off state, the output will also be in an Off state. "A" and "B" must be On for the output to be On.
+
+OR gates have two inputs. The output of an OR gate will be on if at least one of the inputs are on. If both inputs are off, the output will be off.
+
+Using the image at the right, if either "A" or "B" is On, the output ("out") will also be On. If both "A" and "B" are Off, the output will be Off.
+
+The NOT logic gate has only one input. If the input is On then the output will be Off. In other words, the NOT logic gate changes the signal from On to Off or from Off to On. It is sometimes called an inverter.
+
+XOR ("exclusive or") gates have two inputs. The output of a XOR gate will be true only if the two inputs are different from each other. If both inputs are the same, the output will be off.
+
+NAND means not both. It is called NAND because it means "not and." This means that it will always output true unless both inputs are on.
+
+XNOR means "not exclusive or." This means that it will only output true if both inputs are the same. It is the opposite of a XOR logic gate.
+
+Plaza Mayor of MadridThe Plaza Mayor of Madrid was built in the 1400's on the same location as the old Plaza del Arrabal (square outside the walls). It was used as a market in the Middle Ages. It is also called the Plaza de la Constitución.
+
+In the 1560s, King Philip II and his architect, Juan de Herrera planned to change it into a proper square for the Courts. The first part to be finished was the Casa de la Panaderia (bakery) in 1590. Gómez de Mora gave it the rectangular form. The ground is still cobbled. It finally opened in 1620 under the rule of King Philip III.
+
+The statue in the middle is King Philip III on horseback made by Juan de Bologna. The statue was moved from the Casa de Campo to the Plaza Mayor in 1848.
+
+In the 1700's, it was used for the crowning of kings, bullfights, carnivals and even executions. People watched from the balconies around the square.
+
+The Plaza has been damaged by three fires. Juan de Villanova had the plaza built again in 1853 and that is what is seen today. People can enter the plaza through nine different arches.
+
+Gran VíaThe Gran Vía (The Great Way) is one of the most important shopping areas in Madrid, Spain. It also has hotels and large movie theaters.
+
+Many of the buildings on the Gran Vía are decorated with fancy sculptures. One of the more impressive buildings on the Gran Vía is the Edificio Metropolis. It was built in 1907 by Jules and Raymond Février. It has a statue of the winged Roman goddess, Victoria, on the top. Madrid's first skyscraper, Telefonica's Head Office, is also on the Gran Vía.
+
+The Gran Vía was planned in the 1850s. They did not start building the road until 1904 and finished it in 1929. People laughed at the plan because it took so long to get started. As a joke, they called it the 'gran vía' or 'great road'.
+
+Fountain of CibelesCibeles is the name given to the marble fountain found in the Plaza de Cibeles (Cybele's Square) in Madrid, Spain. It is on a very busy road crossing. The statue was made by Ventura Rodriguez. King Carlos III asked to have it made in 1716. It has changed several times. It was moved to the central position in 1895.
+
+The lady is the Goddess of Fertility. She sits on a chariot pulled by lions. The lions' names are Hippomenes and Atalanta. They were people that the goddess turned into lions because they ruined her temple. The lions were made by Robert Michel.
+
+Puerta del SolThe Puerta del Sol ("Sun Gate") is known as 'Spain's belly button'. In the 1400s, it was the gate or entrance of the east side of the city. Since the sun rises in the east, it got the name Puerta del Sol. It is now the center of 'kilometer 0' of Madrid. All roads are measured from this point.
+
+It was rebuilt in 1854. The statue of King Carlos III is in the middle of the square. The red brick building there is the former post office. The famous Oso y el Madroño (bear eating madroños) statue can also be found here. The Puerta del Sol is also famous for its New Year's celebration which has been broadcast on television since December 31, 1962.
+
+Royal Palace of MadridThe Palacio Real de Madrid (Royal Palace of Madrid) is the official home of the King of Spain. It is located in Madrid, Spain. It is one of the largest palaces in western Europe.
+
+King Felipe V had the palace built to replace the Alcazar that was burned down. It is made of limestone and granite. It was supposed to look a little like the Palace of Versailles in France. Juan Bautista Sachetti was in charge of building the palace. They started to build it in 1738. Carlos III moved into the palace in 1764. It took a hundred years to decorate all the rooms.
+
+Spanish kings lived there until 1931 when King Alfonso XIII was forced to leave Spain. The Royal Palace is still used for special ceremonies. Letizia was supposed to walk on a red carpet from the Royal Palace to the cathedral for the wedding with Prince Felipe but it rained so she was taken in car.
+
+Fifty of the rooms in the palace are open for public visits. Visitors enter the palace from the Plaza de la Armería. Some of the rooms that can be seen are: the 'porcelain' room, 'throne' room and 'clock' room. There is a royal army museum in the palace.
+
+The Almudena Cathedral is nearby the palace.
+
+The Royal Alcazar of Madrid was originally on the site.
+
+Puerta de AlcaláThe Puerta de Alcalá (Alcalá Gate) is a monument in the Plaza de la Independencia ("Independence Square") in Madrid, Spain. Francisco Sabatini created the monument in 1778 for Carlos III when he arrived in Madrid. It is the gateway to the Court. It is built of granite and limestone. It has three big arches that have lion's heads on top made by Robert Michel. There are two smaller arches on the sides. At the very top of the monument, there are angels, trophies and the coat of arms which were all made by Francisco Gutiérrez.
+
+PlazaPlaza is a Spanish word related to "field" which describes an open public space in a city, such as a city square. In Spanish America, the plaza mayor of each city had three things: the cathedral, the "cabildo" or administrative center, and the "audiencia" or law court. The plaza might be large enough to serve as a military parade ground. At times of crisis or fiesta, it was a space where many people could be together at once. Similar to Italian piazzas, plazas are still a center of community life, like the market-place.
+
+Most colonial cities in Spanish America were planned around a square "plaza de armas", where troops could gather.
+
+A "plaza de toros" is a bullring.
+
+The first shopping center in the United States, opened in Kansas City, Missouri in 1922, was called "Country Club Plaza" and had Spanish-style architectural details. More recently, "plaza" has been used to describe a shopping center, similar to a shopping mall. Calling a shopping center a "plaza" is to give the idea of a center of cultural life.
+
+Transduction (physiology)In physiology, transduction is the change of a stimulus from one form to another.
+
+Transduction in the nervous system means synaptic events where an electrical signal is converted into a chemical one by the release of neurotransmitters.
+
+In sensory transduction a chemical or physical stimulus is transduced by sensory receptors into an electrical signal.
+
+For example, in the visual system, sensory cells called rod and cone cells in the retina change the physical energy of light signals into electrical impulses that travel to the brain. The light causes a change in a protein called rhodopsin.
+
+In mammals, more light hitting the receptor results in the transduction of a signal into fewer electrical impulses. In invertebrates, more rhodopsin activation results in increased frequency of neuron firing.
+
+ResourceA Resource is something that can be used for a purpose. For example, tools and materials are resources. There are many kinds of resource:Sport Club Corinthians PaulistaS.
+
+C. Corinthians Paulista is a football club which plays in Brazil.
+
+Football (soccer) had already established itself as the popular new sport in Brazil and when the dry season came and the fields dried out they were soon filled with lovers of the new game. São Paulo's sporting elite had formed several clubs,Germânia, Paulistano and Campos Elíseos among them, but access to the game was still largely restricted to the city's well off.
+
+So a group of working class fans - painter and decorators Joaquim Ambrósio, Antônio Pereira and César Nunes; cobbler Rafael Perrone; driver Anselmo Correia; foundry worker; Alexandre Magnani: cook Salvador Lopomo; labourer João da Silva and tailor Antônio Nunes - decided to start their own team. Bataglia decided to get involved he was named the club's first president.
+
+The new club needed a name. Joaquim Ambrósio suggested they call themselves after the Corinthians Casuals Football Club, the famous English team that was then on tour in Brazil. The press and fans in Brazil who were following the tour shortened the English club's name to Corinthian's Team and so the founders did away with the aopstrophe and the club won its elegant name Corinthians.
+
+Corinthians is also known as "Big Team", "Coringão", "The Musketeer" and "Champion of the Champions".
+
+Finally, the club picked colours. The club's first strip was beige with black trim and had the distinctive letters "C" and "P" for Corinthians Paulista. However, when the strips were washed, the black bled into the beige. The directors could not afford to keep buying new strips every time the colours ran so they decided to change their colours. They swapped the beige for white. In present-day, the colours of Corinthians are Black and White.
+
+The name of Corinthians´s stadium is Arena Corinthians, also known as "Itaquerão" and with a capacity crowd of 68,000.
+
+The team from Varzea Paulista. Playing away from home in their first match, Corinthians were expected to lose heavily but they showed they were not there just to make up the numbers and they battled hard before narrowly going down by a goal to nil.
+
+The defeat turned out to be a one-off. Four days later, Corinthians proved they would be a name to be reckoned with and beat Estrela Polar 2-0. The honour of scoring the club's first goal went to striker Luís Fabi, who wrote himself into the history books by grabbing the opener. They followed the match with an unbeaten streak that lasted two years.
+
+They then won 1-0 away at Minas Gerais and then beat São Paulo do Bexiga 4-0 at home. They had secured their place in the big league.
+
+Things got even better the following year and in 1914 a dynasty took hold. In just their second Paulista Championship, Corinthians destroyed the competition and won all 10 games, scoring 39 times in the process. Neco ended the tournament's top goalscorer with 12 goals.
+
+Corinthians picked up yet another Paulista Championship in 1922 but this victory had something special about it. The winner took the title not only of Paulista Champions but also of Centenary Champions, a title they would hold for at least the next 100 years.
+
+By this time, winning the Paulista was becoming routine. The team won the league three years in a row in 1922, 1923 and 1924 under the command of Neco, the club's first great idol, and would do so again in 1928, 1929 and 1930.
+
+The great and only rival of Corinthians is Sociedade Esportiva Palmeiras. This is the most derbie and traditional rivalry in Brazilian football. The fans of Corinthians called Palmeiras as a "pig" and the fans of palmeiras called Corinthians as a "skunk".
+
+However, and between 1931 and 1934 a series of bad results left the team trailing. Corinthians lost to all their big rivals of the time and failed to make an impression in the league, never finishing higher than fourth.
+
+The turnaround came in 1937, and for the rest of the decade there was only one team in the state. Corinthians won the Paulista Championship in 1937, 1938 and 1939 to become the first team ever to win three back-to-back titles three times. Even today, no other team has managed to equal such a feat. The man who led the way was centre-forward Teleco. One of the club's greatest ever goalscorers, he topped the scoring charts in 1937 and 1939. The former year he scored almost half the club's goals, while in the latter he got an amazing 60 percent.
+
+The 100-goal attack made history not only for the club but also for the league. In 1951, a front line made up of Carbone, Cláudio, Luizinho, Baltazar and Mário scored 103 goals in 30 games in the Paulista Championship, an average of 3.
+
+43 per game. The title was theirs, as was the trophy for top goalscorer, which went to Carbone, who got 30 of the team's goals.
+
+In the years that followed, more titles were added to the growing trophy room at Parque São Jorge. In 1952, the "Timão" won the Paulista Championship for the second successive year, with Baltazar finishing top scorer. In 1953, they took the Rio-São Paulo title and the Little World Cup - the club's first international title - and in 1954 they walked off with another Rio-São Paulo as well as the Paulista do IV centenário de São Paulo. In 1956 and 1957, they won the "Invencible Trophy", the cup given to the team that went the longest number of games undefeated.
+
+In 1976, Corinthians almost won their first Brazilian League title and the club's fans played a starring role in one of the most memorable moments in footballing history. Corinthians were drawn against Fluminense in the semi-finals of the league play offs at the Maracanã. More than 70,000 Corinthians fans made the six-hour trip up the motorway to Rio de Janeiro in a massive convoy that was christened the "Corinthians Invasion."

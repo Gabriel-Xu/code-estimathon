@@ -1,0 +1,53 @@
+For example, one retail till system uses a Flash drive to record details of all of the sales for that day. The drive is used as a backup medium. At the close of business each night, the drive is inserted, and a database backup is saved to the drive. The drive is removed at night and taken offsite.
+
+USB flash drives have replaced a number of other storage technologies, because they are easier to use. The replaced media include:This photograph shows both sides of the printed circuit board (PCB) inside a typical flash drive (circa 2004). The flash drive in this photograph is a 64 MB USB 2.
+
+0 device with its plastic case removed.
+
+One end of the device is fitted with a single type-A USB connector. Inside the plastic casing is a small, highly cost-engineered, printed circuit board. Mounted on this board is some simple power circuitry and a small number of surface-mounted integrated circuits (ICs). Typically, one of these ICs provides an interface to the USB port, another drives the onboard memory, and the other is the flash memory.
+
+Most computers support USB.
+
+Flash drives are quite . They are not damaged by scratches and dust. This makes them a good choice to move data from one place to another.
+
+Some flash drives can keep the data, even if they are put in water. Some data may even survive the washing machine, but this is not a designed feature, and people should not rely on it. Leaving the flash drive out to dry completely before allowing current to run through it has been known to result in a working drive with no future problems.
+
+Channel Five's "Gadget Show" cooked a flash drive with propane; froze it with dry ice; submerged it in various acidic liquids; ran over it with a jeep and fired it against a wall with a mortar. A company specializing in recovering lost data from computer drives then managed to recover all the data on the drive. All data on the other removable storage devices tested, using optical or magnetic technologies, were destroyed.
+
+Flash drives are available in large sizes. Currently at the start of 2020, the largest size publicly available is 2 terabytes. This will increase as the technology gets better.
+
+Flash drives use little power, compared to hard drives and have no moving parts. They are small and easy to carry.
+
+Most modern operating systems can use a flash drive, without the need to install special software. To most operating systems, the flash drive looks like a hard drive. The operating system can use any file system. Some computers can start from a flash drive.
+
+Flash memory has a limited life. Data can only be written to and read from a device a few thousand times. People should keep this in mind when they use a flash drive to run application software or an operating system. To address this, as well as space limitations, some developers have produced special versions of operating systems (such as Linux in Live USB) or commonplace applications (such as Mozilla Firefox) designed to run from flash drives.
+
+Flash drives are small and are easily lost or left behind. This can cause problems of data security.
+
+Flash drives can hold a large amount of information and they are used worldwide. Many users store information on them that is personal, or that should be protected. For this reason, more and more flash drives offer biometrics or encryption to control the access to this data. Users can install passwords on to their flash drives so that when a user tries to open it, the computer prompts the user, to enter a password before they can begin using the device. There are a number of free and open source programs which can be used to encrypt data including TrueCrypt, pgpdisk and FreeOTFE. These programs have proved useful in securing data on flash drives.
+
+Most USB flash drives are dumb devices that hold data. However, like other storage devices, they can carry computer viruses. Bootable flash drives, like other boot devices, can easily spread them. Some such devices also have a controller chip comparable to an embedded system. In other words, the drive is a fully functional computer, which can transmit data as it wants. There have been cases where controller chips were manipulated, and spread malware.
+
+Some drives with a controller chip encrypt the data, with a secure algorithm, such as AES. In many cases, it was easy to decrypt the data, even without knowing the decryption key, because the implementation was not done properly.
+
+Because of the issues above, and because the use of USB devices is difficult to monitor, many companies no longer allow USB devices.
+
+OstrichThe ostrich ("Struthio camelus") is a large flightless bird that lives in Africa. They are the largest living bird species, and have the biggest eggs of all living birds. Ostriches do not fly, but can run faster than any other bird.
+
+They are ratites, a useful grouping of medium to large flightless birds. Ostriches have the biggest eyes of all land animals.
+
+Ostriches have long legs and a long neck, but they have a small head. Male ostriches have black feathers and female ostriches have gray and brown feathers. Both males and females have white feathers on their wings and tails.
+
+Male ostriches can be 1.
+
+8 - 2.
+
+7 meters / 6 – 9 feet tall, while female ostriches are 1.
+
+7 – 2 meters / 5.
+
+5 - 6.
+
+5 ft tall. They can run with a speed of about 65 kilometers per hour/40 miles per hour.
+
+Ostriches now only live in Africa. They live in open grassland called savanna in the Sahel, and in parts of East Africa and south-west Africa. Some ostriches live in areas of the Sahara desert. There used to be ostriches in Middle East in the 20th century, but these went extinct in 1960 in Jordan.

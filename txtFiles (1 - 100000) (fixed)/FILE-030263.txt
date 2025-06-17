@@ -1,0 +1,299 @@
+Geosciences often involve large volumes of diverse data which have to be processed by computer and graphics intensive applications.
+
+GeoScience Victoria, formerly the Geological Survey of Victoria (GSV) is a government agency responsible for mapping the geology of Victoria, Australia.
+
+Geoscientific Model Development is a peer-reviewed open access scientific journal published by Copernicus Publications on behalf of the European Geosciences Union.
+
+Geoscientist in Training, or GIT is a professional designation from the National Association of State Boards of Geology (ASBOG) and other organizations, used in U.
+
+S. States which regulate the practice of Geology and related earth science fields.
+
+Geoscientist is a monthly magazine produced for the Fellowship of the Geological Society of London.
+
+Geoscientists use these images to better understand core, mantle, and plate tectonic processes.
+
+GeoSciML is intended for use by data portals publishing data for customers in GeoSciML, for interchanging data between organizations that use different database implementations and software/systems environments, and in particular, for use in geoscience web services.
+
+GeoSciML or Geoscience Markup Language is a GML Application Schema that can be used to transfer information about geology, with an emphasis on the "interpreted geology" that is conventionally portrayed on geologic maps.
+
+GEOS closely resembles early versions of the classic Mac OS and includes a graphical word processor (geoWrite) and paint program (geoPaint).
+
+Geosectarianism is a term coined by Kamran Bokhari, one of the world's renowned authorities on the geopolitics of the Middle East and South Asia.
+
+Geosectarianism refers to the main intra-Muslim struggle between the Sunni and Shi'a camps on a regional scale.
+
+GeoServer functions as the reference implementation of the Open Geospatial Consortium Web Feature Service standard, and also implements the Web Map Service, Web Coverage Service and Web Processing Service specifications.
+
+GeoServer is an open-source server written in Java that allows users to share, process and edit geospatial data.
+
+Geoservices is an upstream oilfield services subsidiary of Schlumberger Limited.
+
+Geosesarma hagen is a species of small land-living crabs which is found on Java, Indonesia.
+
+Geosesarma malayanum is a species of small red crab which is found in Malaysia.
+
+GEOS (Graphic Environment Operating System) is a discontinued operating system from Berkeley Softworks (later GeoWorks).
+
+Geosiris aphylla is a species in the Iridaceae family of flowering plants, first described in 1894.
+
+Geosiris aphylla is sometimes called the "earth-iris".
+
+Geosiris is a genus in the Iridaceae family of flowering plants, first described as a genus in 1894.
+
+GeOSIRIS-REDD, a national-level REDD planning tool to assess deforestation, carbon emissions, agricultural revenue and carbon payments.
+
+GEOS is also supported on the Commodore 64 and even the Apple II.
+
+GEOS is an international corporation based in France.
+
+Geosite Travertino della Cava Cappuccini (or Cave Orto di Ballo) is located in Alcamo, in the province of Trapani, in Sicily.
+
+Geositta is a genus of passerine birds in the ovenbird family, Furnariidae.
+
+Geosmin synthase or germacradienol-geosmin synthase designates a class of bifunctional enzymes that catalyze the conversion of farnesyl diphosphate (FPP) to geosmin, a volatile organic compound known for its earthy smell.
+
+Geosmithia is a genus of anamorphic fungi of uncertain familial placement in the order Hypocreales.
+
+GeoSMS is a specification for geotagging SMS messages.
+
+GeoSouthern Energy Corporation is a petroleum and natural gas exploration and production company headquartered in The Woodlands, Texas.
+
+GeoSPARQL is a standard for representation and querying of geospatial linked data for the Semantic Web from the Open Geospatial Consortium (OGC).
+
+Geospatial Enablement can be thought of as the integrated use of Geographic Information, as opposed to using Geographic Information within a geographic and technology-centric environment of something such as a GPS or GIS.
+
+Geospatial Information Agency is mandated by the Presidential Regulation No.
+
+Geospatial Measurement of Air Pollution (GMAP) is the use of mobile measurement systems to gain insight into air pollution emissions, population impacts, and exposure risk management approaches.
+
+Geospatial metadata (also geographic metadata, or simply metadata when used in a geographic context) is a type of metadata that is applicable to objects that have an explicit or implicit geographic extent, i.
+
+e. are associated with some position on the surface of the globe.
+
+Geospatial topology studies the rules concerning the relationships between the points, lines, and polygons that represent the features of a geographic region.
+
+GEOSS aims to produce a global public infrastructure that generates comprehensive, near-real-time environmental data, information and analyzes for a wide range of users.
+
+GEOSS plans a global Earth Observation System and, within this framework, the e-SOTER project addresses the felt need for a global soil and terrain database.
+
+GEOSS seeks to connect the producers of environmental data and decision-support tools with the end users of these products, with the aim of enhancing the relevance of Earth observations to global issues.
+
+GeoSTAC concentrates on agricultural and environmental GIS issues.
+
+Geostachys is a genus of plants in the Zingiberaceae.
+
+GeoSTAC is a set of spatial data and tools accessed through a Geographic Information System.
+
+GeoSTAC runs within the ESRI ArcGIS software platform (ESRI, Redlands, CA) with the ESRI Spatial Analyst extension.
+
+Geostationary Carbon Cycle Observatory (GeoCARB), the first Geostationary Vegetation, Atmospheric Carbon Mission and the second space-based Earth Venture Mission of NASA that is planned to be conducted in joint collaboration with University of Oklahoma, Lockheed Martin Advanced Technology Center in Palo Alto, SES Government Solutions Company in Reston; Colorado State University, and Ames Research Center, Goddard Space Flight Center, and Jet Propulsion Laboratory.
+
+Geostationary orbits cannot serve high latitudes due to their altitude from ground sites being too low.
+
+Geostatistical analyzes have been strictly performed to study the spatial variability of pesticide sorption5-7 and degradation8 in the field.
+
+Geostatistics is a branch of geography that deals with the analysis of data from disciplines such as petroleum geology, hydrogeology, hydrology, meteorology, oceanography, geochemistry, geography.
+
+Geosteering is the optimal placement of a wellbore based on the results of realtime downhole geological and geophysical logging measurements rather than three-dimensional targets in space.
+
+Geostilbia is a genus of small air-breathing land snails, terrestrial pulmonate gastropod mollusks in the family Ferussaciidae.
+
+Geostrategy in space (also referred to as astrostrategy) deals with the strategic considerations of location and resources in outer space territory.
+
+Geo Super is the first 24-hour Dubai based Pakistani channel dedicated to the world of sports.
+
+GeoSurf is distributed by BIScience and has a worldwide customer base in many industries.
+
+Geosynchronous Satellite Launch Vehicle abbreviated as GSLV, is an expendable launch system operated by the Indian Space Research Organization (ISRO).
+
+Geosyncline originally called a geosynclinal is an obsolete geological concept to explain orogens which was developed in the late 19th and early 20th centuries before the theory of plate tectonics was envisaged.
+
+Geosynthetic clay liners (GCLs) are factory manufactured hydraulic barriers consisting of a layer of bentonite or other very low-permeability material supported by geotextiles and/or geomembranes, mechanically held together by needling, stitching, or chemical adhesives.
+
+Geosynthetics are another group of products used extensively in landscape construction for drainage, filtration, reinforcement and separation.
+
+Geosynthetics are available in a wide range of forms and materials.
+
+Geosynthetics are synthetic products used to stabilize terrain.
+
+Geotab develops, manufacturers, and supplies GPS fleet management solutions for local and Fortune 500 companies.
+
+Geotab has a broad market scope, covering both light and heavy vehicles.
+
+Geotab Inc. is a privately held company that specializes in the area of global positioning system (GPS) fleet management and vehicle tracking, otherwise known as the telematics industry.
+
+Geotab is headquartered in Oakville, Ontario, Canada and the company sells its products and services through a global reseller network..
+
+Geotagging can help users find a wide variety of location-specific information from a device.
+
+Geotagging can tell users the location of the content of a given picture or other media or the point of view, and conversely on some media platforms show media relevant to a given location.
+
+Geotagging or GeoTagging, is the process of adding geographical identification metadata to various media such as a geotagged photograph or video, websites, SMS messages, QR Codes or RSS feeds and is a form of geospatial metadata.
+
+Geotargeting in geomarketing and internet marketing is the method of determining the geolocation of a website visitor and delivering different content to that visitor based on their location.
+
+Geotechnical investigations are performed by geotechnical engineers or engineering geologists to obtain information on the physical properties of soil and rock around a site to design earthworks and foundations for proposed structures and for repair of distress to earthworks and structures caused by subsurface conditions.
+
+Geotechnics embraces the fields of soil mechanics and rock mechanics, and many of the aspects of geology, geophysics, hydrology, and other related sciences.
+
+Geotechnics is practiced by both engineering geologists and geotechnical engineers.
+
+Geotechnics is the application of scientific methods and engineering principles to the acquisition, interpretation, and use of knowledge of materials of the Earth's crust and earth materials for the solution of engineering problems and the design of engineering works.
+
+Geotectonics is a peer-reviewed scientific journal published by Springer.
+
+Geotek is a UK company that designs and manufactures specialized geological and oceanographic equipment.
+
+Geo Television focuses on reports and documentaries.
+
+Geo Television is a German-language pay-TV station of the RTL Group.
+
+Geotextiles and Geomembranes is a bimonthly peer-reviewed scientific journal.
+
+Geotextiles are used for drainage to either convey or allow water penetration and to prevent the mixing of two different materials; geomembranes are used to contain liquids in ponds or wastes in landfills; geogrids and geocells are used for load support and to increase the bearing capacity of weak soils; and geocells are used for slope and channel protection and erosion control.
+
+Geothallus is a monotypic genus of liverwort in the family Sphaerocarpaceae family.
+
+GEO then divested the youth portion of the enterprise, Youth Services International, back to its principals.
+
+Geothermal activity is widespread at Paka.
+
+Geothermal energy from the waters of the abandoned mines are capable of providing heating and cooling for large buildings through the use of heat pumps.
+
+Geothermal energy has been described as New Zealand's most reliable renewable energy source, above wind, solar and even hydroelectricity, due to its lack of dependence on the weather.
+
+Geothermal energy is plentiful beneath the UK, although it is not readily accessible currently except in specific locations.
+
+Geothermal energy is thermal energy which is derived from the earth's internal heat.
+
+Geothermal energy is the second most used form of renewable energy in Russia but represents less than 1% of the total energy production.
+
+Geothermal exploration is the exploration of the subsurface in search of viable active geothermal regions with the goal of building a geothermal power plant, where hot fluids drive turbines to create electricity.
+
+Geothermal heating/air-conditioning, porous paving, solar panels, water conservation methods and other features make this building environmentally-friendly and have earned it the LEED Certified Platinum designation.
+
+Geothermally heated hot springs sometimes produce similar (but less porous) carbonate deposits known as travertine.
+
+Geothermal power accounts for about 1.
+
+6-1.
+
+8% of the total electric energy production in Italy and is about 7% of the total renewable energy produced in 2010.
+
+Geothermal power in Australia is little used but growing.
+
+Geothermal power in New Zealand is a small but significant part of the energy generation capacity of the country, providing approximately 13% of the country's electricity with installed capacity of 854 MW.
+
+Geothermal power in Turkey began in the 1970s in a prototype plant following systematic exploration of geothermal fields.
+
+Geothermal power is very cost-effective in the Great Rift Valley of Kenya, East Africa.
+
+Geothermal power plays a minor role in the energy sector in the country: in 2013 it supplied 2596 GWh of electricity, representing about 0.
+
+25% of the country's total electricity supply.
+
+Geothermal regions with adequate heat flow to fuel power plants are found in rift zones, subduction zones and mantle plumes.
+
+Geothermobacter is a thermophilic genus of bacteria from the family of Geobacteraceae with one known species (Geothermobacter ehrlichii).
+
+Geothermobarometry is a combination of geobarometry, where a pressure of mineral formation is resolved, and geothermometry where a temperature of formation is resolved.
+
+Geothermobarometry is the science of measuring the previous pressure and temperature history of a metamorphic or intrusive igneous rocks.
+
+GeoTIFF is a public domain metadata standard which allows georeferencing information to be embedded within a TIFF file.
+
+GeoTime can export data to other GIS software such as Google Earth and ESRI ArcGIS via KML format, and to other applications via CSV, as well as capture video of data animations.
+
+GeoTime can import data in many formats, such as GPX, Shapefile, KML, Microsoft Excel, CSV, geotagged photos, and from live data sources via GeoRSS and RSS web feeds and WMS servers.
+
+GeoTime is geospatial analysis software that allows the visual analysis of events over time.
+
+GeoTime was a winner of the IEEE Visual Analytics Science and Technology (VAST) conference contest for three years in a row.
+
+GeoTools is a contributor to the GeoAPI project - a vendor-neutral set of Java interfaces derived from OGC specifications - and implements a subset of those.
+
+GeoTools is a free software (LGPL) GIS toolkit for developing standards compliant solutions.
+
+Geotope is the geological component of the abiotic matrix present in an ecotope.
+
+Geotourism deals with the natural and built environments.
+
+Geotourism was first defined (Hose, 1995) in England.
+
+Geotrail is a Canadian online mapping company that promotes hiking and outdoor education through interactive online tools that help users plan their recreational experience.
+
+GeoTrax Rail and Road Systems (later GeoTrax Transportation Systems) are sets of interchangeable railroad tracks, roads and buildings that when connected create entire communities and working systems.
+
+GeoTrellis is an open source, geographic data processing library designed to work with large geospatial raster data sets.
+
+Geotrichosis is a mycosis caused by Geotrichum candidum.
+
+Geotrichum candidum is closely related to Saprochaeta sp.
+
+Geotrichum is a genus of fungi found worldwide in soil, water, air, and sewage, as well as in plants, cereals, and dairy products; it is also commonly found in normal human flora and is isolated from sputum and feces.
+
+Geotrichum klebahnii is a plant pathogen fungus.
+
+Geotrupes balyi, or Baly's earth boring beetle, is a species of earth-boring scarab beetle in the family Geotrupidae.
+
+Geotrupes blackburnii, or Blackburn's earth boring beetle, is a species of earth-boring scarab beetle in the family Geotrupidae.
+
+Geotrupes (from Greek 'earth-boring') is a genus of earth-boring scarab beetles in the family Geotrupidae.
+
+Geotrupes hornii, or Horn's earth boring beetle, is a species of earth-boring scarab beetle in the family Geotrupidae.
+
+Geotrupes opacus, the opaque earth boring beetle, is a species of earth-boring scarab beetle in the family Geotrupidae.
+
+Geotrupes semiopacus is a species of earth-boring scarab beetle in the family Geotrupidae.
+
+Geotrupes spiniger is a species of earth-boring dung beetles native to Europe.
+
+Geotrupes ulkei, or Ulke's earth boring beetle, is a species of earth-boring scarab beetle in the family Geotrupidae.
+
+Geotrupinae is a subfamily of beetles in the family Geotrupidae.
+
+GeoTrust is a digital certificate provider.
+
+Geotrygon larva - prehistoricMembers of the genera Zentrygon and Leptotrygon are also known as quail-doves and were formerly included in Geotrygon.
+
+Geotrypetes is a genus of caecilians in the family Dermophiidae, although some classifications place it in the family Caeciliidae.
+
+Geotrypetes pseudoangeli is a species of caecilian in the family Dermophiidae.
+
+Geo TV (trademarked GEO TV) or Geo Television is a Pakistani television channel established in May 2002 and owned by the Independent Media Corporation.
+
+Geovana De Cassia Peres (born 8 February 1977, Minas Gerais, Brazil) is a Brazilian professional boxer that resides in New Zealand.
+
+Geovane Henrique Pereira de Souza (born 17 October 1996), known as Geovane, is a Brazilian professional footballer who plays as a central defender for Coritiba.
+
+Geovanna de Oliveira Tominaga (born April 12, 1980) is a Brazilian actress and television host.
+
+Geovanni de Jesus (born June 30, 1979) is a marathon runner from Brazil, who twice won the Buenos Aires Marathon in Argentina (2005 and 2006).
+
+Geovanny Jara Granados (born July 20, 1967 in Puntarenas) is a former Costa Rican football player.
+
+Geovanny Vicente Romero is a political strategist, lawyer, columnist, international consultant and university professor.
+
+Geovany Soto (born January 20, 1983) is a Puerto Rican professional baseball catcher who is a free agent.
+
+GeoVax is a biotechnology company established primarily to develop an effective and safe vaccine against HIV-1.
+
+GeoVax is currently conducting multiple site Phase 2 Human clinical trials for HIV/AIDS preventative vaccine products following successful completion of multiple Phase 1 human clinical trials.
+
+GeoVector's first patent in this domain, since issued as 5,815,411, was filed September 10, 1993.
+
+Geovibrio ferrireducens is a Gram-negative, Fe(III)-reducing, obligately anaerobic and motile bacterium from the genus of Geovibrio.
+
+Geovibrio is a Gram-negative, non-spore-forming, strictly anaerobic and motile genus of bacteria from the family of Deferribacteraceae.
+
+Geovibrio thiophilus is a Gram-negative, non-spore-forming and sulfur-reducing bacterium from the genus of Geovibrio which has been isolated from a drainage ditch in Konstanz in Germany.
+
+Geovisualization or Geovisualisation, short for Geographic Visualization, refers to a set of tools and techniques supporting the analysis of geospatial data through the use of interactive visualization.
+
+Geovisualization represents a set of cartographic technologies and practices that take advantage of the ability of modern microprocessors to render changes to a map in real time, allowing users to adjust the mapped data on the fly.
+
+Geo von Lengerke (born August 31, 1827 Georg Ernst Heinrich von Lengerke, Dohnsen (Weser) in the then Duchy of Brunswick in northern Germany; died July 1882 in Zapatoca, Santander, Colombia) was a German engineer, merchant and landowner.
+
+Geox is an Italian brand of shoe and clothing manufactured with waterproof/breathable fabrics.
+
+Geoxus annectens, also known as Pearson's long-clawed akodont or Pearson's long-clawed mouse, is a species of rodent in the tribe Abrotrichini of family Cricetidae.

@@ -1,0 +1,199 @@
+All the Money in the WorldAll the Money in the World is a 2017 British-American historical crime drama movie directed by Ridley Scott and written by David Scarpa. It is based on John Pearson's 1995 book "Painfully Rich: The Outrageous Fortunes and Misfortunes of the Heirs of J. Paul Getty".
+
+It stars Michelle Williams, Christopher Plummer, Mark Wahlberg, Romain Duris, Charlie Plummer, Stacy Martin, Andrew Buchan, and Timothy Hutton. The movie tells the story of how J. Paul Getty refused to cooperate with the group of kidnappers, from the organized crime Mafia group 'Ndrangheta, who kidnapped his grandson John Paul Getty III in the 1970s.
+
+Kevin Spacey originally portrayed Getty Sr. However, after multiple sexual assault allegations were revealed against Spacey, his scenes were cut and re-shot with Christopher Plummer. Though re-shoots began on November 20, 2017, TriStar Pictures has the movie's United States release scheduled for December 22, 2017, but moved the date to December 25.
+
+For their roles, Williams and Plummer are nominated for a Golden Globe Award with Plummer being nominated for an Academy Award for Best Supporting Actor.
+
+David R. BowenDavid Reece Bowen (born October 21, 1932) is an American politician. He was born in Houston, Mississippi. Bowen was a U.
+
+S. Representative from Mississippi. He served for 2nd congressional district. He served from January 3, 1973 through January 3, 1983. He was a member of the Democratic Party.
+
+Jean Spencer AshbrookEmily Jean Spencer Ashbrook (née Spencer; September 21, 1934) is an American politician. She is the widow of Congressman John M. Ashbrook, Republican of Ohio. She is also a former member of the United States House of Representatives herself, having completed her late husband's final term of office, also as a Republican from June 29, 1982 through January 3, 1983.
+
+Ed WeberEdward Ford "Ed" Weber (July 26, 1931 – February 27, 2023) was an American politician. He served one term in the United States House of Representatives as a Republican from January 3, 1981 through January 3, 1983. He won his district in 1980 due to Ronald Reagan's success in Ohio in the 1980 presidential election. In 1982, however, he lost his re-election bid to Marcy Kaptur. He died on February 27, 2023, at the age of 91.
+
+Bill GradisonWillis David "Bill" Gradison Jr. (born December 28, 1928) is an American politician from Ohio. He served in the United States House of Representatives from 1975 to 1993.
+
+Ronald M. MottlRonald Milton Mottl (born February 6, 1934) is an American politician. He was a member of the Democratic Party. He had been a member of the state House of Representatives of Ohio from 1987 to 1997.
+
+A conservative Democrat, Mottl was an ally of Ronald Reagan's legislative agenda. He lost the Democratic primary to Ed Feighan in 1982, thereby losing his seat.
+
+Tom LukenThomas Andrew Luken (July 9, 1925 – January 10, 2018) was an American politician. He was a member of the Democratic Party. He was born born in Cincinnati, Ohio. He also was the mayor of Cincinnati from 1971 to 1972.
+
+In 1974, Luken won a special election in the Cincinnati-based 1st congressional district to fill out the term of William J. Keating, a Republican who resigned his seat. However, Luken was defeated later that year in his bid for a full term by Republican Bill Gradison.
+
+Luken died on January 10, 2018 in Cincinnati at the age of 92.
+
+William J. KeatingWilliam John Keating (March 30, 1927 – May 20, 2020) was an American businessman and politician of the Republican Party. From 1967-70, he served on the Cincinnati City Council.
+
+Keating served in the United States House of Representatives from 1971-74, representing Ohio's 1st congressional district. Keating resigned from Congress to become President and CEO of "The Cincinnati Enquirer".
+
+Keating was a founding member of the law firm Keating, Muething and Klekamp.
+
+Keating died on May 20, 2020 in Cincinnati at the age of 93.
+
+Jean SchmidtJeannette Marie Schmidt (born November 29, 1951) is a former U.
+
+S. Representative for , serving from 2005 to 2013. She is a member of the Republican Party.
+
+On March 6, 2012, Schmidt was defeated for re-election in the GOP primary by Brad Wenstrup.
+
+Links formerly displayed via the CongLinks template:Brad WenstrupBrad Robert Wenstrup (born June 17, 1958) is an American politician, Army Reserve officer, and Doctor of Podiatric Medicine, who has been the U.
+
+S. Representative for since 2013.
+
+Wenstrup is a member of the Republican Party. He defeated U.
+
+S. Representative Jean Schmidt in the 2012 Republican primary election and Democrat William R. Smith in the 2012 general election.
+
+Wenstrup is a colonel in the U.
+
+S. Army Reserve and an Iraq War veteran.
+
+After the shooting of Congressman Steve Scalise on the morning of June 14, 2017, Wenstrup attended to the wounded congressman until he was transported to MedStar Washington Hospital Center.
+
+Graham McTavishGraham McTavish (born 4 January 1961) is a Scottish movie, television and voice actor. McTavish appeared in the 2011 movie "The Wicker Tree", Robin Hardy's sequel to his 1973 movie, "The Wicker Man" and played Dwalin in Peter Jackson's "The Hobbit" trilogy.
+
+Andhra UniversityAndhra University is a Government run University located in Visakhapatnam. It was established in 1926. It has an area of 171 hectares (422 acres).
+
+Katrín JakobsdóttirKatrín Jakobsdóttir (pronounced ; born 1 February 1976) is an Icelandic politician. She is the 28th and current Prime Minister of Iceland since 30 November 2017. She has been a member of the Althing (Iceland's parliament) for the Reykjavík North constituency since 2007.
+
+She became deputy chairperson of the Left-Green Movement in 2003 and has been their chairperson since 2013. Katrín was Iceland's Minister of Education, Science and Culture and of Nordic Co-operation from 2 February 2009 to 23 May 2013.
+
+Reinforcement learningReinforcement learning (RL) is teaching a "software agent" how to behave in an environment by telling it how well it's doing. It is an area of machine learning inspired by behaviorist psychology.
+
+Reinforcement learning is different from supervised learning because the correct inputs and outputs are never shown. Also, reinforcement learning usually learns as it goes (online learning) unlike supervised learning. This means an agent has to choose between exploring and sticking with what it knows best.
+
+A reinforcement learning system is made of a "policy" (formula_1), a "reward function" (formula_2), a "value function" (formula_3), and an optional "model" of the environment.
+
+A "policy" tells the agent what to do in a certain situation. It can be a simple table of rules, or a complicated search for the correct action. Policies can even be stochastic, which means instead of rules the policy assigns "probabilities" to each action. A policy by itself can make an agent do things, but it can't learn on its own.
+
+A "reward function" defines the goal for an agent. It takes in a state (or a state and the action taken at that state) and gives back a number called the "reward", which tells the agent how good it is to be in that state. The agent's job is to get the biggest amount of reward it possibly can in the long run. If an action yields a low reward, the agent will probably take a better action in the future. Biology uses reward signals like pleasure or pain to make sure organisms stay alive to reproduce. Reward signals can also be stochastic, like a slot machine at a casino, where sometimes they pay and sometimes they don't.
+
+A "value function" tells an agent how much reward it will get following a policy formula_1 starting from state formula_5. It represents how "desirable" it is to be in a certain state. Since the value function isn't given to the agent directly, it needs to come up with a good guess or estimate based on the reward it's gotten so far. Value function estimation is the most important part of most reinforcement learning algorithms.
+
+A "model" is the agent's mental copy of the environment. It's used to "plan" future actions.
+
+Knowing this, we can talk about the main loop for a reinforcement learning episode. The agent interacts with the environment in "discrete time steps". Think of it like the "tick-tock" of a clock. With discrete time, things only happen during the "ticks" and the "tocks", and not in between. At each time formula_6, the agent observes the environment's state formula_7 and picks an action formula_8 based on a policy formula_1. The next time step, the agent receives a reward signal formula_10 and a new observation formula_11. The value function formula_12 is updated using the reward. This continues until a terminal state formula_13 is reached.
+
+The biology behind Reinforcement learning can be found at:Sylvester IgbounSylvester Emeka Igbonu (usually known as Sylvester Igboun; born 8 September 1990) is a Nigerian professional association football player. He currently plays for FC Ufa in Russia. His last name is Igbonu, but was misspelled when registering for a passport. He has also played for the Danish club, FC Midtjylland.
+
+Luka ĐorđevićLuka Đorđević (Cyrillic: Лукa Ђорђевић; born 9 July 1994) is a Montenegrin professional association football player.
+
+He played for FK Mogren in the 2011/2012 season. He played 24 league matches with the club, and made one appearance in a UEFA Champions League qualification match against PFC Litex Lovech.
+
+He made his first appearance with Zenit St. Petersburg on 11 August 2012 against Spartak Moscow.
+
+On 22 July 2017, he was loaned to FC Arsenal Tula.
+
+He played his first international match for Montenegro on 27 August 2012 against San Marino. He also scored his first international goal in that match.
+
+Edwin MosqueraEdwin Orlando Mosquera Roa (26 July 1985 – 2 December 2017) was a Colombian weightlifter. He competed in the 69 kg weight division. He won a silver medal at the 2007 Pan American Games. He also won two gold medals (2008 and 2010) and a silver medal (2016) at the Pan American Weightlifting Championships. He was at the 2008 and 2016 Summer Olympics. He was born in El Carmen de Atrato.
+
+Mosquera died after being shot twice on 2 December 2017 in Palmira, Valle del Cauca. He was 32.
+
+Rizvan UtsiyevRizvan Rashitovich Utsiyev (Russian: Ризван Рашитович Уциев; born 7 February 1988) is a Russian professional association football player of Chechen descent. He is currently the captain of Akhmat Grozny.
+
+He was called up by the Russia national football B team on 19 August 2011 for a match against the Belarusian Olympic team.
+
+Yevgeni Markov (footballer, born 1994)Yevgeni Stanislavovich Markov (Russian: Евгений Станиславович Марков; born 7 July 1994) is a Russian professional association football player. He currently plays for FC Tosno.
+
+He played his first match with Zenit-2 Saint Petersburg on 15 July 2013 in a game against FC Tosno. He played his first match in the Russian Football National League on 7 September 2014 for Yenisey Krasnoyarsk against Volga Nizhny Novgorod.
+
+Moscow &quot;Southern Gate&quot; Central Bus TerminalMoscow "Southern Gate" Central Bus Terminal is the main bus station of Moscow, located in the south side of the city and opened in 2015. The station is replacing the Old Moscow Central Bus Terminal that opened in 1971.
+
+Vitinho (footballer, born October 1993)Victor Vinícius Coelho dos Santos (also known as Vitinho; born 9 October 1993) is a Brazilian professional association football player. He currently plays for Flamengo.
+
+He has played for the Brazilian club, Botafogo de Futebol e Regatas. In the 2013 season, he scored 4 goals in 16 Série A games.
+
+Vitinho signed a 5-year contract with PFC CSKA Moscow on 2 September 2013. He was usually just used as a substitute. Botafogo was interested in loaning Vitinho back to the club.
+
+On 16 January 2015, Vitinho joined Sport Club Internacional on a one-year loan deal. The loan was extended to the end of 2016. He also extended his contract with CSKA Moscow to 2020. He returned to CSKA Moscow in January 2017.
+
+He made two appearances with the Brazilian Olympic team in 2012.
+
+Old Moscow Central Bus TerminalThe Old Moscow Central Bus Terminal was the main bus station of Moscow from 1971 until 2015. The station was closed in 2015 when the new Moscow "Southern Gate" Central Bus Terminal was open. The station was located in the eastern side of the city and demolished.
+
+PSL Research UniversityThe PSL Research University (PSL) is a public university in Paris, France. PSL has ten members. The university also has six research departments. Called a mega-university, their goal is to reach the same level of excellence as MIT, Oxford, Cambridge and Harvard Universities. It is a center for scientific and technological research. PSL students, graduates, and faculty members are famous for being given many awards. The university has been started in 2010. It is one of the most selective universities. The most popular major is engineering.
+
+Marek FrąckowiakMarek Antoni Frąckowiak (16 August 1950 – 6 November 2017) was a Polish actor. He had roles in "Niespotykanie spokojny człowiek", "Ekipa", "Ballada o Januszku" and "The Last Wish". He also voiced many popular movies, television shows and video games from outside of Poland into Polish.
+
+Frąckowiak was born in Łódź. He was married to Ewa Złotowska.
+
+Frąckowiak died of spinal cancer on 6 November 2017 in Łódź. He was 67.
+
+James MarriottSir James Marriott (29 October 1730 – 21 March 1803) was a famous British judge, politician and scholar. He is famous for being in the highest court in Britain. He judged a lot of legal trials involving boats and the British Navy, he most helped lawyers by writing a book about American law.
+
+James Marriott was born on 29 October 1730. In June 1746 he was sent to Trinity Hall, Cambridge, and graduated in 1751. Although he had wanted a job in the church, he decided to switch to law in 1755, maybe because his stepfather, a very good lawyer, told him to. He spent three years as librarian to the Duke of Newcastle. He joined the College of Advocates and began his legal job in which he wrote two books on law.
+
+While he served the Duke of Newcastle, he began to flatter others with nice words, which gave him the job of Receiver of Land Tax for Suffolk, but did not do much else until King George III was made king in 1760, when he left Newcastle for the new king. In 1767 he was made king's advocate, mostly because there was no one else to do it. In 1767 he served as Vice-Chancellor of the University of Cambridge for a year and in 1768.
+
+For the next ten years he kept trying to get a better job, making Lord Grafton very angry in the process.
+
+In 1778 he was knighted and made the Judge of the High Court of Admiralty, responsible for cases involving boats and the Navy. His work as king's advocate was not impressive, because of his lack of good choice-making and bad courtroom behaviors, as well as his aggressive speeches against his own co-workers. In 1781 he was elected to Parliament for Sudbury. Marriott worked for Lord Shelburne, who strongly opposed war.
+
+The French Revolutionary Wars in 1793 caused the Navy to be used more and more, which made Marriott judge on more cases than he normally would, even though he was able to make some important decisions. He was also re-elected for his Parliament job in 1796. he had supported someone else, but then changed his mind and ran for election himself. Marriott remained in Parliament until 1802, shortly before he died.
+
+Marriott quit his job in 1798. He returned to Twinstead Hall and stayed there until he died on 21 March 1803, having rebuilt the local church. The year before he died he wrote his most important book, "Formulare instrumentarum", a book about his job with Naval law that caused Naval law in the United States to change. He also made a lot of poems and legal books that were not important. He never married, his one try in 1760 causing both the girl and her father to say "no." Instead he took care of his mother until her death.
+
+Swiss Federal RailwaysSwiss Federal Railways (short: SBB, , , , ) is the national railway company of Switzerland. It is also called SBB CFF FFS. The company was founded in 1902.
+
+The company headquarters is in Bern.
+
+In the Zurich-Bern-Basel triangle, travel times between the cities is under one hour.
+
+SBB also operates international EuroCity and EuroNight trains in Switzerland.
+
+Mon, SwitzerlandMon was a municipality of the district of Albula in the canton of Graubünden in Switzerland.
+
+Since 2015, Mon became a part of the municipality of Albula/Alvra.
+
+Davos WiesenDavos Wiesen () is a village in the canton of Graubünden, Switzerland. It is part of the municipality of Davos.
+
+NufenenNufenen (, ) was a municipality of the district of Hinterrhein in the canton of Graubünden in Switzerland.
+
+It is on the San Bernardino tunnel road.
+
+On 1 January 2019, the former municipalities of Hinterrhein, Nufenen and Splügen merged to form the new municipality of Rheinwald.
+
+Mozaffar ad-Din Shah QajarMozaffar ad-Din Shah Qajar, (, Mozaffar Ŝāh-e Qājār, Muẓaffari’d-Dīn Shāh Qājār; 23 March 1853 – 3 January 1907) was the fifth Qajar dynasty king of Persia. He reigned between the years 1896 and 1907.
+
+The son of the Qajar dynasty ruler Naser al-Din Shah Qajar, Mozaffar ad-Din was named crown prince and sent as governor to the northern province of Azerbaijan in 1861.
+
+Carles SantosCarles Santos () (1 July 1940 – 4 December 2017) was a Spanish artist. He began his career as a pianist and later worked in many other creative areas, including musical composition, filmmaking, screenwriting, acting, scenic musical shows, graphics, montage, sculpture, photography, poetry, and prose. He was born in Vinaròs, Valencian Community (Spain).
+
+Santos was commissioned to compose works for a variety of special occasions, including the opening ceremonies of the 1992 Summer Olympic Games in Barcelona and the opening of the 2001 Biennial of Arts in Valencia.
+
+Santos died on 4 December 2017 at the age of 77.
+
+Arif DirlikArif Dirlik (1940 – December 1, 2017) was a Turkish-American historian. He has published many works on historiography and political ideology in modern China, as well as issues in modernity, globalization, and post-colonial criticism. Dirlik received a BSc in Electrical Engineering at Robert College, Istanbul in 1964 and a PhD in History at the University of Rochester in 1973.
+
+Dirlik died in Eugene, Oregon on December 1, 2017 at the age of 77.
+
+Manuel MarínManuel Marín González (21 October 1949 – 4 December 2017) was a Spanish politician. He was a former President of the Congress of Deputies. He was a long-time member of the European Commission, and acting President during the Santer Commission following the resignation of the Jacques Santer.
+
+Marín died in Madrid on 4 December 2017 at the age of 68 from lung cancer.
+
+Jimmy HoodJames Hood (16 May 1948 – 4 December 2017) was a Scottish Labour Party politician. He was the Member of Parliament (MP) from 1987 until 2015. He represented the Clydesdale constituency until 2005, and the Lanark and Hamilton East thereafter.
+
+Hood died on 4 December 2017 of a heart attack in Lanarkshire, Scotland, aged 69.
+
+Ian TwitchinIan Robert Twitchin (22 January 1952 – 3 December 2017) was an English footballer. He played as a right back and midfielder. He spent his entire professional career with Torquay United, making 401 appearances in The Football League. He later played for Minehead and Newton Abbot Spurs (where he was player-manager). He was born in Teignmouth, Devon.
+
+Twitchin died on 3 December 2017, at the age of 65.
+
+Mackenzie CrookPaul James "Mackenzie" Crook (born 29 September 1971) is a British actor, writer, director and comedian. He is best known for playing Gareth Keenan in "The Office", Ragetti in the "Pirates of the Caribbean" movies and Orell in the HBO series "Game of Thrones". He is also the creator and star of the BBC Four sitcom "Detectorists". The series earnt him a BAFTA Award in 2015.
+
+Crook was born in Maidstone, Kent, England. He grew up in Dartford, Kent. He has been married to Lindsay since April 2001. The couple have two children, a son and a daughter.
+
+The Office (British TV series)The Office is a British mockumentary sitcom. It was shown on BBC Two. It began on 9 July 2001 and ended on 27 December 2003. It was created, written and directed by Ricky Gervais and Stephen Merchant. It stars Gervais, Martin Freeman, Mackenzie Crook, Lucy Davis, Oliver Chris, Patrick Baladi, Stacey Roca, Ralph Ineson, Stirling Gallacher, Joel Beckett and Ewen MacIntosh."
+
+The Office" is about David Brent (Gervais), an office manager in Slough, Berkshire, and his employees dealing with his cringe personality.
+
+The series was adapted into an American version of the same name, starring Steve Carell.
+
+Bocconi UniversityBocconi University () is a private university in Viale Bligny Milan, Italy. Bocconi University was founded in 1902, and is ranked among the most important universities in the world for finance and commerce. It is located in the center of Milan in one of the most exclusive and expensive districts of the city.
+
+It provides undergraduate, graduate and post-graduate education. The university's main subjects are economics, business management, finance, law, political science and public administration.

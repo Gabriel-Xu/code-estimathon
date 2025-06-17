@@ -1,0 +1,53 @@
+NVC community CG7 (Festuca ovina - Hieracium pilosella - Thymus praecox/pulegioides grassland) is one of the calcicolous grassland communities in the British National Vegetation Classification system.
+
+NVC community H1 (Calluna vulgaris - Festuca ovina heath) is one of the heath communities in the British National Vegetation Classification system.
+
+NVC community H2 (Calluna vulgaris - Ulex minor heath) is one of the heath communities in the British National Vegetation Classification system.
+
+NVC community H3 (Ulex minor - Agrostis curtisii heath) is one of the heath communities in the British National Vegetation Classification system.
+
+NVC community H4 (Ulex gallii - Agrostis curtisii heath) is one of the heath communities in the British National Vegetation Classification system.
+
+NVC community H5 (Erica vagans - Schoenus nigricans heath) is one of the heath communities in the British National Vegetation Classification system.
+
+NVC community H6 (Erica vagans - Ulex europaeus heath) is one of the heath communities in the British National Vegetation Classification system.
+
+NVC community H7 (Calluna vulgaris - Scilla verna heath) is one of the heath communities in the British National Vegetation Classification system.
+
+NVC Community M16 (Erica tetralix - Sphagnum compactum wet heath) is one of the 38 mire communities in the British National Vegetation Classification system.
+
+NVC community M1 (Sphagnum auriculatum bog pool community) is one of the mire communities in the British National Vegetation Classification system.
+
+NVC community M20 (Eriophorum vaginatum raised and blanket mire) is one of the mire communities in the British National Vegetation Classification system.
+
+NVC community M23 (Juncus effusus'/acutiflorus - Galium palustre rush-pasture) is one of the mire communities in the British National Vegetation Classification system.
+
+NVC Community M27 (Filipendula ulmaria - Angelica sylvestris mire) is one of the 38 mire communities in the British National Vegetation Classification system.
+
+NVC community M2 (Sphagnum cuspidatum/recurvum bog pool community) is one of the mire communities in the British National Vegetation Classification system.
+
+NVC community M3 (Eriophorum angustifolium bog pool community) is one of the mire communities in the British National Vegetation Classification system.
+
+NVC community M4 (Carex rostrata - Sphagnum recurvum mire) is one of the mire communities in the British National Vegetation Classification system.
+
+NVC community MC4 (Brassica oleracea maritime cliff-ledge community) is one of the maritime cliff communities in the British National Vegetation Classification system.
+
+NVC community MC7 (Stellaria media - Rumex acetosa sea-bird cliff community) is one of the maritime cliff communities in the British National Vegetation Classification system.
+
+NVC community MG13 (Agrostis stolonifera - Alopecurus geniculatus grassland) is one of the mesotrophic grassland communities in the British National Vegetation Classification system.
+
+NVC community MG3 (Anthoxanthum odoratum - Geranium sylvaticum grassland) is one of the mesotrophic grassland communities in the British National Vegetation Classification system.
+
+NVC community MG5 (Cynosurus cristatus - Centaurea nigra grassland) is one of the mesotrophic grassland communities in the British National Vegetation Classification system.
+
+NVC community OV12 (Poa annua - Myosotis arvensis community) is one of the open habitat communities in the British National Vegetation Classification system.
+
+NVC community OV24 (Urtica dioica - Galium aparine community) is one of the open habitat communities in the British National Vegetation Classification system.
+
+NVC community OV27 (Epilobium angustifolium community) is one of the open habitat communities in the British National Vegetation Classification system.
+
+NVC community OV37 (Festuca ovina - Minuartia verna community) is one of the open habitat communities in the British National Vegetation Classification system.
+
+NVC community OV39 (Asplenium trichomanes - Asplenium ruta-muraria community) is one of the open habitat communities in the British National Vegetation Classification system.
+
+NVC community OV41 (Parietaria diffusa community) is one of the open habitat communities in the British National Vegetation Classification system.

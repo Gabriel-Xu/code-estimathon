@@ -1,0 +1,221 @@
+The protein encoded by this gene localizes to focal adhesions, regions of the plasma membrane where the cell attaches to the extracellular matrix.
+
+The protein encoded by this gene localizes to the cytoplasm and activates patched Drosophila homolog (PTCH) gene expression.
+
+The protein encoded by this gene localizes to the plasma membrane and to recycling vesicles of the early endocytic system.
+
+The protein encoded by this gene localizes to the principal piece of the sperm flagellum in association with the fibrous sheath and exhibits calcium-binding when phosphorylated during capacitation.
+
+The protein encoded by this gene localizes within Golgi compartments, endosomes, and lysosomes, and is cleaved into a stable soluble form.
+
+The protein encoded by this gene, LTC4S (or glutathione S-transferase II) is an enzyme that converts leukotriene A4 and glutathione to create leukotriene C4.
+
+The protein encoded by this gene may be an anchoring filament that is a component of basement membranes.
+
+The protein encoded by this gene may be involved in the transitioning of erythroblasts from a highly proliferative state to a terminal phase of differentiation.
+
+The protein encoded by this gene may function as a DNA binding protein.
+
+The protein encoded by this gene may play an important role in testicular development.
+
+The protein encoded by this gene may regulate muscle-specific genes when in the nucleus and may influence intracellular trafficking when in the cytoplasm.
+
+The protein encoded by this gene mediates calcium entry, and this entry is potentiated by calcium store depletion.
+
+The protein encoded by this gene, NT-3, is a neurotrophic factor in the NGF (Nerve Growth Factor) family of neurotrophins.
+
+The protein encoded by this gene participates in the transcriptional regulation of genes in controlling biological rhythm.
+
+The protein encoded by this gene phosphorylates vitamin B6, a step required for the conversion of vitamin B6 to pyridoxal-5-phosphate, an important cofactor in intermediary metabolism.
+
+The protein encoded by this gene plays an important role in hearing in humans.
+
+The protein encoded by this gene plays a role in the determination of cell fates during development.
+
+The protein encoded by this gene plays important roles in the determination of centrosome position and segregation, and in the process of microtubule severing.
+
+The protein encoded by this gene possesses kinase activity that phosphorylates regulators involved in signal transduction.
+
+The protein encoded by this gene possesses long-chain acyl-CoA synthetase activity.
+
+The protein encoded by this gene presumably functions in GPI anchoring at the GPI transfer step.
+
+The protein encoded by this gene regulates the electric excitability of the skeletal muscle membrane.
+
+The protein encoded by this gene regulates the turnover of diphosphoinositol polyphosphates.
+
+The protein encoded by this gene represents the alpha subunit.
+
+The protein encoded by this gene represents the high-affinity form.
+
+The protein encoded by this gene represents the truncated form and apparently has no catalytic activity.
+
+The protein encoded by this gene serves as one of the large subunits of this complex and is a member of the adaptin protein family.
+
+The protein encoded by this gene shares sequence similarity with Hir1p and Hir2p, the two corepressors of histone gene transcription characterized in the yeast, Saccharomyces cerevisiae.
+
+The protein encoded by this gene shares similarity with BRE1 of S. cerevisiae.
+
+The protein encoded by this gene shares similarity with Saccharomyces cerevisiae Cdc91, a predicted integral membrane protein that may function in cell division control.
+
+The protein encoded by this gene shares similarity with the product of Drosophila syd gene, required for the functional interaction of kinesin I with axonal cargo.
+
+The protein encoded by this gene shares the synapsin family domain model, with domains A, C, and E exhibiting the highest degree of conservation.
+
+The protein encoded by this gene shows 75% amino acid identity to chicken Wnt14, which has been shown to play a central role in initiating synovial joint formation in the chick limb.
+
+The protein encoded by this gene shows ATPase activity in the presence of polynucleotides and associates with nucleoplasmic 65S preribosomal particles.
+
+The protein encoded by this gene specifically binds to EDA-A2 isoform.
+
+The protein encoded by this gene stimulates guanine nucleotide exchange on ARF1 and Rab proteins.
+
+The protein encoded by this gene supplies inorganic sulfur to these clusters by removing the sulfur from cysteine, creating alanine in the process.
+
+The protein encoded by this gene targets to the nucleus where it associates with nuclear vacuoles and the redundant nuclear envelope.
+
+The protein encoded by this gene was identified as a SOX family member based on conserved domains and its expression in various tissues suggests a role in both differentiation and maintenance of several cell types.
+
+The protein encoded by this gene was identified as a transmembrane phosphoprotein specifically associated with tyrosine phosphatase PTPRC/CD45, a key regulator of T- and B-lymphocyte activation.
+
+The protein encoded by this gene was identified by a two-hybrid screen using CD4 as the bait.
+
+The protein encoded by this gene was identified by its interaction with a mouse protein similar to yeast Sec23p, an essential component of the COPII.
+
+The protein encoded by this gene was identified by its interaction with apoptosis regulator BAX protein.
+
+The protein encoded by this gene was identified by its interaction with interleukin 1 receptor-like 1 (IL1RL1).
+
+The protein encoded by this gene was identified by its interaction with the catalytic domain of protein kinase C-zeta.
+
+The protein encoded by this gene was identified by its RED repeat, a stretch of repeated arginine, glutamic acid and aspartic acid residues.
+
+The protein encoded by this gene was originally identified as an ovarian tumor antigen monitored in ovarian cancer.
+
+The protein encoded by this gene was shown to interact with cyclin D. Transfection of this gene in cells was reported to reduce the phosphorylation of Rb gene product by cyclin D-dependent protein kinase, and inhibit E2F1-mediated transcription activity.
+
+The protein encoded by this gene yields currents that activate slowly with depolarization and can form heteromeric channels with the protein encoded by the KCNQ3 gene.
+
+The protein encoded by this human gene is highly similar in sequence to that encoded by the rat gene.
+
+The protein encoded by this intron-less gene, a member of the claudin family, is an integral membrane protein and a component of tight junction strands.
+
+The protein encoded by this intronless gene belongs to the GSK-3-binding protein family.
+
+The protein encoded by this intronless gene belongs to the methyltransferase superfamily and acts as a G(1)/S and G(2)/M phase checkpoint regulator.
+
+The protein encoded by this nuclear gene localizes to the mitochondrion, where it catalyzes the formylation of methionyl-tRNA.
+
+The protein encoded is a G-protein coupled receptor with embedded 11-cis-retinal, whose light excitation causes a cis-trans conformational change that begins the process of chemical signaling to the brain.
+
+The protein encoded is a replication-independent member of the histone H3 family.
+
+The protein encoded is predicted to be a nuclear protein; however, its exact function is currently unknown.
+
+The protein exhibits highly tissue-specific expression in the reproductive tract, suggesting implicit roles in reproduction.
+
+The protein exists as a hexamer of identical subunits, and is shown to have six DNA-binding domains, clustered around a central oligomeric core when bound to arginine.
+
+The protein expressed by this gene is widely distributed in neuroendocrine tissues.
+
+The protein family has been earlier reported to contain O-linked glycans, whereas recent efforts employing mass spectrometry have revealed the presence of N-linked glycans as well within this protein family isolated from elongating cotton fiber cells.
+
+The protein fiber of silk is composed mainly of fibroin and is produced by certain insect larvae to form cocoons.
+
+The protein FKBP does not normally form dimers but can be caused to dimerize in the presence of FK1012.
+
+The protein fold of the peptidase domain for members of this family resembles that of serine carboxypeptidase D, the type example of clan SC.
+
+The protein forms a homopolymer and localizes to the mitochondrion.
+
+The protein forms an oligomer and functions as an alkaline exonuclease, or in simpler terms, an enzyme that digests double-stranded DNA.
+
+The protein forms a tightly interconnected octamer with eightfold rotation symmetry that resembles a goblet and contains a central channel.
+
+The protein function is not well known.
+
+The protein function is relatively unknown and is highly conserved in mammals.
+
+The protein functions by blocking glycolysis and directing the pathway into the pentose phosphate shunt.
+
+The protein functions by physically blocking the spontaneous dissociation of ADP-bound actin monomers from the minus end of the actin fiber.
+
+The protein functions in post-transcriptional gene silencing through the RNA interference (RNAi) and microRNA pathways.
+
+The protein has 154 amino acids, with no abnormal amino acid levels.
+
+The protein has 27 introns, which allows for many isoforms of this gene.
+
+The protein has additional distantly related orthologs across the metazoan kingdom, culminating with the sponge family.
+
+The protein has a globular shape, with a curved layer of three antiparallel alpha-helices over a twisted antiparallel beta-sheet.
+
+The protein has a homologue that is encoded by many large, conjugative plasmids.
+
+The protein has also been associated with the regulation of neurite outgrowth.
+
+The protein has also been known to have elevated levels in cancer.
+
+The protein has a mass of 32 kD. Unusually for a gene present on the X chromosome, the CD99 gene does not undergo X inactivation, and it was the first such pseudoautosomal gene to be discovered in humans.
+
+The protein has an amino acid sequence that is identical to the natural sequence predicted from human DNA sequence analysis, except for the addition of an N-terminal methionine retained after expression in E. coli.
+
+The protein has a particular type of basic domain that contains a helix interrupting protein that binds to the N-box promoter region rather than the canonical enhancer box (E-box).
+
+The protein has been found to interact with several other proteins, including two from a splicing pathway.
+
+The protein has been identified in organisms from the common fruit fly to primates.
+
+The protein has been shown to be expressed in proximity to or within intermediate filaments and the nucleolus.
+
+The protein has been shown to form the SNARE complex with syntaxin 7, vti1b and endobrevin.
+
+The protein has been shown to have post-proline dipeptidyl aminopeptidase activity, cleaving Xaa-Pro dipeptides from the N-termini of proteins.
+
+The protein has been shown to play a role in JNK activation.
+
+The protein has multiple protein interactions which indicate that it may play a role in histone modification and proper histone functioning.
+
+The protein has orthologs with high percent similarity in mammals and reptiles.
+
+The protein has strong adhesive properties which can help with cell differentiation and as a polyspermy prevention component.
+
+The protein has to be processed after being codified, and in its mature form it is composed by 626 amino acids, forming a proteoglycan rich in heparin sulfate which is anchored to the cell surface via covalent linkage to glycophosphatidylinositol (GPI), so we can define it as a glypican.
+
+The protein helps hold calcium in the cisterna of the sarcoplasmic reticulum after a muscle contraction, even though the concentration of calcium in the sarcoplasmic reticulum is much higher than in the cytosol.
+
+The protein H of the tail fiber of Yersinia phage L-413C permits the differentiation between Yersinia pestis and Y. pseudotuberculosis.
+
+The protein, however, has dynamic localisation, meaning that it has not only multiple roles in the cell, but also various locations.
+
+The protein hydrolyzes DNA, is not inhibited by actin, and mediates the breakdown of DNA during apoptosis.
+
+The protein includes an extracellular region, containing 7 cadherin-like domains, a transmembrane region and a C-terminal cytoplasmic region.
+
+The protein includes motifs found in both the mouse and fish orthologs, which suggests a putative function as a nucleolar-matrix protein with nucleic acid-binding properties, based on characteristics determined in mouse.
+
+The protein increases the lag phase as well as the height of the peak of thrombin generation when in plasma, leading to prolonged bleeding.
+
+The Protein Information Resource (PIR), located at Georgetown University Medical Center (GUMC), is an integrated public bioinformatics resource to support genomic and proteomic research, and scientific studies.
+
+The protein in milk is normally suspended in a colloidal solution, which means that the small protein molecules float around freely and independently.
+
+The protein in question was the human blood clotting factor IX.
+
+The protein interacts with host cell factor C1, which also associates with the herpes simplex virus (HSV) protein VP16 that induces transcription of HSV immediate-early genes.
+
+The protein interacts with synaptotagmin-like protein 1 and Rab27 and regulates secretion of dense granules from platelets at sites of endothelial damage.
+
+The protein is 41-52 amino acids in length and contains the RGD recognition motif common in adhesion proteins, and 6 conserved cysteine residues.
+
+The protein is a component of lipid rafts and, in polarized cells, it primarily localizes to endosomal structures beneath the apical membrane.
+
+The protein is a component of the 43S pre-initiation complex (PIC), which mediates the recruitment of the small 40S ribosomal subunit to the 5' cap of messenger RNAs.
+
+The protein is a component of the gastrointestinal tract and pancreatic ducts, acting as an intestinal proton-dependent peptide transporter in the first step in oral absorption of many medically important peptide-based drugs.
+
+The protein is a component of the nuclear matrix during the G2 phase of interphase.
+
+The protein is a component of tight junction strands and may play a role in internal organ development and function during pre- and postnatal life.
+
+The protein is a heterodimer of alpha- and beta-subunits.

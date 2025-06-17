@@ -1,0 +1,195 @@
+Multilinear subspace learning algorithms are higher-order generalizations of linear subspace learning methods such as principal component analysis (PCA), independent component analysis (ICA), linear discriminant analysis (LDA) and canonical correlation analysis (CCA).
+
+Multilinear subspace learning is an approach to dimensionality reduction.
+
+Multilingual Education typically refers to "first-language-first" education, that is, schooling which begins in the mother tongue and transitions to additional languages.
+
+MULtilingual Enhancement (MULE) is computer software which adds extra written language characters to the GNU Emacs text editor and programming environment.
+
+Multilingualism has likely been common throughout much of human history, and today most people in the world are multilingual.
+
+Multilingualism in computing can be considered part of a continuum between internationalization and localization.
+
+Multilingualism is a part of everyday life for the population of Luxembourg.
+
+Multilingualism is becoming a social phenomenon governed by the needs of globalization and cultural openness.
+
+Multilingualism is the use of more than one language, either by an individual speaker or by a community of speakers.
+
+Multilingual playback singer Sadhana Sargam has recorded numerous private albums and songs.
+
+Multilingual speakers have acquired and maintained at least one language during childhood, the so-called first language (L1).
+
+Multilinguals, speakers of more than one language, sometimes use elements of multiple languages when conversing with each other.
+
+Multilink striping is a type of data striping used in telecommunications to achieve higher throughput or increase the resilience of a network connection by data aggregation over multiple network links simultaneously.
+
+MultiLisp was a functional programming language and dialect of Scheme, extended with constructs for parallel execution and shared memory.
+
+Multiliteracies is a term coined in the mid-1990s by the New London Group and is an approach to literacy theory and pedagogy.
+
+Multilocular cystic clear cell renal cell carcinoma is rare subtype of renal cell carcinoma.
+
+Multilocus allozyme genotype data show that Microphallus turgidus is a single outbred species with high levels of gene flow among South Island populations.
+
+Multilocus sequence typing (MLST) is a technique in molecular biology for the typing of multiple loci.
+
+Multilotto is a licensed gambling firm.
+
+Multilotto is known for offering players the courier service model back in 2012 but in 2015 the company changed its business model and is now offering the opportunity to bet on the outcome of a number of international and state lottery draws.
+
+Multilotto is powered by Lotto Warehouse, which received the Malta Gaming Authority's first B2B lottery betting license.
+
+Multi-Love is the third studio album from the band Unknown Mortal Orchestra.
+
+Multi-manager investment is an investment product that consists of multiple specialized funds.
+
+Multi-Man (alter ego Duncan Pramble) is a fictional character that has been both a superhero and a supervillain in DC Comics comic books.
+
+Multimap.
+
+com was a United Kingdom based provider of mapping and location-based services.
+
+MultiMarkdown is a lightweight markup language created by Fletcher T. Penney and based on Markdown.
+
+Multimarket competition may result in the reduction of the competitive intensity among rivals, an effect known as mutual forbearance.
+
+Multimarket contact gives a firm the option to respond to actions or attacks by a rival not only in the market being challenged, but also in other markets where they both compete.
+
+Multimarket contact occurs when firms meet the same rivals in multiple markets.
+
+Multimark was a logo introduced by Canadian Pacific Railway on July 17, 1968 to identify each of its various operations.
+
+Multi-master replication can also be contrasted with failover clustering where passive slave servers are replicating the master data in order to prepare for takeover in the event that the master stops functioning.
+
+Multi-master replication can be contrasted with master-slave replication, in which a single member of the group is designated as the "master" for a given piece of data and is the only node allowed to modify that data item.
+
+Multi-master replication is a method of database replication which allows data to be stored by a group of computers, and updated by any member of the group.
+
+Multi-material injection molding (MMM) is the process of molding two or more different materials into one plastic part at one time.
+
+MultiMate was a word processor developed by Multimate International for IBM PC MS-DOS computers in the early 1980s.
+
+Multimatic Motorsports celebrated its 25th anniversary in 2017.
+
+Multimatic Motorsports is the competition arm of Multimatic Engineering.
+
+Multimedia artist Tony Martin (artist) cited Countryman's custom electronics as key to his cybernetic feedback art in the 1960s.
+
+Multimedia Broadcast multicast service Single Frequency Network (MBSFN) is a communication channel defined in the fourth-generation cellular networking standard called Long Term Evolution (LTE).
+
+Multimedia Broadcast Multicast Services (MBMS) is a point-to-multipoint interface specification for existing and upcoming 3GPP cellular networks, which is designed to provide efficient delivery of broadcast and multicast services, both within a cell as well as within the core network.
+
+Multimedia cartography is the collection of geographical information in a manner that allows presentation through various display interfaces.
+
+Multimedia Class Scheduler Service (MMCSS) is a Windows service that allows multimedia applications to get prioritized access to CPU for time-sensitive processing (such as multimedia applications) as well as prioritized disk access to ensure that the process is not starved of data to process.
+
+Multimedia Container Format, abbreviated MCF, is an unfinished container format specification and a predecessor of Matroska.
+
+Multimedia container formats can contain any one of a number of different video coding formats; for example the MP4 container format can contain video in either the MPEG-2 Part 2 or the H.
+
+264 video coding format, among others.
+
+Multimedia contrasts with media that use only rudimentary computer displays such as text-only or traditional forms of printed or hand-produced material.
+
+Multimedia devices are electronic media devices used to store and experience multimedia content.
+
+Multimedia Entertainment (formerly Avco Program Sales) was an American television production/distribution company originally formed in 1968.
+
+Multimedia Exchange Network over Satellite (MENOS) is a communications protocol for exchanging multimedia content using communications satellites, most commonly used by professional broadcasters.
+
+Multimedia franchises usually develop due to the popularization of an original creative work, and then its expansion to other media through licensing agreements, with respect to intellectual property in the franchise's characters and settings, although the trend later developed wherein franchises would be launched in multiple forms of media simultaneously.
+
+Multimedia franchises usually develop through a character or fictional world becoming popular in one media, and then expanding to others through licensing agreements, with respect to intellectual property in the franchise's characters and settings.
+
+Multimedia fugacity model is a model in environmental chemistry that summarizes the processes controlling chemical behavior in environmental media by developing and applying of mathematical statements or "models" of chemical fate.
+
+Multimedia fugacity models are utilized to study and predict the behavior of chemicals in different environmental compartments.
+
+Multimedia Home Platform (DVB-MHP) is an open middleware system standard designed by the DVB project for interactive digital television.
+
+Multimedia, Inc. was a media company that owned 10 daily newspapers, three weekly newspapers, two radio stations, five television stations, and a cable television system division.
+
+Multimedia Internet KEYing (MIKEY) is a key management protocol that is intended for use with real-time applications.
+
+Multimedia is content that uses a combination of different content forms such as text, audio, images, animations, video and interactive content.
+
+Multimedia is distinguished from mixed media in fine art; for example, by including audio it has a broader scope.
+
+Multimedia journalism is the practice of contemporary journalism that distributes news content either using two or more media formats via the Internet, or disseminating news report via multiple media platforms.
+
+Multimedia Messaging Service (MMS) is a standard way to send messages that include multimedia content to and from a mobile phone over a cellular network.
+
+Multimedia Multimedia objects can also be objects in a SAIF dataset and referenced accordingly.
+
+Multimedia offers a different way to view data that has been generated and stored by spatial resource packages.
+
+Multimedia Ontology language (M-OWL) is an ontology representation language that enables such perceptual modeling.
+
+Multi-media players designed for video playback, which can also play music, are included under comparison of video player software.
+
+Multimedia, programming and IT security are covered in the study program.
+
+Multimedia psychotherapy is a new form of psychotherapy created by psychoanalyst Domenico A. Nesci (member of the International Psychoanalytic Association) and his son, producer artist Filippo A. Nesci, in Rome, Italy, in 2007.
+
+The method was originally conceived as a technique to help mourning patients suffering from grief and bereavement.
+
+Multimedia Records (stylized as MULTIMEDIArecords) is a Serbian music label based in Belgrade.
+
+Multimedia search can be implemented through multimodal search interfaces, i.
+
+e., interfaces that allow to submit search queries not only as textual requests, but also through other media.
+
+Multimedia search enables information search using queries in multiple data types including text and other multimedia formats.
+
+Multimedia Studies is an interdisciplinary field of academic discourse focused on the understanding of technologies and cultural dimensions of linking traditional media sources with ones based on new media to support social systems.
+
+Multimedia translation, also sometimes referred to as Audiovisual translation, is a specialized branch of translation which deals with the transfer of multimodal and multimedial texts into another language and/or culture.
+
+Multimedia University in Melaka is the 1st private university in Malaysia obtaining exemption of CLP exam for its law graduates.
+
+Multimedia University (MMU; Malay: Universiti Multimedia) is a private university in Malaysia.
+
+Multimedios Radio is the radio division of Grupo Multimedios, operating 31 radio stations in northern and central Mexico.
+
+Multimedios traces its history to the founding of XEAW-AM in the late 1930s.
+
+Multi-member constituencies in the UK Parliament (and its predecessor bodies in the component parts of the United Kingdom) existed from the earliest era of elected representation in Parliament until the last of them were abolished prior to the UK general election, 1950, with the passing of the Representation of the People Act 1948.
+
+Multi-member electorates were re-introduced in the four main centers and the 'country quota' (which gave more weight to rural votes) was increased to 28%.
+
+Multimerin 1, also known as elastin microfibril interfacer 4 (EMILIN-4), is a protein that, in humans, is encoded by the MMRN1 gene.
+
+Multimerin is a massive, soluble protein found in platelets and in the endothelium of blood vessels.
+
+Multimers generally range in size from dimers to octamers; however, some companies use even higher quantities of MHC per multimer.
+
+Multimers may be used to display class 1 MHC, class 2 MHC, or nonclassical molecules (e.
+
+g. CD1d) from species such as monkeys, mice, and humans.
+
+Multimeters are available in a wide range of features and prices.
+
+Multimethodology or multimethod research includes the use of more than one method of data collection or research in a research study or set of related studies.
+
+Multimillionaire Leung Moon-Lam intended to build a theme park on the bible there.
+
+Multimillion audience follows with interest the competition of the participants day after day, and "Russia K" TV channel transmits the Gala Closing concert live.
+
+Multimillion-dollar homes can be seen along both the ridge and the lake.
+
+MultiMission Modular Spacecraft is a NASA design of modular spacecraft, intended to save cost and ease servicing.
+
+Multimodal Architecture and Interfaces is an open standard developed by the World Wide Web Consortium since 2005.
+
+Multimodal Caucedo Port is located in Caucedo, Boca Chica, Santo Domingo Este, Dominican Republic.
+
+Multimodal interaction provides the user with multiple modes of interacting with a system.
+
+Multimodal search is a type of search that uses different methods to get relevant results.
+
+Multimodal transport driven container logistics operations typically utilize ocean-going vessels for long-distance movements, with inland movements undertaken by barge, rail or truck.
+
+Multi-modal warehouse and trans-load facilities are available.
+
+Multi-mode fiber has a fairly large core diameter that enables multiple light modes to be propagated and limits the maximum length of a transmission link because of modal dispersion.

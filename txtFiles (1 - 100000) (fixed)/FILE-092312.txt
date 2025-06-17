@@ -1,0 +1,149 @@
+The final Bayesian age model for Warratyi was run using the general outlier function66, which is based on a Student’s t-test distribution with 5 degrees of freedom. Prior outlier probabilities of 5% were equally assigned to all dating samples to identify potentially significant statistical outliers. Likelihood estimates that yielded posterior outlier probabilities >5% were not excluded from the final model but were proportionally down-weighted in the iterative Monte Carlo runs, thereby producing an averaged chronological model66.
+
+Use-wear and residue analysesUse-wear studies were conducted using a hand-held polarizing Dino-Lite AM4815ZT microscope at magnifications of 30× to 230×. Additional high-power microscopic investigation using an Olympus BX51 at magnifications of 50× and 500× in brightfield and darkfield, were undertaken on seven artefacts. Within the overall study, six small samples of residue (approximately 10–20 μl) were extracted from margins or areas of interest on specific stone artefacts. Samples were extracted with pipettes using distilled water as the lifting medium and transferred to slides that had been pre-cleaned with ethanol. The Dino-lite was used to guide this process. Sample slides were dried under covers for 24 h and then stained with a 0.
+
+25% solution of picrosirius red using the protocols described previously67. A Leitz Dialux 22 microscope with polarizing capability was used to examine the stained slides. Residues were photographed in plane, part-polarized and cross-polarized light at a magnification of 400× using a Tucsen ISH 500 camera.
+
+Data availabilityAll elements necessary to allow interpretation and replication of results, including full datasets and detailed experimental procedures are provided in the Supplementary Information. Fossils and archaeological material generated in this study will be deposited at the SA Museum and an Adnyamathanha Traditional Lands Association (ATLA)-keeping place within a 6–12-month time-frame and will be publicly accessible upon request with permission from ATLA and the corresponding author. ||||| Oldest known evidence of Aboriginal settlement in arid Australia found in Flinders Ranges rock shelterUpdatedThe chance discovery of a rock shelter in the Flinders Ranges has unearthed one of the most important prehistoric sites in Australia.
+
+Key points: Dating of artefacts and fossils from Warratyi indicates human settlement between 49,000 and 46,000 years agoTiming shows people moved through central Australia and used key technologies such as stone axes and ochre much earlier than previously thoughtArchaeological evidence also shows humans lived alongside, and hunted megafaunaThe site, known as Warratyi, shows Aboriginal Australians settled the arid interior of the country around 49,000 years ago — some 10,000 years earlier than previously thought.
+
+The shelter, about 550 kilometres north of Adelaide, also contains the first reliably dated evidence of human interaction with megafauna.
+
+Artefacts excavated at the site also push back the earliest-known dates on the development of key bone and stone axe technologies and the use of ochre in Australia.
+
+Lead author Giles Hamm, a consultant archaeologist and doctoral student at La Trobe University, found the site with local Adnyamathanha elder Clifford Coulthard while surveying gorges in the northern Flinders Ranges."
+
+Nature called and Cliff walked up this creek bed into this gorge and found this amazing spring surrounded by rock art," Mr Hamm said."
+
+A man getting out of the car to go to the toilet led to the discovery of one of the most important sites in Australian pre-history."
+
+Mr Hamm said during a survey of the gorge they noticed a rock shelter with a blackened roof about 20 metres above the creek bed."
+
+Immediately when we saw that we thought, 'Wow, that's people lighting fires inside that rock shelter, that's human activity'," he said.
+
+At the time they had no idea how significant the find was, Mr Hamm admitted, and thought maybe it would reach back about 5,000 years.
+
+Excavations reveal treasure trove of artefacts and bonesWorking with the Adnyamathanha people over the past nine years, Mr Hamm and colleagues recovered from the one-metre-deep excavations around 4,300 artefacts and 200 bone fragments from 16 mammals and one reptile.
+
+Importantly dating of the artefacts and fossil finds show humans occupied the site from 49,000 to 46,000 years ago.
+
+Mr Hamm said the significance of the site was the combination of its age and geographic location.
+
+The previous oldest-known site in the arid zone, located at Puritjarra in western Central Australia, is around 38,000 years old."[
+
+This discovery] puts people moving south from the northern part of the continent to the southern interior a lot sooner than we thought," he said.
+
+However, Mr Hamm said it was likely the climate was more favourable when they arrived."
+
+They got there before it became really arid," he said."
+
+In one sense they were trapped in the Flinders Ranges because once the climate changed [due to the last glacial maximum] it was too risky to move out of these well-watered ranges that had these permanent springs."
+
+It was a view supported by palaeoanthropologist Michael Westaway at Griffith University, who was part of a recent genomic study that confirmed modern Aboriginal Australians are the descendants of the first people to inhabit Australia and showed they adapted genetically to survive in the desert."
+
+Our DNA paper suggested the arid centre at 50,000 years ago was not really a barrier to the movement of people, and this seems to be what Giles is suggesting — people were able to migrate south quite quickly," Dr Westaway said.
+
+Among the other significant artefact finds at the site was the earliest-known use of ochre in Australia and South-East Asia around 49,000-46,000 years ago.
+
+Mr Hamm said they had pushed back the dates on the development of technologies such as bone needles (40,000-38,000 years ago), wood-handled stone tools (at least 24,000 years ago) and gypsum use (40,000-33,000 years ago).
+
+The site also provided reliably dated evidence of hafted axe technology about 38,000 years ago.
+
+Evidence dates cohabitation with megafaunaCo-author Professor Gavin Prideaux pointed to the discovery of bones from the extinct giant wombat-like Diprotodon optatum and eggs from an ancient giant bird as important evidence of interaction with ancient humans which would have an impact on the debate over the extinction of megafauna.
+
+Professor Prideaux, from Flinders University's School of Biological Sciences, said the only previous site in Australia where megafauna remains and human artefacts had been found together was Cuddie Springs in NSW, which had become the subject of controversy over the accuracy of dating."
+
+One good thing about this study ... is there's no doubt there are megafauna remains in the form of Diprotodon and a giant bird in that rock shelter in a well-dated, well-stratified context sometime between 45,000 and 50,000 years ago," Professor Prideaux said."
+
+The only way those bones and shells got there [because of the steep incline up to the rock shelter] is because people brought them there [to eat] ... in terms of megafauna that's the really significant finding."
+
+Professor Prideaux said the discovery was an important milestone in the debate over whether humans or climate change drove the extinction of megafauna."[
+
+The find] undermines one of the supposed pillars of support for climate change, not humans, causing the extinctions because [the Warrayti site shows] humans lived alongside these animals and hunted them," he said.
+
+Professor Prideaux said the paper, published yesterday in Nature, "smashed several paradigms about Indigenous Australians"."
+
+People ... were set up in arid southern Australia by about 50,000 years ago and they had all these amazing technologies much earlier than what we've thought."
+
+Dr Westaway supported this view."
+
+There is a Eurocentric view that material culture in Australia is quite simplistic and backward, but this helps rewrite that story," he said.
+
+Elders told stories of sheltersMr Coulthard, of the Adnyamathanha Traditional Lands Association, said he had worked on the property where Warratyi was located when he was a teenager.
+
+The elders he had worked with had told him their people had lived in the area and had pointed out a lot of the shelters.
+
+He had forgotten the information until he teamed up with Mr Hamm and believed "the spirits showed me the road" to the site.
+
+He said the Adnyamathanha people were proud and happy about the discovery and interested to know how it would be received.
+
+Topics: science-and-technology, indigenous-aboriginal-and-torres-strait-islander, archaeology, saFirst posted ||||| Humans arrived in the arid interior of Australia some 10,000 years earlier than we thought, archaeologists suggest, with the discovery of ancient artefacts in a South Australian cave that have been dated to as far back as 49,000 years ago.
+
+That means once humans first set foot on the Australian coastline, it took a mere 1,000 years for them to expand out into its dry interior - further evidence of the ingenuity of what now stands as the oldest continuous civilisation on Earth.
+
+The site, which is a newly discovered cave in the Flinders Ranges, about 550 km north of Adelaide, is known as the Warratyi rock-shelter.
+
+Archaeologist Giles Hamm from La Trobe University in Melbourne led the excavations at the cave, finding what appear to be some of the oldest bone and quartz tools ever found in Australia, plus the earliest known use of the pigment ochre in the country’s history.
+
+Artefacts that have been found so far include burnt eggshells, sharpened stone and bone tools, red ochre and gypsum pigments, and the team says this is evidence that these early technologies were developed locally."
+
+The old idea is that people might have come from the East, from the Levant, out of Africa, and these modern humans may have come with a package of innovative technologies," Hamm told Nicola Davis at The Guardian."
+
+But the development of these fine stone tools, the bone technology, we think that happened as a local innovation, due to a local cultural evolution."
+
+That’s significant, adds one of the team, Gavin Prideaux from Flinders University in Adelaide, because it challenges certain assumptions that Indigenous Australians were not as innovative as similar populations elsewhere in on the globe."
+
+There is a Eurocentric view that material culture in Australia is quite simplistic and backward, but this helps rewrite that story," he told ABC News.
+
+Until now, the oldest human tool found in Australia’s vast, arid interior has been a tiny axe fragment found earlier this year in the Carpenter's Gap rock-shelter of the Kimberley region of northwest Australia.
+
+While the Carpenter’s Gap site is not far from the northwest coast of Australia - thought to be one of the earliest settled parts of Australia - the Warratyi rock-shelter sits more than 2,000 km from the early settlement of Lake Mungo in southeasten New South Wales, making it a much more difficult trek.
+
+The tools have been dated based on a couple of estimates - quartz grains from the site have been dated to 44,000 years ago, but radiocarbon dating of the burnt eggshells, which are thought to be evidence of human cooking, revealed them to be between 45,000 and 49,000 years old.
+
+The shells are thought to have come from emus and a large, extinct flightless bird from the Genyornis genus. Together with discovery of bones of a huge, extinct wombat-like species, Diprotodon optatum, this suggests that early humans were actually interacting with Australia’s legendary megafauna.
+
+Diprotodon reconstruction. Credit: Dmitry Bogdanov/WikimediaThis doesn’t necessarily mean they were hunting them, but they were at least living in close enough quarters that they could find bones and eggs and bring them back to the cave."
+
+One good thing about this study ... is there's no doubt there are megafauna remains in the form of Diprotodon and a giant bird in that rock shelter in a well-dated, well-stratified context sometime between 45,000 and 50,000 years ago," Prideaux told the ABC."
+
+The only way those bones and shells got there is because people brought them there ... in terms of megafauna that's the really significant finding."
+
+The find is, of course, controversial, because that tiny axe fragment we mentioned earlier has been dated to around the same time period - 44,000 to 49,000 years ago. The problem is these estimates are all fairly rough, and still up for interpretation - Hamm's team, for example, insists that the axe is no more than 48,000 years old."[
+
+E]veryone is keen to make their site sound older," Sue O'Connor from the Australian National University, who was not involved in either find, told Marcus Strom at The Sydney Morning Herald. But she did add that "the Hamm discovery was likely older"."
+
+The methodology of this study is as good as it gets," she said. "It's a very important site and a really significant find."
+
+Debate will likely rage among archaeologists for some time, but the most important thing is that we're finally seeing real evidence of just how widespread the Indigenous Australians were within just 1,000 years of hitting the coast.
+
+The study has been published in Nature. |||||The voluntary rate of £7.
+
+85 an hour set by university researchers is 21% higher than the legal minimum wage of £6.
+
+50.
+
+Wales TUC national officer Julie Cook said low pay was "blighting the lives" of hundreds of thousands of families.
+
+Business organisation CBI Wales said living wages were a useful guide but many firms could not afford to pay more than the minimum wage.
+
+The UK government said it supported firms who paid the living wage "only when it is affordable and not at the expense of jobs".
+
+Around 261,000 workers in Wales are thought to earn less than the living wage, according to the latest annual report on the matter by KPMG.
+
+Across the UK 22% of workers are said to earn less than the living wage, with Northern Ireland worst off with 27%.
+
+The voluntary rate has been adopted by more than 1,000 employers across the UK, benefiting 35,000 workers.
+
+Ms Cook called for people to be given "a fair day's pay for an honest day's work", saying it would help boost the economy.
+
+She said: "It is now time for all responsible employers to commit to adopting this standard, which enables workers to earn just enough to be able to live a decent life."
+
+The UK living wage is calculated by the Centre for Research in Social Policy at Loughborough University, while a higher rate for London is calculated by the Greater London Authority.
+
+CBI Wales Director Emma Watkins said living wages could be a "useful guide" but stressed that the national minimum wage enjoyed "strong support" from the business community.
+
+She added: "Rather than requiring firms to introduce pay rises that many cannot afford, we must look at ways to raise living standards sustainably."
+
+A spokesperson for the UK Department for Business, Industry and Skills said:  "We support businesses that choose to pay the Living Wage, however only when it is affordable and not at the expense of jobs."

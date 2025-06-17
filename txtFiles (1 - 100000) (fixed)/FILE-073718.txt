@@ -1,0 +1,743 @@
+The MONA or Hodges number for Hydriomena edenata is 7232.
+
+The MONA or Hodges number for Hydriomena exculpata is 7223.
+
+The MONA or Hodges number for Hydriomena expurgata is 7224.
+
+The MONA or Hodges number for Hydriomena furculoides is 7273.
+
+The MONA or Hodges number for Hydriomena irata is 7228.
+
+The MONA or Hodges number for Hydriomena magnificata is 7270.
+
+The MONA or Hodges number for Hydriomena manzanita is 7277.
+
+The MONA or Hodges number for Hydriomena mississippiensis is 7252.
+
+The MONA or Hodges number for Hydriomena nevadae is 7245.
+
+The MONA or Hodges number for Hydriomena nubilofasciata is 7276.
+
+The MONA or Hodges number for Hydriomena perfracta is 7229.
+
+The MONA or Hodges number for Hydriomena pluviata is 7239.
+
+The MONA or Hodges number for Hydriomena quinquefasciata is 7258.
+
+The MONA or Hodges number for Hydriomena renunciata is 7236.
+
+The MONA or Hodges number for Hydroeciodes repleta is 10636.
+
+The MONA or Hodges number for Hydroeciodes serrata is 10637.
+
+The MONA or Hodges number for Hylesia coinopus is 7750.
+
+The MONA or Hodges number for Hymenodria mediodentata is 7278.
+
+The MONA or Hodges number for Hypagyrtis piniata is 6656.
+
+The MONA or Hodges number for Hyparpax aurostriata is 8025.
+
+The MONA or Hodges number for Hyparpax perophoroides is 8026.
+
+The MONA or Hodges number for Hypena atomaria is 8450.
+
+The MONA or Hodges number for Hypena californica is 8462.
+
+The MONA or Hodges number for Hypena decorata is 8463.
+
+The MONA or Hodges number for Hypena degesalis is 8459.
+
+The MONA or Hodges number for Hypena heuloa is 8449.
+
+The MONA or Hodges number for Hypena minualis is 8457.
+
+The MONA or Hodges number for Hypena modestoides is 8464.
+
+The MONA or Hodges number for Hypena porrectalis is 8460.
+
+The MONA or Hodges number for Hypena ramstadtii is 8442.
+
+1.
+
+The MONA or Hodges number for Hypena umbralis is 8453.
+
+The MONA or Hodges number for Hypena vega is 8451.
+
+The MONA or Hodges number for Hypena vetustalis is 8454.
+
+1.
+
+The MONA or Hodges number for Hypenula caminalis is 8377.
+
+The MONA or Hodges number for Hyperaeschra georgica is 7917.
+
+The MONA or Hodges number for Hyperaeschra tortuosa is 7918.
+
+The MONA or Hodges number for Hyperstrotia aetheria is 9036.
+
+The MONA or Hodges number for Hyperstrotia flaviguttata is 9039.
+
+The MONA or Hodges number for Hyperstrotia nana is 9035.
+
+The MONA or Hodges number for Hypocala andremona is 8642.
+
+The MONA or Hodges number for Hypomecis buchholzaria is 6438.
+
+The MONA or Hodges number for Hypomecis gnopharia is 6440.
+
+The MONA or Hodges number for Hypomecis longipectinaria is 6439.
+
+1.
+
+The MONA or Hodges number for Hypomecis luridula is 6437.
+
+The MONA or Hodges number for Hypomecis umbrosaria is 6439.
+
+The MONA or Hodges number for Hyppa brunneicrista is 9580.
+
+The MONA or Hodges number for Hyppa contrasta is 9579.
+
+The MONA or Hodges number for Hyppa indistincta is 9581.
+
+The MONA or Hodges number for Hyppa xylinoides is 9578.
+
+The MONA or Hodges number for Hyssia degenerans is 10597.
+
+1.
+
+The MONA or Hodges number for Idaea basinta is 7110.
+
+The MONA or Hodges number for Idaea celtima is 7109.
+
+The MONA or Hodges number for Idaea demissaria is 7114.
+
+The MONA or Hodges number for Idaea eremiata is 7115.
+
+The MONA or Hodges number for Idaea gemmata is 7116.
+
+The MONA or Hodges number for Idaea hilliata is 7118.
+
+The MONA or Hodges number for Idaea microphysa is 7104.
+
+The MONA or Hodges number for Idaea micropterata is 7119.
+
+The MONA or Hodges number for Idaea minuta is 7101.
+
+The MONA or Hodges number for Idaea obfusaria is 7123.
+
+The MONA or Hodges number for Idaea occidentaria is 7117.
+
+The MONA or Hodges number for Idaea ostentaria is 7121.
+
+The MONA or Hodges number for Idaea pervertipennis is 7107.
+
+The MONA or Hodges number for Idaea productata is 7112.
+
+The MONA or Hodges number for Idaea retractaria is 7124.
+
+The MONA or Hodges number for Idaea scintillularia is 7105.
+
+The MONA or Hodges number for Idaea violacearia is 7120.
+
+The MONA or Hodges number for Iodopepla u-album is 9522.
+
+The MONA or Hodges number for Ipimorpha nanaimo is 9552.
+
+The MONA or Hodges number for Ipimorpha pleonectusa is 9555.
+
+The MONA or Hodges number for Ipimorpha viridipallida is 9553.
+
+The MONA or Hodges number for Iridopsis cypressaria is 6571.
+
+The MONA or Hodges number for Iridopsis dataria is 6573.
+
+The MONA or Hodges number for Iridopsis emasculatum is 6589.
+
+The MONA or Hodges number for Iridopsis fragilaria is 6585.
+
+The MONA or Hodges number for Iridopsis gemella is 6587.
+
+The MONA or Hodges number for Iridopsis humaria is 6584.
+
+The MONA or Hodges number for Iridopsis jacumbaria is 6572.
+
+The MONA or Hodges number for Iridopsis larvaria is 6588.
+
+The MONA or Hodges number for Iridopsis obliquaria is 6577.
+
+The MONA or Hodges number for Iridopsis perfectaria is 6581.
+
+The MONA or Hodges number for Iridopsis sancta is 6579.
+
+The MONA or Hodges number for Iridopsis vellivolata is 6582.
+
+The MONA or Hodges number for Isturgia dislocaria is 6419.
+
+The MONA or Hodges number for Itomia opistographa is 8555.
+
+1.
+
+The MONA or Hodges number for Ixala adventaria is 6698.
+
+The MONA or Hodges number for Ixala desperaria is 6695.
+
+The MONA or Hodges number for Ixala proutearia is 6696.
+
+The MONA or Hodges number for Lacanobia atlantica is 10297.
+
+The MONA or Hodges number for Lacanobia grandis is 10300.
+
+The MONA or Hodges number for Lacanobia nevadae is 10296.
+
+The MONA or Hodges number for Lacanobia radix is 10298.
+
+The MONA or Hodges number for Lacanobia subjuncta is 10299.
+
+The MONA or Hodges number for Lacinipolia aileenae is 10406.
+
+6.
+
+The MONA or Hodges number for Lacinipolia anguina is 10372.
+
+The MONA or Hodges number for Lacinipolia basiplaga is 10396.
+
+The MONA or Hodges number for Lacinipolia bucketti is 10406.
+
+1.
+
+The MONA or Hodges number for Lacinipolia buscki is 10421.
+
+The MONA or Hodges number for Lacinipolia circumcincta is 10399.
+
+The MONA or Hodges number for Lacinipolia comis is 10408.
+
+The MONA or Hodges number for Lacinipolia consimilis is 10420.
+
+The MONA or Hodges number for Lacinipolia cuneata is 10371.
+
+The MONA or Hodges number for Lacinipolia davena is 10407.
+
+The MONA or Hodges number for Lacinipolia erecta is 10403.
+
+The MONA or Hodges number for Lacinipolia lepidula is 10401.
+
+The MONA or Hodges number for Lacinipolia leucogramma is 10392.
+
+The MONA or Hodges number for Lacinipolia longiclava is 10374.
+
+The MONA or Hodges number for Lacinipolia lorea is 10405.
+
+The MONA or Hodges number for Lacinipolia lustralis is 10370.
+
+The MONA or Hodges number for Lacinipolia marinitincta is 10412.
+
+The MONA or Hodges number for Lacinipolia martini is 10422.
+
+1.
+
+The MONA or Hodges number for Lacinipolia meditata is 10368.
+
+The MONA or Hodges number for Lacinipolia mimula is 10351.
+
+The MONA or Hodges number for Lacinipolia olivacea is 10406.
+
+The MONA or Hodges number for Lacinipolia palilis is 10383.
+
+The MONA or Hodges number for Lacinipolia quadrilineata is 10422.
+
+The MONA or Hodges number for Lacinipolia rodora is 10406.
+
+7.
+
+The MONA or Hodges number for Lacinipolia sharonae is 10406.
+
+3.
+
+The MONA or Hodges number for Lacinipolia spiculosa is 10400.
+
+The MONA or Hodges number for Lacinipolia stenotis is 10382.
+
+The MONA or Hodges number for Lacinipolia stricta is 10398.
+
+The MONA or Hodges number for Lacinipolia strigicollis is 10415.
+
+The MONA or Hodges number for Lacinipolia triplehorni is 10403.
+
+1.
+
+The MONA or Hodges number for Lacinipolia viridifera is 10419.
+
+The MONA or Hodges number for Lacinipolia vittula is 10380.
+
+The MONA or Hodges number for Lacosoma chiridota is 7659.
+
+The MONA or Hodges number for Lactura basistriga is 2404.
+
+The MONA or Hodges number for Lambdina flavilinearia is 6890.
+
+The MONA or Hodges number for Lambdina laeta is 6891.
+
+The MONA or Hodges number for Lambdina pultaria is 6889.
+
+The MONA or Hodges number for Leptostales crossii is 7174.
+
+The MONA or Hodges number for Leptostales hepaticaria is 7175.
+
+The MONA or Hodges number for Leptostales laevitaria is 7177.
+
+The MONA or Hodges number for Leptostales pannaria is 7173.
+
+The MONA or Hodges number for Leptostales rubromarginaria is 7179.
+
+The MONA or Hodges number for Lerodea arabus is 4112.
+
+The MONA or Hodges number for Lesmone detrahens is 8651.
+
+The MONA or Hodges number for Lesmone formularis is 8655.
+
+The MONA or Hodges number for Lesmone fufius is 8652.
+
+The MONA or Hodges number for Lesmone griseipennis is 8654.
+
+The MONA or Hodges number for Lesmone hinna is 8653.
+
+The MONA or Hodges number for Lethe anthedon is 4568.
+
+1.
+
+The MONA or Hodges number for Lethe appalachia is 4569.
+
+The MONA or Hodges number for Lethe creola is 4568.
+
+2.
+
+The MONA or Hodges number for Letis xylia is 8646.
+
+1.
+
+The MONA or Hodges number for Leucania adjuta is 10456.
+
+The MONA or Hodges number for Leucania anteroclara is 10442.
+
+The MONA or Hodges number for Leucania calidior is 10460.
+
+The MONA or Hodges number for Leucania dia is 10449.
+
+1.
+
+The MONA or Hodges number for Leucania extincta is 10439.
+
+The MONA or Hodges number for Leucania farcta is 10441.
+
+The MONA or Hodges number for Leucania imperfecta is 10452.
+
+The MONA or Hodges number for Leucania incognita is 10450.
+
+The MONA or Hodges number for Leucania inermis is 10459.
+
+The MONA or Hodges number for Leucania insueta is 10449.
+
+The MONA or Hodges number for Leucania lapidaria is 10446.
+
+1.
+
+The MONA or Hodges number for Leucania linita is 10440.
+
+The MONA or Hodges number for Leucania multilinea is 10446.
+
+The MONA or Hodges number for Leucania oaxacana is 10451.
+
+The MONA or Hodges number for Leucania oregona is 10441.
+
+1.
+
+The MONA or Hodges number for Leucania pilipalpis is 10463.
+
+The MONA or Hodges number for Leucania pseudargyria is 10462.
+
+The MONA or Hodges number for Leucania scirpicola is 10455.
+
+The MONA or Hodges number for Leucania senescens is 10455.
+
+1.
+
+The MONA or Hodges number for Leucania stolata is 10453.
+
+The MONA or Hodges number for Leucania subpunctata is 10453.
+
+1.
+
+The MONA or Hodges number for Leucania ursula is 10461.
+
+The MONA or Hodges number for Leucocnemis nivalis is 10050.
+
+The MONA or Hodges number for Leucocnemis perfundis is 10049.
+
+The MONA or Hodges number for Lichnoptera decora is 9187.
+
+The MONA or Hodges number for Lineostriastiria hachita is 9758.
+
+The MONA or Hodges number for Lineostriastiria hutsoni is 9756.
+
+The MONA or Hodges number for Lineostriastiria olivalis is 9757.
+
+The MONA or Hodges number for Lirimiris truncata is 8027.
+
+The MONA or Hodges number for Lithacodes gracea is 4664.
+
+The MONA or Hodges number for Lithacodia phya is 9055.
+
+The MONA or Hodges number for Lithariapteryx abroniaeella is 2510.
+
+The MONA or Hodges number for Lithophane amanda is 9891.
+
+The MONA or Hodges number for Lithophane antennata is 9910.
+
+The MONA or Hodges number for Lithophane baileyi is 9902.
+
+The MONA or Hodges number for Lithophane bethunei is 9887.
+
+The MONA or Hodges number for Lithophane contenta is 9901.
+
+The MONA or Hodges number for Lithophane contra is 9897.
+
+The MONA or Hodges number for Lithophane dilatocula is 9923.
+
+The MONA or Hodges number for Lithophane disposita is 9892.
+
+The MONA or Hodges number for Lithophane fagina is 9917.
+
+The MONA or Hodges number for Lithophane franclemonti is 9888.
+
+1.
+
+The MONA or Hodges number for Lithophane gausapata is 9896.
+
+The MONA or Hodges number for Lithophane georgii is 9913.
+
+The MONA or Hodges number for Lithophane grotei is 9915.
+
+The MONA or Hodges number for Lithophane hemina is 9893.
+
+The MONA or Hodges number for Lithophane itata is 9920.
+
+The MONA or Hodges number for Lithophane lanei is 9893.
+
+1.
+
+The MONA or Hodges number for Lithophane laticinerea is 9914.
+
+The MONA or Hodges number for Lithophane nasar is 9926.
+
+The MONA or Hodges number for Lithophane oriunda is 9894.
+
+The MONA or Hodges number for Lithophane patefacta is 9886.
+
+The MONA or Hodges number for Lithophane pertorrida is 9912.
+
+The MONA or Hodges number for Lithophane pexata is 9922.
+
+The MONA or Hodges number for Lithophane ponderosa is 9924.
+
+1.
+
+The MONA or Hodges number for Lithophane querquera is 9904.
+
+The MONA or Hodges number for Lithophane scottae is 9904.
+
+1.
+
+The MONA or Hodges number for Lithophane semiusta is 9885.
+
+The MONA or Hodges number for Lithophane signosa is 9895.
+
+The MONA or Hodges number for Lithophane subtilis is 9900.
+
+The MONA or Hodges number for Lithophane tepida is 9909.
+
+The MONA or Hodges number for Lithophane thujae is 9899.
+
+1.
+
+The MONA or Hodges number for Lithophane unimoda is 9916.
+
+The MONA or Hodges number for Lithostege deserticola is 7633.
+
+The MONA or Hodges number for Lithostege fuscata is 7629.
+
+The MONA or Hodges number for Lithostege marcata is 7630.
+
+The MONA or Hodges number for Litodonta aonides is 7971.
+
+The MONA or Hodges number for Litodonta gigantea is 7972.
+
+The MONA or Hodges number for Litodonta hydromeli is 7968.
+
+The MONA or Hodges number for Litodonta wymola is 7970.
+
+The MONA or Hodges number for Litoprosopus coachella is 8558.
+
+The MONA or Hodges number for Litoprosopus confligens is 8559.
+
+The MONA or Hodges number for Litoprosopus futilis is 8556.
+
+The MONA or Hodges number for Lobocleta granitaria is 7095.
+
+The MONA or Hodges number for Lobocleta griseata is 7099.
+
+The MONA or Hodges number for Lobocleta lanceolata is 7098.
+
+The MONA or Hodges number for Lobocleta plemyraria is 7097.
+
+The MONA or Hodges number for Lobophora montanata is 7641.
+
+The MONA or Hodges number for Lobophora nivigerata is 7640.
+
+The MONA or Hodges number for Lomographa elsinora is 6669.
+
+The MONA or Hodges number for Lomographa semiclarata is 6666.
+
+The MONA or Hodges number for Loscopia velata is 9454.
+
+The MONA or Hodges number for Lycaena editha is 4254.
+
+The MONA or Hodges number for Lycaena gorgon is 4255.
+
+The MONA or Hodges number for Lycaena xanthoides is 4253.
+
+The MONA or Hodges number for Lychnosea helveolaria is 6857.
+
+The MONA or Hodges number for Lychnosea intermicata is 6858.
+
+The MONA or Hodges number for Lycia rachelae is 6653.
+
+The MONA or Hodges number for Lycia ypsilon is 6652.
+
+The MONA or Hodges number for Lygephila victoria is 8563.
+
+The MONA or Hodges number for Lythrodes tripuncta is 9734.
+
+The MONA or Hodges number for Lythrodes venatus is 9733.
+
+The MONA or Hodges number for Lytrosis heitzmanorum is 6722.
+
+The MONA or Hodges number for Lytrosis permagnaria is 6723.
+
+The MONA or Hodges number for Lytrosis sinuosa is 6721.
+
+The MONA or Hodges number for Macaria adonis is 6338.
+
+The MONA or Hodges number for Macaria distribuaria is 6336.
+
+The MONA or Hodges number for Macaria ponderosae is 6338.
+
+1.
+
+The MONA or Hodges number for Macaria sanfordi is 6337.
+
+The MONA or Hodges number for Macaria submarmorata is 6350.
+
+The MONA or Hodges number for Macaria unipunctaria is 6346.
+
+The MONA or Hodges number for Macristis bilinealis is 8402.
+
+The MONA or Hodges number for Macristis geminipunctalis is 8402.
+
+1.
+
+The MONA or Hodges number for Macrochilo santerivalis is 8359.
+
+1.
+
+The MONA or Hodges number for Macronoctua onusta is 9452.
+
+The MONA or Hodges number for Macrurocampa dorothea is 7976.
+
+The MONA or Hodges number for Macrurocampa marthesia is 7975.
+
+The MONA or Hodges number for Malacosoma tigris is 7700.
+
+The MONA or Hodges number for Maliattha concinnimacula is 9050.
+
+The MONA or Hodges number for Maliattha synochitis is 9049.
+
+The MONA or Hodges number for Mamestra curialis is 10272.
+
+The MONA or Hodges number for Mammifrontia rileyi is 9447.
+
+The MONA or Hodges number for Mammifrontia sarae is 9447.
+
+1.
+
+The MONA or Hodges number for Marathyssa basalis is 8956.
+
+The MONA or Hodges number for Marathyssa inficita is 8955.
+
+The MONA or Hodges number for Marathyssa minus is 8956.
+
+1.
+
+The MONA or Hodges number for Marilopteryx carancahua is 10633.
+
+1.
+
+The MONA or Hodges number for Marilopteryx lutina is 10633.
+
+The MONA or Hodges number for Marpesia chiron is 4549.
+
+The MONA or Hodges number for Massala obvertens is 8586.
+
+The MONA or Hodges number for Mathildana newmanella is 1059.
+
+The MONA or Hodges number for Matigramma adoceta is 8680.
+
+3.
+
+The MONA or Hodges number for Matigramma inopinata is 8680.
+
+1.
+
+The MONA or Hodges number for Matigramma obscurior is 8681.
+
+The MONA or Hodges number for Matigramma pulverilinea is 8679.
+
+The MONA or Hodges number for Matigramma rubrosuffusa is 8680.
+
+The MONA or Hodges number for Meganola conspicua is 8988.
+
+The MONA or Hodges number for Meganola dentata is 8986.
+
+The MONA or Hodges number for Meganola fuscula is 8985.
+
+The MONA or Hodges number for Meganola minor is 8984.
+
+The MONA or Hodges number for Meganola minuscula is 8983.
+
+The MONA or Hodges number for Megathymus ursus is 4151.
+
+The MONA or Hodges number for Megisto rubricata is 4579.
+
+The MONA or Hodges number for Melanchra adjuncta is 10292.
+
+The MONA or Hodges number for Melanchra assimilis is 10295.
+
+The MONA or Hodges number for Melanchra pulverulenta is 10294.
+
+The MONA or Hodges number for Melanolophia centralis is 6619.
+
+The MONA or Hodges number for Melanolophia imperfectaria is 6622.
+
+The MONA or Hodges number for Melemaea magdalena is 6855.
+
+The MONA or Hodges number for Melemaea virgata is 6856.
+
+The MONA or Hodges number for Meleneta antennata is 9191.
+
+The MONA or Hodges number for Melipotis nigrobasis is 8602.
+
+The MONA or Hodges number for Melipotis novanda is 8609.
+
+The MONA or Hodges number for Melipotis perpendicularis is 8598.
+
+The MONA or Hodges number for Melipotis prolata is 8606.
+
+The MONA or Hodges number for Memphis pithyusa is 4556.
+
+The MONA or Hodges number for Mericisca gracea is 6605.
+
+The MONA or Hodges number for Mericisca perpictaria is 6606.
+
+The MONA or Hodges number for Mericisca scobina is 6607.
+
+The MONA or Hodges number for Meris alticola is 6879.
+
+1.
+
+The MONA or Hodges number for Meris paradoxa is 6877.
+
+The MONA or Hodges number for Meropleon ambifusca is 9428.
+
+The MONA or Hodges number for Meropleon cinnamicolor is 9425.
+
+1.
+
+The MONA or Hodges number for Meropleon cosmion is 9425.
+
+The MONA or Hodges number for Meropleon linae is 9425.
+
+2.
+
+The MONA or Hodges number for Mesapamea arbora is 9407.
+
+The MONA or Hodges number for Mesapamea fractilinea is 9406.
+
+The MONA or Hodges number for Mesoleuca gratulata is 7308.
+
+The MONA or Hodges number for Mesoleuca ruficillata is 7307.
+
+The MONA or Hodges number for Metalectra albilinea is 8504.
+
+The MONA or Hodges number for Metalectra bigallis is 8501.
+
+The MONA or Hodges number for Metalectra cinctus is 8508.
+
+The MONA or Hodges number for Metalectra edilis is 8507.
+
+The MONA or Hodges number for Metalectra miserulata is 8506.
+
+The MONA or Hodges number for Metalectra richardsi is 8505.
+
+The MONA or Hodges number for Metallata absumens is 8573.
+
+The MONA or Hodges number for Metanema determinata is 6820.
+
+The MONA or Hodges number for Metarranthis amyrisaria is 6824.
+
+The MONA or Hodges number for Metarranthis angularia is 6823.
+
+The MONA or Hodges number for Metarranthis duaria is 6822.
+
+The MONA or Hodges number for Metarranthis homuraria is 6828.
+
+The MONA or Hodges number for Metarranthis indeclinata is 6825.
+
+The MONA or Hodges number for Metarranthis lateritiaria is 6829.
+
+The MONA or Hodges number for Metarranthis mollicularia is 6833.
+
+The MONA or Hodges number for Metarranthis pilosaria is 6830.
+
+The MONA or Hodges number for Metarranthis refractaria is 6827.
+
+The MONA or Hodges number for Metarranthis warneri is 6821.
+
+The MONA or Hodges number for Metaxaglaea australis is 9945.
+
+1.
+
+The MONA or Hodges number for Metaxaglaea semitaria is 9945.
+
+The MONA or Hodges number for Metaxaglaea violacea is 9945.
+
+2.
+
+The MONA or Hodges number for Metria amella is 8666.
+
+The MONA or Hodges number for Metria bilineata is 8667.
+
+The MONA or Hodges number for Micrathetis costiplaga is 9645.
+
+The MONA or Hodges number for Micrathetis tecnion is 9646.
+
+The MONA or Hodges number for Micrathetis triplex is 9644.
+
+The MONA or Hodges number for Ministrymon leda is 4291.
+
+The MONA or Hodges number for Miodera stigmata is 10623.
+
+The MONA or Hodges number for Mniotype pallescens is 9983.
+
+The MONA or Hodges number for Mompha eloisella is 1443.
+
+The MONA or Hodges number for Mompha stellella is 1455.

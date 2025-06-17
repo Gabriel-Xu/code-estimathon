@@ -1,0 +1,123 @@
+When inserted with Mr. Snowden’s passwords, the web crawler became especially powerful. Investigators determined he probably had also made use of the passwords of some colleagues or supervisors.
+
+But he was also aided by a culture within the N.
+
+S.
+
+A., officials say, that “compartmented” relatively little information. As a result, a 29-year-old computer engineer, working from a World War II-era tunnel in Oahu and then from downtown Honolulu, had access to unencrypted files that dealt with information as varied as the bulk collection of domestic phone numbers and the intercepted communications of Chancellor Angela Merkel of Germany and dozens of other leaders.
+
+Officials say web crawlers are almost never used on the N.
+
+S.
+
+A.’
+
+s internal systems, making it all the more inexplicable that the one used by Mr. Snowden did not set off alarms as it copied intelligence and military documents stored in the N.
+
+S.
+
+A.’
+
+s systems and linked through the agency’s internal equivalent of Wikipedia.
+
+The answer, officials and outside experts say, is that no one was looking inside the system in Hawaii for hard-to-explain activity. “The N.
+
+S.
+
+A. had the solution to this problem in hand, but they simply didn’t push it out fast enough,” said James Lewis, a computer expert at the Center for Strategic and International Studies who has talked extensively with intelligence officials about how the Snowden experience could have been avoided.
+
+Nonetheless, the government had warning that it was vulnerable to such attacks. Similar techniques were used by Chelsea Manning, then known as Pfc. Bradley Manning, who was convicted of turning documents and videos over to WikiLeaks in 2010.
+
+Evidence presented during Private Manning’s court-martial for his role as the source for large archives of military and diplomatic files given to WikiLeaks revealed that he had used a program called “wget” to download the batches of files. That program automates the retrieval of large numbers of files, but it is considered less powerful than the tool Mr. Snowden used.
+
+The program’s use prompted changes in how secret information is handled at the State Department, the Pentagon and the intelligence agencies, but recent assessments suggest that those changes may not have gone far enough. For example, arguments have broken out about whether the N.
+
+S.
+
+A.’
+
+s data should all be encrypted “at rest” — when it is stored in servers — to make it harder to search and steal. But that would also make it harder to retrieve for legitimate purposes.
+
+Investigators have found no evidence that Mr. Snowden’s searches were directed by a foreign power, despite suggestions to that effect by the chairman of the House Intelligence Committee, Representative Mike Rogers, Republican of Michigan, in recent television appearances and at a hearing last week.
+
+But that leaves open the question of how Mr. Snowden chose the search terms to obtain his trove of documents, and why, according to James R. Clapper Jr., the director of national intelligence, they yielded a disproportionately large number of documents detailing American military movements, preparations and abilities around the world.
+
+In his statement, Mr. Snowden denied any deliberate effort to gain access to any military information. “They rely on a baseless premise, which is that I was after military information,” Mr. Snowden said.
+
+The head of the Defense Intelligence Agency, Lt. Gen. Michael T. Flynn, told lawmakers last week that Mr. Snowden’s disclosures could tip off adversaries to American military tactics and operations, and force the Pentagon to spend vast sums to safeguard against that. But he admitted a great deal of uncertainty about what Mr. Snowden possessed.“
+
+Everything that he touched, we assume that he took,” said General Flynn, including details of how the military tracks terrorists, of enemies’ vulnerabilities and of American defenses against improvised explosive devices. He added, “We assume the worst case.” ||||| The National Security Agency whistleblower Edward Snowden used inexpensive and widely available software to plunder the agency’s networks, it has been reported, raising further questions about why he was not detected.
+
+Intelligence officials investigating the former contractor, who leaked thousands of documents to media outlets including the Guardian last year, determined that he used web crawler software designed to search, index and back up websites to “scrape” highly classified files, the New York Times reported on Sunday.
+
+The unusual activity triggered a brief challenge from agency officials but Snowden persuaded them it was legitimate and continued mining data.“
+
+We do not believe this was an individual sitting at a machine and downloading this much material in sequence,” an unnamed official told the Times. The process, the official said, was “quite automated”.
+
+Web crawlers, also known as spiders, move from website to website, following links embedded in each document, and can copy everything they encounter. Snowden is believed to have accessed about 1.
+
+7 million documents.
+
+The NSA has a mandate to deter and rebuff cyber attacks against US computer systems but Snowden’s “insider attack” was relatively unsophisticated and should have been detected, investigators said, especially since it came three years after Chelsea Manning used a similar technique to access State Department and military data which was then passed to Wikileaks.
+
+Snowden was a technology contractor working at an agency outpost in Hawaii that had yet to be equipped with modern monitors which might have sounded the alarm. The NSA’s headquarters in Ford Meade, Maryland, had such monitors, raising the question whether Snowden was “either very lucky or very strategic”, said one intelligence official.
+
+According to The Snowden Files, a new book by Guardian journalist Luke Harding, Snowden moved to a job in Honolulu with security company Booz Allen Hamilton because it afforded even greater privileges.
+
+Some members of Congress have accused Snowden of being a spy for Russia, where he has been granted asylum. He has denied the allegation.
+
+Michael McFaul, the US ambassador to Moscow, declined to be drawn on the subject in an NBC interview on Sunday.“
+
+What I can say,” he said, “is we want Mr Snowden to just come home, face the charges against him, and have a court of law decide what he has and has not done.” |||||By . Martin Robinson . PUBLISHED: . 10:19 EST, 10 June 2013 . | . UPDATED: . 11:42 EST, 10 June 2013 . Veteran cricketer Cecil Wright is still racing in to bowl at the age of 79, after bagging an amazing 7,000 wickets in an illustrious 65-year career. Fast bowler Cecil Wright may be one of the oldest players in Britain but he is refusing to be sent back to the pavilion because of his age, proved by the six batsmen he dismissed for his club side just last week. Known as 'Cec' to his friends, he moved to Oldham in Greater Manchester in the 1950s to play league cricket and also represented Jamaica, but he still remains the scourge of batsmen. Still racing in: Cecil Wright, who turns 80 in December, remains the scourge of batsmen, taking 7,000 wickets in 65 years . Icons: Cec, as he is known to his friends, played alongside greats of the game including legend Viv Richards . In his last four games for his local league side he has taken 15 wickets, including six in one game, and said that even though his opening bowl is not as fast as it once was he is still a force to be reckoned with on the pitch. In his heyday he played alongside legends of the game including West Indies cricket legends Sir Viv Richards, Sir Frank Worrell, Sir Gary Sobers and Joel Garner as well as England's Denis Compton. And he said that despite being old enough to be most of his opponents' grandfather he can still teach them a thing or two about the game. Cecil who has a son and two grandchildren and who lives in Royton, near Oldham, said: 'I've been playing since I was a young boy and I was a professional for over 50 years so I don't want to finish yet. 'I've been lucky with injuries and I have always kept fit so I will keep playing. 'Some of the lads I play against might not expect much from an opponent who is approaching 80 but I'm still good enough to get anyone out, even if my fast bowl is a bit of a medium bowl nowadays.' Top player: Cecils pulls the ball in a match vs Rochdale in 1962, having come to Britain to be a professional . Still got it: More than 50 years later Mr Wright celebrates taking another wicket this season . He is set to play up to 40 games this season including matches in the Saddleworth and District Cricket League in Oldham, Greater Manchester, for his side Uppermill. Last week 'Cec' took six wickets in a match against Friarmere, bowling 10 overs in helping Uppermill's second XI to a 16-run win. Instead of putting his feet up he then played again the next day, this time taking three wickets. Cec first arrived in the UK from Jamaica in 1959 after signing as the Crompton professional in the Central Lancashire League. He had already made a First Class appearance for Jamaica. After three summers playing in the Lancashire leagues he decided to stay in the UK. During one spell he took 538 wickets in five seasons, averaging one every 27 balls in the days of the eight-ball over. Action man: Cecil Wright is believed to be one of the oldest cricketers in Britain, and is sure to be the most successful of that age . Celebrated Cecil: The 79 year old with his trophies and awards, he was even painted for a portrait by artist Mark Whyatt, given to him when he retired . He met Enid, who he has now been married to for 50 years. As well as playing cricket he also worked in a cotton mill, before starting work for Mars in a distribution warehouse in Manchester for 29 years. He said the secret of his long playing career is his love of Lancashire food including hot pot and pie and peas as well as his favourite fruit and vegetables from the West Indies including yams, sweet potatoes and green bananas. He has even taken up Crown Green Bowls and has had to get used to bowling underarm and keeps fit by playing cricket with his two young grandchildren. One of the boys: Cec (centre) with his Uppermill CC teammates. he continues to take wickets for them . Winner: Cecil part of a championship winning squad in 1981, where his bowling drove the side on to victory . More trophies: Cec in the Lancashire over 50s team in the 1990s, after yet another win . He said: 'To be honest I eat anything that's going but I don't drink much, just the odd beer. And I keep fit, although these days I use my age as an excuse to miss training. 'I find keeping active helps to ease aches and pains. I don't like to sit still and watch TV, I would rather have a walk or potter about in the garage. 'If I have a bruised finger or a sore leg I don't worry about it, I just keep going and don't complain. 'I've thought about retiring but I can't. I've no idea how many games I have played now in my career - probably about two million. 'As long as I feel okay and I'm selected I'll continue to turn out.' A spokesman for the 'cricket bible' Wisden said although some amateur cricketers had played into their late 80s Cec's effort was 'pretty good going'.
+
+Welsh meat promoter Hybu Cig Cymru said it was "not realistic" to attract enough new markets to make up for "the likes of France, Italy and Germany".
+
+It has this week helped broker a deal to supply 300 supermarkets in Canada, after "a number of years" of work.
+
+Currently more than 90% of Welsh red meat exports are destined for the EU.
+
+Dai Davies, chairman of HCC, said Wales had led the way in terms of lamb exports, selling more to markets beyond Europe than any other EU region.
+
+But he said it could take years to have a "breakthrough"."
+
+When you get access to a market, the retailers don't suddenly go 'come on then'.  You have to displace someone else to get your product into a shop.""
+
+As far as the US is concerned, we've been involved in developing that market for the last eight years and we're still not there yet."
+
+Unless a trade agreement is struck with the EU after Brexit, HCC claimed farm gate prices would drop significantly as exports would be subject to tariffs.
+
+For sheep meat, the current tariff rates are 12.
+
+8% plus Â£1.
+
+50/kg (â‚¬1.
+
+71/kg).
+
+That would "have a considerable impact", Mr Davies explained, arguing that politicians would need to react with some sort of "cushioning effect" through imposing similar tariffs on goods imported into the UK.
+
+Industry representatives are gathering in Llanelwedd, Powys, for a conference on farming in Wales post-Brexit.
+
+Hundreds are expected to attend the event, organised by the Farmers Union of Wales.
+
+The opening lecture will be given by economist Warwick Lightfoot, head of research at the think tank Policy Exchange on the opportunities Brexit provides.
+
+He told BBC Wales that farmers would "have to learn to operate in a new world where there will not be a semi-protected market".
+
+But at the same time he said Brexit gave the UK a chance to form a better targeted farming policy."
+
+What we don't want is expensive, poorly focused subsidies helping big international businesses - often against the interests of the traditional farm and the consumer," he said."
+
+You [in Wales] need to make your case nationally - there are farming communities up and down the UK where one size doesn't fit all."
+
+We should be able to get a better focused approach and look at things afresh."
+
+Farmers' Union of Wales president Glyn Roberts said one opportunity he saw was the chance to ensure more procurement of Welsh food and drink within the public sector."
+
+Within the EU, procurement deals have to be tendered within Europe - we could change the criteria to buy local and focus on mitigating carbon emissions," he said."
+
+That would create a bigger market domestically for our meat."(
+
+CNN) -- So what really goes on at the world's busiest airport? Since midnight Tuesday, a team of more than 30 journalists from CNN has descended on Hartsfield-Jackson Atlanta International Airport -- the world's busiest by volume of passengers -- to find out. CNN is looking at the areas we never see when we travel -- behind-the-scenes luggage screening with the Transportation Security Administration, on the ramp with Southwest Airlines ground crews and more. And we're looking at the stories behind the people who pass through and work in the airport every day. The resulting project will publish later this year, but you can follow along by searching the hashtag #ATL24 on Twitter or Instagram or by following this Twitter list from @CNNTravel. Here's a collection of some of the most interesting posts so far. Tweet with #ATL24 or post a comment to let us know what you'd like to learn more about at the world's busiest airport. .
+
+By . Ben Spencer . Invasive foreign animals and plants such as oak processionary moths, Japanese knotweed and killer shrimp are a spiralling problem that the Government is failing to deal with, a panel of MPs has found. Ten new alien species are arriving in Britain each year and many cause catastrophic problems, according to Parliament’s green watchdog. The Environmental Audit Committee today publishes a report on the problem, which is costing the economy hundreds of millions of pounds a year. The worst foreign intruders that are causing 'catastrophic' problems for he Government to deal with . Some 1,875 non-native species were counted in the UK in 2012, of which 282 had become ‘invasive’, the report found. Newcomers including North American signal crayfish, killer shrimp and zebra mussels are having a huge impact on native species, as well as human health and business, the MPs said. Joan Walley, the committee’s chairman, said there are more non-native species than ever before. Japanese knotweed is causing damage costing £165million to tackle . She said: ‘Not all of these species will become “invasive”, but the ones that do can harm native wildlife, clog up our waterways, cause costly problems for homeowners and sometimes even harm human health. 'It is too expensive to control or eradicate all invasive species, so we have to be smart and pick fights we know we can win. We may just have to live with grey squirrels and rhododendrons in much of the UK, but we can and must control other invasive species – like the killer shrimp devastating eco-systems in rivers and lakes.’ The committee is calling for a change in the law that would give the Government new powers to eradicate invasive species before they become established. The oak processionary moth, left, and killer shrimp, right, are among those species having a huge impact on speices native to Britain . The Wildlife and Countryside Act 1981 prohibits releasing non-native species to the wild, but no one has been prosecuted under the law. The MPs believe that ministers should follow the example set by Scotland’s Government, which has passed laws allowing environment officers to enter any land where they suspect invasive species are creating a problem. Some non-native animals have caused profound change, such as the replacement of red squirrels by grey squirrels in most of Britain. Grey squirrels do £10million of damage to trees a year, the report found, while it costs £165million a year to battle Japanese knotweed. The European Environment Agency estimates invasive species cost EU countries £10billion a year, while it cost £11million to clear just one national park in Wales of invasive rhododendron. Some species also affect health. Giant hogweed has given anglers skin inflammations, while common ragweed pollen causes asthma. The Asian hornet, yet to enter Britain, has killed six people in France. Austin Brady, of the Woodland Trust, said: ‘Continued targeted management of invasive species such as rhododendron and grey squirrels must be supported at government level.’ The invaders can damage ancient woods and carry disease, he said. ‘To leave them unchecked in the long term would be a real failure to safeguard our natural heritage.’

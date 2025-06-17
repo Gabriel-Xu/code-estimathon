@@ -1,0 +1,163 @@
+If running R and making it look at a copy of itself runs forever, then Q answered "no, if we run this program and make it look at a copy of itself it will not run forever". But Q said this when looking at R itself. So what Q actually said is: "no, if we run R and make it look at a copy of itself it will not run forever". So: If R running on a copy of itself runs forever, then it does not run forever. This is also impossible.
+
+No matter what happens, we get an impossible situation. We did something wrong, and we need to find out what it was. Most of the things we did were not wrong. We can not say "making a program look at a copy of itself is wrong", or "looking at what another program said and then going into a loop if it said one thing, and stopping if it said another thing" is wrong. It does not make sense to say that we are not allowed to do those things. The only thing that we did that looks like it could be wrong is that we pretended that a program like P exists in the first place. And since this is the only thing that could be wrong, and something must be wrong, this is it. This is the proof that a program like P does not exist. There is no program that solves the halting problem.
+
+This proof was found by Alan Turing in 1936.
+
+This is the paper where Turing defines Turing machines, formulates the halting problem, and shows that it (as well as the Entscheidungsproblem) is unsolvable.
+
+LargentièreLargentière () is a "commune" in the Ardèche department of the Auvergne-Rhône-Alpes region in southeastern France. It is a "subprefecture" of the department.
+
+Its name, used since the thirteenth century in place of its more ancient name "Segualeriae" (Ségualières), refers to the silver mines in the area between the tenth and fifteenth centuries.
+
+The "commune" of Largentière is in the southern part of the Ardèche department, in the narrow valley of the "Ligne" river, a short right tributary of the Ardèche river.
+
+The "commune" has an area of , and its average altitude is ; at the city hall, the altitude is .
+
+The distances from Largentière to other cities are:Largentière is surrounded by the "communes":The Köppen climate classification type for the climate at Largentière is an "Oceanic climate" (also known as Maritime Temperate climate) and of the subtype "Cfb".
+
+The inhabitants of Largentière are known, in French, as "Largentiérois" (women: "Largentiéroises").
+
+With a population of 1,734, Largentière has a population density of inhabitants/km. It is the second smallest subprefecture in France after Castellane in the Alpes-de-Haute-Provence department that has only 1,541 inhabitants (2014).
+
+Evolution of the population in LargentièreLargentière is a subprefecture of the Ardèche department since 1800. It is also the capital of the "arrondissement" of Largentière and is part of the canton Vallon-Pont-d'Arc.
+
+It is part of the intercommunality "Val de Ligne", officially named as "Communauté de communes Val de Ligne".
+
+Tucumcari, New MexicoTucumcari is a city in the U.
+
+S. state of New Mexico. It was founded in 1901 and is the county seat of Quay County.
+
+GibsonGibson may refer to:Gibson Les PaulThe Gibson Les Paul is an electric guitar that has been made by Gibson since 1952. It is one of the most popular electric guitars of all time.
+
+Usclades-et-RieutordUsclades-et-Rieutord is a commune in the Ardèche "département" in southern France.
+
+Uzer, ArdècheUzer is a commune in the Ardèche "département" in southern France.
+
+Vals-les-BainsVals-les-Bains is a commune in the Ardèche "département" in southern France.
+
+Vernon, ArdècheVernon is a commune in the Ardèche "département" in southern France.
+
+Veyras, ArdècheVeyras is a commune in the Ardèche "département" in southern France.
+
+CoucouronCoucouron is a commune in the Ardèche "département" in southern France.
+
+Scottish FoldThe Scottish Fold (sometimes called Coupari by Canadian breeders) is a breed of cat. Its distinctive ear fold is caused by a particular gene.
+
+First known as Flops, for their "floppy" ears, Scottish Fold became the breed's name in 1966. Scottish Folds with long hair are known by a number of names. For example, it is called the Highland Fold by the ACFA, AACE, and UFO; the Scottish Fold Longhair by the TICA, NCFA, ACA, CCA, and CFA; and the Longhair Fold by the CFF.
+
+The very first Scottish Fold was a long-haired barn cat with white fur, called Susie. She was found in 1961 at a farm near Coupar Angus in Perthshire, Scotland. Susie's ears had an unusual fold in the middle, making her look like an owl. When Susie had kittens, two of them were born with the distinctive folded ears. One was owned by William Ross, a nearby farmer and cat-lover. Ross registered the breed with the Governing Council of the Cat Fancy in Great Britain and started to breed Scottish Fold kittens with the help of Pat Turner. The breeding program ended up with 76 kittens in the first three years, 42 with folded ears. They suspected that the ear mutation was from a dominant allele. This means that if one parent has straight ears, and one parent has folded ears, half of the kittens will be Folds.
+
+Susie's only fertile offspring was a female Fold named Sans, also white like her mother. A second kitten was neutered shortly after birth. Three months after Sans' birth, Susie was killed by a car. All Scottish Fold cats are related to Susie and Sans. This kind of ancestry is very rare, even among pedigreed animals.
+
+The breed was not accepted for showing in Great Britain and Europe because people thought that they would be overly prone to ear problems such as infection, mites, and deafness, but the Folds were sold in America. The breed kept on growing using crosses with British Shorthairs and American Shorthairs. Despite the initial concerns, the Fold breed has not had the expected mite and infection problems. However, wax can build up faster than in the ears of other cats.
+
+Folds are very popular pets because of their unique look, and their reputation as particularly loving companions. Fold kittens are usually much more expensive to buy than kittens of more common breeds.
+
+All Folds are born with straight, unfolded ears. Cats that have the Fold gene will start to show the fold before 21 days. The first cats only had one fold in their ears. With careful breeding, breeders have changed the fold to a double or triple fold. This causes the ear to lie totally flat against the head.
+
+Folds are a medium-sized breed of cat (9–13 lbs. for males and 6–9 lbs. for females). They have round bodies, round heads, and round faces. They have big round eyes. Their noses are short with a gentle curve. They have medium to short sized legs. Their heads are curved at the top. They have very short necks. The eyes have a big gap which gives the Scottish Fold a "sweet expression".
+
+Scottish Folds can be either long- or short-haired. They may have nearly any coat colour or mix of colours (including white) except pointed colours. According to cat-fancy website Terrific-Cats.
+
+com:Scottish Folds, whether with folded ears or with normal ears, are normally good-natured and calm. They can adjust to other animals within a household very well. They tend to become very attached to their human caregivers. They are by nature quite loving. Folds receive high marks for playfulness, affection, and grooming. They are often clever, loyal, quiet, and do well in changing home situations.
+
+Folds are also known for sleeping on their backs. Scottish Folds normally have soft voices. They can give a mix of meows and purrs not found in better-known breeds.
+
+Scottish Folds usually live for around 15 years.
+
+Scottish folds can easily get polycystic kidney disease (PKD), osteochondritis, and cardiomyopathy.
+
+Because the ears fold nearly a month after birth, Fold kittens cannot be judged immediately as to their type or value, as the animal website PetFinder.
+
+com says:One special medical problem comes in the Scottish Fold if both parents have folded ears. In such a case, their kittens will be very likely (1:4 ratio, or usually at least one per litter) to have a painful joint disease that can fuse the tail, ankles and/or knees. Scientists think the disease is caused by the dominant (folded-ear) gene. It is more likely to affect Folds with the gene twice, than mixed single with one recessive (unfolded-ear) gene. This disease can also affect Scottish Folds with one copy of the gene, but usually not as often or as badly. For this reason the breed is not accepted by either the Governing Council of the Cat Fancy or the Fédération Internationale Féline. This is the reasoning behind the widely-held belief that the only ethical manner of breeding Folds is Fold/nonfold and not Fold/Fold (in the same way Munchkins are bred).
+
+The Scottish Fold is one of the main focuses in the short novel "The Cat Who Went to Paris" by Peter Gethers. The book and its two sequels, "A Cat Abroad" and "The Cat Who'll Live Forever: The Final Adventures of Norton, the Perfect Cat, and His Imperfect Human", talk about the life of Gethers and his Fold, Norton. It starts with their first meeting and ends with Norton's death and Gether's life after the loss.
+
+Cat guides about the Scottish Fold breed can be found. For example "Scottish Fold Cats: A Complete Pet Owner's Manual" (), "Guide to Owning a Scottish Fold Cat" (), and "Scottish Fold Cats (Cats Set III)" ().
+
+The Sims 3The Sims 3 is a computer game for Microsoft Windows and Mac OS X. It was released on June 2, 2009 and is a sequel to the popular "The Sims" and "The Sims 2" computer games. There have been versions of the game for consoles and mobile phones as well. "The Sims 3" was a success right when it was released. The game has sold 1.
+
+4 million copies in its first week and over ten million copies worldwide to date.
+
+EA released a sequel, "The Sims 4", in September 2, 2014.
+
+The Sims 3 is made with the same idea as the games before it. The player controls their own Sims in activities and relationships in a similar manner to real life. The game play is open-ended and has no limits. Sims houses and neighborhoods are in one huge map. The developers stated, "What you do outside your home now matters as much as what you do within." The game includes an optional feature called "Story Progression", which allows all Sims in the neighborhood to continue on their own as if the player were controlling them, such as grow up, get married, get jobs and promotions, have children, and build or buy their dream house while the player is not playing. The Sims 2 used a reward system called Wants and Fears. This is replaced with a new system called Wishes in The Sims 3. Completing a Sim's wish helps the Sim's Lifetime Happiness score and mood. Some wishes, such as "Go to the Park", may add little points to their lifetime happiness while "Have A Baby Boy" may add thousands of points. In The Sims 2, Wants and Fears also contributed to a Sim's "Aspiration" meter, the same to current self-esteem. In The Sims 3, Aspiration is removed entirely, replaced with "Moodlets", which contribute good or bad values to the original Motivation meter. Moodlets can be inspired by physical events, such as having a good meal or comfort from sitting in a good chair, as well as emotional events like a first kiss or a break-up. Most moodlets last for a set amount of time, but some bad Moodlets can be cured (such as the one caused by a need to use the bathroom) and some positive ones rely on the Sim's surroundings and traits.
+
+Brad DelsonBradford Phillip "Brad" Delson (born December 1, 1977 in Agoura Hills, California) is the lead guitarist of alternative rock band Linkin Park.
+
+Brad went to Agoura High School with fellow member of Linkin Park Mike Shinoda.
+
+Charlton HestonCharlton Heston (October 4, 1923 – April 5, 2008) was an American actor and political activist. He had many big roles, such as playing Moses in the movie "The Ten Commandments", astronaut Colonel George Taylor in "Planet of the Apes" (1968) and "Beneath the Planet of the Apes" (1970), the dystopian "The Omega Man" (1971), and "Soylent Green" (1973). Heston played Judah Ben-Hur in the Academy Award-winning "Ben-Hur".
+
+He was born in Wilmette, Illinois on October 4, 1923. He was raised in St. Helen, Michigan. Heston studied at New Trier High School and at Northwestern University.
+
+Heston was also known for his politics. When he was young he held liberal views and marched with people such as Martin Luther King, Jr. for civil rights in the 1960s.
+
+It was rare for a Hollywood actor to be for such causes at that time. Later in his life, he was for conservative causes such as gun rights. He was president of the National Rifle Association of America, a group that is for the rights of gun owners, from 1998 to 2003.
+
+In July 2003, he received the Presidential Medal of Freedom at the White House from President George W. Bush.
+
+Late in his life, Heston had Alzheimer's disease. He died of pneumonia, aged 84, in Beverly Hills, California.
+
+Ambush marketingAmbush marketing is a form of marketing. Many events, especially in sports have sponsors. These sponsors pay money, which makes it possible to hold the event. In return for this, they get publicity and media coverage. Ambush marketing is a name given to marketing campaigns that are also done around the event, but where no money is paid for the event.
+
+There are many major events where one company will pay money to become the "exclusive sponsor" of the event (or in a category of the event). This blocks other brands or companies. These other brands then seek to promote themselves in connection with the same event. They do not pay the sponsorship fee. Even if they wanted to, they could not, because one brand is the exclusive sponsor.
+
+Ambush marketing is not illegal, and many people do it. Examples in sport include FIFA World Cup, Olympic Games, and the Super Bowl.
+
+Anti-ambush marketing regulations have become controversial for restricting freedom of speech and self-promotion.
+
+Al-Mustansir IIAl-Mustansir II of Cairo was an Abbasid Caliph of Cairo, Egypt, for the Mamluk Sultans between 1261 and 1262.
+
+University of Texas at El PasoThe University of Texas at El Paso is a public university in El Paso, Texas, United States. It has about 20,000 students enrolled and it was founded in 1914.
+
+Achaemenid EmpireThe Achaemenid Empire, or Persian Empire, (550–330 BC) was the first Persian Empire to rule over significant portions of Greater Persia (or Iran). It followed the Median Empire as the second great empire of the Iranian peoples. At the height of its power, the Achaemenid Empire had about 7.
+
+5 million square kilometres and was territorially the largest empire of classical antiquity.
+
+The empire was forged by Cyrus the Great. It spanned three continents, including parts of Afghanistan and Pakistan; parts of Central Asia, Asia Minor, Thrace; much of the Black Sea coastal regions; Iraq, northern Saudi Arabia, Jordan, Israel, Lebanon and Syria; and all of the significant population centres of ancient Egypt as far west as Libya. The empire was the foe of the Greek city-states of the Greco-Persian Wars. It freed the Israelites from their Babylonian captivitya nd instituted Aramaic as the its official language. Because of the empire's vast extent and long endurance, Persian influence upon the language, religion, architecture, philosophy, law, and government of nations around the world has lasted ever since.
+
+The empire began as a tributary state of the Medes but ended up conquering and enlarging them and includiong Egypt and Asia Minor. Under Xerxes, it came very close to conquering Ancient Greece. The Achaemenids were overthrown by Alexander the Great, who conquered it in 330 BCE.
+
+VexilloidA vexilloid has the same functions as a flag but it looks different. Vexilloids are characteristic of traditional societies and ancient empires (Flags did not come into general use until medieval times.). A "vexilloid" consists of a staff held upright with a cloth banner that hangs down vertically on the staff and on top of the staff is an emblem, such as a carved animal.
+
+Whitney Smith, "Flags Through the Ages and Across the World",The Dark Knight (movie)The Dark Knight is a 2008 British-American superhero movie. It was directed, produced, and co-written by Christopher Nolan. Based on the DC Comics character Batman, the movie is the second installment of Nolan's "The Dark Knight Trilogy" and a sequel to 2005's "Batman Begins". It stars Christian Bale and supported by Michael Caine, Heath Ledger, Gary Oldman, Aaron Eckhart, Maggie Gyllenhaal, and Morgan Freeman. In the movie, Bruce Wayne / Batman (Bale), Police Lieutenant James Gordon (Oldman) and District Attorney Harvey Dent (Eckhart) form an alliance to take down organized crime in Gotham City, but are menaced by an anarchistic mastermind known as the Joker (Ledger), who seeks to undermine Batman's influence and throw the city into anarchy.
+
+The movie begins with the Joker and his gang of clowns robbing a mob bank. The other clowns shoot each other so that there are fewer people so they can get more money per person. The manager of the bank takes out his shotgun and shoots one of them. The Joker takes off his mask and kills the last clown, leaving all the money for himself. He then drives away in a school bus.
+
+The crime mob in the city is very mad at the Joker for robbing the bank. The Joker comes to them and says he wants to kill Batman. Meanwhile, Gotham City's District Attorney Harvey Dent tries to shut the mob down by tracking down the money. A businessman named Lau finds out about this and takes the money out beforehand and goes to Hong Kong so that he cannot be caught. Batman, whose real name is Bruce Wayne, flies down there himself, kidnaps him, and takes him back to Gotham City.
+
+The Joker says he wants Batman to take his mask off and show the world who he is, and that if he does not, people will die. Commissioner Loeb dies from drinking acid in his drink and the judge that was at the mob trials is killed. The Joker then hires some men to kidnap police officers and take their uniforms. At Loeb's funeral, Joker's men attempt to shoot the mayor. Police officer James Gordon tackles the mayor and is shot and apparently killed.
+
+Dent then calls a press conference to ask the people there if he should reveal Batman. After they say yes, Dent says that he is Batman and has the police arrest him. They put him on a truck to send him to jail. The Joker and his men drive a truck that badly damages the truck Dent is riding in. The real Batman comes in and attempts to save Dent but wrecks his motorcycle-like Batpod when the Joker stands there, since Batman has a rule that he will not kill anyone. Gordon, who is revealed to have faked his death, arrests the Joker.
+
+In jail, Batman questions the Joker. The Joker eventually reveals that his men captured Rachel Dawes, Batman's old childhood friend and Dent's girlfriend, and Dent. He has put them in warehouses far away so that Batman cannot save both of them himself. They are near bombs that will go off and kill them. The Joker tells Batman where each person is. Batman goes to save Dawes while Gordon and his men go to rescue Dent. However, when Batman gets to Rachel's location, he only sees Dent, because the Joker switched the addresses. Batman gets Dent out, but the bomb goes off and Dent scars half of his face. Gordon is too late to save Dawes.
+
+The Joker gets out of jail. He gets his phone call and dials a cell phone that is wired to a bomb, which blows up the police station. Afterwards, he visits the hospital where Dent is staying. Dent is driven crazy because of Dawes' death. The Joker frees Dent and tells him to take revenge. Dent goes around flipping coins and decides whether he will kill them or keep them alive. He starts going after the various police people who leaked information to the Joker to make it possible for him to kidnap and kill Dawes.
+
+The Joker then announces that the city is his. The people in charge load up two ferries with people to get them out of the city. The Joker has wired both boats with explosives and has given each boat the detonator to the other one, saying that he will blow up both boats at midnight if one boat does not blow up the other.
+
+Batman finds the Joker in an abandoned building. He uses a sonar system (created by Lucius Fox) to defeat the Joker's men and stops him from destroying both ferries. He then leaves the Joker hanging. The Joker is very impressed, stating that Batman cannot be corrupted into breaking his own rule. A SWAT team then captures the Joker.
+
+At the end of the movie, Batman finds that Dent has kidnapped Gordon's family. When Batman arrives, Dent flips his coin to decide their fates. Before he can see the result of his next coin flip, Batman tackles Dent off the edge of the building, letting the vigilante plummet to his death. With Dent dead, Gordon says that if word gets out that Dent killed all these people, all the work he did will have been lost. Batman offers to take the blame for all the murders. Gordon, who is originally against it, agrees. He destroys the Bat-Signal and orders the police to hunt Batman down. Batman takes off into the night while Gordon's son does not understand the reasoning for why Batman must be hunted. But Gordon explains "because he can take it. Because he's not a hero. He's a silent guardian; a watchful protector; a Dark Knight."
+
+Warner Bros. initially created a viral marketing campaign for The Dark Knight, developing promotional websites and trailers highlighting screenshots of Ledger as the Joker. Ledger died on January 22, 2008, some months after he completed filming and six months before the movie's release from a toxic combination of prescription drugs, leading to strong attention from the press and movie-going public.
+
+The movie was the first mainstream feature to partially utilize IMAX 70 mm cameras, with Nolan using them for 28 minutes of the movie, including the Joker's first appearance.
+
+The movie was filmed in Chicago and in Hong Kong. Some scenes were shot in London. During the filming in Chicago, Nolan decided to blow-up an abandoned Brach's candy factory (which was Gotham Hospital in the movie).
+
+Nolan's inspiration for the movie was the Joker's comic book debut in 1940, the 1988 graphic novel "The Killing Joke", and the 1996 series "The Long Halloween", which retold Harvey Dent's origin. The "Dark Knight" nickname was first applied to Batman in Batman #1 (1940), in a story written by Bill Finger.
+
+The movie is known as one of the best movies of its decade and one of the best superhero movies of all time. It got critical praise for its screenplay, visual effects, musical score, themes, performances (particularly Ledger's), cinematography, action sequences and direction. The movie also set numerous records during its theatrical run."
+
+The Dark Knight" appeared on 287 critics' top-ten lists, more than any other movie of 2009 with the exception of "WALL-E", and more critics (77) named "The Dark Knight" the best movie released that year. With over $1 billion in revenue worldwide, it became the fourth-highest-grossing movie at the time, and highest-grossing movie of 2009; it also set the record for highest-grossing domestic opening with $158 million, a record it held for three years.
+
+At the 81st Academy Awards, the movie had eight nominations. It won the award for Best Sound Editing and Ledger was posthumously awarded Best Supporting Actor. "The Dark Knight Rises", the final movie in the trilogy, was released on July 20, 2013.
+
+Many people were upset that it was not nominated for the Academy Award for Best Picture. At the time, only five movies could have been nominated for the category. Since many were upset about this, the Academy changed the number of movies that could be nominated for Best Picture from five to ten.
+
+GorgonIn Greek mythology, the Gorgons were female monsters that had fangs and serpents for hair with bronze claws. They were the daughters of Phorkys and Keto. The serpents in their hair were special: Everyone who looked at them was turned to stone. There were three Gorgons, named Stheno, Euryale and Medusa. Only Medusa was mortal. She was beheaded by Perseus. Medusa's head was brought to Athena. There are many motives showing Athena with an aegis, and a Gorgon's head on her chest.
+
+Homer only talks about one Gorgon. Hesiod names all three, Stheno, the powerful one, Euryale,who could jump far, and trouble-ridden Medusa, the queen. According to Hesiod, they lived at the edge of the known world, in the Atlas Mountains. At a later time, Libya is also named as their home.

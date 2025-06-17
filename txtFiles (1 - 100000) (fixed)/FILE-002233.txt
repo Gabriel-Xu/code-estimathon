@@ -1,0 +1,131 @@
+The other situation that can occur is that the datum with the tag cannot be found in the cache. This is known as cache miss. The datum needs to be fetched from the backing store. Usually, it is copied into the cache, so that the next time, it no longer needs to be fetched from the backing store.
+
+The cache only has a limited size. To make room for the previously uncached entry, another cached entry may need to be deleted from the cache. Special rules are used to find the entry that should best be deleted. These rules are usually called Heuristics. Heuristics used to find the entry are called replacement policy. A very simple rule used is called "Least recently used" (or LRU). It simply takes the entry that was used the longest time ago. Other heuristics are listed at cache algorithm..
+
+Caches can also be used for writing data; the benefit of this is that the client can continue its operation once the entry has been written to the cache; it does not have to wait until the entry is written to the backing store.
+
+However, the entry must be written to the backing store at some point in time. The timing when this happens is controlled by the write policy.
+
+In a write-through cache, each entry is written to the backing store immediately, as well as being stored in cache.
+
+The other option is to only write to cache, and write to the backing store later. This is known as write-back (or write-behind) cache. The cache marks the entries that have not yet been written to the backing store; the mark that is used is often referred to as dirty flag. Before the entries are deleted from the cache, they are written to the backing store. This is known as lazy write. A miss in a write-back cache (which requires a block to be replaced by another) will often need two memory accesses: one to get the needed datum, and another to write replaced data from the cache to the store.
+
+The caching policy may also say that a certain datum must be written to cache. The client may have made many changes to the datum in the cache. After it is done, it may explicitly tell the cache to write back the datum.
+
+No-write allocation is a cache policy where only reads are cached. This avoids the need for write-back or write-through caching. Writes are done to the backing store all the time.
+
+The client is not the application that changes data in the backing store. If the data changed in the backing store, the copy in the cache will be out of date, or "stale". Alternatively, when the client updates the data in the cache, copies of that data in other caches will become stale. There are special communication protocols that allow cache managers to talk to each other to keep the data meaningful. These are known as coherency protocols.
+
+A cache is small, and it will be full, or almost full, most of the time. So when a new value is added, an old one needs to be removed. There are different ways in which this selection can be done:The word "cache" was first used in computing in 1967, when a scientific article was prepared to be published in IBM Systems Journal. The article was about a new improvement of the memory in Model 85. Model 85 was a computer of the IBM System/360 product line. The editor of the Journal wanted a better word for "high-speed buffer", used in the article. He got no input, and suggested "cache", from the French "cacher", meaning "to hide". The article was published in early 1968, and the authors were honored by IBM. Their work was widely welcomed and improved."
+
+Cache" soon became standard usage in computer literature.
+
+Small memories on or close to the CPU chip can be made faster than the much larger main memory. Most CPUs since the 1980s have used one or more caches. Modern general-purpose CPUs inside personal computers may have as many as half a dozen. Each cache may be specialised to a different part of the task of executing programs.
+
+CPU caches are generally managed entirely by hardware, other caches are managed by a different kinds of software. The operating system usually manages a "page cache" in main memory. Users outside computer science usually call this cache virtual memory. It is managed by the kernel of the operating system.
+
+Modern hard drives have disk buffers. These are sometimes called "disk cache", but this is wrong. The main function of these buffers is to order disk writes, and to manage reads. Repeated cache hits are rare, because the buffer is very small compared to the size of the hard drive.
+
+Local hard disks are fast compared to other storage devices, such as remote servers, local tape drives, or optical jukeboxes. Using local hard disks as caches is the main concept of hierarchical storage management.
+
+Web browsers and web proxy servers use caches to store previous responses from web servers, such as web pages. Web caches reduce the amount of information that needs to be transmitted over the network. Information previously stored in the cache can often be re-used. This reduces bandwidth and processing requirements of the web server, and helps to improve responsiveness for users of the web.
+
+Modern web browsers use a built-in web cache, but some internet service providers or organizations also use a caching proxy server. This is a web cache that is shared between all users of that network.
+
+Search engines also often make web pages they have indexed available from their cache. For example, Google provides a "Cached" link next to each search result. This is useful when web pages are temporarily inaccessible from a web server.
+
+Write-through operation is common in unreliable networks (like an Ethernet LAN). The protocol used to make sure the data in the write cache makes sense when several write caches are used is very complex, in such a case.
+
+For instance, web page caches and client-side network file system caches (like those in NFS or SMB) are typically read-only or write-through to keep the network protocol simple and reliable.
+
+Buffer and cache are not mutually exclusive; they are also often used together. The reason why they are used is different, though. A buffer is a location in memory that is traditionally used because CPU instructions cannot directly address data stored in peripheral devices. Computer memory is used as an intermediate store.
+
+Additionally such a buffer may be feasible when a large block of data is assembled or disassembled (as required by a storage device), or when data may be delivered in a different order than that in which it is produced. Also a whole buffer of data is usually transferred sequentially (for example to hard disk), so buffering itself sometimes increases transfer performance. These benefits are present even if the buffered data are written to the buffer once and read from the buffer once.
+
+A cache also increases transfer performance. A part of the increase similarly comes from the possibility that multiple small transfers will combine into one large block. But the main performance gain occurs because there is a good chance that the same datum will be read from cache several times, or that written data will soon be read. The only purpose of Caches is to reduce accesses to the underlying slower storage. Cache is also usually an abstraction layer that is designed to be invisible from the perspective of neighboring layers. That way, the applications or clients may not be aware that there is a cache.
+
+CurlieThe Open Directory Project (ODP), also known as dmoz, is an online directory that lists good web sites based on their subject. Web sites are listed in categories on this project. Each category is linked to relevant categories; the categories have a tree-like structure too.
+
+Web directoryA Web directory is a website. It is like a directory, or a phone book. It lists other websites, that are put into different categories.
+
+File sharingFile sharing is the practice of making files available for other users to download over the Internet and smaller networks. Usually file sharing follows the "peer-to-peer" (P2P) model, where the files are stored on personal computers of the users. In this model, most people who are sharing files are also downloading files that other users share.
+
+Ammonium sulfideAmmonium sulfide, which is also known as the "stink bomb" is made up of a solution of ammonium sulfide in water, sealed inside a glass ampoule (a small bottle-like container used to store a liquid securely). When the ampoule is broken, ammonia and hydrogen sulfide gases are released from the solution. These chemicals have a very strong and bad smell.
+
+Metre per secondMetre per second is an SI unit of measurement of both speed and velocity. It is defined by the distance in metres divided by the time in seconds. Its abbreviation is m/s or m·s. In astronomy, the unit is sometimes used in "kilometres per second" (equivalent to 1000 metres per second).
+
+1 metre per second is equivalent to:1 foot per second = 0.
+
+3048 m·s (exactly)1 mile per hour ≈ 0.
+
+4470 m·s (approximately)1 km·h ≈ 0.
+
+2778 m·s (approximately)1 kilometre per second is equivalent to:HydroxideHydroxide in chemistry is a name given to the diatomic anion OH, made up of oxygen and hydrogen atoms. Most chemical compounds that contain hydroxides are bases.
+
+An Arrhenius base is a substance that when dissolved in an aqueous solution, it produces hydroxide ions. Therefore, hydroxide ions are heavily involved in acid-base reactions.
+
+Many useful chemical reactions or processes involve hydroxide or hydroxide ions. Sodium hydroxide is used in industry as a strong base, potassium hydroxide is used in agriculture, and iron hydroxide minerals such as goethite and limonite have been used as iron ore. The aluminium ore bauxite is made mainly out of aluminium hydroxides.
+
+Most inorganic hydroxide salts do not dissolve in water.
+
+Many useful chemicals and chemical processes involve hydroxides or hydroxide ions. Sodium hydroxide is used in factories as an alkali, potassium hydroxide is used in farming, and iron hydroxide has been used as low grade brown iron ore.
+
+CycloneIn meteorology, a cyclone refers to any low pressure area with winds spiraling inwards. Cyclones rotate clockwise in the Southern Hemisphere and anti-clockwise in the Northern Hemisphere. A cyclone is the general term for a variety of low pressure system types, such as tropical cyclones, extra tropical cyclones and tornadoes.
+
+The largest of these systems are extratropical cyclones and cold-core polar cyclones which lie on the synoptic scale with a horizontal length of 1000 km or more. The warm-core cyclones are the tropical cyclones, mesocyclones, and the polar lows that lie within the smaller mesoscale. Subtropical cyclones are intermediate in size. Cyclones have also been on other planets outside of Earth, such as the Great Red Spot of Jupiter and the Great Black Spot of Neptune.
+
+Cyclones are also referred to as hurricanes and typhoons. They consist of the eye, eyewall and rainbands.
+
+The process of cyclone formation and intensification is described as Cyclogenesis. The formation of Extratropical cyclones comes as waves in large regions of enhanced midlatitude temperature contrasts which are called baroclinic zones. These zones contract to form weather fronts as the circulation of the cyclone closes and gets more intense. Later in their life cycle, cyclones form what is called an occluded front. The cyclone's track is then guided over the course of an 2 to 6 day life cycle by its steering flow of the polar or subtropical jetstream. Cyclones destroy many things when they come into contact with land such as crops, buildings, trees, etc.
+
+Eye (cyclone)The eye is an area of calm weather in the center of strong tropical cyclones. The cyclone's lowest barometric pressure occurs in the eye. It is usually circular and ranges between 30 and 65 km (20 to 40 mi) in diameter, though smaller and larger eyes can occur.
+
+In case of a cyclone it is the place where all the winds coming inside in a spiral motion converge. In an anticyclone it is the part from where all winds move out from.
+
+The region surrounding the eye is the eyewall, where the worst weather is seen in a cyclone. These have strong winds, lots of rain and lots of cloud. There are also outer bands, which surround the cyclone, which forms the greatest part of the storm. These have winds so strong they can even form other tornadoes.
+
+Glasgow Coma ScaleGlasgow Coma Scale or GCS is a scale that is used to measure the consciousness of a person. It was invented in 1974 by "Graham Teasdale" and "Bryan J. Jennett", professors of neurosurgery at the University of Glasgow.
+
+GCS is used in evaluation of patients, especially in ICUs. This scale consists of three tests, which are described below. A score is given for each test, and the GCS score is calculated by adding the scores given to each test. The maximum score is 15, which means the patient is fully conscious. The minimum score is 3, and is usually seen in patients with brain death or those in deep coma.
+
+The scale comprises three tests: eye, verbal (talking) and motor (movement) responses.
+
+There are 4 grades for this test:There are 5 grades for this test:There are 6 grades for this test:House of HabsburgThe House of Habsburg was a family of dukes, kings, and monarchs that was very important in European history. It first ruled parts of Switzerland in the 13th century and then ruled Austria, later Austria-Hungary, for more than 600 years. It ruled owned Spain and the Netherlands for a while, the Holy Roman Empire from about 1280 to 1806 and the Kingdom of Sardinia until the mid-19th century.
+
+A treaty was made in Vienna in 1515 between the king of Poland and duke of Lithuania from the Jagiellon dynasty and Maximilian I, Holy Roman Emperor, the duke of Austria from the Habsburg family. It stated that if the Jagiellon kings of Bohemia and Hungary died without a male heir, Maximilian and his heirs would take over the territory.
+
+The senior branch of the House of Habsburg became extinct in the 18th century, when Charles II of Spain died in 1700 and was replaced by the House of Bourbon. Charles had mental and physical handicaps, which were probably caused by inbreeding between relatives in the royal houses of Continental Europe. Marriages of close relatives had occurred for the five generations before him. He was the son of Philip IV, who married his sister's daughter.
+
+The remaining branch went extinct in the male line in 1740 with the death of Holy Roman Emperor Charles VI and completely in 1780 with the death of his eldest daughter, Maria Theresa of Austria. It was succeeded by the Vaudemont branch of the House of Lorraine, which styled itself formally as House of Habsburg-Lorraine (German: "Habsburg-Lothringen"), but it was often referred to as simply the House of Habsburg.
+
+The last empress was Zita of Bourbon-Parma, who died in Switzerland in 1989. She had ruled with her husband, Charles I of Austria, from 1916 to 1918.
+
+The current head is Karl Habsburg-Lothringen.
+
+RhodesiaRhodesia (, ), officially from 1970 the Republic of Rhodesia, was a republic in Southern Africa during the Cold War. It was the region that is now called Zimbabwe. The country replaced the British colony of Southern Rhodesia.
+
+The official name of the country under British law was "Southern Rhodesia", but the government in Salisbury used the name "Rhodesia" instead. This situation dated back to October 1964, when the colony of Northern Rhodesia changed its name to Zambia following independence, so the colonial government felt that "Southern" Rhodesia should no longer be used because there was no "Northern" Rhodesia. However, Britain believed that only their government could change the colony's name and not the colony itself.
+
+The British government adopted a policy called "no independence before majority rule", which dictated that colonies with a certain amount of white settlers would not become independent until they adopted a policy of majority rule. This had conflicted with the beliefs of the white minority Rhodesian Front, lead by Ian Smith, which believed that Rhodesia should become an independent country anyway. This continued until relations between the colony and the British government broke down in 1965.
+
+On 11 November 1965, Smith's government issued a unilateral declaration of independence (UDI) from the United Kingdom. Many countries condemned the UDI and the United Nations Security Council placed sanctions on Rhodesia.
+
+Rhodesia sought international recognition as a Commonwealth realm, with Queen Elizabeth II as "Queen of Rhodesia", but later severed it links to the British Crown by becoming a republic on 2 March 1970.
+
+As early as 1960, many African nationalists began to challenge Rhodesia's minority rule policies. In 1964, tensions boiled over and the Rhodesian Bush War began. On one side, the minority rule government, led by Ian Smith, hoped to keep the whites in power. On the other side, the ZANU-PF, led by Robert Mugabe, fought for majority rule. After about 15 years of fighting, the Lancaster House Agreement was signed which allowed majority rule. This led to Zimbabwe's independence.
+
+WestminsterWestminster is the central part of the City of Westminster, in London. It is on the north side of the River Thames. It contains the Houses of Parliament, Whitehall, Downing Street and Westminster Abbey.
+
+Westminster is the official seat of the Prime Minister of the United Kingdom.
+
+AkitaAkita may mean:OstaraOstara is one of the eight festivals held by Wiccans every year. It is normally held at the time of the vernal equinox; that is, around 21 March in the Northern Hemisphere and 21 September in the Southern Hemisphere. At Ostara Wiccans celebrate the return of Spring.
+
+MegalosaurusMegalosaurus was a large meat-eating theropod dinosaur of the Middle Jurassic of Europe. It was found in 1824, and was the earliest dinosaur named. In 1827, Gideon Mantell included "Megalosaurus" in his geological survey of southeastern England. He gave the species its name, "Megalosaurus bucklandii".
+
+Because a complete skeleton of it has never been found, much is still unclear about its build. The first naturalists who investigated Megalosaurus thought it was a gigantic lizard of twenty metres length. In 1842 Richard Owen concluded that it was no longer than nine metres, standing on upright legs as a quadruped.
+
+Later it was realised that all theropods were bipedal. Today is known that the early proto-dinosaurs in the late Middle Triassic were also bipedal. Certainly "Eoraptor", from 231.
+
+4 million years ago, was bipedal. That means the dinosaurs were bipedal from the start (primatively bipedal). Only the heavier sauropods and armoured dinosaurs became quadrupedal, standing on all four legs.
+
+Parliament of the United Kingdom

@@ -1,0 +1,159 @@
+Study 3: Racial Disparities in Respect. Having demonstrated that people can reliably infer features of procedural justice from officer speech (study 1), and that these ratings can be reliably predicted from statistical models of linguistic features (study 2), we are now able to address our central question: Controlling for contextual factors of the interaction, is officers’ language more respectful when speaking to white as opposed to black community members? We apply our models from study 2 to the entire corpus of transcribed interactions to generate predicted scores for Respect and Formality for each of the 36,738 utterances in our dataset. We then build linear mixed-effects models for Respect and Formality over these utterances. We include, as covariates in our primary model, community member race, age, and gender; officer race; whether a search was conducted; and the result of the stop (warning, citation, or arrest). We include random intercepts for interactions nested within officers. Controlling for these contextual factors, utterances spoken by officers to white community members score higher in Respect [ β = 0.
+
+05 (0.
+
+03, 0.
+
+08)]. Officer utterances were also higher in Respect when spoken to older [ β = 0.
+
+07 (0.
+
+05, 0.
+
+09)] community members and when a citation was issued [ β = 0.
+
+04 (0.
+
+02, 0.
+
+06)]; Respect was lower in stops where a search was conducted [ β = −0.
+
+08 (−0.
+
+11, −0.
+
+05)]. Officer race did not contribute a significant effect. Furthermore, in an additional model on 965 stops for which geographic information was available, neither the crime rate nor density of businesses in the area of the stop were significant, although a higher crime rate was indicative of increased Formality [ β = 0.
+
+03 (0.
+
+01, 0.
+
+05)]. One might consider the hypothesis that officers were less respectful when pulling over community members for more severe offenses. We tested this by running another model on a subset of 869 interactions for which we obtained ratings of offense severity on a four-point Likert scale from Oakland Police Department officers, including these ratings as a covariate in addition to those mentioned above. We found that the offense severity was not predictive of officer respect levels, and did not substantially change the results described above. To consider whether this disparity persists in the most “everyday” interactions, we also reran our analyses on the subset of interactions that did not involve arrests or searches (N = 781), and found the results from our earlier models were fundamentally unchanged. Full regression tables for all models described above are given in SI Appendix, Study 3. Another hypothesis is that the racial disparities might have been caused by officers being more formal to white community members, and more informal or colloquial to black community members. However, we found that race was not associated with the formality of officers’ utterances. Instead, utterances were higher in Formality in interactions with older [ β = 0.
+
+05 (0.
+
+03, 0.
+
+07)] and female [ β = 0.
+
+02 (0.
+
+00, 0.
+
+04)] community members. Are the racial disparities in the respectfulness of officer speech we observe driven by a small number of officers? We calculated the officer-level difference between white and black stops for every officer (N = 90) in the dataset who had interactions with both blacks and whites (Fig. 4). We find a roughly normal distribution of these deltas for officers of all races. This contrasts with the case of stop-and-frisk, where individual outlier officers account for a substantial proportion of racial disparities (27); the disparities we observe here cannot be explained by a small number of extreme officers. Fig. 4. Kernel density estimate of individual officer-level differences in Respect when talking to white as opposed to black community members, for the 90 officers in our dataset who have interactions with both blacks and whites. More positive numbers on the x axis represent a greater positive shift in Respect toward white community members. Because our model is able to generate scores across all utterances in our dataset, we can also consider aspects of the trajectory of interactions beyond the mean level of respect (Fig. 5). Growth-curve analyses revealed that officers spoke with greater Respect [ b = 0.
+
+35 (0.
+
+29, 0.
+
+40)] and reduced Formality [ b = −0.
+
+57 (−0.
+
+62, −0.
+
+53)] as interactions progressed. However, these trajectories varied by community member race: Although stops of white and black drivers converged in the Formality expressed during the interaction [ b = −0.
+
+09 (−0.
+
+13, −0.
+
+05)], the gap in Respect increased over time [ b = 0.
+
+10 (0.
+
+05, 0.
+
+15)]. That is, officer Respect increased more quickly in interactions with white drivers [ b = 0.
+
+45 (0.
+
+38, 0.
+
+54)] than in interactions with black drivers [ b = 0.
+
+24 (0.
+
+19, 0.
+
+29)]. Fig. 5. Loess-smoothed estimates of the (Left) Respect and (Right) Formality of officers’ utterances relative to the point in an interaction at which they occur. Respect tends to start low and increase over an interaction, whereas the opposite is true for Formality. The race discrepancy in Respect is consistent throughout the interactions in our dataset. ||||| The first major US study of body-cam footage concluded that police, at least in Oakland, California, showed more respect to white people than to black people.
+
+The study from Stanford University researchers analyzed the transcribed text from 981 traffic stops caught on body cams by 245 Oakland Police Department officers in 2014. White people pulled over were more likely to be called "ma'am" or "sir," and they were more likely to hear the words "please" and "thank you" from police officers. Black people, however, didn't get as much respect, and they were more likely to be called by their first names and even "my man.""
+
+Indeed, we find that white community members are 57 percent more likely to hear an officer say one of the most respectful utterances in our dataset, whereas black community members are 61 percent more likely to hear an officer say one of the least respectful utterances in our dataset," according to the study. (PDF) The results held constant no matter the race of the officer, the study said.
+
+The researchers point out that their survey underscores that data collected from body cams can have more uses than for just police work. They say their research model can be duplicated with other police departments."
+
+This work demonstrates the power of body-camera footage as an important source of data, not just as evidence," the researchers found.
+
+The researchers cautioned that the study was conducted with only the transcripts of 183 hours of body-cam footage, not the footage itself. And privacy concerns notwithstanding, the researchers said that more could be learned from body-cam studies if they listened to the audio and watched the footage. They wrote:However, studying body-camera footage presents numerous hurdles, including privacy concerns and the raw scale of the data. The computational linguistic models presented here offer a path toward addressing both these concerns, allowing for the analysis of transcribed datasets of any size, and generating reliable ratings of respect automatically.
+
+A review of the actual footage could also act as a teaching moment for police departments. "In addition, footage analysis could help us better understand what linguistic acts lead interactions to go well, which can inform police training and quantify its impacts over time," they said.
+
+The studies presented here open a path toward these future opportunities and represent an important area of research for the study of policing: computational, large-scale analyses of language give us a way to examine and improve police–community interaction that we have never had before.
+
+They said they are releasing all of the code of their "computational linguistic models" for others to use.
+
+The research was approved by the Stanford University Institutional Review Board with the cooperation of the Oakland Police Department. ||||| Image copyright Getty Images Image caption The researchers used body cam footage in their researchCalifornia police officers speak less respectfully to members of the public who are black than to those who are white, researchers studying body camera footage say.
+
+Scientists developed a way to measure levels of respect, based on the officers' language during routine traffic stops in Oakland City.
+
+The study is published in Proceedings of the National Academy of Sciences.
+
+It aims to use bodycam footage to help improve police-community relations.
+
+While bodycam footage has been used as evidence in criminal cases - including some where complaints have been made against police - the aim of this study was to turn this continuously gathered footage into data and use that to track and improve everyday policing."
+
+These routine interactions are important," said lead scientist Prof Jennifer Eberhardt, "they're the way most people encounter the police.""
+
+And people care as much about how they're treated as whether or not they got a [speeding] ticket."
+
+It can affect how people view the police, how they think about the police - whether or not they want to co-operate with them."
+
+Evidence or data?
+
+The study was part of a unique, decade long research collaboration between Stanford University and the Oakland Police Department in California, which began when the department asked Prof Eberhardt to analyse their stop and search data.
+
+Media playback is unsupported on your device Media caption Benjamin Read demonstrates how police body cameras work"We had location and details [of who was stopped], but we also had the camera's recording of every interaction," she said."
+
+I figured we could could analyse exactly what's happening here."
+
+The Stanford team transcribed 1,000 interactions between police and members of the public, then picked out a random selection of 400 "utterances" made by officers during these dialogues.
+
+They then had a group of volunteers read and rate these utterances, with each one being rated by at least 10 people."[
+
+Our volunteers] looked at the text without knowing the race of the officer or of the community member," said Prof Eberhardt."
+
+The task was to come up with a score that quantified respectfulness, so each utterance was rated for politeness, friendliness and how formal or informal it was."
+
+Then we looked for what we call the linguistic correlates of that rating- so what words are present when something is scored as more or less respectful."
+
+Co-author of the study PhD student Rob Voigt explained how the team had used these volunteers' ratings to develop a computer model that could automatically analyse the utterances - searching and scoring subtle linguistic markers that made an officer's language more or less respectful."
+
+Our computer model learns to measure each of these linguistic features," Mr Voigt said."
+
+So we can ask, 'How polite is it when you apologise?' and it can give us a number."
+
+So, apologies, calling someone 'sir', taking an interest in the person, maybe by saying, 'Drive safely,' they're all perceived as more respectful."
+
+And then disrespectful features include questions, negatively charged words and using terms like 'bro' or 'man', or first names rather than titles," he said.
+
+Prof Eberhardt said they had found "real racial disparity in officers' language use".'
+
+Ground-breaking'The researchers' main collaborator in the police department, Deputy Chief Leronne Armstrong, told BBC News that Oakland PD wanted to examine interactions with the community in order to "better train our officers and improve the way we communicate"."
+
+We've heard many times the community's concern about racial profiling," he told BBC News. "We have to be willing to ask those really tough questions about what our officers are doing."
+
+Prof Eberhardt also stressed that these findings did not "equate to racial bias"."
+
+There could be many reasons why you have the differences we're finding," she said. "It could have to do with a particular law enforcement strategy, police policies, the community members' language, or if there's tension already in a community because of a recent high profile case."
+
+We're trying to understand the root, but we're not taking for granted that it's bias."
+
+Deputy Chief Armstrong added: "This [collaboration] really is ground-breaking.""
+
+No other police force in the the country has opened up [and given scientists] access to this data."[
+
+And] this report will be a way in which we can learn and be better - to be the best we can be for our community."
+
+Any police department should do the same." |||||

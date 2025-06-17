@@ -1,0 +1,307 @@
+It supports the application of software engineering principles, such as structured programming and modularity, which impart orderliness and manageability to simulation models.
+
+It supports the automated creation, detection, downloading, installation and removing of the service packs.
+
+It supports the BDS Movement and its call for boycott, divestment and sanctions towards Israel until it ends the occupation of the Palestinian territories, acknowledges Palestinian refugees' right to return to their homes, and recognizes the right of Palestinian-Arab citizens of Israel to full legal and political equality.
+
+It supports the building of mobile and web apps, and aims to facilitate interoperability and federation.
+
+It supports the conservation of frogs, toads, newts, snakes and lizards, and the habitats on which they depend.
+
+It supports the Core i7 processors.
+
+It supports the creation and management of guest virtual machines running versions and derivations of Windows, Linux, BSD, OS/2, Solaris, Haiku, OSx86 and others, and limited virtualization of macOS guests on Apple hardware.
+
+It supports the creation and modification of 2D and 3D files.
+
+It supports the data formats of major MEG systems (CTF, Neuromag, BTi) and most popular EEG systems, as well as of spike and fNIRS data by external collaborators.
+
+It supports the development, maintenance and establishment of culture collections.
+
+It supports the development of Chinese contemporary art from Greater China by providing creative incubation platforms.
+
+It supports the development of service doctrine, force structure, training and education, and acquisition.
+
+It supports the display of remote user status using the IRC voice attribute: online users are shown with voice, away users are shown without.
+
+It supports the engine, provides a location for the steering and rear suspension, and supports the rider and any passenger or luggage.
+
+It supports the EPUB and PDF formats for digital publications and incorporates facilities for browsing online catalogs, and downloading them directly into the user's personal library.
+
+It supports the EPUB format for digital publications and incorporates facilities for browsing online catalogs on thousands of books (including thousands of free public domain work) and downloading them directly into the user's personal library.
+
+It supports the EVDO data technology.
+
+It supports the exchange of encrypted text and picture messages.
+
+It supports the exchange of university students, scientists and scholars between the United States and Belgium.
+
+It supports the face and is maintained by the skull, which itself encloses the brain.
+
+It supports the five file structures: unstructured, key-sequenced, entry-sequenced, relative and queue.
+
+It supports the following archive formats: tar, ZIP, bzip2, gzip, RAR, ace, ARJ, LHA, 7z and RPM and can handle other KIO Slaves such as smb or fish.
+
+It supports the following features: Generating PDF files with lines, text, images.
+
+It supports the French language in Canada.
+
+It supports the full legalization of drugs, and has also called for the restriction of state powers on other issues.
+
+It supports the full lifecycle: conceptual, utilization, support and retirement stages.
+
+It supports the gathering and sharing of new knowledge and the updating of the existing knowledge base.
+
+It supports the General MIDI System and can also be used as a MIDI interface for a computer.
+
+It supports the generation of table or control flow driven state machines from regular expressions and/or state charts and can also build lexical analysers via the longest-match method.
+
+It supports the Greek language.
+
+It supports the Infrastructure as Code (IaC) approach to DevOps automation and has been compared with SaltStack and Ansible, it primarily focuses on doing things or running workflows based on events.
+
+It supports the intellectual and creative community through a network of scholars and community garden.
+
+It supports the introduction of the unified interpretation of the law and the establishment of common judicial practice.
+
+It supports the Linux Audio Developer's Simple Plugin API (LADSPA), and Virtual Studio Technology (VST) plug-ins.
+
+It supports the major feed formats including RSS/RDF and Atom and can import and export subscription lists in OPML format.
+
+It supports the men's lightweight and heavyweight teams and the women's team with over 200 members.
+
+It supports themes, plugins and a few extra features (there is documentation on creating your own themes).
+
+It supports the most common text-based subtitle formats, video previewing, timings synchronization and subtitle translation.
+
+It supports the NASCAR Cup Series Hollywood Casino 400 since 2009.
+
+It supports the National Fairground Archive, set up in 1994 at the University of Sheffield.
+
+It supports the Nigeria Air Force (NAF) and civilian communities by provision of basic training on Aeronautics, aerospace engineering and avionics.
+
+It supports the Nintendo 64 Expansion Pak, which enables an optional high-resolution graphics mode.
+
+It supports the Oculus Rift, HTC Vive and Windows Mixed Reality headsets, although it can be played without any of them.
+
+It supports the open COLLADA file format as interface to 3D digital content creation software.
+
+It supports the OpenMP multi-platform shared memory multiprocessing, up to its latest version (4.
+
+5).
+
+It supports the open source VPN technologies OpenVPN and WireGuard and encrypts data using AES-256.
+
+It supports the people affected by road crashes with emotional and practical support and advocacy.
+
+It supports the Pink Pistols idea that was described nationally in 2000 by writer Jonathan Rauch for the legal, responsible and safe use of weapons for their self defense, recreation and shooting sports.
+
+It supports the POP3, IMAP and SMTP protocols.
+
+It supports the popular iCalendar format.
+
+It supports the positive meanings and appreciation of the words and body parts such as the vagina, vulva, and clitoris.
+
+It supports the principles of non-interference in the affairs of third world countries and increased assistance to underdeveloped countries.
+
+It supports the production of micro-budget feature films.
+
+It supports the professional development of circus performers and circus companies and runs youth and adult evening classes every week.
+
+It supports the real-time playout of mixed live and recorded audio- and video-input as well as data-driven templates.
+
+It supports the recording and searching of items of intelligence by both police officers and back office staff.
+
+It supports the recruitment of local Ndebele inhabitants for State jobs in Matabeleland but denies any intention to secede from Zimbabwe.
+
+It supports the Register of Professional Turners, which gives details of leading turners and what they make.
+
+It supports the Remote Desktop Protocol (RDP), VNC, NX, XDMCP, SPICE and SSH protocols.
+
+It supports the Rugby League International Federation (RLIF).
+
+It supports the Russian (also before 1918), Belarusian, Bulgarian (also before 1945), Ukrainian, Macedonian, and Serbian languages.
+
+It supports the same application and call management paradigms as SS7 but uses an Internet Protocol (IP) transport called Stream Control Transmission Protocol (SCTP), instead of TCP or UDP.
+
+It supports the same hash lengths as SHA-2, and its internal structure differs significantly from the rest of the SHA family.
+
+It supports the same protocols as Cassandra (CQL and Thrift) and the same file formats (SSTable), but is a completely rewritten implementation, using the C++14 language replacing Cassandra's Java, and the Seastar asynchronous programming library replacing threads, shared memory, mapped files, and other classic Linux programming techniques.
+
+It supports the Simple Mail Transfer Protocol (SMTP) as specified by RFC 2821 and various extensions.
+
+It supports the specification, analysis, design, verification and validation of a broad range of systems and systems-of-systems.
+
+It supports the standards DVB-S (satellite), DVB-C (cable), DVB-T (terrestrial), ISDB-T, ISDB-S and ATSC.
+
+It supports the Taliban forces in neighboring Afghanistan.
+
+It supports the three major operating systems: Windows, Linux and Mac OS X by using the PHP language.
+
+It supports the Turkish language.
+
+It supports the underprivileged through sports and encourages attachment to the city of Valencia.
+
+It supports the use of a pressure-sensitive pen tablet and allows the user to add images by searching Wikimedia, Picasa, Flickr, Google, Yahoo, Bing and Fatpaint's own collection of public domain images.
+
+It supports the Veris printer, Kodak Approval and various inkjet printers from Epson and Hewlett Packard.
+
+It supports the viscera in the pelvic cavity, and surrounds the various structures that pass through it.
+
+It supports the work of the late Satguru Sivaya Subramuniyaswami, a spiritual teacher with the honorary title Gurudeva.
+
+It supports the work of the Russian representative of the Union Mundial pro Interlingua.
+
+It supports the Worshipful Company of Hackney Carriage Drivers' 'Magical Taxi Run' to Disneyland Paris each year for children with life-threatening illnesses.
+
+It supports the xBase data types, including Codeblocks.
+
+It supports third party candidates and independents who support the primary principals of the Party's platform.
+
+It supports thumbnail display of unlimited remote systems (since version 10), and allows navigation between remote systems in a manner similar to a KVM switch.
+
+It supports T-Mobile's 4G network.
+
+It supports traditional biblical values on all issues including civil partnerships, same-sex blessings and embryonic stem cell research.
+
+It supports traditional, native farmers and gardeners for the well-being of the food supply and community health.
+
+It supports translation of 40 different languages.
+
+It supports traveling to and studying in Greece while earning high school credits towards secondary school graduation in the province of Ontario, Canada.
+
+It supports tri-band GSM on its secondary slot and quad-band GSM/EDGE + dual-band HSPA on the primary SIM-1 slot.
+
+It supports twelve-factor apps.
+
+It supports two battery types of Nokia, BL-5C and BL-5CB.
+
+It supports two-player co-operative play.
+
+It supports two to seven players, represented by differently-colored tanks, with a range of weapons.
+
+It supports two variants: the user can either purchase the music for outright ownership or access entire libraries of music via a subscription model.
+
+It supports UMTS (including HSDPA), EDGE, GPRS and GSM.
+
+It supports United Nations initiative and follows the Principles for Responsible Management Education.
+
+It supports Unix domain sockets, TCP, SCTP, DLPI and UDP via BSD Sockets.
+
+It supports UN peacekeeping activities in Central Africa.
+
+It supports up to 14 participants simultaneously, with almost full wiki features on the page level.
+
+It supports up to 4 GB, virtual memory, and hardware interrupt reflection from real mode to protected mode.
+
+It supports up to 4 players offline and online through the Nintendo Wi-Fi Connection.
+
+It supports up to 4 players playing on the PlayStation 2 via Multitap, and also utilizes the console's online multiplayer function.
+
+It supports up to eight players in local wireless and up to four players with online play.
+
+It supports up to four players competing across locally connected cabinets.
+
+It supports up to three players on one computer, and up to four computer on a network game mode, whereby players can challenge each other online.
+
+It supports using the Microsoft Visual Studio for debugging purposes.
+
+It supports various boot mechanisms such as booting from USB thumbdrive, ISO Image, or over the network via PXE boot.
+
+It supports various common archive and compression formats including zip, 7z, rar, lha and tar (both uncompressed and compressed with e.
+
+g. gzip, bzip2, lzip or xz).
+
+It supports various development environments and compilers.
+
+It supports various external text encodings and provides string and character types based on UCS-2.
+
+It supports various inbuilt functions.
+
+It supports various matrix classes for vectors, non-symmetric matrices, SPD matrices, symmetric matrices, banded, triangular, and tridiagonal matrices.
+
+It supports vector design and wireframing, and creating simple interactive click-through prototypes.
+
+It supports version control tools, including AccuRev, CVS, Subversion, Git, Mercurial, Perforce, ClearCase and RTC, and can execute Apache Ant, Apache Maven and sbt based projects as well as arbitrary shell scripts and Windows batch commands.
+
+It supports vibration, has a loudspeaker and a 3.
+
+5mm standard headphone jack.
+
+It supports virtually all raw formats.
+
+It supports "virtual types": type parameters of classes and packages (families of related classes).
+
+It supports WAP 2.
+
+0, GPRS and UMTS.
+
+It supports WGL4, Armenian script, and the minuscules of the Georgian alphabet.
+
+It supports white nationalism, and a variety of conservative and paleoconservative causes.
+
+It supports Wi-Fi tethering.
+
+It supports wildlife projects and it campaigns on animal rights issues in Britain and around the world.
+
+It supports windowed and full-screen operations as well as multiple monitors.
+
+It supports Windows app development using C++, C#, VB.
+
+NET, and XAML.
+
+It supports Windows, macOS and Linux.
+
+It supports Wireless-G connectivity and 4-port 10/100 Ethernet hub.
+
+It supports women in war and conflict zones with a strong concentration on the Balkans, but is also active in the Middle East and the Caucasus.
+
+It supports XML 1.
+
+0, DOM, SAX, an XSLT 1.
+
+0 processor, XML schema support including XSD and XDR, as well as other XML-related technologies.
+
+It supports ZRTP for end-to-end encrypted voice and video communication.
+
+It support various primary and secondary schools and the Murray Theological College.
+
+It supposedly had a human's face and snake's body, created day and night by opening and closing its eyes, and created seasonal winds by breathing.
+
+It supposedly inspired the deli sandwich sold in northern New Jersey for over half a century by the same name, sloppy joe.
+
+It supposedly lay between north-east Greenland and Svalbard, at the northern end of the Greenland Sea.
+
+It supposedly operated floatplane services from Phuket and the Phi Phi Islands to other island destinations and to resorts on the Thai mainland, and tours with Jiab.
+
+It suppresses both the withdrawal symptoms from morphine and other opioids, and the development of tolerance, as well as having antihyperalgesic and analgesic effects in its own right.
+
+It suppresses colors which already exist in text, such as the blue and red links in Wikipedia.
+
+It suppresses parathyroid synthesis and secretion.
+
+It suppresses the immune reaction by binding to white blood cells via the protein CD4.
+
+It suppresses the loss of chirality.
+
+It suppresses the phosphorylation of the epidermal growth factor receptor in human colon carcinoma cells.
+
+It suppresses the sweetness of most of the sweeteners including intense artificial sweeteners such as aspartame and natural sweeteners such as thaumatin, a sweet protein.
+
+Its upregulation during renal injury has been found in the kidneys of the vertebrates such as Zebrafish and humans.
+
+Its upright fibers form a flexible, non-rigid surface, which are constantly displaced to give durability and anti-stain benefits.
+
+Its Ups and Downs, published in 1934, is a novel by Dr. Harry March that was the first ever attempt to write a history of professional American football.
+
+Its upstream earnings from overseas projects have been tripled and Marathon is beginning to sell off the smaller assets.
+
+It's up to Carl and his friends to save their town and the world.
+
+It's Up to Emma met with positive reception from indie rock critics upon release.
+
+It's Uptown is the second studio album by jazz/soul guitarist George Benson.
+
+Its urban area is a continuation of the South Coast urban area, and overall, extends from the Southern Californian city of Oxnard to Rosarito.
+
+Its urban area links Tijuana with Rosarito Beach.

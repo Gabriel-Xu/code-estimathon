@@ -1,0 +1,65 @@
+In the early 1200s, the independence of the Mandinka was threatened by the Sosso. Sosso was one of the many kingdoms that succeeded the Ghana Empire. Keita, who had already become a king, gathered his people and fought a battle with the Sosso army. In 1235, Keita and his army destroyed the army of Soumaoro Kanté, the ruler of the Sosso. This battle is called the Battle of Kirina, located in present-day Mali.
+
+Further military advancements led to the expansion of the Mali Empire. The empire thrived, because it controlled many of the major gold fields and was an important center of trans-Saharan trade. Keita also successfully combined Islamic and traditional African beliefs to create a functional kingdom. Today, some of the Mandinka people of West Africa still regard Sundiata as a hero.
+
+Little is known about the later life of Keita, but it is known that Keita ruled for about 25 years before his death. It is said that Keita was killed in an accident in his capital city.
+
+Zhang HengZhang Heng (also written Chang Heng, ; AD 78–139) was a Chinese scientist who worked in many subjects. He lived during the Han dynasty. He was an accomplished engineer, meteorologist, geologist, philosopher, mathematician, astronomer and writer.
+
+Zhang invented the first seismometer, a machine that measures the strength of earthquakes. He is remembered for many other inventions and writings. He invented the seismometer in 132 AD. Heng was also the first in China to apply a grid system to maps, from which positions and distances could be calculated.
+
+Some of his jobs were chief astronomer of the Imperial Chancellery for Astronomical and Calendrical Science, and chief minister under the rule of Moana. He also wrote many works ranging from poetry to books full of his scientific research. One was his book of astronomical research and it described his theories about previously unexplained things that could be seen in the night sky. Some things it theorized were that the Moon was lit by the Sun instead of making its own light. It also proposed that the Moon could be eclipsed by the shadow of the Earth.
+
+RefractoryA refractory is a material that can stand high temperature. It is used in furnaces, kilns, incinerators and reactors. Materials to make refractory must be chemically and physically stable at high temperature, such as alumina, silica, magnesia and lime.
+
+One-line diagramThe one-line diagram (or single-line diagram) is a diagram that shows a three-phase power system in a simple way. It is used in many power-related applications. Each electrical element is represented by a unique symbol. Although it describes three-phase electricity, only one conductor is shown in the diagram.
+
+Rotor (electric)A rotor is the part of an electric machine (motor or generator) that rotates. It rotates because of the torque developed by wires and magnetic field inside the machine.
+
+StatorA stator is the part of a rotary system that does not move. It is the fixed, stationary part of an electric machine (motor or generator). The stator might act as the field magnet (working with the armature to create the spinning movement) or as the armature (receives influence from the moving field coils of the rotor).
+
+KabsaKabsa is the national dish of Saudi Arabia. It is a dish made of rice and meat, cooked either separately or together. It can be made with spices and camel meat, lamb, chicken or fish. It is usually eaten for lunch and sometimes for dinner. Kabsa is often a dish for a group of people. The kabsa is normally served on a round metal dish placed on the floor and people eat with their right hand, although a spoon may be used in countries such as Kuwait, Bahrain and other Gulf countries.
+
+Uninterruptible power supplyAn uninterruptible power supply (or uninterruptible power source; UPS) is an apparatus that provides electric power in an emergency when there is a problem with the normal electricity supply. It provides an almost instantaneous supply of electricity during any power failure. It is used normally to protect any sensitive hardware (computer, data center, telecommunication) in which if there is any disruption of power supply, it might easily damage that equipment.
+
+UPS batteries are lead acid batteries that use gel sulfuric acid instead of the liquid sulfuric acid car batteries use. UPS batteries are sealed and have the property to store electricity and provide a consistent high surge DC current to a UPS system which converts it to a stabilized AC current. UPS batteries have a wide selection of dimensions and one of their main properties is that they do not leak or produce fumes. This is one of the most important reasons why they are used safely in houses, server rooms, data centers, manufacturing environments, hospitals, offices, and other poorly ventilated areas. These sealed lead-acid batteries can be found in some of the electronics stores or UPS specialized stores.
+
+Most people use a type of UPS called a full-time or full double conversion UPS, which is also the most effective. The utility power that comes into a UPS is alternating current (AC), which is also what most IT equipment needs (ITE). Choosing the correct UPS for the job is very important.
+
+Batteries, on the other hand, use direct current (DC), so all battery-type UPSes must change the incoming alternating current (AC) power into direct current (DC) to charge the batteries. This process is called "rectification." The UPS must still send AC power to the ITE, so a device called an inverter must turn DC power back into AC power.
+
+In a double-conversion UPS, power goes through the rectifier, and then the inverter is on its way to the ITE. The voltage and frequency of the output have nothing to do with the voltage and frequency of the input. They can even be completely different from the input, so this system is technically called "voltage and frequency independent" (VFI).
+
+Faraday's laws of electrolysisFaraday's laws of electrolysis are a set of scientific laws used in chemistry. They are used to express magnitudes of electrolytic effects. They were first described by Michael Faraday in 1834.
+
+The first law states that the mass of a substance produced by electrolysis is directly proportional to the quantity of the electricity that passes through the cell.
+
+The second law says: since Q, F, and z are constants, the larger the value of M/z (equivalent weight) the larger m will be.
+
+Faraday's laws can be summarized bywhere:"M/z" is the same as the equivalent weight of the substance altered.
+
+Supervisory Control and Data AcquisitionThe Supervisory Control and Data Acquisition (SCADA) is a control system for various industrial processes. It is controlled by a computer to monitor and control all of the processes that exist in an industry. It is a large-scale controlling method which can include several sites over long distance.
+
+Programmable logic controllerA programmable logic controller (PLC) is a digital system used to make electrical and mechanical processes become automated. PLC can be found in almost all of the heavy industries which require process and sequences. PLC contains a unique set of inputs and outputs. The logic of PLC is programmed so that user can create a highly dedicated PLC working system for their intended purpose.
+
+Nikki SinclaireNicole "Nikki" Sinclaire (born 26 July 1968) is a British politician. In June 2012, she started We Demand a Referendum (WDAR), a political party. She was a member of the United Kingdom Independence Party until 2010.
+
+She was born in Nicholas Sinclaire in London.
+
+She is openly gay.
+
+In November 2013, Sinclaire released a book about her life, "Never Give Up". In it she said that she was born male. When she was 23 she had sex reassignment surgery. The news made Sinclaire the United Kingdom's first transgender Member of Parliament.
+
+Enterprise CenterEnterprise Center is a sports arena in St. Louis, Missouri. The arena opened on October 8, 1994, and is the current home to the St. Louis Blues of the National Hockey League (NHL). The arena was also home to Saint Louis University's men's basketball team from 1991 to 2008.
+
+The arena was originally known as Kiel Center from 1994 to 2000 and Savvis Center from Aug 2000 to 2006. Scottrade acquired naming rights for the arena in September 2006.
+
+The Scottrade Center has held many WWE events as well including: , Survivor Series in 1998, the special live tribute episode of WWF Raw is War that aired after the night of Owen Hart's death, No Mercy in 2001, Judgment Day in 2007, Elimination Chamber in 2010, Royal Rumble in 2012 and Extreme Rules in 2013.
+
+The arena was initially expected to be renamed as the TD Ameritrade Center by the end of 2017, once the purchase of Scottrade by TD Ameritrade closed. However, TD Ameritrade decided not to put its name on the arena. The team later reached a new deal with Enterprise Holdings, a company based in the St. Louis suburb of Clayton, Missouri that owns the Enterprise, National, and Alamo car rental companies. The deal was announced on May 21, 2018, with the name officially changing to Enterprise Center on July 1 of that year.
+
+Capital One ArenaCapital One Arena is a sports arena in Washington D.
+
+C. The arena opened on December 2, 1997, and is the current home to the Washington Capitals on the National Hockey League (NHL), Washington Wizards of the National Basketball Association (NBA), Washington Mystics of the Women's National Basketball Association (WNBA), the Washington Valor of the Arena Football League, and the Georgetown University men's basketball team. The arena was also home to the Washington Power of the National Lacrosse League (NLL) from 2001 to 2002.
+
+The arena was originally known as MCI Center from 1997 to 2006. It became Verizon Center in January 2006 when Verizon Communications acquired the naming rights for the arena. The name changed again in August 2017 when Capital One acquired naming rights.

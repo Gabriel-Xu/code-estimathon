@@ -1,0 +1,111 @@
+Since bytecode instructions are processed by software, they may be arbitrarily complex, but are nonetheless often akin to traditional hardware instructions: virtual stack machines are the most common, but virtual register machines have been built also. Different parts may often be stored in separate files, similar to object modules, but dynamically loaded during execution.
+
+A bytecode program may be executed by parsing and "directly" executing the instructions, one at a time. This kind of "bytecode interpreter" is very portable. Some systems, called dynamic translators, or "just-in-time" (JIT) compilers, translate bytecode into machine code as necessary at runtime. This makes the virtual machine hardware-specific but does not lose the portability of the bytecode. For example, Java and Smalltalk code is typically stored in bytecode format, which is typically then JIT compiled to translate the bytecode to machine code before execution. This introduces a delay before a program is run, when the bytecode is compiled to native machine code, but improves execution speed considerably compared to interpreting source code directly, normally by around an order of magnitude (10x).
+
+Because of its performance advantage, today many language implementations execute a program in two phases, first compiling the source code into bytecode, and then passing the bytecode to the virtual machine. There are bytecode based virtual machines of this sort for Java, Raku, Python, PHP, Tcl, mawk and Forth (however, Forth is seldom compiled via bytecodes in this way, and its virtual machine is more generic instead). The implementation of Perl and Ruby 1.
+
+8 instead work by walking an abstract syntax tree representation derived from the source code.
+
+More recently, the authors of V8 and Dart have challenged the notion that intermediate bytecode is needed for fast and efficient VM implementation. Both of these language implementations currently do direct JIT compiling from source code to machine code with no bytecode intermediary.»> import dis # "dis" - Disassembler of Python byte code into mnemonics.
+
+Palau de les Belles ArtsThe Palau de les Belles Arts was a multipurpose building in Barcelona . Demolished in 1942, it was built on the occasion of the universal exhibition of 1888, in the space where the municipal courts are currently in front of the Parc de la Ciutadella, on the corner of "Passeig de Lluís Companys" and "Passeig de Pujades" .
+
+Work of August Font i Carreras, it was destined to artistic exhibitions, concerts and cultural events. The building had a rectangular floor plan and was 91 x 50 meters. The iron structure allowed to cover a great assembly hall. It had exposed side towers, with domes at the corners. On the second floor, there were different rooms, around the large one, with zenithal light, which allowed events and exhibitions to take place.
+
+The building basically consisted of a large hall, the Queen Regent's Hall, with an area of 2,000 square meters, intended for public events.
+
+This building was the first headquarters of the Municipal Museum of Fine Arts of Barcelona, between 1891 and 1915, where the different municipal and later provincial art collections met, a collection that years later became part of the Museum. National Art of Catalonia . During the Universal Exhibition, an exhibition of works of art from municipal collections and other collections from all over Spain was exhibited. Afterwards, exhibitions of fine arts and artistic industries took place ( General Exhibition of Fine Arts of Barcelona ). The periodic holding of these shows necessitated the temporary relocation of funds to other places. In 1917 the Exposition d'Art Français was organized in solidarity with French artists.
+
+In 1921 the works belonging to the Municipal Museums of Arts of Barcelona were incorporated.
+
+Japanese SpitzThe is a small to medium breed of dog, mainly used as a companion dog (although they can be used as a watchdog). Standards (requirements) usually vary across the world for these dogs. Developed in Japan during the 1920s and 30s, they were bred by breeding some Spitz type dog breeds. The breed is recognized by most kennel clubs except the AKC. It is a new breed, however it is growing in popularity due to their good temperament (behaviour).
+
+These dogs are known for being smart, easy to train, and good with children. They can be protective of their owner(s), hence why they can be good watchdogs. They can bark if people they do not know enter their territory.
+
+Lactic acid fermentationLactic acid fermentation is how glucose or other monosaccharide sugars are converted into lactic acid and energy. There may also be other by-products of this fermentation. It also works with other sugars, such as sucrose or lactose. Lactic acid bacteria use fermentation to get energy. Fungi, plants and animals will also use this it, if there is a lack of oxygen. As an example, it occurs in muscle cells. With humans, it occurs if there's too little oxygen in the blood, known as Hypoxemia.
+
+There are different types of lactic acid fermentation:Lactic acid fermentation is a way to preserve food, and make it last longer. It has been in use at least since the Paleolithic era. Fermentation will reduce the activity of the bacteria that make food go bad; it will also kill some of them. Examples are fermented milk products, such as yoghurt, sauerkraut, kimchi, and tsukemono.
+
+During the 19th century, several of the fundamental concepts of organic chemistry were discovered. Joseph Louis Gay-Lussac was interested in fermentation processes. One of his students was Justus von Liebig. Both independently described the chemical structure of the lactic acid molecule. Both were chemists, they were only interested in the chemical properties, and how to optimize it using chemical catalyzers. The French chemist Louis Pasteur was the first to describe lactic acid as a product of a microbial fermentation, in 1857. At the time he worked at the University of Lille. A local brewery asked him about some problems they had with fermentation. By chance he discovered that in this brewery, two fermentation processes were taking place: One was the lactic acid fermentation he had expected, the other was an alcoholic fermentation. Both were started by microorganisms.
+
+In the 19th century, several chemists discovered some fundamental concepts of the domain of organic chemistry. One of them was the French chemist Joseph Louis Gay-Lussac, who was especially interested in fermentation processes. He also passed this fascination to one of his best students, Justus von Liebig. With a difference of some years, each of them described the chemical structure of the lactic acid molecule as we know it today. Both Gay-Lussac and von Liebig had a purely chemical understanding of the fermentation process: in their view, the process can be optimized with chemical catalyzers; neither of them was interested in seeing it with a microscope. In 1857, the French chemist Louis Pasteur first described lactic acid as the product of a microbial fermentation. During this time, he worked at the university of Lille, where a local distillery asked him for advice concerning some fermentation problems. Per chance and with the badly equipped laboratory he had at that time, he discovered that in this distillery, two fermentations were taking place, a lactic acid one and an alcoholic one, both induced by microorganisms. He then continued the research on these discoveries in Paris, where he also published his theories which contradicted the purely chemical version represented by Liebig and his followers. Even though Pasteur described some concepts that are still accepted today, Liebig refused to accept them. But even Pasteur himself wrote that he was "driven" to a completely new understanding of this chemical phenomenon. Even if Pasteur didn't find every detail of this process, he still discovered the main mechanism of how the microbial lactic acid fermentation works. He was the first to describe fermentation as a "form of life without air."
+
+People had been using microbial lactic acid fermentation to produce food long before Pasteur had described it. Archeological finds show that the fermentation of milk has a long history. Its first uses may have been part of the Neolithic Revolution. Milk contains lactic acid bacteria. Given the right temperature, the fermentation process will happen spontaneously. These first farmers likely had another problem: When people become adults most lose the ability to digest fresh milk. These farmers had an interest to make milk digestible by adults. Lactic acid bacteria contain the enzymes needed to digest lactose. During lactic acid fermentation, the number of lactic acid bacteria increase. So even if fermentation only happens for a short time, the product will contain enough enzymes, which allows the milk to be digested by adults. Even safer was a longer fermentation, which was practiced for cheesemaking. This process was also discovered a very long time ago, which is proven by recipes for cheese production on Cuneiform scripts, the first written documents that exist, and a bit later in Babylonian and Egyptian texts.
+
+What is interesting is the theory of the competitive advantage of fermented milk products. The idea of this theory is that the women of these first settled farmer clans could shorten the time between two children thanks to the additional lactose uptake from milk consumption. This factor may have given them an important advantage to out-compete the hunter-gatherer societies.
+
+Since they consumed more milk products, these societies developed lactase pesistence: The milk-digesting enzyme lactase was present in their body during the whole lifetime: They could also drink unfermented milk as adults. Even today there are regional differences: Estimates are that about 65% of the world polulation still lacks this enzyme. The first societies came from regions in eastern Turkey to central Europe; the gene is more common there, as well as in the United States, which was settled from Europe. In Asian countries, lactose intolerance is much more present.
+
+Milk products and their fermentation have had an important influence on some cultures’ development. This is the case in Mongolia, where people often practice a pastoral form of agriculture. The milk that they produce and consume in these cultures is mainly mare milk and has a long tradition. But not every part or product of the fresh milk has the same meaning. The fattier part on the top, the "deež", is seen as the most valuable part and is therefore often used to honor guests.
+
+Very important with often a traditional meaning as well are fermentation products of mare milk, like for example the slightly-alcoholic yogurt kumis. Consumption of these peaks during cultural festivities such as the Mongolian lunar new year (in spring). The time of this celebration is called the "white month", which indicates that milk products (called "white food" together with starchy vegetables, in comparison to meat products, called "black food") are a central part of this tradition. The purpose of these festivities is to "close" the past year – clean the house or the yurt, honor the animals for having provided their food, and prepare everything for the coming summer season – to be ready to "open" the new year. Consuming white food in this festive context is a way to connect to the past and to a national identity, which is the great Mongolian empire personified by Genghis Khan. During the time of this empire, the fermented mare milk was the drink to honor and thank warriors and leading persons, it was not meant for everybody. Although it eventually became a drink for normal people, it has kept its honorable meaning. Like many other traditions, this one feels the influence of globalization. Other products, like industrial yogurt, coming mainly from China and western countries, have tended to replace it more and more, mainly in urban areas. However, in rural and poorer regions it is still of great importance.
+
+Some major bacterial strains identified as being able to ferment lactose are in the genera "Escherichia, Citrobacter, Enterobacter" and "Klebsiella ." All four of these groups fall underneath the family of "Enterobacteriaceae." These four species are able to be separated from each other by using biochemical testing. To distinguish between the species, simple biological tests are readily available. Apart from whole sequence genomics, common tests include H2S production, motility and citrate use, indol, methyl red and Voges-Proskauer tests.
+
+Lactic acid fermentation is used in many areas of the world to produce foods that cannot be produced through other methods. The most commercially important genus of lactic acid-fermenting bacteria is "Lactobacillus", though other bacteria and even yeast are sometimes used. Two of the most common applications of lactic acid fermentation are in the production of yogurt and sauerkraut.
+
+Lactic acid fermentation is used in the production of sauerkraut. The main type of bacteria used in the production of sauerkraut is of the genus "Leuconostoc".
+
+As in yogurt, when the acidity rises due to lactic acid-fermenting organisms, many other pathogenic microorganisms are killed. The bacteria produce lactic acid, as well as simple alcohols and other hydrocarbons. These may then combine to form esters, contributing to the unique flavor of sauerkraut.
+
+Lactic acid is a component in the production of sour beers, including Lambics and Berliner Weisses.
+
+The main method of producing yogurt is through the lactic acid fermentation of milk with harmless bacteria. Most often, the bacteria used are "Lactobacillus bulgaricus" and "Streptococcus thermophilus", and United States as well as European law requires all yogurts to contain these two cultures (though others may be added as probiotic cultures). These bacteria produce lactic acid in the milk culture, decreasing its pH and causing it to congeal. The bacteria also produce compounds that give yogurt its distinctive flavor. An additional effect of the lowered pH is the incompatibility of the acidic environment with many other types of harmful bacteria.
+
+For a probiotic yogurt, additional types of bacteria such as "Lactobacillus acidophilus" are also added to the culture.
+
+ScouserScouser is a denonym for a resident of the city of Liverpool. Sometimes, people in Birkenhead are called "Jedi’s". Most people also have the Scouse accent.
+
+Echt, NetherlandsEcht () is a city in the Dutch province of Limburg. Since 2003, it became a part of the new municipality of Echt-Susteren.
+
+The city has about 19,300 inhabitants.
+
+OnderbankenOnderbanken is a former municipality in the Dutch province of Limburg. Since 2019, it has been part of the new municipality of Beekdaelen.
+
+NuthNuth was a municipality in the Dutch province of Limburg. Since 2019, it has been part of the new municipality of Beekdaelen.
+
+ValkenswaardValkenswaard is a municipality in the Dutch province of North Brabant. In 2019, there were 30,910 people living there.
+
+VeldhovenVeldhoven is a municipality in the Dutch province of North Brabant. In 2019, 45,337 people lived there.
+
+WaalwijkWaalwijk is a municipality in the Dutch province of North Brabant. In 2019, 48,240 people lived there.
+
+VughtVught is a municipality in the Dutch province of North Brabant. In 2021, about 31,000 people live there.
+
+WoensdrechtWoensdrecht is a municipality in the Dutch province of North Brabant. In 2019, 21,866 people lived there.
+
+Echt-SusterenEcht-Susteren is a municipality in the Dutch province of Limburg. In 2019, 31,738 people lived there.
+
+It was created from the former municipalities of Echt and Susteren on 1 January 2003.
+
+BeekdaelenBeekdaelen is a municipality in the Dutch province of Limburg. In 2019, 35,771 people lived there.
+
+It was created on 1 January 2019 from the former cities of Nuth, Onderbanken and Schinnen.
+
+SchinnenSchinnen was a municipality in the Dutch province of Limburg. Since 2019, it has been part of the new municipality of Beekdaelen.
+
+MeijelMeijel was a municipality in the Dutch province of Limburg. Since 2010, it is part of the new municipality of Peel en Maas.
+
+Donnellson, IllinoisDonnellson is a village in Illinois in the United States.
+
+Krum, TexasKrum is a city in the U.
+
+S. state of Texas.
+
+EllipsometryEllipsometry is a measurement method used by scientists who want to study solid materials or the surface of solids. It works by shining polarized light on a thin slice of a material and then looking to see how the nature of that light is changed when it is reflected by the sample.
+
+Ellipsometry can be used to investigate different thin films of many different materials, of organic or inorganic origin. Inorganic subjects are things such as metals, semiconductors, insulators and also liquid crystals.
+
+The frequency range used covers not just visible light but whole the spectrum from the microwave range, the terahertz range, infrared light, visible light up to the range of ultraviolet light.
+
+Sapporo TV TowerThe Sapporo TV Tower is a television tower that was built in 1957, and is 147.
+
+2 meters tall. The tower is in Odori Park. The Sapporo TV Tower is in Sapporo, Japan. Many tourists go to the observation deck on this tower, which is about 90 meters tall.
+
+Mike's New CarMike's New Car is a 2002 short movie produced by Pixar Animation Studios and is based on Monsters, Inc..
+
+Todd McFarlane's SpawnTodd McFarlane's Spawn, also known as Spawn: The Animated Series, is an American noir adult animated television series which aired on HBO from 1997 through 1999. It has also been released on DVD as a movie series. The show is based on the Spawn character from Image Comics, and won an Emmy in 1999 for Outstanding Animation Program (longer than one hour)."
+
+Todd McFarlane's Spawn" was ranked 5th on IGN's list of "The Greatest Comic Book Cartoons of All Time", and 23rd on IGN's list of "Top 25 Primetime Animated Series of All Time".
+
+Series producer Eric Radomski reflected in an interview that ""Spawn TAS" was a personal success for me. Very rarely do artists get the opportunity to have as much uncensored creative freedom as I did at HBO on "Spawn"."

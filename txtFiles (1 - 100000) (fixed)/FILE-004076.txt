@@ -1,0 +1,117 @@
+The idea that all physical laws could be useful dates back to Auguste Comte. Comte said that all theories were merely "relatively" true, and that even Isaac Newton's law of universal gravitation was strictly speaking nothing but a social convention true until new data force us to find a better theory.
+
+This was an important development in early 20th century Vienna, led by Moritz Schlick and widened by Ludwig Wittgenstein. The logical positivists held that statements that cannot be proven true or false have no meaning. Thus statements like "There is a God" or "There is no God" are not true or false, but meaningless because they cannot be proven or disproven.
+
+This was the idea of P.
+
+W. Bridgman, Nobel Prize in Physics for 1946. It was that a concept in science was defined by the way one measured it. If one thinks of electron spin, or the curvature of space, these are not everyday ideas. In everyday life, electrons are not seen, and neither is space seen to be curved. They rest on the results of experiments which measured fundamental properties like time, light, mass, electrical charge, and so on. What Bridgman meant is that their meaning is in the way the measurements were done.
+
+19th-century positivism – or "Comtean positivism" – included the outline of a proposed development. This would lead from primitive explanations, through religious thought and monotheism, to positivism as the universal theory and scientific practice. The theory was very influential among cultural historians. It led Comte to the creation of a "religion of humanity" as a secular substitute for all religions. This caused an outcry among scientists, who were ready to adopt the scientific premises but not interested in creating a substitute religion.
+
+One can today still visit temples in Rio de Janeiro, Porto Alegre, and Curitiba in Brazil, and Paris built by 19th-century Comtean positivists. London had a society of positivists. The Turkish leader Mustafa Kemal Atatürk was strongly interested in positivism as the basis of a secularisation of the nation, he was trying to build.
+
+The term positivism is today no longer connected to the construct of a secular religion, but more to describe a scientific method.
+
+Norton Internet SecurityNorton Internet Security is a security program made by Symantec Corporation that protects computers from malware. It includes antivirus, firewall, e-mail filter, and phishing protection software. It also includes features like parental controls which can be downloaded as an add-on.
+
+Norton Internet Security was replaced by Norton Security in 2014.
+
+Norton Internet Security was available from a download, a box copy in a store, or from a company that is an OEM. Norton Internet Security and its sister product, Norton AntiVirus, combined, held 61% of the antivirus market in 2007. Major competitors in terms of market share include antivirus products from CA, Trend Micro, and Kaspersky Lab.
+
+Norton Internet Security runs on Microsoft Windows and Mac OS X. Version 22.
+
+5.
+
+2.
+
+15 was the last update available for Norton Internet Security for Windows computers. The latest Mac version is 4.
+
+0.
+
+In August 1990 Symantec acquired Peter Norton Computing from Peter Norton. Norton and his company developed various utilities, or applications for DOS. Symantec continued the development of them. They were marketed under the name of "Norton", with the tagline "from Symantec". Norton's crossed-arm pose, a registered U.
+
+S. trademark, was featured on Norton product packaging. However, it was later moved to the spine of the packaging, and then dropped altogether.
+
+Product activation was introduced to Norton Internet Security 2004, because of the estimated 3.
+
+6 million counterfeit Norton products sold. A alphanumeric code is generated to identify a computer's configuration, which ties in with the product key. Users are allowed to activate their product five times with the same product key. Spyware detection and removal was introduced to the 2005 version for Windows, with the tagline "Antispyware Edition". The tagline was dropped in later releases.
+
+Existing users of the 2006, 2007, or 2008 versions could upgrade to the latest 2009 version without buying a new subscription. Upgrading preserved the number of days left on a user's subscription.
+
+Norton Internet Security 2006 started on September 26, 2005. The main graphical user interface, dubbed the Norton Protection Center puts all information in a central location. CNET reported that the Norton Protection Center, while useful, attempts to advertise additional products and services from Symantec.
+
+To help identify zero-day malware, Bloodhound technology disassembles and scans application code for possibly malicious instructions. Norton can revert Internet Explorer homepage hijacking attempts and block advertisements. Users are warned of unauthorized changes to Internet Explorer's homepage, and can revert such changes. Advertisement blocking rewrites a website's HTML to prevent advertisements from being displayed. E-mail filtering scans POP3 mail for spam. It can be configured using either a blacklist or a whitelist. Users can also correct Norton's classification of e-mail on an individual basis. Parental controls, bundled with this release, allow users to block specific sites, block certain programs from accessing the Internet, and restrict newsgroup access. Norton can block the transmission of confidential information. Users can enter information which are not to be communicated via instant messenger, e-mail, or webforms.
+
+CNET noted this version's slowed system performance, especially when opening files across a network or on a removable disk. Oli Warner also noted Norton's significant drag when opening or creating files, compared to similar offerings from different vendors. PC Magazine noted the program's lengthy installation time and weak spam filtering feature; valid e-mail messages were marked as spam and actual spam e-mail were not.
+
+Windows 98 compatibility was dropped from this release. System requirements were Windows 2000 Service Pack 3 or Windows XP, 325 Megabytes of free hard drive space, a 300 MHz processor, and 256 MB of RAM.
+
+The 2007 version was released on September 12, 2006. 80% of the code was rewritten, with the goal of reducing demand on the system. A tabbed interface allows users to access the Norton Protection Center and the program settings without separate windows open. Symantec also extended its Veritas VxMS technology, enhancing rootkit detection. VxMS allows Norton to detect inconsistencies among files within directories and files at the volume level. Phishing detection was introduced in this release for Internet Explorer. Norton checks sites visited in Internet Explorer against a blacklist and analyzes sites' code. Other features include an exploit scanner which looks at system components commonly hosting vulnerabilities, such as Internet Explorer settings. Supplementing the scanner, real-time exploit protection blocks attackers from leveraging common browser and application vulnerabilities. When possible, Norton will fix issues found; otherwise the user is warned of the vulnerability. A startup application manager allows users to prevent applications from launching at login.
+
+E-mail spam filtering, parental controls, advertisement blocking, and the information filtering features were not bundled with this release to reduce performance impact and disk space requirements. Instead, the features are available separately in a 2007 add-on package.
+
+CNET reports mixed results in performance testing; however gains were made over the 2006 version. Warner also noted the 2007 version's reduced impact on system performance, compared to the 2006 version. Similar to the prior version, spam filtering module misidentified valid e-mail and missed actual spam, according to PC Magazine.
+
+Windows 2000 compatibility was dropped from this release. Compatibility with 32-bit editions of Windows Vista was introduced later in this release with a patch from Symantec. When installed in Vista, 350 MB of free space, an 800 MHz processor, and 512 MB of RAM was needed. When installed in Windows XP, 350 MB of free space, a 300 MHz processor, and 256 MB of RAM was required.
+
+The 2008 version was released on August 28, 2007. New features included SONAR and the Norton Identity Safe. SONAR was designed using technologies Symantec acquired from WholeSecurity. The Identity Safe supersedes the information filtering function, storing webform information and can fill such forms. The information filtering feature was still available in the 2008 add-on package, and could be used in conjunction with the Identity Safe. Phishing protection was integrated with Mozilla Firefox as well as Internet Explorer. The startup application manager was dropped from this release. Advertisement blocking was dropped from this release's add-on package.
+
+When installed in 32-bit editions of Windows XP Service Pack 2, 350 MB of free space, a 300 MHz processor, and 256 MB of RAM was required. Support for 64-bit editions of Windows Vista was added in this release. 350 MB of free space, a 800 MHz processor, and 512 MB of RAM was required.
+
+The 2009 version was released on September 8, 2008. Benchmarking conducted by PassMark Software highlights this release's 52 second install time, 32 second scan time, and 7 MB memory utilization. Symantec funded the benchmark test and provided scripts used to benchmark each participating antivirus software.
+
+A single main interface replaced the tabs found in prior releases. New features included Norton Insight which whitelists files based on reputation, cutting scanning time. Virus signature updates are now delivered 5 to 15 minutes, supplementing the reliability tested updates issued by Symantec every several hours. However, such updates could incorrectly identify files as malicious, and users could elect not to receive those updates. Spam filtering was reintegrated in this release. The add-on package included information filtering and parental controls. The exploit scanner found in the 2007 and 2008 versions was dropped from this release.
+
+System requirements call for a 32-bit edition of Windows XP, a 300 MHz processor, 256 MB of RAM and 200 MB of free space. When installed in a 32 or 64-bit edition of Windows Vista, an 800 MHz processor, 512 MB of RAM, and 200 MB of free space was required.
+
+Notable new features included the integration of Norton Safe Web, a web rating service. Safe Web blocks access to malicious sites. Additionally, search results from major search engine, such as Google, are color coded for safety (green for safe site, yellow for possibly unsafe site, red for dangerous sites, and gray with a white question mark for untested sites). The toolbar redirects queries to the Ask.
+
+com search engine, however it does not share code with the Ask.
+
+com toolbar.
+
+Norton Internet Security version 1.
+
+0 for Mac was released on November 1, 2000. It could identify and remove both Windows and Mac viruses. Other features included a firewall, advertisement blocking in the browser, parental controls, and the ability to prevent confidential information from being transmitted outside the computer. Users are prompted before such information is able to be transmitted. The incorporation of Aladdin Systems' iClean allows users to purge the browser cache, cookies, and browsing history within Norton's interface. Operating system requirements call for Mac OS 8.
+
+1. Hardware requirements call for 24 MB of RAM, 12 MB of disk space, and a PowerPC processor.
+
+Version 2.
+
+0 also ties in with the WHOIS database, allowing users to trace attacking computers. Users can inform network administrators of the attacking computers for corrective actions. When running under Mac OS 8.
+
+1 or 9, a PowerPC processor, 24 MB of RAM, and 25 MB of free space is required. Under Mac OS X 10.
+
+1, a PowerPC G3 processor, 128 MB of RAM, and 25 MB of free space is required.
+
+The subsequent release, version 3.
+
+0, maintained the feature set found in version 2.
+
+0. The firewall allocated internet access as needed rather than relying on user input using predefined rules. Compatibility with OS 8 was dropped. When running under OS 9.
+
+2, a PowerPC processor, 24 MB of RAM, and 25 MB of free space was required. Under OS X 10.
+
+1.
+
+5 through 10.
+
+3, a PowerPC G3, 128 MB of RAM, and 150 MB of free space is required. However, version 3.
+
+0 is not compatible with OS X 10.
+
+4, or "Tiger".
+
+Version 4.
+
+0 was released on December 18, 2008. Symantec also marketed a bundle of Version 4.
+
+0 and the 2009 version for Windows, intended for users with both Microsoft Windows and Mac OS X installed. iClean was dropped from this release. The firewall blocked access to malicious sites using a blacklist updated by Symantec. To prevent attackers from leveraging insecurities in the Mac or installed software, exploit protection was introduced in this release. Phishing protection was introduced in this release as well. Operating system requirements call for Mac OS X 10.
+
+4.
+
+11 or higher. Either a PowerPC or Intel Core processor, 256 MB of RAM and 150 MB of free space are required.
+
+The FBI confirmed the active development of Magic Lantern, a keylogger intended to obtain passwords to encrypted e-mail as part of a criminal investigation. Magic Lantern was first reported in the media by Bob Sullivan of MSNBC on 20 November 2001 and by Ted Bridis of the Associated Press. The FBI intended to deploy Magic Lantern in the form of an e-mail attachment. When the attachment was opened, it installed a trojan horse on the suspect's computer. The trojan horse is activated when the suspect uses PGP encryption, often used to increase the security of sent e-mail messages. When activated, the trojan horse will log the PGP password, which allows the FBI to decrypt user communications. Symantec and other major antivirus vendors whitelisted Magic Lantern, rendering their antivirus products, including Norton Internet Security, incapable of detecting Magic Lantern. Concerns include uncertainties about Magic Lantern's full potential and whether hackers could subvert it for purposes outside the jurisdiction of the law.
+
+In 2006, Oli Warner published two articles comparing the system performance impact of various Windows applications, including Norton Internet Security 2006. He later reran the experiments, revising his methodology and included 2007 version at Symantec's request. Warner benchmarked the processor and the disk performance with and without each application, compiling two scripts in C++, a programming language. One calculated all prime numbers between 100,000 and 200,000 and the other tested file read/write time. BootVis was used to measure boot time. All testing was conducted inside a virtualized environment created by VMware. Despite the 2007 version's improvements, Warner noted its significant boot delay and impact on file operations.

@@ -1,0 +1,35 @@
+These results are powerful evidence that a significant evolution has taken place throughout the Universe’s history, an evolution during which galaxies merged together, dramatically reducing their total number. “This gives us a verification of the so-called top-down formation of structure in the Universe,” explains Conselice.
+
+The decreasing number of galaxies as time progresses also contributes to the solution of Olbers’ paradox — why the sky is dark at night [3]. The team came to the conclusion that there is such an abundance of galaxies that, in principle, every point in the sky contains part of a galaxy. However, most of these galaxies are invisible to the human eye and even to modern telescopes, owing to a combination of factors: redshifting of light, the Universe’s dynamic nature and the absorption of light by intergalactic dust and gas, all combine to ensure that the night sky remains mostly dark.
+
+Notes[1] The limited speed of light and the age of the Universe mean that the entire Universe cannot be seen from Earth. The part visible within our cosmological horizon is called the observable Universe.[
+
+2] The study uses data from Perez-Gonzalez et al. (2008), Kajisawa et al. (2009), Fontanta et al. (2004, 2006), Caputi et al. (2011), Pozzetti et al. (2009), Mortlock et al. (2011), Muzzin et al. (2013), Mortlock et al. (2015), Duncan et al. (2014), Grazian et al. (2015), Tomczak et al. (2014) and Song et al. (2015).[
+
+3] The astronomer Heinrich Olbers argued that the night sky should be permanently flooded by light, because in an unchanging Universe filled with an infinite number of stars, every single part of the sky should be occupied by a bright object. However, our modern understanding of the Universe is that it is both finite and dynamic — not infinite and static.
+
+More informationThe Hubble Space Telescope is a project of international cooperation between ESA and NASA.
+
+The results are going to appear in the paper “The evolution of galaxy number density at z < 8 and its implications”, to be published in the Astrophysical Journal.
+
+The international team of astronomers in this study consists of Christopher J. Conselice (University of Nottingham, United Kingdom), Aaron Wilkinson (University of Nottingham, United Kingdom), Kenneth Duncan (Leiden University, the Netherlands), and Alice Mortlock (University of Edinburgh, United Kingdom)Image credit: NASA, ESALinksContactsChristopher ConseliceUniversity of NottinghamNottingham, United KingdomTel: +44 115 951 5137Email: conselice@nottingham.
+
+ac.
+
+ukMathias JägerESA/Hubble, Public Information OfficerGarching bei München, GermanyTel: +49 176 62397500Email: mjaeger@partner.
+
+eso.
+
+orgLindsay BrookeUniversity of Nottingham, Media Relations ManagerNottingham, United KingdomTel: +44 115 951 5751Email: lindsay.
+
+brooke@nottingham.
+
+ac.
+
+uk ||||| A new study from a team of international astronomers, led by astrophysicists from the University of Nottingham with support from the Royal Astronomical Society (RAS), has produced some astounding results: The universe contains at least two trillion galaxies, 10 times more than the highest previous estimates. What's more, the new study suggests that 90 percent of all galaxies are hidden from us, and only the remaining 10 percent can be seen at all, even with our most powerful telescopes. The paper detailing the study was published today in the Astrophysical Journal.
+
+Advertisement - Continue Reading Below"We are missing the vast majority of galaxies because they are very faint and far away," said Nottingham Astrophysics Professor Christopher Conselice in an RAS press release. "The number of galaxies in the universe is a fundamental question in astronomy, and it boggles the mind that over 90 percent of the galaxies in the cosmos have yet to be studied. Who knows what interesting properties we will find when we study these galaxies with the next generation of telescopes?"
+
+Most PopularFor two decades, astronomers have used the Hubble Space Telescope (HST) Deep Field images to try to estimate the number of galaxies in the observable universe. The previous estimate was 100 to 200 billion, and now we believe that huge number was too small by a factor of 10 or 20, depending on where your original estimate falls.
+
+It is no easy task to count the galaxies in the entire universe. For one thing, as previously mentioned, we cannot see the vast majority of galaxies with our telescopes because they are too far or too faint or both. For another, the farther away we peer with the HST, the smaller the area of the sky we are observing is—Hubble Deep Field images cover about one millionth of the total area of the sky. This animation shows just how small an area a Deep Field image covers.

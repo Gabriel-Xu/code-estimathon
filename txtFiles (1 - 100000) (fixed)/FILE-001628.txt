@@ -1,0 +1,161 @@
+An Inkjet printer is a printer for computers. It uses special ink to print on the paper. Another type of printing technology is the Laser printer. Inkjet printers are preferred for printing photos and graphics due to their high-quality color output, whereas laser printers are preferred for printing text due to their high contrast and speed.
+
+Usually, inkjet printers are used by people who print very little. The ink comes in special ink cartridges, which can be very expensive and uneconomical. Also, the ink in the cartridge may dry up. This means that a new cartridge is needed. Three colors of cartridges, which combine magenta, yellow and cyan inks are used to create color tones. A black cartridge is also used for crisp monochrome output. Some professional printers have one or more additional colors for better photo quality, such as light cyan, light magenta, blue, red, green, orange, and grey.
+
+Inkjet printers may use either dye or pigment inks. Pigment inks are less likely to fade, whereas dye inks create more-realistic photos and are less likely to clog the printhead.
+
+Many professionals use inkjet printers to print on very large surfaces (up to 5m width). These printers usually do not use cartridges, but have a continuous supply of ink that could last for a long time. Standard-size (A4 or US Letter) printers with a continuous ink supply are also available.
+
+Inkjet printers need special paper. This paper has been treated so that the ink does not smear.
+
+Less expensive inkjet printers, which cost a little more than 100 US dollars, are a bargain for users who want to be able to print pages in color. Inkjet printers can be very cheap but the ink can also be rather expensive. Some professional inkjet printers can print on surfaces other than paper, such as CDs/DVDs or plastic cards.
+
+An inkjet printer can print between 300 and 720 DPI (Dots Per Inch). Some newer printers can print at higher resolutions, although the benefit of resolutions beyond 720 DPI may not be noticed by the human eye.
+
+A common problem with inkjet printers is that if the printhead is clogged, banding (stripes) will appear in the printed image. To fix this, the printhead needs to be cleaned using the software included with the printer. This problem occurs most often when the printer has not been used for a long time. To prevent this from happening on rarely-used printers, a cron job can be scheduled to print a purge sheet (an image containing all colors used by the printer) once per day. A small, barely noticeable (usually only noticeable by magnification) amount of banding will occur even with a perfectly clean printhead due to the way the printer works.
+
+Laser printerA laser printer is a printer for computers. It uses laser or LED-technology to get small particles of toner from a cartridge onto paper. Very often, this costs less to use than the ink of inkjet printers. Laser printers often print text more neatly than inkjet printers, but print photos less clearly. Printing on photo paper or coated paper designed for inkjet printers can damage the laser printer's drum and fuser unit.
+
+The laser printer was first invented by a team at Xerox in 1969. The first laser printer was called the Xerox 2000.
+
+Laser printing is a process which typically involves seven steps:LawrenciumLawrencium is a chemical element. It is also named eka-lutetium by some people. It has the symbol Lr. It has the atomic number 103. It is a radioactive element that does not exist in nature. It has to be made. Lawrencium is made from californium. The isotope that has the longest half-life (Lr) has a half life of about 3.
+
+6 hours.
+
+No uses for lawrencium are known. What lawrencium looks like is not known because not enough has been made to see it with human eyesight.
+
+Is a Block-D Group3 Period 7 element. Discovered by Albert Ghiorso and co-workers in 1961, in California. Named after Ernest O. Lawrence, inventor of the cyclotron, a research instrument with which several new elements have been found/made.
+
+DarmstadtiumDarmstadtium is a chemical element. It has been named ununnilium (Uun) or eka-platinum but is now named darmstadtium. It has the symbol Ds. It has the atomic number 110. It is a transuranium element.
+
+The element is named in honor of German city Darmstadt.
+
+Darmstadtium is a radioactive element that does not exist in nature. It has to be made. The isotopes with an atomic mass from 267 to 273 have very short half-lifes. The half life of these isotopes is measured in milliseconds. Isotopes of darmstadtium with an atomic mass of 279 and 281 were synthesised after the other isotopes. Ds-279 and Ds-281 decay more slowly. The isotope with an atomic mass of 279 has a half life of 180 milliseconds and Ds-281 has a half life of 11.
+
+1 seconds.
+
+No uses for darmstadtium are known. What darmstadtium looks like is not known because not enough has been made to see it with human eyesight.
+
+Darmstadtium was first made on November 9, 1994. It was made at the Gesellschaft für Schwerionenforschung (GSI) in Darmstadt, Germany. Only a few atoms of it were made. It was made by bombarding a lead target with nickel. A nuclear fusion reaction happened and made the element.
+
+This is shown by the equation below that is the reaction that happened. Pb is the symbol for lead, Ni is the symbol for nickel and n is the symbol for a neutron.
+
+The element was named for Darmstadt which was the place of its discovery. The GSI is in Wixhausen, a part of the north of the city of Darmstadt. The new name (darmstadtium) was given to the chemical element by the IUPAC in August 2003.
+
+WampanoagThe Wampanoag were a Native American tribe. They lived in what is now the American region of New England. This is part of the Northeastern Woodlands. They are part of the Northeast Woodlands. The Wampanoag tribe helped the English settlers to survive after they arrived in the "Mayflower".
+
+They caught a bacterial infection called leptospirosis or Weil's syndrome in the early 17th century. It caused many deaths and damaged their society greatly, though their descendants still survive today.
+
+MandirHindu temple or Mandir is referred to a place where Hindus go to worship gods in the form of various deities. Many Hindu temples are filled with wooden and stone arts like pashupatinath temple. A mandir is a spiritual place for Hindus. It is the landmarks around which ancient arts, community celebrations and economy were developed, as well as this the mandir has been recognised for.
+
+It is believed that the Mandir are stone or wooden images of idols ceremonially infused with the divine presence of God. They worship with arts and other ceremonies.
+
+Hindus believe that gods and goddesses will answer the prayers of the faithful and inspire spiritually. For them, the temple also acts as a contact between the gods and goddesses and the worshipers. They also believe that the gods and goddesses will grant their wishes and protect them from danger.
+
+In Hinduism gods are represented in various forms. Sometimes gods or goddesses are represented in a human form like Shiva, Vishnu, Saraswati or Kali. Sometimes there are gods goddesses in human and animal fused form like Ganesh. Sometimes they are also represented in plants and non-living form like Tulsi and Shaligrams. Murtis are made according to the prescriptios of the ilpasastra, and then installed by priests through the prana pratishtha ceremony. Afterward the divine personality is believed to be present in the Murtis.
+
+To show respect, Hindus give gifts and food to the murtis. They are treated with respect and worshipped everyday. If a temple is a family temple it is treated as part of the family. Some Hindus also offer a part of their daily food to the god or goddess. They are given clothes and are changed at certain times.
+
+Kitchener, OntarioKitchener is a city in Ontario, Canada. Kitchener is in Southwestern Ontario and is near Toronto, Hamilton, Mississauga and London. It is in Waterloo Region. Other cities in Waterloo Region include Waterloo and Cambridge. Sometimes Kitchener, Waterloo, and Cambridge are known as the "technology triangle". It is on the Grand River, which leads to Lake Erie.
+
+At first, Kitchener was called Berlin. When World War I started it seemed like a bad idea to have a city named after the capital of Germany. The city was renamed Kitchener, after a British general, Herbert Kitchener. Kitchener then slowly became a prosperous city as it is today.
+
+A rapid transit system is planned to be added in the Waterloo Region.
+
+CHYM 96.
+
+7CKWR 98.
+
+5Spring (water)A spring is a place where groundwater flows out of the ground. A spring may flow the whole year or only sometimes. This depends on the water getting into the ground all of the time (rain) or only once in a while (snow melting).
+
+Water from a spring often flows downhill, along the land. This is how rivers start.
+
+Some springs produce water that is good for health reasons. Sometimes towns grow by these springs because many people who are ill come there to get better. Such towns are called spa towns.
+
+ThoriumThorium is a chemical element in actinide group. It is a weakly radioactive metal. It has a shiny, silvery white color. It has the chemical symbol Th and the atomic number 90. Natural thorium has an atomic weight of 232. Thorium is named after Thor, the Norse god of thunder. Its ores are found in nature (that is, on Earth), especially in India, the United States, and Australia.
+
+Thorium would make a good source of nuclear fuel because it makes much less waste and is four times as common as uranium. It does not need the wasteful process of enrichment. It makes 3,200,000 times as much energy as coal and 200 times as much energy as uranium. Scientists believe that there is enough of it to power the world for thousands of years. Thorium has been used for various purposes since the 19th century. It is an alloying agent in magnesium and is also used as an industrial catalyst.
+
+Thorium is safer than uranium. This is because thorium cannot undergo nuclear fission on its own. Usually, plutonium is need to start and maintain a reaction. This is why thorium is considered better for nuclear reactors. Also, nuclear waste from thorium reactors contains far smaller amounts of dangerous transuranic elements than waste from uranium reactors.
+
+River sourceThe source of a river or stream is the original point from which the river flows. It may be a lake, a marsh, a spring or a glacier. This is where the stream starts.
+
+The source is the farthest point of the river stream from its estuary or its confluence with another river or stream. Rivers are usually fed by many tributaries. The farthest stream is called the head-stream or head water. There is sometimes disagreement on which source is the head water, hence on which is the true source.
+
+A lake fed by many rivers is sometimes called the source of the bigger river flowing out of it. For example, Lake Victoria is often called the source of the Nile, as the rivers that flow into it have names of their own.
+
+Headwaters are usually in mountains. Glacial headwaters are made by melting of glaciers.
+
+The source is where a river begins, and the river mouth is where it joins the sea. The mouth may be in the form of a river delta. The joining of a streams is called a confluence.
+
+LaserdiscA Laserdisc, like a DVD, can play video of a higher quality than VHS. A Laserdisc is much larger than a DVD. To play Laserdisc movies, a LaserDisc player is needed. LaserDisc was also known by the names DiscoVision and LaserVision.
+
+Laserdisc was first produced by MCA in 1978, and became well known in the 1980s. Movie companies stopped making Laserdisc movies when DVDs became well known in the late 1990s. Today some of the better Laserdisc players still sell for $1,000 USD or more.
+
+Laser Discs work like a regular CD-ROM or DVD. The surface of the disc is covered with small holes that are read by a laser. This sequence of holes and no holes is turned into pictures and sound by the Laserdisc player. Most Laserdiscs can hold about 30 minutes to an hour of video per side for a total of 1 to 2 hours per disc.
+
+The early Laserdisc players used a Helium-Neon laser to read the disc, but the later models used infrared lasers. The first units that were made with the infrared laser had some problems such as skipping, strange colors spots, and fuzziness. These problems were fixed in later models.
+
+Some of the later Laserdisc players made were ones that could play Audio CDs as well as Laserdiscs. In Japan, one of the last models to be produced even had the ability to play DVDs as well as CDs and Laserdiscs.
+
+CaliforniumCalifornium is a chemical element. It is a radioactive metal. It has the chemical symbol Cf. It has the atomic number 98. Californium is a transuranium element. Californium does not have many uses. It was discovered by bombarding a curium target with alpha particles (helium ions). Californium is named after the US State of California, where it was discovered, in the University of Berkeley.
+
+Californium is produced in nuclear reactors and particle accelerators.
+
+There are 20 known isotopes. The most stable is californium-251, which has a half-life of 898 years. This short half-life means the element is not found in the Earth's crust. Californium-252, whose half-life is 2.
+
+645 years, is the most common isotope used.
+
+Compounds of californium are mostly of californium(III), which can take part in three chemical bonds. Californium can be used to help start up nuclear reactors, and is used as a source of neutrons. It can be used in making higher mass elements. Ununoctium was synthesized by bombarding californium-249 atoms with calcium-48 ions.
+
+When californium is used, workers must be protected from the element's ability to disrupt the formation of red blood cells.
+
+TorgauTorgau is a town on the banks of the Elbe in northwestern Saxony, Germany. The town is well known as the place where during the Second World War, United States Army forces met with forces of the Soviet Union during the invasion of Germany on April 25, 1945.
+
+This marked the beginning of the line of contact between Soviet and American forces, but not the occcupation zones. In fact the area surrounding Torgau at first occupied by U.
+
+S. forces was later, in July 1945, given over to Soviet forces.
+
+Chemical bondA chemical bond is a type of attraction force which holds together different chemical species. Atoms bonded stay together unless the needed amount of energy is transferred to the bond.
+
+In general, strong chemical bonding comes with the sharing or transfer of electrons between the participating atoms. The atoms in molecules, crystals, metals and diatomic gases are held together by chemical bonds.
+
+There are two types of bonds; covalent and ionic. Covalent bonds form when atoms share electrons. Ionic bonding is the attraction between oppositely charged ions. Chemical bonds are negatively charged electrons that are pulling protons into each other.
+
+Because atoms and molecules are three-dimensional, it is difficult to use a single method to indicate orbitals and bonds. In molecular formulas the chemical bonds between atoms are indicated in different ways depending on the type of discussion.
+
+A common way chemists describe chemical bonds is through the number of electrons each atom has on itself. Each atom is drawn with the number of electrons as dots or lines to form a maximum of eight. If the electrons form a chemical bond then a line is drawn between the two electrons. The number of bonds developed increases the number of lines.
+
+Bonds can be double bonds or triple bonds.
+
+Physical propertyA physical property is a property, quality or way that an object is. A physical property can always be measured without changing or making the object chemically different or different in a way that would effect its chemical or atomic structure. There are two types of physical properties: "intensive" and "extensive".
+
+ConceptA concept is an idea that is applied to all objects in a group. It is the way people see and understand something. The name used to identify a concept (the concept's label) is a "term". For example, the word "Dog" is the term to identify the concept of what a dog is. Everything that a person knows about a dog is the concept of the term dog.
+
+Different terms can be used to identify the same concept. Car and Automobile are synonyms for the same concept. Different languages have different terms for the same concept. This is what makes translation possible. The terms may be different in each language, but the concept is the same. The concept of jumping is the same to a person from England and a person from Italy, but one person uses the term "Jump" to mean the concept and the other person uses "Salto".
+
+KenpoKenpo or kempo is the descriptive name of various Japanese martial arts with Chinese origins, and also of hybrid martial arts: the Japanese ones and the Chinese ones. Kenpo is similar to karate and includes more punches and kicks than holds or joint locks of wrestling.
+
+Kempo is a Japanese Martial Arts form. However, unlike Karate, its origins are linked back to China and still have very strong influences from Chinese systems.
+
+It is not uncommon for a Kempo artist to both use traditional Japanese and Chinese style techniques. The difference lies in that because of the Chinese influence, the Japanese moves tend to emphasize more fluidity than most of the other Japanese styles. And because of the Japanese influence, there is a stronger focus for shorter stances and movements than other Chinese styles.
+
+For the same reason that many other styles are sometimes simply listed as "karate", Kempo has long been strongly linked under the general banner of "karate". Kempo is known for its near explosive, short-ranged attacks that often move faster than the opponent can see.
+
+Kempo has a very strong presence in Hawaii, the home base for many of the systems under Kempo that exist today in the United States. Throughout each of the histories of the different groups there are strong signs of the continued merging of both Chinese and Japanese influences.
+
+TyrTyr is the god of war, heroic endeavor and justice in Norse mythology. In the Eddas, he is either the son of Odin or Hymir. He is the god of single (man-to-man) combat. Tyr only has one hand.
+
+At one point in time, the gods decided that the wolf Fenrir (also called "Fenriswolf") could no longer go free. They wanted to lock him up onto a chain. But he broke every chain they tried to put on him. Finally, they had the dwarves make a magical chain. But Fenrir sensed what the gods would do. So Fenrir asked that one of them put his hand into his mouth. Knowing that if Fenrir was left unfettered, he would have grown strong enough to kill all the gods and destroy the world. Tyr was the only one who had the courage. When Fenrir sensed he had been tricked, he bit off Tyr's hand. Tyr remained handless forever.
+
+Fenrir will remain bound until Ragnarök. Then, Tyr's opponent will be , the guard dog of Hel.
+
+LokiLoki (, ) is a god in Norse mythology. Loki is the son of Fárbauti and the brother of Helblindi and Býleistr. Loki is married to Sigyn. They have a son, Narfi and/or Nari. Loki is the father of Hel, the wolf Fenrir, and the world serpent Jörmungandr. While in the form of a horse, Loki was impregnated by Svaðilfari and gave birth to the eight-legged horse Sleipnir. Loki is referred to as the father of Váli in "Prose Edda". This source also refers to Odin as the father of Váli twice and Váli is only said to be a son of Loki once.
+
+Loki's relation with the gods varies by source. Loki sometimes helps the gods and sometimes behaves badly towards them. Loki can change his shape. He has appeared in the form of a salmon, a mare, a fly, and possibly an old woman named Þökk . Loki's good relations with the gods end with his role in causing the death of the god Baldr. During Ragnarök, Loki is said to fight against the gods among the forces of the jötnar. He will fight the god Heimdallr, and they two will kill each other.
+
+Loki is talked about in the "Poetic Edda", the "Prose Edda" and "Heimskringla", the Norwegian Rune Poems, in the poetry of skalds and in Scandinavian folklore. Loki may be shown on the Snaptun Stone, the Kirkby Stephen Stone, and the Gosforth Cross. Scholars disagree about Loki's origins and role in Norse mythology. Some have described him as a trickster god.
+
+Loki has been used in many different forms of media in modern popular culture. Most notable of this is his use in Marvel Comics and the Marvel Cinematic Universe. Tom Hiddleston has played Loki in the movies Thor, , , The Avengers and . He also played versions of Loki in the TV series Loki on Disney+.
+
+Freyja

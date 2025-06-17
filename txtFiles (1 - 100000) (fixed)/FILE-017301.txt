@@ -1,0 +1,347 @@
+Amdahl has published six books, and produced nine plays.
+
+Amdahl was a major supplier of large mainframe computers, and later of UNIX and open systems software and servers, data storage subsystems, data communications products, application development software, and a variety of educational and consulting services.
+
+AMDA is an accredited institution of the National Association of Schools of Theater.
+
+Amdalai is a town in western Gambia.
+
+Amdalaye is a village in the Zam Department of Ganzourgou Province in central Burkina Faso.
+
+Am-Dam Airport is a public use airport located near Am-Dam, Sila, Chad.
+
+AMD and Hynix licensed Z-RAM, but as of 2008 had not put it into production.
+
+AMDA-Nepal (Association of Medical Doctors of Asia-Nepal) is humanitarian, nonprofit-making, nonpolitical, non-sectarian, non-governmental organization working with its mission to promote the health and well-being of the underprivileged and marginalized people of Nepal.
+
+Amdanga is a community development block that forms an administrative division in Barasat Sadar subdivision of North 24 Parganas district in the Indian state of West Bengal.
+
+Amdanga is a village and a gram panchayat in Amdanga CD Block in Barasat Sadar subdivision of North 24 Parganas district in the state of West Bengal, India.
+
+Amdanga (Vidhan Sabha constituency) is an assembly constituency in North 24 Parganas district in the Indian state of West Bengal.
+
+AMD announced the first generation APUs, Llano for high-performance and Brazos for low-power devices in January 2011.
+
+AMDAR is used to collect meteorological data worldwide by using commercial aircraft.
+
+AMD Athlon X4 is a series of budget AMD microprocessors for personal computers.
+
+AMDA was a bilateral defense agreement between the United Kingdom and the Federation of Malaya, which also committed Australia and New Zealand to assist Britain in the defense of Malaysia.
+
+AMDA was later replaced with the FPDA.
+
+AMD claims the ACP rating includes the power consumption when running several benchmarks, including TPC-C, SPECcpu2006, SPECjbb2005 and STREAM Benchmark (memory bandwidth), which AMD said is a better method as a power consumption measurement for data centers and server intensive workload environments.
+
+AMD CodeAnalyst is a GUI-based code profiler for x86 and x86-64-based machines.
+
+AMD coined the name from the Latin semper, which means "always", to suggest the Sempron is suitable for "daily use, practical, and part of everyday life".
+
+AMD Cool'n'Quiet is a CPU dynamic frequency scaling and power saving technology introduced by AMD with its Athlon 64 processor line.
+
+AMD Core Math Library (ACML) is an end-of-life software development library released by AMD.
+
+AMD CrossFire (also known as CrossFireX) is a brand name for the multi-GPU technology by Advanced Micro Devices, originally developed by ATI Technologies.
+
+AMD declined to extend Socket G34 to eight-way operation citing shrinking demand of the >4-socket market.
+
+Amddiffynydd yr Eglwys was a monthly Welsh language periodical published by J. Morris in Rhyl, Wales.
+
+Amd District is a district of the Hadhramaut Governorate, Yemen.
+
+AMD Dragon is a platform engineered for gamers, designed for use with the AMD Phenom II X4 processor family.
+
+AMD Duron refers to a line of budget x86-compatible microprocessors manufactured by AMD.
+
+AM DD VD (1830-1911) was a Scottish minister and social organizer.
+
+Amden is a municipality in the Wahlkreis (constituency) of See-Gaster, in the canton of St. Gallen in Switzerland.
+
+Amden is famous for its special geographic location "behind the mountains".
+
+AMD eventually added support for SSE instructions, starting with its Athlon XP and Duron (Morgan core) processors.
+
+AMD Excavator Family 15h is a microarchitecture developed by AMD to succeed Steamroller Family 15h for use in AMD APU processors.
+
+AMD Eyefinity is a brand name for AMD video card products that support multi-monitor setups by integrating multiple (up to six) display controllers on one GPU.
+
+AMD Eyefinity was introduced with the Radeon HD 5000 Series "Evergreen" in September 2009 and has been available on APUs and professional-grade graphics cards branded AMD FirePro as well.
+
+AMD FireMV, formerly ATI FireMV, is brand name for graphics cards marketed as a Multi-Display 2D video card, with 3D capabilities same as the low-end Radeon graphics products.
+
+AMD FirePro was AMD's brand of graphics cards intended for use in workstations and servers running professional Computer-aided design (CAD), Computer-generated imagery (CGI), Digital content creation (DCC), and High-performance computing/GPGPU applications.
+
+AMD FireStream was AMD's brand name for their Radeon-based product line targeting stream processing and/or GPGPU in supercomputers.
+
+AMD FX is a series of high-end AMD microprocessors for personal computers debuted in 2011, claimed as AMD's first native 8-core desktop processor.
+
+AMD FX was a series of AMD microprocessors for personal computers.
+
+AMDGPU also has an optional closed-source component that operates on top of the open source AMDGPU for better intensive 3D application support known as AMDGPU-PRO.
+
+AMDGPU currently officially only supports cards built upon GCN 1.
+
+2 or higher, and support for previous cards is experimental.
+
+AMDGPU is AMD's new fully open source unified graphics driver for Linux.
+
+Amdhan Ali (born 11 September 1992) is a Maldivian footballer, commonly known as Andy.
+
+AMD has denied requests to open source the code that runs on the PSP.
+
+The PSP is similar to the Intel Management Engine for Intel processors.
+
+AMD has said that the ACP and TDP values of the processors will co-exist, and do not replace one another.
+
+AMD has supported SLAT through the Rapid Virtualization Indexing (RVI) technology since the introduction of its third-generation Opteron processors (code name Barcelona).
+
+AMD implementations allow developers to define dependencies that must load before a module is executed, so the module does not try to use outside code that is not available yet.
+
+AMD implementations load smaller JavaScript files, and then only when they are needed.
+
+AMD is targeting Socket G34 at the high-end two-socket market and the four-socket market.
+
+AMD is the largest of the six divisions in the ASME Basic Engineering Technical Group.
+
+AMD is the second-largest supplier and only significant rival to Intel in the market for x86-based microprocessors.
+
+AMD Jaguar Family 16h is a low-power microarchitecture designed by AMD, and used in APUs succeeding the Bobcat Family microarchitecture in 2013 and being succeeded by AMD's Puma architecture in 2014.
+
+AMD K8 Hammer, also code-named SledgeHammer, is a computer processor microarchitecture designed by AMD as the successor to the AMD K7 Athlon microarchitecture.
+
+AMD later reused the same mechanism for I/O virtualization with other peripherals including disk controllers and network adapters.
+
+AMD later spun off their programmable logic division as Vantis, which was then acquired by Lattice Semiconductor.
+
+AMD LIVE! for consumer electronics segment was announced on January 4, 2006 officially through press release.
+
+AMD LIVE! is the name of Advanced Micro Devices' initiative in 2005 aimed at gathering the support of professional musicians and other media producers behind its hardware products.
+
+Am Doback is a sub-prefecture of Kanem Region in Chad.
+
+Amdocs initiated a legal complaint against Openet in August 2010 alleging the company violated two of its patents.
+
+Amdocs is a multinational corporation headquartered in Chesterfield, Missouri, with support and development centers located worldwide.
+
+Amdo Jampa (born 1911 in Chentsa, Amdo, Tibet, died 28 March 2002, Lhasa, Tibet Autonomous Region, China), also known as Jampa Tseten, was a Tibetan painter.
+
+Amdoparvovirus is a genus of viruses, in the family Parvoviridae, in the subfamily Parvovirinae.
+
+AMD originally developed Mantle in cooperation with DICE, starting in 2013.
+
+AMD OverDrive is supported for simplified overclocking.
+
+Amdoxovir is a nucleoside reverse transcriptase inhibitor (NRTI) undergoing research for the treatment of HIV/AIDS.
+
+AMD PowerNow! is used to decrease processor frequency, whereas AMD Turbo Core is used to increase processor frequency.
+
+AMD PowerPlay has been succeeded by AMD PowerTune.
+
+AMD PowerPlay is also implemented into ATI/AMD chipsets which integrated graphics and into AMD's Imageon handheld chipset, that was sold to Qualcomm in 2008.
+
+AMD PowerPlay is the brand name for a set of technologies for the reduction of the energy consumption implemented in several of AMD's graphics processing units and APUs supported by their proprietary graphics device driver "Catalyst".
+
+AMD PowerTune aims to solve thermal design power and performance constraints.
+
+AMD PowerTune is a trademark for a series of dynamic frequency scaling technologies built into some AMD GPUs and APUs that allow the clock speed of the processor to be dynamically changed (to different P-states) by software.
+
+AMD PowerTune is the successor to AMD PowerPlay.
+
+AMD PowerTune is using LatticeMico32.
+
+Both the CPU core and the development toolchain are available in source-code form, allowing third parties to implement changes to the processor architecture.
+
+AMD processors uses a similar process, which the company calls "Power Now".
+
+AMD Radeon Software (formerly named ATI Catalyst and AMD Catalyst) is a device driver and utility software package for Advanced Micro Devices's graphics cards and APUs.
+
+AMD released the chipsets to only two vendors, Abit and AsRock.
+
+Amdro has several drawbacks: (1) when it rains, or the bait is moisturized, Amdro loses its effectiveness entirely; (2) insecticide baits tend to be slow working, and take up to a month to be effective; and (3) Amdro cannot be used on food crops.
+
+AMD's answer to this is the G3MX chip.
+
+AMD's first compatible CPUs, designated as APUs, are 4 socketable chips in the Kabini family of the Jaguar microarchitecture, marketed under the Athlon and Sempron names and announced on April 9, 2014.
+
+The brand names are Athlon and Sempron.
+
+AMD's main products include microprocessors, motherboard chipsets, embedded processors and graphics processors for servers, workstations and personal computers, and embedded systems applications.
+
+AMD Socket C32 is the server processor socket for AMD's current single-CPU and dual-CPU Opteron 4000 series CPUs.
+
+AMD's Opteron and the older AMD Athlon 64 FX (FX-51) use Socket 940.
+
+AMD's successor architecture, Zen, was released in 2017 under the Ryzen brand, replacing the FX series and competing with Intel's Skylake and Kaby Lake Core series.
+
+AMD Steamroller Family 15h is a microarchitecture developed by AMD for AMD APUs, which succeeded Piledriver in the beginning of 2014 as the third-generation Bulldozer-based microarchitecture.
+
+AMD subsequently extended AMD LIVE! into a platform marketing initiative focusing the consumer electronics segment in 2006 and focused on performance segment desktop-class processors.
+
+AmD Technik Essex (also known as Automotive Developments) is a British car tuning company and auto racing team.
+
+AMD TressFX is a software library which provides for advanced simulation and rendering of hair, fur, and grass to be processed by the GPU.
+
+AMD Turbo Core is currently available with select AMD A-Series accelerated processing units.
+
+AMD Turion is the brand name AMD applies to its x86-64 low-power consumption (mobile) processors codenamed K8L. The Turion 64 and Turion 64 X2/Ultra processors compete with Intel's mobile processors, initially the Pentium M and the Intel Core and Intel Core 2 processors.
+
+Amdur (born March 27, 1952 in Pittsburgh, Pennsylvania) is a writer, an American practitioner of martial arts and a crisis intervention trainer.
+
+Amduscia is an aggrotech band from Mexico consisting of Polo Acevedo (vocals, lyrics, sampling), Raul Montelongo, and Adrian Ruiz.
+
+AMD XGP (eXternal Graphics Platform) is brand for an external graphics solution for laptops and notebooks by AMD.
+
+Amdy Gueye (born 22 August 1980 in Dakar) is a Senegalese football defender who played in the Slovak Super Liga for Spartak Trnava.
+
+AMD Zodiac LS and LSi produced by Aircraft Manufacturing and Design.
+
+AME Accounting Software includes Payroll, General Ledger, Accounts Receivable, Accounts Payable, 1099 Vendor Management, MICR check printing, and Direct Deposit.
+
+AME Accounting Software was initially developed for DOS.
+
+A meager 500 tickets were sold for Waynefest, which kept it an intimate event where the line between performer and audience is blurred.
+
+Ameal Brooks (June 3, 1904 - November, 1971) was an American baseball catcher in the Negro Leagues.
+
+A meal consisting of proteins, carbohydrates and fats is injected into the stomach.
+
+A meal delivery service (MDS) is a service that sends customers fresh, prepared meals delivered to their homes.
+
+A meal is an eating occasion that takes place at a certain time and includes prepared food.
+
+A meal is different from a snack in that meals are generally larger, more varied, and more filling than snacks.
+
+A meal replacement is a drink, bar, soup, etc.
+
+AME also administers the Aguadilla Ice Skating Arena.
+
+A meal voucher or luncheon voucher is a voucher for a meal given to employees as an employee benefit, allowing them to eat at outside restaurants, typically for lunch.
+
+A meandering rille leads away from this break toward the northwest.
+
+A meander in the Kings River is about one half mile to the southeast.
+
+A meander is one of a series of regular sinuous curves, bends, loops, turns, or windings in the channel of a river, stream, or other watercourse.
+
+A meander scar, occasionally meander scarp, is a geological feature formed by the remnants of a meandering water channel.
+
+A Meanie is a small stuffed animal made by Topkat LLC, starting in October 1997 and lasting until 2000.
+
+A Meanie is a type of bean bag in the form of a stuffed animal toy.
+
+A meaningful map of the world could not be constructed before the European Renaissance because less than half of the earth's coastlines, let alone its interior regions, were known to any culture.
+
+A meaningless statement posits nothing of substance with which one could agree or disagree.
+
+A mean killer (Eastwood) becomes jealous when Bret Maverick (Garner) begins spending time with his girlfriend (Abby Dalton), the daughter of Bret's old friend (Edgar Buchanan), who desperately wants Bret to marry her before Eastwood's evil character does so.
+
+A means for carrying Internet Protocol over IEEE 802 networks, including token bus networks, was developed.
+
+A means of absorbing ADAR was found by 1996 although fears were expressed that students might be tempted to try to bypass the Foundation course preparatory route.
+
+A means of conveyance of passengers and goods on wheeled vehicles running on rails, also known as tracks.
+
+A means-tested benefit is a payment available to people who can demonstrate that their income and capital (their 'means') are below specified limits.
+
+A means test is a determination of whether an individual or family is eligible for government assistance, based upon whether the individual or family possesses the means to do without that help.
+
+A means to reduce household energy consumption is to provide real-time feedback to homeowners so they can change their energy use.
+
+A measure for the width of the molecular weight distribution is the polydispersity index.
+
+A measurement is then given for the amount of absorbed light.
+
+A measurement of the acceleration spectral density (ASD) is the usual way to specify random vibration.
+
+A measurement of the amount of gene product is sometimes used to infer how active a gene is.
+
+A measurement of the cardiac reserve may be a health indicator for some medical condition.
+
+A measurement of the dark matter halo mass function of groups and clusters using group velocity dispersion measurements.
+
+A measurement system consists of a sensor, to input the physical parameter that is of interest, and an output to a medium that is suitable for reading by the system that needs to know the value of the parameter.
+
+A measurement systems analysis considers the following: Selecting the correct measurement and approach Assessing the measuring device Assessing procedures and operators Assessing any measurement interactions Calculating the measurement uncertainty of individual measurement devices and/or measurement systemsCommon tools and techniques of measurement systems analysis include: calibration studies, fixed effect ANOVA, components of variance, attribute gage study, gage R&R, ANOVA gage R&R, and destructive testing analysis.
+
+A measurement systems analysis evaluates the test method, measuring instruments, and the entire process of obtaining measurements to ensure the integrity of data used for analysis (usually quality analysis) and to understand the implications of measurement error for decisions made about a product or process.
+
+A measurement systems analysis (MSA) is a thorough assessment of a measurement process, and typically includes a specially designed experiment that seeks to identify the components of variation in that measurement process.
+
+A measurement tower or met mast is a free standing tower or a removed mast, which carries measuring instruments with meteorological instruments such as thermometers and instruments to measure windspeed.
+
+A measure of 35 pounds (16 kilograms-force or 155 newtons) or more means that EP additives are present and working well.
+
+A measure of the degree of balance between two impedances connected to two conjugate sides of a hybrid set, coil, network, or junction.
+
+A measure of the effectiveness with which a balancing network simulates the impedance of a two-wire circuit at a hybrid coil.
+
+A Measure of the National Assembly for Wales (informally, an Assembly Measure) is primary legislation in Wales that is a category lower than an Act of Parliament.
+
+A measure of the significance of the issues that SOS campaigns about and the profile thus gained is indicated by SOS securing registered political party status in New South Wales and fielding candidates in the 2007 New South Wales state election.
+
+A measure of the success of landfill diversion would be if that number remains the same or is reduced.
+
+A measure of this disorder is entropy.
+
+A measure placed on the ballot in 2013 proposed merging the agency with the Lee County Sheriff's Office.
+
+A measuring instrument is a device for measuring a physical quantity.
+
+A measuring principle condenses the essentials of a method or an instrument for gaining the desired numbers.
+
+A measuring rod is a tool used to physically measure lengths and survey areas of various sizes.
+
+A meat analog, also called a meat substitute, approximates certain esthetic qualities (primarily texture, flavor and appearance) or chemical characteristics of specific types of meat.
+
+A meat and potato pie has a similar filling to a Cornish Pasty and differs from a meat pie in that its content is usually less than 50% meat.
+
+A meat-auction or 'meathall' used to be situated in the building, which had a separate entrance.
+
+A meatball is ground meat rolled into a small ball, sometimes along with other ingredients, such as bread crumbs, minced onion, eggs, butter, and seasoning.
+
+A meatball is ground or minced meat rolled into a small ball, sometimes along with other ingredients, such as bread crumbs, minced onion, eggs, butter, and seasoning.
+
+A meat carver disjoints the meat and slices in uniform portions.
+
+A meat chop is a cut of meat cut perpendicular to the spine, and usually containing a rib or riblet part of a vertebra and served as an individual portion.
+
+A meat cutter prepares primal cuts into a variety of smaller cuts intended for sale in a retail environment.
+
+A meat hook is any hook normally used in butcheries to hang meat.
+
+A meat market is, traditionally, a marketplace where meat is sold, often by a butcher.
+
+A meat pie is a pie with a filling of meat and often other savory ingredients.
+
+A meat slicer, also called a slicing machine, deli slicer or simply a slicer, is a tool used in butcher shops and delicatessens to slice meats, sausages, cheeses and other deli products.
+
+A meat slurry, reconstituted meat, or emulsified meat is a liquefied meat product that contains fewer fats, pigments and less myoglobin than unprocessed dark meats.
+
+A meat tax is a tax levied on the carbon emissions of meat and/or other animal products.
+
+A meat tenderizer, meat mallet, or meat pounder is a hand-powered tool used to tenderize slabs of meat in preparation for cooking.
+
+A meat thermometer or cooking thermometer is a thermometer used to measure the internal temperature of meat, especially roasts and steaks, and other cooked foods.
+
+AMEB administers music examinations in Australia, and its Licentiate diploma is considered a highly prestigious award, with the national success rate being around 10% of candidates.
+
+AMEB also has a Contemporary Popular Music (CPM) offering for Keyboard, Drum Kit, Guitar, Bass and Voice.
+
+Amebelodon is a genus of extinct proboscidean belonging to Amebelodontidae (the so-called shovel-tuskers), a group of proboscideans related to the modern elephants and their close relative the mammoth.
+
+Amebelodontidae is an extinct family of large herbivorous mammals that were closely related to elephants.
+
+AMEB examinations are based on syllabuses set by the Federal Board in conjunction with the music and speech and drama community.
+
+AMEB has recently introduced online examinations for music theory and online courses for Theory of Music.
+
+Amebiasis cutis or ameobiasis cutis is a rare cutaneous condition characterized by ulcers caused by Entamoeba histolytica.
+
+Amebix were an English punk rock band.
+
+AMEB produces a range of publications which support students and teachers preparing for exams.
+
+Amebucort (developmental code name ZK-90999) is a synthetic glucocorticoid corticosteroid which was never marketed.
+
+Ameca shiner (Notropis amecae) is an extinct species of cyprinid fish in the Cyprinidae family.
+
+Amec Foster Wheeler plc was a British multinational consultancy, engineering and project management company headquartered in London, United Kingdom until its acquisition by and merger into Wood Group in October 2017.

@@ -1,0 +1,185 @@
+The specification is central to the Operating System-directed configuration and Power Management (OSPM) system, an implementation for ACPI which removes device management responsibilities from legacy firmware interfaces via a UI.
+
+The specification is completely neutral in relation to hardware, operating system, vendor and application, making it applicable to any type of application and industry.
+
+The specification is composed of two parts: an XML specification for modeling educational data which is specific to the educational locale (such as North America, Australia or UK), and a service-oriented architecture (SOA) based on both direct and brokered RESTful-models for sharing that data between institutions, which is international and shared between the locales.
+
+The specification is copyrighted 1993,1994.
+
+The specification is designed to build upon the concepts found in OPML, with the goal of fixing some of its limitations.
+
+The specification is free to download and use, although it is recommended that advice be sought on the best methods for implementing an S1000D repository.
+
+The specification is ideal for data intensive, media-rich functionality like video, GPS, internet access, email, multimedia, and music.
+
+The specification is in draft form and is a work in progress.
+
+The specification is intended for value servers and workstations based on the Intel Xeon processor.
+
+The specification is led by Intel and was first published on September 16, 1998.
+
+The specification is licensed under a Creative Commons license.
+
+The specification is maintained by IMS Global Learning Consortium.
+
+The specification is now an ANSI and ISO standard.
+
+The specification is often referred to as the DBTG database model or the CODASYL database model.
+
+The specification is published by the Trusted Computing Group Storage Workgroup.
+
+The specification is published under a Creative Commons license.
+
+The specification is referred to as Evolved Multimedia Broadcast Multicast Services (eMBMS) when transmissions are delivered through an LTE (Long Term Evolution) network.
+
+The specification is released and owned by the Object Management Group, which also claims a trademark in the use of "CWM".
+
+The specification is the governing standard for PKI and enables cross-compatible mobile signature solutions.
+
+The specification is then implemented by a team with no connection to the original examiners.
+
+The specification mandates IPv6 operation according to the 3GPP Release 8 Specifications (March 2009), and deprecates IPv4 as an optional capability.
+
+The specification method is based on functional decomposition of the equipment into atomic and compound functions.
+
+The specification of IEC 61499 defines a generic model for distributed control systems and is based on the IEC 61131 standard.
+
+The specification of quantum satis for an ingredient essentially means "Add as much of this ingredient as is needed to achieve the desired result, but not more."
+
+The specification of TCPMUX, RFC 1078, was deprecated in 2016 by RFC 7805 for technical reasons and lack of use in the Internet.
+
+The specification of the analog channel should include frequency range, bandwidth, signal-to-noise ratio, and envelope delay distortion.
+
+The specification of the data encoding format is not released, or underlies non-disclosure agreements.
+
+The specification of the JMM was also revised in 2007.
+
+The specification of the patent describes a stuffed pad.
+
+The specification of the Samara turbofans was in the 11,000 kg (24,250 lb) thrust range.
+
+The specification of these APIs are defined according to many different organizations in the world (Alljoyn, OSGi, Eclipse, JCP, E-S-R, etc.).
+
+The specification originated with the Duracell and Intel companies in 1994, but was later adopted by several battery and semiconductor makers.
+
+The specification proposes data networking standards recommended for use in commercial aircraft installations.
+
+The specification provides mobile network operators and service providers with a single, interoperable programming interface, easing the use of the contactless MIFARE technology in future mobile Near Field Communication (NFC) devices.
+
+The specification provides profiles to the standard MPEG transport protocol (defined by ISO/IEC 13818-1) to allow transmission of event, synchronization, download, and other information in the MPEG transport stream.
+
+The specification provides several benefits.
+
+The specification relies heavily on the Inversion of control principle, in order to make it easier for application components to discover and interact with each other.
+
+The specifications are based on a combination of 15 years of European and Australian research and development into EHRs and new paradigms, including what has become known as the archetype methodology for specification of content.
+
+The specifications are for the Dubs/ Yorkshire engines.
+
+The specifications considers conditional access and Digital Rights Management.
+
+1worldspace will use ETSI SDR in its new network covering Europe from 2009.
+
+The specifications do not recommended a maximum length of output per (key, iv) pair.
+
+The specifications focus on the continuous communication of data.
+
+The specifications for a cable-ready television, then, might state that it supports 8VSB (for broadcast TV) and QAM (for cable TV).
+
+The specifications for its successor the U-2 a double axle semi-trailer were issued on 15 March 1957.
+
+The specifications for the B77 required Full Fusing Options (FUFO) and the ability for a low altitude, transonic laydown delivery, as well as a free fall from supersonic speeds and altitudes of 60,000 feet delivery.
+
+The specifications for the EPC identifiers can be found in the EPCglobal, Inc. Tag Data Standard, which is an open standard, freely available for anyone to download.
+
+The specifications for the XMF were first published in 2001 by the MMA.
+
+The specifications for zinc flake coatings are defined in international standard ISO 10683 and also in European standard EN 13858.
+
+The specification should be derived from the job description and thus help form the foundation for the recruitment process.
+
+The specifications included: memory extensions or independent IC card parallel and serial port with an infrared extension X-721 X-711 thermal printer or plotter 4-color X-710 or standard // printer.
+
+The specifications, in turn, take much of the guess work out of vendors' engineering decisions as to where cable operators are moving with many of their new businesses.
+
+The specifications listed are for the two existing craft.
+
+The specifications of the product were released by the FCC on September 2014.
+
+The specifications of Thor were available in various Internet-Drafts.
+
+The specifications place this caliber between the larger two bore and the lesser six bore.
+
+The specifications provides for access to raw, interpolated and aggregate data (data with calculations).
+
+The specifications state it has 320 hours standby time and 5 hours talk time.
+
+The specification standard of RT-components is discussed and defined by the Object Management Group (OMG).
+
+The specifications were published in 1977 and it became a foundation for many future developments in the field of computer graphics.
+
+The specification typically covers special purpose electrical cables that are heavy-duty for low-tension circuits.
+
+The specification was based on an earlier proposal for an OWL rules language.
+
+The specification was created by Cal Henderson, Leah Culver, Mike Malone, and Richard Crowley in 2008.
+
+The specification was developed and first published by the Open Geospatial Consortium in 2010.
+
+The specification was developed by the National Telecommunications and Information Administration (NTIA), with input from the broadcast and consumer electronics industries as well as public interest groups.
+
+The specification was developed under the Java Community Process as JSR-170 (Version 1), and as JSR-283 (version 2).
+
+The specification was developed under the Java Community Process as JSR 175, and was released as a part of J2SE 5.
+
+0 (Tiger).
+
+The specification was finalized in January 2008.
+
+The specification was frozen in 3GPP Release 13 (LTE Advanced Pro), in June 2016.
+
+The specification was later improved and its latest version (2.
+
+0) is published by SMPTE as ANSI/SMPTE 268M-2003.
+
+The specification was originally part of the GSMA's work on eSIM and it is important to note that Remote SIM provisioning is just one of the aspects that this eSIM specification includes.
+
+The specification was part of the International Committee for Information Technology Standards T11 FC-BB-5 standard published in 2009.
+
+The specification was produced by Superintendent of Tank Design at Woolwich with design by the Mechanization Board and passed to Harland and Wolff for detail work and to build a pilot.
+
+The specification was publicly released in April 2005 and the standard has been adopted as the access restriction scheme for HD DVD and Blu-ray Disk (BD).
+
+The specification was published October 17, 2013.
+
+The specification was published on 15 November 2007.
+
+The specification was published on 6 February 2014.
+
+The specification was released in April 2009.
+
+The specification was started and maintained by its specification body, the Schools Interoperability Framework Association, renamed the Access For Learning Community (A4L) in 2015.
+
+The specification was subsequently modified and developed in various committees and published by other reports in 1973 and 1978.
+
+The specification was updated and ARINC 818-2 was released in December 2013, adding a number of new features, including link rates up to 32X fiber channel rates, channel-bonding, switching, field sequential color, bi-directional control, and data only links.
+
+The specification was updated in May 2002 to add Windows and Linux updates, Redundant System Slot (RSS) API, Switched PCI-PCI bridging support, Hardware- and O/S-independent models of network-connected intelligent nodes, Standards-based management of HS- and RSS-capable CompactPCI platforms and IDSEL to global address (GA) mapping.
+
+The specification, which was substantially the same in both patents, stated that previous to the invention therein described, the only valve used to relieve the pressure upon fire hose to prevent them from bursting was one operated by hand.
+
+The specific aurea is from Latin aureus, "golden".
+
+The specific aureola is Latin for "golden".
+
+The specific author of each essay, however, was not identified.
+
+The specific bane honors Samuel Gottlieb Gmelin, a Russian-German naturalist who traveled through the River Don area and the Caucasus region and along the western and southern Caspian Sea coasts between 1768 and 1774.
+
+The specific bane honors the German naturalist Johann Friedrich von Brandt (1802-1879), who provided Karl Kessler with most of the specimens he used to describe this species.
+
+The specific baroli refers to Carlo Tencredi Falletti, marquis of Barolo.
+
+The specific BBC 2W service was closed down and the BBC Two Wales brand used.
+
+The specific borealis is from Latin and means "northern".

@@ -1,0 +1,117 @@
+The European Cup is an annual bandy club competition between teams from Europe. The first edition of the tournament was held in 1974.
+
+Sweden women's national football teamSweden women's national football team () represents Sweden on the women's side in association football. Sweden won the 1984 UEFA European Championship. In the FIFA World Cup, the team ended up second in 2003, and won the bronze medals in 1991 and 2011.
+
+Homeless shelterA homeless shelter is a place for homeless people to take refuge. Shelters provide safety and protection from exposure to the weather. These shelters also provide food, warmth, and the basic needs for any person.
+
+DeterminantThe determinant of a square matrix is a scalar (a number) that indicates how that matrix behaves. It can be calculated from the numbers in the matrix.
+
+The determinant of the matrix formula_1 is written as formula_2 or formula_3 in a formula. Sometimes, instead of formula_4 and formula_5, one simply writes formula_6 and formula_7.
+
+There are a few ways to understand what the determinant says about a matrix.
+
+An formula_8 matrix can be seen as describing a linear map in formula_9 dimensions. In which case, the determinant indicates the factor by which this matrix scales (grows or shrinks) a region of formula_9-dimensional space.
+
+For example, a formula_11 matrix formula_1, seen as a linear map, will turn a square in 2-dimensional space into a parallelogram. That parallellogram's area will be formula_2 times as big as the square's area.
+
+In the same way, a formula_14 matrix formula_15, seen as a linear map, will turn a cube in 3-dimensional space into a parallelepiped. That parallelepiped's volume will be formula_16 times as big as the cube's volume.
+
+The determinant can be negative or zero. A linear map can stretch and scale a volume, but it can also reflect it over an axis. Whenever this happens, the sign of the determinant changes from positive to negative, or from negative to positive. A negative determinant means that the volume was mirrored over an odd number of axes.
+
+One can think of a matrix as describing a system of linear equations. That system has a unique non-trivial solution "exactly" when the determinant is not 0 ("non-trivial" meaning that the solution is not just all zeros).
+
+If the determinant is zero, then there is either no unique non-trivial solution, or there are infinitely many.
+
+A matrix has an inverse matrix exactly when the determinant is not 0. For this reason, a matrix with a non-zero determinant is called invertible. If the determinant is 0, then the matrix is called non-invertible or singular.
+
+Geometrically, one can think of a singular matrix as "flattening" the parallelepiped into a parallelogram, or a parallelogram into a line. Then the volume or area is 0, which means that there is no linear map that will bring the old shape back.
+
+There are a few ways to calculate a determinant.
+
+For larger matrices, the determinant is harder to calculate. One way to do it is called cofactor expansion.
+
+Suppose that we have an formula_8 matrix formula_1. First, we choose any row or column of the matrix. For each number formula_24 in that row or column, we calculate something called its cofactor formula_25. Then formula_26.
+
+To compute such a cofactor formula_25, we erase row formula_28 and column formula_29 from the matrix formula_1. This gives us a smaller formula_31 matrix. We call it formula_32. The cofactor formula_25 then equals formula_34.
+
+Here is an example of a cofactor expansion of the left column of a formula_14 matrix:formula_36As illustrated above, one can simplify the computation of determinant by choosing a row or column that has many zeros; if formula_24 is 0, then one can skip calculating formula_25 altogether.
+
+Philip the ArabPhilip the Arab ( 204 – September 249) was Roman emperor from 244 to 249 AD.
+
+Philip () was born in around 204. He got the name "Philip the Arab" ( or ). (The "Chronicon Paschale", a Greek chronicle, and the Latin historian Aurelius Victor each have different dates for Philip's birth.) He was the son of Julius Marinus. Philip was probably born in the city he later named Philippopolis, in the Roman province of Arabia Petraea (now the city of Shahba, Syria).
+
+Philip became emperor at the start of 244. (The "Justinianic Code"'s writing means that Philip became emperor after 13 January 244 and before 14 March the same year.) Philip's wife, Marcia Otacilia Severa, became "augusta" (empress) early in 244. After Philip became emperor, the Romans and the Sasanian Empire made peace. With this success, Philip got the name (or ) in the middle of 244. Philip came to Rome in 244, probably in early summer.
+
+In 245, Philip was Roman consul for the first time. That year, the Romans went to war with the Carpi. On 12 November 245, Philip was at Aquae in Dacia (Vidonac, Serbia). Wars against the Carpi and Germanic peoples continued into 247. In 247, Philip was Roman consul for the second time. In late summer 247, Philip held a triumph in Rome. For his military success against the Carpi, Philip probably got the name at the end of 247.
+
+In 248, Philip was Roman consul for the third time. In April 248, Philip held a festival for the one thousandth anniversary of Rome, a thousand years since Romulus became the first king of Rome. (The chronicle of the Latin historian Cassiodorus says that this started on 21 April and ended on the 23 April 248.)
+
+John Chrysostom wrote that unlike other pagan rulers of the Romans, Philip was tolerant to the Christians and let them practise their faith openly. Eusebius wrote Philip and his wife received letters from Origen.
+
+Some time before 11 September 249, soldiers in the Roman army killed Philip in a battle against the army of Decius. The battle was probably near Verona on the Italian Peninsula. Philip, Philip II, and Marcia Otacilia Severa may all have had "damnatio memoriae" on them, and the Romans removed their names from some inscriptions.
+
+The Latin historian Eutropius says that Philip and Philip II were both deified (made into gods). This is probably not true. Where Philip's grave was is unknown.
+
+Philip married Marcia Otacilia Severa before 238. At the start of 244, Marcia Otacilia Severa became "augusta" (empress) and got the Latin title: . Marcia Otacilia Severa probably died in 248.
+
+They had a son, Philip II. The Latin history "Epitome de Caesaribus" says that Philip II was born in 236 or 237. Only the Greek historian John of Antioch says Philip had other sons. Philip made his son Philip II his "caesar" (junior emperor) in July or August 244. After July or August 244, Marcia Otacilia Severa also had the title . In July or August 247, Philip made his son his "augustus" (co-emperor).
+
+Philip's father, Julius Marinus, died while his son was emperor. After that, people in Philippopolis in Arabia (Philip's home town) worshipped Julius Marinus as a god. However, the Roman Senate probably did not deify Julius Marinus, and he probably did not become one of the official gods.
+
+Philip had a brother, Gaius Julius Priscus. He was a governor of Roman Mesopotamia () and then a praetorian prefect and governor of the East ().
+
+LonelinessLoneliness is a sad emotion that a person can feel if they are isolated or feel a sense of lack of friends and family members. Loneliness can make people feel anxious.
+
+People can feel lonely even if they are surrounded by a lot of other people. Loneliness can occur even to people in marriages, relationships, families and successful jobs. One cause of loneliness is a lack of friends during childhood and teenage years. Loneliness can also be caused by chronic depression. Loneliness can also be caused when a relationship or marriage ends.
+
+Moreover, in the scenarios where you are the only who understands the whole picture, the person might learn few techniques and read self-help guides that can help in coping up with loneliness.
+
+Loneliness is a theme in literature, going back to the Epic of Gilgamesh.
+
+Fuzz bassFuzz bass (also called "bass overdrive" or "bass distortion") is a style of playing the electric bass. When a person plays fuzz bass, the bass sounds buzzy and distorted. Fuzz bass is created by turning up the volume on a bass amplifier very high, or by using an electronic fuzz pedal. In the mid-1960s, some bass players began to play fuzz bass. The Beatles' 1965 song "Think for Yourself" (from Rubber Soul) has fuzz bass. The 1965 Rolling Stones song "Under My Thumb" has fuzz bass.
+
+RedirectRedirect may refer to:PrimulaceaeThe Primulaceae are a family of herbaceous flowering plants. It has about 24 genera. It includes some garden plants and wildflowers. It is also called the primrose family.
+
+SOCATA TBMThe SOCATA TB700 is a light transport aircraft. It is used by both civilian and military operators. It is built in Tarbes, France by SOCATA. It is a single-turboprop aircraft built in all-metal. More than 600 were sold. TBM-850 is a modern variant.
+
+The Great Gatsby (2013 movie)The Great Gatsby is a drama movie released in 2013. It is based on the novel "The Great Gatsby" by F. Scott Fitzgerald.
+
+The movie was an Australian-American production. It was directed by Baz Luhrmann. The screenplay was written by Luhrmann and Craig Pearce.
+
+The main actors in it are Leonardo DiCaprio, Tobey Maguire, Carey Mulligan, Joel Edgerton and Isla Fisher. This movie also has Bollywood actor Amitabh Bachchan in a cameo appearance.
+
+Siege of TobrukThe Siege of Tobruk was a battle in Libya during the North African Campaign of World War II. It lasted for 241 days. The battle was between Axis and Allied Forces. The battle started on 11 April 1941, when Tobruk was besieged by an Italian and Nazi German force commanded by Lieutenant General Erwin Rommel. The siege continued for 240 days up to 27 November 1941. On that date, the Allied 8th Army took control of Tobruk.
+
+The reason that both sides wanted to control Tobruk is that it had a deep protected harbour. This made it a good place for ships to seek shelter. As well, the Italians had built fortifications. There were also escarpments and cliffs near Tobruk, which helped to protect the town from attack.
+
+The Allies wanted to control Tobruk so that they could defend Egypt and the Suez Canal. When the Axis armies could no longer use the port at Tobruk, they had to bring in supplies at the distant port of Tripoli. This required the Axis armies to bring the supplies by truck through of desert. After the Allies won Tobruk, the Axis armies continuted fighting to take it back. The Axis armies fired many artillery shells at Tobruk and dropped many bombs on the town.
+
+TobrukTobruk is a port city on Libya's eastern Mediterranean coast. It is near the border with Egypt. It is the capital of the Butnan District. In 2011, it had a population of about 120,000. There was once an ancient Greek colony at Tobruk. Later, the Romans built a fortress there. By 1911, Tobruk had become an Italian military base. During World War II, in a battle called the Siege of Tobruk, Allied forces captured the town. After the war, Tobruk was rebuilt. During the 1960s, a port terminal was built at Tobruk.
+
+Battle of Berlin (RAF campaign)The Battle of Berlin was the British bombing raid on Berlin during the Second World War from November 1943 to March 1944. British bombers had new navigation aids to help them, such as the new H2S radar, and Bomber Command made 16 attacks on the city.
+
+Although the bombings were mostly done by British bombers, Australian and Canadian bombers also flew to Germany.
+
+The Battle of Berlin was considered a failure for the Royal Air Force (RAF). It lost 1,047 bombers, with 1,682 more damaged, and over 7,000 air crew members. Also, the bombings did not cause the Germans to give up but left 450,000 of them homeless.
+
+Battle of Guam (1941)The First Battle of Guam was a battle fought during the Pacific War in World War II. It took place on 8 December 1941 on Guam in the Mariana Islands. The battle was between Japan and the United States. The American forces on Guam were defeated by Japanese forces. The Japanese forces then occupied the island until the Second Battle of Guam in 1944.
+
+Survivor Series (2005)Survivor Series (2005) was a professional wrestling pay-per-view show made by World Wrestling Entertainment (WWE). It was held on November 27, 2005 at the Joe Louis Arena in Detroit, Michigan. It was the nineteenth Survivor Series event held by the WWE.
+
+Bohol (island)Bohol is the tenth-largest island of the Philippines and the main island of the Bohol province. It is part of the Region VII (Central Visayas) in the Visayas island group.
+
+The Philippine Tarsier, one of the smallest primate in the world, is one endemic animal of southern Philippines, including the island of Bohol.
+
+The island of Bohol has an oval shape and is surrounded by 73 smaller islands; the larger of these small islands are Panglao, in the southwest in front of the city of Tagbilaran, and Lapining, in the northeast.
+
+The main island of Bohol has an area of and a coastline of . It lies southeast from Cebu Island across the Cebu Strait (sometimes called Bohol Strait) and southwest from Leyte, separated by the Camotes Sea and Canigao Channel. Bohol is also located north of Mindanao with the Bohol Sea or Mindanao Sea between them.
+
+The terrain of Bohol is basically hilly and about half the island is covered in limestone. The interior is a large plateau.
+
+In the centre of the island, mainly in the municipalities of Sagbayan, Batuan and Carmen, are the Chocolate Hills, over 1,270 hills cone-shaped hills over an area of .
+
+The main mountain range of the island is "Sierra Bullones" that is along the south coast. It begins near Loboc, goes to the east and then to the northeast to end near Candijay. The highest point of this range and in the entire province is Mount Mayana ().
+
+There are four main rivers that flow through Bohol:The climate of the island of Bohol is a warm tropical climate (Köppen climate classification "Af"); it is typically hot and wet throughout the year and rainfall is both heavy and frequent.
+
+Congressional Record

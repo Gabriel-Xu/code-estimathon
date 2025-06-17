@@ -1,0 +1,77 @@
+Filesystem object attributes may include metadata (times of last change, access, modification), as well as owner and permission data.
+
+File systems can be used on numerous different types of storage devices that use different kinds of media.
+
+Filesystems making use of a BIOS parameter block include FAT12 (except for in DOS 1.
+
+x), FAT16, FAT32, HPFS, and NTFS.
+
+File systems typically use a variant of WAL for at least file system metadata called journaling.
+
+File systems without forks only allow a single such set of data for the contents, while file systems with forks allow multiple such contents.
+
+File System Visualizer is also capable of manipulating the files and directories it shows.
+
+Filetab is a decision table-based computer programming language widely used in business in the 1960s and 1970s.
+
+File "tb.
+
+py", line 13, in c error?!
+
+Filet crochet is a type of crocheted fabric.
+
+Filet crochet is most often worked from a graph or a symbol diagram.
+
+Filet crochet may also be worked by alternating chain stitches with another type of crochet stitch such as (U.
+
+S. terminology) half double or triple crochet, and may be worked from yarn instead of thread.
+
+Filet of Soul is an American folk-rock band from Athens and Atlanta, GA.
+
+Filet of Soul was a Wisconsin-based band, primarily active from 1964 to the mid-1970s.
+
+Filetopia also features a buddy list.
+
+Filetopia is a free, multi-platform peer-to-peer file sharing client, and networking tool that allows users to share files, use chat, and send instant messages.
+
+File transfer is the transmission of a computer file through a communication channel from one computer system to another.
+
+Filetto is an Italian comune of 930 people in the Province of Chieti in Abruzzo.
+
+Filettole is a town on the Serchio River.
+
+Filet welding is not a type of butt weld despite its similarities.
+
+Filet welding make up about 80 percent of the connection despite being weaker that butt welds.
+
+File types that are handled are: audio, images, applications, games, videos, documents.
+
+File Under: 13 Suspicious Incidents, was released on April 1, 2014.
+
+File Under Popular: Theoretical and Critical Writings on Music is a collection of seven essays on the political theory of popular music written by English percussionist, lyricist and music theorist, Chris Cutler.
+
+File Under Ramones is an album by the Huntingtons released in 1999 on Tooth & Nail Records.
+
+FIL European Luge Championships 1979 took place in Oberhof, East Germany.
+
+FIL European Luge Championships 1984 took place in Olang, Italy for the third time after hosting the event previously in 1975 and 1980.
+
+FIL European Luge Championships 2002 took place in Altenberg, Germany.
+
+FIL European Luge Natural Track Championships 1999 took place in Szczyrk, Poland.
+
+FileVault is a disk encryption program in Mac OS X 10.
+
+3 and later.
+
+File verification is the process of using an algorithm for verifying the integrity of a computer file.
+
+File virtualization addresses the NAS challenges by eliminating the dependencies between the data accessed at the file level and the location where the files are physically stored.
+
+FileWare floppy disk drives and diskettes were designed by Apple Computer as a higher-performance alternative to the Disk II and Disk III floppy systems used on the Apple II and Apple III personal computers.
+
+File was drafted as a third baseman out of NCAA Division II, then converted to pitcher while in the Jays' farm system.
+
+Filewich (born October 2, 1984) is a Canadian retired professional ice hockey player of Croatian ancestry Filewich was born in Kelowna, British Columbia, but grew up in Sherwood Park, Alberta.
+
+File with: WAR, WATTS RIOTS, FLYING BURRITO BROTHERS...

@@ -1,0 +1,47 @@
+"Sonic CD" received a lot of praise. The Sega CD version sold more than 1.
+
+5 million copies. It sold more copies than any other game on the Sega CD.
+
+The graphics and sound were praised. "Electronic Games" said that the game looked similar to older games. They said it did not use the Sega CD's special features very much. However, they said that this did not make the game worse. They said the music was what made "Sonic CD" "stand above the crowd". The reviewers of "Electronic Gaming Monthly" ("EGM") said the game's animated cinematics and sound were good. however, they said that the frame rate decreases during special stages.
+
+The gameplay was liked. "Sega Pro" said the bigger environments and the time travel added to the replay value. They said that "the more you play "Sonic CD" the better it gets". However, they said they felt the game was too easy. In its debut issue, "Sega Magazine" said "Sonic CD" could be "a classic". They said the originality in the special stages and time travel was great.
+
+Card trickA card trick is something using playing cards that does not do what you think it should. People called magicians do card tricks. Some examples include finding a certain card in a deck of cards.
+
+Fork bombA fork bomb is a way of stopping a computer from running by making many copies of a program. A fork bomb copies itself into more than two copies, which then copy themselves into four copies. Then both the original and the copy will keep making copies until the computer can no longer handle it and crash.
+
+For example, a simple fork bomb using the bash shell script is :Here, a function is defined by the name " : ". Inside the curly braces, this function is called and its output is given again to the same function. The " & " is used to run the process in background. The semicolon (" ; ") marks end of the function. The last colon (" : ") calls the function for first time. After that the function keeps on calling itself until computer runs out of memory.
+
+Pope Gregory IXGregory IX (; c. 1145 – 22 August 1241), born Ugolino dei Conti di Segni, was an Italian priest of the Roman Catholic Church and the 178th Pope from 19 March 1227 until his death in 1241.
+
+The Count of Segni lived in Anagni when his son Ugolino was born. The exact date of this birth is not known, but it was around 1145. Ugolino was a nephew of Pope Innocent III.
+
+He was created Cardinal in 1198.
+
+Cardinal di Conti was elected pope in 1227. He chose to be called Pope Gregory.
+
+Tutu (plant)Tutu is a common name of Māori origin for plants in the genus "Coriaria" (Coriariaceae) found in New Zealand.
+
+Six New Zealand native species are known by the name:They are shrubs or trees; some are endemic to New Zealand. Most of the plant parts are poisonous, containing the neurotoxin tutin.
+
+Both the seeds and sap of tutu are highly poisonous, resulting in many cattle deaths in the early days of European settlement. After removing the poisonous seeds, Māori people prepared a drink from the fruit, which they often boiled with a type of seaweed (rimu). The resulting jelly (rehia) was then fermented.
+
+Honey containing tutin can be produced by honey bees feeding on honeydew produced by sap-sucking vine hopper insects ("Scolypopa australis") feeding on tutu. The toxin is in the sap of the Tutu bush. This sap is eaten by the hoppers, but not all is digested. The undigested sap which contains a lot of plant sugars as well as tutin is excreted as honeydew onto the leaves of the bush. Bees then gather the honeydew and toxic honey is the result.
+
+The last recorded deaths from eating honey containing tutin were in Northland, New Zealand, in 1890, although sporadic outbreaks of toxic honey poisoning continue to occur. Poisoning symptoms include delirium, vomiting, and coma.
+
+Melanie AmaroMelanie Ann Amaro (born June 26, 1992) is an American singer. She won the first season of "The X Factor USA" in 2011. For winning, she got a $5 million recording contract with Syco Music and Epic Records. Amaro was also the youngest contestant to win the competition.
+
+Fritz HollingsErnest Frederick "Fritz" Hollings (January 1, 1922 – April 6, 2019) was an American politician. Hollings served as a Democratic United States Senator from South Carolina from 1966 to 2005, as well as the 106th Governor of South Carolina (1959–1963) and the 77th Lieutenant Governor (1955–1959). He served 38 years and 55 days in the Senate, which makes him the 8th-longest-serving Senator in history.
+
+Following the death of John Glenn in December 2016, Hollings became the oldest living former United States senator.
+
+Hollings was born on January 1, 1922 in Charleston, South Carolina. He studied at The Citadel, The Military College of South Carolina and at the University of South Carolina School of Law.
+
+As governor of South Carolina from January 20, 1959 to January 15, 1963, Hollings worked to improve the state's educational system, helping to bring more industry and employment opportunities to the state. His term in office saw the establishment of the state's technical education system and its educational television network. He also called for and achieved significant increases in teachers' salaries, bringing them closer to the regional average. At the 1961 Governor's Conference on Business, Industry, Education and Agriculture in Columbia, S.
+
+C., he declared, "Today, in our complex society, education is the cornerstone upon which economic development must be built--and prosperity assured."
+
+He tried to win the Democratic nomination for a seat in the U.
+
+S. Senate in 1962 but lost to incumbent Olin D. Johnston.

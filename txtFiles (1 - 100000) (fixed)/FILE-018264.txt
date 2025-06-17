@@ -1,0 +1,239 @@
+Apache OFBiz is an open source enterprise resource planning (ERP) system.
+
+Apache Oozie is a server-based workflow scheduling system to manage Hadoop jobs.
+
+Apache, or La Danse Apache, Bowery Waltz, Apache Turn, Apache Dance and Tough Dance is a highly dramatic dance associated in popular culture with Parisian street culture at the beginning of the 20th century.
+
+Apache::PAR, a Perl extension for including PAR files in a mod_perl (1.
+
+x or 2.
+
+x) environment.
+
+Apache PDFBox is an open source pure-Java library that can be used to create, render, print, split, merge, alter, verify and extract text and meta-data of PDF files.
+
+Apache Phoenix is an open source, massively parallel, relational database engine supporting OLTP for Hadoop using Apache HBase as its backing store.
+
+Apache Pig is a high-level platform for creating programs that run on Apache Hadoop.
+
+Apache Pizza is a chain of fast food pizza delivery restaurants in Ireland.
+
+Apache Plaza was a former shopping center, located in St. Anthony, Minnesota, a small suburb of Minneapolis.
+
+Apache POI, a project run by the Apache Software Foundation, and previously a sub-project of the Jakarta Project, provides pure Java libraries for reading and writing files in Microsoft Office formats, such as Word, PowerPoint and Excel.
+
+Apache Qpid is an open-source (Apache 2.
+
+0 licensed) messaging system which implements the Advanced Message Queuing Protocol (AMQP).
+
+Apache raiders were tracked through the frontier by a party of United States Army cavalry who intercepted the native warriors at Cooke's Spring in the Black Range of New Mexico.
+
+Apache Rampart is an implementation of the WS-Security standard for the Axis2 Web services engine by the Apache Software Foundation.
+
+Apache Records was a small music recording label with a studio located in Crestview, Florida, that released its first records in March 1960.
+
+Apache renamed the software Apache OpenOffice.
+
+Apacheria chiricahuensis is a species of flowering plant in the family Crossosomataceae.
+
+Apacheria is similar to Crossosoma species, which can be differentiated by their alternate leaves and five-parted flowers.
+
+Apacheria was the term used to designate the region inhabited by the Apache people.
+
+Apache Rose is a 1947 American Trucolor Western film directed by William Witney and starring Roy Rogers.
+
+Apache Royale is an open source frontend technology that allows a developer to code in ActionScript 3 and MXML and target web, mobile devices and desktop devices on Apache Cordova all at once.
+
+Apache Royale is currently in beta development stage.
+
+Apache Samza is an open-source near-realtime, asynchronous computational framework for stream processing developed by the Apache Software Foundation in Scala and Java.
+
+Apache scouts also served in the Navajo War, the Yavapai War, the Mexican Border War and they saw stateside duty during World War II.
+
+Apache ServiceMix is an enterprise-class open-source distributed enterprise service bus (ESB) based on the service-oriented architecture (SOA) model.
+
+Apache SINGA is an Apache Incubating project for developing an open source machine learning library.
+
+Apaches is a Public Information Film (PIF) made in the United Kingdom in 1977.
+
+Apaches is now one of the most notorious public information films of all time.
+
+Apache Skies is a four-issue comic book limited series, published in 2002 by Marvel Comics as a part of that company's MAX imprint.
+
+Apache Spark is an open-source cluster-computing framework.
+
+Apache Spark SQL can access Avro as a data source.
+
+Apache Stanbol components are meant to be accessed over RESTful interfaces to provide semantic services for content management.
+
+Apache Stanbol is an open source modular software stack and reusable set of components for semantic content management.
+
+Apache Stone is an American rock band from New York City.
+
+Apache Storm is a distributed stream processing computation framework written predominantly in the Clojure programming language.
+
+Apache Strike is a 3D helicopter game first developed for the Macintosh in 1987.
+
+Apache Subversion (often abbreviated SVN, after its command name svn) is a software versioning and revision control system distributed as open source under the Apache License.
+
+Apachesuchus is an extinct genus of aetosaur from the Late Triassic (late Norian) of Quay County, eastern New Mexico.
+
+Apache suEXEC is a feature of the Apache Web server.
+
+Apache Synapse is a simple, lightweight and high performance open source enterprise service bus (ESB) and mediation engine.
+
+Apache Synapse is released under the Apache License.
+
+Apache SystemML is a flexible machine learning system that automatically scales to Spark and Hadoop clusters.
+
+Apache Tapestry is an open-source component-oriented Java web application framework conceptually similar to JavaServer Faces and Apache Wicket.
+
+Apache Taverna is an open source software tool for designing and executing workflows, initially created by the myGrid project under the name Taverna Workbench, now a project under the Apache incubator.
+
+Apache tears fall between 5 and 5.
+
+5 in hardness on the Mohs scale.
+
+Apache Territory is a 1958 Western film released by Columbia Pictures, directed by Ray Nazarro and produced by and starring Rory Calhoun.
+
+Apache Tika is a content detection and analysis framework, written in Java, stewarded at the Apache Software Foundation.
+
+Apache Tomcat, often referred to as Tomcat Server, is an open-source Java Servlet Container developed by the Apache Software Foundation (ASF).
+
+Apache Trafodion is an open-source Top-Level Project at the Apache Software Foundation.
+
+Apache Trail is a 1942 American Western film directed by Richard Thorpe, written by Maurice Geraghty, and starring Lloyd Nolan, Donna Reed, William Lundigan, Ann Ayars, Connie Gilchrist, and Chill Wills.
+
+Apache Tuscany was an open-source software project for developing and running software applications using a service-oriented architecture (SOA).
+
+Apache Uprising is a 1965 American Technicolor Western Techniscope film directed by R. G. Springsteen and written by Max Lamb and Harry Sanford.
+
+Apache vs Havoc is a helicopter flight simulator game by Razorworks.
+
+Apache VXQuery complies to the W3C-standardized XML Query Language v1.
+
+0.
+
+Apache VXQuery is developed to meet demands to process semi-structured data in applications.
+
+Apache VXQuery (or Versatile XQuery) is a standards-compliant XML Query processor that is implemented in Java.
+
+Apache Warrior is a 1957 American Western film directed by Elmo Williams and written by Carroll Young, Kurt Neumann and Eric Norden.
+
+Apache War Smoke is a 1952 American Western film starring Gilbert Roland, Glenda Farrell, and Robert Horton.
+
+Apache was built in 1891 as the United States Revenue Cutter Service cutter USRC Galveston by Reeder and Sons at Baltimore, Maryland.
+
+Apache was delivered to the U.
+
+S. Navy in 1981.
+
+Apache Wave was a software framework for real-time collaborative editing online.
+
+Apache Wink is an open source framework that enables development and consumption of REST style web services.
+
+Apache Woman is a 1955 Western directed by Roger Corman.
+
+Apache Woman (Italian: Una donna chiamata Apache) is a 1976 Italian Spaghetti Western film, written and directed by Giorgio Mariuzzo.
+
+Apache Yetus is a collection of libraries and tools that enable contribution and release processes for software projects.
+
+Apache ZooKeeper is a software project of the Apache Software Foundation.
+
+Apachyidae is a small family of earwigs, in the suborder Forficulina and the order Dermaptera.
+
+A pachymeter is a medical device used to measure the thickness of the eye's cornea.
+
+Apachyus is a genus of earwigs, in the family Apachyidae.
+
+Apacible is married to Maria Dolores Cacdac with whom he has three children.
+
+A Pacific 4-6-2 locomotive to the same design by Nigel Gresley as the more famous A4 Mallard and one of the 35 strong class, it is one of six to survive into preservation and is one of three currently certified for mainline use.
+
+A Pacific University research study of 36 participants in 2007 found significant differences in irritation or burning of the eyes, tearing, or watery eyes, dry eyes, and tired eyes, that were each improved by Gunnar lenses versus placebo lenses, but in a follow-up study in 2008, the same team was not able to reproduce the results of the first study, finding no difference in burning of the eyes, tearing, or watery eyes with Gunnar Optiks compared to placebo glasses.
+
+A pacifier (American English) or dummy (British English), also known as a binky, soother (Canadian English) or teether, is a rubber, plastic or silicone nipple given to an infant to suck upon.
+
+A pacifist, he has also written about the buildup to World War II.
+
+A pacifist surgeon must operate to save the life of the inventor of a deadly weapon of war, and when the inventor dies, the surgeon becomes prime suspect.
+
+Apac is a town in Apac District, Northern Uganda.
+
+A package boiler is a factory-made boiler that consists of a range of standard designs.
+
+A package combining the original game with the first two expansions was released at that time, with the title Sins of a Solar Empire: Trinity.
+
+A package containing Peptides was sent to Eadie from San Diego.
+
+A package diagram in the Unified Modeling Language depicts the dependencies between the packages that make up a model.
+
+A packaged mix is available in the U.
+
+S. mainland.
+
+A package format is a type of archive containing computer programs and additional metadata needed by package managers.
+
+A package forwarding service is different from mail forwarding.
+
+A package insert (formally prescribing information in the United States; in Europe, patient information leaflet or instructions for use for human medicines and package leaflet for veterinary medicines) is a document provided along with a prescription or over-the-counter medication to provide additional information about that drug.
+
+A package in the Unified Modeling Language is used "to group elements, and to provide a namespace for the grouped elements".
+
+A package manager deals with packages, distributions of software and data in archive files.
+
+A package manager or package management system is a collection of software tools that automate the process of installing, upgrading, configuring, and removing computer programs for a computer's operating system in a consistent manner.
+
+A package may contain other packages, thus providing for a hierarchical organization of packages.
+
+A package provides protection, tampering resistance, and special physical, chemical, or biological needs.
+
+A "package", reviewed by the panel of judges, is also constructed for each competing Airman listing in bulleted format his/her major accomplishments and attributes.
+
+A package squarely on the main sequence is optimally balanced with respect to its abstractness and stability.
+
+A package store and rum distillery are also in the works.
+
+A package tour, package vacation, or package holiday comprises transport and accommodation advertised and sold together by a vendor known as a tour operator.
+
+A package would have been chosen after much research, which may or may not have been conducted thoroughly.
+
+A packaging gas is used to pack sensitive materials such as food into a modified atmosphere environment.
+
+A pack animal or beast of burden is an individual or type of working animal used by humans as means of transporting materials by attaching them so their weight bears on the animal's back, in contrast to draft animals which pull loads but do not carry them.
+
+A Packard Business College, situated at 22nd and Broadway, New York, was featured in the 1947 film The Shocking Miss Pilgrim, whose initial graduates are described as "the first group of typewriters to graduate from any business college anywhere in the world".
+
+A packer is run in the casing on production tubing or wireline.
+
+A packet analyzer (also known as a packet sniffer) is a computer program or piece of computer hardware that can intercept and log traffic that passes over a digital network or part of a network.
+
+A packet analyzer can also be referred to as a network analyzer or protocol analyzer though these terms also have other meanings.
+
+A packet analyzer used for intercepting traffic on wireless networks is known as a wireless analyzer or WiFi analyzer.
+
+A packet (cell or switched unit) arrives at an ingress interface, the appropriate egress interface is determined by the decision procedure, and the packet is then transported across the switching fabric to the egress interface.
+
+A packet consists of control information and user data, which is also known as the payload.
+
+A packet driver uses an x86 interrupt number (INT) between 60h .. 80h.
+
+A packet generation model is a traffic generation model of the packet flows or data sources in a packet-switched network.
+
+A packet generator or packet builder is a type of software that generates random packets or allows the user to construct detailed custom packets.
+
+A packet is a small bag or pouch, made from paper, foil, plastic film or another type of packing material, often used to contain single-use quantities of foods or consumer goods such as ketchup or shampoo.
+
+A packet is a symbol or sequence of 1's and 0's.
+
+A packet is typically forwarded from one router to another router through the networks that constitute an internetwork until it reaches its destination node.
+
+A packetized, prioritized data format, providing flexibility of services and extensibility.
+
+A "packet ship" was originally a vessel employed to carry post office mail packets to and from British embassies, colonies and outposts.
+
+A packet-switched PSDN may also be called a packet-switched data network.
+
+A packet that induces such a storm is occasionally nicknamed a Chernobyl packet.
+
+A packet therefore might arrive very late, might be corrupted, or simply might not arrive at all.

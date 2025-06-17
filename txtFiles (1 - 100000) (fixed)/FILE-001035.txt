@@ -1,0 +1,227 @@
+JavaScript is a high-level programming language that follows the ECMAScript standard. It was originally designed as a scripting language for websites but became widely adopted as a general-purpose programming language, and is currently the most popular programming language in use. JavaScript is usually found running in a web browser as interactive or automated content, ranging from popup messages and live clocks to large web applications. JavaScript is also commonly used in server-side programming through platforms like Node.
+
+js, or "embedded" in non-JavaScript applications where the base programming language lacks the high-level functionality that JavaScript offers.
+
+Despite the similarities in name and syntax, JavaScript is not related to the programming language Java. Though the names of both languages are trademarks of Oracle Corporation, the two languages follow different design principles, and are actively developed by unrelated organizations.
+
+JavaScript is typically inserted into HTML when used on the web, either directly in the file in an HTML tag, or linked to a separate file containing the script.
+
+JavaScript, as a full featured scripting language, can be used to provide functionality to a website. Examples include:A majority of websites use what is known as a framework. Frameworks may allow programming to be easier as more predefined procedures are defined within it. Such a library is jQuery.
+
+JavaScript can be used to create and run video games in the browser. The modern web has quickly become a viable platform for creating and distributing high-quality games. With modern web technologies and a recent browser, it’s entirely possible to make stunning, top-notch games for the web. JavaScript is blazing fast in modern browsers and getting faster all the time. You can use its power to write the code for your game or look at using technologies like Emscripten or Asm.
+
+js to easily port your existing games.
+
+There are also many widely adopted game engines that you can use to develop games with JavaScript and HTML5. Some popular ones include Three.
+
+js, Pixi.
+
+js, Phaser, Babylon.
+
+js, Matter.
+
+js, and PlayCanvas. These game engines provide a range of features and tools to help you create sophisticated 2D and 3D graphics without relying on third-party plugins.
+
+JavaScript is also used outside of web browsers. As a scripting language, JavaScript can be used to define the behaviour of applications such as extensions in GNOME Shell.
+
+In addition, there are runtime environments for running JavaScript as a server side programming language. Such an environment is Node.
+
+js.
+
+Electron is a framework which allows graphical applications to be made with web technologies, by running on the Chromium browser and Node.
+
+js.
+
+A JavaScript program is made of a collection of instructions called "statements". A semicolon marks the end of a statement, and allows multiple statements to be placed on the same line. However, it is typical to write each statement on its own line to keep a program file readable.
+
+Variables can be defined in several ways. In an older version named "ES5", variables are defined using the var keyword. In the newer versions after ES5, variables can be defined using const for constant variables and let for local variables. The value of constant variables cannot be re-declared or reassigned. Variables assigned using const or let are contained within blocks, while variables assigned using var are contained within functions.// ES5var x = 1;// ES6+const y = 10; // Cannot be reassignedlet t = 5; // Can be reassignedThe script below prints "Example" on the screen. The lines that start with codice_1 are comments, which are used to describe the actions of the program.
+
+function sayHi() {sayHi(); // Runs the function sayHi/* This is also a comment,The code above alerts codice_2.
+
+If you want to put JavaScript in your HTML, you put it between an opening codice_3 and closing codice_4 tag. These tags mean that whatever is between them is a script and not text to be put onto the web page. The script below inserts the numbers 1 through 10 at the bottom of a webpage:<!
+
+DOCTYPE html><head></head><body></body>The codice_5 loop makes whatever code is between the codice_6 and the codice_7 happen more than one time. In this case, it keeps looping until codice_8 is equal to 10, then it stops. This means it equals ten. It's a bit confusing at first, but it works.
+
+function sayHi() {sayBye = function() {sayHi();sayBye();World Money FairThe World Money Fair is an international bourse of coins. A "bourse" is where dealers, collectors and the public to buy, sell and trade coins.
+
+In 1970 A. M Beck founded in Muinch the "Organisation of European Coins-Bourses", "Organisation Europäischer Münzen-Börsen" (OEMB) in German. He had the idea to build up a stronger market for the collecting of coins.
+
+Two years later the organisation organized in Basel the 1st international bourse of coins. During the time it was developed to the "World Money Fair". Today more than 40 nations are members of this organisation. In 2006, the bourse is at the 1st time in Berlin. At the start the German Secretary of State Karl Diller presented the new German 2 Euro Coin. It shows the Holstentor of Lübeck.
+
+AutocracyAutocracy is a form of government. In an autocracy, a single person has all legal and political power, and makes all decisions by himself or herself. The person who holds the power is called an autocrat.
+
+When there is a monarch ruling a country as an absolute monarchy, this is also called an autocracy. Having an autocratic government does not mean the country is governed well or governed poorly. It is just a description on how it is set up.
+
+The two types of Autocracy are Absolute monarchy and DictatorshipIn modern times, most autocrats gain power as part of a larger nationalist, communist, or fascist movement. Once in power, they eliminate all other kinds of authority in the country, such as judges, the legislature, and political parties.
+
+Historical examples of autocracies include:OligarchyOligarchy is a form of government. In an oligarchic system, all the power is held by a small group of people. It is usually the most powerful people who govern the state. It was used in Sparta, where the kingship alternated between three leading families. Oligarchy can be a form of dictatorship.
+
+An oligarchy where "the best" rule is called "Aristocracy".
+
+If the richest people rule the country, this is called "Plutocracy".
+
+PunctuationPunctuation is the name for marks used for writing text. They are used to separate ideas in sentences. Punctuation makes text easier to read and understand. These are the most common punctuation marks used in English:There are other punctuation marks but used less often. Other languages have other marks, such as French using "guillemets", codice_1 as quotation marks.
+
+The use of punctuation in English changes depending on the sentence. Many punctuation marks have more than one use. Modern typography says that punctuation should only be used when there is a need for it. Because of this, people use less punctuation in their writing today than in the early 20th century.
+
+When punctuation marks should be used is often decided by a group or organization. Then, it is written down into a style guide of format rules. Newspapers have a style guide so that every newspaper is consistent with its writing.
+
+In the second example, no style guide will help. The writer just has to make sure that the sentence is understood as it is written. Punctuation is there to help the reader make sense of what is written. Often it is best to change the sentence so that the meaning does not rest on a comma.
+
+That seems to make the meanings clear.
+
+A period (U.
+
+S.
+
+A.), full stop (U.
+
+K. and Commonwealth) or full point (typography and printing), looks like this: .
+
+A period or stop is used to end a sentence. The period plus a space separates sentences in prose, and makes it easier to read. If they are not needed, they should not be used. So, for example, in a list format it is obvious when a section ends, therefore it does not need a full stop.
+
+A period can show numbers that are smaller than one. With money, a period is used to show the amount of money less than one dollar.
+
+A period is sometimes used to show that a word has been made shorter. A word that is made shorter with a period is called an abbreviation.
+
+A comma looks like this: ,A comma has many uses. Some of these are shown below:A question mark looks like this: ?
+
+Question marks are used when writing a question, to make an inquiry, or to ask something.
+
+An exclamation mark looks like this: !
+
+An exclamation mark is used to write about a surprise or emotion, or to write the words a person shouts. It can be used to make a statement stronger or more forceful.
+
+An apostrophe looks like this: <nowiki>'</nowiki>An apostrophe has two main uses:An apostrophe can be used to show that something belongs to someone else.
+
+If there is only one thing, the letter "s" is used after an apostrophe to show ownership.
+
+Sometimes the letter "s" is not used after an apostrophe to show ownership. A word will end with just an apostrophe if there is more than one thing and the word already ends with an "s".
+
+An apostrophe can be used to put two small words together. Two small words that are put together with an apostrophe to make one word are called contractions. This is normal in writing about a person speaking. Spoken English often uses contractions because these words are easier to say.
+
+Pronouns do not use an apostrophe to show that something belongs to something else. Among these are "its", "his", "hers", "theirs".
+
+Plurals (words referring to more than one thing) do not need an apostrophe.
+
+Quotation marks (also called quote marks or quotes for short) are used around the words that people have said, or direct speech. They are used in pairs.
+
+When quotation marks sit next to periods and commas, there are two styles of punctuation. These two styles are most commonly referred to as "American" and "British"; the British one is also called "logical quotation".
+
+Both systems have the same rules regarding question marks, exclamation points, colons, and semicolons. But they differ in how they treat full stops and commas.
+
+In all major forms of English, question marks, exclamation marks, semicolons, and any other punctuation are placed inside or outside the closing quotation mark depending on whether they are part of the quoted material.
+
+The style in the United Kingdom and other non-American places is called British style,logical quotation,or logical punctuation. it includes inside quotation marks only those punctuation marks which appeared in the "original" quoted material. Otherwise it places punctuation outside the closing quotation marks. Fowler's "A Dictionary of Modern English Usage" provides an early example of the rule: "All signs of punctuation used with words in quotation marks must be placed "according to the sense"."
+
+When dealing with words-as-words, short-form works and sentence fragments, this style places periods and commas outside the quotation marks:With direct speech, British placing depends on whether or not the quoted statement is complete or a fragment. According to the British style guide "Butcher's Copy-editing", American style should be used when writing fiction. In non-fiction, some British publishers may permit placing punctuation that is not part of the person's speech inside the quotation marks but prefer that it be placed outside. Periods and commas that "are" part of the person's speech are permitted inside the quotation marks regardless of whether the material is fiction.
+
+In the United States, the common style is called American style, whereby commas and periods are almost always placed inside closing quotation marks. This style of punctuation is common in the U.
+
+S. and to a lesser extent, Canada as well., and is the style usually recommended by "The Chicago Manual of Style" and most other American style guides.
+
+When dealing with words-as-words, short-form works and sentence fragments, standard American style places periods and commas inside the quotation marks:This style also places periods and commas inside the quotation marks when dealing with direct speech, regardless of whether the work is fiction or non-fiction:In both major styles, regardless of placement, only one end mark (?, !, or .) can end a sentence. Only the period, however, "may not" end a quoted sentence when it does not also end the enclosing sentence, except for literal text:This is a colon: :Colons can be used at the beginning of a list. ""This is a list of animals: birds, cats, insects, pigs, and sheep."".
+
+Colons can be used to replace a semicolon in between two parts of a sentence, but this is not common today.
+
+Standard English usage is to have no spaces before, and one space after a colon.
+
+A semicolon looks like this: ;A semicolon has only two uses. First, to connect two independent clauses into a single sentence. For example:"I could tell that it was getting late; it was growing darker by the second."
+
+The second use of a semicolon is to separate items in a series when the items contain parenthetical elements within themselves. For example:"The following crewmembers were on the bridge: James T. Kirk, captain of theEnterprise; Mr. Spock, first science officer; Mr. Sulu, helmsman; Mr. Scott,engineer; and Dr. McCoy, chief medical officer."
+
+A semicolon is also used with a conjunctive adverb when joining two clauses. In reality, this is the same as the first rule, but it looks different enough to sometimes cause concern.
+
+For example:"huzaifa, context in which all life exists; consequently, it is more than a political issue."
+
+An ellipsis is a mark that looks like this: ...
+
+It is used to show where words have been omitted when quoting what a person said. Ellipses are used in dialogue very often. They can be used to show that a sentence is incomplete, to add suspense in dialogue or text, or to show mumbling while speaking.
+
+A hyphen looks like this: -. Hyphens have many uses in writing:LandLand can mean some territory, forming part of a country. Dry land is the parts of Earth's surface not covered by the ocean or other permanent body of water. About 29% of the surface of Earth is dry land, while the rest is covered with liquid water. Land can have different types of soil; it may be covered with stones, sand, dirt, etc. Sometimes it is not clear where land ends and a body of water begins.
+
+The total area of Earth is about 510 million km. About 149 million km, which is 29% of the surface, is land. Large masses of ice called glaciers cover 15 million km, or 10% of the land area. The biggest continuous landmasses are called continents, and smaller landmasses, surrounded by water, are called islands.
+
+19% of land on Earth (28 million km), is barren: without plants. This includes deserts, beaches, and rocky areas with no soil. 26% of land (39 million km) is forests. 8% of land (12 million km) is shrubland or grassland. 1% of land (1.
+
+5 million km) is cities, towns, and land used for infrastructure. The remaining 34% of land (51 million km) is used for farming: 7% (11 million km) for crops (plants) 27% (40 million km) for livestock (animals).
+
+Even today, some land is being formed and some land is sinking into the ocean. The surface of the earth, which includes both the land and the ocean floor, is made of large pieces of rock called tectonic plates. Continental plates are thicker and lighter, so they stay at the top and make up the land surface. Oceanic plates are thinner and heavier, so they sink down and make up the ocean surface.
+
+Tectonic plates move over time, which is called continental drift. When two continental plates push into each other, they fold upwards to make mountains. When they move apart, they form a rift valley: the East African rift valley is forming now. Islands can be formed by volcanoes: the Hawaiian islands are a good example. Over time, land can wear away through erosion and sink below sea level. This can be seen with the Hawaiian islands, because the newer islands are taller than the older islands.
+
+SurfaceA surface is the outer part of something. Most surfaces have a width and a length, but no depth.
+
+Surfaces are studied in geometry.
+
+Sexual slaverySexual slavery is a special case of slavery or forced labour. Sexual slaves are like normal slaves, except for the following:This term is also used by the Vienna Declaration for the women's rights and by the name of humanitarian international law.
+
+List of Internet top-level domainsHere is a list of currently existing top-level domains (TLDs).
+
+17841784 was a common year.
+
+List of Atlantic hurricane seasonsThe following is a list of Atlantic hurricane seasons. All began on June 1 in their respective years. They ended on November 30. These dates are when tropical cyclones usually form in the Atlantic Ocean.
+
+The Atlantic hurricane season is the time of year that hurricanes form in the northern Atlantic Ocean. The season starts on June 1 and ends November 30. There is an average of ten tropical storms, six hurricanes, and two or three major hurricanes in the Atlantic.
+
+The National Hurricane Center helps watch for hurricanes in the northern Atlantic and makes forecasts about were the storms will go.
+
+1800–18091810–18191820–18291830–18391840–18491850–18591860–186918701871–1879188018811882188318841885188618871888188918901891189218931894189518961897189818991900190119021903190419051906190719081909191019111912191319141915191619171918191919201921192219231924192519261927192819291930193119321933193419351936193719381939194019411942194319441945194619471948194919501951195219531954195519561957195819591960196119621963196419651966196719681969197019711972197319741975197619771978197919801981198219831984198519861987198819891990199119921993199419951996199719981999200020012002200320042005200620072008200920102011201220132014201520162017201820192020202120222023List of Pacific hurricane seasonsThe following is a list of Pacific hurricane seasons. They all began on May 15 in the eastern Pacific and June 1 in the central Pacific in their respective years. There, they end on November 30. These dates are when tropical cyclones usually form in the eastern Pacific Ocean.
+
+Before the satellite age started in the 1960s, data on east Pacific hurricanes is extremely unreliable. Most east Pacific storms are of no threat to land.
+
+19501951195219531954195519561957195819591960196119621963196419651966196719681969197019711972197319741975197619771978197919801981198219831984198519861987198819891990199119921993199419951996199719981999200020012002200320042005200620072008200920102011201220132014201520162017201820192020202120221963 Atlantic hurricane seasonThe 1963 Atlantic hurricane season started on June 1, 1963, and ended in November 30, 1963.
+
+The most famous hurricane of the season was Hurricane Flora. It was one of the most deadly. It killed 7,200 people in Haiti and Cuba.
+
+A group of clouds in the central Atlantic became a tropical storm on July 31. It went to the west and it became a hurricane on August 2. The hurricane quickly became a category 2 hurricane with 100 mph (160 km/h) winds. Arlene got to Bermuda on August 9. Afterwards it got wind speeds of 100 mph (160 km/h) again that night. It got weaker until it left the tropics on August 11. No one died from it.
+
+Before Hurricane Beulah there was a tropical wave moving in the tropical Atlantic. It was put together enough to be called a tropical depression on August 20, and it became strong enough to be called a tropical storm the next day. Beulah moved to the northwest, becoming a hurricane on the 22nd and a big hurricane on the 24th. The hurricane moved to the north.
+
+A weak storm north of Puerto Rico moved northeast. It became a tropical depression on September 10. It became a tropical storm on the 11th. This small storm had 60 mph (100 km/h) winds on the 12th. That was the fastest the winds would become.
+
+Over the Gulf of Mexico Cindy turned into a tropical storm on September 16. Cindy turned into a hurricane the next day. It did not become any stronger before it got to High Island, Texas. Cindy brought a lot of rain to southeast Texas as it moved to the southwest over the state. The hurricane weakened on the 20th, after causing $12.
+
+5 million (1963 dollars) in damage. It killed three people.
+
+On September 19, a tropical wave became a tropical depression in the Atlantic Ocean. It turned into a tropical storm on the 21st. It did not hit the islands as it moved north. Debra became a hurricane later on the 21st.
+
+The Intertropical Convergence Zone developed a tropical depression on September 23, east of the Lesser Antilles. It moved west and it became a hurricane on the 24th. It went through the Windward Islands on the 25th as a hurricane with 95 mph (140 km/h) winds. Upper-level winds made it stay as a minimal hurricane before it got to Dominican Republic on the 27th. The island killed the hurricane. Edith was gone by the 29th. Edith killed ten people in Martinique, injured 50 people across the Caribbean, and caused $47 million in damage. It was unlucky that Hurricane Flora came just days later.
+
+Hurricane Flora was the deadliest hurricane of the season. It killed over 7,000 people and created hundreds of millions of dollars in damage.
+
+Ginny was strange. It is one of the most recent hurricanes to make landfall near New England. It made 18 inches (50 cm) of snow over Maine. The hurricane killed 7 people and created $300,000 in damage (1963 dollars).
+
+Tropical Storm Helena formed on October 25. It reached its maximum of 50 mph (80 km/h) before it hit the Lesser Antilles. Helena's strength changed a lot for the next 3 days. Though it was weak, Helena was able to kill 5 people and create $500,000 in damage.
+
+The following names were used for tropical storms and hurricanes that formed in Atlantic in 1963. Names that were not used are marked in gray.
+
+The name Flora was never used again.
+
+SildenafilSildenafil is an aphrodisiac. It is a medication that is also called Viagra, Revatio and (in the Indian subcontinent) Caverta.
+
+Sildenafil makes the blood vessels become wider. This lowers the blood pressure. Sildenafil mostly works in the penis and in the lungs. This medicine increases blood flow to the penis. This helps the penis become erect during sexual intercourse. Sildenafil also helps pulmonary hypertension. Because this medicine makes the blood vessels wider, it makes it easier for blood to flow. Sildenafil was patented in 1996 and first made to sell in 1998.
+
+18251825 was a common year.
+
+4 BCYear 4 BC was a common year starting on Tuesday or Wednesday of the Julian calendar. At the time, it was known as the Year of the Consulship of Sabinus and Rufus.
+
+Sylvester McCoyPercy James Patrick Kent-Smith or Sylvester McCoy (born 20 August 1943) is a Scottish actor. He is best known for playing the seventh incarnation of the Doctor on "Doctor Who" from 1987 to 1989, he also briefly played the Doctor in beginning of the 1996 TV movie. He has also appeared in The film adaptation of The hobbit film series ( 2012-2014) as Rangalf The Forrest wizard. And has also provided his voice for Two of heirloom audio productions adaptations of G.
+
+A henty's novels.
+
+To 1987 to 1989 McCoy has Portrayed The seventh incantation of Doctor Who for BBC TV, next to Tom baker and David tennant he is considered one of The best Dr.
+
+who Portrayals. In 2008 McCoy played The fool alongside Ian mckellen in The 2008 stage adaptation of King lear. He later appeared as Rangalf The Forrest wizard in The film adaptation of The hobbit series since 2012 To 2014 again alongside Ian Mckellen. He has also provided his voice in Two heirloom audio productions adaptation of G.
+
+A henty's novels, The cat of bubastes and The Dragon and The raven both in 2015.
+
+Paul McGannPaul McGann (born 14 November 1959) is an English actor. He is best known for his roles in "Withnail and I" (1987) and as the Eighth Doctor in the 1996 "Doctor Who" television movie.
+
+Georgia O'KeeffeGeorgia O’Keeffe (November 15 1887 – March 6 1986) was an American artist. She is known for her colorful close-up painting of flowers.
+
+She was born on November 15, 1887 on a farm in Sun Prairie, Wisconsin. O'Keeffe studied art at the Art Institute of Chicago and the Art Students League of New York.
+
+Georgia O'Keeffe married Alfred Stieglitz in 1924. Stieglitz was a famous photographer and he helped O'Keeffe gain success in her career. He owned the gallery which held her first solo exhibition.
+
+In 1929 O'Keeffe traveled to New Mexico. She was inspired by the desert and light. She moved there in 1949.

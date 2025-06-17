@@ -1,0 +1,75 @@
+"It is interesting that countries are blaming each other for cyber-attacks even though the information they put in the public domain often doesn't substantiate their claims," security expert Prof Alan Woodward told the BBC.
+
+He said that he would have thought that governments would be sure "beyond reasonable doubt" before making such serious accusations."
+
+The international community seems very quick to blame each other on the balance of probability which doesn't seem enough to me," he said.
+
+This week, the FBI added more to its theory that North Korea was behind the Sony Pictures hack in November, reiterating that IP addresses linked to the attack were used exclusively by the secretive nation.
+
+Prof Woodward questioned the FBI claims."
+
+None of these addresses were actually in North Korea. They were in Singapore, Taiwan and all over the place."
+
+He thinks that cybercrime is increasingly becoming part of the political agenda."
+
+It is interesting that all the rhetoric seems to be coming from countries that have existing tensions. They are using specific cyber-attacks for political point-scoring."
+
+German intelligence agencies have said that they face about 3,000 cyber-attacks each day. About five of these come from foreign intelligence agencies, the head of German domestic intelligence agency said recently.
+
+By . Paul Bentley . PUBLISHED: . 06:23 EST, 19 September 2012 . | . UPDATED: . 05:14 EST, 20 September 2012 . Weighing less than three stone, Emma O’Neil could not even lie down on a bed without bruising her fragile skin. Her body ravaged by anorexia, the private schoolgirl was repeatedly told by her doctors that hers was the worst case they had  ever seen. But Emma, then 14, took  their warnings as a badge of honour, proud to be seen as  the ‘best anorexic’. Recovery: Emma, 22, is now healthy and looking forward to the future eight years after she started to suffer from anorexia. Pictured, right, still painfully thin aged 20 . Now, after an eight-year recovery, . Emma has decided to release pictures of herself at her thinnest in a bid . to show other teens just how damaging an obsession with dieting can be. ‘At the time, I didn’t realise how ill I was. I didn’t realise what I was doing to myself and my family,’ said Emma, now 22. ‘I was so thin that I couldn’t even . sleep on a normal hospital bed. My bones were like razor blades jutting . out and I was left bruised. ‘Even an airbed was too rough for me, so they had to wrap me in my dressing gown and sheepskin blankets.’ Emma has set up a foundation with two friends, to help anorexics and their families . When she turned 14, Emma weighed seven stone and played competitive sport at her private school in Glasgow. But her weight quickly dropped after she developed an obsession with seeing how much she could lose. Within six months, it had plummeted to . just over five stone and she was admitted to Gartnavel hospital in . Glasgow, the first of many times she would stay at the hospital . throughout her teens. At her worst, she weighed a skeletal . 2st 12lb. ‘I can’t even really remember how it started,’ said Emma, now a . bar manager. ‘It certainly wasn’t a vanity thing, as I was a very . sporty teenager and wasn’t chubby at all. ‘I have a very addictive personality . and I remember trying to see how thin I could get.’ Emma began making . herself sick but after she was caught by her mother she decided to . starve herself instead. Her family begged her to eat but she . refused and had to be removed from school and admitted to hospital, . where she refused to be treated, pulling out feeding tubes. On one . occasion it took four nurses to hold her down to force-feed her. Two . years later, on a shopping trip with her father, Emma began to realise . the harm she was doing to herself. At one point, she felt so weak he had . to carry her up a flight of stairs. She later collapsed crossing a road . and only narrowly avoided being hit by a car. Emma was so thin at one point that even lying on a hospital bed left her bruised . ‘It was only then that I thought, “Maybe I’m not so well”, she said. ‘It wasn’t like a magic switch . suddenly turned on though. It was still a long and difficult journey. Anorexia was like a prison that I couldn’t escape from. ‘I could see the devastating effect . this was having on my parents and I didn’t know how to help them, but I . thought, “I can’t lose my family, they mean everything to me”.’ It has taken Emma a further six years . to come to terms with looking healthy. She refuses to weigh herself as . part of her treatment, but thinks she is now about eight stone. She has now set up a support group with two friends who also had anorexia. The Only Way Is Up Foundation aims to . visit hospitals to advise doctors and nurses on the best tactics they . can use to get anorexics to eat, while providing help to family members. ‘Only in the last year have I been at . semi-peace with myself. I have realised the most important things are . having a baby, having a career and having a healthy body to carry me . through life,’ Emma added. ‘Some of my friends I was in hospital with, who weren’t as ill as I was, have died. I’m so lucky to be here. ‘I want to take something positive from this horrible experience, and do all I can to help other people who are suffering.’
+
+The pom-pom parade stretches along Bedminster's North Street, to celebrate the start of British Summer Time.
+
+It is the idea of artist Vicky Harrison who said more than 700 volunteers have been involved in the production, aged from three to 93.
+
+Ms Harrison estimated the teams had made "about 10,000" of the eye-catching woolly balls.
+
+She said the pom-poms were put up to celebrate the start of British Summer Time on Sunday and for the whole community to come together to have fun."
+
+It's really captured  everyone's imagination and created a buzz about the streets,  young and old have all joined in," she said."
+
+We've had seven schools involved, community groups, families and people in residential care."
+
+They've come together and made 10,000 pom-poms to decorate the area and make people smile.
+
+Mo Farah has pulled out of the Great Edinburgh XCountry international challenge because of illness. The 5,000 metres and 10,000m Olympic champion was due to compete for Great Britain and Northern Ireland against the United States and Europe at Holyrood Park on Saturday. Farah told Athletics Weekly: 'Unfortunately I have to cancel my participation in the Great Edinburgh XCountry as I had the flu over the Christmas and New Year period and had to take some days off training. Mo Farah has pulled out of the Great Edinburgh XCountry international challenge owing to illness . Farah celebrates wining the Men's 5000m at the European Athletics Championship in August 2014 . 'My main goal for 2015 is the IAAF World T&F Championships in Beijing and I will keep training hard to defend my 5000m and 10,000m titles.' Farah also withdrew from last year's Commonwealth Games due to illness before winning double gold at the European Championships.
+
+When I wrote my post on natural user interface a couple months back (described by some as a “real barnstormer”), I glossed over most current forms of voice recognition. The problem as I saw it, and still see it, is that recognizing voice has to be bulletproof for it to be truly useful. Where computers fail at listening is that they can’t fill in the blanks. Even if I don’t catch every syllable (and I don’t, I’m a pretty bad listener), I usually know what someone’s saying — sometimes halfway through the sentence — based on context and logic. The other place where I win is that if I don’t understand someone, I can usually ask them to clarify. Voice systems like Ford SYNC ask you “did you mean…” but when you yell “no!” for the tenth time you end up right where you started, the AI functioning as a tabula rasa. What’s great about Apple’s new Siri virtual personal assistant is that it specifically addresses all three of these hangups.
+
+ContextSiri has access to your current location, your to-do list, and your calendar. Since it’s not operating blind, you don’t have to be as “computer precise” with your instructions. In the Siri section of Apple’s iPhone 4S demo video, our coif-tacular runner asks to move a meeting to noon, but Siri warns him that there’s already a meeting at that time. Thanks to Siri’s access of the address book, when you ask for directions home, it already knows what you’re talking about.
+
+More importantly, Siri has conversational context. In one example, packing-for-a-trip girl asks if it’s going to be chilly in San Francisco. When Siri responds no (including the temperature low), PFATG says “what about Napa Valley?” Siri knows she’s asking about the weather in Napa Valley due to the previous context of the conversation. This gets more important when you want to drill through the process of finding a restaurant, reading reviews, and finally booking a reservation — it’s all one conversation.
+
+LogicRecognizing context is a simple kind of logic, and very important for listening. When it comes to finding a good answer, however, a whole new level of logic is needed, and obviously this is the crux of Siri’s AI — all the hundreds of millions of dollars worth of it. One aspect I’m particularly excited about is the Wolfram Alpha integration. Wolfram Alpha makes more sense integrated into a personal assistant (like Siri) than subbing in as a search engine (like Google or Bing), and asking Siri to convert units or time zones, or to compare the land speed of Usain Bolt to a cheetah (my primary use for Wolfram Alpha revolves around such comparisons) is going to be endlessly useful / entertaining.
+
+ClarificationAs per Apple’s writeup of Siri: “Siri is proactive, so it will question you until it finds what you’re looking for.” This is incredibly important. The promise of the other features is tantalizing enough, but Siri will only be more than a gimmick if it can fail well, and keep asking me questions until it gets it right. It’s Siri’s ability to rephrase and clarify that will allow for truly natural conversation patterns — SYNC-style canned phrases are never going to cut it.
+
+BackgroundUltimately, there’s nothing new to these concepts. They just haven’t been really executed well, and there’s really no trick to AI execution — it’s just a lot of hard work. Siri started out in 2003 as “CALO” (Cognitive Assistant that Learns and Organizes), a DARPA-funded project with 300 crack researchers, which was then spun off as Siri in 2007. With eight or so years of development and millions of dollars of investment, Siri is pretty mature as far as AI goes — for comparison’s sake, IBM’s Watson was started in 2005, and only had a staff of 15 researchers working on DeepQA (with 30 or so additional researchers working on other aspects).
+
+Yesterday 9to5 Mac spoke with Norman Winarsky, who was involved in spinning off Siri after the CALO project ended and has been relentlessly self-promoting since rumors got hot and heavy of Apple’s re-release of Siri. He calls Apple’s “mainstreaming” of Siri a “world-changing event.” That might be a little hyperbolic, but I really hope it’s not.
+
+Only two problems…It all sounds very thrilling, but I just have two worries. First off, I don’t see any reasonable excuse from Apple for making this only work on the iPhone 4S. I’m sure Apple will say that only the A5 processor is somehow capable of this AI processing… but why can’t I just wait a couple more seconds for the decision? If the original Siri could run on a 3GS, why can’t the new version at least work on the iPhone 4? It seems super cynical and short sighted to me.
+
+My second problem is that from all the demos I’ve seen, there’s no way to input text into Siri — it’s voice only. Outside of the mere inconvenience of that (you’re in a loud place, you’re in a need-to-be-quiet place, you’ve been gagged by your kidnappers), it feels a bit like a vote of no confidence from Apple. If Siri’s AI is truly magnificent, wouldn’t it be the preferred method of input for most things, most of the time? The lack of text input implies to me that Apple only thinks Siri is an efficient way to get things done when you’re running or driving or folding laundry. So I wonder, is it really an efficient way to get things done at all?
+
+Interestingly, the original version of Siri (which has been pulled from the App Store, and will expire for existing users on October 16th) has a field for text input, so… take that for what you will. Maybe I’m making too much of this, or maybe I’m missing some perfectly legitimate reasoning, but what I’m basically saying is this: for AI to be more than a gimmick, it has to be treated like more than a gimmick. Until it’s vital and essential to an entire device experience, it’s only going to be a cool party trick.
+
+I’ll leave you on this heartwarming note:We made it, guys! ||||| SEOUL (Reuters) - Samsung Electronics said it will file patent-infringement claims in France and Italy to ban the sale of Apple's new iPhone less than a day after it was unveiled, intensifying a legal battle between the two top brands.
+
+It will also file legal cases in other countries to stop the sale of the iPhone 4S after further review, the South Korean maker of Galaxy smartphones and tablets said in a statement.
+
+Samsung has emerged as a credible challenger to Apple's mobile devices and the two companies are battling over patents in courtrooms around the world. They have sued each other in 10 countries involving more than 20 cases since April.
+
+The latest salvo from Samsung comes hours after Apple's newest iPhone launch left investors and Apple fans wishing for more than a souped-up version of its previous device introduced more than a year ago. Apple shares fell as much as 5 percent before recovering to close down 0.
+
+6 percent on Tuesday."
+
+Apple has continued to flagrantly violate our intellectual property rights and free-ride on our technology," the South Korean firm said in a statement. "We will steadfastly protect our intellectual property."
+
+Samsung said preliminary injunction requests for a ban on iPhone 4S sales will be filed on Wednesday and each case involves two patent infringements related to its wireless technology.
+
+Under French and Italian laws, companies can seek and courts can order a ban on sales of a product even before it hits the market, Samsung spokesman James Chung told Reuters.
+
+Apple and Samsung are vying for the top spot in the global smartphone market.
+
+But the intensifying legal battle with Apple threatens to derail Samsung's telecoms and component businesses. Apple is Samsung's biggest customer, buying mainly chips and displays.

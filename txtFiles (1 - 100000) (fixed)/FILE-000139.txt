@@ -1,0 +1,59 @@
+His contributions helped lay the foundations for all modern branches of physics, including quantum mechanics and relativity.
+
+Einstein was born in Ulm, Württemberg, Germany, on 14 March 1879. His family was Jewish, but was not very . However, later in life Einstein became very interested in his Judaism. Einstein did not begin speaking until he was 3 years old. According to his younger sister, Maja, "He had such difficulty with language that those around him feared he would never learn". When Einstein was around 4 years old, his father gave him a magnetic compass. He tried hard to understand how the needle could seem to move itself so that it always pointed north. The needle was in a closed case, so clearly nothing like wind could be pushing the needle around, and yet it moved. So in this way Einstein became interested in studying science and mathematics. His compass gave him ideas to the world of science.
+
+When he became older, he went to school in Switzerland. After he graduated, he got a job in the patent office there. While he was working there, he wrote the papers that first made him famous as a great scientist.
+
+Einstein married with a 20-year-old Serbian woman Mileva Marić in January 1903.
+
+In 1917, Einstein became very sick with an illness that almost killed him, fortunately he survived. His cousin Elsa Löwenthal nursed him back to health. After this happened, Einstein divorced Mileva on 14 February 1919, and married Elsa on 2 June 1919.
+
+Einstein's first daughter was Lieserl Einstein. She was born in Novi Sad, Vojvodina, Austria-Hungary on January 27, 1902. She spent her first years in the care of Serbian grandparents because her father Albert did not want her to be brought to Switzerland, where he had a job offer at the patent office. Some historians believe she died from scarlet fever.
+
+Einstein's two sons were Hans Albert Einstein and Eduard Tete Einstein. Hans Albert was born in Bern, Switzerland in May 1904. He became a professor in Berkeley (California). Eduard was born in Zürich, Switzerland in July 1910. He died at 55 years old of a stroke in the Psychiatric University Hospital Zurich "Burghölzli" . He had spent his life in and out of hospitals due to his schizophrenia.
+
+In spring of 1914, he moved back to Germany, and became ordinary member of the Prussian Academy and director of a newly established institute for physics of the Kaiser-Wilhelm-Gesellschaft. He lived in Berlin and finished the General Theory of Relativity in November 1915. In the Weimar Republic, he was politically active for socialism and Zionism. In 1922, he received the Nobel prize for Physics for his explanation of the photoelectric effect in 1905. He then tried to formulate a general field theory uniting gravitation and electromagnetism, without success. He had reservations about the quantum mechanics invented by Heisenberg (1925) and Schrödinger (1926). In spring of 1933, Einstein and Elsa were traveling in the US when the Nazi party came to power. The Nazis were violently antisemitic. They Einstein's relativity theory "Jewish physics," and some German physicists started polemics against his theories. Others, like Planck and Heisenberg, defended Einstein.
+
+After their return to Belgium, considering the threats from the Nazis, Einstein resigned from his position in the Prussian Academy in a letter from Oostende. Einstein and Elsa decided not to go back to Berlin and moved to Princeton, New Jersey in the United States, and in 1940 he became a United States citizen.
+
+Before World War II, in August 1939, Einstein at the suggestion of Leó Szilárd wrote to the U.
+
+S. president, Franklin D. Roosevelt, to say that the United States should invent an atomic bomb so that the Nazi government could not beat them to the punch. He signed the letter. However, he was not part of the Manhattan Project, which was the that created the atomic bomb.
+
+Einstein, a Jew but not an Israeli citizen, was offered the presidency in 1952 but turned it down, stating "I am deeply moved by the offer from our State of Israel, and at once saddened and ashamed that I cannot accept it." Ehud Olmert was reported to be considering offering the presidency to another non-Israeli, Elie Wiesel, but he was said to be "very not interested".
+
+He did his research on gravitation at the Institute for Advanced Study at Princeton, New Jersey until his death on 18 April 1955 of a aortic aneurysm. He was still writing about quantum physics hours before he died.
+
+He was awarded the Nobel Prize in Physics.
+
+In 1905 he came up with a theory that light was made of small particles called photons . Using this theory he was able to explain the photoelectric effect. The formula relating the energy and frequency of a photon is formula_2. This means that higher frequency light has more energy per photon.
+
+The photoelectric effect happens when light shining on a metal surface causes it to emit electrons. The difficulty for the classical wave theory was to explain why this effect only seems to occur for high frequency light such as UV, but not lower frequency such as red or infrared.
+
+Einstein showed that, since higher frequency light has photons with more energy, it has a greater chance of forcing electrons out of the metal.
+
+Einstein was also able to explain other phenomena with photons, such as fluorescence and ionization. In 1921 he was awarded the Nobel Prize for this discovery.
+
+The theory of special relativity was published by Einstein in 1905, in the paper "On the Electrodynamics of Moving Bodies". It says that both distance measurements and time measurements change near the speed of light. This means that as one get closer to the speed of light (nearly 300,000 kilometres per second), lengths appear to get shorter, and clocks tick more slowly. Einstein said that special relativity is based on two ideas. The first is that the laws of physics are the same for all observers that are not moving in relation to each other.
+
+Things going in the same direction at the same speed are said to be in an inertial frame.
+
+People in the same "frame" measure how long something takes to happen. Their clocks keep the same time. But in another "frame" their clocks move at a different rate. The reason this happens is as follows. No matter how an observer is moving, if he measures the speed of the light coming from that star it will always be the same number.
+
+Imagine an astronaut were all alone in a different universe. It just has an astronaut and a spaceship. Is he moving? Is he standing still? Those questions do not mean anything. Why? Because when we say we are moving we mean that we can measure our distance from something else at various times. If the numbers get bigger we are moving away. If the numbers get smaller we are moving closer. To have movement you must have at least two things. An airplane can be moving at several hundred kilometers per hour, but passengers say, "I am just sitting here."
+
+Suppose some people are on a spaceship and they want to make an accurate clock. At one end they put a mirror, and at the other end they put a simple machine. It shoots one short burst of light toward the mirror and then waits. The light hits the mirror and bounces back. When it hits a light detector on the machine, the machine says, "Count = 1," it simultaneously shoots another short burst of light toward the mirror, and when that light comes back the machine says, "Count = 2." They decide that a certain number of bounces will be defined as a second, and they make the machine change the seconds counter every time it has detected that number of bounces. Every time it changes the seconds counter it also flashes a light out through a porthole under the machine. So somebody outside can see the light flashing every second.
+
+Every grade school child learns the formula d=rt (distance equals rate multiplied by time). We know the speed of light, and we can easily measure the distance between the machine and the mirror and multiple that to give the distance the light travels. So we have both d and r, and we can easily calculate t. The people on the spaceship compare their new "light clock" with their various wrist watches and other clocks, and they are satisfied that they can measure time well using their new light clock.
+
+Now this spaceship happens to be going very fast. They see a flash from the clock on the space ship, and then they see another flash. Only the flashes do not come a second apart. They come at a slower rate. Light always goes at the same speed, d = rt. That is why the clock on the spaceship is not flashing once a second for the outside observer.
+
+Special relativity also relates energy with mass, in Albert Einstein's E=mc formula.
+
+E=mc, also called the "mass-energy equivalence", is one of the things that Einstein is most famous for. It is a famous equation in physics and math that shows what happens when mass changes to energy or energy changes to mass. The "E" in the equation stands for energy. Energy is a number which you give to objects depending on how much they can change other things. For instance, a brick hanging over an egg can put enough energy onto the egg to break it, but a feather can not.
+
+There are three basic forms of energy: potential energy, kinetic energy, and rest energy. Two of these forms of energy can be seen in the examples given above, and in the example of a pendulum.
+
+A cannonball hangs on a rope from an iron ring. A horse pulls the cannonball to the right side. When the cannonball is released it will move back and forth as diagrammed. It would do that forever except that the movement of the rope in the ring and rubbing in other places causes friction, and the friction takes away a little energy all the time. If we ignore the losses due to friction, then the energy provided by the horse is given to the cannonball as potential energy. (It has energy because it is up high and can fall down.) As the cannonball swings down it gains more and more speed, so the nearer the bottom it gets the faster it is going and the harder it would hit you if you stood in front of it. Then it slows down as its kinetic energy is changed back into potential energy. "Kinetic energy" just means the energy something has because it is moving. "Potential energy" just means the energy something has because it is in some higher position than something else.
+
+When energy moves from one form to another, the amount of energy always remains the same. It cannot be made or destroyed. This rule is called the "conservation law of energy". For example, when you throw a ball, the energy is transferred from your hand to the ball as you release it. But the energy that was in your hand, and now the energy that is in the ball, is the same number. For a long time, people thought that the conservation of energy was all there was to talk about.

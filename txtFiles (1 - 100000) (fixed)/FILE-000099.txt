@@ -1,0 +1,127 @@
+There can be more than one mode. For example, if there are 10 people in a room with incomes of $10, $20, $20, $20, $50, $60, $90, $90, $90, $100, and $1,000,000, the modes are $20 and $90. This is bi-modal, or has two modes. Bi-modality is very common, and it often indicates that the data is the combination of two different groups. For instance, the average height of all adults in the U.
+
+S. has a bi-modal distribution. This is because males and females have separate average heights of 1.
+
+763 m (5 ft 9 + 1⁄2 in) for men and 1.
+
+622 m (5 ft 4 in) for women. These peaks are apparent when both groups are combined.
+
+The mode is the only form of average that can be used for data that can not be put in order.
+
+Another thing we can say about a set of data is how spread out it is. A common way to describe the spread of a set of data is the standard deviation. If the standard deviation of a set of data is small, then most of the data is very close to the average. If the standard deviation is large, though, then a lot of the data is very different from the average.
+
+The standard deviation of a sample is generally different from the standard deviation of its originating population . Because of that, we write formula_7 for population standard deviation, and formula_8 for sample standard deviation.
+
+If the data follows the common pattern called the normal distribution, then it is very useful to know the standard deviation. If the data follows this pattern (we would say the data is "normally distributed"), about 68 of every 100 pieces of data will be off the average by less than the standard deviation. Not only that, but about 95 of every 100 measurements will be off the average by less than two times the standard deviation, and about 997 in 1000 will be closer to the average by less than three standard deviations.
+
+We also can use statistics to find out that some percent, percentile, number, or fraction of people or things in a group do something or fit in a certain category.
+
+For example, social scientists used statistics to find out that 49% of people in the world are males.
+
+In order to support statisticians, many statistical software have been developed:SpeedSpeed is a measure.
+
+It is velocity but without the direction.
+
+Speed is the distance an object moves in a given amount of time.
+
+The distance is never negative.
+
+If a train takes 1 hour to travel 100 kilometers, it has a speed of .
+
+In fact this is the "average speed".
+
+During this one hour, the train may become slower and faster, it may even drive backwards.
+
+The average speed of an object in a certain time is the distance the object traveled divided by the time.
+
+The instantaneous speed is the average speed when the time is very small, almost zero.
+
+There are many units of measurement.
+
+Since the 20th century following units were widely used by humans:Different units are used for different applications.
+
+People controlling planes and ships frequently use Knot (speed).
+
+Sometimes a Mach number is used.
+
+The smallest speed is .
+
+A “negative speed” would be in fact a velocity.
+
+The biggest speed is the speed of light.
+
+You can write bigger speeds, but they are not possible in this universe.
+
+Server logA server log records what is happening on a server at any time. For example, an HTTP server runs a web site.
+
+ServerIn net jargon, a server is a computer that serves many kinds of information to a user or client machine. Usually a server will only do a few things for many clients. Every type of thing a server does is called a service. Services are used by other computers that are called clients. The relationship between client and server is called a client-server relationship. For example, Wikipedia has web servers which have a service for sending web pages over the Internet. Your client computer talks to Wikipedia's web page service to get web pages for you. A server can also host internet games, share files, and give access to peripheral equipment such as printers. In simple words, the individual computers are connected to some powerful computers called servers. These store files and information in the form of website. With an Internet connection, different users anywhere in the world can access these files.
+
+For servers and clients to talk to each other, they need to be connected to a network. They need to use the same communication protocol, a set way for machines to talk to other machines. It is like a language. For example, the Wikipedia server runs the HTTP to send web sites to your computer, and your computer uses the HTTP Protocol to ask Wikipedia for pages.
+
+Usually, servers are specially made to be more powerful and reliable. They are usually more expensive than normal computers. Sometimes, servers can be clustered, which means many servers are working together to do one service.
+
+The server might slow down if there are too many people accessing the server at the same time, resulting in a high load. An overloaded server might also shut itself down automatically.
+
+In a peer-to-peer system, every computer is both a client and a server to the others. This is commonly put into file sharing and VOIP. However, this can help in attempts at piracy.
+
+Typical server operating systems are Linux, FreeBSD, NetBSD, and OpenBSD. Unlike other computers, a server often has no monitor, keyboard, or mouse. When a server doesn't have to do very much, server software can run on a computer that is also doing other things.
+
+Initially, such servers were connected to clients known as terminals that did not do any actual computing. These terminals, referred to as "dumb terminals", existed simply to accept input via a keyboard or card reader and to return the results of any computations to a display screen or printer. The actual computing was done on the server. Servers also have a special ip number that other devices use to find the servers.
+
+A web server is a type of server that is used to host websites. Examples of web server software include Apache or IIS. A web server can host one, or many, websites. The default port for a web server to listen to is port 80 (HTTP) or 443 (HTTPS).
+
+Some web servers do other things than just serving a web page. For example, they may have something called SSI that makes building a website easier.
+
+Web servers use services like CGI to let software on the server make web pages. Some of the programming languages that can use CGI are scripting languages like Perl, Python, PHP, or ASP. Some are compiled languages like C++ or Java.
+
+SimileA simile is a figure of speech that compares two different things, usually by using the words 'like' or 'as'. It is used to make a "direct and clear comparison between two things .
+
+Similes" may be confused with metaphors, which do the same kind of thing. Similes use comparisons, with the words 'like' or 'as'. Metaphors use indirect comparisons, without the words 'like' or 'as'.
+
+StateIn politics, a state is the government of a country which has control over a geographic area or territory. States have three main features:There are different forms of government a state may have, for example a republic or a monarchy. Sometimes states form their own countries. In its origin the United States had different kinds of states, but they agreed to join together. Most states also have armed forces, civil service, law and police.
+
+Government institutions in a country are commonly referred to as "the state".
+
+The definition above is very broad. It is based on ideas by Georg Jellinek (1851-1911). Other people had other ideas:Because of the different definitions, there's no universally accepted definition of state. The one given at the start of the article is now part of international law.
+
+The earliest states could not be just human settlements. They had to be more than tribes. An example is New Guinea, which has many small tribes, but no larger organisations. Amazonia in the 18th century was also like this, with many small tribes. They are not states. To be a state, tribes have to be bounded together, for example, by a monarch. They may also be bonded by their language, and by living in the same region.
+
+An example of monarchy is early Egypt under the Pharaohs. Similar military-based states included the Babylonian Empire and the huge Roman Empire and early China.
+
+Some early states were based on cities. Some Ancient Greek city-states had democracy in a limited form. Other states had inheritance of kingship or even challenges and fighting to decide leadership. Early city states had a feature that modern society cannot match. Every man got to see and know the leading citizens. "Man" because most city-states limited the vote to male heads of families. One reason was that the adult men would do the fighting if the group were attacked.
+
+When the military-based state, the Roman Empire, fell, lots of little states were made and each was also military-based and controlled by a king. These states did not often work together and war raged. However, once people within the state itself started fighting (what's called a Civil war), the kings had to make peace and start parliaments.
+
+Modern states soon started in the late 15th century. The main states in Europe were:These states all tried to improve their politics and economy. They became more and more like the states today. They formed proper boundaries for their lands and worked with the powers in the state, such as the Church and the nobility. They made armies, tax systems and embassies to make them more powerful and stable.
+
+Types of state can be separated into two categories: democracy and dictatorship. However, just because a group of states are all democratic does not mean that they follow the same rules. Iran, Pakistan, France, Germany and the United States of America are all states. Each of them sees itself as a democracy. Each of them however has a different idea of what "democracy" really means.
+
+Different states of the same 'category' can also function differently. For example, two democratic states may be quite different if one has a well-trained police or army while the other does not. Therefore, the word 'state' only tells us what type of government that state follows (democratic or dictatorship) and does not tell us about the country itself.
+
+There are lots of sub-types of state branching off from democracy and dictatorship. The main ones are Pluralism, Marxism and Institutionalism.
+
+Pluralism has been very popular in the United States. It shows the state as a neutral place for settling arguments between other states. Pluralism allows each group of people to tell the state what to do. This type of state is called a polyarchy.
+
+Also in a pluralist state, politics, the military and the economy are all united and work together. This means that all power in the state is 'diffused' across the people who live there.
+
+Marxism is an ideology advocating for the rights of workers and labourers of society. It was started by Karl Marx and Friedrich Engels. Marxism rejects the idea that a state is there to protect business interest, and is definitely not a neutral place for settling arguments.
+
+The main job of a Marxist state is to protect the labour and financial situation of the working classes. With such reforms, a Marxist state focuses on collectivising resources and creating a planned economy to ensure the well-being of the workers.
+
+Both Marxist and Pluralist states have to react to the activities of groups of people in the state itself. Institutionalist states do not see themselves as 'instruments' to be controlled, they are more just geographical areas. In this area, the people just form groups themselves. An institutionalist state can be made up of both Marxist and Pluralist people, both which have the power to control themselves and not influence the other parties of the state.
+
+Anarchism is when a group of people have complete freedom and do not believe in having a state at all. Anarchists are a lot like Marxists, but they believe (opposite to Marxists) that a country can work without without a state forcing people to do anything. Law and order are not necessary.
+
+Anarchists (such as Bakunin and Kropotkin in the 19th century), often want a form of Marxism but ignoring some of their rules. They want workers to manage themselves and simply get paid for what they do, rather than getting paid in wages.
+
+StreamA stream is a natural flow of water moving across land between banks. It is smaller than a river.
+
+The primary meaning of stream is a body of water, confined within a bed and banks, and detectably flowing. Synonyms or related words include river, creek, tributary, run, branch, brook, bourne, wash, and fork. Navigable streams are sometimes called waterways, though the term may apply to any size of permanent and natural water feature except oceans.
+
+In the United States, an intermittent stream that only flows for part of the year is marked on topographic maps with a line of blue dashes and dots. In desert areas of the American Southwest, this also includes washes, which only flow after thunderstorms or other significant rains. A blue-line stream is one which flows for most or all of the year and is marked on topographic maps with a solid blue line. In Australia, an intermittent stream is usually called a creek, and marked on topographic maps with a solid blue line.
+
+Streams that form only during and immediately after precipitation are called ephemeral streams.
+
+Streams in geographic terms are awarded order designations. A stream of the first order is a blue-line stream which does not have any other blue-line stream feeding into it. A stream of the second order is one which is formed by the joining of two or more blue-line streams. A third-order stream is one below the confluence of two or more second-order streams; a fourth-order stream is formed by the confluence of at least two third-order streams, and so forth.
+
+Typically, streams are said to have a particular profile, beginning with steep gradients, no flood plain, and little shifting of channels, eventually evolving into streams with low gradients, wide flood plains, and extensive meanders. The initial stage is sometimes termed a "young" stream, and the later state a "mature" or "old" stream. However, a stream may meander for some distance before falling into a "young" stream condition.

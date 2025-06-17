@@ -1,0 +1,109 @@
+In 1941 he became Commander of United States Army forces in the Far East. From December 1941 to April 1942 the Japanese Army conquered the Philippines. He fled, but later returned leading a victorious army.
+
+In 1950 he led United Nations forces in Korea. The Chinese defeated them at the Chosin Reservoir in North Korea. After making several comments towards superiors questioning their actions, he was relieved from command in April 1951 by President Harry S Truman He was born in Little Rock, Arkansas, in 1880 and died in Washington, D.
+
+C., in 1964.
+
+TwitterX, originally branded as Twitter, is a social networking and microblogging service. Users use any device with an internet connection and a web browser to send and to read messages, called "tweets". For years, tweets could be up to 140 characters long, then doubled to 280 characters in November 2017. Tweets appear on the user's profile webpage. Tweets can usually be read by anyone, but senders can also keep messages private. Private tweets only go to their list of friends. Users may subscribe to tweets from other people. This is called "following", and subscribers are known as "followers". As of late 2009, users can also follow lists of authors.
+
+All users can send and receive tweets using the Twitter website. They can also use other applications that work with Twitter on smartphones. Twitter by Short Message Service (SMS) is available in certain countries. Using Twitter is free, but sending or getting tweets by SMS may cost money. The website is based in San Francisco, California. Twitter also has servers and offices in San Antonio, Texas and Boston, Massachusetts, and soon in Salt Lake City, Utah.
+
+Twitter has become very popular worldwide since Jack Dorsey created it in 2006. It now has more than 126 million users. It is sometimes described as the "SMS of the Internet".
+
+On April 25, 2022, the Twitter board of directors agreed to Elon Musk's US$44 billion offer to buy the company. On October 27, 2022, Elon Musk took control of the company and fired CEO Parag Agarwal along with other top executives.
+
+Twitter started at a podcasting company Odeo. The company board members had a "daylong brainstorming session". During the meeting, Jack Dorsey introduced the idea of one person using an SMS service to communicate with a small group. At first, they called this project "twttr". It fit the five-character length of American SMS short codes and sounded like "Flickr". At first, the developers planned to use "10958" as a short code. Later they changed it to "40404" because it was easier to remember and type. Dorsey sent the first Twitter message at 9:50 PM Pacific Standard Time (PST) March 21, 2006. The first tweet was, "just setting up my twttr."
+
+The first version of Twitter was only for Odeo employees to use. They opened the full version for anyone to use on July 15, 2006. In October 2006, Biz Stone, Evan Williams, Dorsey, and other members of Odeo started a new company called Obvious Corporation. Obvious Corporation bought Odeo and all of its property–including Odeo.
+
+com and Twitter.
+
+com–from the investors and shareholders. Twitter became its own separate company in April 2007.
+
+Twitter started becoming very popular after the 2007 South by Southwest (SXSW) festival. During the event, Twitter usage increased from 20,000 tweets per day to 60,000. The Twitter company set up two very large computer screens in the hallways at the conference. These screens only showed Twitter messages. Hundreds of people at the conference checked on what each other were doing by looking at the many tweets. Panelists and speakers talked about Twitter. Bloggers at SXSW described it to others in a very positive way.
+
+Reaction at the festival was very good. Blogger Scott Beale said that Twitter "absolutely rul[ed]" SXSW. Social software researcher Danah Boyd said Twitter "own[ed]" the festival. Twitter staff won the festival's Web Award prize. They said, "we'd like to thank you in 140 characters or less. And we just did!"
+
+On September 14, 2010, Twitter changed the site design and added a new logo. On June 5, 2012, the Twitter logo was modified slightly and the text in the Twitter logo was removed.
+
+On October 4, 2010, Evan Williams announced that he would not be CEO any more. Dick Costolo became the new CEO. He had been COO of Twitter. Williams will stay with the company and work on plans for the future of Twitter.
+
+In April 2022, Elon Musk became the company's owner after buying it for USD $44 billion.
+
+On July 24, 2023, Musk announced that he was changing the name of Twitter to X. He replaced the blue bird logo with an X.
+
+Technology author Steven Johnson described the basic way Twitter works. He called it "remarkably simple." Following is an important part of Twitter as a social network. Users' Twitter home pages show all of the tweets from people they follow. The tweets appear from newest to oldest. Johnson said:Twitter is mainly used by older adults who might not have used other social sites before Twitter. Jeremiah Owyang studies social media. He said, "Adults are just catching up to what teens have been doing for years." Only 11% of Twitter's users were 12 to 17 years old in September 2009. This may be because Twitter first gained popularity in businesses and news media that attract more older people. Many famous people such as Shaq, Britney Spears, and Ashton Kutcher are Twitter users.
+
+In June 2009, more women than men used Twitter—53% women; 47% men. Only 5% of users made 75% of all tweets. Also, New York City had the most Twitter users.
+
+This is a brief summary of Twitter users as of 3 September 2009.
+
+Twitter is one of the 10 most visited websites in the world.
+
+People can use software from other companies to access Twitter. These programs are called "third-party applications". The Twitter company changed the way this works on 31 August 2010. Now applications must use OAuth to connect to Twitter. This method means that users do not have to give their passwords to the third-party applications. Changing the login system to OAuth did cause some problems. Using OAuth had been optional and programs used to be able to ask for usernames and passwords. However, now third-party applications that try to use a username and password do not work at all. The Twitter company said that using OAuth will give users "increased security and a better experience."
+
+On April 30, 2009, Twitter changed the way it looks on the web. They added a search bar and a space on the right side of the page with "Trending Topics". That space shows the most common phrases appearing in messages. Biz Stone explained that all messages are instantly indexed and explained the results of the change. The Trending Topics has made Twitter something "unexpectedly important — a discovery engine for finding out what is happening right now."
+
+Sometimes Twitter users experience a problem with the service and cannot access the website. They cannot read or write tweets but only see the "Fail Whale" image created by Yiying Lu,Twitter worked well approximately 98% of the time in 2007. That is about six full days of no service. The problems were particularly noticeable during events popular with the technology industry such as the 2008 Macworld Conference & Expo keynote address.
+
+Twitter developed several software projects to improve their own service. The company shared these as open source software. Some of these software projects are related to databases, such as the Gizzard Scala framework and a distributed graph database called FlockDB.
+
+t.
+
+co is a service created by Twitter to make URLs shorter. It can only be used for links that people post to Twitter. It is not available for other uses. Eventually all links on Twitter will use t.
+
+co. The company hopes that the service will protect users from harmful websites. They will also use it to keep a record of people clicking on links in tweets.
+
+Twitter had used the services from other sites such as TinyURL and bit.
+
+ly. They began trying their own way of making URLs shorter for direct messages in March 2010. They used the domain, twt.
+
+tl, before they bought the t.
+
+co domain.
+
+The company is using these accounts to test the service on the main site: @TwitterAPI, @rsarver, and @raffi.
+
+On September 2, 2010, Twitter sent an email message to users to explain that they were starting to open the service to them.
+
+Twitter can also be used as an amateur and professional news source.
+
+MicroblogA microblog is a form of a blog where people send short messages of text or media (pictures, video, or sounds). These messages can be sent to a website and shown to either a small group or to the public. A "microblogger" (someone who uses a microblog) could send their messages from different sources including cell phone text messages, email, instant messages or through a website.
+
+A microblog is usually different from a normal blog. It has much smaller pieces. A microblog entry can be just one sentence, or a link to an image or short video. A person writing a microblog can use many ideas from "what am I doing now," to Race cars or politics or information about their business or personal life.
+
+Micro blogs are in use in many ways on different websites. They became popular with sites like Twitter where people send messages to each other with text comments or links to other media. Newer sites are also available now which allow you to share media like videos, pictures or sounds directly instead of sending a link.
+
+Many social networking sites (such as Facebook or MySpace) use a type of microblogging using "status updates" where the person tells their friends what they are thinking or doing.
+
+A Harvard Business School study found that while most social networking websites are more popular with women microblogging, like Twitter, has been much more popular with men. Both men and women "followed" more men, this allows them to receive the messages that get sent out by the person they followed.
+
+Micro blogs have also become new sources for news that just happened or is still happening, such as the terrorist attacks on Mumbai in November 2008.
+
+A new idea for Micro blogging has been to turn it into a way to talk to other people about work. It allows a person to give quick news or information to the people they work without sending a lot of emails and without the spam they get in their email account. New companies such as Yammer have been started who want to help allow workers to talk to each other with about work and share what they need.
+
+Clarkson UniversityClarkson University is a four-year school in Potsdam, New York. It was created in 1896 in Memory of Mr. Clarkson. It is known for its Business and Engineering majors.
+
+OmegleOmegle was a website that allows one to talk with one person anonymously and randomly without signing up. The nicknames that are used are "You" and "Stranger". It was started in late March 2009 by an eighteen-year-old, Leif K-Brooks, who lives in Vermont.
+
+On November 8, 2023, Leif K-Brooks announced Omegle's shutdown, attributing it to insurmountable challenges and highlighting his efforts to maintain user safety amidst growing misuse and societal fear.
+
+The website has started using a lot of new things in the chat. One thing is that people can chat using webcams. Another feature of Omegle (which has since been removed from the website) was that one person could ask something while watching two other strangers discussing it. Usually, the asker couldn’t talk, but they could watch them discuss the question. You can also type in common interests, these will only connect you to people who have the same interests.
+
+The website does not ban users because of their age. A user may experience nudity or sexual content on camera. K-Brooks says, that at one time, he felt "disappointment" at the way in which the site has been used. Since 2013, Omegle has monitored the video chats. There is a moderated video section and an unmoderated video section. The unmoderated video section is for adults who are 18 and over. The moderated video section is for everyone. If someone is seen naked on the moderated video section, they will be banned and only be able to use the unmoderated section.
+
+Kowloon Walled CityKowloon Walled City was a tiny Chinese enclave in Hong Kong.
+
+It was a military fort for hundreds of years, but later became a very dense settlement. In 1980, the city had about 35,000 people on about 20,000 m² of land, making it one of the most densely populated places on earth. It was torn down in 1993, and a park called Kowloon Walled City Park was built in 1994.
+
+The area where Kowloon Walled City was located is now called Kowloon City. It is part of the Kowloon City District of Kowloon, Hong Kong. At the end of the whole destruction process of the Kowloon Walled City, 51% of people had to go to temporary housing just outside the walled city. When they destroyed the walled city it was hard to destroy all the walled city's machinery. The walled city was known for its brothels, dentists, and opium houses.
+
+LunchLunch is a meal that is usually eaten around noon or in the early afternoon. In most countries, it is the second meal of the day, after breakfast and before dinner. A lunch can be cold (bread and fruit) or hot (a full meal, like a dinner). People that go to work or school during the day, usually have lunch together with their coworkers or classmates. Some people bring lunch to work or school in a brown paper bag or a lunchbox, but you can also buy lunch at a restaurant. In some countries, lunch is the most important meal of the day.
+
+Yoshihiro NishidaYoshihiro Nishida (born 30 January 1973) is a former Japanese football player.
+
+166||6||8||1||24||0||198||7166||6||8||1||24||0||198||7Koji MaedaKoji Maeda (born 3 February 1969) is a former Japanese football player.
+
+191||11||19||1||33||0||243||12191||11||19||1||33||0||243||12Vincent KompanyVincent Kompany (born 10 April 1986) is a Belgian former football player and football manager of Championship club Burnley.
+
+AnderlechtHamburger SVManchester CityBelgiumIndividualAnderlechtBurnleyIndividualTakeo Harada319||15||30||0||30||0||379||15319||15||30||0||30||0||379||15Gerard Piqué

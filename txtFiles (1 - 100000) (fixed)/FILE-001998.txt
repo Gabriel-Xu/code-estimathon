@@ -1,0 +1,37 @@
+The word "obelus" comes from the Greek word for a sharpened stick, spit, or pointed pillar. This is the same root as that of the word "obelisk". The obelus was first used as a symbol for division in 1659, in the algebra book "Teutsche Algebra" by Johann Rahn. Today, the obelus is used occasionally, mostly as a standalone symbol for the division operation itself (as on a calculator), or as an operator in elementary arithmetic. In most cases, division is now represented using other ways, often by a forward slash (/), also known as "solidus".
+
+Vinculum (symbol)A vinculum is a horizontal line put over a mathematical expression. It shows that it belongs together as a group. ("Vinculum" is Latin for "chain".)
+
+Examples are:1. groups of digits repeating forever, for example,2. fractions3. radicals (in the following example the quantity formula_3 is the radicand, and thus has a vinculum over it):Colon (punctuation)The colon (":") is a punctuation mark, simply consisting of two equally sized and vertically aligned dots.
+
+A colon is a more significant pause than a semicolon. It is usually used to contrast two parts of a sentence:The colon's first appearance in English text is marked by the "Shorter Oxford English Dictionary" as 1589.
+
+A special double-triangle colon symbol is used in IPA to indicate that the preceding sound is long. Its form is that of two triangles, each a bit larger than a point of a standard colon, pointing toward each other. It is available in Unicode as modifier letter triangular colon, Unicode U+02D0 (). A regular colon is often used as a fallback when this character is not available, or in the practical orthography of some languages (particularly in Mexico), which have a phonemic long/short distinction in vowels.
+
+The colon is also used in mathematics, cartography, model building and other fields to denote a ratio or a scale, as in 3:1 (pronounced "three to one"). A betting odd of the form formula_1 corresponds to the probability formula_2. Unicode provides a distinct ratio character, Unicode U+2236 () for mathematical usage.
+
+In many non-English-speaking countries, the colon is used as a division sign: ""a divided by b"" is written as a : b.
+
+The combination with an equal sign, formula_3, is used for definitions.
+
+In computing, the colon character is represented by ASCII code 58, and is located at Unicode code-point U+003A. The full-width (double-byte) equivalent, ：, is located at Unicode code point U+FF1A.
+
+The colon is quite often used as a special control character in many operating systems commands, URLs, computer programming languages, and in the path representation of several file systems. It is often used as a single post-fix delimiter, signifying the immediate precedence of a token keyword or the transition from one mode of character string interpretation to another related mode. Some applications, such as the widely used MediaWiki, use the colon as both a pre-fix and post-fix delimiter.
+
+For a double-colon, "::" the meaning has included the use of ellipsis, as spanning over omitted text; however, there have been other meanings as well.
+
+On the Internet (online chats, email, message boards, etc.), a colon or multiple colons is sometimes used to denote an action or emote. In this use, it has the inverse function of quotation marks—denoting actions where unmarked text is assumed to be dialog. For example:Colons may also be used for sounds (as with ":Click:"). One can contrast this use with the use of outer asterisks (for example, *cough* would denote that the speaker is coughing, as opposed to saying the word 'cough').
+
+It also has the widespread usage of representing two vertically aligned eyes in a emoticon, such as :-), :( :P, :D, :3, etcColonColon could mean:Tomorrow Never KnowsTomorrow Never Knows is a song from The Beatles's "Revolver" album, from 1966.
+
+John Lennon wrote the song based on his readings of "The Psychedelic Experience", which adapted the "Tibetan Book of the Dead" for use as an LSD "user's manual", intending to give users a kind of religious experience. The song's title came from his bandmate Ringo Starr, who was known for his but insightful comments about life.
+
+Lennon wanted the sound of monks , to complement the Beatles' recording of the song. It was not possible to do this, but Lennon's voice was played through a special speaker (called a Leslie speaker), to give it a sound, like a voice calling from a hilltop. Other sounds on the record came from tape loops, playing over and over, and from a sitar.
+
+The song has also been recorded by other artists. A dance cover version appeared in the 1990s.
+
+Gone with the Wind (movie)Gone with the Wind is a 1939 American movie based on Margaret Mitchell's book of the same name. It premiered in Atlanta, Georgia. It stars Vivien Leigh, Clark Gable, Leslie Howard and Olivia de Havilland. The movie tells the story of the American Civil War from the perspective (view point) of a young southern woman named Scarlett O'Hara. The movie was very popular at the time. Considering inflation, it is the highest-grossing movie yet made. The movie has been criticized for inaccurately showing slavery and the South, but the movie changed how African Americans appeared on the screen. "Gone with the Wind" is considered one of the greatest movies of all time.
+
+It is the year 1861 and right before the American Civil War. Scarlett O'Hara lives with her parents, two sisters, and slaves at a plantation in Georgia. The plantation is called Tara. Scarlett is in love with Ashley Wilkes, but he will be marrying Melanie Hamilton. At a party at the plantation Twelve Oaks of Ashley, one guest Rhett Butler admires Scarlett. Scarlett is more interested in Ashley. News of the start of the Civil War interrupts the party. Men go racing about to enlist in the war. Scarlett marries Melanie's younger brother Charles. She does this to make Ashley jealous. Charles dies in the war, and Scarlett goes to Atlanta. There she appears at a charity bazaar in black mourning clothing and dances with Rhett.
+
+The Confederates lose at the Battle of Gettysburg, and Union troops start entering the city of Atlanta. At the same time, Scarlett helps Melanie give birth to a child. They and Rhett flee the city. Rhett returns to the fighting, and Scarlett, Melanie and Prissy return to Tara. The place is a wasteland. The slaves Mammy and Pork, her father, and two sisters are there. Scarlett promises to make sure her family survives.

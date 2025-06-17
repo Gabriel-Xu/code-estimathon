@@ -1,0 +1,53 @@
+In Robert Thurston's novel version of Battlestar Galactica: The Saga Of A Star World, Thurston wrote that Boomer was a voracious reader who usually spent his off hours reading and called him cautious enough never to wager except on what was "surer than a sure thing".
+
+In Robinson, the Court struck down a California law that criminalized being addicted to narcotics.
+
+In robocasting, a 3D CAD model is divided up into layers in a similar manner to other additive manufacturing techniques.
+
+In Robolab, you can actually download programs to the Lego RCX.
+
+In robot combat, a self-righting mechanism or srimech (sometimes spelled as srimec or shrimech) is a device used to re-right a robot should it get flipped.
+
+In Robot Goes Here, he performed alone on stage with a laptop and microphone, with synthesized sounds and samples taking the place of guitar amps in this computer generated hardcore band.
+
+In robotics a manipulator is a device used to manipulate materials without direct contact.
+
+In robotics and computer vision, visual odometry is the process of determining the position and orientation of a robot by analyzing the associated camera images.
+
+In robotics, a Remote Center Compliance, Remote Center of Compliance or RCC is a mechanical device that facilitates automated assembly by preventing peg-like objects from jamming when they are inserted into a hole with tight clearance.
+
+In robotics, EKF SLAM is a class of algorithms which utilizes the extended Kalman filter (EKF) for simultaneous localization and mapping (SLAM).
+
+In robotics, GraphSLAM is a Simultaneous localization and mapping algorithm which uses sparse information matrices produced by generating a factor graph of observation interdependencies (two observations are related if they contain data about the same landmark).
+
+In robotics motion planning, the dynamic window approach is an online collision avoidance strategy for mobile robots developed by Dieter Fox, Wolfram Burgard, and Sebastian Thrun in 1997.
+
+In robotics one often combines external sensory input and motor kinematics.
+
+In robotics, the kidnapped robot problem commonly refers to a situation where an autonomous robot in operation is carried to an arbitrary location.
+
+In robotics, the SEIF SLAM is the use of the sparse extended information filter (SEIF) to solve the simultaneous localization and mapping by maintaining a posterior over the robot pose and the map.
+
+In robotics, the wake-up robot problem refers to a situation where an autonomous robot is carried to an arbitrary location and put to operation, and the robot must localize itself without any prior knowledge.
+
+In robotics, Vector Field Histogram (VFH) is a real time motion planning algorithm proposed by Johann Borenstein and Yoram Koren in 1991.
+
+In Rob Reiner's 1987 film adaptation, he was portrayed by Mandy Patinkin.
+
+In Rochester, New York, three waterfalls over the escarpment are where the Genesee River flows through the city.
+
+In ROC, information and services are identified by logical addresses which are resolved to physical endpoints for the duration of a request and then released.
+
+In rock and blues, musicians also often refer to chord progressions using Roman numerals, as this facilitates transposing a song to a new key.
+
+In Rock, and lasted 15 months, until September 1971.
+
+In rock and pop ensembles, usually called rock bands or pop bands, there are usually guitars and keyboards (piano, electric piano, Hammond organ, synthesizer, etc.), one or more singers, and a rhythm section made up of a bass guitar and drum kit.
+
+In rock climbing, a bolt is a permanent anchor fixed into a hole drilled in the rock as a form of protection.
+
+In rock climbing, a copperhead is a small nut with a head made of soft metal on a loop of wire, originally copper or brass, later aluminum.
+
+In rock climbing and ice climbing, a pitch is a steep section of a route that requires a rope between two belays, as part of a climbing system.
+
+In rock climbing, a nut (or chock or chockstone) is a metal wedge threaded on a wire and is used for protection by wedging it into a crack in the rock.

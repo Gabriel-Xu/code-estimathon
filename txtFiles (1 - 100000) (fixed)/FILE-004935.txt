@@ -1,0 +1,187 @@
+Louise Elisabeth Glück (April 22, 1943 – October 13, 2023) was an American poet. She was born and raised in New York City. She has won many awards, including the Pulitzer Prize for Poetry in 1993 for her book "The Wild Iris" and National Book Award of Poetry in 2014 for her book "Faithful and Virtuous Night". She was the Poet Laureate Consultant in Poetry to the Library of Congress in 2003.
+
+In 2020, she was honored with the Nobel Prize in Literature.
+
+Glück died from cancer at her home in Cambridge, Massachusetts, on October 13, 2023, at the age of 80.
+
+SailingSailing is the craft of controlling a boat that uses the force of the wind as a source of movement. Sailing boats were very important to move cargo and people. Starting at the end of the 19th century they were gradually replaced by the boats that used steam to generate motion. Today, sailing is a hobby some people have. In some regions of the world, sailing vessels still keep their importance.
+
+Many military forces also have sailing vessels for the purpose of training.
+
+Sailing is also a competitive sport. It is one of the sports in the Olympic Games.
+
+Ben GibbardBen Gibbard (born August 11, 1976) is an American musician. He is the lead singer of the indie bands Death Cab for Cutie and The Postal Service. He is also a solo artist. He was married to actress and musician Zooey Deschanel from 2009 to 2012.
+
+Danny LennonDanny Lennon (born 6 April 1970) is a former footballer from Northern Ireland. He is currently the manager of Scottish Premier League side St Mirren.
+
+Chip Ganassi RacingChip Ganassi Racing Teams is an American racing team. The team competes in the IndyCar Series, and sportscar racing. In 2021, Chip Ganassi sold his NASCAR team to Justin Marks and it became Trackhouse Racing. Their IndyCar drivers are Ryan Briscoe, Scott Dixon, Tony Kanaan, and Charlie Kimball. Dixon is the current IndyCar champion, which he won for the third time in 2013. Their sportscar team's drivers are Scott Pruett, Marino Franchitti, and Memo Rojas.
+
+Until 2016 two of Ganassi's IndyCar cars were sponsored by Target. Target was also a sponsor for Ganassi's Nascar cars until 2017. The drivers of the Target sponsored cars were often in Target advertising and posters of them could be seen in many Target stores.
+
+On June 30th 2021 it was announced that Trackhouse Racing had purchased Chip Ganassi Racing's Nascar team. Chip Ganassi Racing completed the 2021 Nascar season. Trackhouse Racing became the owner at the end of the season. Chip Ganassi Racing will continue to operate their teams racing in other divisions such as Indycar.
+
+IshmaelitesIshmaelites are the descendants of Ishmael, the oldest son of Abraham. Today, the descendants of Ishmael are mainly living in western Saudi Arabia and are called Arabs. Ishmael was born of Hagar, the servant of Sarah, Abraham's wife. Isaac, Sarah's son, is the father of the Israelites.
+
+SOAPSOAP is a protocol used in computing. Web services use this protocol to communicate. SOAP uses XML to encode a message. It uses other application-layer protocols, for transport, and content negotiation, for example HTTP and Remote procedure call. The most common combination is to use SOAP with HTTP and TCP. There are different versions, 1.
+
+0, 1.
+
+1, and 1.
+
+2. Before version 1.
+
+2 SOAP stood for Simple Object Access Protocol. Since version 1.
+
+2 the protocol is simply called "SOAP". This is because the protocol is not "simple", and that it can be used for other purposes than accessing objects.
+
+SOAP is a lightweight protocol intended for exchanging structured information in a decentralized, distributed environment. SOAP uses XML technologies to define an extensible messaging framework, which provides a message construct that can be exchanged over a variety of underlying protocols. The framework has been designed to be independent of any particular programming model and other implementation specific semantics.
+
+The core section of the SOAP specification is the messaging framework. The SOAP messaging framework defines a suite of XML elements for "packaging" arbitrary XML messages for transport between systems.
+
+The framework consists of the following core XML elements: Envelope, Header, Body, and Fault, all of which are from the http://schemas.
+
+xmlsoap.
+
+org/soap/envelope/ namespace in SOAP 1.
+
+1. I've provided the full XML Schema definition for SOAP 1.
+
+1 in the following code for your reference as you read through the remainder of this section. Personally, I find it helpful to inspect the schema whenever familiarizing myself with XML constructs.
+
+SOAP UI is a tool use to test whether SOAP is sending and receiving the messages properly as part of Unit testing in IT projects.
+
+Jamaica, Land We Love"Jamaica, Land We Love" is the national anthem of Jamaica. The words were written by Hugh Sherlock and the music was composed by Robert Lightbourne and arranged by Mapletoft Poulle.! English original! Jamaican Patois translationGuide us with Thy mighty hand,Keep us free from evil powers,Be our light through countless hours.
+
+To our leaders, Great Defender,Grant true wisdom from above.
+
+Justice, truth be ours forever,Jamaica, land we love.
+
+Jamaica, Jamaica, Jamaica, land we love.
+
+Teach us true respect for all,Stir response to duty's call,Strengthen us the weak to cherish,Give us vision lest we perish.
+
+Knowledge send us, Heavenly Father,Grant true wisdom from above.
+
+Justice, truth be ours forever,Jamaica, land we love.
+
+Jamaica, Jamaica, Jamaica, land we love.</
+
+poem>Bethel, MaineBethel is a town in northern Maine. It is part of the Oxford County. In 2020, there were 2,504 people living in the town.
+
+List of Madonna toursUsain BoltUsain St. Leo Bolt was born in 1986 and is a Jamaican runner and eight-time Olympic gold-medal winner. He is also known as "Lightning Bolt". Some people call him the fastest man in the world. He has run 100 metres in 9.
+
+58 seconds and 200 metres in 19.
+
+30 seconds. He took part in the 2012 London Olympics, and won gold in the 100m, 200 m and 4 × 100 m relay.
+
+Usain Bolt won the IAAF Grand Prize in a 100 meter dash on May 31st, 2008 at Icahn Stadium in New York City. He finished the race in 9.
+
+72 seconds and broke the world record. On August 16th, 2008, he broke his world record again at the Olympic Games in Beijing. On August 20th, 2008 he broke the world record for the men's 200 meter race.
+
+On August 16th, 2009, he went to the 12th World Championships in Athletics and broke his own world record in the 100 meter race. He ran that race in 9.
+
+58 seconds. Surprisingly, in this race, he didn't try his hardest. He looked around for the last five meters.
+
+On August 28th, 2011, he ran in the 13th World Championships in Athletics in Daegu, South Korea. He made a false start in the 100 meter race and was disqualified.
+
+On August 5th, 2012, he won the men's 100 meter final in the London Olympics. His finishing time was 9.
+
+63 seconds. He also won the 4 x 100 meter relay race.
+
+He also won a gold medal in the 100 meter race in the 2016 Rio Olympics.
+
+In 2017, his gold medal for the 2008 relay was disqualified because his teammate Nesta Carter had used drugs. He had to give up his gold medal.
+
+He is known to be a fan of the English Premier League soccer club, Manchester United F.
+
+C. He watched their games in person. He also met the coach and players.
+
+GhebalehGhebaleh, ( "Ghbeleh") is a Village in Keserwan, Lebanon.
+
+At 40 KM from the capital of Lebanon, Ghebaleh is thought to be the capital of Ftouh Kesrwan, with an altitude of 700-1100 meters above sea level.
+
+A Christian conservative village in the Lebanese mountain, wild nature and historical heritage.
+
+the 400 year old Church St. Sarkis & Bakhos is one of the major religious monuments in the region, in addition to St. Georges Church at Hakl al Rayes, St. Chalita, St. Antoine, St. Nohra, Ste Al Shekiff and the Immaculate conception Church.
+
+22nd of july comemorates the "Eid Mar Nohra" the Patron Saint of the El Hosri Family a very renown family in Ghbeleh since they were the first Maronites to settle in Ghebaleh in the 16th century and who played a crucial and historical role in the rise of this heavenly village on the religious and social forefront throughout the years and across borders. to name a few; Yousef Semaan El Hosri designated by the Wali as ruler of the Area, Dr. Chucri Nassif El Hosri one of the first 4 medical doctors in Lebanon graduated in 1900, Dr. Antoine Chucri El Hosri 1st Gastroentirologist in lebanon and president of the Order Of Doctors, Mr. Fernand Antoine Hosri a visinory Business Man who has dedicated years in the service of Mar Nohra and the renovation of this historic church. Eid Mar Nohra spreads over a full week of festivities with the hype on the eve of the 22nd of July (21st Of july).
+
+On September 13th each year, Ghebaleh hosts the "Eid Al Saleeb", (feast of the Cross) festival, that includes a carnival, musical and religious events, attendees come from all over Lebanon, and locals living abroad.
+
+During summer, Ghebaleh is a destination for people looking for cool weather (comparing with Lebanese coast), beautiful nature and very close to city facilities, where they can enjoy tasty Lebanese food in exceptional restaurants.
+
+Cinchona pubescensCinchona pubescens, the Quinine Tree, is known for because its bark has a lot of quinine. It has similar uses to "Cinchona officinalis" in making quinine, used for treatment of malaria. It is native to Costa Rica, Venezuela, Ecuador, Peru and Bolivia. In Ecuador, "C. pubescens" is found at altitudes from 300 to 3900 m above sea level. It grows to about 10 metres in height. It has the widest distribution of all Cinchona speciesPlanted on other tropical islands it has become an invasive species. It grows quickly, and spreads by both seeds and root suckers. Other plants are unable to grow in the shade that it creates. In the Galapagos Islands the tree was planted by farmers as a crop for the quinine. It has become a dominant species on Santa Cruz Island, taking over from the shrub Miconia and Fern-Sedges. It is also invasive in Hawaii on Maui and the Big Island.
+
+Attempts have been made to control the plant in the Galapagos National Park using a variety of methods. It is not affected by many poisons, it will regrow from a stump or any piece of root left in the ground. Controlling it over all of Santa Cruz island would cost several million US dollars according to research by the Charles Darwin Foundation.
+
+International Friendship DayInternational Friendship Day celebrations take place on the 4 January every year. On this day, people spend time with their friends and express love for them. The exchange of Friendship Day gifts like flowers, cards, and wrist bands is a popular tradition of this occasion.
+
+In 1935, the United States Congress proclaimed the 1st Sunday of August as National Friendship Day. Since then, celebration of National Friendship Day became an annual event.
+
+Many other countries around the world adopted the tradition of dedicating a day to friends. In 1997, the United Nations named Winnie the Pooh as the world's Ambassador of Friendship. Today, Friendship Day is enthusiastically celebrated by many nations.
+
+Many friends wish each other with exchange of gifts and cards on this day. "Friendship bands" are very popular in India, Nepal and parts of South America. Members of social networking sites celebrate Friendship Day on-line.
+
+You do not have to buy a gift or spend money to enjoy Friendship Day. This avoids accusations the fun is only a "marketing gimmick".
+
+To mark the International Day of Friendship the UN encourages governments, international organizations, and civil society groups to hold events, activities, and initiatives that contribute to the efforts of the international community toward promoting a dialogue among civilizations, solidarity, mutual understanding, and reconciliation.
+
+Joseph MerrickJoseph Carey Merrick (5 August 1862 – 11 April 1890) was an Englishman. His face and body were deformed because of an illness. To earn food, he was shown at freak shows. He was called the Elephant Man. He then became famous after he went to live at the London Hospital. Some people who wrote about him wrongly thought he was called John Merrick.
+
+Merrick was born in Leicester, England in 5 August 1862. He started to become deformed when he was 3. He was also disabled after he hurt his hip. When he was 10, his mother died and his father and stepmother did not want him at home so he left home. When he was 17, he went to live in a workhouse.
+
+In 1884 Merrick wrote to a showman called Sam Torr. Merrick asked Torr to show him as a "freak" exhibition. Torr showed Merrick around the East Midlands, and then Merrick went to London. He stayed in a shop on Whitechapel Road. People would pay to look at him. A surgeon doctor, Frederick Treves, came to see Merrick and took photographs of him. Soon afterwards, Torr's freak shop was closed by the police and Merrick went to Belgium.
+
+In Belgium, Merrick was robbed by his manager and left Brussels alone. He found his way back to London. Frederick Treves took him to the London Hospital where Treves worked. Merrick was allowed to live there for the rest of his life. Rich and famous people of Victorian London came to visit him there.
+
+Merrick died on 11 April 1890, aged 27. He died of either asphyxia (not being able to breathe properly) or a broken neck. He had tried to lie down to go to sleep, but his head was too heavy for him to do that. Today, nobody knows for sure what was wrong with Merrick. Scientists think that he either had an illness called neurofibromatosis type I, one called Proteus syndrome, or both of these illnesses. In 1980, movie director David Lynch made a movie about Merrick. It is called "The Elephant Man".
+
+John Logie BairdJohn Logie Baird (13 August 1888 – 14 June 1946) was a Scottish engineer and inventor of the world's first working television system, and the world's first fully electronic colour television tube.
+
+Baird was born in Helensburgh, Dunbartonshire, Scotland. He went to school at Larchfield Academy in Helensburgh and then went to the Glasgow and West of Scotland Technical College (which later became the University of Strathclyde); and the University of Glasgow. He stopped being a student at the beginning of World War I.
+
+Although lots of inventors helped to make television, Baird was an important person and made big advances. Especially in Britain, lots of people say that Baird was the first person to make a live, moving, greyscale television picture from reflected light. Baird did this by making a better photoelectric cell and making the signal conditioning better.
+
+In 1925, Baird showed people his moving pictures on television at Selfridges department store in London. In 1928, he showed the world's first colour television transmission.
+
+In 1927, Baird made a signal go over between London and Glasgow; Baird sent the world's first long-distance television pictures to the Central Hotel at Glasgow Central Station.
+
+Baird then started the Baird Television Development Company Ltd, and in 1928 it made the first transatlantic television transmission, from London to Hartsdale, New York, and the first television programme for the BBC.
+
+Baird's television systems were replaced by the electronic television system developed by EMI-Marconi.
+
+Baird did lots of work for the field of electronic television after mechanical systems stopped being used. In 1939, he showed colour television using a cathode ray tube.
+
+Some of Baird's early inventions did not work. In his twenties he tried to make diamonds by heating graphite and ruined Glasgow's electricity supply. Later Baird made a glass razor which did not get rustyFrom December 1944 until he died two years later, Baird lived at a house in Station Road, Bexhill-on-Sea, immediately north of the station. Baird died in Bexhill-on-Sea, Sussex, England on 14 June 1946 after a stroke in February 1946. The old house was knocked down in 2007.
+
+John Logie Baird was buried with his mother, father and wife in Helensburgh Cemetery, Dunbartonshire.
+
+The Co-operative FoodThe Co-operative Food, sometimes simply known as the Co-op, is a brand used by the supermarket divisions of several consumer co-operatives in the United Kingdom, with The Co-operative Group being the largest most well known user. Co-operatives are businesses which are ultimately owned by their customer-members and staff-members with each member having an equal say in the business is run. Members elect the board and may vote on the strategic decisions of the business but are not usually involved in its day-to-day operations. Members also receive a percent of the company's earnings each year as a 'Dividend'.
+
+The Co-operative Group purchased Somerfield in early 2009 and encorporated it into The Co-operative Food branding.
+
+The Co-operative GroupThe Co-operative Group is a United Kingdom consumers' cooperative, and, after the acquisition of Somerfield supermarkets, is the world's largest consumer-owned business, with over 4.
+
+5 million members and 123,000 employees across all its businesses. Regional and local retail co-operative societies are corporate members of the Group.
+
+Each member (each person registered to the 'Co-operative Membership' scheme) and every person employed has an equal say in how the business is run. Everyone has a right to help shape the company. The Co-operative Group runs several businesses, including the famous Co-op supermarket chain.
+
+Every year, members receive a share of the profits that they helped to create, based on the amount made in profits that year and how much they had spent with any of its businesses.
+
+SomerfieldSomerfield was a small UK supermarket chain. It was founded in 1875 with a Bristol-based grocer known as J.
+
+H. Mills. It developed a self-service supermarket chain named Gateway Foodmarkets in 1960. Gateway Foodmarkets was taken over by Linfood Holdings, which already owned the Frank Dee Supermarkets in the north and east of England. They bought a lot of different retail stores. In 1990 they started using the name Somerfield.
+
+The company bought the Kwik Save chain of discount food stores in 1998.
+
+In early 2009 It was bought by the Co-operative Group for £1.
+
+57 billion. It had 750 shops.
+
+Alvin and the Chipmunks (movie)Alvin and the Chipmunks is a 2007 family comedy movie using Live-action/CGI. The movie stars Jason Lee, David Cross, Cameron Richardson and Jane Lynch and the voices of Justin Long, Matthew Gray Gubler and Jesse McCartney.
+
+Dave Seville, a desperate song producer, meets three talking, singing chipmunks named Alvin (the awesomest one), Simon (the smart one), and Theodore (the cute one). Dave says that they can live with him if they sing his songs, but he later thinks that he made a terrible mistake when they ruin his house, his friendship with Claire Wilson (his girlfriend and next-door neighbor), and his job. Dave gets along with them better when they became very popular singers. Later on Dave's old friend and roommate, Ian Hawke trys to take the chipmunks away for fame and money. Eventually, Dave gets the chipmunks back, and he learns to consider them as his family. Also he and Claire get back together.
+
+AIDS orphanAn AIDS orphan is a child who became an orphan because at least one of their parents died of AIDS. (An orphan is a child with no parents.)
+
+The Joint United Nations Programme on HIV/AIDS (UNAIDS), the World Health Organization (WHO) and the United Nations Children's Fund (UNICEF), use the term "AIDS orphan" to talk about children whose mothers died of AIDS before the child's 15th birthday, whether the child's father is still alive or not. Because of this, some people say that 80% of all "AIDS orphans" still have one parent who is still alive.

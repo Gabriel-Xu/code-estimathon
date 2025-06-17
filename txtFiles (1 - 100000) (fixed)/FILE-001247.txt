@@ -1,0 +1,161 @@
+Flip-flops can be either simple or clocked. A simple flip-flop changes state as soon as the input changes. A clocked flip-flop changes state only when an extra pulse occurs. This pulse is called the clock signal. Commonly, "flip-flop" only refers to clocked circuits; the simple ones are commonly called "latches".
+
+The two common types of flip-flops are SR ("set-reset"), D ("data" or "delay").
+
+The most fundamental flip-flop is the simple SR flip-flop. In the SR flip-flop, the S and R stand for set and reset. The stored bit is present on the output marked Q.
+
+If S is pulsed high while R is held low, then the Q output is forced high. Conversely, if R is pulsed high while S is held low, then the Q output is forced low. When the R and S inputs are both low, the Q outputs are in a constant state. However, when the R and S inputs are both high, the Q outputs are in a forbidden state.
+
+Since high and low mean logical '1' and '0', respectively, the SR flip-flop can have four combinations showing below:(A) S = 1, R = 0: set(B) S = 0, R = 0: hold(C) S = 0, R = 1: reset(D) S = 1, R = 1: not allowedThe restricted combination (D) leads to an unstable state.
+
+A D Flip-Flop prevents an SR flip-flop from receiving the forbidden combination. It takes only one input for data, called D. It splits this data down two paths. On one path it flips the data to the opposite value. This is the “NOT” box in the animation. That way, S = 1, R = 1 is never fed to the internal SR latch.
+
+Satoshi TajiriThe protagonist of the Pokémon anime, Ash Ketchum, was thought to be Satoshi as a child.
+
+IlkleyIlkley is a tourist town in the City of Bradford in West Yorkshire, England. The biggest attraction there is the wonderful and big "Ilkley moors". It is very green and grassy and provides walks for any type of people. One of these walks includes a big rock and a little rock called the Cow and Calf Rocks. This is one of the bigger wonders of the Yorkshire dales. By these rocks there is a pub called "The Cow and Calf".
+
+The town is has one railway station where trains run to Leeds and Bradford.
+
+EconometricsEconometrics is a branch of economics. It is the use of statistical and mathematical methods to describe the relation between economic forces such as capital (any of the tools, work, or other things needed to make something useful), interest rates (the price of borrowing money), and labor.
+
+Much of econometrics is making models which are simple pictures of the real world. These models then can be used to predict what will happen in the real world.
+
+An example of econometrics would be looking at the prices of houses in a town. An economist (someone who studies economics) can try to make a simple picture of the house prices in the town. This picture might show that houses close to the market are worth more. An economist could then say that if a new market is made in another part of the town, home prices there might go up. The economist also might say that the new market could make prices less than before near the old one, because the new market will make it so that more houses are near a market. This would make the people who sell houses near a market sell them for less, since there could be more sellers than buyers.
+
+A basic tool for econometrics is the multiple linear regression model. In modern econometrics, other statistical tools are often used, but linear regression is still the most used starting point for an analysis. Estimating a linear regression on two variables can be shown by drawing a line through data points representing paired numbers of the independent and dependent variables.
+
+FranconiaFranconia ( ; Franconian dialect: "Franggn" ) is the northern part of the German federal state of Bavaria. This region is divided in three smaller regions: Oberfranken, Mittelfranken, and Unterfranken. The biggest city in Franconia is Nuremberg.
+
+Other large cities in Franconia are Coburg, Aschaffenburg, Würzburg, Erlangen, Fürth, Bamberg, Bayreuth, Schweinfurt and Hof.
+
+The most important river in Franconia is the Regnitz, which is 63.
+
+7 km (39.
+
+6 mi) in length.
+
+King of ArmsA King of arms is a government officer in countries like England, Scotland, and Wales. He grants coats of arms to other people. King of Arms is the highest rank of officer of arms. Some countries do not have a King of Arms, but have another person that grants coats of arms.
+
+A King of Arms is also usually in charge of special ceremonies for a country.
+
+PsychokinesisPsychokinesis or telekinesis is the supposed ability to change matter, energy, space or time by using your mind. It is often mentioned and performed in science fiction movies and video games.
+
+Psychokinesis is the word used to describe many different abilities. These abilities include:List of international Cartoon Network channelsCartoon Network is an international cartoon television channel for children owned by Warner Bros. Discovery.
+
+AutobiographyAn autobiography is a biography in which the author writes about his or her own life. It is a self-written account of one's own life.
+
+It is one of the earliest form of literature, but the word itself is quite modern.
+
+The word comes from the Greek stems "auto" (meaning "self"), "bio“ (meaning "life"), and "graph" (meaning "write").
+
+PenjingPenjing (盆景 pinyin: pén jǐng, literally tray scenery), also known as penzai is the ancient Chinese art of growing trees and plants in containers. The plants are kept small by skilled pruning.
+
+Penjing is similar to the Japanese art of bonsai.
+
+The first historical reference to "penjing" is from the 9th century.
+
+Brian EnoBrian Eno (born 15 May 1948) is an English musician. He was one of the original members of the band Roxy Music. He makes music called electronic music, which is music made using computers and other electronic devices, like the synthesizer. Brian Eno has worked with other famous musicians and groups like David Bowie and U2.
+
+Kirby (character)Kirby is the main character of the "Kirby" franchise. Kirby has appeared in many video games made for Nintendo game systems.
+
+Kirby's appearance is simply a pink ball with red shoes and nubs for arms. Kirby has black oval eyes, blushing cheeks, and a small mouth.
+
+Kirby has the power to fly over obstacles by puffing up into a large ball. Kirby can also eat enemies by inhaling them, and he can spit them out to shoot other enemies.
+
+In most of the series, Kirby has the power to copy the abilities of enemies by swallowing them. When Kirby eats an enemy with a power to copy, he changes his look to show his new power.
+
+Kirby also appears in the Super Smash Bros. series of crossover fighting video games.
+
+CapacitorA capacitor (also called condenser, which is the older term) is an electronic device that stores electric energy. It is similar to a battery, but can be smaller, lightweight and a capacitor charges or discharges much quicker. Capacitors are used in many electronic devices today, and can be made out of many different types of material. The Leyden jar was one of the first capacitors invented.
+
+Capacitors are usually made with two metal plates that are on top of each other and near each other, but that do not actually touch. When powered, they allow energy to be stored inside an electrical field. Because the plates need a lot of area to store even a small amount of charge, the plates are usually rolled up into some other shape, such as a cylinder. Sometimes, other shapes of capacitors are used for special purposes. A capacitor-like effect can also result just from two conductors being close to each other, whether you want it to exist or not.
+
+The type of capacitor used depends on the application. Capacitors come in many sizes. They can be as small as an ant or as large as a dustbin. A few capacitors are adjustable.
+
+All capacitors have two connections, or leads. Most kinds of capacitors can be replaced easily by someone who has basic skills in electronics. However, one of the more powerful types - the electrolytic capacitor - must be used the correct way, or they can explode violently.
+
+While capacitors can store energy, as batteries do, capacitors can release all their stored energy very quickly, even faster than a second. A defibrillator or a photoflash capacitor uses this ability. It gradually charges, until it cannot be filled any more, and then quickly discharges its stored power to a device that needs to have it quickly.
+
+Supercapacitors hold a bigger charge than regular capacitors. They are used to store electricity for motors and other purposes when batteries won't discharge quickly enough.
+
+This type of capacitor is not for use in high frequency circuits, being made with a coil inside. They can charge and discharge even more quickly than other capacitors. They are used in filter circuits or timing circuits which run at several hundred KHz or less.
+
+Electrolytic capacitors use a conducting surface inside a liquid electrolyte. They do not charge and discharge as rapidly as film capacitors do. They have polarity and so they have to be attached correctly. There are two leads; one will have a + and the other a -. This means one lead is "positive" and one is "negative". There are two different styles: axial, where the leads are connected to each end, and radial, where the leads are connected to one end. Electrolytic capacitors are printed with capacitance and voltage rating.
+
+Since the voltage rating can be low, it is important to check that the electrolytic capacitor is not overcharged. Capacitors can be separated from a battery, then connected in series. Because the capacitor is polarized, the positive terminal must be connected to a negative terminal. This creates "correct polarity" through the electrical circuit and prevents breakdown.
+
+Some electrolytic capacitors are unpolarized, meaning that either side can be positive or negative. These are mostly used in loudspeakers to block low-frequency signals (bass) from reaching high-frequency (tweeter) drivers.
+
+CondenserCondenser may mean:StrategyStrategy is a long term plan on what to do to achieve a certain goal. Today, the word "strategy" is in common use; people might talk about "business strategy", for example. However, it is a word which was first used by the military. It comes from an ancient Greek word for the most important leader who made all the big decisions for the rest of the soldiers. In other words, this leader was the highest general of the country.
+
+When talking about the near future, people often use the word "tactics". Military theorist Carl von Clausewitz said "tactics is the art of using troops in battle; strategy is the art of using battles to win the war". The distinction between strategy and tactics applies to any planning which might be done against an enemy or opponent. Strategy is what we broadly intend to do to reach our long-term goal or objective. Tactics is the detailed steps which are used as our progress is opposed by the opponent. For this reason, tactics are short-scale and easy to change. Strategy, on the other hand, is changed as little as possible. It may be that our goal simply cannot be reached. In that case, a search goes on for a new goal and a new or adjusted strategy. Often, in war, chess or business, roughly the same tactics are still used to get to a different goal. Negotiation is another area where the distinction between strategy and tactics is especially clear.
+
+Design patternIn Computer science, a Design pattern is an abstract solution to a certain problem. Design patterns are used in object oriented programming. They give a possible solution to a problem of designing software.
+
+Design patterns became popular around the year 1995. They also simplify the language between computer scientists. Ideally, a design pattern should be reusable many times. It is like a brick of a house, it can be used for many different problems. One can also build bridges with bricks, not only houses.
+
+These examples are actual examples of design patterns as they are in use. They have not been simplified. It is only the language used to describe them that has been made simpler.
+
+The flyweight design pattern is used to minimize the use of many similar objects. In a text-processing system each letter can have some attributes like formatting, typeface, and size. While it would be possible to create a new object for each character in the document and give it these attributes, it is extremely expensive.
+
+Instead it would be better to create one object for each type of formatting and link the letter to that information. That needs a lot fewer objects. The only extra information that would need to be stored is the word or letter's position in the document. All similar letters would use the same object to define font, size, and other properties.
+
+Another easy to understand pattern is called "Singleton". It is used when there can only be one instance of a given class. That class usually has some static method (e.
+
+g. getInstance()) which returns a new instance. It also saves the instance internally. So if it already created the instance, it can simply return it.
+
+Amarillo, TexasAmarillo is a city in the U.
+
+S. state of Texas. It is in the northern part of Texas. The city's economy is mostly based on cattle. In 2020, 200,393 people lived there.
+
+Lansdowne, PennsylvaniaLansdowne is a suburb of Philadelphia, Pennsylvania in the US.
+
+Lansdowne has a total area of 1.
+
+2 square miles.
+
+Gillingham F.
+
+C.
+
+Gillingham Football Club is an English football club. They are based in the town of Gillingham, Kent. They are currently in Football League One. They play home games at Priestfield Stadium. Gillingham are managed by Steve Lovell and the chairman is Paul Scally. The club captain, Gabriel Zakuani, plays in defence. They finished their last season (2017-18) in 17th.
+
+Round (music)A round in music is a song which can be sung by two or more groups of people. One group starts off and the next group start to sing the same song a bit later. It should sound nice together. When a group gets to the end of the song they start again. They can go round and round, singing it several times.
+
+Usually rounds are in 2, 3 or 4 parts (meaning that they are for 2, 3 or 4 groups of people). When a group of people sing or play a round they usually sing it an agreed number of times. This means that the group which starts last also finishes last."
+
+Frère Jacques" is a famous French round. "London's Burning" is an English round. Both those rounds can be sung in 4 parts.
+
+The oldest round that we know is "Sumer is icumen in". This is a very famous piece of music because it is the oldest piece of music we know that was written down. It was written around 1250 by a monk. It can be sung in 4 parts with 2 bass drones (held notes).
+
+Writing music by making one part imitate another is called canonic writing. Rounds are a kind of canon.
+
+Gall bladderThe gallbladder is a pear-shaped organ in your abdomen. It stores about 50 ml of acidic liquid (bile) until the body needs it for digestion. That liquid helps digest fat. The gallbladder is about 7-10cm long in humans. It is dark green in color because of the bile in it. It is connected to the liver and the duodenum by the biliary tract.
+
+Addenbrooke's HospitalAddenbrooke's Hospital is a large hospital in Cambridge, England. It was started in in 1766. A new building was started in 1962 and the old building closed in 1984. It is run by Cambridge University Hospitals NHS Foundation Trust. The hospital lets people in to look around, once every two years. You can visit the mortuary, the operating theatres and the hospital roof.
+
+In October 2022 there were two cases where people were waiting more than 60 hours in the emergency department for a hospital bed. 515 patients waited more than 12 hours.
+
+KoalaA Koala ("Phascolarctos cinereus") is a plant-eating marsupial. It lives in the eucalyptus forests of eastern Australia. They are the only living species in the family Phascolarctidae. They are related to the wombats.
+
+Koalas are often called "koala bears", because a koala looks like a small bear or teddy bear. However, it is not a bear, it is quite a different type of animal.
+
+Koalas have brownish-grey or silver-grey fur, and a big pink, dark red or/and black nose. They have sharp claws which help them to climb.
+
+Koalas also have finger prints which look the same as human finger prints. Finger print experts have had difficulty in being able to tell if the prints are from a human or koala. Finger prints are rare among mammals that climb trees. Scientists do not know why the koala has them, but their best guess is that it helps the koala choose leaves to eat.
+
+Koalas are mostly active at night. They live in trees and are rarely found on the ground. Koalas have two unusual characteristics.
+
+They eat leaves of eucalyptus trees. Koalas do not drink often, they get most of their water from the eucalyptus leaves they eat. Eucalyptus leaves are poisonous, but koalas do not get poisoned. This is because they have certain bacteria in their digestive tract that can detoxify the poison in the leaves. Koalas, however, have to sleep long hours because eucalyptus leaves do not produce much energy and also because the digestive process takes a long time.
+
+Koalas have a peculiar way of cooling themselves. Unlike humans who sweat and other animals, which either pant or lick their fur to stay cool, koalas reduce their body heat by hugging a tree. The temperature of the trunks of certain trees is up to 9 degrees Celsius lower than the air temperature. Koalas prefer to stay on these trees on a hot day even if they do not have the tastiest leaves.
+
+Koalas live alone most of the time, but they have a social hierarchy with the other koalas who live near.
+
+After a pregnancy of 35 days, the newly born koala is about a quarter of an inch long, and is born with no ears, eyes, or hair. It crawls into its mothers pouch on its own. After 12 months the young koala is old enough that it does not go into its mother's pouch or need milk anymore. The female koala can have another baby then. Young koalas usually leave their mothers when they are 18 months old, but if their mother does not have another baby they sometimes stay for up to three years. Koalas become mature when they are about two years old, but they often have their first baby after another two years.
+
+The koala is not an endangered species, but it is a near vulnerable species. One reason is the loss of habitat, which means that koalas have less space to live. In some places there are very few koalas left. But there are also places, such as French Island (Victoria), with too many koalas that eat too much. Because of this the eucalyptus trees and other animals are in danger. A study looking at koala numbers at 1800 sites for 20 years, shows that the number of koalas is falling. The study, by the Australian Koala Foundation, estimates that there are only about 50,000 koalas left. there is over 500 types of gum trees in the world, however, koalas only eat 4-6 types that they prefer.
+
+Many koalas are infected with Chlamydia. This is affecting the survival of the species. Koalas on French Island do not have the disease, and so groups of them are often moved to the mainland to repopulate some areas. The disease can cause blindness, pneumonia, urinary tract infections and reproductive tract infections.
+
+John Adams (composer)

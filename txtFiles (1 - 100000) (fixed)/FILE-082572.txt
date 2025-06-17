@@ -1,0 +1,201 @@
+This database was to allow astronomers to accurately determine the distance to all of the stars on this side of the Milky Way galaxy, detect large planets and planetary systems around stars within 1,000 light years of the Sun, and measure the amount of dark matter in the galaxy from its influence on stellar motions.
+
+This data burst is not sent at the same time by all the channels but happen randomly throughout all the system channels.
+
+This data can be combined into a single file, or separated into distinct logs, such as an access log, error log, or referrer log.
+
+This data can be queried, transformed, exported and returned to a calling system.
+
+This data can be used to create sprites for non-text programs.
+
+This data can include variables such as velocity of impact, crushing force, bending, folding, or torque of the body, and deceleration rates during a collision for use in crash tests.
+
+This data can often be downloaded to a personal computer or tablet and displayed in graphic form as a dive profile.
+
+This data can provide information on the performance of the missile and especially its throw-weight, i.
+
+e. the potential size of its warhead\s.
+
+This data can range from a simple printer driver to a whole SAP client.
+
+This data catalogs the history of personnel in the military and their family for purposes of healthcare, retirement funding and other administrative needs.
+
+This data center, located at the Indian Deep Space Network (IDSN) campus in Bangalore, is responsible for the ingestion, archive, and dissemination of the payload data and related ancillary data for Space Science missions.
+
+This data center will be equipped with cloud computing and G-cloud (e-Governace through cloud computing) technology.
+
+This data consists out of small parts so that seeds can effectively share their content with other peers, handing out the missing pieces.
+
+This data consists primarily of usage data and events that are imported from the head-end servers managing the data collection in advanced metering infrastructure (AMI) or automatic meter reading (AMR) systems.
+
+This data describes the properties and processing of the materials that these organization uses - metals, alloys, plastics, composite materials, ceramics, etc.
+
+This data does not need to be sent to the host as the copyback operation does not originate from a read request.
+
+This data does not reflect juveniles tried as adults.
+
+This data enables automation of vulnerability management, security measurement, and compliance.
+
+This data enables cities to perform internal benchmarking and improve their response to cardiac arrest by strengthening the chain of survival in their community.
+
+This datafile specifies the default collation ordering.
+
+This data has been used by numerous publications in the analysis of Internet access data rates around the world.
+
+This data has no overarching structure and analysis thereof means applying keywords or mapping communication patterns.
+
+This data helped determine the mass of each of the components of L722-22/ LHS 1047 / GJ 1005.
+
+This data included standard information such as number of pupils and school type, and a summary of school performance in National Curriculum assessments.
+
+This data is also used in the Clean Water Act decision-making process.
+
+This data is available from the United States Environmental Protection Agency.
+
+This data is available online by autoroute and city/town list or as an interactive map.
+
+This data is compiled by Nielsen SoundScan from a sample that includes music stores, music departments at electronics and department stores, Internet sales (both physical and digital) and verifiable sales from concert venues in the United States.
+
+This data is compiled by Nielsen SoundScan from a sample that includes music stores, music departments at electronics and department stores, internet sales (both physical and digital) and verifiable sales from concert venues in the United States to determine the top-selling Latin rhythm albums in the United States each week.
+
+This data is compiled by Nielsen SoundScan from a universe of merchants that represents more than 90% of the U.
+
+S. music retail market.
+
+This data is described as unpaired or independent when the sets of data arise from separate individuals or paired when it arises from the same individual at different points in time.
+
+This data is fed to a central computer at the MTO Downsview office and analyzed by operators, who also view the feeds of traffic cameras placed along the highways.
+
+This data is incompatible with data published in the Global Human Development Report due to variations in the calculations and formulas used by both parties.
+
+This data is obtained from the satellite service's EPG and replaces any data which may have been present when the signal was uplinked.
+
+This data is stored in an underlying GIS database which also maintains the associations between the graphical entities and the attributes.
+
+This data is summarized to guide the estimates of 130 plus technology officers, research scientists and engineers, scholars, and other experts to estimate of the most likely year each breakthrough will occur, the potential economic demand, social impact, and experts' confidence.
+
+This data is taken from 2016 Census night.
+
+This data is then used by the Rapid Refresh (RAP) forecast model to produce short term forecasts (3 to 12 hours into the future) of conditions across the contiguous United States.
+
+This data is typically compared against key performance indicators for performance and return on investment, and is used to improve a website or mobile marketing campaign's audience response.
+
+This data is used for a variety of applications in business and society.
+
+This data is used in conjunction with satellite imagery by variable rate technology (VRT) including seeders, sprayers, etc.
+
+This data is used to formulate a correction message, which is then transmitted to users via a VHF Data Link.
+
+This data is used to generate real-time report cards for Members of Legislative Assembly (MLAs), Members of Parliament (MPs), Chief Ministers (CMs) and the Prime Minister.
+
+This data is used to update The National Map.
+
+This data is usually later entered in the case report form.
+
+This data is usually meteorological in nature and may include averaged data for parameters like global surface temperatures or accumulations of rainfall for locations inside the model, though the Unified Model is capable of outputting many sophisticated diagnostics to PP-format.
+
+This data may be parsed to extract specific information produced at the time it was generated or simply used as a unique label.
+
+This data may come from a wide range of sources - e.
+
+g., materials testing, quality assurance, or measurement of product performance.
+
+This data might be at activity or project level.
+
+This data model can be applied above the ER as in GERM model and GISER.
+
+This data processing was accomplished by processing punched cards through various unit record machines in a carefully choreographed progression.
+
+This data produces a yield map that can be used to compare yield distribution within the field from year to year.
+
+This dataset consists of 56,880 action samples containing 4 different modalities (RGB videos, depth map sequences, 3D skeletal data, infrared videos) of data for each sample.
+
+This dataset contains of 23 Persian consonants and 6 vowels.
+
+This dataset is unique among publicly available population databases because of its time span, volume, detail, and completeness of recording, and because it provides longitudinal data not just on individuals, but on their households, descent groups, and communities.
+
+This data sharing is aimed at enabling a common view of physical or digital object information amongst EPCglobal Network participants.
+
+This data shows a decline from 89,476 units since the last census of local governments performed in 2007.
+
+This data structure is particularly viable for functional task-parallel and data-parallel programming, and is relatively simple to implement compared to other data-structures with similar asymptotic complexity.
+
+This data suggested that lactis-plasmid RNAs participate in the control of plasmid abundance.
+
+This data supports the local exchange network of the NANP and identifies planning changes in the network.
+
+This data typically contains a Gerber file for each image layer (copper layers, solder mask, legend or silk...).
+
+This data usually consists of latitude and longitude coordinates, though they can also include altitude, bearing, distance, accuracy data, and place names, and perhaps a time stamp.
+
+This data was prepared using the Data Development Kit Pro (DDK Pro), which ESRI licenses to select vendors.
+
+This data was taken from the 2007 paper "Gross National Happiness and Material Welfare in Bhutan and Japan" (Tashi Choden, Takayoshi Kusago, Kokoro Shirai, Center for Bhutan Studies, Osaka University).
+
+This data was used to plan a 100 square meter trench centered on the stone stump and extending to one meter beyond the furthest carved fragment previously recovered.
+
+This data was used to provide forecasts for the safe passage of aircraft flying between North America and Britain.
+
+This data will also be used to build a global dataset of historical weather reconstructions based on a grid of two degrees of latitude by two of longitude at six hourly intervals, entitled the 20th Century Reanalysis, or 20CR.
+
+This data will be combined with other available data from both ground-based and space-based telescopes to make the most extensive and intensive study of galaxies in the nearby Universe.
+
+This data will be deposited into two databases, ISPD - the International Surface Pressure Databank, ICOADS - the International Comprehensive Ocean-Atmosphere Data Set.
+
+This data will be studied at West Virginia University, and used to study the effect of everyday traffic on the bridge, but especially large, commercial trucks.
+
+This data would then be shown on a line with the filename by the CATalog command.
+
+This date also marks the 60th anniversary of the fall of Singapore in 1942.
+
+This date also marks the completion of the last leg of the first transcontinental rail line of the Canadian Pacific Railway from Montreal to Vancouver.
+
+This date can be changed by reenlistment, extension, retirement, renewal of active orders, and administrative separation, among other things.
+
+This date coincided with the Autumnal equinox and the end of the Catholic September Ember Days.
+
+This date coincides with the general elections of various other federal, state, and local races; since local governments are responsible for managing elections, these races typically all appear on one ballot.
+
+This date commemorates the inauguration, in 1896, of the first Olympic games of the modern era, in Athens (Greece).
+
+This date, equivalent to September 27, 417 CE in the proleptic Gregorian calendar, has been interpreted as the birth date of this ruler.
+
+This date had been previously pushed back many times.
+
+This date has been chosen because on May 7, 2012, the District Court of Cologne (Germany) has judged for the first time in Germany, that the circumcision of male children is an assault.
+
+This Date is an American game show that aired on NBC from November 14, 1950 to June 28, 1951.
+
+This date is considered the formal beginning of rugby union in Croatia.
+
+This date is historically concurrent with the year of Governor Ashbel Parsons Willard's death.
+
+This date is in cement over the front door.
+
+This date is now taken as the official registration date of the Federal Union.
+
+This date is provided for under Saskatchewan's fixed election date law, but does not remove the ability of the Lieutenant Governor of Saskatchewan to call an early election due to a vote of no confidence or on the advice of the Premier of Saskatchewan.
+
+This date is recognized by the Hockey Hall of Fame, and prior to the 1985 Ice Hockey Varsity Match, the International Ice Hockey Federation formally recognized the 1885 game as the first ice hockey match played in Europe.
+
+This date is significant because nationalization of the Big Four occurred the next day, 1 January 1948.
+
+This date is termed as "Book Closure" date.
+
+This date is the anniversary of the birth of Henry Dunant, who was born on 8 May 1828.
+
+This date is the only date each year where both the month and day are different perfect numbers, June 6 being the only date where the month and day are the same perfect number.
+
+This date letter denotes the year in which the piece was made or hallmarked and is changed on January 1 each year.
+
+This date only slightly precedes the first appearance of cricetodontines.
+
+This dates back to an ancient right of the Manx to appeal to the Crown of England against the decisions of the Lord of Mann, who in previous times was the supreme insular legal authority, and was explicitly confirmed by the Privy Council in their decision of Christian v. Corren in 1716, several years before revestment.
+
+This dates back to the ancient right of the king to at any time have an account as to why the liberty of any of his subjects was restrained, and operated in the Isle of Man pre-revestment, as it did across all the king's dominions despite the other competencies of the Kings's Bench being restricted to England.
+
+This dates back to the early 19th century and was sculpted by Robert Forrest.
+
+This dates back to when both stations were simulcast for a large portion of the broadcast day, and how they were referred to on air.
+
+This dates back to when Forty Foot drain (also called Vermuyden's Drain) was cut.

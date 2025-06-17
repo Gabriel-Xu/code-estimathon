@@ -1,0 +1,199 @@
+Proteins and enzymes consist of amino acids, some of which are titratable (i.
+
+e. they can alter their charge when the pH of the solution changes), and an enzyme commonly needs a set of specific residues in its active site to occupy a specific protonation state to be catalytically active.
+
+Proteins and nucleic acids are the workhorses of biology, providing the necessary chemical reactions, structural organization, growth, mobility, reproduction, and environmental sensitivity.
+
+Proteins are adapted to high membrane fluidity environment of lipid bilayer with the presence of an annular lipid shell, consisting of lipid molecules bound tightly to surface of integral membrane proteins.
+
+Proteins are always digested by a particular type of enzymes like pepsin, trypsin, etc.
+
+Proteins are based on polypeptides, which are unique sequences of amino acids.
+
+Proteins are biological macromolecules and function in an aqueous environment, so protein crystallization is predominantly carried out in water.
+
+Proteins are composed of repeating nitrogen-containing subunits called amino acids.
+
+Proteins are composed of repeating nitrogen-containing subunits called amino acids that in nature do not exist as straight chains called primary structure, but as folded whorls with complex loops.
+
+Proteins are essential nutrients for the human body.
+
+Proteins are inherently flexible and this database collects information on this subject for use in molecular research.
+
+Proteins are made up of amino acids which connect by peptide bonds and form into polypeptide chains.
+
+Proteins are not passed through the glomerular filter because of their large size, and do not appear in the filtrate or urine unless a disease process has affected the glomerular capsule or the proximal and distal convoluted tubules of the nephron.
+
+Proteins are polymer chains made of amino acids linked together by peptide bonds.
+
+Proteins are present in wine.
+
+Proteins are produced in the cytoplasm as precursors, and require a chaperone subunit to direct them to the translocase component.
+
+Proteins are produced in the cytoplasm as precursors, and require a chaperone subunit to direct them to the translocase component within the membrane.
+
+Proteins are separated on a polyacrylamide gel (PAGE) containing sodium dodecyl sulfate (SDS), renatured by removing SDS in the presence of urea, and blotted onto nitrocellulose by diffusion.
+
+Proteins are synthesized by ribosomes translating mRNA into polypeptide chains, which may then undergo PTM to form the mature protein product.
+
+Proteins are the fundamental functional components of cells.
+
+Proteins are typically ionized by electrospray ionization and trapped in a Fourier transform ion cyclotron resonance (Penning trap), quadrupole ion trap (Paul trap) or Orbitrap mass spectrometer.
+
+Proteins belonging to the WD repeat family are involved in a variety of cellular processes, including cell cycle progression, signal transduction, apoptosis, and gene regulation.
+
+Proteins belonging to this family play a central role in inducible gene transcription during the immune response.
+
+Proteins bind AREs to affect the stability or decay rate of transcripts in a localized manner or affect translation initiation.
+
+Proteins can be targeted to the inner space of an organelle, different intracellular membranes, plasma membrane, or to exterior of the cell via secretion.
+
+Protein Science is a peer-reviewed scientific journal covering research on the structure, function, and biochemical significance of proteins, their role in molecular and cell biology, genetics, and evolution, and their regulation and mechanisms of action.
+
+Protein Sciences Corporation is a biotech company based in Meriden, Connecticut.
+
+Protein Sciences has developed a novel method for vaccine production, using a genetically modified baculovirus that is allowed to reproduce in insect cells.
+
+Protein SCO1 homolog, mitochondrial, also known as SCO1, cytochrome c oxidase assembly protein, is a protein that in humans is encoded by the SCO1 gene.
+
+Proteins constitute the remaining 2% .
+
+Proteins containing a chromo shadow domain include Drosophila and human heterochromatin protein Su(var)205 (HP1); and mammalian modifier 1 and modifier 2.
+
+Proteins containing a GA module include PAB from Peptostreptococcus magnus.
+
+Proteins containing BIR are known as inhibitor of apoptosis proteins (IAPs), or BIR-containing proteins (BIRPs or BIRCs), and include BIRC1 (NAIP), BIRC2 (cIAP1), BIRC3 (cIAP2), BIRC4 (xIAP), BIRC5 (survivin) and BIRC6.
+
+BIR domains belong to the zinc-finger domain family and characteristically have a number of invariant amino acid residues, including 3 conserved cysteines and one conserved histidine, which coordinate a zinc ion.
+
+Proteins containing the cobalamin-binding domain include: Animal and prokaryotic methionine synthase (EC 2.
+
+1.
+
+1.
+
+13), which catalyze the transfer of a methyl group from methyl-cobalamin to homocysteine, yielding enzyme-bound cob(I)alamin and methionine.
+
+Proteins containing this domain are transcription factors.
+
+Proteins containing this domain at the C terminus include ubiquitin-protein ligase, which regulates ubiquitination of CDC25.
+
+Proteins containing this domain include: Jacalin, a tetrameric plant seed lectin and agglutinin from Artocarpus heterophyllus (jackfruit), which is specific for galactose.
+
+Proteins containing this residue are found at the active site of some nitrile hydratases.
+
+Proteins containing WD transducin repeating domains have been found to play a role in a variety of functions ranging from signal transduction and transcription regulation to cell cycle control, autophagy and apoptosis.
+
+Proteins currently known to belong to the CstA family are listed in the Transporter Classification Database.
+
+Proteins display two modes of DNA binding, which hinge on the homeodomain and on the linker that separates it from the CUT domain, and two modes of transcriptional stimulation, which hinge on the homeodomain.
+
+Protein SEC13 homolog is a protein that in humans is encoded by the SEC13 gene.
+
+Protein secretion can increase the stability of cloned gene products.
+
+PROteINSECT consortium has 3 year (2013-2016) partnership from Europe, Africa and Asia, ranging from feed industry multinationals, research centers and universities, to farmers and experts in policy change and communications.
+
+Protein segment finder, or PSF, is a search engine to quickly identify protein segments obeying a set of primary, secondary and tertiary structure constraints in the Protein Data Bank.
+
+Protein sel-1 homolog 1 is a protein that in humans is encoded by the SEL1L gene.
+
+Proteins encoded by the complexin/synaphin gene family are cytosolic proteins that function in synaptic vesicle exocytosis.
+
+Protein sequencing is the practical process of determining the amino acid sequence of all or part of a protein or peptide.
+
+Protein sequencing of highly purified RA33 revealed that it was identical to hetergoneous nuclear ribonucleoprotein A2/B1 (hnRPA2B1).
+
+Protein serine/threonine phosphatase (PSP) is a form of phosphoprotein phosphatase that acts upon phosphorylated serine/threonine residues.
+
+Protein SET is a protein that in humans is encoded by the SET gene.
+
+Proteins expressed inside the chloroplast of algae (the most common site of genetic engineering and protein production) do not undergo glycosylation, a form of posttranslational modification.
+
+Proteins from other bacteria include proteorhodopsin.
+
+Proteins from this group participate in 7 metabolic pathways: MAPK signaling pathway, cytokine-cytokine receptor interaction, TGF beta signaling pathway, adherens junction, colorectal cancer, pancreatic cancer, and chronic myeloid leukemia.
+
+Proteins harboring beta-xylosidase and xylanase activities have been identified in the Gram-positive, facultative thermophilic aerobe Bacillus stearothermophilus 21.
+
+Proteins have a very high imbibing capacity then starch less and cellulose least.
+
+Proteins homologous to the mitochondrial oxidase and the related plastid terminal oxidase have also been identified in bacterial genomes.
+
+Protein shroom3 also known as shroom-related protein is a protein that in humans is encoded by the SHROOM3 gene.
+
+Protein shroom3 is a PDZ domain-containing protein that belongs to a family of Shroom-related proteins.
+
+Proteins in a family descend from a common ancestor (see homology) and typically have similar three-dimensional structures, functions, and significant sequence similarity.
+
+Proteins in the glutamate receptor-interacting protein (GRIP) family have been shown to interact with GluR2, a common subunit in the AMPA receptor.
+
+Proteins in this entry are type III secretion system effectors.
+
+Proteins in this family are predicted to consist of eight transmembrane beta-sheets and four cell surface-exposed loops.
+
+Proteins in this family are typically found to contain two transmembrane segments (TMSs) and range between 70 to 80 amino acyl residues (aas) in length.
+
+Proteins in this subfamily regulate transcription when recruited by serum response factor to bind to serum response elements.
+
+Proteins involved in the first step of nuclear import are members of the alpha importin family of karyopherins such as importin subunit alpha-2.
+
+Protein S is a protein found in Myxococcus xanthus.
+
+Protein-S-isoprenylcysteine O-methyltransferase is an enzyme that in humans is encoded by the ICMT gene.
+
+Proteins known to contain a BESS domain include: Drosophila Boundary element associated factor 32 (BEAF-32).
+
+Proteins known to contain a FAS1 domain include: Fasciclin I (4 FAS1 domains).
+
+Proteins known to contain an EMI domain include: Vertebrate Emilins, extracellular matrix glycoproteins.
+
+Protein SMG5 is a protein that in humans is encoded by the SMG5 gene.
+
+Protein SMG7 is a protein that in humans is encoded by the SMG7 gene.
+
+Proteins often have sorting signals, either transport signals or retention signals, specifying if a protein will translocate to another compartment within the cell or is retained in the current, membrane-bound, compartment in which it is already located respectively.
+
+Proteins of the CaCA family are found ubiquitously, having been identified in animals, plants, yeast, archaea and divergent bacteria.
+
+Proteins of the large Rab GTPase family (see RAB1A; MIM 179508) have regulatory roles in the formation, targeting, and fusion of intracellular transport vesicles.
+
+Proteins of the pentraxin family are involved in acute immunological responses.
+
+Proteins of the Proton-dependent Oligopeptide Transporter (POT) Family (also called the PTR (peptide transport) family) are found in animals, plants, yeast, archaea and both Gram-negative and Gram-positive bacteria, and are part of the major facilitator superfamily.
+
+Proteins of the RanBP1 family contain a WH1 domain in their N-terminal region, which seems to bind a different sequence motif present in the C-terminal part of RanGTP protein.
+
+Proteins of this family are predicted to be utilized in multiple morphogenic and developmental processes across animal phyla to regulate cells shape or intracellular architecture in an actin and myosin-dependent manner.
+
+Proteins of this family may also be involved in non-cell cycle-related functions, such as neurocytoskeleton dynamics.
+
+Proteins of this family play important role in host defense, injury and stress.
+
+Proteins of this superfamily all appear to have 3 transmembrane segments (TMSs) and have average sizes of 97 and 101 amino acyl residues (aas), respectively.
+
+Protein SOGA1 also known as SOGA family member 1 or suppressor of glucose, autophagy-associated protein 1 (SOGA1) is a protein that in humans is encoded by the SOGA1 gene.
+
+Protein SOGA3 also known as suppressor of glucose, autophagy associated 3 (SOGA3) is a protein in humans that is encoded by the SOGA3 gene.
+
+Protein solubility is a complex function of the physicochemical nature of the protein, pH, temperature, and the concentration of the salt used.
+
+Protein SOX-15 is a protein that in humans is encoded by the SOX15 gene.
+
+Protein sparing (amino acid sparing) is the process by which the body derives energy from sources other than protein.
+
+Protein sparing conserves muscle tissue.
+
+Protein splicing is an intramolecular reaction of a particular protein in which an internal protein segment (called an intein) is removed from a precursor protein with a ligation of C-terminal and N-terminal external proteins (called exteins) on both sides.
+
+Proteins possessing this activity include METAP1 and METAP2.
+
+Protein sprouty homolog 1 is a protein that in humans is encoded by the SPRY1 gene.
+
+Protein sprouty homolog 3 is a protein that in humans is encoded by the SPRY3 gene.
+
+Protein sprouty homolog 4 is a protein that in humans is encoded by the SPRY4 gene.
+
+Proteins residues from proteinaceous fining agents such as gelatin or egg white can possibly be found in wine.
+
+Proteins responsible for detecting stimuli are generally termed receptors, although in some cases the term sensor is used.

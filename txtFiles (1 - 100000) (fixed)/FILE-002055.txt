@@ -1,0 +1,173 @@
+Most other commonly-used solvents are organic (carbon-containing) chemicals. These are called organic solvents. Solvents usually have a low boiling point and evaporate easily or can be removed by distillation, thereby leaving the dissolved substance behind. Solvents should therefore not react chemically with the dissolved compounds - they have to be inert. Solvents can also be used to extract soluble compounds from a mixture, the most common example is the brewing of coffee or tea with hot water. Solvents are usually clear and colorless liquids and many have a characteristic smell. The concentration of a solution is the amount of compound that is dissolved in a certain volume of solvent. The solubility is the maximal amount of compound that is soluble in a certain volume of solvent at a specified temperature.
+
+Common uses for organic solvents are in dry cleaning (e.
+
+g. tetrachloroethylene), as paint thinners (e.
+
+g. toluene, turpentine), as nail polish removers and glue solvents (acetone, methyl acetate, ethyl acetate), in spot removers (e.
+
+g. hexane, petrol ether), in detergents (citrus terpenes), in perfumes (ethanol), and in chemical syntheses. Inorganic solvents are used in research chemistry and in a few technological processes.
+
+Some solvents including chloroform and benzene (an ingredient of gasoline) are carcinogenic. Many others can damage internal organs like the liver, the kidneys, or the brain. Many also can catch fire easily. Ways to work safely include:The solvents are grouped into non-polar, polar aprotic, and polar protic solvents and ordered by increasing polarity. The polarity is given as the Dielectric constant. The density of nonpolar solvents that are heavier than water is bolded.
+
+Chemically inertIn chemistry, the term inert is used to describe something that is not chemically active. The noble gases were described as being inert because they did not react with the other elements or themselves.
+
+Inert gases are completely inert to basic chemical reactions (such as combustion, for example) because their outer valence shell is completely filled with electrons. With a filled outer valence shell, an inert atom is not able to acquire or lose an electron, and is therefore not able to participate in any chemical reactions. For inert atoms or molecules, a lot of energy is involved before it can combine with other elements to form compounds. A high temperature and pressure is necessary, and sometimes requires the presence of a catalyst.
+
+For example, elemental nitrogen is inert under standard room conditions and exists as a diatomic molecule, N. The inertness of nitrogen is due to the presence of the very strong triple covalent bond in the N molecule.
+
+Inert atmospheres of gases such as carbon dioxide, nitrogen and argon are routinely used in working with processes that will go wrong if air or water is present. For example, some welding must be done in argon so the material will not burn.
+
+Electron shellAn electron shell, or main energy level, is the part of an atom where electrons are found orbiting the atom's nucleus.
+
+In chemistry and atomic physics, an electron shell may be thought of as an orbit followed by electrons around an atom's nucleus. All atoms have one or more electron shell(s), all of which have varying numbers of electrons.
+
+Each electron shell has one or more electron sub-shells, or sub-levels. Electron shells make up the electron configuration of an atom. The number of electrons that can be in a certain shell is equal to formula_1, where formula_2 is the number of a shell.
+
+The name for electron shells came from the Bohr model, which states that electrons orbit the nucleus at certain distances so that their orbits form "shells". This term was presented by Niels Henrik David Bohr.
+
+The valence shell is the outermost shell of an atom in its neutral state. The valence shell contains the electrons most likely to be involved in reactions.
+
+In a noble gas, an atom tends to have eight electrons in its outer shell (except helium, which is only able to fill its shell with two electrons). Noble gases serve as the model for the octet rule, which states that atoms tend to form bonds or create ions so that they can have eight electrons in their outermost shell. This is mostly applicable to the main-group elements of the second and third periods.
+
+For coordination complexes containing transition metals, the valence shell consists of 18 electrons. This is referred to as the "eighteen electron rule".
+
+Electron sub-shells are identified by the letters s, p, d, f, g, h, i, etc., corresponding to the : 0, 1, 2, 3, 4, 5, 6, etc. Each shell is able to hold 2, 6, 10, 14, and 18 electrons respectively.
+
+WheelchairA wheelchair is a type of chair usually used by disabled people.
+
+A wheelchair is moved either manually (by pushing the wheels with the hands, or pushed from behind with handles by somebody who is not sitting in the wheelchair) or by automated systems such as electric motors which can be controlled by the wheelchair user (the person sitting in the chair) or by somebody walking behind or beside the wheelchair if the wheelchair user needs help to move their wheelchair.
+
+Wheelchairs are used by people for whom walking is difficult or impossible due to illness, injury, or disability. Wheelchairs can have extra cushions and other parts added to improve support if the wheelchair user cannot keep their body in a good sitting position, or to make the wheelchair more comfortable to sit in. The earliest record of the wheelchair in England dates from the 1670s [Oxford English Dictionary, (2nd Ed.), 1989, Vol. XX., p. 203.], and in continental Europe this technology dates back to the German Renaissance.
+
+In 1655, Stephan Farffler, a 22-year-old paraplegic watchmaker, built the world's first self-propelling chair on a three-wheel chassis using a system of cranks and cogwheels. However, the device resembled a hand bike more than a wheelchair since the design included hand cranks mounted at the front wheel.
+
+Fuel oilFuel oil is a fraction obtained from petroleum distillation, either as a distillate or a residue at the oil refinery.
+
+Broadly speaking, fuel oil is any liquid petroleum product that is burned in a furnace or boiler for the generation of heat or used in an engine for the generation of power, except oils having a flash point of approximately +40 °C and oils burned in cotton or wool-wick burners. In this sense, diesel is a type of fuel oil. Fuel oil is made of long hydrocarbon chains, particularly alkanes, cycloalkanes and aromatics. The term "fuel oil" is also used in a stricter sense to refer only to the heaviest commercial fuel that can be obtained from crude oil, heavier than gasoline and naphtha.
+
+Fuel oil in the United States is classified into six classes, according to its boiling temperature, composition and purpose. The boiling point, ranging from 175 to 600 °C, and carbon chain length, 20 to 70 atoms, of the fuel increases with number. Viscosity also increases with fuel oil number and the heaviest oil has to be heated to get it to flow. Price usually decreases as the fuel number increases.
+
+No. 1 fuel oil, No. 2 fuel oil (heating oil), and No. 3 fuel oil are referred to as distillate fuel oils, diesel fuel oils, light fuel oils, gasoil or just distillate. For example, No. 2 fuel oil, No. 2 distillate and No. 2 diesel fuel oil are almost the same thing. Diesel is different in that it also has a cetane number limit which describes the ignition quality of the fuel. Distillate fuel oils are distilled from crude oil.
+
+List of large wind farmsThis is a list of large wind farms, with a generating capacity of 100 megawatts (MW) or more, which are currently operating, under construction, or proposed. Wind power capacity has expanded quickly to 336 GW in June 2014, and wind energy production was about 4% of total worldwide electricity usage, and growing fast.
+
+Wind power is widely used in Europe, and more recently in the United States and Asia. Wind power accounts for approximately 19% of electricity generation in Denmark, 11% in Spain and Portugal, and 9% in the Republic of Ireland.
+
+Many of the largest onshore wind farms are in the USA. As of January 2014, the Alta Wind Energy Center is the largest onshore wind farm in the world at 1,020 MW.
+
+Many of the largest offshore wind farms are in Europe. As of January 2014, the London Array is the largest offshore wind farm in the world at 630 MW.
+
+Horse Hollow Wind Energy CenterHorse Hollow Wind Energy Center is a large wind farm with 735.
+
+5 megawatt (MW) capacity. It consists of 291 GE 1.
+
+5 MW wind turbines and 130 Siemens 2.
+
+3 MW wind turbines spread over nearly 47,000 acres (190 km²) of land in Taylor and Nolan County, Texas.
+
+The first phase of the Horse Hollow Wind Energy Center consisted of 213 MW and was completed in late 2005; phase two consisted of 223.
+
+5 MW and was completed in the second quarter of 2006; phase three which consisted of 299 MW, was completed by the end of 2006.
+
+List of solar thermal power stationsThis is a list of solar thermal power stations. These include the 354 megawatt (MW) Solar Energy Generating Systems power plant in the US, Solnova solar power station (Spain, 150 MW), Andasol solar power station (Spain, 100 MW), Nevada Solar One (USA, 64 MW), PS20 solar power tower (Spain, 20 MW), and the PS10 solar power tower (Spain, 11 MW). Many other plants are under construction or planned, mainly in Spain and the USA. In developing countries, three World Bank projects for integrated solar thermal/combined-cycle gas-turbine power plants in Egypt, Mexico, and Morocco have been approved.
+
+Andasol Solar Power StationAndasol Solar Power Station is a large solar thermal power plant, near Guadix in Andalusia, in the province of Granada, one of the sunniest regions in Spain. The plant will cost 310 million euros and is currently under construction.
+
+Andasol will have a generating capacity of 50 megawatts and liquid salt heat storage will allow for electricity to be generated for seven hours after the sun has gone down. Annual electricity production will be 179 gigawatt hours which will cover the electricity demands of 50,000 households or 200,000 people.
+
+Andasol should be completed in mid-2008 and a second plant, Andasol 2, is planned.
+
+Atlantic slave tradeThe Atlantic slave trade was the selling of African slaves by Europeans in and around the Atlantic Ocean. It lasted from the 15th century to the 19th century. Most slaves were shipped from West Africa and brought over to the New World on a slave ship. The slaves on these ships lived in unhealthy conditions. Many died on the ships. The journey by ship was known as the Middle Passage.
+
+Some slaves were captured in battles or through raids and kidnapping. Some were sold into slavery as punishment or to pay a debt, usually by other Africans. Then they were shackled together and marched to the coast on journeys lasting weeks or months. When they arrived they were imprisoned in forts where they were purchased by Europeans. Most historians today think that 12 to 13 million Africans arrived in the New World.
+
+The Dahomian army was involved and traded slaves for weapons to protect themselves. King Gezo of Dahomey said in the 1840s:The slave trade is sometimes called the "Maafa" by African and African-American scholars. It means catastrophe in the Swahili language. Some slave ships worked a three-part economic cycle often called the triangular trade. It tied the economies of several regions and continents together. The main triangular trading countries were England, The Netherlands, France, Spain and Portugal. Other ships just worked the slave trade.
+
+Christopher Columbus first came to the Americas in 1492 while seeking the West Indies. European countries started to build colonies in the Americas. This led to an economic reason for the Atlantic slave trade. Slaves were first imported in large numbers for mining and later to grow sugarcane in plantations. Slavery is much more ancient than the transatlantic trade. Slaves were used in many ancient societies.
+
+Historians think that about 4.
+
+9 million slaves were brought to Brazil, 1.
+
+3 million to the Spanish colonies, and 400 thousand to mainland North America. About 3.
+
+9 million were brought to other parts of the Americans, mainly the Caribbean. Records show that only about 9000 slaves were brought to Europe.
+
+In the 18th century, a small opposition developed against the slave trade in Britain, America, and some parts of Europe. In Britain and America, opposition to the trade was led by the Religious Society of Friends (Quakers) and establishment Evangelicals such as William Wilberforce. People who protested against the trade were opposed by the owners of land in the Americas. After 1772, slaves became free upon entering the British Isles. Abolitionism became stronger in the 19th century.
+
+Denmark was the first European country to ban the slave trade, in 1792, which took effect in 1803. On 22 February 1807, the work of William Wilberforce was rewarded with victory. By 283 votes for to 16 against, the British House of Commons passed the Slave Trade Act to abolish the slave trade. The United States abolished it later that year. The Royal Navy set up a Blockade of Africa to stop the trade. Treaties with other nations allowed the blockade ships to stop their slave trade. However, the smuggling of slaves was very common. Hundreds of thousands of black people were enslaved illegally. New York City was a center for this illegal slave trade. Judges in New York avoided punishing slave traders through the 19th century.
+
+Many slaves continued to be sent to Spanish colonies of Puerto Rico and Cuba and much of South America. The slave trade in Brazil was banned in 1831. But many people in Brazil thought it was necessary for their economy, so the country failed to stop it. Hundreds of thousands more slaves were brought to Brazil in the 1830s and 1840s until the British forced Brazil to end the slave trade.
+
+African slave tradeThe African slave trade was a trade in slaves and, like most of the world, has carried on for thousands of years in Africa. The first main route passed through the Sahara. After the Age of Exploration, African slaves became part of the Atlantic slave trade, from which comes the modern, Western type of slavery. Despite being against the law, slavery continues in all parts of the world, including Africa. In Mauritania, slavery was not made illegal until August 2007.
+
+Pocking Solar Park in GermanyThe Pocking Solar Park is a 10-megawatt (MWp) solar photovoltaic plant which is among the largest in the world. Construction of the power plant started in August 2005 and was completed in March 2006. On the former military training area in the Lower-Bavarian town of Pocking, sheep are now grazing under and around the 57,912 photovoltaic modules.
+
+Fractional distillationFractional distillation is a process of separating a mixture of chemical compounds. This means that each part (called a "fraction") of the mixture can be kept apart from the other chemicals. Different chemicals have different boiling points. Fractional distillation is done by heating the mixture so that it evaporates and then each fraction condenses in its own separate compartment. The reason we don't use simple distillation is because for liquids that boil at less than 25°C from each other, some of the other liquid(s) may evaporate and so part of the separated liquid may have part of the other liquid(s).
+
+It is a special type of distillation. Generally, the component parts boil at less than 25°C from each other under a pressure of one atmosphere. If the difference in boiling points is greater than 25°C, a simple distillation is used.
+
+Fractionation is done by boiling a mixture in a fractionating column. The mixture evaporates at different times and is caught in a container as a pure compound.
+
+Fractional distillation is the main activity of oil refineries, and is done in a large fractionating column known as a "fractionation tower".
+
+Industrially, crude oil is heated and sent up along the fractionating column that has decreasing temperatures with height and several platforms at different levels to collect the condensate. Different components of crude oil have different boiling points. High molecular weight components have higher boiling points and condense at lower portions of the column while fractions with lower boiling points rise to the top of the column to condense.
+
+The main fractions include refinery gases, gasoline (petrol), naphtha, kerosene, diesel oil, fuel oil, and a residue that contains bitumen. These fractions are mainly used as fuels, although they do have other uses too. Hydrocarbons with small molecules make better fuels than those with large molecules because they are volatile, flow easily and are easily ignitedhttps://www.
+
+quora.
+
+com/Why-does-simple-distillation-not-give-pure-compoundsMonte Alto solar power plantThe Monte Alto photovoltaic power plant in Spain has a generating capacity of 9.
+
+55 megawatts peak (MWp) and will generate 14 million kilowatt-hours of electricity per year. It cost 65 million Euros [US$87 million].
+
+The plant covers an area of 51 hectares on agricultural land near the locality of Milagro (Navarre) and contains 889 solar structures, of which 864 have automated solar tracking. The rest are fixed structures adapted to the terrain.
+
+OdorAn odor or odour is a volatilized chemical compound, usually at a very low concentration, which humans and other animals perceive by the sense of olfaction.
+
+Odors are also called smells, which can be used to describe both pleasant and unpleasant odors. The words fragrance, scent, or aroma are used mostly by the food and cosmetic industry to describe a pleasant odor, and is sometimes used to refer to perfumes. On the other hand, the words stench, reek, and stink are used specifically to describe unpleasant odors.
+
+Odor is a sensation caused by molecules dissolved in air.
+
+The widest range of odors are made up of organic compounds although some inorganic substances, such as hydrogen sulfide and ammonia, are also odorants.
+
+The perception of an odor effect is a two step process.
+
+First, there is the physiological part; the sense of the stimulus by receptors in the nose.
+
+After that the psychological part follows. The stimuli are processed by the region of the human brain which is responsible for smelling.
+
+Because of this, an objective and analytical measure of odor is impossible.
+
+While odor feelings are very personal perceptions, individual reactions are related to gender, age, state of health and private affectations. Common odors that people are used to, such as their own body odor, are less noticeable to individuals than external or uncommon odors.
+
+For most people, the process of smelling gives little information concerning the ingredients of a substance. It only offers information related to the emotional impact. However, experienced people, such as flavorists and perfumers can pick out individual chemicals in complex mixes through smell alone.
+
+The concentrations of odorant in Germany are defined by the “Olfaktometrie” since the 1870s. In this connection it's about the standard method to define the sense barrier of odors on basis the thinner of concentrated odor loaded assays. Following parameters are defined: odor substance concentration, intensity of odor and hedonism assessment.
+
+Pheromones are odors that are deliberately used for communication. A female moth may release a pheromone that can entice a male moth that is several kilometers away. Honeybee queens constantly release pheromones that regulate the activity of the hive. Workers can release such smells to call other bees into an appropriate cavity when a swarm moves in or to "sound" an alarm when the hive is threatened.
+
+In mammals, some pathway of pheromones identification are in the vomeronasal organ and some in olfactory receptors.
+
+European ashThe European ash ("Fraxinus excelsior") is a kind of ash tree. It is found throughout Europe and not just Scandinavia. It is a deciduous tree that grows to a height of 20–35 metres.
+
+Ash wood is very easy to bend. It is therefore the material of choice to make bows. Tennis rackets, and the long poles used for snooker are sometimes made from it.
+
+In Norse mythology, the tree Yggdrasil was a European ash. The tree linked all the nine world, Niflheim and Asgard, amongst others. Below the tree resides Hel as well as the Well of Urd.
+
+Solar power in SpainSpain is the fourth largest manufacturer in the world of solar power technology and exports 80 percent of this output to Germany. Spain is one of the most attractive countries with regard to the development of solar energy, as it has the greatest amount of available sunshine of any country in Europe.
+
+The Spanish government wants to produce 12 percent of primary energy from renewable energy by 2010. That would mean a solar generating capacity of 400 megawatts.
+
+Through a ministerial ruling in March 2004, the Spanish government removed economic barriers to grid-connection of renewable energy. The widely applauded Royal Decree 436/2004 equalises conditions for large-scale thermal and photovoltaic plants and guarantees feed-in tariffs.
+
+In March 2007, Europe's first commercial concentrating solar power tower plant was opened near the sunny southern Spanish city of Seville. The 11 megawatt plant, known as the PS10 solar power tower, produces electricity with 624 large heliostats. Each of these mirrors has a surface measuring 120 square meters (1,290 square feet) that concentrates the Sun's rays to the top of a 115-meter (377 foot) high tower where a solar receiver and a steam turbine are located. The turbine drives a generator, producing electricity. PS10 is the first of a set of solar electric power generation plants to be constructed in the same area that will total more than 300MW by 2013. This power generation will be accomplished using a variety of technologies.
+
+Solar thermal power plants designed for solar-only generation are ideally matched to summer noon peak loads in prosperous areas with significant cooling demands, such as Spain. Using thermal energy storage systems, solar thermal operating periods can even be extended to meet base-load needs. For example, the 50-MWe AndaSol solar trough power plants are designed with six to twelve hours of thermal storage, which increases annual availability by some 1,000 to 2,500 hours.
+
+Construction has started on a 20MW solar photovoltaics power system in Trujillo, Cáceres, in Spain. Costing €150m, the new plant will have double the output of the 10MW Bavaria Solar Park in Germany, the previous largest ever photovoltaic (PV) system. The project will use 200 100 kW units (120,000 PV modules in total), gaining the top feed-in tariff for this type of plant.
+
+BP Solar has begun constructing a new solar photovoltaic (PV) solar cell manufacturing plant at its European headquarters in Tres Cantos, Madrid.
+
+For phase one of the Madrid expansion, BP Solar is aiming to expand its annual cell capacity from 55 megawatts (MW) to around 300 MW. Construction of this facility is underway, with the first manufacturing line expected to be fully operational this year.

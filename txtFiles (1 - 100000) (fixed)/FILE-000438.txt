@@ -1,0 +1,79 @@
+In 1925, Werner Heisenberg described the Uncertainty principle, which says that the more we know about where a particle is, the less we can know about how fast it is going and in which direction. In other words, the more we know about the speed and direction of something small, the less we can know about its position. Physicists usually talk about the momentum in such discussions instead of talking about speed. Momentum is just the speed of something in a certain direction times its mass.
+
+The reason behind Heisenberg's uncertainty principle says that we can never know both the location and the momentum of a particle. Because light is an abundant particle, it is used for measuring other particles. The only way to measure it is to bounce the light wave off of the particle and record the results. If a high energy, or high frequency, light beam is used, we can tell precisely where it is, but cannot tell how fast it was going. This is because the high energy photon transfers energy to the particle and changes the particle's speed. If we use a low energy photon, we can tell how fast it is going, but not where it is. This is because we are using light with a longer wavelength. The longer wavelength means the particle could be anywhere along the stretch of the wave.
+
+The principle also says that there are many pairs of measurements for which we cannot know both of them about any particle (a very small thing), no matter how hard we try. The more we learn about one of such a pair, the less we can know about the other.
+
+Even Albert Einstein had trouble accepting such a bizarre concept, and in a well-known debate said, "God does not play dice".
+
+To this, Danish physicist Niels Bohr famously responded, "Einstein, don't tell God what to do".
+
+Electrons surround every atom's nucleus. Chemical bonds link atoms to form molecules. A chemical bond links two atoms when electrons are shared between those atoms. Thus quantum mechanics is the physics of the chemical bond and of chemistry. Quantum mechanics helps us understand how molecules are made, and what their properties are.
+
+Quantum mechanics can also help us understand big things, such as stars and even the whole universe. Quantum mechanics is a very important part of the theory of how the universe began called the Big Bang.
+
+Everything made of matter is attracted to other matter because of a fundamental force called gravity. Einstein's theory that explains gravity is called the theory of general relativity. A problem in modern physics is that some conclusions of quantum mechanics do not seem to agree with the theory of general relativity.
+
+Quantum mechanics is the part of physics that can explain why all electronic technology works as it does. Thus quantum mechanics explains how computers work, because computers are electronic machines. But the designers of the early computer hardware of around 1950 or 1960 did not need to think about quantum mechanics. The designers of radios and televisions at that time did not think about quantum mechanics either. However, the design of the more powerful integrated circuits and computer memory technologies of recent years does require quantum mechanics.
+
+Quantum mechanics has also made possible technologies such as:Quantum mechanics is a challenging subject for several reasons:Quantum mechanics describes nature in a way that is different from how we usually think about science. It tells us how likely to happen some things are, rather than telling us that they certainly will happen.
+
+One example is Young's double-slit experiment. If we shoot single photons (single units of light) from a laser at a sheet of photographic film, we will see a single spot of light on the developed film. If we put a sheet of metal in between, and make two very narrow slits in the sheet, when we fire many photons at the metal sheet, and they have to go through the slits, then we will see something remarkable. All the way across the sheet of developed film we will see a series of bright and dark bands. We can use mathematics to tell exactly where the bright bands will be and how bright the light was that made them, that is, we can tell ahead of time how many photons will fall on each band. But if we slow the process down and see where each photon lands on the screen we can never tell ahead of time where the next one will show up. We can know for sure that it is most likely that a photon will hit the center bright band, and that it gets less and less likely that a photon will show up at bands farther and farther from the center. So we know for sure that the bands will be brightest at the center and get dimmer and dimmer farther away. But we never know for sure which photon will go into which band.
+
+One of the strange conclusions of quantum mechanics theory is the "Schrödinger's cat" effect. Certain properties of a particle, such as their position, speed of motion, direction of motion, and "spin", cannot be talked about until something measures them (a photon bouncing off of an electron would count as a measurement of its position, for example). Before the measurement, the particle is in a "superposition of states," in which its properties have many values at the same time. Schrödinger said that quantum mechanics seemed to say that if something (such as the life or death of a cat) was determined by a quantum event, then its state would be determined by the state that resulted from the quantum event, but only at the time that somebody looked at the state of the quantum event. In the time before the state of the quantum event is looked at, perhaps "the living and dead cat (pardonthe expression) [are] mixed or smeared out in equal parts."
+
+People often use the symbol formula_6, which is called "h-bar." formula_7 . H-bar is a unit of angular momentum. When this new unit is used to describe the orbits of electrons in atoms, the angular momentum of any electron in orbit is always a whole number.
+
+The particle in a 1-dimensional well is the most simple example showing that the energy of a particle can only have specific values. The energy is said to be "quantized."
+
+The well has zero potential energy inside a range and has infinite potential energy everywhere outside that range. For the 1-dimensional case in the formula_8 direction, the time-independent Schrödinger equation can be written as:Using differential equations, we can figure out that formula_10 can be written asor asThe walls of the box mean that the wavefunction must have a special form. The wavefunction of the particle must be zero anytime the walls are infinitely tall. At each wall:Consider "x" = 0Now consider: formula_15We can see that formula_22 must be an integer. This means that the particle can only have special energy values and cannot have the energy values in between. This is an example of energy "quantization."
+
+DuisburgDuisburg (; , Ripuarian: "Duisburch", Low Franconian: "Duusbörg") is a German city in the state of North Rhine-Westphalia. It is where the Rhine and the Ruhr rivers meet. About 500,000 people live in Duisburg.
+
+KuopioKuopio is a city in Northern Savonia, Finland. It is the biggest city and cultural center of Eastern Finland. In November 2015 the population was about 112.
+
+000. It is the 8th biggest city in Finland.
+
+The city is surrounded by lake Kallavesi. Many parts of the city are built on islands. Kuopio has always been a city of education. Two important schools are the University of Eastern Finland and the Savonia University of Applied Sciences.
+
+Culture: The art museum is in the city.
+
+In 2011 the town of Karttula merged with Kuopio. In 2013 Nilsiä merged as well. In 2015, Maaninka merged with the city. In 2017 Juankoski merged with the city.
+
+Kuopio is twinned with:HammerA hammer is a tool for putting nails into objects such as wood. It has a long handle, and a tip with a flat end for hitting nails. The most common type of hammer (sometimes called a "claw hammer") has a curved end (on the other side of the hitting end) for pulling nails out.
+
+A sledgehammer is a hammer that has a longer shaft, and a more massive head. The user can swing it with two hands and apply more force.
+
+Hammers were used around 3.
+
+3 million years ago. The first hammers were made without handles. Stones attached to sticks with strips of leather or animal sinew were being used. Hammers with handles were made in 30,000 BCE during the middle of the Paleolithic Stone Age. The hammer was used for building, food and protection.
+
+Hammers can be classified into two. They are:Hand-powered hammers are hammers that are used with the hand. Examples include:Mechanically powered hammers are hammers that are used with a machine. Examples include:Big hammers were sometimes used as weapons. A tiny hammer is also used inside most small arms.
+
+FecesFeces (or faeces), also called poo or poop is the body's solid waste left over from eating food. Human feces leave the intestinal tract and are removed from the body through the anus. Feces are known for their unpleasant odor. The color, which can range from dark green through brown (the most common color) to bright yellow, depends on a lot of different things; for example, different foods can change the color of feces, so can some illnesses, like diarrhea. The consistency of feces changes too. In humans it is measured using the Bristol stool scale, a system for separating feces into 7 different types. It is used for medical diagnosis.
+
+Although feces are generally thought to be waste, they actually have many uses. Feces are used by some scientists to follow animal populations. Feces from animals and humans can be used to create fertilizers for plant crops. Some feces are also used as a fuel for fires.
+
+Animals can also poop. In informal language, there are many words for feces. These are often offensive or even vulgar. Examples include "shit", "poop", and "crap".
+
+In popular culture, there are a few books about feces. Most of these books are for children. One is called "Everyone Poops". It was written by Tarō Gomi, who is from Japan.
+
+CatholicismCatholicism is the traditions and beliefs of Catholic Churches. It refers to their theology, liturgy, morals and spirituality. The term usually refers to churches, both western and eastern, that are in full communion with the Holy See.
+
+In 2012, there were more than 1.
+
+1 billion Catholics worldwide. This makes up more than 17% of the world population.
+
+The word "Catholicism" comes from the Greek word "caholikismos" (). This means "universal".
+
+The word "Catholicism" refers to many things, including its religious beliefs (called theologies and "doctrines"), and its form of religious worship (called liturgies). The word also refers to Catholic religious beliefs about ethics (things that are right and wrong). It also refers to the ways that members of the Catholic religion live and practice their religion.
+
+Many people use the word Catholicism to talk about religious beliefs of the Catholic Church, whose leader is called the "Bishop of Rome" and often called the "Pope". The Catholic Church is based in the Vatican City, a small independent country in the city of Rome, Italy. Sometimes the word also refers to beliefs of other Christian churches, including the Eastern Orthodox Churches, who have many beliefs similar to the Catholic Church, but do not believe the Bishop of Rome is their leader.
+
+The word Catholicism is often used to tell the difference between the beliefs of Catholic Christians and the beliefs of others called Protestant Christians. Catholic and Orthodox churches use church leaders, called bishops, to determine beliefs. Protestants, however, often use each member's own understanding of the Bible to determine beliefs. Protestants use guidelines from the 16th-century Protestant Reformation to understand the Bible. It is the world's second largest religious denomination after Sunnism.
+
+The oldest document that uses the name "Catholic Church" is a letter written by a man named Ignatius. Ignatius lived in the ancient city of Antioch. In the year 107, Ignatius wrote a letter addressed to the Christian community in the ancient city of Smyrna. In this letter, Ignatius encouraged the Christian Community to be loyal to their leader, the Bishop. Ignatius wrote:"Wherever the bishop shall appear, there let the multitude of the people also be; even as, wherever Jesus Christ is, there is the Catholic Church."
+
+Many different denominations (groups) of Christians call themselves "catholic". Often these groups have special beliefs about their leaders, called bishops. They believe Jesus of Nazareth (whom Christians believe is the Son of God) appointed the first bishops, who appointed future bishops, who eventually appointed each community's current bishops. This appointing of leaders is called "Apostolic Succession".
+
+The groups that use the term "Catholic" to talk about themselves are the:Not all communities believe that other communities use the term "catholic" properly. Also, not all communities believe that the other communities have apostolic succession either. For example, the Catholic Church believes that the Eastern Orthodox have apostolic succession. However, the Catholic Church does not believe that the Anglicans or Lutherans have it.

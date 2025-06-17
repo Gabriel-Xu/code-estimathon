@@ -1,0 +1,39 @@
+Nautiluses are only found in the tropical Indian and Pacific Oceans, from 30° N to 30° S latitude and 90° to 185° W longitude. They live on the deep slopes of coral reefs.
+
+Logarithmic spiralA logarithmic spiral, equiangular spiral or growth spiral is a special kind of spiral curve which often appears in nature. The logarithmic spiral was first described by Descartes and later extensively investigated by Jakob Bernoulli, who called it "Spira mirabilis", "the marvelous spiral".
+
+In polar coordinates ("r", θ) the curve can be written asorhence the name "logarithmic". In parametric form, the curve iswith real numbers "a" and "b".
+
+The spiral has the property that the angle ɸ between the tangent and radial line at the point ("r",θ) is constant. This property can be expressed in differential geometric terms asThe derivative r'(θ) is proportional to the parameter "b". In other words, it controls how "tightly" and in which direction the spiral spirals. In the extreme case that "b" = 0 ("ɸ" = π/2) the spiral becomes a circle of radius "a". Conversely, in the limit that "b" approaches infinity ("ɸ" → 0) the spiral tends toward a straight line. The complement of ɸ is called the "pitch".
+
+Spira mirabilis, Latin for "miraculous spiral", is another name for the logarithmic spiral. While this curve had already been named by other mathematicians, the name "miraculous" or "marvelous" spiral was given to this curve by Jakob Bernoulli, because he was fascinated by one of its unique mathematical properties: the size of the spiral increases, but the shape stays the same with each added curve. Maybe because of this property, the spira mirabilis has evolved in nature, seen in some living beings, such as nautilus shells and sunflower heads. Jakob Bernoulli wanted the shape on his headstone, but, by error, an Archimedean spiral was placed there instead.
+
+The logarithmic spiral can be distinguished from the Archimedean spiral by the fact that the distances between the turnings of a logarithmic spiral increase in geometric progression, while in an Archimedean spiral these distances are constant.
+
+Logarithmic spirals are self-similar in that they are self-congruent under all similarity transformations (scaling them gives the same result as rotating them). Scaling by a factor formula_6 gives the same as the original, without rotation. They are also congruent to their own involutes, evolutes, and the pedal curves based on their centers.
+
+Starting at a point "P" and moving inwards along the spiral, one has to circle the origin infinitely often before reaching it; yet, the total distance covered on this path is finite. This was first realized by Evangelista Torricelli even before calculus had been invented. The total distance covered is "r"/cos(α), where "r" is the straight-line distance from "P" to the origin.
+
+One can construct approximate logarithmic spirals with pitch about 17.
+
+03239 degrees using Fibonacci numbers or the golden ratio as is explained in those articles. Similarly, the exponential function exactly maps all lines not parallel with the real or imaginary axis in the complex plane, to all logarithmic spirals in the complex plane with centre at 0. (Up to adding integer multiples of 2π"i" to the lines, the mapping of all lines to all logarithmic spirals is onto.) The pitch angle of the logarithmic spiral is the angle between the line and the imaginary axis.
+
+In several natural phenomena one may find curves that are close to being logarithmic spirals. Here follows some examples and reasons:Small whiteThe small white ("Pieris rapae") is a small to mid-sized butterfly of the 'yellows' & 'whites' Pieridae family. It is also commonly known as the small cabbage white or just the cabbage white.
+
+It is common across Europe, North Africa and Asia and has also been accidentally introduced to North America, Australia and New Zealand where they have become pests on cultivated cabbages and other mustard family crops.
+
+It looks like a smaller version of the Large White. The upperside is creamy white with black tips to the forewings. Females also have two black spots in the center of the forewings. Its underwings are yellowish with black .<
+
+br>Like its close relative the large white this is a strong flyer and the British population is increased by continental immigrants in most years. Like other 'white' butterflies it hibernates as a pupa. Like the large white, it is sometimes known as the cabbage white' or cabbage butterfly.
+
+It has two flight periods, April–May and July–August.
+
+Its caterpillars can be a pest on cultivated cabbages. . It also lays eggs on wild members of the cabbage family such as the charlock "Sinapis arvensis" and hedge mustard "Sisybrium officinale". The eggs are laid singly on foodplant leaves.
+
+Known in the United States as "imported cabbage worms", the caterpillars are green and well camouflaged. Unlike the large white they do not store the mustard oils from their foodplants and so are not distastful to predators like birds.
+
+ArgonautaArgonauta, the argonauts, is the only living genus in the Argonautidae family. They are a group of pelagic octopods.
+
+They are also called paper nautiluses, because of the paper-thin eggcase that females make. This structure does not have the gas-filled chambers of nautilus shells, and is not a true cephalopod shell. It is an evolutionary innovation unique to the genus "Argonauta".
+
+Argonauts are found in tropical and subtropical waters worldwide: they live in open ocean. Like most octopods, they have a rounded body, eight arms and no fins. However, unlike octopuses, argonauts live close to the sea surface rather than on the seabed. "Argonauta" species have very large eyes and small distal webs. They have a mantle-funnel locking apparatus, which is a way to identify the genus. It consists of knob-like cartilages in the mantle and corresponding depressions in the funnel. Unlike the closely related genera "Ocythoe" and "Tremoctopus", "Argonauta" species lack water pores.

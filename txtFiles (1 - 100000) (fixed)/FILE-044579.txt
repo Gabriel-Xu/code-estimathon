@@ -1,0 +1,217 @@
+It provides a phonemic transcription of General American pronunciations of words, using symbols largely corresponding to those of the IPA.
+
+It provides APIs for building ASP.
+
+NET or WCF based security token services as well as tools for building claims-aware and federation capable applications.
+
+It provides APIs, log implementations, and wrapper implementations over some other tools.
+
+It provides APIs that help companies devise their own communication flow.
+
+It provides a place for meetings and an exchange of experience among the filmmakers of Russia, the Muslim countries and the world.
+
+It provides a place for religious activities, work and housing of Christian monks and nuns.
+
+It provides a place for users to store various passwords, software licenses, and other sensitive information in a virtual vault that is locked with a PBKDF2-guarded master password.
+
+It provides a platform for advancing the understanding of management in a global context.
+
+It provides a platform for creating inquiry-based science projects for middle school and high school students to work collaboratively using evidence and resources from the Web.
+
+It provides a platform for members to arrange homestays, offer hospitality, meet other members, and join events.
+
+It provides a platform for new and established artists and puts out music from a variety of electronic music genres.
+
+It provides a platform for showcasing student-made films via termly screenings and hosts other film-related events throughout the year, including talks from industry professionals and filmmaking workshops.
+
+It provides a platform for students to develop their careers in the field of engineering, medicine, arts and management.
+
+It provides a platform for students to establish a connection between curricular knowledge and practical application, experiment with what they've been taught and showcase their scientific talents and skills.
+
+It provides a platform for the dissemination of research, current practices and future trends in the emerging discipline of cognitive computation that bridges gap between life sciences, social sciences, engineering, physical and mathematical sciences, and humanities.
+
+It provides a platform for the exchange of ideas and recognition of achievement in the electroanalytical community.
+
+It provides a platform to all individuals from all ages to participate in this movement of propagating the Right to Childhood.
+
+It provides a platform to initiate and maintain debate on the importance and direction of the research, bringing scientists together and implementing bodies to discuss issues relevant to the current status of knowledge and the requirements for the future.
+
+It provides a platform to showcase their talent and induce team spirit.
+
+It provides a platform where publishers, booksellers, agents, cultural organizations and press can meet, exchange ideas and identify business opportunities.
+
+It provides a platform where research done in ICT is presented by both local and foreign Computer Scientists and IT Professionals.
+
+It provides a plugin interface to emulate numerous consoles' hardware, such as the Nintendo Entertainment System, Genesis, Game Boy, and many more.
+
+It provides a portfolio of integrated services for people with a learning disability, mental health needs and for older adults including those living with dementia.
+
+It provides a potential means to extend Moore's Law beyond the foreseen limits of small-scale conventional silicon integrated circuits.
+
+It provides a powerful and mature set of Object-Oriented frameworks for managing Object-Relational Mapping (ORM) to any JDBC-compliant database, Session Management, Undo/Redo/Revert, Ajax, Web Services, full Java Client applications, Rapid Application Development, file upload/download and many other popular internet and enterprise application technologies.
+
+It provides application cluster capabilities to systems running other applications, including databases, network file sharing, and electronic commerce websites.
+
+It provides application integration with mission-critical Microsoft applications, including Microsoft Exchange, SQL, SharePoint, and Hyper-V. Replay 4 also supports Windows Small Business Servers, Domain Controllers, File servers, Web servers, and BlackBerry enterprise servers.
+
+It provides approximately 550 entries across 282 pages on topics including notable contributors, intelligence operations, historical events, and depictions of the CIA in fictional media.
+
+It provides a preliminary delineation of roles and responsibilities, outlines the project objectives, identifies the main stakeholders, and defines the authority of the project manager.
+
+It provides a primary reinforcement capability for the regular service, and consists of paid volunteers who give up some of their weekends, evenings and holidays to train at one of a number of squadrons around the United Kingdom.
+
+It provides a printf-like abstraction and its parsing of the format string and arguments behave exactly the same way.
+
+It provides a procedure for including "minor corrections and improvements" in Consolidation Bills.
+
+It provides a project-based approach to learning adapted from the internationally recognized Reggio Emilia method of instruction with a strong emphasis on language development.
+
+It provides a public forum for discussing, presenting and distributing papers that explore the field of the psychoanalytic organizational studies.
+
+It provides a quality education for which it is known.
+
+It provides a range of academic and vocational courses to school leavers, adults, employers and the wider local community.
+
+It provides a range of community, family, research and advocacy services.
+
+It provides a range of data security services designed to protect shared information throughout its lifecycle, offering on-demand security for organizations and individuals sharing confidential information electronically.
+
+It provides a range of financial products and services to a client base in three principal markets: the UK and Europe, Southern Africa, and Asia-Pacific.
+
+It provides a range of financial services including retail, business and rural banking, funds management, as well as insurance through its Sovereign Limited subsidiary, and investment and securities services through its ASB Group Investments and ASB Securities divisions.
+
+It provides a range of funds for institutional and private investors globally and is the world's largest publicly traded hedge fund company, reporting $103.
+
+5 billion in funds under management as of September 2017.
+
+It provides a range of health services, including inpatient, outpatient, surgical, emergency and mental health services.
+
+It provides a range of insurance, wealth and asset management solutions to individuals and corporate Clients.
+
+It provides a range of postal, courier, direct marketing, banking, insurance and electronic services in a highly competitive European market.
+
+It provides a range of primary health care services to the population of Quebec's Capitale-Nationale (Greater Quebec City) region.
+
+It provides a range of services all over the world including assessing medical and security risks, advising on preventive programs and assisting with emergency response for travelers, expatriates and their dependents.
+
+It provides a range of services to children and families in Ireland, and promotes children's rights.
+
+It provides a range of services to personal, business, commercial, corporate and financial intermediary customers from its base in St. Helier, Jersey.
+
+It provides a range of services to support credit professionals including its Credit Management magazine, learning and development services, including Ofqual-accredited qualifications, email briefings, helplines, and a range of resources relevant to credit management.
+
+It provides a range of video production and audiovisual services to the business community and to the public.
+
+It provides a range of wetland habitats which prove very popular with migrating birds, many of which have just crossed the Sahara.
+
+It provides a rapid and efficient way of converting a manufacturing process from running the current product to running the next product.
+
+It provides a rare opportunity to see Chaney and Beery in the same film.
+
+It provides architectural and interior design services for residences, hotels, schools and cultural institutions.
+
+It provides architectural design, programming, space analysis, interior design, and master planning services to both public and private clients, and its work includes educational and arts institutions, libraries, offices, residences, retail environments, and civic facilities.
+
+It provides a regional instrument for media research and monitoring, as well as it supports investigative journalism and civil society engagement.
+
+It provides a regional perspective by gathering information on settlement patterns over a large area.
+
+It provides a regular Eastern Time feed of the CBC Music network, with no local program origination.
+
+It provides a repository of tuples that can be accessed concurrently.
+
+It provides a research based participatory, collaborative and transdisciplinary platform for artistic experimentation and critical engagement.
+
+It provides arithmetic functions for vectors.
+
+It provides armed auxiliary police officers for mainly airline clients, one of three companies licensed to do so in Singapore.
+
+It provides a round-up of the week's community news, sport and events to over 75,000 households in the city and surrounding areas.
+
+It provides a route to appeal decisions made by local authorities regarding children's special educational needs and disability accommodation.
+
+It provides art-centered activities to create positive cognitive experiences and enhance communication.
+
+It provides articles and reviews in every domain of psychology and informs the international community about issues of common interest in its International Platform Section.
+
+It provides articles, news, price comparisons, videos and reviews on computer hardware and high technology.
+
+It provides articles on news and is published on a weekly basis.
+
+It provides artists and independent labels with a full-service "virtual label" alternative to signing with a major label.
+
+It provides a rule-based approach to create descriptions of malware families based on textual or binary patterns.
+
+It provides a runtime platform for developing and deploying mashups.
+
+It provides a runway able to accommodate wheeled aircraft that are larger than can be handled by other types of runways in the area.
+
+It provides a safe contained environment for research with liquids, combustion and hazardous materials in the microgravity conditions of the ISS.
+
+It provides a sanctuary for 19 animal species considered endangered, as well as flocks of between 300 to 500 flamingos and over 360 other bird species, of which 158 are migratory.
+
+It provides a scenic view of Kotli City and surrounding areas from this place.
+
+It provides a school bus transportation service, in order for children to get to their school and home, being responsible to the Director of Facilities.
+
+It provides a seamless integration with third party CAD and CAE software tools, powerful multi-objective and robust optimization algorithms, data analysis and uncertainty quantification tools.
+
+pSeven comes under the notion of PIDO (Process Integration and Design Optimization) software.
+
+It provides a service for UK based organizations looking to operate at an international level and also offers a specific entry point for global organizations looking to do business in the Humber region.
+
+It provides a service from four locations in Scotland.
+
+It provides a set of APIs that map to the underlying operating system (OS).
+
+It provides a set of Java classes which provides support within Java applications for scripting languages, and also allows access to Java objects and methods.
+
+It provides a set of object-oriented C++ classes designed to help address the inherent complexities and challenges in network programming by preventing common errors.
+
+It provides a set of OCaml libraries that are used to define grammars as well as loadable syntax extensions of such grammars.
+
+It provides a set of software services that are necessary to support federates to coordinate their operations and data exchange during a runtime execution.
+
+It provides a shared location on the network allowing multiple users to store and edit calendaring and contact information.
+
+It provides a short link between Sheaf Square and one of the great road arteries, Arundel Gate.
+
+It provides a short link between the M25 at Sevenoaks and the M20 near West Malling.
+
+It provides a showcase for their talents, bringing them together with professionals and artists.
+
+It provides a significant forum on global politics and economics in Finland and is one of the leading magazines in the country.
+
+It provides a simple and strict approach systematically leading towards problem solving over structured approaches.
+
+It provides a simple API for decomposing, modifying, and recomposing binary Java classes (i.
+
+e. bytecode).
+
+It provides a single application for predictive diagnostics, documentation, calibration management, and device configuration for managing field instruments and digital valve controllers.
+
+It provides a single-lens "walk-around" solution for wide-angle through to telephoto shots, as well as close-up photography.
+
+It provides a slightly lower voice quality.
+
+It provides a small, structured classroom setting with a multi-sensory and multi-disciplinary approach to learning.
+
+It provides a snapshot of liberated pre-AIDS sexual morality.
+
+It provides a software platform to estate asset managers to analyze critical investment performance.
+
+It provides a solution for a wide range of problems in the construction of large and complex applications.
+
+It provides a solution to many of the technical, security and deployment problems of distributing and printing real-time information for users located across departments, multiple offices, regions and countries.
+
+It provides a solution which is sound, meaning that when it states that a program does always terminate, the result is dependable.
+
+It provides a source of amino acids for the growing bacteria.
+
+It provides a source of water and nutrients, as well as a moderate temperature.
+
+It provides a space for Indigenous community language teams to archive their languages by recording and uploading words, phrases, songs and stories to a secure, centralized database.
+
+It provides a split screen where the XAML code can be typed and immediately previewed in the XAML renderer.
+
+It provides a spreadsheet-like dataflow computation style (functional reactive programming), making it easy to create reactive Web pages without the burden of callbacks and potentially inconsistent mutation.

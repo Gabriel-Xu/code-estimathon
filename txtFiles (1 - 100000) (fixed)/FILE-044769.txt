@@ -1,0 +1,677 @@
+Its code is KAT.
+
+Its code is KAWR.
+
+Its code is KDG.
+
+Its code is KDHA.
+
+Its code is KDTN.
+
+Its code is KEQ.
+
+Its code is KHA.
+
+Its code is KHKN.
+
+Its code is KHKPR.
+
+Its code is KITN.
+
+Its code is KJC.
+
+Its code is KJN.
+
+Its code is KJNC.
+
+Its code is KKD.
+
+Its code is KKJ.
+
+Its code is KKU.
+
+Its code is KLD.
+
+Its code is KLL.
+
+Its code is KM.
+
+Its code is KMBRN.
+
+Its code is KMIRDL.
+
+Its code is KOJ.
+
+Its code is KOV.
+
+Its code is KPV.
+
+Its code is KRG.
+
+Its code is KRTN.
+
+Its code is KSANG.
+
+Its code is KSJ.
+
+Its code is KTKH.
+
+Its code is KTT.
+
+Its code is KTX.
+
+Its code is KUGT.
+
+Its code is KWH.
+
+Its code is KXJ.
+
+Its code is LAR.
+
+Its code is LC.
+
+Its code is LDCY.
+
+Its code is LDW.
+
+Its code is LGH.
+
+Its code is LIM.
+
+Its code is LLI.
+
+Its code is LLU.
+
+Its code is LMP.
+
+Its code is LNPR.
+
+Its code is LOD.
+
+Its code is LOD and it serves Chhota Udaipur town.
+
+Its code is LONI.
+
+Its code is LRJ.
+
+Its code is LTHR.
+
+Its code is LTRR.
+
+Its code is LUNI.
+
+Its code is MA.
+
+Its code is MANUB.
+
+Its code is MBI.
+
+Its code is MCS.
+
+Its code is MDA.
+
+Its code is MDDP.
+
+Its code is MDRR.
+
+Its code is MEC.
+
+Its code is MES.
+
+Its code is MFR.
+
+Its code is MHQ.
+
+Its code is MHV.
+
+Its code is MKT.
+
+Its code is MLAR.
+
+Its code is MLN.
+
+Its code is MOP.
+
+Its code is MPUE.
+
+Its code is MRA.
+
+Its code is MRT.
+
+Its code is MSSN.
+
+Its code is MTA.
+
+Its code is MTD.
+
+Its code is MTLP.
+
+Its code is MYGL.
+
+Its code is MZS.
+
+Its code is NAK.
+
+Its code is NAVI.
+
+Its code is NBD.
+
+Its code is NDAZ.
+
+Its code is NGC.
+
+Its code is NGO.
+
+Its code is NHH.
+
+Its code is NHVSV.
+
+Its code is NKI.
+
+Its code is NKR.
+
+Its code is NLDM.
+
+Its code is NLP.
+
+Its code is NMA.
+
+Its code is NNGE.
+
+Its code is NNGL.
+
+Its code is NNO.
+
+Its code is NOK.
+
+Its code is NOLB.
+
+Its code is NONEY.
+
+Its code is NPNR.
+
+Its code is NRGR.
+
+Its code is NRI.
+
+Its code is NTV.
+
+Its code is NUH.
+
+Its code is NUR.
+
+Its code is NYGT.
+
+Its code is OBR.
+
+Its code is OKA.
+
+Its code is OMLF.
+
+Its code is OPL.
+
+Its code is OSH.
+
+Its code is PAA.
+
+Its code is PAU.
+
+Its code is PBE.
+
+Its code is PBH.
+
+Its code is PBW.
+
+Its code is PCD.
+
+Its code is PDRD.
+
+Its code is PEP.
+
+Its code is PGMD.
+
+Its code is PHR.
+
+Its code is PHYNG.
+
+Its code is PM.
+
+Its code is PMY.
+
+Its code is PND.
+
+Its code is PNE.
+
+Its code is PNK.
+
+Its code is PNO.
+
+Its code is POK.
+
+Its code is PRBZ.
+
+Its code is PRDP.
+
+Its code is PRLI.
+
+Its code is PRPM.
+
+Its code is PTAB.
+
+Its code is PTG.
+
+Its code is PTNR.
+
+Its code is PTRD.
+
+Its code is PTRU.
+
+Its code is RAJ.
+
+Its code is RANI.
+
+Its code is RBGJ.
+
+Its code is RBL.
+
+Its code is RD.
+
+Its code is RDF.
+
+Its code is REASI.
+
+Its code is REWA.
+
+Its code is RGS.
+
+Its code is RJNPD.
+
+Its code is RK.
+
+Its code is RNJD.
+
+Its code is RNQ.
+
+Its code is RNT.
+
+Its code is ROK.
+
+Its code is RPAN.
+
+Its code is RPO.
+
+Its code is RRME.
+
+Its code is RTBR.
+
+Its code is RUPC.
+
+Its code is RVN.
+
+Its code is RXL.
+
+Its code is SABRM.
+
+Its code is SAMN.
+
+Its code is SANU.
+
+Its code is SASG.
+
+Its code is SBB.
+
+Its code is SBR.
+
+Its code is SCH.
+
+Its code is SCI.
+
+Its code is SCY.
+
+Its code is SDPH.
+
+Its code is SEH.
+
+Its code is SFY.
+
+Its code is SGBJ.
+
+Its code is SGNR.
+
+Its code is SGRL.
+
+Its code is SGSGM.
+
+Its code is SHC.
+
+Its code is SILO.
+
+Its code is SIPI.
+
+Its code is SJDA.
+
+Its code is SJP.
+
+Its code is SKN.
+
+Its code is SKTN.
+
+Its code is SKW.
+
+Its code is SLN.
+
+Its code is SMI.
+
+Its code is SMQL.
+
+Its code is SNTBR.
+
+Its code is SOY.
+
+Its code is SPC.
+
+Its code is SSA.
+
+Its code is SSB.
+
+Its code is SSV.
+
+Its code is STR.
+
+Its code is STRK.
+
+Its code is SVPI.
+
+Its code is SVQ.
+
+Its code is SVT.
+
+Its code is TBH.
+
+Its code is TDG.
+
+Its code is THDR.
+
+Its code is TKJ.
+
+Its code is TLV.
+
+Its code is TMR.
+
+Its code is TNGUU.
+
+Its code is TPU.
+
+Its code is TRGHR.
+
+Its code is TUPUL.
+
+Its code is TZTB.
+
+Its code is UBC.
+
+Its code is UDM.
+
+Its code is UHL.
+
+Its code is UJH.
+
+Its code is UJN.
+
+The railway station of Ujjain is located on Broad Gage line and falls under the administrative control of Western Railway Zone of Indian Railways.
+
+Its code is URI.
+
+Its code is VBN.
+
+Its code is VJPJ.
+
+Its code is VMA.
+
+Its code is VNE.
+
+Its code is VNGP.
+
+Its code is VRBD.
+
+Its code is VRG.
+
+Its code is VSW.
+
+Its code is VVKN.
+
+Its code is VYN.
+
+Its code is WHM.
+
+Its code is WOC.
+
+Its code is WRS.
+
+Its code is XGN.
+
+Its code is YT.
+
+Its code is YTL.
+
+Its code is ZBD.
+
+Its code was initially based on Qt Development Frameworks' QtDemoBrowser and is developed on KDE Projects' Git repository.
+
+Its Codex Alimentarius code (E number) is E464.
+
+Its co-Editors-in-Chief are Mireille Bonierbale and Robert Porto.
+
+Its co-editors include Oriana Bandiera.
+
+Its coefficient of friction is significantly lower than that of nylon and acetal and is comparable to that of polytetrafluoroethylene (PTFE, Teflon), but UHMWPE has better abrasion resistance than PTFE.
+
+Its coefficient of friction is significantly lower than that of traditional UHMW, and greatly lower than nylon and acetal.
+
+Its co-founder and director is Bishakha Datta.
+
+Its co-founders, along with state senator Gustavo Rivera and then-assemblymen Phil Boyle, drafted a set of amendments allowing for a charitable exemption to the bail and insurance laws.
+
+Its co-founders are John Prendergast and Gayle Smith.
+
+Its co-founders are music executive and former head of A&M/Octone Records, James Diener, and private equity investor Howard Lipson.
+
+Its co-founder, Scott Dyer, became Nelvana's senior vice president in charge of production in late 2001.
+
+Its co-founders were Nigar Ahmed and Shehla Zia.
+
+Its co-funder and current Executive Director is Orazio Bellettini.
+
+Its cogener is growth hormone 1 (GH1), or pituitary growth hormone.
+
+Its cognitive hallmark is preoccupying thoughts of home and attachment objects.
+
+Its coiled inflorescence has tubular orange flowers up to 2 centimeters long and 1.
+
+5 wide at the face.
+
+Its coining is generally attributed to long-time science fiction fan and author Jack L. Chalker.
+
+Its coining is generally attributed to science fiction author Jack L. Chalker.
+
+Its cold-hardiness comes from the bulb's adaptation to freezing during dormancy.
+
+Its collaborations and remixing abilities first came to attention with their seminal 1995 remix of De'Lacy's "Hideaway".
+
+Its Collaborative Research Solutions Program is geared to working closely with managers to focus the future research programs.
+
+Its collapse can be avoided.
+
+Its collapse during the Diplomatic Revolution ultimately led to the Seven Years' War.
+
+Its collapse was due mostly to bad real estate loans.
+
+Its collar and cuffs can be turned out to protect the face and hands from cold and rain, and the short cape around the shoulders provides extra warmth and repels rainwater (if made of a waterproof material).
+
+Its collection also includes 19th-century and earlier art works.
+
+Its collection also includes materials on design, architecture, film, photography, and other related topics of study.
+
+Its collection and endowment were transferred and integrated into the Worcester Art Museum, with the collection on show in its own gallery.
+
+Its collection became a key component of today's Tamiment Library and Robert F. Wagner Archives at New York University in 1963.
+
+Its collection comprises 80,000 film reels and a 10,000 volumes library.
+
+Its collection comprises worldwide temperate and subtropical trees and shrubs organized by region.
+
+Its collection consists of European and American paintings, sculpture, prints, drawings, photographs, and decorative arts from the fourteenth to the early twentieth century.
+
+Its collection consists of Minoan-era finds from Sitia, Zakros, Petra and Palaikastro.
+
+Its collection consists primarily of the artifacts which were excavated from the Necropolis of Monterozzi to the east of the city.
+
+Its collection contains approximately 160,000 books 19,000 other items.
+
+Its collection contains more than 20,000 documents, with holdings spanning from 1900 until today.
+
+Its collection contains more than 900 ventriloquist figures from twenty countries as well as hundreds of photographs and other pieces of memorabilia related to ventriloquism, including replicas of figures used by Edgar Bergen.
+
+Its collection contains nearly 25,000 works of art.
+
+Its collection falls under the main categories of opera, theater, classical and contemporary music, classical and contemporary dance, as well as educational imagery covering all categories.
+
+Its collection focuses on 19th- and 20th-century art.
+
+Its collection holds over 7,000 objects from the 18th century to the present.
+
+Its collection included copies of Quimby's manuscripts.
+
+Its collection included large scale models of ships from the Mayflower to present day vessels, as well as paintings, photographs and artifacts dating to 1562.
+
+Its collection includes 18 aircraft.
+
+Its collection includes 20,000 cans of film, 5,000 tapes, the Tiernan MacBride reference library and over 30,000 stills, posters and documents.
+
+Its collection includes Abies alba, Acer campestre, Ailanthus altissima, Carpinus betulus, Castanea sativa, Corylus avellana, Crataegus monogyna, Juglans regia, Populus tremula, Prunus spinosa, Quercus pubescens, Robinia pseudoacacia, and Spartium junceum.
+
+Its collection includes ancient Libyan and Ptolemaic sculptures, funerary art, architectural elements, ceramics and other household items.
+
+Its collection includes artwork from the mid-19th century to the 1960s.
+
+Its collection includes CB&Q 4-6-4 3006, a Pullman "Meath" car, Railway Express RPO Combination Mail & Baggage Car, CB&Q Burlington Route Way Car and a museum building housing a large collection of railroad history in pictures, on paper and items donated to the museum by railroad workers and their families.
+
+Its collection includes clothing, textile, furniture, silver, glass, ceramics, and handicrafts.
+
+Its collection includes everything from the Art Nouveau of Henry van de Velde to contemporary avant-garde design.
+
+Its collection includes fine art, displays about local heritage, industry and sport, with a special collection related to the history of the Cassiobury Estate.
+
+Its collection includes men's and women's lines, as well as, outerwear and accessories.
+
+Its collection includes models of ships, nautical instruments, painting, historical photographs and war relics.
+
+Its collection includes more than 5,000 regional and Canadian works and over 45,000 artifacts.
+
+Its collection includes more than 5,000 works spanning Canadian historical and contemporary art.
+
+Its collection includes more than 600 kites.
+
+Its collection includes over 7,000 works, with a concentration in European, American, and Chinese art as well as in contemporary art and photography.
+
+Its collection includes over 800,000 books; collections of over 400 magazines, academic and scientific journals, and newspapers; and audiovisual materials including videotapes, audiobooks, CDs, and DVDs.
+
+Its collection includes sequoia, sycamore, pine, flowering pear, crabapple, cherry, and horse chestnut trees, along with many other varieties.
+
+Its collection includes some of the most endangered reptiles on earth.
+
+Its collection includes the collected works of Volgodonsk artists, contemporaries of the All-Union Komsomol building - the Atommash plant, a gallery of portraits of the Volgodonians - veterans of the Great Patriotic War and war workers.
+
+Its collection includes the "Fram III" bobsled from the 1932 Olympic Games which had been missing for more than sixty years prior to being donated to the museum, the skates used by Jack Shea in the same games, as well as memorabilia from the 1980 Miracle on Ice hockey team.
+
+Its collection includes "the greatest collection of artifacts from the Broadway musical", including scripts and other material associated with the matter.
+
+Its collection includes the papers of A. J. Seymour and Ian McDonald.
+
+Its collection includes the uniforms, medal and artifacts of the Lancashire Fusiliers.
+
+Its collection includes three Pennsylvania State Champion Trees (a giant dogwood, a needle juniper, and a lacebark elm), as well as azaleas, dogwoods, magnolias, junipers, lilacs, viburnums, witch-hazels, Japanese maples, boxwoods, and arborvitae.
+
+Its collection includes two windows from Frank Lloyd Wright's Darwin D. Martin House, and more than 35,000 other works in the permanent collection.
+
+Its collection includes works by Rembrandt, Carel Fabritius, Carlo Saraceni and Hieronymus Francken II.
+
+Its collection includes works from Greek, Roman and Renaissance times, and especially Roman artifacts from nearby Pompeii, Stabiae and Herculaneum.
+
+Its collection is distinguished by an impressively wide historic span, from the early 15th century up to the immediate present.
+
+Its collection is now in the Museum Nasional.
+
+Its collection is one of the best in Ukraine and contains works of native and from all over the world artists.
+
+Its collection is particularly strong in historical legal materials and comparative and international law.
+
+Its collection mostly comprises items from excavations that took place in Braga with a vast chronological and cultural period, from the Paleolithic to the Middle Ages.
+
+Its collection normally includes objects with a local connection of some sort.
+
+Its collection numbered about 3.
+
+1 million items with about 2.
+
+2 million of these housed in the central library.
+
+Its collection of 10 spires gives it an almost gothic appearance, and its staircase design makes it similar in appearance to another Bank of America building in Houston.
+
+Its collection of 153 works was purchased by the Oklahoma City Museum of Art in 1968 for $110,000.
+
+Its collection of milling machinery remained largely intact at the time of Greensboro's most interesting residences.
+
+Its collection of more than 100 large objects includes trams, trolley- and motor-busses from Ipswich Corporation Transport, the Eastern Counties Omnibus Company and other local operators; commercial vehicles; fire apparatus; mobile cranes; bicycles; biers; horse-drawn vehicles; prams; and wheelchairs.
+
+Its collection of more than 12,000 items and its exhibit programs are dedicated to American art and Native American art forms, as well as contemporary art in both those disciplines.
+
+Its collection of over 260,000 visual arts related resources support the work of the museum.
+
+Its collection of over 300,000 books covers all aspects of military science: joint and combined operations; tactics and doctrinal development; leadership, intelligence, weapons, equipment, and training.
+
+Its collection of small shops is located near Anniesland railway station, located on the Argyle, North Clyde and Maryhill Lines, which provides good links with the center of the city.
+
+Its collection of specimens numbers over 320 000, making it the third largest university herbarium in the Southern Hemisphere.
+
+Its collection of Yiddish periodicals is, however, not as comprehensive.
+
+Its collection ranks among the 100 largest libraries in America, which includes university, public, and private collections, and is among the nation's 20 largest public library systems.
+
+Its collections and exhibitions explore approximately 240 years of design esthetic and creativity.
+
+Its collections and exhibitions relate to indigenous cultures of the Western Hemisphere, Oceania, and other parts of the world, including European and North African Paleolithic cultures.
+
+Its collections are housed in the Haddon Library on Downing Street in Cambridge, Cambridge University's Museum of Archeology and Anthropology, and the Cambridgeshire Archives and Local Studies.
+
+Its collections are now part of the Great North Museum.
+
+Its collections concentrate on the Mediterranean region, Western Europe, China, the United States, and Latin America.
+
+Its collections, consisting of over half a million volumes and three kilometers of manuscript material, encompass the broad areas of literature, history, art, theology, philosophy, technology and the natural sciences, and include large collections of emblem books, writings of and works about John Milton, and authors' personal papers.
+
+Its collections consist of material on the humanities and social sciences, as well as African studies and Asian studies resources.
+
+Its collections cover area fossils and geology, archeology, ethnography, art and local history.
+
+Its collections cover both the distant and the more recent past, spanning from the Biard Cabin, which was built in 1846, and reconstructions of a pioneer kitchen and a blacksmith shop to a Sonic Drive-In menu and a neon sign from Staples Jewelry.
+
+Its collections deal mainly with Native Americans.
+
+Its collections encompass a variety of topics related to the history and cultural production of Western Europe and the Americas over the last six centuries.
+
+Its collections, exhibits, and other activities focus on the cultural history of the Navajo people.
+
+Its collections focus on images of famous Americans.
+
+Its collections focus on Wyoming and the Rocky Mountain West (including politics, settlement, and western trails) and a select handful of national topics: environment and conservation, the mining and petroleum industries, air and rail transportation, popular entertainment (particularly radio, television, film, and popular music), journalism, US military history, and the rare book center has book history.
+
+Its collections include 9,000 works of traditional and contemporary African art from both Sub-Saharan and Arab North Africa, 300,000 photographs, and 50,000 library volumes.
+
+Its collections include Artemisia (A. atrata, A. borealis, A. campestris, A. chamaemelifolia, A. genipi, A. Umbelliformis, A. vallesiaca), Campanula (C. bononiensis, C. excisa, C. glomerata, C. spicata, C. thyrsoides), Centaurea (C. bracteata, C. cyanus, C. Montana, C. phrygia, C. scabiosa, C. triumfetti), Dianthus (D. alpinus, D. carthusianorum, D. seguieri, D. sylvestris), Geranium (G. argenteum, G. macrorrhizum, G. phaeum, G. pratense, G. sanguineum, G. sylvaticum), and Silene (S. alpestris, S. dioica, S. rupestris, S. saxifraga, S. vallesia).
+
+Its collections include body harnesses and "copulation tables" the purpose of which were to facilitate unconventional, even weightless, sex positions, instruments for the stimulation of "penile, scrotal, anal, vaginal and clitoral tissue" including a vibrator, wicked finger-spikes, "coercive" chairs designed for "absolute domination", an Asian "Magic Box" palanquin which has sliding peepholes, throne chairs with a hole in the seat to facilitate oral sex, chastity belts with clawed teeth which dates back to the 1580s, iron corsets etc.
+
+Its collections include Caltha palustris, Epilobium alsinifolium, Galium tendae, Potentilla valderia, P. fruticosa, Saxifraga florulenta, S. stellaris, S. aizoides, Senecio balbisianus, Silene cordifolia, Viola argenteria, and Viola valderia.
+
+Its collections include contemporary paintings, sculptures, photographs, works on paper and more.

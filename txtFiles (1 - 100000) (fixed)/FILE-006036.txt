@@ -1,0 +1,103 @@
+Physicists kept on improving particle accelerators by increasing their energy. The designers wanted higher energy to study smaller building blocks of matter. From the start, physicists realized that as charged particles spun around, they gave off electromagnetic radiation. In the early 1950s, other scientists started to use this radiation for experiments unrelated to the "atom smashing" collisions that were the primary goal of the machines. Particle accelerators shifted from cyclotrons to synchrotrons where the particles traveled in a circle rather than in a spiral path. Construction costs increased as synchrotrons got bigger to the point that many nations joined to build just one very big synchrotron in Europe (CERN) to conduct atom smashing experiments. Other synchrotron labs, such as the Lawrence Berkeley Lab did not have enough energy to discover new particles. So, they switched to using their machines as a source of electromagnetic radiation. Instead of tuning the machine to make particles travel faster, they learned how to wiggle the particle beam to give off particular frequencies of light. In the 1980s and 1990s, scientists wanted to redesign synchrotrons to generate brighter light (more intense electromagnetic radiation) than ever before. These designs were called "third generation synchrotrons." The ALS was the first third generation synchrontron put into operation.
+
+When the Advanced Light Source was first proposed in the early 1980s by former Lawrence Berkeley Lab director David Shirley, skeptics dubbed it "Shirley's Temple" and doubted the use of a synchrotron tuned to make soft x-rays and ultraviolet light. According to former ALS director Daniel Chemla, "The scientific case for a third-generation soft x-ray facility such as the ALS had always been fundamentally sound. However, getting the larger scientific community to believe it was an uphill battle"In the 1987 Reagan administration budget, President Ronald Reagan allocated $1.
+
+5 million for the construction of the Advanced Light Source.
+
+UndulatorAn undulator is an insertion device from high-energy physics and usually part of a larger installation, a synchrotron storage ring. It is a periodic structure of dipole magnets. A static magnetic field is alternating along the length of the undulator with a wavelength formula_1. Electrons traversing the periodic magnet structure are forced to oscillate. So the electrons give off energy as electronmagnetic radiation. The radiation produced in an undulator is very intense and concentrated in narrow energy bands in the spectrum. The light beam is also collimated on the orbit plane of the electrons. This radiation is guided through beamlines for experiments in various scientific areas.
+
+The important dimensionless parameterformula_2where "e" is the particle charge, "B" is the magnetic field, "formula_3", "formula_4" is the electron rest mass and "c" is the speed of light, characterizes the nature of the electron motion. For formula_5 the oscillation amplitude of the motion is small and the radiation displays interference patterns which lead to narrow energy bands. If formula_6 the oscillation amplitude is bigger and the radiation contributions from each field period sum up independently, leading to a broad energy spectrum. When K is much bigger than 1, the device is no longer called an "undulator"; it is called a wiggler.
+
+Physicist think about undulators both using classical physics and relativity. This means that though the precision calculation is tedious the undulator can be seen as a black box. An electron enters this box and an electromagnetic pulse exits through a small exit slit. The slit should be small enough so that only the main cone passes, so that the side lobes may be ignored.
+
+Undulators can provide hundreds of time more magnetic flux than a simple bending magnet and as such are in high demand at synchrotron radiation facilities. For an undulator that repeat N times (N periods), the brightness can be up to formula_7 more than a bending magnet. The intensity is enhanced up to a factor of N at harmonic wavelengths due to the constructive interference of the fields emitted during the N radiation periods. The usual pulse is a sine wave with some envelope. The second factor of N comes from the reduction of the emission angle associated with these harmonics, which is reduced in proportion to 1/N. When the electrons come with half the period, they interfere destructively. So, the undulator stays dark. The same is true if the electrons come as a bead chain. Because the bunch of electron spreads out the more times that they travel around the synchrotron, physicists want to design new machines that throw out the electron bunches before they have a chance to spread out. This change will produced more useful synchrotron radiation.
+
+The polarization of the emitted radiation can be controlled by using permanent magnets to induce different periodic electron trajectories through the undulator. If the oscillations are confined to a plane the radiation will be linearly polarized. If the oscillation trajectory is helical, the radiation will be circularly polarized, with the handedness determined by the helix.
+
+If the electrons follow the Poisson distribution, a partial interference leads to a linear increase in intensity.
+
+In the free-electron laser the intensity increases exponentially with the number of electrons.
+
+Physicists measure an undulator's effectiveness in terms of spectral radiance.
+
+The first undulator was built by Hans Motz and his coworkers at Stanford in 1953. One of their undulators produced the first ever coherent infrared radiation. Their total frequency range was from visible light down to millimeter waves. The Russian physicist V.
+
+L. Ginzburg showed that undulators could be made in principle in a 1947 paper.
+
+D. T. Attwood's page at Berkeley: Soft X-Rays and Extreme Ultraviolet Radiation . His lecture and viewgraphs are available online.
+
+Storytime"Storytime" is a song by Finnish symphonic metal band Nightwish. The song was written by keyboardist Tuomas Holopainen, who also created the band. It was the lead single from the band's seventh studio album "Imaginaerum" (2011). "Storytime" has vocals by the vocalist of Nightwish, Anette Olzon. The single was released on November 9, 2011 from Nuclear Blast with mostly positive reviews from music journalists.
+
+The song is about human expressions through folklore tales such as "Peter Pan" and "Alice's Adventures in Wonderland". It also talks about Gaia, a mythical Greek Earth goddess, in the song. A music video was released to promote "Storytime" in November 2011, it features the entire band playing their instruments in a "fantasy" world. After the single's release on radios, it peaked at number-one on the Finnish Singles Chart and peaked within the top 5 in Spain, Hungary, and the United Kingdom.
+
+ImaginaerumImaginaerum is the seventh album by the Finnish symphonic metal group Nightwish. It is their second album with Swedish vocalist Anette Olzon. A movie of the same name was released in 2012. The movie has songs from the album in it. The album was No.
+
+1 in Finland.
+
+Anette OlzonAnette Ingegerd Olsson (born 21 June 1971) better known as Anette Olzon (married name Blyckert) is a Swedish singer. She is the current lead singer of the Finnish symphonic metal group Nightwish. She used to be the lead singer of Aylson Avenue.
+
+Romania at the OlympicsRomania at the Olympics is a history which began in 1900.
+
+The International Olympic Committee's official abbreviation for Romania was RUM. It is now ROU.
+
+A team from Romania was first at the Olympic Games in 1900. They had only one participant. The National Olympic Committee for Romania is the "Romanian Olympic and Sports Committee". It was formed and recognized in 1914. The nation first sent a team to the Games in 1924. They have been to each of the Summer Olympic Games and Winter Olympic Games since then except for two times. Notably, Romania was the lone Eastern Bloc nation to participate at the 1984 Summer Olympics, which the other nations boycotted. That was also Romania's most successful Olympic Games: they won 20 gold medals and 53 medals total.
+
+Romanian athletes have won a total of 293 medals, with gymnastics as the top medal-producing sport.
+
+Serbia at the OlympicsSerbia was first at the Olympic Games in 1912. After 96 years, Serbia returned to the Olympics as an independent team at the 2008 Summer Olympics. From 1920 to the 1992 Winter Olympics Serbian athletes were part of the Yugoslavian team. At the 1992 Summer Olympics they took part as Independent Olympic Participants. This was because the United Nations was threatening to punish Serbia. Because of this, no Serbians were at the 1994 Winter Olympics. The threats stopped in 1995. From the 1996 Summer Olympics to the 2006 Winter Olympics they were part of the Serbia and Montenegro team.
+
+Slovakia at the OlympicsSlovakia was first at the Olympic Games in 1994. They have been in every Games since then. Before Czechoslovakia broke up in 1993, Slovak athletes competed for Czechoslovakia at the Olympics.
+
+Slovak athletes have won twenty medals altogether at the Summer Olympic Games. These were mostly for canoeing. The nation has also won four medals at the Winter Olympic Games.
+
+The National Olympic Committee for Slovakia was made in 1992 and recognized in 1993.
+
+Slovenia at the OlympicsSlovenia was first an independent nation at the Olympic Games in 1992. They have been in every Games since then. Prior to the breakup of Yugoslavia, Slovenian athletes were part of Yugoslavia at the Olympics.
+
+The National Olympic Committee for Slovenia was formed in 1991 and recognized in 1993. Slovenian athletes have won a total of fifteen medals at the Summer Olympic Games and another seven at the Winter Olympic Games.
+
+Sweden at the OlympicsSweden was first at the Olympic Games at the inaugural 1896 Games. They have been in every Games since then with one exception for the 1904 Summer Olympics. Sweden has earned medals at all Olympic games except for two, the 1896 Games and the 1904 Games.
+
+Sweden hosted the Games on one occasion, the 1912 Summer Olympics in Stockholm. The equestrian events of the 1956 Summer Olympics in Melbourne were held in Stockholm, due to quarantine reasons.
+
+Swedish athletes have a total of 475 medals at the Summer Olympic Games, and another 118 at the Winter Olympic Games.
+
+The International Olympic Committee had Swedish officer and sports instructor Viktor Balck as one of its original members. The Swedish Olympic Committee was formed and recognized in 1913.
+
+2006, 2010, 2014 and 2018 Winter Games bids were declared non-finished applications by the Swedish Olympic Committee, due lack of political support from the Swedish government. The reason has been that the bidding is financially insecure for the Swedish society as a nation. 2018 Winter Olympic Games bids were promised support by the former government, but when the new government was elected, the bid was withdrawn. Östersund and Åre were the only applicant cities.<
+
+nowiki>*</nowiki>Total medal counts include six medals – three gold, two silver, and one bronze – awarded in the 1908 and 1920 figure skating events. These medals are included in the summer games medal totals and the winter sport medal totals. This is why the totals for summer and winter games do not match the totals for summer and winter sports.
+
+Scarlet feverScarlet fever is an infectious disease that is caused by bacteria. It is caused by exotoxin released by Streptococcus pyogenes. It was once a major cause of death. It is now treated with antibiotics. The term scarlatina can be used to mean scarlet fever. Scarlatina is a lesser form of scarlet fever. At the early times, this disease could not be cured and this was a common reason for death in that time which applies to many famous people of the world.
+
+RTI ColombiaRTI Colombia (Radio Televisión Interamericana - in Spanish; Inter-American Radio and Television) is a Colombian television production company. Many of its series are co-produced with Telemundo, their strategic partner from the United States whose owner is NBC.
+
+Irish House of LordsIrish House of Lords was the upper chamber of the Irish Parliament from its creation in the thirteenth century to its abolition in 1800-1801. It was made up of the barons and clergy of the island. After the reformation the clergy in the Lords came from the Church of Ireland.
+
+Henry GrattanHenry Grattan (3 July 1746 – 6 June 1820) was an Irish politician. He was a member of the Irish House of Commons. He wanted changes such as Catholic Emancipation and more self government for the kingdom. He did not believe that Ireland and Great Britain should become a single country. He was one of the people who were most important in creating the constitution of 1782. This gave Ireland self-government. He was also important in ending Poynings law of 1494 and the Declaratory Act of 1720.
+
+Turkey at the OlympicsTurkey sent athletes to the Olympic Games for the first time in 1908. It has sent athletes to of the Summer Olympic Games since then. Turkey has been a part of most Winter Olympic Games since their first in 1936. Turkish athletes have won a total of 82 medals. They have won 37 golds, 23 silvers and 22 bronzes. Turkey won the most medals in wrestling.
+
+The National Olympic Committee for Turkey was created in 1908. It was accepted by the IOC in 1911. Istanbul wants to host the 2020 Summer Olympics.
+
+Ukraine at the OlympicsUkraine sent athletes to the Olympic Games for the first time as an independent nation in 1994. It has sent athletes to every Summer Olympic Games and Winter Olympic Games since then.
+
+Before 1994, Ukrainian athletes were a part of the Soviet Union at the Olympics from 1952 to 1988. After the Soviet Union ended, Ukraine was part of the Unified Team in 1992.
+
+Ukraine has won a total of 116 medals at the Summer Games and five at the Winter Games. Gymnastics has been the nation's best sport.
+
+The National Olympic Committee of Ukraine was created in 1990. It was accepted by the International Olympic Committee in 1993.
+
+Serbia and Montenegro at the OlympicsThe former state union of Serbia and Montenegro sent athletes to the Olympic Games seven times between 1992 and 2006. After that, Montenegro and Serbia became separate countries.
+
+Yugoslavia had sent athletes to every Summer Olympic Games from 1920–1988. They sent athletes to all but two Winter Olympic Games between 1924–1988. Because of the breakup of Yugoslavia in 1991 and 1992, their part in the Olympics changed. Croatia and Slovenia sent their own athletes to the 1992 Winter Olympics. The team from Yugoslavia was made up of athletes from Bosnia and Herzegovina, Macedonia, Montenegro and Serbia. This was the last Games for the Socialist Federal Republic of Yugoslavia.
+
+The Federal Republic of Yugoslavia was created in April 1992. It included the Republic of Montenegro and the Republic of Serbia. In May of 1992, the United Nations Security Council said that all nations should not let the FR of Yugoslavia take part in any international sports. The International Olympic Committee said that athletes from Serbia and Montenegro (and also Macedonia) could still take part in the 1992 Summer Olympics in Barcelona. The athletes had to be Independent Olympic Participants (IOP), wear plan white clothing and use the Olympic Anthem and Olympic flag during the events. They could not be a part of the opening and closing ceremonies of the games.
+
+A team of 52 athletes took part in events. They won three medals in shooting. The athletes could only take part in the game as individuals. No teams were allowed. This meant that the men's water polo team, the women's basketball team, and the men's and women's handball teams could not compete.
+
+No athletes were allowed to take part in any way in the 1994 Winter Olympics in Lillehammer. The country was allowed to send athletes to the next Olympiad.
+
+At the 1996 Summer Olympics in Atlanta, Georgia, the team of 68 athletes took part in 13 sports and won four medals. In Sydney for the 2000 Summer Olympics, the "Yugoslavia" team had 111 athletes in 14 sports and won three medals.
+
+In 2003, the Federal Republic of Yugoslavia became the State Union of Serbia and Montenegro. The nation was named "Serbia and Montenegro" (SCG) for the first time at the 2004 Summer Olympics in Athens. The team of 87 athletes competed in 14 sports and won two silver medals.

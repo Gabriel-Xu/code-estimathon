@@ -1,0 +1,283 @@
+In geometry, the medial inverted pentagonal hexecontahedron is a nonconvex isohedral polyhedron.
+
+In geometry, the medial pentagonal hexecontahedron is a nonconvex isohedral polyhedron.
+
+In geometry, the medial rhombic triacontahedron is a nonconvex isohedral polyhedron.
+
+In geometry, the metabiaugmented dodecahedron is one of the Johnson solids (J60).
+
+In geometry, the metabiaugmented hexagonal prism is one of the Johnson solids (J56).
+
+In geometry, the metabiaugmented truncated dodecahedron is one of the Johnson solids (J70).
+
+In geometry, the metabidiminished icosahedron is one of the Johnson solids (J62).
+
+In geometry, the metabidiminished rhombicosidodecahedron is one of the Johnson solids (J81).
+
+In geometry, the metabigyrate rhombicosidodecahedron is one of the Johnson solids (J74).
+
+In geometry, the metagyrate diminished rhombicosidodecahedron is one of the Johnson solids (J78).
+
+In geometry, the midpoint polygon of a polygon P is the polygon whose vertices are the midpoints of the edges of P. It is sometimes called the Kasner polygon after Edward Kasner, who termed it the inscribed polygon "for brevity".
+
+In geometry, the midsphere or intersphere of a polyhedron is a sphere which is tangent to every edge of the polyhedron.
+
+In geometry, the minimum or smallest bounding or enclosing box for a point set (S) in N dimensions is the box with the smallest measure (area, volume, or hypervolume in higher dimensions) within which all the points lie.
+
+In geometry, the octagonal prism is the sixth in an infinite set of prisms, formed by square sides and two regular octagon caps.
+
+In geometry, the octagrammic antiprism is one in an infinite set of nonconvex antiprisms formed by triangle sides and two regular star polygon caps, in this case two octagrams.
+
+In geometry, the octagrammic crossed-antiprism is one in an infinite set of nonconvex antiprisms formed by triangle sides and two regular star polygon caps, in this case two octagrams.
+
+In geometry, the octagrammic cupola is a star-cupola made from an octagram, {8/3} and parallel hexadecagram, {16/3}, connected by 8 equilateral triangles and squares.
+
+In geometry, the octahemioctahedron or allelotetratetrahedron is a nonconvex uniform polyhedron, indexed as U3.
+
+In geometry, the order-7 heptagrammic tiling is a tiling of the hyperbolic plane by overlapping heptagrams.
+
+In geometry, the Pappus configuration is a configuration of nine points and nine lines in the Euclidean plane, with three points per line and three lines through each point.
+
+In geometry, the parabiaugmented dodecahedron is one of the Johnson solids (J59).
+
+In geometry, the parabiaugmented hexagonal prism is one of the Johnson solids (J55).
+
+In geometry, the parabiaugmented truncated dodecahedron is one of the Johnson solids (J69).
+
+In geometry, the parabidiminished rhombicosidodecahedron is one of the Johnson solids (J80).
+
+In geometry, the parabigyrate rhombicosidodecahedron is one of the Johnson solids (J73).
+
+In geometry, the paragyrate diminished rhombicosidodecahedron is one of the Johnson solids (J77).
+
+In geometry, the parallel postulate, also called Euclid's fifth postulate because it is the fifth postulate in Euclid's Elements, is a distinctive axiom in Euclidean geometry.
+
+In geometry, the Peano curve is the first example of a space-filling curve to be discovered, by Giuseppe Peano in 1890.
+
+In geometry, the pentagonal antiprism is the third in an infinite set of antiprisms formed by an even-numbered sequence of triangle sides closed by two polygon caps.
+
+In geometry, the pentagonal orthobirotunda is one of the Johnson solids (J34).
+
+In geometry, the pentagrammic antiprism is one in an infinite set of nonconvex antiprisms formed by triangle sides and two regular star polygon caps, in this case two pentagrams.
+
+In geometry, the pentagrammic crossed-antiprism is one in an infinite set of nonconvex antiprisms formed by triangle sides and two regular star polygon caps, in this case two pentagrams.
+
+In geometry, the pentagrammic cupoloid or pentagrammmic semicupola is the simplest of the infinite family of cuploids.
+
+In geometry, the pentagrammic prism is one in an infinite set of nonconvex prisms formed by square sides and two regular star polygon caps, in this case two pentagrams.
+
+In geometry, the polyhedral group is any of the symmetry groups of the Platonic solids.
+
+In geometry, there are seven uniform and uniform dual polyhedra named as ditrigonal.
+
+In geometry, the rectified 600-cell or rectified hexacosichoron is a convex uniform 4-polytope composed of 600 regular octahedra and 120 icosahedra cells.
+
+In geometry, the rhombicosacron is a nonconvex isohedral polyhedron.
+
+In geometry, the rhombicosidodecahedron, or small rhombicosidodecahedron, is an Archimedean solid, one of thirteen convex isogonal nonprismatic solids constructed of two or more types of regular polygon faces.
+
+In geometry, the Schoch circles are twelve Archimedean circles constructed by Thomas Schoch.
+
+In geometry, the seven circles theorem is a theorem about a certain arrangement of seven circles in the Euclidean plane.
+
+In geometry, the six circles theorem relates to a chain of six circles together with a triangle, such that each circle is tangent to two sides of the triangle and also to the preceding circle in the chain.
+
+In geometry, the small complex icosidodecahedron is a degenerate uniform star polyhedron.
+
+In geometry, the small cubicuboctahedron is a uniform star polyhedron, indexed as U13.
+
+In geometry, the small ditrigonal dodecacronic hexecontahedron is a nonconvex isohedral polyhedron.
+
+In geometry, the small dodecacronic hexecontahedron is the dual of the small dodecicosidodecahedron.
+
+In geometry, the small dodecahemicosacron is the dual of the small dodecahemicosahedron, and is one of nine dual hemipolyhedra.
+
+In geometry, the small dodecahemidodecacron is the dual of the small dodecahemidodecahedron, and is one of nine dual hemipolyhedra.
+
+In geometry, the small dodecahemidodecahedron is a nonconvex uniform polyhedron, indexed as U51.
+
+In geometry, the small dodecicosacron is the dual of the small dodecicosahedron (U50).
+
+In geometry, the small hexacronic icositetrahedron is the dual of the small cubicuboctahedron.
+
+In geometry, the small hexagonal hexecontahedron is a nonconvex isohedral polyhedron.
+
+In geometry, the small hexagrammic hexecontahedron is a nonconvex isohedral polyhedron.
+
+In geometry, the small icosacronic hexecontahedron is a nonconvex isohedral polyhedron.
+
+In geometry, the small icosicosidodecahedron is a nonconvex uniform polyhedron, indexed as U31.
+
+In geometry, the small icosihemidodecacron is the dual of the small icosihemidodecahedron, and is one of nine dual hemipolyhedra.
+
+In geometry, the small rhombidodecacron is a nonconvex isohedral polyhedron.
+
+In geometry, the small rhombihexacron is the dual of the small rhombihexahedron.
+
+In geometry, the small rhombihexahedron is a nonconvex uniform polyhedron, indexed as U18.
+
+In geometry, the small stellapentakis dodecahedron is a nonconvex isohedral polyhedron.
+
+In geometry, the snub 24-cell or snub disicositetrachoron is a convex uniform 4-polytope composed of 120 regular tetrahedral and 24 icosahedral cells.
+
+In geometry, the snub icosidodecadodecahedron is a nonconvex uniform polyhedron, indexed as U46.
+
+In geometry, the sphenomegacorona is one of the Johnson solids (J88).
+
+In geometry, the sphinx tiling is a tessellation of the plane using the "sphinx", a pentagonal hexiamond formed by gluing six equilateral triangles together.
+
+In geometry, the square antiprism is the second in an infinite set of antiprisms formed by an even-numbered sequence of triangle sides closed by two polygon caps.
+
+In geometry, the square orthobicupola is one of the Johnson solids (J28).
+
+In geometry, the tangential triangle of a reference triangle (other than a right triangle) is the triangle whose sides are on the tangent lines to the reference triangle's circumcircle at the reference triangle's vertices.
+
+In geometry, the Tarry point T for a triangle ABC is a point of concurrency of the lines through the vertices of the triangle perpendicular to the corresponding sides of the triangle's first Brocard triangle DEF.
+
+In geometry, the ten-of-diamonds decahedron is a space-filling polyhedron with 10 faces, 2 opposite rhombi with orthogonal major axes, connected by 8 identical isosceles triangle faces.
+
+In geometry, the tetradyakis hexahedron is a nonconvex isohedral polyhedron.
+
+In geometry, the tetraoctagonal tiling is a uniform tiling of the hyperbolic plane.
+
+In geometry, the Thomson cubic of a triangle is the locus of centers of circumconics whose normals at the vertices are concurrent.
+
+In geometry, the trapezo-rhombic dodecahedron or rhombo-trapezoidal dodecahedron is a convex dodecahedron with 6 rhombic and 6 trapezoidal faces.
+
+In geometry, the triakis icosahedron (or kisicosahedron) is an Archimedean dual solid, or a Catalan solid.
+
+In geometry, the triakis truncated tetrahedron is a convex polyhedron made from 4 hexagons and 12 isosceles triangles.
+
+In geometry, the triangular bipyramid (or dipyramid) is a type of hexahedron, being the first in the infinite set of face-transitive bipyramids.
+
+In geometry, the triaugmented dodecahedron is one of the Johnson solids (J61).
+
+In geometry, the triaugmented hexagonal prism is one of the Johnson solids (J57).
+
+In geometry, the triaugmented triangular prism or tetracaidecadeltahedron is one of the Johnson solids (J51).
+
+In geometry, the triaugmented truncated dodecahedron is one of the Johnson solids (J71); of them, it has the greatest volume in proportion to the cube of the side length.
+
+In geometry, the tridiminished icosahedron is one of the Johnson solids (J63).
+
+In geometry, the tridiminished rhombicosidodecahedron is one of the Johnson solids (J83).
+
+In geometry, the tridyakis icosahedron is the dual polyhedron of the nonconvex uniform polyhedron, icositruncated dodecadodecahedron.
+
+In geometry, the trigyrate rhombicosidodecahedron is one of the Johnson solids (J75).
+
+In geometry, the trihexagonal tiling is one of 11 uniform tilings of the Euclidean plane by regular polygons.
+
+In geometry, the two ears theorem states that every simple polygon with more than three vertices has at least two ears, vertices that can be removed from the polygon without introducing any crossings.
+
+In geometry, the Woo circles, introduced by Peter Y. Woo, are a set of infinitely many Archimedean circles.
+
+In geometry, this polyhedron can be seen as either a polyhedral stellation or a compound.
+
+In geometry, this uniform polyhedron compound is a composition of 5 cuboctahedra.
+
+In geometry, this uniform polyhedron compound is a composition of 5 octahemioctahedra, in the same vertex arrangement as in the compound of 5 cuboctahedra.
+
+In geometry, three or more lines in a plane or higher-dimensional space are said to be concurrent if they intersect at a single point.
+
+In geometry, Thurston's geometrization theorem or hyperbolization theorem implies that closed atoroidal Haken manifolds are hyperbolic, and in particular satisfy the Thurston conjecture.
+
+In geometry, topology, and related branches of mathematics, a closed set is a set whose complement is an open set.
+
+In geometry, trilateration is the process of determining absolute or relative locations of points by measurement of distances, using the geometry of circles, spheres or triangles.
+
+In geometry, true length is any distance between points that is not foreshortened by the view type.
+
+In geometry, two diameters of a conic section are said to be conjugate if each chord parallel to one diameter is bisected by the other diameter.
+
+In geometry, two or more objects are said to be concentric, coaxal, or coaxial when they share the same center or axis.
+
+In geometry, two points are called coincident when they are actually the same point as each other.
+
+In geomorphology, a knickpoint or nickpoint is part of a river or channel where there is a sharp change in channel slope, such as a waterfall or lake.
+
+In geomorphology, an outburst flood, which is a type of megaflood, is a high-magnitude, low-frequency catastrophic flood involving the sudden release of water.
+
+In geomorphology, a relict landform is a landform formed by either erosive or constructive surficial processes that are no longer active as they were in the past.
+
+In geomorphology a river is said to be rejuvenated when it is eroding the landscape in response to a lowering of its base level.
+
+In geomorphology, a terracette is a type of landform, a ridge on a hillside formed when saturated soil particles expand, then contract as they dry, causing them to move slowly downhill.
+
+In geomorphology, cryoplanation or altiplanation is a term used to both describe and explain the formation of plains, terraces and pediments in periglacial environments.
+
+In geomorphology, drainage systems, also known as river systems, are the patterns formed by the streams, rivers, and lakes in a particular drainage basin.
+
+In geomorphology fluvio-thermal erosion is the combined mechanical and thermal erosion of an unfrozen river or stream against ice-rich soils and sediments.
+
+In geomorphology, geography and geology, a bench or benchland is a long, relatively narrow strip of relatively level or gently inclined land that is bounded by distinctly steeper slopes above and below it.
+
+In geophysics, a geomagnetic jerk or secular geomagnetic variation impulse is a relatively sudden change in the second derivative of the Earth's magnetic field with respect to time.
+
+In geophysics, delamination refers to the loss and sinking (foundering) of the portion of the lowermost lithosphere from the tectonic plate to which it was attached.
+
+In geophysics, Knott's equations were the first equations to describe the amplitudes of reflected and refracted waves generated at non-normal incidence upon an interface.
+
+In geophysics, the Curie depth is the depth at which rocks in a specific geographical area encounter the Curie temperature.
+
+In geophysics, vertical seismic profile (VSP) is a technique of seismic measurements used for correlation with surface seismic data.
+
+In geopolitical terms, Honduras has represented a bulwark against socialist forces in Central America and has a permanent United States military presence.
+
+In geopolitics, "mainland" is sometimes used interchangeably with terms like Metropole as an antonym to overseas territories.
+
+Ingeo provides heat sealability at temperatures equivalent to polyolefin sealant resins.
+
+In George Bernard Shaw's preface to Three Plays he wrote, "I have noticed that when a certain type of feature appears in painting and is admired as beautiful, it presently becomes common in nature; so that the Beatrices and Francescas in the picture galleries of one generation come to life as the parlor-maids and waitresses of the next."
+
+In George Borrow's 1862 travel book Wild Wales, the author comes upon an Anglo-Irish man singing the tune.
+
+In George Gurdjieff's Fourth Way school of thought, Earth Level or Planet Level refers to the level of the Law of Forty-eight on the Ray of Creation, meaning that forty-eight laws govern it.
+
+In George Henry Harlow's famous painting The Court for the Trial of Queen Katharine he depicted many of the Kemble family members.
+
+In George H. Smith's Atheism: The Case Against God, "implicit atheism" is defined as "the absence of theistic belief without a conscious rejection of it", while "explicit atheism" is "the absence of theistic belief due to a conscious rejection of it".
+
+In George Lakoff and Mark Johnson's work, Metaphors We Live By (1980), we see how everyday language is filled with metaphors we may not always notice.
+
+In George Orwell's novel 1984, the Ministry of Truth has an entire department devoted to altering past editions of newspapers in the belief that changing documentation will change the public's perception of history.
+
+In George Robert Gray's 1840 publication of List of the Genera of Birds, he uses abbreviated forms of the abbreviations, on occasion.
+
+In Georgia, channel Rustavi 2 broadcast the novel.
+
+In Georgia folklore, the Altamaha-ha (or Altie) is a legendary creature, alleged to inhabit the myriad small streams and abandoned rice fields near the mouth of the Altamaha River (after which it is named) in southeastern Georgia, United States.
+
+In Georgia Formula Alfa was introduced in 2012 with 10-12 cars on the starting grid.
+
+In Georgia, Governor Jimmy Carter saw that Swann was "clearly a one-sided decision; the Court is still talking about the South, the North is still going free".
+
+In Georgia, motorists needing HERO or CHAMP assistance dial 511 (and press 1) to reach the Traffic Management Center, GDOT's primary center for incident management.
+
+In Georgia, Nana is the fifth most popular given name for girls.
+
+In Georgian politics, a Minister enjoys seniority over a State Minister as in the British Cabinet where a State Minister is below a Minister by rank.
+
+In Georgia's eighth Eurovision appearance on 23 May, "Warrior" finished in eleventh place, receiving 51 points.
+
+In Georgia some populations have been endangered from logging and excavation activities, resulting in habitat fragmentation.
+
+In Georgia, State Bicycle Route 95 is planned to be incorporated into US Bike Route 1.
+
+In Georgia, the threshold was set such that the final court decision must be no more than 25% less favorable than the last settlement offer or the rejector becomes liable for attorney fees.
+
+In Georgia vs Allison, Janet Allison was convicted of sexual offenses for allowing her (then pregnant) daughter, aged 15, to have sexual intercourse in her home.
+
+In Georg Wissowa's terminology, the di indigetes or indigites were Roman deities not adopted from other religions, as distinguished from the di novensides.
+
+In GeoRSS, location content consists of geographical points, lines, and polygons of interest and related feature descriptions.
+
+In geospatial analysis the NHD is used by scientists using GIS technology.
+
+In geotechnical engineering, an interceptor ditch is a small ditch or channel constructed to intercept and drain water to an area where it can be safely discharged.
+
+In geotechnical engineering, during the construction of earth structures (dams and tunnels, for example) the observational method is a continuous, managed and integrated process of design, construction control, monitoring and review enabling appropriate, previously-defined modifications to be incorporated during (or after) construction.
+
+Inge Paul (born 19 September 1946) is a German former competitive figure skater who represented West Germany.
+
+Inge Posch-Gruska (born 16 May 1962) is an Austrian politician of the Social Democratic Party.

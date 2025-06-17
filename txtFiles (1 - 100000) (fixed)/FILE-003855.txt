@@ -1,0 +1,207 @@
+A serial number is a unique number used for identification. Serial numbers are made in such a way that they change by a fixed discrete integer value, each time a new serial number is needed. Most people refer to any identifier that has numbers and letters in it as a serial number and that can be used to pick a certain item of a large number of items. Not every numerical identifier is a serial number; identifying numbers which are not serial numbers are sometimes called .
+
+Sequence numbers are almost always non-negative, and typically start at zero or one.
+
+Serial numbers can be very useful for quality control. That way, if there is a problem with a certain batch of products, the serial number of one defective item can tell which items are affected by the problem. Serial numbers can also be used against stealing or imitating products, because it is possible to keep track of which serial numbers have been used. Stolen goods or those with problems can be identified more easily.
+
+Many computer programs come with serial numbers, often called "Compact Disc keys", and the installers often require the user to enter a valid serial number to continue. These numbers are verified using a certain algorithm to avoid usage of counterfeit keys.
+
+Serial numbers also help track down counterfeit currency, because in some countries each banknote has a unique serial number.
+
+The International Standard Serial Number or ISSN can be seen on magazines and other periodicals. It is the similar to the International Standard Book Number (ISBN) for books. It is serially assigned but takes its name from the library science use of serial to mean a periodical, like a newspaper.
+
+Certificates and Certificate Authorities (CA) are necessary for widespread use of cryptography. These depend on applying mathematically rigorous serial numbers and serial number arithmeticThe term "serial number" is also used in military formations as an alternative to the expression "service number". In air forces the serial number is used to identify a specific aircraft. It is usually painted on both sides of the aircraft, most often in the tail area, although in some cases the serial is painted on the side of the aircraft's fin/rudder(s). Because of this, the serial number is sometimes called a "tail number".
+
+In the case of the UK Royal Air Force (RAF) the "Serial" takes the form of two letters followed by three numbers, e.
+
+g., "BT308"—the prototype Avro Lancaster, or "XS903"—an English Electric Lightning F.
+
+6 at one time based at RAF Binbrook . During the Second World War RAF aircraft carrying secret equipment or that were in themselves secret had "/G" added to the end of the serial, the "G" signifying "Guard", denoting that the aircraft was to have an armed guard at all times while on the ground, e.
+
+g., "LZ548/G"—the prototype de Havilland Vampire jet fighter, or "ML926/G"—a de Havilland Mosquito XVI experimentally fitted with H2S radar. Prior to this two-letter, three-number scheme, the RAF and preceding Royal Flying Corps (RFC) used a serial with a letter followed by four numbers, e.
+
+g., "D8096" - a Bristol F.
+
+2 Fighter currently owned by the Shuttleworth Collection, or "K5054" - the prototype Supermarine Spitfire. The aircraft serial number does not change.
+
+Serial numbers are often used in network protocols. However, most sequence numbers in computer protocols are limited to a fixed number of bits, and will wrap around after a sufficiently many numbers have been allocated. Thus, recently-allocated serial numbers may duplicate very old serial numbers, but not other recently-allocated serial numbers. To avoid ambiguity with these non-unique numbers, , "Serial Number Arithmetic" defines special rules for calculations involving these kinds of serial numbers.
+
+Lollipop sequence number spaces are a more recent and sophisticated scheme for dealing with finite-sized sequence numbers in protocols.
+
+SocorroSocorro can be any of the following places:Socorro, New MexicoSocorro is a city in Socorro County and a county seat of the same county in the U.
+
+S. state of New Mexico. About 8,700 people lived in Socorro as of the year 2020.
+
+Socorro, TexasSocorro is a city in El Paso County, Texas, in the United States. About 34,300 people lived in Socorro as of the year 2020. Socorro has an area of .
+
+FalkenfelsenThe Falkenfelsen (Falcons Rock) is a cliff in the northern Black Forest in Baden-Württemberg, Germany. The granite rock formation is about high. From the Schwarzwaldhochstraße (Black Forest Highway), two hiking trails lead through the formation and end at the shelter "Herta-hut". From the platform there is a view over the northern Black Forest with the Hornisgrinde in the south, Bühlerhöhe in the north east and the valley of the Upper Rhine in the west side.
+
+Giant huntsman spiderThe giant huntsman spider (', from ', meaning “the largest”) is a spider of the "Heteropoda" genus. It is found in Laos, where it was discovered in 2001. The spider lives in caves.
+
+In December 2008, a World Wide Fund for Nature report states that it is "the world's largest huntsman spider".
+
+This spider is yellowish-brown with many dark spots on the rear half, in no order. The legs have wide dark bands before the first bend. Like all huntsman spiders, the legs of the giant huntsman spider are long compared to the body, and twist forward in a crab-like way.
+
+It is the largest member of the Sparassidae, with a 30 centimeter (12 inches) leg-span, and 4.
+
+6 centimeter body-length. The largest known member of the Sparassidae known prior to the discovery of "H. maxima" was the Australian "Beregama aurea" (L. Koch, 1875) with a body length of about 4 centimeters.
+
+Huntsman spiderHuntsman spider is a name given to the family Sparassidae (formerly "Heteropodidae"). They are also known as the giant crab spiders, due to the way they look. Larger ones, are also sometimes referred to as wood spiders, because they live in woody places (forest, mine shafts, woodpiles).
+
+They are found in Australia, New Zealand, South Africa, Southeast Asia, the Mediterranean, Florida, and Hawaii, and possibly in many other tropical and semi-tropical regions. They can be found as far north as England, Sweden and Wales.
+
+Huntsman spiders do not build webs, but hunt for food. They eat insects and other invertebrates.
+
+The average huntsman spider is about 1 inch long with a leg span of up to 5 inches. The giant huntsman spider, however, has a leg span of up to 12 inches, making it the largest spider by diameter; it is often described as being "the size of a dinner plate."
+
+Brown huntsman spiderThe brown huntsman spider ("Heteropoda venatoria"), also known as the giant crab spider or the cane spider, is a species of spider. found in many tropical and subtropical parts of the world, including Asia, Réunion Island, the Caribbean islands, the Southeastern US, and (especially) Australia.
+
+They have a flat type of body and only a small dorsal pattern. Adults can grow to be 2.
+
+2 to 2.
+
+8 cm, and have a leg span of 7 to 12 cm. Some have colors of brown, white and black.
+
+Females have a larger abdomen than males but males have longer and thinner legs with a slim body. Both have a wide, yellow to cream clypeus band around the rest of the carapace. The female also has a strong body and often carries a pillow-like egg sac under her.
+
+Brown huntsman spiders do not use spider webs to feed on prey. These spiders are known to hunt by waiting and making no noise above their prey, and then rush forward when their prey get close. They are fast, agile and can move through tight spaces. They feed at night.
+
+If you let them into your home, they will eat unwanted bugs and insects like cockroaches and silverfish.
+
+DorsalIn anatomy, the dorsal is the upper side of animals that can run, fly, or swim in a forwards and backwards direction, and the back side of animals (like humans) that walk upright. In vertebrates the dorsum contains the backbone. The term dorsal means the parts that are either located toward or grow off that side of an animal. The opposite side of the animal is described with the terms ventrum and ventral.
+
+In humans, the top of the foot is the dorsal part.
+
+Examples of the use of "dorsal" are the dorsal fins of fish.
+
+ClypeusThe clypeus is one of the hard parts that makes up the face of an insect. The clypeus is often well-defined by grooves along its horizontal and vertical margins, and is most commonly rectangular in overall shape.
+
+CarapaceA carapace is the top part of an exoskeleton or shell in a number of animal groups.
+
+SapindaceaeSapindaceae, also known as the soapberry family, is a family of flowering plant including maple, horse chestnut, longan, and lychee. In the APG II system (2003) the family includes the plants otherwise assigned to families Aceraceae and Hippocastanaceae and is placed in order Sapindales.
+
+Abbotsford, WisconsinAbbotsford is a city in the state of Wisconsin in the United States. It is in both Clark County, Wisconsin and Marathon County, Wisconsin. The city is a part of the Wausau, Wisconsin Metropolitan Statistical Area. According to the 2010 United States Census, there were 2,310 people living in Abbotsford.
+
+The city is named after Edwin H. Abbott. Abbott was in charge of the Wisconsin Central Railway. Abbotsford was incorporated in 1965.
+
+The public schools in Abbotsford are part of the Abbotsford School District. There is one elementary school, one middle and high school, and one alternative high school.
+
+The coordinates of Abbotsford are (44.
+
+946716, -90.
+
+318333).
+
+The United States Census Bureau says that the city's size is . All of this is land. Abbotsford does not have any rivers, lakes, or other kinds of standing water in it.
+
+In 2000, there were 1,956 people living in Abbotsford. These people made up 817 households and 516 families. The population density was 641.
+
+1 people per square mile (247.
+
+6 people/km²). The population was 98.
+
+57% white, 0.
+
+15% African-American or black, 0.
+
+10% Native American, 0.
+
+05% Asian, 0.
+
+66% other races, and 0.
+
+46% multiple races. 1.
+
+99% of the population said they were Hispanic or Latino of any race.
+
+In 2010, there were 2,310 people living in Abbotsford. 73.
+
+7% of the people were white, 0.
+
+1% black or African-American, 0.
+
+3% Native American, 0.
+
+7% Asian, 0.
+
+5% multiple races, and 25.
+
+0% Hispanic or Latino.
+
+Robbie KeaneRobbie Keane (born 8 July 1980) is a retired Irish football player. A former captain of the Republic of Ireland national team, Keane is the team's all-time leading goal scorer and has the most caps (matches) of any Republic of Ireland outfield player (i.
+
+e., not a goalkeeper).
+
+422 || 150 || 34 || 14 || 34 || 16 || 34 || 14 || 524 || 194!
+
+Total || 122 || 54Takayuki MorimotoMorimoto was born in Kawasaki on May 7, 1988. He joined J1 League club Tokyo Verdy from their youth team in 2004. On March 13, Morimoto made his J1 League debut for Tokyo Verdy against Júbilo Iwata at the age of 15 years, 10 months and 6 days, a league record for youngest player to debut. He scored his first goal against JEF United Ichihara on May 5, two days before his 16th birthday, another league record for youngest goal scorer. He was selected "J.
+
+League Rookie of the Year Award" in the 2004 season. Verdy won the champions in the 2004 Emperor's Cup. However Verdy was relegated to J2 League end the of 2005 season. In summer 2006, he moved to Italian Serie A club Catania. He played for the club in 5 seasons. In summer 2011, he moved to Novara. In summer 2012, he re-joined Catania. In January 2013, he moved to UAE Pro League club Al-Nasr. In summer 2013, he returned to Japan and joined J2 club JEF United Chiba. In 2016, he moved to J1 club Kawasaki Frontale. Kawasaki won the J1 champions in 2017. In 2018, he moved to J2 club Avispa Fukuoka. In October 2020, he moved to Football League Greece club AEP Kozani. In February 2021, he moved to Paraguayan Primera División club Sportivo LuqueñoIn 2005, Morimoto was selected the Japan U-20 national team for 2005 World Youth Championship and he played all 4 matches. In 2008, he also played for Japan U-23 national team at 2008 Summer Olympics. On October 10, 2009, he debuted for the Japan national team against Scotland. He was also selected the Japan for 2010 World Cup, but he did not play in the match. He played 10 games and scored 3 goals for Japan until 2012.
+
+194||34||19||8||7||2||7||0||227||44104||19||13||5||colspan="2"|-||colspan="2"|-||117||2413||6||3||1||colspan="2"|-||6||3||22||100||0||0||0||colspan="2"|-||colspan="2"|-||0||0311||59||35||14||7||2||13||3||366||78!
+
+Total||10||3Pablo AimarPablo César Aimar (born 3 November 1979) is an Argentine former professional footballer and current assistant coach of the Argentina national team, which won the 2022 World Cup.
+
+River PlateValenciaBenficaJohor Darul Ta’zimArgentina U17Argentina U20ArgentinaIndividualArgentina (as assistant manager)Toninho CerezoUeslei Raimundo Pereira Cerezo (born 21 April 1955) is a former Brazilian football player. He has played for Brazil national team.
+
+Iván de la PeñaIván de la Peña (born 6 May 1976) is a Spanish football player. He plays for Espanyol Barcelona.
+
+250||1915||012||1277||20!
+
+Total||5||0Jorge ValdanoJorge Valdano (born 4 October 1955) is a former Argentine football player. He has played for Argentina national team.
+
+Newell's Old BoysReal MadridArgentina YouthArgentinaAwardsReal MadridKazushi KimuraKimura was born in Hiroshima on July 19, 1958. After graduating from Meiji University, he joined Nissan Motors (later "Yokohama Marinos") in 1981. From 1982, he wore the number 10 shirt. He was selected "Japanese Footballer of the Year" awards in 1983 and 1984. The club also won 1983 and 1985 Emperor's Cup. From 1988 to 1990, the club won all three major title in Japan; Japan Soccer League, JSL Cup and Emperor's Cup for 2 years in a row. He was also selected "Japanese Footballer of the Year" awards again 1989. In 1990s, the club won 1990 JSL Cup, 1991 and 1992 Emperor's Cup. In Asia, the club won 1991–92 and 1992–93 Asian Cup Winners' Cup. He was a central player in golden era in club history. He retired in 1994. He played 251 games and scored 51 goals in the league. He was selected "Japanese Footballer of the Year awards" 3 times and Best Eleven 5 times.
+
+On May 31, 1979, when Kimura was a Meiji University student, he debuted for the Japan national team against Indonesia. He played at 1980 Summer Olympics qualification and 1982 World Cup qualification. From 1982, he played in all matches of Japan national team included 1982, 1986 Asian Games, 1984 Summer Olympics qualification and 1986 World Cup qualification. In 1985, he scored goals in six consecutive games. This is a record of continuous score in Japan national team. He played 54 games and scored 26 goals for Japan until 1986.
+
+Kimura became a manager for Yokohama F. Marinos in 2010. In 2011, although the club compete for the champions till half way, the club stalled in the late stages and finished at the 5th place. He was sacked end of 2011 season.
+
+In 2020, Kimura was selected Japan Football Hall of Fame.
+
+251||51||53||22||46||20||350||93251||51||53||22||46||20||350||93!
+
+Total||54||26Takeshi OkadaOkada was born in Osaka on August 25, 1956. After graduating from Waseda University, he joined Japan Soccer League club Furukawa Electric in 1980. In 1982, the club won 1982 JSL Cup. In 1985/86 season, the club won Japan Soccer League and JSL Cup, and he was selected Best Eleven. The club also won 1986 Asian Club Championship. This is the first Asian champions as Japanese club. He retired in 1990. He played 189 games and scored 9 goals in the league.
+
+On June 9, 1980, Okada debuted for the Japan national team against Hong Kong. In 1982, he selected Japan for 1982 Asian Games. At Asian Games, he played 2 games and scored a goal against South Korea. He also played at 1980 Summer Olympics qualification and 1986 World Cup qualification. He played 24 games and scored 1 goal for Japan until 1985.
+
+After retirement, Okada started coaching career at Furukawa Electric (later "JEF United Ichihara") in 1990. In 1995, he became an assistant coach for Japan national team. During 1998 World Cup qualification in October 1997, Japan's manager Shu Kamo was sacked and Okada named new manager. In November, Okada led Japan to won qualify for 1998 World Cup first time in Japan's history. At 1998 World Cup, Japan lost all 3 matches and he resigned after the World Cup.
+
+In 1999, Okada signed with J2 League club Consadole Sapporo. In 2000, he led the club to won J2 League and promoted the club to J1 League. He resigned end of 2001 season. In 2003, he signed with Yokohama F. Marinos. The club won the league champions and he was also selected "Best Manager awards" for 2 years in a row in 2003 and 2004. From 2005, the club performance was sluggish and he resigned in August 2006.
+
+In November 2007, Japan national team manager Ivica Osim was suffered a cerebral infarction. In December, Okada was named a new manager for Japan. In 2008, he selected new young player, Atsuto Uchida, Shinji Kagawa, Yuto Nagatomo, Keisuke Honda, Shinji Okazaki and so on. In 2009, Japan won to qualify for 2010 World Cup. Okada gained worldwide attention for leading Japan to ninth-place finish in the 2010 World Cup. He resigned after 2010 World Cup. In November 2010, he was selected "AFC Coach of the Year awards".
+
+In December 2011, Okada signed a contract from 2012 season with Chinese Super League side Hangzhou Greentown. He extended his contract for two years in the end of 2012 season. However, he resigned from Hangzhou end of 2013 season.
+
+In November 2014, he bought a majority stake in FC Imabari and became a chairman of the club. In March 2016, he became a vice-president of Japan Football Association and served until March 2018. In 2019, he was selected Japan Football Hall of Fame.
+
+189||9189||9!
+
+Total||24||1Yoshito OkuboOkubo was born in Kanda, Fukuoka on June 9, 1982. After graduating from Kunimi High School, he joined J1 League club Cerezo Osaka in 2001. He played many matches as forward and offensive midfielder from first season. However Cerezo finished at the bottom place in 2001 season and was relegated to J2 League. In 2002 season, he scored 18 goals which was the 2nd top scorer and Cerezo was returned to J1 in a year. From 2003, he scored more than 15 goals in J1. He was also selected "Asian Young Footballer of the Year" award in 2003. In 2005, he moved to Spanish La Liga club Mallorca on loan. Although the club results were bad, Mallorca finished at 17th place and remained La Liga in 2004/05 season. Although he played many matches as substitute forward in 2005/06 season, his opportunity to play decreased from April 2006. In June 2006, he returned to Cerezo Osaka. At then Cerezo won only 1 match in 13 matches and at the bottom place of 18 clubs in 2006 season. Although he played as forward all matches excluding suspension, Cerezo finished at the 17th place and was relegated to J2 again. In 2007, he moved to J1 club Vissel Kobe. He played many matches as left midfielder in 2 seasons under manager Hiroshi Matsuda and scored more than 10 goals both seasons. In January 2009, he moved to Wolfsburg of the Bundesliga. Wolfsburg won the champions 2008/09 season which was first major title in the club history. In June 2009, he returned to Japan and re-joined Vissel Kobe. He played as forward all 19 matches and scored 8 goals in 2009 season. Although his opportunity to play decreased for injuries in 2010, he played as regular player until 2012. However Vissel finished at the 16th place in 2012 season and was relegated to J2 League. In 2013 season, he moved to Kawasaki Frontale. He played more than 30 matches every season and he became a top scorer for 3 years in a row until 2015 season. In 2017, he moved to FC Tokyo. In 2018, he returend to Kawasaki. However he could not as regular player and he mainly played as substitute forward. In June 2018, Okubo moved to Júbilo Iwata. In 2020, he moved to J2 League club Tokyo Verdy. In 2021, he moved to his first club Cerezo Osaka.
+
+On May 31, 2003, Okubo debuted for the Japan national team against South Korea. He played many matches as forward including 2003 Confederations Cup under manager Zico. He was also selected Japan U-23 national team for 2004 Summer Olympics. He played all 3 matches and scored 2 goals. However he could hardly play in the match in senior team from 2004 and he was not selected Japan for 2006 World Cup. From 2008, he played many matches as offensive midfielder under manager Takeshi Okada. In 2010, he was selected Japan for 2010 World Cup. He played as left midfielder in all 4 matches and Japan qualified to the knockout stage. He also played at 2014 World Cup. He played 60 games and scored 6 goals for Japan until 2014.
+
+496||203||35||19||33||12||12||1||576||23539||5||1||1||colspan="2"|-||colspan="2"|-||40||69||0||2||0||colspan="2"|-||2||0||13||0544||208||38||20||33||12||14||1||629||241!
+
+Total||60||6Diego SimeoneDiego Simeone (born 28 April 1970) is a former Argentine football player. He has played for the Argentina national team. He is now the manager of Atlético Madrid.
+
+Source:Tsuyoshi KitazawaKitazawa was born in Machida on August 10, 1968. After graduating from Shutoku High School, he joined Japan Soccer League club Honda in 1987. He was the top scorer of the league in the 1990/91 season. He moved to Yomiuri (later "Verdy Kawasaki", "Tokyo Verdy") in 1991. The club won the league champions in 1991/92 and 1991 JSL Cup. In 1992, Japan Soccer League was folded and the club joined new league, J1 League. Kitazawa, together with his teammates Kazuyoshi Miura, Ruy Ramos, Nobuhiro Takeda, Tetsuji Hashiratani and Bismarck made in the early 1990s the golden era of Verdy who won the J1 League championship (1993 and 1994) and J.
+
+League Cup (1992, 1993, and 1994). He finished his playing career as a Verdy player in 2002.
+
+Kitazawa was capped 58 times and scored 3 goals for the Japan national team between 1991 and 1999. He made his international debut on June 2, 1991 in a friendly against Thailand, under national manager Kenzo Yokoyama. He was a member of the Japan team for the 1992 Asian Cup that Japan won. He took part in Japan's unsuccessful campaign to qualify for the 1994 World Cup. He was a member of the Asian final qualification stage that was held centrally in Doha and played two games. He was on the bench when the Iraqi's injury-time equaliser dashed Japan's qualification hope in the last qualifier, in the match that the Japanese fans now remember as the "Agony of Doha" (). Kitazawa was short-listed for the 1998 World Cup, but national manager Takeshi Okada dropped him along with Kazuyoshi Miura and Daisuke Ichikawa at the final training camp in Nyon, Switzerland.
+
+Kitazawa represented Japan national futsal team in the 1989 Futsal World Championship hosted by the Netherlands.
+
+336||57||28||9||41||10||405||76336||57||28||9||41||10||405||76!
+
+Total||58||3Takeshi Mizuuchi93||28||10||11||9||2||112||4193||28||10||11||9||2||112||41Masahiro FukudaFukuda was born in Yokohama on December 27, 1966. After graduating from Chuo University, he joined Japan Soccer League Division 2 club Mitsubishi Motors (later "Urawa Reds") in 1989. In 1989/90 season, he scored 36 goals in 26 matches and became a top scorer. The club also won the champions and was promoted to Division 1. In 1992, Japan Soccer League was folded and founded new league J1 League. The club finished at the bottom place in 1993 and 1994 season. n 1995, he scored 32 goals and became a top scorer. In 2002, the club won the 2nd place at J.
+
+League Cup. He retired end of 2002 season.
+
+On July 27, 1990, Fukuda debuted for the Japan national team against South Korea. In 1992, he was selected the Japan for Asian Cup which held in Japan. He played 4 games and scored 1 goal in the semifinal against China. Japan won the champions first time. In 1993, he played at 1994 World Cup qualification in Doha. However Japan failed to qualify for the 1994 World Cup. It was known as the "Agony of Doha" () in Japan. He played 45 games and scored 9 goals for Japan until 1995.
+
+287||143||27||16||41||13||355||172287||143||27||16||41||13||355||172!
+
+Total||45||9Alfredo Di StéfanoAlfredo Stéfano Di Stéfano Laulhé (; 4 July 1926 – 7 July 2014) was an Argentine born professional footballer and coach who played as a forward. Alfredo was often known as "Saeta rubia" ("Blond Arrow").
+
+River PlateMillonariosReal MadridArgentinaIndividualBoca JuniorsRiver PlateValenciaReal MadridRaymond Kopa

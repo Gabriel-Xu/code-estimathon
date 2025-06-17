@@ -1,0 +1,461 @@
+Linus officially started operation from Jakarta to Batam in July 2008.
+
+Linusorb product name according to Shim et al.
+
+Linus Patrick Power is an Australian politician.
+
+Linus Pettersson (born 13 May 1987) is a Swedish bandy player who currently plays for Sandvikens AIK as a defender.
+
+Linus Rebmann (born 4 April 1947) is a Swiss athlete.
+
+Linus Sandgren (born December 5, 1972) is a Swedish cinematographer.
+
+Linus Shashipapo Secondary School, founded 1974, is the oldest school in the former Kavango Region of Namibia.
+
+Linus Spacehead's Cosmic Crusade is a video game released in 1992 by Codemasters for the NES.
+
+Linus then pulled in his roommate Kevin Danczak to play guitar for Size 14.
+
+Linus Torvalds attributed the rejection in a 2007 lkml.
+
+org post to a preference for small incremental changes, and concern that the maintainer had not been involved in the rewrite.
+
+Linus Torvalds started writing Sparse in 2003.
+
+Linus Ullmark (born 31 July 1993) is a Swedish professional ice hockey goaltender.
+
+Linus was an indie band from London, England, formed in 1992.
+
+Linus Weber (born 1 November 1999) is a German volleyball player for Berlin Recycling Volleys and the German national team.
+
+Linus Woods is a Canadian Aboriginal artist.
+
+Lin Utzon (born 21 May 1946) is a Danish designer who has created a wide variety of abstract decorative works from textiles to ceramics both in Denmark and abroad.
+
+Linux Activations, the user-level part being done in the Marcel thread library.
+
+Linux additionally exposes sysctl as a virtual file system.
+
+Linux adopters are organizations and individuals who have moved from other operating systems to Linux.
+
+Linux advocates reacted by stating that SCO has no basis for this action, as their claims were still disputed in court, and that the terms of the GPL seemed to indicate that doing this may cause SCO to forfeit their rights to distribute Linux or Linux-derived code in any form.
+
+Linux also integrated code from the project in its native IPsec implementation.
+
+Linux and Android versions released as part of a Humble Bundle on October 15, 2013.
+
+Linux and FreeBSD hosted versions were available.
+
+Linux and GNU is a Linux distribution made by the Brixton Linux Action Group.
+
+Linux and Mac OS X versions were also made available a few months later.
+
+Linux and Mac OS X versions were immediately available along with the main Windows version.
+
+Linux and Mac OS X versions were "in development".
+
+Linux and OS X releases are planned.
+
+Linux and OS X versions were later released on March 31, 2015.
+
+Linux and OS X versions were released on October 15, 2014.
+
+Linux and Solaris support are provided within the upstream trunk.
+
+Linux and the Open Source Revolution is a technology book by Glyn Moody published in 2001.
+
+Linux and Unix systems also use a similar file format for system configuration.
+
+Linux Australia aims to represent Australian Free and Open Source Software communities and to support and collaborate with related groups, including Linux User Groups in Australia.
+
+Linux Australia is the national, Australian Free and Open Source Software Community organization.
+
+Linux-based devices or Linux devices are computer appliances that are powered by the Linux kernel and possibly parts of the GNU operating system.
+
+LinuxBBQ is a desktop-oriented operating system based on the "unstable" branch of Debian, which uses the codename Sid.
+
+Linux builds are built with Clang.
+
+Linuxcare held the Dell support contract for Red Hat Linux for many years, negotiating a deal with Dell that effectively substituted the Windows license SKU for a support contract with Linuxcare.
+
+Linuxcare was founded in San Francisco in 1998 by Dave Sifry, Arthur Tyde and Dave LaDuke.
+
+Linuxcare was intended to become publicly traded in 2001, led by Credit Suisse First Boston, but market circumstances and the termination of the companies CEO ultimately ended its ambition to go public.
+
+Linuxcare was the first company to offer commercial / enterprise class support for Linux and Open Source software and supported 21 different Linux distributions on nine hardware architectures.
+
+LinuxChix is a women-oriented Linux community.
+
+Linux color management has the same goal as the color management systems (CMS) for other operating systems: to achieve the best possible color reproduction throughout an imaging workflow from its source (camera, video, scanner, etc.), through imaging software (Digikam, darktable, RawTherapee, GIMP, Krita, Scribus, etc.), and finally onto an output medium (monitor, video projector, printer, etc.).
+
+Linux color management relies on the use of accurate ICC (International Color Consortium) and DCP (DNG Color Profile) profiles describing the behavior of input and output devices, and color-managed applications that are aware of these profiles.
+
+Linux combined aspects of Debian, Red Hat Linux/Fedora, and FreeBSD in a manner that aspired to be stable enough for servers and clusters, for a life cycle of 3 to 5 years.
+
+Linux.
+
+com membership has an annual fee of $99, with a discounted price of $25 for students.
+
+Linux.
+
+com offers free Linux tutorials, news and blogs, discussion forums and groups, a Linux software and hardware directory, and a job board.
+
+Linux distribution, community-based, suitable for use on older hardware and as a Live CD or Live USB.
+
+Linux distribution created by Florian La Roche, a former employee of the legal department at Saarland University.
+
+Linux distributions at or above CentOS 7, Debian 7 (Wheezy) and Ubuntu 11.
+
+10 are therefore not using BKL.
+
+Linux distributions from Microsoft include a project known as Azure Cloud Switch (ACS) which debuted in 2015.
+
+Linux distributions generally ship the latter version as part of their X11 utilities package.
+
+Linux distribution that started in November 2014.
+
+LinuxDoc has a more succinct DTD than DocBook and users of small to medium size projects have found that it suits their purposes better than DocBook.
+
+LinuxDoc is an SGML DTD which is similar to DocBook.
+
+Linux Documentation Project (LDP) is an all-volunteer project that maintains a large collection of GNU and Linux-related documentation and publishes the collection online.
+
+LinuxEDU is a Linux distribution based on Ubuntu (operating system).
+
+LinuxFocus was a bi-monthly webzine covering Linux.
+
+Linux Format is commonly abbreviated to LXF, and issues are referred to with LXF as a prefix followed by the issue number (for example LXF102 refers to the 102nd issue).
+
+Linux Format is the UK's first Linux-specific magazine, and as of 2013 was the best-selling Linux title in the UK.
+
+Linux Format shares the UK market place with an English-language version of Linux Magazine as well as Linux User and Developer.
+
+Linux for PlayStation 2 (or PS2 Linux) is a kit released by Sony Computer Entertainment in 2002 that allows the PlayStation 2 console to be used as a personal computer.
+
+Linux for Tegra (Linux4Tegra, L4T) is a GNU/Linux based system software distribution by Nvidia for the Nvidia Tegra processor series such as used in the Nvidia Jetson board series.
+
+Linux Foundation Certifications are valid for 2 years.
+
+Linux Foundation started organizing similar events in Europe and Japan.
+
+LinuxFr, also known as DLFP or Da Linux French Page is a Slashdot-like, French-speaking technology website.
+
+Linuxfr does not use Slash (CMS), the Slashdot engine; instead it had developed its own software, templeet.
+
+Linux From Scratch (LFS) is a type of a Linux installation and the name of a book written by Gerard Beekmans, and currently mainly maintained by Bruce Dubbs.
+
+Linux Fund is an organization that has been raising money and making donations to Free and Open Source Software (FOSS) projects since 1999.
+
+Linux Game Publishing released a Linux port of Majesty Gold Edition in April 2003.
+
+Linux Game Publishing (sometimes also referred to as LGP) is a software company based in Nottingham in England.
+
+Linux India is an informally organized community of mailing lists.
+
+Linux is a Slackware based Linux distribution.
+
+Linux is the most popular platform, followed closely by Windows.
+
+Linux Journal is a monthly technology magazine published by Linux Journal, LLC.
+
+Linux kernel 2.
+
+4 only offers two ARP filtering chains, INPUT and OUTPUT, and Linux kernel 2.
+
+6 adds the third, FORWARD, applied when bridging packets.
+
+Linux kernel-based operating systems have been widely adopted in a very wide range of uses.
+
+LinuxKernelConf replaced CML in kernel version 2.
+
+5.
+
+45, and remains in use for the 4.
+
+0 kernel.
+
+Linux Libertine is a digital typeface created by the Libertine Open Fonts Project, which aims to create free and open alternatives to proprietary typefaces such as Times New Roman.
+
+LinuxLink is a software development framework that helps embedded software development teams configure, patch, build and maintain an open source Linux platform.
+
+Linux LIO SRP target, available since January 2012 (kernel version 3.
+
+3), based on the SCST SRP target.
+
+Linux Lite follows the Unix philosophy in regards to software selection and programming as it applies to the modern era - Write programs that do one thing and do it well.
+
+Linux Lite is a 'gateway operating system'.
+
+Linux Lite is a Linux distribution, based on Debian and Ubuntu and created by a team led by Jerry Bezencon.
+
+LinuxLive USB Creator is a free Microsoft Windows program that creates Live USB systems from installed images of supported Linux distributions.
+
+Linux Malware Detect is one of the objectives for the LPI 303 certification.
+
+Linux malware includes viruses, trojans, worms and other types of malware that affect the Linux operating system.
+
+Linux mini distributions based entirely on asmutils are a-Linux and SAMEL Linux.
+
+Linux Mint 17 LTS would be the first release of the 17.
+
+x series, and for two years applications would be backported to 17.
+
+x, with security updates until 2019.
+
+Linux Mint Debian Edition, not compatible with Ubuntu, is based on Debian and updates are brought in continuously.
+
+Linux Mint Debian Edition (LMDE) system was adopted and presented to the public as a Live DVD or to be installed on their computers.
+
+Linux offers a very similar system call, getrandom, which was based on getentropy.
+
+Linux on IBM Z (or Linux on z for short, and previously Linux on z Systems) is the collective term for the Linux operating system compiled to run on IBM mainframes, especially IBM Z and IBM LinuxONE servers.
+
+Linux Outlaws was a Linux news and technology podcast produced by Sixgun Productions and hosted by Fabian Scherschel and Dan Lynch.
+
+LinuxPAE64 is a port of linux kernel running in compatibility mode of x86-64 processor.
+
+Linux PAM is evolved from the Unix Pluggable Authentication Modules architecture.
+
+Linux-PAM separates the tasks of authentication into four independent management groups: account modules check that the specified account is a valid authentication target under current conditions.
+
+Linux Professional Institute (LPI) currently offers three different certification programs.
+
+Linux/RK is an implementation of a Resource Kernel based on Linux.
+
+Linux Screen Reader (LSR) was an alternative screen reader to Orca led by IBM and started in 2006.
+
+Linux Screen Reader (LSR) was started in 2006 by IBM.
+
+Linux Security Modules (LSM) is a framework that allows the Linux kernel to support a variety of computer security models while avoiding favoritism toward any single security implementation.
+
+Linux (SL) is a Linux distribution produced by Fermilab, CERN, DESY and by ETH Zurich.
+
+Linux software system that implements numerical control capability using general purpose computers to control CNC machines.
+
+Linux, Solaris, illumos, BSD, AIX, and also works on Microsoft Windows.
+
+Linux startup process is the multi-stage initialization process performed during booting a Linux installation.
+
+Linux support for some models existed between 2005 and 2010.
+
+Linux supports multiple routing tables since version 2.
+
+2.
+
+Linux supports these drives via the sbcd, sbpcd or pcd drivers.
+
+Linux support was added on March 28, 2018.
+
+Linux systems can include APIs for ext2, ext3, ReiserFS, and Btrfs to name a few.
+
+LinuxTag claims to be Europe's largest exhibition for "open source software" and aims to provide a comprehensive overview of the Linux and free software market, and to promote contacts between users and developers.
+
+LinuxTag is one of the world's most important events of this kind.
+
+LinuxTag's slogan, "Where .
+
+COM meets .
+
+ORG", refers to its stated aim of bringing together commercial and non-commercial groups in the IT sector.
+
+LinuxTag (the name is a compound with the German Tag meaning assembly, conference or meeting) is a free software exposition with an emphasis on Linux (but also BSD), held annually in Germany.
+
+Linux Target Image Builder (LTIB) is an open-source project based on RPM, Menuconfig and Perl.
+
+LinuxThreads was also ported to and used on FreeBSD.
+
+Linux Tour is an ongoing tour of Linux and FOSS related conferences and events held in major Nicaraguan Universities and schools.
+
+Linux, Unix and other Unix-like computer operating systems are generally regarded as very well-protected against, but not immune to, computer viruses.
+
+Linux used the same partition type GUID for basic data partition as Windows prior to introduction of a Linux specific Data Partition GUID 0FC63DAF-8483-4772-8E79-3D69D8477DE4.
+
+LinuxUser is a German computer magazine for Linux users published by German media company Medialinx AG.
+
+Linux users usually obtain their operating system by downloading one of the Linux distributions, which are available for a wide variety of systems ranging from embedded devices (for example, OpenWrt) and personal computers (for example, Linux Mint) to powerful supercomputers (for example, Rocks Cluster Distribution).
+
+Linux uses, for example, various system timings (like user keystrokes, I/O, or least-significant digit voltage measurements) to produce a pool of random numbers.
+
+Linux utilizes a workflow governed by LKML, which is the Bazaar where kernel development takes place.
+
+Linux Voice has rated ne as the third best editor for Linux.
+
+Linux Voice was a Linux and open source magazine (print and digital) which began publication in the UK in April 2014.
+
+Linux was chosen due to security requirements as well as being more energy efficient.
+
+Linux was not supported and due to shared RAM between MAC-OS and RealPC Windows-98 was the reasonable limit.
+
+Linux web hosting servers.
+
+LinuxWorld Conference and Expo (renamed to OpenSource World in its final year) was a conference and trade show that focused on open source and Linux solutions in the information technology sector.
+
+Linux XP came with a graphical interface similar to Windows.
+
+Linux XP had to be registered within 99 boots after installation, or the OS would deactivate.
+
+Linux XP was a Fedora-based shareware Linux distribution designed to imitate Windows environment using GNOME desktop; it could run some Microsoft Windows programs using the Wine compatibility layer.
+
+Linval Clement Joseph (born October 10, 1988) is an American football defensive tackle for the Minnesota Vikings of the National Football League (NFL).
+
+Linval Dixon (born 14 September 1971 in Old Harbor Bay, Saint Catherine, Jamaica) is a retired Jamaican football defender and currently head coach at Portmore United.
+
+Linvale is an unincorporated community located along the border of East Amwell and West Amwell townships in Hunterdon County, New Jersey, United States.
+
+Linval Thompson (born 12 October 1954, Kingston, Jamaica) is a Jamaican reggae and dub musician and record producer.
+
+Lin Van Hek (born 1944) (aka Lin Van Hecke) is an Australian writer, member of the Society of Women Writers and is the co-founder of a literary-music group called Difficult Women.
+
+L'invasione degli Omini Verdi is an Italian punk rock band, formed in July 1999 in the province of Brescia, Lombardy.
+
+Linville and actress Irene Gilbert co-founded the Stella Adler Academy in Los Angeles in 1985.
+
+Linville Caverns are privately owned active limestone caverns located in northern McDowell County, North Carolina, just south of the village of Linville Falls, on U.
+
+S. Highway 221.
+
+Linville Caverns been open for tours since the late 1930s and remain the only show caverns in North Carolina.
+
+Linville Creek Bridge is a historic Hybrid Pratt-Warren Truss bridge located near Broadway, Rockingham County, Virginia.
+
+Linville Creek flows through the village.
+
+Linville Falls Tavern, now known as Famous Louise's Rock House Restaurant, is a historic tavern located at Linville Falls, Avery County and McDowell County, North Carolina.
+
+Linville Historic District is a historic school campus and national historic district located at Linville, Avery County, North Carolina.
+
+Linville is a Democrat.
+
+Linville is an unincorporated community located in Rockingham County, in the U.
+
+S. state of Virginia.
+
+Linville is a town and locality in the Somerset Region of south east Queensland, Australia.
+
+Linville is exclusively represented by Leading Authorities Speakers Bureau, and discusses his story of going from a soldier to technician to wounded veteran, as well as the decision to amputate his right foot.
+
+Linville is still checking items off his bucket list and achieving his goals.
+
+Linville War Memorial is a heritage-listed memorial at George Street, Linville, Somerset Region, Queensland, Australia.
+
+Linville was elected to the House first in 1992 and served one term before losing reelection.
+
+Linville was injured when serving his second tour in Afghanistan.
+
+Lin was also a US-based songwriter and the founder of the Ariadne Record label.
+
+Lin was captured on March 7, 1855 in Lizhen, Zhili.
+
+Lin was elected a fellow of the American Statistical Association in 2000 and of the Institute of Mathematical Statistics in 2007, and an elected member of the International Statistical Institute in 2006.
+
+Lin received her B.
+
+Sc. from Tsinghua University in 1989 and her Ph.
+
+D. in biostatistics from the University of Washington in 1994, where her supervisor was Norman Breslow.
+
+Lin was named the Young Player of the Year in 2013 and 2014.
+
+Lin was one of the 35 athletes that represented the Dominican Republic at the 2012 Summer Olympics at London, United Kingdom.
+
+Lin was the COO, CFO, and Chairman of Zappos.
+
+com until 2010.
+
+Lin was the first winner of the Asia-Pacific to receive a direct invitation to both the Masters and The Open Championship.
+
+Lin Wei-Chu (born 22 January 1979) is a Taiwanese baseball player who competed in the 2004 Summer Olympics.
+
+Linwell (foaled 1948) was an Irish-bred, British-trained Thoroughbred racehorse who won the 1957 Cheltenham Gold Cup.
+
+Lin won a team gold and singles bronze medal at the 2014 Commonwealth Games.
+
+Lin won the Miss World Canada title in 2015 and was to represent Canada at Miss World 2015 pageant to be held in China but was refused a visa by Chinese authorities after being declared persona non grata.
+
+Linwood Barclay (born 1955) is an American-born Canadian author, noted as a novelist, humorist, and (former) columnist.
+
+Linwood Boomer (born October 9, 1955) is a Canadian-American television producer, writer, and former actor.
+
+Linwood Boulevard, Linwood, or 33rd Street is a major west/east main street that runs in Kansas City, Missouri from Broadway Boulevard to Van Brunt Boulevard.
+
+Linwood Cemetery is a cemetery located in Linwood, Christchurch, New Zealand.
+
+Linwood Cemetery is an historic cemetery in the city of Columbus, Georgia, that is the resting place of many famous people as well as six hundred Confederate soldiers from the American Civil War.
+
+Linwood Cemetery is the resting place of a large number of notable residents.
+
+Linwood College is a co-educational secondary school in Linwood, a suburb of Christchurch, New Zealand.
+
+Linwood Female College was a women's college associated with the Associate Reformed Presbyterian Church (ARP).
+
+Linwood had a post office until February 6, 1993; it still has its own ZIP code, 14486.
+
+Linwood Howard Rose (born 1951) was the fifth president of James Madison University in Harrisonburg, VA.
+
+Linwood is a census-designated place (CDP) in Delaware County, Pennsylvania, United States.
+
+Linwood is a city in Atlantic County, New Jersey, United States.
+
+Linwood is a hamlet and census-designated place in Livingston County, New York, United States.
+
+Linwood is a historic home located at Ellicott City, Howard County, Maryland, United States.
+
+Linwood is a neighborhood in Cincinnati, Ohio.
+
+Linwood is an inner suburb of the city of Christchurch, New Zealand.
+
+Linwood is an unincorporated community in Adair County, Iowa, in the United States.
+
+Linwood is an unincorporated community in Carroll County, Maryland, United States.
+
+Linwood is an unincorporated community in Cherokee County, located in the U.
+
+S. state of Texas.
+
+Linwood is an unincorporated community in Howard County, Maryland, United States.
+
+Linwood is an unincorporated community in Lafayette Township, Madison County, Indiana.
+
+Linwood is a settlement in South Australia.
+
+Linwood is a small unincorporated community in the northern portion of Bay County in the U.
+
+S. state of Michigan.
+
+Linwood is a small unincorporated community (ZIP Code 27299) just south of Lexington in Davidson County, North Carolina, United States.
+
+Linwood is a town in Portage County, Wisconsin, United States.
+
+Linwood is a village in Butler County, Nebraska, United States.
+
+Linwood is a village with its own post office in the towns of Northbridge and Uxbridge, Massachusetts.
+
+Linwood is closest to the villages of Whitinsville, MA, and North Uxbridge.
+
+Linwood is one of the few named east-west streets in the Kansas City grid south of the Missouri River.
+
+Linwood Lake is a lake in Anoka County, Minnesota, in the United States.
+
+Linwood Lake is an unorganized territory in Saint Louis County, Minnesota, United States.
+
+Linwood Lake likely derives its name from linwood trees.
+
+Linwood M. Higgins (born January 11, 1948) is an American politician from Maine.
+
+Linwood Park is a private, family park in the city of Vermilion in the north central part of the U.
+
+S. state of Ohio on the shores of Lake Erie.
+
+Lin-Wood Public School serves the communities of Lincoln and Woodstock, New Hampshire.
+
+Linwood Shopping Center is a shopping center located on the Eastside of Kansas City, Missouri on 31st Street & Prospect Avenue across the street from Lucile H. Bluford Library.
+
+Linwood Street was a station on the demolished BMT Fulton Street Line.
+
+Linwood Township is a township in Anoka County, Minnesota, United States.
+
+Linwood Township is one of seventeen townships in Butler County, Nebraska, United States.
+
+Linwood Township remains the only unincorporated area in Anoka County.
+
+Linwood was a parliamentary electorate in Christchurch, New Zealand from 1887 to 1890.

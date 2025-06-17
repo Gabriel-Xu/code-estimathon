@@ -1,0 +1,341 @@
+Ubiquitin-AMC is a fluorogenic substrate for a wide range of deubiquitinating enzymes (DUBs), including ubiquitin C-terminal hydrolases (UCHs) and ubiquitin specific proteases (USPs).
+
+Ubiquitin-associated and SH3 domain-containing protein A is a protein that in humans is encoded by the UBASH3A gene.
+
+Ubiquitin-associated and SH3 domain-containing protein B is a protein that in humans is encoded by the UBASH3B gene.
+
+Ubiquitin-associated domain-containing protein 1 is a protein that in humans is encoded by the UBAC1 gene.
+
+Ubiquitin-associated protein 1 is a protein that in humans is encoded by the UBAP1 gene.
+
+Ubiquitin-associated protein 2 is a protein that in humans is encoded by the UBAP2 gene.
+
+Ubiquitin-associated protein 2-like is a protein that in humans is encoded by the UBAP2L gene.
+
+Ubiquitination affects proteins in many ways: it can mark them for degradation via the proteasome, alter their cellular location, affect their activity, and promote or prevent protein interactions.
+
+Ubiquitination involves at least three classes of enzymes: ubiquitin-activating enzymes (E1s), ubiquitin-conjugating enzymes (E2s) and ubiquitin-protein ligases (E3s).
+
+Ubiquitination involves at least three classes of enzymes: ubiquitin-activating enzymes, or E1s, ubiquin-conjugating enzymes, or E2s, and ubiquitin-protein ligases, or E3s.
+
+Ubiquitination involves three main steps: activation, conjugation, and ligation, performed by ubiquitin-activating enzymes (E1s), ubiquitin-conjugating enzymes (E2s), and ubiquitin ligases (E3s), respectively.
+
+Ubiquitin Bacterial (UBact) is a ubiquitin-like protein that is homologus to Prokaryotic ubiquitin-like protein (Pup).
+
+Ubiquitin carboxyl-terminal hydrolase 13 is an enzyme that in humans is encoded by the USP13 gene.
+
+Ubiquitin carboxyl-terminal hydrolase 15 is an enzyme that in humans is encoded by the USP15 gene.
+
+Ubiquitin carboxyl-terminal hydrolase 16 is an enzyme that in humans is encoded by the USP16 gene.
+
+Ubiquitin carboxyl-terminal hydrolase 1 is an enzyme that in humans is encoded by the USP1 gene.
+
+Ubiquitin carboxyl-terminal hydrolase 24 is an enzyme that in humans is encoded by the USP24 gene.
+
+Ubiquitin carboxyl-terminal hydrolase 2 is an enzyme that in humans is encoded by the USP2 gene.
+
+Ubiquitin carboxyl-terminal hydrolase 33 is an enzyme that in humans is encoded by the USP33 gene.
+
+Ubiquitin carboxyl-terminal hydrolase 34 is an enzyme that in humans is encoded by the USP34 gene.
+
+Ubiquitin carboxyl-terminal hydrolase 40 is an enzyme that in humans is encoded by the USP40 gene.
+
+Ubiquitin carboxyl-terminal hydrolase 42 is an enzyme that in humans is encoded by the USP42 gene.
+
+Ubiquitin carboxyl-terminal hydrolase 44 is an enzyme that in humans is encoded by the USP44 gene.
+
+Ubiquitin carboxyl-terminal hydrolase 47 is an enzyme that in humans is encoded by the USP47 gene.
+
+Ubiquitin carboxyl-terminal hydrolase 48 is an enzyme that in humans is encoded by the USP48 gene.
+
+Ubiquitin carboxyl-terminal hydrolase 51 is an enzyme that in humans is encoded by the USP51 gene.
+
+Ubiquitin carboxyl-terminal hydrolase 6 is an enzyme that in humans is encoded by the USP6 gene.
+
+Ubiquitin carboxyl-terminal hydrolase 8 is an enzyme that in humans is encoded by the USP8 gene.
+
+Ubiquitin carboxyl-terminal hydrolase isozyme L3 is an enzyme that in humans is encoded by the UCHL3 gene.
+
+Ubiquitin carboxyl-terminal hydrolase isozyme L5 is an enzyme that in humans is encoded by the UCHL5 gene.
+
+Ubiquitin-conjugating E2 enzyme variant proteins constitute a distinct subfamily within the E2 protein family.
+
+Ubiquitin-conjugating enzyme catalyzes the covalent attachment of ubiquitin to other proteins.
+
+Ubiquitin-conjugating enzyme E2 C is a protein that in humans is encoded by the UBE2C gene.
+
+Ubiquitin-conjugating enzyme E2 D1 is a protein that in humans is encoded by the UBE2D1 gene.
+
+Ubiquitin-conjugating enzyme E2 D2 is a protein that in humans is encoded by the UBE2D2 gene.
+
+Ubiquitin-conjugating enzyme E2 D3 is a protein that in humans is encoded by the UBE2D3 gene.
+
+Ubiquitin-conjugating enzyme E2 E1 is a protein that in humans is encoded by the UBE2E1 gene.
+
+Ubiquitin-conjugating enzyme E2 E3 is a protein that in humans is encoded by the UBE2E3 gene.
+
+Ubiquitin conjugating enzyme E2 F (putative) is a protein that in humans is encoded by the UBE2F gene.
+
+Ubiquitin-conjugating enzyme E2 G1 is a protein that in humans is encoded by the UBE2G1 gene.
+
+Ubiquitin-conjugating enzyme E2 G2 is a protein that in humans is encoded by the UBE2G2 gene.
+
+Ubiquitin-conjugating enzyme E2 J1 is a protein that in humans is encoded by the UBE2J1 gene.
+
+Ubiquitin conjugating enzyme E2 Q2 is a protein that in humans is encoded by the UBE2Q2 gene.
+
+Ubiquitin-conjugating enzyme E2 R1 is a protein that in humans is encoded by the CDC34 gene.
+
+Ubiquitin-conjugating enzyme E2 R2 is a protein that in humans is encoded by the UBE2R2 gene.
+
+Ubiquitin-conjugating enzyme E2 variant 1, also known as Kua-UEV, is a human gene.
+
+Ubiquitin-conjugating enzyme E2 variant 1 is a protein that in humans is encoded by the UBE2V1 gene.
+
+Ubiquitin-conjugating enzyme E2 variant 2 is a protein that in humans is encoded by the UBE2V2 gene.
+
+Ubiquitin-conjugating enzyme E2 variant proteins constitute a distinct subfamily within the E2 protein family.
+
+Ubiquitin conjugating enzyme E2 Z (UBE2Z), also known as UBA6-specific E2 enzyme 1 (USE1), is an enzyme that in humans is encoded by the UBE2Z gene on chromosome 17.
+
+Ubiquitin-conjugating enzymes, also known as E2 enzymes and more rarely as ubiquitin-carrier enzymes, perform the second step in the ubiquitination reaction that targets a protein for degradation via the proteasome.
+
+Ubiquitin conjugation factor E4 A is a protein that in humans is encoded by the UBE4A gene.
+
+Ubiquitin conjugation factor E4 B is a protein that in humans is encoded by the UBE4B gene.
+
+Ubiquitin D is a protein that in humans is encoded by the UBD gene.
+
+Ubiquiti Networks is an American technology company started in 2005.
+
+Ubiquitin-fold modifier 1, also known as UFM1, is a protein which in humans is encoded by the UFM1 gene.
+
+Ubiquitin fusion degradation protein 1 homolog is a protein that in humans is encoded by the UFD1L gene.
+
+Ubiquitin is a protein that in humans is encoded by the UBB gene.
+
+Ubiquitin is a signal added to an incorrectly folded protein, which allows it to be degraded by the proteasome, and the amino acid constituents can be recycled.
+
+Ubiquitin is a small (8.
+
+5 kDa) regulatory protein found in most tissues of eukaryotic organisms, i.
+
+e. it occurs ubiquitously.
+
+Ubiquitin is attached to proteins in order to regulate the degradation of proteins via the proteasome and lysosome; coordinate the cellular localisation of proteins; activate and inactivate proteins; and modulate protein-protein interactions.
+
+Ubiquitin/ISG15-conjugating enzyme E2 L6 is a protein that in humans is encoded by the UBE2L6 gene.
+
+Ubiquitin-like 1-activating enzyme E1B (UBLE1B) also known as SUMO-activating enzyme subunit 2 (SAE2) is an enzyme that in humans is encoded by the UBA2 gene.
+
+Ubiquitin-like 7 (bone marrow stromal cell-derived) is a protein in humans that is encoded by the UBL7 gene.
+
+Ubiquitin-like, containing PHD and RING finger domains, 1, also known as UHRF1, is a protein which in humans is encoded by the UHRF1 gene.
+
+Ubiquitin-like modifier activating enzyme 1 (UBA1) is an enzyme which in humans is encoded by the UBA1 gene.
+
+Ubiquitin-like modifier-activating enzyme 5 is a protein that in humans is encoded by the UBA5 gene.
+
+Ubiquitin-like modifier-activating enzyme 6 is a protein that in humans is encoded by the UBA6 gene.
+
+Ubiquitin-like modifier-activating enzyme 7 is a protein that in humans is encoded by the UBA7 gene.
+
+Ubiquitin-like protein 3 is a protein that in humans is encoded by the UBL3 gene.
+
+Ubiquitin-like protein 4A is a protein that in humans is encoded by the UBL4A gene.
+
+Ubiquitin-like protein 5 is a protein that in humans is encoded by the UBL5 gene.
+
+Ubiquitin-protein ligase accepts ubiquitin from an E2 ubiquitin-conjugating enzyme in the form of a thioester, and then directly transfers the ubiquitin to targeted substrates.
+
+Ubiquitin protein ligase E3A attaches a small marker protein called ubiquitin to proteins that should be degraded.
+
+Ubiquitin-protein ligase E3A (UBE3A) also known as E6AP ubiquitin-protein ligase (E6AP) is an enzyme that in humans is encoded by the UBE3A gene.
+
+Ubiquitin-protein ligase E3C is an enzyme that in humans is encoded by the UBE3C gene.
+
+Ubiquitin specific peptidase 10, also known as USP10, is an enzyme which in humans is encoded by the USP10 gene.
+
+Ubiquitin specific peptidase 18 (USP18), also known as UBP43, is an isopeptidase that in human is encoded by the USP18 gene.
+
+Ubiquitin specific peptidase 19 is a protein that in humans is encoded by the USP19 gene.
+
+Ubiquitin specific peptidase 22 is a protein that in humans is encoded by the USP22 gene on chromosome 17.
+
+Ubiquitin specific peptidase 25 is a protein that in humans is encoded by the USP25 gene.
+
+Ubiquitin specific peptidase 38 is a protein that in humans is encoded by the USP38 gene.
+
+Ubiquitin specific peptidase 54 is a protein that in humans is encoded by the USP54 gene.
+
+Ubiquitin specific peptidase 5 is an enzyme that in humans is encoded by the USP5 gene.
+
+Ubiquitin specific peptidase 8 pseudogene 1 is a protein that in humans is encoded by the USP8P1 gene.
+
+Ubiquitin specific peptidase 9, Y-linked (fat facets-like, Drosophila), also known as USP9Y, is an enzyme which in humans is encoded by the USP9Y gene.
+
+Ubiquitin specific processing protease 37 is an enzyme that in humans is encoded by the USP37 gene.
+
+Ubiquitin-specific-processing protease 7 (USP7), also known as ubiquitin carboxyl-terminal hydrolase 7 or herpesvirus-associated ubiquitin-specific protease (HAUSP), is an enzyme that in humans is encoded by the USP7 gene.
+
+Ubiquitin-specific protease 14 is an enzyme that in humans is encoded by the USP14 gene.
+
+Ubiquitin-specific protease 36 is an enzyme that in humans is encoded by the USP36 gene.
+
+Ubiquitin thioesterase OTUB2 is an enzyme that in humans is encoded by the OTUB2 gene.
+
+Ubiquitin was named for its ubiquitous presence among eukaryotes, while UBact ('Ubiquitin bacterial') is very limited in occurrence among the vast number of bacterial species.
+
+Ubiquitinyl hydrolase 1 (EC 3.
+
+4.
+
+19.
+
+12, ubiquitin C-terminal hydrolase, yeast ubiquitin hydrolase) is an enzyme.
+
+Ubiquitous and perpetual fixations with water occur across religious traditions.
+
+Ubiquitous Frequency Oscillation (UFO) is the second studio album by Joel Kanning.
+
+Ubiquitous in Indonesia, it can be found everywhere in the country, sold by all food vendors from street-hawkers, warungs, to high-end restaurants.
+
+Ubiquitous in Indonesia, sold by many food vendors, from traveling street-hawkers in their carts, warungs, to high-end restaurants.
+
+Ubiquitous in nature, Bacillus includes both free-living (nonparasitic) and parasitic pathogenic species.
+
+Ubiquitous in West Virginia (particularly in convenience stores), but typically little known elsewhere, it is arguably the food most closely associated with the state (a competitor for this distinction is the ramp).
+
+Ubiquitously, the song garnered acclaim, many reviewers saying the song was one of the best songs Del Rey has ever written and praising Del Rey's voice.
+
+Ubiquitous robot (Ubibot) is a robot incorporating three components including virtual software robot or avatar, real-world mobile robot and embedded sensor system in surroundings.
+
+Ubiquity, an add-on for Mozilla Firefox, is a collection of quick and easy natural-language-derived commands that act as mashups of web services, thus allowing users to get information and relate it to current and other webpages.
+
+Ubiquity Global Services is a multinational services organization headquartered in New York City, New York.
+
+Ubiquity is the default installer for Ubuntu and its derivatives.
+
+Ubiquity Press is a United Kingdom-based academic publisher focusing on open access publication.
+
+Ubiquity Records is an American music label that focuses on funk, rare groove, soul, and hip hop and other musical genres.
+
+Ubiraci Ferreira dos Santos , commonly known as Bira , (born 27 April 1969) is a former Brazilian footballer.
+
+Ubir (Kubiri) is an Oceanic language of Oro Province, Papua New Guinea.
+
+Ubirodynerus is a monotypic Australian genus of potter wasps.
+
+UB is an abbreviation of Uxbridge.
+
+UBI seeks to produce socially conscious theater projects in both performance and in workshop projects with children, youngsters and adults.
+
+Ubislate 7 is a series of low-cost tablet computers produced by DataWind, all of which use the Android Operating System.
+
+UB is led by Head Coach Mike Hodgins.
+
+Ubisoft also created a spin-off series called Monster 4x4, which began with the Monster Jam-licensed Masters of Metal, before branching off into an independent series with three additional sequels that forgo the Monster Jam license in favor of creating a more unique monster truck racing experience.
+
+Ubisoft and Warner Bros. stated that this did not have a negative impact on their relationship.
+
+Ubisoft described it as one of the biggest open world games that they have published, with the game world including a wide variety of environments such as mountains, forests, deserts, and salt flats.
+
+Ubisoft has marketed Far Cry 2 as the true sequel to Far Cry, however the sequel has very few noticeable similarities to the original game.
+
+Ubisoft has published all of the CSI video games.
+
+Ubisoft has released a sequel, Far Cry Instincts: Evolution for the Xbox.
+
+Ubisoft has since stated that they will continue putting Tom Clancy's name on future Tom Clancy titles out of respect for the late author.
+
+Ubisoft is a French video game publisher headquartered in Montreuil, founded in March 1986 by the Guillemot brothers.
+
+Ubisoft later acquired the Petz brand and as of 2013 is still releasing new versions In 2015 Rob Fulop joined the indie rock band, Bourbon Therapy, based out of Oakland, CA, as the pianist/keyboardist.
+
+Ubisoft Leamington (formerly FreeStyleGames Limited) is a British video game developer based in Leamington Spa, England.
+
+Ubisoft Leamington is primarily working on the Tom Clancy's The Division franchise.
+
+Ubisoft Montpellier SAS is a French video game developer based in Montpellier, France, and a wholly owned subsidiary of Ubisoft.
+
+Ubisoft Motion Pictures SASU is a French film production company based in Montreuil, France, and a subsidiary of French video game publisher Ubisoft.
+
+Ubisoft partnered with The Tetris Company to develop the game to celebrate the 30th anniversary of the Tetris franchise.
+
+Ubisoft published almost all of NewKidCo's titles in Europe since the company did not have an office there.
+
+Ubisoft published Jimmy Connors Tennis two years after Connors' late-career comeback in the Men's Singles division at the 1991 US Open, where he reached the semifinals.
+
+Ubisoft published the game as Wild Earth: Photo Safari for Microsoft Windows and Xbox in November 2006.
+
+Ubisoft Quebec is a Canadian video game developer and a subsidiary of Ubisoft based in Quebec City.
+
+Ubisoft Reflections Limited (formerly Reflections Limited and later Reflections Interactive Limited) is a British video game developer based in Newcastle upon Tyne, England.
+
+Ubisoft released Just Dance 4 in October 2012.
+
+Ubisoft reports that through 2014, lifetime sales of the Far Cry franchise has exceeded 20 million units.
+
+Ubisoft studios often co-operate with each other in their projects, sharing different development duties.
+
+Ubisoft then released their fiscal quarter results for Q1 2006 and announced that Double Agent would be put back at least one month in order to boost Q3 2006 income.
+
+Ubisoft was approached by Nintendo to develop a mature game for its gaming console, Wii U. Originally envisioned as a spin-off of the Raving Rabbids franchise and a fast-paced first-person shooter, Killer Freaks from Outer Space (with small, agile monsters), the game was retooled as ZombiU after the development team realized that the Wii U GamePad was suitable for slower-paced games.
+
+UB is one of the only two institutions of higher learning in the United States which were founded by a U.
+
+S. President (Millard Fillmore), with the other one being the University of Virginia.
+
+UBIS University is an internationally accredited Swiss private university and is part of the U.
+
+S. investment and advisory firm, Hamilton White.
+
+UBI Theater Leipzig is a bilingual (English and German) theater company based in Leipzig (Germany).
+
+UBI, was a middle size bank in the Philippines.
+
+Ub Iwerks created Mickey Mouse for the Walt Disney Studio.
+
+Ub Iwerks was the animator.
+
+UbiWorkShop released a teaser trailer on July 21, 2011, which was featured at Comic-Con 2011.
+
+UBI World TV broadcast TV and radio channels to Australia and New Zealand using the Optus D2 and Intelsat 8 (IS8) satellites.
+
+UBI World TV has been proud to have served the multicultural communities of Australia and New Zealand for the past 7 years and would like to thank each and every loyal subscriber for their support.
+
+UBI World TV was an Australian digital satellite pay television service that broadcast predominantly ethnic-minority (and mainly non-English-language) channels.
+
+Uble, also referred to as Ubli, is a small coastal village in southern Croatia.
+
+UBL is described in an extensive overview in the article "What is UBL?" describing customizing and extending UBL, the governance of UBL, how UBL is modeled, and thoughts regarding deploying UBL.
+
+UBL is designed to plug directly into existing business, legal, auditing, and records management practices.
+
+UBL is owned by OASIS and is currently available to all, with no royalty fees.
+
+Ublituximab is an immunomodulator.
+
+UBL provides a complete array of services in wholesale and retail banking through its network of branches and presence across 12 countries in four continents including the UAE, Bahrain, Qatar, Yemen, UK, Switzerland, China, Oman, US, Tanzania, Iran and Pakistan.
+
+UBL traces its origins back to the EDI standards and other derived XML standards.
+
+UBL version 2.
+
+0 was approved as an OASIS Standard in October 2006.
+
+UBL was developed by an OASIS Technical Committee with participation from a variety of industry data standards organizations.
+
+UB marketed a broadband (in the original technical sense) version of Ethernet known as 10BROAD36 in the mid 1980s.
+
+UBM Aviation was created in December 2008 when its parent, UBM, reorganized all of its airline-related businesses into one company.
+
+UBM Canon (formerly Canon Communications), founded in 1978 and headquartered in Los Angeles California is a diversified business-to-business media company.
+
+UBM Canon is a mass media corporation that publishes and produces 13 magazines, 54 trade shows & events and 21 web sites.
+
+UBM plc is a global business-to-business (B2B) events organizer headquartered in London, United Kingdom.
+
+UBM plc purchased Canon Communications soon afterward.
+
+UBM was listed on the London Stock Exchange and was a constituent of the FTSE 250 Index until it was acquired by Informa in June 2018.

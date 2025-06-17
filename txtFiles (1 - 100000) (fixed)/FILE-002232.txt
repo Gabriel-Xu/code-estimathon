@@ -1,0 +1,77 @@
+The first series of Promenade Concerts (or "Proms" for short) was in 1895. The programmes were much longer than they are in concerts today. There were lots of short pieces of music. Wood gradually made his audiences get used to listening to longer pieces of music. He introduced them to new music which had only recently been written. He conducted music by many British composers and European composers. People at that time were very prejudiced. They thought that only German conductors knew how to conduct German composers such as Richard Wagner. Wood showed them that he could do it too. He conducted every night during the Proms season. On Mondays he played a lot of Wagner and on Fridays he played Beethoven. He played music by European composers whose music was not yet well known in England, e.
+
+g. Sibelius, Schoenberg and many Russian composers.
+
+Wood conducted the Proms until his death in 1944. Most of that time he was the only conductor of the Proms. Later in life he shared the conducting with other conductors such as Basil Cameron and Sir Adrian Boult. Wood had a big influence on the standard of music making in England. He made orchestral playing better, making sure that the players did not send in deputies instead of them. He made sure that the orchestral players were paid well and he allowed women to play in the orchestra.
+
+Wood is mainly remembered for the promenade concerts, but he conducted many other groups as well. He travelled around England, conducting at music festivals. He often conducted amateur groups. He made sure that he knew the music he was conducting very well. Many conductors in the 19th century did not do this. They were more keen to show off, but Wood prepared the music carefully, marking things in his score with coloured pencils.
+
+Wood made arrangements of other composer's music, e.
+
+g. Bach's "Toccata and Fugue in D minor" for organ. He arranged a group of songs called "Fantasia on British Sea Songs" for the 1905 centenary celebrations of the Battle of Trafalgar. These are always played at the Last Night of the Proms.
+
+In 1938 he conducted a jubilee concert in the Royal Albert Hall. Rachmaninov was the soloist, and Vaughan Williams wrote his "Serenade to Music" for orchestra and sixteen soloists. Wood often worked too hard and it was not good for his health. He died on 19 August 1944, just over a week after the fiftieth anniversary concert of the Proms, which he had been too ill even to listen to on the radio.
+
+Wood was given many honours: he was knighted by the king in 1911, he was awarded the gold medal of the Royal Philharmonic Society in 1921 and was made a Companion of Honour in 1944. At the Proms today his bust is put at the front of the Royal Albert Hall during the whole of each Prom season. At the Last Night of the Proms it is decorated by a chaplet.
+
+Divine graceIn Christianity Divine Grace means a favour of God for humankind. God favours every person, without looking at what they did or how much they are worth. This grace of God to humans may happen in the gifts that God gives him, such as creation or salvation.
+
+Common grace refers to blessings which God gives to everyone. Jesus said that God "sends the rain upon the just and the unjust. This idea is found in Greek philosophy. Plato spoke of God's "gifts". The Reformers listed many ways in which God gives undeserved gifts to mankind. These include life itself, food and earthly pleasures. God also restrains evil so that people will not destroy themselves in wars and conflict.
+
+Prevenient grace (or enabling grace) is a Christian teaching in Arminian theology. It appeared earlier in Catholic and early Anabaptist teaching. It is divine grace that goes before human decision. In other words, God will start showing special love to a person at a certain time of his life.
+
+Prevenient grace is taught by Christians who are influenced by the theology of Jacob Arminius or John Wesley. Wesleyan Arminians believe God helps people to accept the gift of salvation.
+
+This refers to the good things that God gives to those who believe in Jesus. The gifts include forgiveness of sin, eternal life, and the power to live a good and holy life."
+
+Grace" is a common girl's name in many countries."
+
+Amazing Grace" is a song that became very popular. It is played at funerals, sometimes on a bagpipe. This song was written by John Newton who was an evil slave trader. His life was changed when he became a Christian. He later worked to stop the practice of slavery. His story is told in a 2006 movie.
+
+Proxy serverIn computer networks, a proxy server is a server (computer) which clients (people or computers) use to access other computers. A proxy server that passes information to its clients without changing it is usually called a gateway or sometimes called "tunneling proxy".
+
+Proxy servers get their name because they act like a proxy (a stand-in) and act on behalf of a client's computer.
+
+A client that connects to the proxy server will ask for some service, such as a file, connection, web page, or other resource, that is available on a "different" server. The proxy server then goes to the "other" server and asks for what the client wants for them.
+
+A proxy server can change the information that it gives to the client, and if the same information is accessed many times or by many different clients it can use what is called a cache to make things faster. A cache is the term for information that has been accessed and saved for future use; if a proxy server has what the client is accessing in its cache, it will make it faster because it does not need to go and access the other server to provide what the client wants.
+
+A proxy server can be placed anywhere in the connection between the client and the server, which could include software on the client computer itself or on any computer between.
+
+Some proxy servers use Secure Sockets Layer to secure the connection between the client and the remote server. This security layer helps to make sure that no other computers can read or understand what the client is asking from the server.
+
+There are many benefits of using a proxy server. First, the client machine can exchange data with the remote server without making a direct connection. This way, the client's real internet address will not be known to the remote server. This is sometimes called anonymizing because it makes the client anonymous. A second advantage is that when the proxy server itself is able to serve the request made by the client, it will not contact the remote server any more. So the load on the remote server will be reduced by using a proxy server. This type of proxy servers is called "caching servers".
+
+Big organizations (or even countries) sometimes use proxy servers to control access to the Internet. A large bank may use a proxy server that only allows connections to other websites relevant to banking. The proxy server might block access to Websites offering free email or serving pornographic material. It might also block access to file sharing applications. Limiting access to specific content on the internet is also called "internet filtering".
+
+A proxy server may have one or more of the functions described below:A caching proxy server can service requests from clients, without contacting the remote server; instead, it sends the data which it has stored from a previous request. This is called caching. Caching proxy servers reduce the work load of the remote server. However, they have their own problems, especially if they are not configured well. Some problems are described in RFC 3143.
+
+A web proxy is a proxy server that focuses on the traffic over the World Wide Web. It may be used to block offensive web content, or to control access of clients to online content. They may be used by corporations or countries. Web proxies can also be used to track how different individuals have used internet access.
+
+An anonymizing proxy server removes identifying information from the clients' requests, for the purpose of anonymity. They may also be used to break through filtered contents on the internet.
+
+A proxy server is called an "open proxy" if everyone can connect to it and use it. Usually, open proxies are proxy servers which are badly configured. Open proxies may be abused easily; for example, a bad user may send a corrupting request to a remote server, but hide himself behind an open proxy, so the administrators of the remote server cannot stop him. Open proxies can also be used for spamming. For this reason, some websites do not allow connections to their web servers or to edit content on them through known open proxies, including on .
+
+A "forced proxy" server is a proxy server which handles all of the traffic from the client to the internet. The client will not know that the proxy exists, but all of the information passes through the proxy server. They are sometimes called "transparent" proxy servers, because the user does not know a proxy server is between the client and remote server.
+
+A Transparent SMTP Proxy is a SMTP proxy server that is in between a sending mail server and a receiving mail server. The main purpose of the SMTP proxy is to filter outbound spam. The client and server believe that they are talking to each other even though there is a proxy in between.
+
+There is a lot of software which can be used for running a proxy server. Some software can only work as a proxy server, while other software can also work as a firewall or caching server. Squid, Varnish and Microsoft Internet Security and Acceleration Server (ISA Server) are among the best known pieces of proxy server software. Some proxy software uses the SOCKS protocol. An example is the Java SOCKS Proxy Server.
+
+ClientIn net jargon (words people use about the Internet) a client is a computer used by a user to connect to a network and make requests to servers. For example, a web browser is a client software.
+
+Cache (computing)Caching is a term used in computer science. The idea behind a cache (pronounced "cash" ) is very simple: Very often, obtaining a result for a calculation is very time-consuming, so storing the result is generally a good idea. Two kinds of storage media are used: One is usually quite big, but accessing it is "slow"; the other one can be accessed much faster, but generally it is small. The very basic idea behind caching is to use the medium that is fast to access to have copies of data. There is no difference between the copy, and the original. Accessing the original data may take a long time, or it may be expensive to do (for example: the results of a difficult problem that take a long time to solve). For this reason, it is much "cheaper" to simply use the copy of the data from the cache. Put differently, a cache is a temporary storage area that has copies of data that is used often. When a copy of the data is in this cache, it is faster to use this copy rather than re-fetching or re-calculating the original data. This will make the average time needed to access the data shorter. Putting a new value into a cache often means that an older value needs to be replaced. There are different ideas (usually called "strategies") on how to select the value to replace.
+
+A buffer is very similar to a cache. It is different in that the client accessing the data in a buffer knows there is a buffer; the buffer is managed by the application. With a cache, the client accessing the data need not be aware there is a cache.
+
+Typical computer applications access data in very similar ways. Suppose the data is structured into "blocks", which can be accessed individually. When an application accesses a block it is also very likely to access (or reference) a block that is "close" to the original block. This is known as locality of reference. There are different kinds of such "locality". Locality of reference is one of the reasons why caches work well in many areas of computing.
+
+In order to work well, caches are small, compared to the whole amount of data. The bigger the cache, the longer it takes to lookup an entry. Bigger caches are also more expensive to build.
+
+A cache is a block of memory for storing data which is likely used again. The CPU and hard drive often use a cache, as do web browsers and web servers.
+
+A cache is made up of many entries, called a "pool". Each entry holds a datum (a bit of data) which is a copy of a datum in another place. Caches usually use what is called a "backing store". Backing stores are slow or expensive to access, compared to the cache. A disk cache uses a hard disk as a backing store, for example.
+
+Each entry also has a little information attached, called a "tag". This tag is used to find the location where the original data is stored.
+
+A client (a CPU, web browser, operating system) wants to access a bit of data, it believes to be in the backing store, it first checks to see if the datum can be found in the cache. If the data can be found in the cache, the client can use it and does not need to use the main memory. This is known as a cache hit. So, for example, a web browser program might check its local cache on disk to see if it has a local copy of the contents of a web page at a particular URL. In this example, the URL is the tag, and the contents of the web page is the datum.

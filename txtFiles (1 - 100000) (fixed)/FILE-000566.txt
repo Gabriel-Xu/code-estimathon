@@ -1,0 +1,5 @@
+These changes in gene activity may stay for the remainder of the cell's life and may also last for many generations of cells, through cell divisions. However, there is no change in the underlying DNA sequence of the organism. Instead, non-hereditary factors cause the organism's genes to behave (express themselves) differently.
+
+Hox genes are a complex of genes whose proteins bind to the regulatory regions of target genes. The target genes then activate or repress cell processes to direct the final development of the organism.
+
+There are some kinds of heredity which happen outside the cell nucleus. Normal inheritance is from both parents via the chromosomes in the nucleus of a fertilised egg cell. There are some kinds of inheritance other than this.

@@ -1,0 +1,127 @@
+Stuart Fergusson Victor Sutcliffe (23 June 1940 – 10 April 1962) was an early member of the English band The Beatles. He was born in Edinburgh, Scotland and raised in Liverpool, England. He was the band's original bassist, but left before they became famous. He wanted to be an artist, and he returned to art school, which he had quit to join the Beatles.
+
+Sutcliffe died in 1962, at the age of 21, in Hamburg, Germany from a brain hemorrhage. It was long thought that the hemorrhage was from a fight with locals after a concert in 1961, but it is now believed he may have been born with a medical condition which caused it.
+
+BeautifulIf something is described as beautiful, it means that it has beauty. Beautiful can also mean:George BooleGeorge Boole [], (November 2, 1815 – December 8, 1864) was an English mathematician and philosopher.
+
+He created Boolean algebra. This is one of the bases of modern-day computer science. Other people, like Augustus De Morgan and Charles Peirce, refined and completed his work. In their times, very few people knew of the work those mathematicians had done. "Boolean algebra" was rediscovered by Claude Shannon about 75 years after Boole's death. In his doctoral thesis, Shannon showed that boolean algebra was useful. It could simplify the design of electric switches and relays (like those that were used in the telephone switchboards of the time). Shannon also showed that such switches could solve boolean algebra problems. All modern-day digital circuits (mainly computers) use such algebra to solve problems.
+
+ManaguaManagua has been the capital city of Nicaragua since 1855. There had been an Indian settlement there before the Spanish, but the modern city was founded as Leal Villa de Santiago de Managua in 1811. Before 1855, León and Granada were the capital cities. The word "managua" comes from the Nahuatl language "mana-ahuac". It means "near water". About 1.
+
+8 million people lived there in 2004. This makes it one of the biggest cities of Central America (after Guatemala City). The city is at the shore of Lake Managua. Many people who live in Managua are White or Mestizo. They all speak Spanish. There are also big communities of Catalonians, Germans, Italians and French. Many of the people belonging to those communities have lived in the city for many generations. Many people see Managua as one of the safest cities in America to live in.
+
+The city has had two destructive earthquakes in the 20th century. Hurricane Mitch caused further destructions in 1998. Many old buildings were damaged or destroyed in these earthquakes, and new streets and monuments were built in their place. In general, addresses are rarely used to give directions. Instead, people usually use monuments to tell where a certain place is. The problem with that approach is that sometimes, the monuments themselves were destroyed. Therefore, foreigners often have problems finding their way around the city.
+
+FlatFlat might mean:In music "flat" can have two (related) meanings:CurveA curve is a line that turns or bends. A curved line is never straight, and a curved surface is a surface that is never flat. Some curves can be drawn on paper, but some curves, like a helix, can only be seen in 3-D. A circle is a curve that can be described with the formula "x" + "y" = "r". "x" and "y" are used as in a Cartesian coordinate system, and "r" is the radius of the circle (distance from the center to the outside). Many other curves can also be described with a formula like that.
+
+Möbius stripThe Möbius strip or Möbius band, sometimes called a Mobius strip is a looped surface with only one side and only one edge. It can be made using a strip of paper by gluing the two ends together with a half-twist. The twisting is possible in two directions; so there are two different (mirror-image) Möbius strips.
+
+The Mobius strip is known for its unusual properties. A bug crawling along the center line of the loop would go around twice before coming back to its starting point. Cutting along the center line of the loop creates one longer band, not two. Cutting one third of the way in from the edge (and parallel to it) produces two Möbius strips, looped together.
+
+The Möbius strip was discovered independently by the German mathematicians August Ferdinand Möbius and Johann Benedict Listing in 1858.
+
+One way to represent the Möbius strip as a subset of formula_1 can be done using the parametrization:Where 0 ≤ α < 2π and −1 ≤ "r" ≤ 1. This creates a Möbius strip of width 1 whose center circle has radius 1, lies in the "xy" plane and is centered at The parameter "u" runs around the strip while "v" moves from one edge to the other.
+
+In cylindrical polar coordinates ("r", θ, "z"), an unbounded version of the Möbius strip can be represented by the equation:Topologically, the Möbius strip can be defined as the square [0,1] × [0,1] with its top and bottom sides identified by the relation for as in the diagram on the right.
+
+The Möbius strip is a two-dimensional compact manifold (i.
+
+e. a surface) with boundary. It is a standard example of a surface which is not orientable. The Möbius strip is also a standard example used to show the mathematical idea of a fiber bundle. Specifically, it is a nontrivial bundle over the circle "S" with a fiber the unit interval, "I" = [0,1]. Looking only at the edge of the Möbius strip gives a nontrivial two point (or Z) bundle over "S".
+
+A simple construction of the Möbius strip, which can be used to show it in computer graphics or modeling packages, is as follows:There have been several technical applications for the Möbius strip. Giant Möbius strips have been used as conveyor belts. Such belts last longer because the entire surface area of the belt gets the same amount of wear. Möbius bands have also been used as continuous-loop recording tapes (to double the playing time). Möbius strips are common in the making of fabric computer printer and typewriter ribbons. There, they allow the ribbon to be twice as wide as the print head while using both half-edges evenly.
+
+A device called a Möbius resistor is an electronic circuit element which has the property of canceling its own inductive reactance. Nikola Tesla patented similar technology in the early 1900s: "Coil for Electro Magnets" was intended for use with his system of global transmission of electricity without wires.
+
+The Möbius strip is the configuration space of two unordered points on a circle. Consequently, in music theory, the space of all two note chords, known as dyads, takes the shape of a Möbius strip.
+
+In physics/electro-technology:In chemistry/nano-technology:Klein bottleThe Klein bottle is a geometrical object, named after the German mathematician Felix Klein. He described it in 1882, and named it "Klein'sche Fläche" (Klein surface). Like the Möbius strip, it only has one surface. Mathematicians call this a non-orientable surface. Klein bottles only exist in four-dimensional space, but a model of a Klein bottle can be made in 3D. This model is different from the original because at some point the shape touches itself. In 3D, part of the shape is "inside" the rest. This is not the case in 4D. Some 3D models use different colors to show the 4th component. The part that lies "inside" then has a different color.
+
+Because the surface is non-orientable, there is no "inside" or "outside". This means that if a liquid were filled "in the bottle", it would run down its surface. This may not be true for the 3D models of the bottle.
+
+The 2-dimensional version of a Klein bottle is a Möbius strip.
+
+Join the arrows so that they face the same way, like so:EntropyThe entropy of an object is a measure of the amount of energy which is unavailable to do work. Entropy is also a measure of the number of possible arrangements the atoms in a system can have. In this sense, entropy is a measure of uncertainty or randomness. The higher the entropy of an object, the more uncertain we are about the states of the atoms making up that object because there are more states to decide from. A law of physics says that it takes work to make the entropy of an object or system smaller; without work, entropy can never become smaller – you could say that everything slowly goes to disorder (higher entropy).
+
+The word entropy came from the study of heat and energy in the period 1850 to 1900. Some very useful mathematical ideas about probability calculations emerged from the study of entropy. These ideas are now used in information theory, statistical mechanics, chemistry and other areas of study.
+
+Entropy is simply a quantitative measure of what the second law of thermodynamics describes: the spreading of energy until it is evenly spread. The meaning of entropy is different in different fields. It can mean:SideIn geometry, a side is a straight line that is part of a shape. A shape made of straight lines is called a polygon. The number of sides on a polygon can be written as formula_1.
+
+A side can also mean the face of a 3D shape. A 3D shape made of flat faces is called a polyhedron. The number of faces on a polyhedron can be written as formula_2.
+
+As an example, the square on the right has four sides. The sides in this picture are made with black straight lines. The four sides are:Te PukeTe Puke is a small town in the Bay of Plenty in New Zealand. 6670 people live there. It is famous for kiwifruit, which is grown there. Lots of other fruit is grown there too."
+
+Te Puke" means "the hill" in Māori.
+
+ValleyA valley is a type of landform. A valley is a lower part in the land that sits between two higher parts which might be hills or mountains. Valleys often start as a downward fold between two upward folds in the surface of the Earth, and sometimes as a rift valley. A valley is made deeper by a stream of water or a river as it flows from the high land to the lower land, and into a lake or sea. Some valleys are made by glaciers which are slow-moving rivers of ice. Water or ice make a valley deeper or wider by erosion. Wind can also make valleys larger by erosion.
+
+A valley has a "head" where it begins in the mountains or hills, "sides" where it rises up on either side, a "floor" which is where the valley is most flat. Some valleys have an "entrance" where the valley opening can be seen between two hills or mountains or cliffs. A place where a valley is very narrow and has high walls is sometimes called a "gorge". (This word "gorge" is sometimes used to mean the "throat" on a human body).
+
+Many of the people of the world live in valleys because there is often a river or stream in a valley for fresh water, and there is often good soil in a valley to grow crops.
+
+Mountains and hills are made when the layers of rock and soil (called "strata") get folded. Fault block mountains may have rift valleys. There are valleys in mountain ranges, between the highest parts which are the "peaks". People who want to travel to the other side of the mountains usually go by the valleys. A valley that people use to travel through mountains or hills is called a mountain pass.
+
+Valleys that are high in the mountains are usually made deeper by a stream or small river running fast down the mountainside, from a place where there is lots of rainwater or melting snow, or by a glacier. The mountain stream winds around the biggest rocks and washes the soil away as it flows. It cuts a passage for itself through the softest soil and smallest stones. A small stream can cut a very deep valley. Valleys that are high in the mountains are usually V-shaped. There are many valleys like this in hills and mountains all over the world.
+
+In country that has hills, but is not very steep, a river or stream runs more slowly. It makes a wider valley that often has some large bends as the river flows around the hills, always following the lowest way. Water running down from the hillsides often carries soil that spreads out across the valley, making flat land that is good for growing food crops and raising cattle and other animals. Many farms are in valleys that are in hilly land. Many towns are built on the sloping sides of valleys. Famous valleys of this type are the Loire Valley and the Lower Rhine Valley in Europe and the Thames Valley in England.
+
+Some valleys are almost flat, like a large saucer. Valleys of this type often have a very large river with many "tributaries" (streams that are like branches) running through them. The "tributaries" carry water from the hills or mountains that may be far from the main river. After heavy rain, lots of water rushes into the main river so that it rises and floods over the flat floor of the valley. When the flood waters spread, they drop lots of soil which has washed down from the hills. The soil that drops on the valley floor makes a flat flood plain. Valleys of this type are very useful for growing food crops. The widest valleys in the world are like this. Famous valleys of this type are the Mississippi-Missouri Basin in North America, the Amazon Basin in South America, the Lower Danube in Europe, the Ganges River Valley in India, the Nile River Flood Plain in Africa and the Darling River Basin in Australia.
+
+A glacier is like a frozen river. Many countries do not have any glaciers. A glacier starts in very high mountains where there is snow and ice all the year. The snow and ice starts to move down a valley that has been made by a fast-flowing stream. As the ice starts to slide down the mountainside, it does not flow around the rocks; it pushes the rocks out of the way. As a glacier moves, it picks up more ice and gets bigger and bigger. A big glacier cuts through the soil and softer rock of the valley and piles up the rocks on either side, or pushes them in front of it. When a big glacier melts, it leaves a valley of a deep U-shape. Many valleys like this were made in the Ice Ages. In mountainous countries like Switzerland many people live in the valleys that were made by glaciers. Some of the deepest valleys in the world were made by glaciers. The fjords of Norway and "sounds" of New Zealand are where glaciers went into the sea.
+
+A plateau is high land that is flat on top, or gently rolling, not pointed like mountains or rounded like hills. In hilly or mountainous country, the bands of a soil and rock are folded, but in a plateau the "strata" are in flat layers. The water that makes streams on the top of a plateau cuts down in wide valleys with sides that are steep cliffs and a bottom that is quite flat. Valleys like this are often deep and very narrow. Some valleys like this are very deep and wide. They are called "canyons". Famous valleys of this type are the Grand Canyon in the United States and the Megalong Valley in Australia.
+
+Sometimes a valley has been formed in the hills near the coast of a country. Movement in the Earth's surface may cause the land to sink lower and become flooded by the sea. The shape of the valley can still be seen from the tops of the hills that stick out from the water. Some of the hills may become islands, and others become the shore of a bay. Sunken valleys often make good harbours. The east coast of Australia has many sunken valleys of which the most famous is Sydney Harbour.
+
+ManifoldA manifold is a concept from mathematics. Making a manifold is like making a flat map of a sphere (the Earth).
+
+The Earth is a sphere, a three dimensional object of geometry. Yet, maps (two-dimensional representations) can be made of the Earth. At the edges of a certain map, the map needs to be changed. That way it is possible to make a two dimensional image of the whole surface of the Earth. There need to be rules, on how to change the maps, and some areas (near the edges of the map) will be on more than one map. It is not possible to make one map only, which would have no edges. This map would either have edges (and overlapping areas), or there would be some places where the paper was torn. Tearing and overlapping isn't allowed.
+
+Other shapes can be manifolds too. For example, a hyperbolic plane is a shape that looks like a saddle or leaf of lettuce. If you try to press it down onto a piece of paper, it will have wrinkles, and it will go on forever past the edges of the paper. But you can make a map of part of it by squishing the edges, just like with the Earth you can make a map by taking part of it and stretching the edges.
+
+Each manifold has a dimension. This is the number of dimensions of the maps, in the example above. It is the same for all maps.
+
+Nicotinamide adenine dinucleotide phosphateNADP (nicotinamide adenine dinucleotide phosphate) (formula CHNOP) is a coenzyme that carries electrical energy used in cellular processes. When a hydrogen atom is added, NADP becomes charged and is renamed NADPH. NADP is used extensively during the Krebs (citric acid) cycle and during glycolysis and in the light-dependent reactions of photosynthesis.
+
+The CWThe CW Television Network (commonly referred to as simply The CW) is an American television network that is operated by The CW Network, LLC. It launched at the beginning of the 2006–2007 television season and is a joint venture between Paramount Global's CBS Entertainment Group, the former owner of United Paramount Network (UPN), Warner Bros. Discovery's Warner Bros., former majority owner of The WB Television Network and Nexstar Media Group, the largest affiliation of the network. The "CW" name comes from the first letter of the names of these corporations (CBS and Warner Bros.).
+
+BorzoiBorzoi is a type of Russian dog. It used to be called a Russian Wolf Hound.
+
+This breed of dog was brought to the United States in 1889. It was approved by the American Kennel Club one year later. The breed is beautiful and has a gentle personality. It makes it a good pet.
+
+The breed was approved and the descriptive standard was written in 1650. It has not changed much since then. It is about tall at the withers (its back near the shoulders). It weighs from . Borzois have a long coat. They can be any color from solid white to brown and white, gray and white or brindle. They can also be all black. People who take care of Borzois have done a good job of stopping health problems. Borzois do not have many of the problems other breeds have with health.
+
+In Russia, they were well liked by the royalty. It was illegal to sell them. They were given to those who did something special for the Tzars. They feature in Russian novels e.
+
+g. in Tolstoy's "Anna Karenina". During the Russian revolution, most of the breed were killed because they were a symbol of royalty. A few were taken from the country.
+
+They have been used in advertising for luxury cars and jewelry. This is because of their elegant looks.
+
+Giuseppe GaribaldiGiuseppe Garibaldi was an Italian soldier who is best known for the unification of Italy.
+
+Garibaldi led the navy of the breakaway Riograndense Republic in southern Brazil until it was defeated in 1839. He escaped and led the navy of Uruguay to victory. Later, inspired by Giuseppe Mazzini, he fought for Italian unification. He led a group called the Red Shirts through the Kingdom of Two Sicilies to bring different kingdoms in Italy together in 1860.
+
+Edward the ConfessorEdward the Confessor (4 April 1003 — 5 January 1066) also nicknamed as the Saint, the Pious, and the Faithful was the King of England from 1042 until his death in 1066. During his reign, England experienced peace, stability, and prosperity. The kingdom was also very unstoppable and also, the kingdom's life quality and the standard of living and health care improved as well.
+
+Edward spent many years in Normandy. The Anglo-Saxon nobles invited Edward back to England in 1041. He became part of the household of his half-brother Harthacnut. According to the "Anglo-Saxon Chronicle" both were sworn in as king together.
+
+Following Cnut II's death on 8 June 1042, Edward ascended the throne. The Anglo-Saxon Chronicle indicates the popularity he enjoyed at his accession — "before he (Cnut II) was buried, all the people chose Edward as king in London". Edward was crowned at the cathedral of Winchester, the royal seat of the West Saxons on 3 April 1043.
+
+Edward's death left England without a clear-cut successor. Harold Godwinson had led successful raiding parties into Wales in 1063. He negotiated with his inherited rivals in Northumbria in 1065, and in January 1066, upon Edward's death, he was made King Harold II.
+
+The Norman position was that William the Conqueror had been designated the heir, and that Harold had been publicly sent to him as emissary from Edward, to apprise him of Edward's decision. However, William's biographer, William of Poitiers, admitted that the old king had made a deathbed gift of the crown to Harold. On Edward's death, Harold was approved by the Witenagemot which, under Anglo-Saxon law, held the ultimate authority to convey kingship.
+
+Edward also made his great nephew Edgar Ætheling his heir. However, Edgar had no following among the earls: he had lived in Hungary, and was a boy of fifteen. This opened the way for Harold's coronation, and the invasions of two claimants to the throne, the unsuccessful invasion of Harald Hardrada in the north and the successful one of William of Normandy.
+
+Edward was canonized (made a saint) in 1161 by Pope Alexander III, and is commemorated on 13 October.
+
+27 BCYear 27 BC was either a common year starting on Sunday, Monday or Tuesday or a leap year starting on Monday of the Julian calendar.
+
+899Year 899 (DCCCXCIX) was a common year starting on Monday of the Julian calendar.
+
+Gilbertville, OntarioGilbertville is a hamlet in Norfolk County, Ontario, Canada that is in between Delhi and the historical hamlet of Pine Grove. There is a small grocery store, a tractor shop, a car repair shop, and farmland to the south. In addition to all this, Gilbertville is also the site of a former army base and was founded by the Gilbert family in the 19th century as a place to rest horses when travelling to and from the towns of Simcoe and Delhi.
+
+World War IIIWorld War III is the name given to a possible third World War. It refers to a world war that may happen. It would be the successor to World War II (19391945).
+
+A world war might be fought by multiple countries of the world against one other, sometimes across different continents. An all-out war fought between two or three major superpowers would be a world war.
+
+Because technology and weapons have become so advanced, most people agree that if World War III ever happens, nuclear, biological, and chemical weapons may be used. Biological weapons are living things, usually bacteria or viruses. Chemical weapons might not kill quickly but poison people or their land. Together, nuclear, biological and chemical weapons are called weapons of mass destruction. Conventional weapons, on the other hand are "normal" weapons like guns or non-nuclear bombs.

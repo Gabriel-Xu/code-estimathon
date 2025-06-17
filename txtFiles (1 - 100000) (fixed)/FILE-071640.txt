@@ -1,0 +1,53 @@
+The HP-22S is a non-RPN calculator unlike most HP calculators.
+
+The HP-22 was a finance-oriented pocket calculator produced by Hewlett-Packard between 1975 and 1978.
+
+The HP-25 had memory space for up to 49 program steps.
+
+The HP-25 used a 10-digit red LED display and was the first calculator to introduce the "engineering" display option, a denormalized mantissa/exponent format where the exponent is always a multiple of 3 to match the common SI prefixes, e.
+
+g. mega, kilo, milli, micro, nano.
+
+The HP-25 was about 25% smaller than the HP-65.
+
+The HP-25 was regarded as a competitor to the TI-58 and TI-58C calculators offered by Texas Instruments.
+
+The HP 2640A and other HP 264X models were block-mode "smart" and intelligent ASCII standard serial terminals produced by Hewlett-Packard using the Intel 8008 and 8080 microprocessors.
+
+The HP-27 also had a 10-digit red LED display and 10 registers to store numbers.
+
+The HP-27S was a pocket calculator produced by Hewlett-Packard, introduced in 1988, and discontinued between 1990 and 1993 (sources vary).
+
+The HP-27 was a hand-held scientific and financial, but not programmable, calculator made by Hewlett-Packard between 1976 and 1978.
+
+The HP3000 minicomputer is still in use today.
+
+The HP 3000 series is a family of minicomputers released by Hewlett-Packard in 1972.
+
+The HP 300 "Amigo" was a computer produced by Hewlett-Packard (HP) in the late 1970s based loosely on the stack-based HP 3000, but with virtual memory for both code and data.
+
+The HP300 was initially designed as a single-user workstation by a totally separate program within the General Systems Division (GSD), the Cupertino, California home of the HP 3000 business computers (the division was later renamed Computer Systems Division CSY).
+
+The HP-41C series are programmable, expandable, continuous memory handheld RPN calculators made by Hewlett-Packard from 1979 to 1990.
+
+The H.
+
+P.
+
+42/45 were the land-based backbones of Imperial Airways and along with the airline's later flying boats are well remembered.
+
+The HP 49 series initially used the Saturn CPU as well, until the NEC fab could no longer manufacture the processor for technical reasons in 2003.
+
+The HP 50g, the last calculator utilizing this emulator, was discontinued in 2015 when Samsung stopped producing the ARM processor it was based on.
+
+The HP-55 also featured several other conversion functions to instantly convert data between the Imperial and Metric systems.
+
+The HP56 was ordered as a backup to the Avro 679, both aircraft being designed to use the underperforming Rolls-Royce Vulture engine; the Handley Page design was altered at the Ministry to a four-engine arrangement, which was powered by the Rolls-Royce Merlin engine, while the rival Avro 679 was produced as the twin-engine Avro Manchester which, while regarded as unsuccessful mainly due to the Vulture engine, was a direct predecessor of the famed Avro Lancaster.
+
+The HP 64000 Logic Development System, introduced 17 September 1979, is a tool for developing hardware and software for products based on commercial microprocessors from a variety of manufacturers.
+
+The HP-71B was a hand-held computer or calculator programmable in BASIC, made by Hewlett-Packard from 1984 to 1989.
+
+The HP 7470 had two pens, one on either side and plotted on ANSI A (8.
+
+5 x 11 inch) or A4-sized paper.

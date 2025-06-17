@@ -1,0 +1,7 @@
+Alaoglu and Erdős discovered that all superabundant numbers are also highly abundant. There are, however, an infinite number of highly abundant numbers that are not superabundant numbers. This was proven by Jean-Louis Nicolas in 1969.
+
+7200 is the largest powerful number that is also highly abundant. This is because every highly abundant number that is larger has a prime factor that divides them only once.
+
+Yasser SeirawanYasser Seirawan (; born March 24, 1960) is an American chess grandmaster. He has been the United States champion four times. Seirawan won the World Junior Chess Championship in 1979. He has also written books about chess.
+
+1997 Algarve Cup

@@ -1,0 +1,85 @@
+Roots are the sixth arithmetic operation and one of the inverse operations of exponentiation and logarithms. The first term is named the "index", and the second term is named the "radicand". The result of a root is named a "base". When there is no index, this means it is a square (index 2) root.
+
+The symbol for roots is the radical (formula_65).
+
+Examples:formula_66formula_67formula_68formula_69formula_70The first root of any number is the same number (formula_71).
+
+Logarithms are the seventh arithmetic operation and one of the inverse operations of exponentiation and roots. The first term is named the "base", and the second term is named the "power". The result of a logarithm is named an "exponent". When there is no base, this means it is a decimal (base 10) logarithm.
+
+The symbol for logarithm is formula_72Examples:formula_73formula_74formula_75formula_76formula_77The logarithm of 1 (formula_78) is 0 in every base. This is because formula_79The logarithm base formula_80, or natural logarithm, is written as formula_81.
+
+Modulation is the eighth arithmetic operation. It gives the remainder of a division. The first term is named the "modulend" and the second term is named the "modulator". The result of a modulation is named a "modulus".
+
+The symbol for modulation is \Examples:formula_82formula_83formula_84formula_85formula_86formula_87 is always equal to zero, because zero can be divided by any number (formula_88).
+
+Factorial is a function which gives the number of ways to arrange formula_10 objects. The term is named the "index". The result of a factorial is also named a factorial.
+
+The symbol for factorial is !
+
+The first factorials are:formula_90formula_91formula_92formula_93formula_94formula_95formula_96 is equal to one because there is exactly one way of arranging 0 objects. Factorials are undefined for negative integers. Factorials of fractional numbers can be calculated using the Gamma function.
+
+Absolute value is a function which gives the distance from zero (or magnitude) of a number.
+
+The symbol for absolute value is formula_97Examples:formula_98formula_99formula_100formula_101formula_102The absolute value of formula_103 is the same as the absolute value of formula_104 (formula_105). This is because subtraction is anticommutative.
+
+The 39 CluesThe 39 Clues is a set of five series of ten adventure novels written by different authors including Rick Riordan, Gordon Korman, Peter Lerangis, Jude Watson, Patrick Carman, Linda Sue Park, Margaret Peterson Haddix, Roland Smith, David Baldacci, Jeff Hirsch, Natalie Standiford, C. Alexander London, Sarwat Chadda and Jenny Goebel. In the series, the two main characters are Dan and Amy Cahill.
+
+They are published by Scholastic Press in the United States. Steven Spielberg bought the movie rights to the series in June 2008. Universal Pictures bought the rights in 2013 but in 2023 no movie has appeared.
+
+The fictitious Cahill family has supposedly changed the world more than any other family. Most famous people are apparently Cahills. They are split into five branches, the Lucians, Ekatrinas, Tomas, Janus, and Madrigal.
+
+The Lucians are good leaders and spies, and are also good with poisons.
+
+The Ekaterinas are very inventive and good scientists.
+
+The Tomas are very tough and strong.
+
+The Janus are very creative and good artists, musicians, and authors.
+
+The Madrigals are trying to keep their other family members from being too violent/getting all 39 clues.
+
+Dan Cahill is an 11-year-old boy who likes ninjas, video games, eating, gross stuff, and collecting things. Dan has asthma, but a photographic memory.
+
+Amy Cahill is a 14-year-old girl who likes reading and museums. She is scared of public speaking. Dan and Amy live in Boston, MassachusettsGrace Cahill is Dan and Amy's recently deceased (dead) grandmother. She took them to museums, and secretly got them ready for the hunt. Amy, Dan, and Grace are Madrigals.
+
+Nellie Gomez is their au pair. She is about 22 years old, and can speak a lot of languages and fly an airplane. She has dyed (colored) hair.
+
+Isabel Kabra is a Lucian and Dan and Amy's main enemy. She is very mean and has tried to kill both of them at different times. Her children, Ian and Natalie Kabra help her.
+
+Irina Spasky is a Lucian woman in her 40s or 50s. She appeared to be Dan and Amy's enemy, but turns out to be their ally.
+
+Alistair Oh is a 64-year-old Korean man. His branch is Ekaterina. He has formed an alliance with Amy and Dan, but ends up betraying (breaking a promise) them. He is Bae Oh's nephew.
+
+Jonah Wizard is a 15-year-old Janus boy and world-famous pop star. His mother, Cora Wizard, really pushes him to do well, and his father, Broderick Wizard, types on his BlackBerry a lot.
+
+The Starling triplets, Ned, Ted, and Sinead are Ekaterinas who were severely injured in a bomb blast in Book 1, but get back in the hunt in Book 10.
+
+The Holts are a Tomas family of five. They are all very strong. Amy and Dan made a temporary alliance with 15 year old Hamilton Holt.
+
+In Book 1, the Cahills learn that their family is the most powerful family in the world. They split into groups and start on the clue hunt. They go to places where Benjamin Franklin went, including Boston, Philadelphia, and Paris.
+
+In Book 2, Amy and Dan go to a monastery in the Alps, [where they are chased by monks], and Venice.
+
+In Book 3, they go to Japan and South Korea, where they team up with Alistair, but he later abandons them.
+
+In Book 4, they go to a tomb in an Egyptian pyramid where they meet Irina.
+
+In Book 5, Amy and Dan team up with the Holts to go to different cities throughout Russia. They have to go to five cities in 36 hours to get into the Amber Room, which holds the fifth clue.
+
+In Book 6, they go to a mine in Australia and almost get killed by Isabel. Irina turns out to be their ally, but then she dies in a fire in Indonesia caused by Isabel.
+
+In Book 7, Amy and Dan go to Pretoria, in South Africa. While they are there, they barely escape out of a Tomas stronghold and discover that they are Madrigals.
+
+In Book 8, Amy and Dan go to China, where they get separated. Dan stays with Jonah and his family for a while, but eventually he takes a train to Lhasa, near Mount Everest. In a village near Lhasa, Dan meets Amy as they both try to take a helicopter to go to Mount Everest.
+
+In Book 9, they go to the Caribbean, where they learn more about their family branch, and that they need to unite the family.
+
+In Book 10, they go to England and Amy and Dan successfully unite the family. They do this by having to go through a cave with explosions.
+
+First-person narrativeA first-person narrative is a narrative mode in which a story or work that is narrated (told) by one character at a time, speaking from their point of view only. First-person narrative may be told by only one storyteller, or many.
+
+This type of narrative can use such words like me, myself and I.
+
+Jacksonwald, PennsylvaniaJacksonwald is a community in Exeter Township, Pennsylvania, United States. It is less than a mile from the borough of St. Lawrence, Pennsylvania.
+
+Monica (singer)

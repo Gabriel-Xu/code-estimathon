@@ -1,0 +1,47 @@
+The wording of the Eighth Amendment is almost the same as three of the provisions in the English Bill of Rights of 1689. These provisions were based on the case of Titus Oates, whose lies under oath caused the execution of many innocent people. Because the English authorities did not want to make honest people fear to give evidence in court, he was not put to death. While his punishment included those considered ordinary at the time, the combination of these punishments were applied in an excessive and brutal way. Oates was convicted of sedition, thrown into prison to remain there. However, after James II of England became king in 1685, he was tried again, this time for perjury. In addition to being imprisoned for life, he was to be "whipped through the streets of London five days a year for the remainder of his life." The first use of the provision of the English Bill of Rights was the Virginia Declaration of Rights of 1776.
+
+Bail is the amount of money, property or bond that a defendant has to give to the court to guarantee his or her appearance at trial. The bail put up by the defendant may be recovered at the end of the trial. But if a defendant fails to appear at the time the trial is scheduled, the bail is forfeited and the defendant may face additional penalties. A judge, when setting the amount of bail, has to consider several factors. These include the nature of the offense, how much evidence there is against the accused and what ties the defendant has to the community. The judge must also take into account the defendant's ability to pay the amount of the bail and how likely it is the defendant will simply flee and not stand trial. All defendants are presumed innocent. Setting bail for an unreasonable amount would restrict the freedom and ability of the defendant to make a living as well as make it difficult to support his or her family.
+
+This clause limits the government's power to set fines, which are payments for a punishment or offense. The amount of the fine must be proportional to the seriousness of the offense. A fine violates this clause if it is grossly disproportional to the nature of the defendant's offense.
+
+In 1993, in "Austin v. United States", the United States Supreme Court ruled that this clause applied also to civil procedures. In doing this the Court reversed not only its own previous rulings but also those by several circuit courts of appeal.
+
+The phrase "cruel and unusual punishments" was first used in 1789 in the English Bill of Rights. In 1776, George Mason added it to the Virginia Declaration of Rights. In 1791, this same prohibition became the central part of the Eighth Amendment. Patrick Henry was among those who argued that prohibiting cruel and unusual punishment should be part of the Bill of Rights. Otherwise the new federal government could use torture to get confessions. Torture was still being used at the time by Spain, France and Germany. The United States should not follow their example. Because of these arguments this was added to the Eighth Amendment. Very few would disagree that the use of rack, thumbscrews or the gibbet are cruel and unusual punishments and clearly violate the Eighth Amendment. But past that point it becomes controversial as to what is and what is not cruel and unusual punishment.
+
+Cruel and unusual punishment was not clearly defined when the Eighth Amendment was passed. But it was discussed. Representative Livermore pointed out on the floor of the House of Representatives that the wording was vague. He asked: "It is sometimes necessary to hang a man, villains often deserve a whipping, and perhaps having their ears cut off, but are we in the future to be prevented from inflicting those punishments because they are 'cruel'?" But despite his objections the vague language was left in the amendment.
+
+In 1910, in "Weems v. United States", the Supreme Court admitted that “what constitutes a cruel and unusual punishment has not been exactly decided.” The Supreme Court began using the "evolving standards of decency" test. In "Trop v Dulles" (1958) the Court agreed with the view that what are prohibited "cruel and unusual punishments" should change over time based on punishments that offend society's "evolving sense of decency." Very recently the courts have been reluctant to keep the term "unusual" in their judicial interpretations.
+
+Originalists find that evaluating whether a punishment is cruel and unusual still come under the evolving standards test and public opinion. In "Coker v. Georgia" (1977) the Supreme Court held that the death penalty is unconstitutional for those convicted of rape. This was based largely on the fact only one of the 50 states used this sentence. Even then, juries in that state did not use it very often.
+
+Waterboarding has been seen as torture since the Spanish Inquisition. US Soldiers who were caught waterboarding in the Philippines in 1901, or during the Vietnam War, in 1968, were put on trial. When done by other governments the US has not failed to call it torture. The Bush administration maintained it was not bound by the constitutional test outside of the United States. Justice Antonin Scalia had said in an interview with the BBC that he did not see anything in the constitution that prohibited torture of detainees. Not when it was for the purpose of gaining information. He said it would be unconstitutional if it were inflicted as a punishment, however. At his inauguration in 2009, US President Barack Obama pledged to end “enhanced interrogation techniques” by the CIA and to close Guantánamo through executive orders.
+
+Wernicke's areaWernicke's area is an area of the brain. It is one of the two parts of the cerebral cortex linked to speech (the other is Broca's area). It is involved in the production of written and spoken language.
+
+It is in Brodmann area 22, in the dominant cerebral hemisphere. The dominant hemisphere is the left in about 95% of right handed individuals, and 60% of left handed individuals.
+
+As with Broca's area, Wernicke's area was discovered by autopsies of patients who had speech difficulties. Carl Wernicke, a German neurologist, had a patient who could speak quite well, but was unable to understand the speech of others. After the patient's death, Wernicke found damage to an area at the upper portion of the temporal lobe, just behind the auditory cortex. He thought, correctly, that this area was responsible for speech comprehension. This kind of aphasia is known as Wernicke's aphasia, or receptive aphasia.
+
+Despite the fact that Broca's and Wernicke's areas are in different lobes, they are quite near each other. They are connected by a tract of nerves called the "arcuate fascilicus", and by another recently discovered tract.
+
+MonoidIn abstract algebra, a monoid is a set of elementsalong with an operation that has two key properties:The operation need not have the commutative property.
+
+In computing science common monoids include addition, multiplication, or, and. These properties are useful for various problems e.
+
+g. they allow a large set of data to be divided, processed in parallel and combined. As each part produces a monoid, the final combined result will be the same. This also works with more complex monoids, such as a map from words to the number of times they appear in a document.
+
+Character strings also form a monoid over concatenation with the empty string "" as the identity element. Examples of the two properties are "abc" + ("def" + "ghi") = ("abc" + "def") + "ghi" and "abc" + "" = ""+ "abc" = "abc". This is true even though "abc" + "def" ≠ "def" + "abc".
+
+Peter LustigPeter Fritz Willi Lustig (October 27, 1937 – February 23, 2016) was a German television presenter and author of children's books. He was known as leading actor in the weekly children's television show "Löwenzahn". He hosted the show from 1979 up until 2006; during its first year the show was still called "Pusteblume"). He also appeared on the shows "Mittendrin" (1987–1995) and "Gordos Reise ans Ende der Welt" (2007).
+
+Lustig died on February 23, 2016 at his home in Bohmstedt, Germany. He died from stomach cancer. He was aged 78. He was surrounded by his family. He is survived by four children and nine grandchildren.
+
+Ryszard BenderRyszard Janusz Bender (February 16, 1932 – February 24, 2016) was a Polish politician and historian. He was a specialist on the history of the January Uprising. He was professor of History at John Paul II Catholic University of Lublin.
+
+From 1976 to 1980 and 1985 to 1989, he was a deputy of the Sejm. In 2007, he was elected as a member in the Senate of Poland from the Law and Justice party. He retired from the senate in 2011.
+
+Bender was accused of antisemitism and Holocaust denial after he said that Auschwitz was "not a death camp" but a "labour camp". He later said his remarks were taken out of context. He has also spoken out in defense of Dariusz Ratajczak.
+
+Bender died of a stroke on February 24, 2016 in Lublin, Poland. He was aged 84.
+
+Carlo Biotti

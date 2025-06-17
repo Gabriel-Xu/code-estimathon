@@ -1,0 +1,187 @@
+In computer science, bounds-checking elimination is a compiler optimization useful in programming languages or runtimes that enforce bounds checking, the practice of checking every index into an array to verify that the index is within the defined valid range of indexes.
+
+In computer science, bridging describes systems that map the runtime behavior of different programming languages so they can share common resources.
+
+In computer science, cache coloring (also known as page coloring) is the process of attempting to allocate free pages that are contiguous from the CPU cache's point of view, in order to maximize the total number of pages cached by the processor.
+
+In computer science, canonicalization (sometimes standardization or normalization) is a process for converting data that has more than one possible representation into a "standard", "normal", or canonical form.
+
+In computer science, capability-based addressing is a scheme used by some computers to control access to memory.
+
+In computer science CDR coding is a compressed data representation for Lisp linked lists.
+
+In computer science, circuit diagrams are useful when visualizing expressions using Boolean algebra.
+
+In computer science, cloning refers to the making of an exact copy of an object, frequently under the paradigm of instance-based programming, or object-oriented programming (OOP).
+
+In computer science, coalescing is the act of merging two adjacent free blocks of memory.
+
+In computer science, coinduction is a technique for defining and proving properties of systems of concurrent interacting objects.
+
+In computer science, compare-and-swap (CAS) is an atomic instruction used in multithreading to achieve synchronization.
+
+In computer science, compressed pattern matching (abbreviated as CPM) is the process of searching for patterns in compressed data with little or no decompression.
+
+In computer science, computational learning theory (or just learning theory) is a subfield of Artificial Intelligence devoted to studying the design and analysis of machine learning algorithms.
+
+In computer science, computation offloading refers to the transfer of resource intensive computational tasks to an external platform, such as a cluster, grid, or a cloud.
+
+In computer science, conditional statements, conditional expressions and conditional constructs are features of a programming language, which perform different computations or actions depending on whether a programmer-specified boolean condition evaluates to true or false.
+
+In computer science, confluence is a property of rewriting systems, describing which terms in such a system can be rewritten in more than one way, to yield the same result.
+
+In computer science, Consistency models are used in distributed systems like distributed shared memory systems or distributed data stores (such as a filesystems, databases, optimistic replication systems or Web caching).
+
+In computer science, constrained clustering is a class of semi-supervised learning algorithms.
+
+In computer science, Constraint automata are a formalism to describe the behavior and possible data flow in coordination models.
+
+In computer science, control flow (or flow of control) is the order in which individual statements, instructions or function calls of an imperative program are executed or evaluated.
+
+In computer science, data that has several parts, known as a record, can be divided into fields.
+
+In computer science, data validation is the process of ensuring data have undergone data cleansing to ensure they have data quality, that is, that they are both correct and useful.
+
+In computer science, Decentralized Object Location and Routing (DOLR) is a scalable, location-independent routing technology.
+
+In computer science, definite assignment analysis is a data-flow analysis used by compilers to conservatively ensure that a variable or location is always assigned to before it is used.
+
+In computer science, distributed memory refers to a multiprocessor computer system in which each processor has its own private memory.
+
+In computer science, distributed shared memory (DSM) is a form of memory architecture where physically separated memories can be addressed as one logically shared address space.
+
+In computer science, dynamic dispatch is the process of selecting which implementation of a polymorphic operation (method or function) to call at run time.
+
+In computer science, dynamic recompilation (sometimes abbreviated to dynarec or the pseudo-acronym DRC) is a feature of some emulators and virtual machines, where the system may recompile some part of a program during execution.
+
+In computer science, empirical algorithmics (or experimental algorithmics) is the practice of using empirical methods to study the behavior of algorithms.
+
+In computer science, event monitoring is the process of collecting, analyzing, and signaling event occurrences to subscribers such as operating system processes, active database rules as well as human operators.
+
+In computer science, evolutionary computation is a family of algorithms for global optimization inspired by biological evolution, and the subfield of artificial intelligence and soft computing studying these algorithms.
+
+In computer science, execute in place (XIP) is a method of executing programs directly from long term storage rather than copying it into RAM.
+
+In computer science, extended affix grammars (EAGs) are a formal grammar formalism for describing the context free and context sensitive syntax of language, both natural language and programming languages.
+
+In computer science, false sharing is a performance-degrading usage pattern that can arise in systems with distributed, coherent caches at the size of the smallest resource block managed by the caching mechanism.
+
+In computer science, Fhourstones is an integer benchmark that efficiently solves positions in the game of Connect-4.
+
+In computer science, formal specifications are mathematically based techniques whose purpose are to help with the implementation of systems and software.
+
+In computer science, function-level programming refers to one of the two contrasting programming paradigms identified by John Backus in his work on programs as mathematical objects, the other being value-level programming.
+
+In computer science, garbage collection (GC) is a form of automatic memory management.
+
+In computer science, garbage includes objects, data, or other regions of the memory of a computer system (or other system resources), which will not be used in any future computation by the system, or by a program running on it.
+
+In computer science, genetic memory refers to an artificial neural network combination of genetic algorithm and the mathematical model of sparse distributed memory.
+
+In computer science, global file system has historically referred to a distributed virtual name space built on a set of local file systems to provide transparent access to multiple, potentially distributed, systems.
+
+In computer science, graph traversal (also known as graph search) refers to the process of visiting (checking and/or updating) each vertex in a graph.
+
+In computer science, hardness of approximation is a field that studies the algorithmic complexity of finding near-optimal solutions to optimization problems.
+
+In computer science, hash trie can refer to: Hash tree (persistent data structure), a trie used to map hash values to keys A space-efficient implementation of a sparse trie, in which the descendants of each node may be interleaved in memory.
+
+In computer science, having value semantics (also value-type semantics or copy-by-value semantics) means for an object that only its value counts, not its identity.
+
+In computer science, he is recognized as one of the pioneers of relational database theory.
+
+In computer science, hierarchical protection domains, often called protection rings, are mechanisms to protect data and functionality from faults (by improving fault tolerance) and malicious behavior (by providing computer security).
+
+In computer science, hub labels or the hub-labeling algorithm is a method that consumes much fewer resources than the lookup table but is still extremely fast for finding the shortest paths between nodes in a graph, which may represent, for example, road networks.
+
+In computer science, Identity Intelligence is the application, within the Identity Management field, of analytical techniques typical of business intelligence and other related tools for analysis and control.
+
+In computer science, imperative programming is a programming paradigm that uses statements that change a program's state.
+
+In computer science, implicit parallelism is a characteristic of a programming language that allows a compiler or interpreter to automatically exploit the parallelism inherent to the computations expressed by some of the language's constructs.
+
+In computer science, incremental learning is a method of machine learning, in which input data is continuously used to extend the existing model's knowledge i.
+
+e. to further train the model.
+
+In computer science, information hiding is the principle of segregation of the design decisions in a computer program that are most likely to change, thus protecting other parts of the program from extensive modification if the design decision is changed.
+
+In computer science, in particular networking, a session is a temporary and interactive information interchange between two or more communicating devices, or between a computer and user (see login session).
+
+In computer science, input enhancement is the principle that processing a given input to a problem and altering it in a specific way will increase runtime efficiency or space efficiency, or both.
+
+In computer science, instruction scheduling is a compiler optimization used to improve instruction-level parallelism, which improves performance on machines with instruction pipelines.
+
+In computer science, interactive computation is a mathematical model for computation that involves input/output communication with the external world during computation.
+
+In computer science, interactive computing refers to software which accepts input from humans as it runs.
+
+In computer science, in the context of data storage, serialization is the process of translating data structures or object state into a format that can be stored (for example, in a file or memory buffer) or transmitted (for example, across a network connection link) and reconstructed later (possibly in a different computer environment).
+
+In Computer Science, in the field of databases, non-lock concurrency control is a concurrency control method used in relational databases without using locking.
+
+In computer science, I/O bound refers to a condition in which the time it takes to complete a computation is determined principally by the period spent waiting for input/output operations to be completed.
+
+In computer science, it has found application in artificial intelligence.
+
+In computer science, it is common for multiple threads to simultaneously access the same resources.
+
+In computer science it refers to a situation where a function maps two distinct inputs to the same output.
+
+In computer science, Java Grammatical Evolution is an implementation of grammatical evolution in the Java programming language.
+
+In computer science, Jump Point Search (JPS) is an optimization to the A* search algorithm for uniform-cost grids.
+
+In computer science, k-way merge algorithms or multiway merges are a specific type of sequence merge algorithms that specialize in taking in multiple sorted lists and merging them into a single sorted list.
+
+In computer science, lambda calculi are said to have explicit substitutions if they pay special attention to the formalization of the process of substitution.
+
+In computer science, lazy deletion refers to a method of deleting elements from a hash table that uses open addressing.
+
+In computer science, lexical analysis, lexing or tokenization is the process of converting a sequence of characters (such as in a computer program or web page) into a sequence of tokens (strings with an assigned and thus identified meaning).
+
+In computer science, Linda is a model of coordination and communication among several parallel processes operating upon objects stored in and retrieved from shared, virtual, associative memory.
+
+In computer science, link time refers to the period of time, during the creation of a computer program, in which a linker is being applied to that program.
+
+In computer science, load-link and store-conditional (LL/SC) are a pair of instructions used in multithreading to achieve synchronization.
+
+In computer science, local search is a heuristic method for solving computationally hard optimization problems.
+
+In computer science, loop fission (or loop distribution) is a compiler optimization in which a loop is broken into multiple loops over the same index range with each taking only a part of the original loop's body.
+
+In computer science, loop inversion is a compiler optimization and loop transformation in which a while loop is replaced by an if block containing a do..
+
+while loop.
+
+In computer science, LR parsers are a type of bottom-up parser that efficiently read deterministic context-free languages, in guaranteed linear time.
+
+In computer science, manifest typing is explicit identification by the software programmer of the type of each variable being declared.
+
+In computer science, marshaling or marshaling is the process of transforming the memory representation of an object to a data format suitable for storage or transmission, and it is typically used when data must be moved between different parts of a computer program or from one program to another.
+
+In computer science, message passing is a technique for invoking behavior (i.
+
+e., running a program) on a computer.
+
+In computer science, metalinguistic abstraction is the process of solving complex problems by creating a new language or vocabulary to better understand the problem space.
+
+In computer science, more precisely, in the theory of deterministic finite automata (DFA), a synchronizing word or reset sequence is a word in the input alphabet of the DFA which sends any state of the DFA to one and the same state.
+
+In computer science multi-agent planning involves coordinating the resources and activities of multiple "agents".
+
+In computer science, multiple buffering is the use of more than one buffer to hold a block of data, so that a "reader" will see a complete (though perhaps old) version of the data, rather than a partially updated version of the data being created by a "writer".
+
+In computer science, multiple granularity locking (MGL) is a locking method used in database management systems (DBMS) and relational databases.
+
+In computer science, multiplicative binary search is a variation of binary search that uses a specific permutation of keys in an array instead of the sorted order used by regular binary search.
+
+In computer science nano-threads are highly optimized lightweight threads designed for use on shared memory multiprocessors (such as SMPs).
+
+In computer science, object composition (not to be confused with function composition) is a way to combine simple objects or data types into more complex ones.
+
+In computer science, overhead is any combination of excess or indirect computation time, memory, bandwidth, or other resources that are required to perform a specific task.
+
+In computer science, partial sorting is a relaxed variant of the sorting problem.
+
+In computer science, particularly in human-computer interaction, presentation semantics specify how a particular piece of a formal language is represented in a distinguished manner accessible to human senses, usually human vision.

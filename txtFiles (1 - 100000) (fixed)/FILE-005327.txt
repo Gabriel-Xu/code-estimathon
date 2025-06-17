@@ -1,0 +1,135 @@
+Carbapenems are a type of antibiotics that have been used to treat "Acinetobacter baumannii" infections. These antibiotics are effective in treating infection. However, "A. baumannii" can develop tolerance to this antibiotic. This tolerance makes it harder to treat infections. Carbapenems-resistant "A. baumannii" can spread their tolerance to other types of bacteria. This is dangerous in healthcare settings because if many bacteria are tolerant to carbapenems, the antibiotic cannot be used to treat infections anymore. "A. baumannii" can be tolerant to multiple antibiotics making infections difficult to treat.
+
+Polymyxins are another antibiotic used to treat "A. baumannii" infection. These are effective against infection but polymyxins can be toxic to the kidneys.
+
+Combination therapies can also be used to treat "A. baumannii" which is tolerant to many different types of antibiotics. This means treating the infection with a combination of different drugs at the same time. Different combinations are still being tested against "A. baumannii" infections.
+
+Preventing and controlling outbreaks of "A. baumannii" is very important. Preventing infections will reduce the number of infections in hospitals and help stop the spread of antibiotic resistance."
+
+A. baumannii" can be controlled with strict infection control measures such as educating hospital staff about the dangers of spreading hospital infections, proper hand washing, cleaning of hospitals and actively testing surfaces for the presence of "A. baumannii""." These measures have been shown to reduce the spread of "A. baumannii" and reduce tolerance to antibiotics. However, all measures must be followed strictly to control infection.
+
+Strict weak orderingStrict weak ordering is a binary relation on a set. Such relations define a strict ordering, but they contain several elements of the same type. An example might be the relation "costs less than", or "is cheaper than". For any two elements that are "of different types", the relation holds. On the other hand, there are some elements that cannot be ordered that way, because they are of the same type. An example for such a relation may be the relation, "costs less than": milk may "cost less than" bread, and bread may cost less than cake. Two items of different types may cost less than another, but they can otherwise have the same price.
+
+Two different algorithms that sort words by the number of letters in the word may not give the same ordering of the words with the same number of letters, but they will always give an ordering where the four-letter words come before the five-letter-words, and after the three-letter-words.
+
+Time will give a strict weak ordering too; Events that are equivalent in the timeframe happen at the same time.
+
+Colour visionColor vision is the capacity of an organism to distinguish objects based on the wavelengths (or frequencies) of the light they reflect, emit, or transmit.
+
+Color is a quality made by the visual brain and so it is "not" a property of objects, despite what children are taught.
+
+The wavelength reflected from an object is the objective fact: it does not depend upon perception. A 'red' apple does not emit red light. Rather, it simply absorbs all the frequencies of visible light shining on it except for a group of frequencies that are reflected. It is these frequencies which are seen or "perceived" as red.
+
+The visible light spectrum ranges from about 380 to 740 nanometers. Colors of the spectrum such as red, orange, yellow, green, cyan, blue, and violet are in this range. These spectral colors do not refer to a single wavelength, but rather to a set of wavelengths: red, 625–740 nm; orange, 590–625 nm; yellow, 565–590 nm; green, 500–565 nm; cyan, 485–500 nm; blue, 450–485 nm; violet, 380–450 nm.
+
+The nervous system derives color by comparing the responses to light from the several types of cone photoreceptors in the eye. These cone photoreceptors are sensitive to different portions of the visible spectrum.
+
+For humans, the visible spectrum ranges approximately from 380 to 740 nm, and there are normally three types of cones. The visible range and number of cone types differ between species.
+
+With color, vision gets better (more information) about the things the eye sees. This lets the eye see when fruit or vegetables are ripe, and can see animals hiding from plain sight. The advantage of color vision is mainly in the daytime. At night the main problem is to collect enough light to see in the weak light. This is something rods do better than cones.
+
+Color vision is not an all-or-none state. Many groups of animals can distinguish color, but in different ways. In mammals, for instance, some groups have no color vision, and some are dichromats. The dichromats have two kinds of cones, and cannot see ultraviolet, red and orange light.
+
+It is thought that the mammals which survived though the Jurassic period were small nocturnal or burrowing animals with little need to see color. Later, after the extinction of the dinosaurs, many lines adapted to be more active in the daytime. Most developed a form of color vision, which is much more useful in the daytime. Primates developed full (trichromacy) color vision. For them, the ability to distinguish the color of fruit from leaves always was essential.
+
+Many insects have color vision in the ultraviolet range, which humans do not. That is why honey guides on flowers are so noticeable in ultraviolet light photographs.
+
+Compound eyeCompound eyes consist of many photoreceptor units or ommatidia. Each 'ommatidium' (singular) is an individual 'eye unit'.
+
+The image perceived is a combination of inputs from ommatidia on a convex surface. Thus they point in slightly different directions.
+
+Compared with simple eyes, compound eyes possess a wide-angle view. They can detect fast movement and, in some cases, the polarization of light.
+
+Eyes with resolving power have come in ten fundamentally different forms, and 96% of animal species possess a complex optical system. Image-resolving eyes are present in molluscs, chordates and arthropods.
+
+Almost all insects and arachnids use both simple and compound eyes.
+
+Compound eyes fall into two groups: apposition eyes, which form multiple inverted images, and superposition eyes, which form a single erect image. Compound eyes are common in arthropods, and are also present in annelids and some bivalved molluscs.
+
+Compound eyes, in arthropods at least, grow at their margins by the addition of new ommatidia.
+
+Good fliers like flies or honey bees, or prey-catching insects like praying mantis or dragonflies, have specialized zones of ommatidia organized into a foveal area which gives acute vision. In the acute zone the eyes are flattened and the facets larger. The flattening allows more ommatidia to receive light from a spot and therefore higher resolution.
+
+Another version is the pseudofaceted eye, as seen in Scutigera. This type of eye consists of a cluster of numerous ocelli on each side of the head, organized in a way that resembles a true compound eye.
+
+The body of "Ophiocoma wendtii", a type of brittle star, is covered with ommatidia, turning its whole skin into a compound eye. The same is true of many chitons.
+
+Miyazaki PrefectureAfter the Meiji Restoration, the area of Hyūga Province was renamed Miyazaki Prefecture.
+
+Miyazaki is famous for various foods such as meat and fruit.
+
+Miyazaki Prefecture is on the eastern coast of the island of Kyūshū. The southeast coastline faces the Pacific Ocean. Ōita Prefecture is north of Miyazaki. Kumamoto and Kagoshima Prefectures are to the west.
+
+National parks are established in about 12% of the total land area of the prefecture.
+
+Miyazaki is one of only two locations on Earth where the fungus "Chorioactis geaster" lives."
+
+Tsuno jinja" is the main Shinto shrine ("ichinomiya") in the prefecture.
+
+ThundersnowThundersnow, also known as a winter thunderstorm, a snow thunderstorm or a thundersnowstorm, is a thunderstorm with snow instead of rain. This rare kind of weather is less rare around the Midwestern United States, the Great Lakes and Rocky Mountains, the Sea of Japan, and Mount Everest. Thundersnow mostly happens in March.
+
+Thunder can be heard many miles away, but thundersnow thunder can only be heard a few miles away. The snow stops sounds of thunder more than rain does.
+
+Alachua County, FloridaAlachua County is a county in the U.
+
+S. state of Florida, and was formed on February 29, 1824. As of 2020, the population is 278,468. Alachua County's seat is Gainesville.
+
+OpsinOpsins are the universal photoreceptor molecules of all visual systems in the animal kingdom.
+
+They change from a resting state to a signalling state by absorbing light. This activates the G protein, resulting in a signalling cascade which produces physiological responses.
+
+This process of capturing a photon and transforming it into a physiological response is known as phototransduction.
+
+Five groups of opsins are involved in vision. Another opsin found in the mammalian retina, melanopsin, is involved in circadian rhythms and pupillary reflex, but not in image-forming.
+
+Each opsin allows vision in just a short stretch of wavelength. This is equivalent to seeing in only one color. Two opsins allow vision in two colors, and is usual in mammals. Four opsins allows vision in full color, and is usual in teleost fish, reptiles and birds. In mammals, only Old World monkeys, apes and humans have trichromacy, called full color vision.
+
+It is thought – see evolution of color vision – that mammals lost much of their color vision capability during the long period in the Mesozoic when they lived as mostly nocturnal animals.
+
+SinoceratopsSinoceratops was a very large ceratopsian dinosaur. Its name means 'horned face from China'. The dinosaur used to live in what is now China during the Upper Cretaceous. The head of a full-grown "Sinoceratops" was probably about long.
+
+It was the first ceratopsid dinosaur found in China. All other centrosaurines are from fossils found in North America. Sinoceratops is one of the largest known centrosaurines. It is much larger than any other known basal member of the group."
+
+Sinoceratops" was a ceratopsian ornithischian, with an estimated length of about , weight of , and height of about ."
+
+Sinoceratops" is a member of the short-frilled ceratopsids, the Centrosaurinae. The holotype specimen is of a partial skull with most of the skull roof and partial braincase. The skull of "Sinoceratops" was about long. It is one of the largest known centrosaur skulls.
+
+Crash BandicootCrash Bandicoot may refer to:Crash Bandicoot 3: WarpedCrash Bandicoot: Warped (known in Europe as Crash Bandicoot 3: Warped) is the third video game for the "Crash Bandicoot" series. Time trials were a new feature introduced with this game.
+
+Crash Team RacingCrash Team Racing is a racing video game developed by Naughty Dog and published by Sony Computer Entertainment for the PlayStation. The game was released in North America on September 30, 1999. It was released in Europe and Australia later the same year. It was released again for the Greatest Hits chain in 2000."
+
+Crash Team Racing" is the fourth game in the "Crash Bandicoot" series. It is the first "Crash Bandicoot" racing game and the last to be developed by Naughty Dog. The characters of the "Crash Bandicoot" series, must race against the evil Nitros Oxide and save their planet from destruction. In the game, players can take control of one of fifteen "Crash Bandicoot" series characters. Although only eight are available at first. During the races, speed power-ups and other objects to use for safety, can be used to help the player win the game.
+
+The game received very good reviews from video game critics. They liked its gameplay and graphics. However, the audio had a mixed review. In 2003, "Crash Nitro Kart", was released for the PlayStation 2, Nintendo GameCube, Xbox, Game Boy Advance and N-Gage game consoles. It is not a sequel to "Crash Team Racing". With 2.
+
+2 million copies sold, "Crash Team Racing" remains one of the most popular PlayStation and best-selling video games as of 2012."
+
+Crash Team Racing" is a racing game in which the player controls characters from the "Crash Bandicoot" universe. The characters compete in karts. While racing, the player can accelerate, steer, reverse, brake, hop or use weapons and power-ups with the game controller's analog stick and buttons. There are two different crates that are scattered throughout the tracks and arenas of "Crash Team Racing". Crates with question marks (?) on them have power-ups and weapons. Players must drive through and break the crate. When a player collects a weapon or power-up, it will appear in a box at the top of the screen. Once the player has this, they can destroy other racers with the weapon. The power-ups can help the player's performance. "Fruit Crates" carry "Wumpa Fruit" that increase the speed of the player's kart. This strengthens the player's weapons and power-ups if ten of them are collected.
+
+The power slide can be done by holding down one of the shoulder buttons to perform a hop, and steering before the kart lands. While sliding, the "Turbo Boost Meter" on the lower-right corner of the screen fills up and goes from green to red. To get a speed boost, the player quickly presses the opposite shoulder button while the Turbo Boost Meter is red. The player can get three speed boosts in a row during a power slide. The third speed boost is more powerful. If the player waits too long into the power slide for a boost, the kart will spin around.
+
+Fifteen characters are playable in "Crash Team Racing". However, only eight of them are playable from the start. Crash Bandicoot, the protagonist of the series, is a playable character. Doctor Neo Cortex, Crash's enemy, is a mad scientist. He wants to stop Nitros Oxide so that he may take over the world himself. Coco Bandicoot, Crash's younger sister, is a computer genius. Doctor N. Gin is a rocket scientist. He is Cortex follower and serves his master. Pura and Polar's karts have low speed but better handling. This allows them to get around tight corners. Tiny Tiger and Dingodile's karts are built for top speed.
+
+The main antagonist of the story, Nitros Oxide, believes he is the fastest racer in the galaxy. He warns everyone about his plan to turn planet Earth into a concrete parking lot. There are four bosses: Ripper Roo, Papu Papu, Komodo Joe and Pinstripe Potoroo. The four bosses, along with a mistake clone of Crash Bandicoot named Fake Crash, become playable characters if the Adventure Mode is fully completed.
+
+The player's tutors in the game are the twin witch doctor masks Aku Aku and Uka Uka. They give hints that help the player develop their racing skills. They become power-ups during the races. They temporarily protect the player from all attacks. However, their power does not protect the player from chasms or deep water.
+
+The inhabitants of Earth are visited by an extraterrestrial named Nitros Oxide. He claims to be the fastest racer in the galaxy. He challenges Earth to a game called "Survival of the Fastest". If Earth's driver wins, he promises to leave Earth alone. However, if Oxide wins, he will turn Earth into a concrete parking lot and enslave the Earthlings. In response, the player character gathers all four Boss Keys needed to enter Oxide's spaceship and races him in a one-on-one match. Upon Oxide's defeat by the player character, he leaves Earth. He promises that he will return when all of the Time Relics have been gathered. Oxide faces the player again after all the Time Relics are gathered. After losing once more, Oxide keeps his word and leaves Earth forever. The end credits explains what the characters of the game did after the events of the story. Nitros Oxide himself returns to his home planet of Gasmoxia and hides from society. After years of therapy to cope with his loss, he tries to do unicycle-racing. However, he gets into a bad accident.
+
+Naughty Dog began production on "Crash Team Racing" after the completion of "" (1997). The game engine for "Crash Team Racing" was created at the same time "" (1998) was produced. The characters of the game were designed by Charles Zembillas and Joe Pearson. They had designed the characters of the last three games of the "Crash Bandicoot" series. Nitros Oxide was originally a mad scientist who enjoys speed. Oxide plotted to speed up the entire world until the end of time. However, Zembillias and Pearson wanted the character to be an extraterrestrial. Because they said there were already human, animal and machine bosses in the past.
+
+David Baggett produced the game's soundtrack, with Mark Mothersbaugh and Josh Mancell of Mutato Muzika composing the music. Sound effects were created by Mike Gollum, Ron Horwitz and Kevin Spears of Universal Sound Studios. The voices of Doctor Neo Cortex and Uka Uka were provided by Clancy Brown. The voices of Doctor N. Gin, Tiny Tiger and Pinstripe Potoroo were provided by voice actor Brendan O'Brien. Additional voices were provided by David A. Pizzuto, Mel Winkler, Michael Ensign, Hynden Walch, Billy Pope, Mike Gollom, Michael Connor and Chip Chinery."
+
+Crash Team Racing" was given favorable reviews from critics. "Official PlayStation Magazine" described "Crash Team Racing" as "the game that made kart racing cool". "Electronic Gaming Monthly" believed that the game was "inspired [a lot] by "Mario Kart", but still an amazing multiplayer racer." Doug Perry of IGN said that the game was "rock solid" in its gameplay and graphics, but Perry did not like Crash's smile because it made him look evil. Jeff Gerstmann of GameSpot called the game "a great Mario Kart clone", and that it succeeded where similar games like "Mega Man Battle & Chase", "Bomberman Fantasy Race", "Diddy Kong Racing", "Chocobo Racing" and "Mario Kart" had failed.
+
+Critics gave a mixed review of the game's audio. The D-Pad Destroyer of GamePro said that the "whimsical" (no sound; which makes it very annoying) background music is "quite enjoyable" and the character sound bites are "varied enough to avoid becoming annoying." Doug Perry of IGN said that the voice acting is "nothing really that cute, clever or memorable" in the game, and believed that Crash's voice in the game is very similar to that of Luigi from the "Mario Kart" series. Jeff Gertsmann of GameSpot wrote that while the music and sound effects "push the game's cartoon theme," the themes were not too "over the top". Joe Ottoson of Allgame believed that the characters "are all quite vocal", and the music "sets off the whimsical mood nicely".
+
+There have been over 2.
+
+2 million copies sold of "Crash Team Racing". There were 1.
+
+71 million copies sold in Europe, 2.
+
+64 million copies sold in the United States, and under 500,000 copies sold in Japan. As a result of its success, the game was re-released for the Sony Greatest Hits chain in 2000 and for the Platinum Range on January 12, 2001. "Crash Nitro Kart" was released in 2003 for the PlayStation 2, Xbox, Nintendo GameCube, Game Boy Advance and N-Gage. It is not a sequel to "Crash Team Racing" and was the first game in the "Crash Bandicoot" series to feature a full motion video.
+
+Crash Bash

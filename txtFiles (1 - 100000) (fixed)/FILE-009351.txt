@@ -1,0 +1,89 @@
+The product was released to manufacturing on August 1, 2012 and became generally available on September 4, 2012. However, not all editions of Windows Server 2012 were released at the same time. Windows Server 2012 Essentials was released to manufacturing on October 9, 2012 and was made generally available on November 1, 2012. As of September 23, 2012, all students subscribed to DreamSpark program can download Windows Server 2012 Standard or Datacenter free of charge.
+
+Windows Server 2016Windows Server 2016 is a server operating system developed by Microsoft as part of the Windows NT family of operating systems, developed concurrently with Windows 10. The first early preview version (Technical Preview) became available on October 1, 2014 together with the first technical preview of System Center. Windows Server 2016 was released on September 26, 2016 at Microsoft's Ignite conference and became generally available on October 12, 2016. It has two successors: Windows Server 2019, and the Windows Server Semi-Annual Channel, which excludes the graphical user interface and many older components.
+
+Microsoft has been reorganized by Satya Nadella, putting the Server and System Center teams together. Previously, the Server team was more closely aligned with the Windows client team. The Azure team is also working closely with the Server team.
+
+In March 2017, Microsoft demonstrated an internal version of Server 2016 running on the ARMv8-A architecture. It was reported that Microsoft was working with Qualcomm Centriq and Cavium ThunderX2 chips. According to James Vincent of "The Verge", this decision endangers Intel's dominance of the server CPU market. However, later inquiry from Microsoft revealed that this version of Windows Server is only for internal use and only impacts subscribers of Microsoft Azure service.
+
+A public beta version of Windows Server 2016 (then still called "vNext") branded as "Windows Server Technical Preview" was released on October 1, 2014; the technical preview builds are aimed toward enterprise users. The first Technical Preview was first set to expire on April 15, 2015 but Microsoft later released a tool to extend the expiry date, to last until the second tech preview of the OS in May 2015. The second beta version, "Technical Preview 2", was released on May 4, 2015. Third preview version, "Technical Preview 3" was released on August 19, 2015. "Technical Preview 4" was released on November 19, 2015. "Technical Preview 5" was released on April 27, 2016.
+
+Windows Server 2016 Insider Preview Build 16237 was released to Windows Insiders on July 13, 2017.
+
+Windows Server 2016 was officially released at Microsoft's Ignite Conference on September 26, 2016. Unlike its predecessor, Windows Server 2016 is licensed by the number of CPU cores rather than number of CPU sockets—a change that has similarly been adopted by BizTalk Server 2013 and SQL Server 2014. The new licensing structure that has been adopted by Windows Server 2016 has also moved away from the Windows Server 2012/2012R2 CPU socket licensing model in that now the amount of cores covered under one license is limited. Windows Server 2016 Standard and Datacenter core licensing now covers a minimum of 8 core licenses for each physical processor and a minimum of 16 core licenses for each server. Core licenses are sold in packs of two with Standard Edition providing the familiar rights to run 2 virtualized OS environments. If the server goes over 16 core licenses for a 2 processor server additional licenses will now be required with Windows Server 2016.
+
+Windows Server, version 1709 was released on October 17, 2017. The release has dropped the Windows Server 2016 name and is just called Windows Server by Microsoft. It is offered to the Microsoft Software Assurance customers who have an active Windows Server 2016 license and has the same system requirements. This is the first Windows Server product to fall under the "Semi-Annual Channel" (SAC) release cadence. This product only features the Server Core and the Nano Server modes. Of the two, only the Server Core mode of the OS can be installed on a bare system. The Nano Server mode is only available as an operating system container.
+
+Karl LehmannKarl Lehmann (16 May 1936 – 11 March 2018) was a German Cardinal prelate of the Catholic Church. He was born in Sigmaringen, Germany.
+
+Lehmann Bishop emeritus of Mainz, former Chairman of the Conference of the German Bishops and Professor emeritus of theology at the University of Mainz and the University of Freiburg.
+
+From 1971, he was the co-editor of the international journal "Communio". He was a member of the board of the Synod of the Dioceses of the Federal Republic of Germany 1971-1975, as well as a member of the International Theological Commission 1974-1984.
+
+From 1983 until his resignation in 2016, Lehmann was the Roman Catholic Diocese of Mainz.
+
+In September 2017, Lehmann suffered a stroke and cerebral herrmohage which left him in need of care, first at hospital and later at home. He died on 11 March 2018 of stroke-related complications in Mainz, Germany at the age of 81.
+
+Hinsdale, IllinoisHinsdale is a village in Cook and DuPage counties in the U.
+
+S. state of Illinois. Hinsdale is a western suburb of Chicago. The population was 17,395 at the 2020 census, most of whom lived in DuPage County.
+
+Dan LipinskiDaniel William Lipinski (born July 15, 1966) was the U.
+
+S. Representative for , from 2005 to 2021. He is a member of the Democratic Party.
+
+The district includes much of the southwest side of Chicago, along with several nearby suburbs. Lipinski is a member of the Blue Dog Coalition and is known as one of the more conservative Congressional Democrats.
+
+He is the son of former congressman Bill Lipinski.
+
+He was defeated in the Democratic primary in 2020 for re-election by progressive, pro-choice challenger Marie Newman.
+
+Bill LipinskiWilliam Oliver Lipinski (born December 22, 1937) is an American politician. He was a Democratic member of the United States House of Representatives from 1983 to 2005, representing a district in Chicago.
+
+His son is Dan Lipinski, the congressman who replaced him in 2005.
+
+Tom RailsbackThomas Fisher Railsback (January 22, 1932 – January 20, 2020) was an American Republican politician. He served eight terms in the United States Congress from 1967 to 1983 for in Moline. He was known for being one of the few Republicans to support the impeachment of Richard Nixon.
+
+Railsback died on January 20, 2020, in Mesa, Arizona from a long-illness at the age of 87.
+
+Gale SchislerDarwin Gale Schisler (March 2, 1933 – February 2, 2020) was an American former teacher and politician. He served as a member of the United States House of Representatives from Illinois's 19th congressional district and a member of the Illinois House of Representatives from the 46th district and later the 48th district.
+
+Schisler died on February 2, 2020, in Mesa, Arizona at the age of 86.
+
+Derek SaundersDerek Saunders (6 January 1928 – 3 March 2018) was an English footballer. He played for Chelsea during the 1950s.
+
+Saunders was a member of Chelsea's 1954-55 Championship-winning team. He was one of only two players to play in every game that season.
+
+Saunders died on 3 March 2018 at the age of 90.
+
+Alpine skiing at the 2018 Winter ParalympicsAlpine skiing at the 2018 Winter Paralympics had 5 types of races. These included downhill, Super-G, Super Combined, slalom and giant slalom.
+
+Skiers had training runs for the downhill race on 7 March. Their practice runs in the downhill on 8 and 9 March were cancelled.
+
+The first event on the para-alpine program is the downhill. It starts on 10 March, running from 9:30 AM to 1:30 PM. The second event on the program is Super-G. All skiers will race between 9:30 AM and 1:00 PM on 11 March. The super combined takes place on 13 March. The Super-G part of the event is in the morning. The slalom part is in the afternoon. The slalom event gets underway on 14 March and conclude on 15 March. Women and men both race during the same sessions in the morning. The afternoon sessions start with the women doing their second run. Then the men go.
+
+The last para-alpine skiing race of the 2018 Games is the giant slalom. It takes place on 17 - 18 March.  Men and women both race at the same time in the morning sessions.  Women race first in the afternoon sessions, with the men racing a half hour after they end.
+
+Henrieta Farkasova, guided by Nataly Subrtova, won the first gold medal at the Winter Paralympics. Farkasova won gold in women's downhill vision impaired race. B2 classified skier Millie Knight won silver. Belgian B2 classified skier Eleonor Sana won bronze. Marie Bochet from France won gold in the women's downhill standing.  Andrea Rothfuss from Germany won silver.  Mollie Jepsen from Canada won bronze. Mac Marcoux won gold in the men's visually impaired downhill race.  Jakub Krako of Slovakia won silver.  Giacomo Bertagnolli of Italy won bronze. Theo Gmur won a gold medal in the men's downhill standing race.  Arthur Bauchet of France won silver.  Markus Salcher of Austria won bronze.
+
+Krishna BalramKrishna Balram is an Indian Adventure and Action Animated television series. Created by Rajiv Chilaka. Premiered in 2008 to 2010 on Cartoon Network it's focus on Lord Krishna and his elder brother Balram's Life and Adventure along with his friends and Radha in Vrindavan, Gokul and Barshana village. Krishna is a avatar of Lord Vishnu. Krishna's elder brother balram was the son of rohini. Rohini lived in Mathura nagari when vasudeva was imprisoned.
+
+Krishna And Balram kids favorite series. Which resolved around 8 years old Krishna's 9 years old Balram's escaped in Vrindavan along with Radha and his friends, Krishna And Balram are always having fun, be it playing pranks on the unsuspecting gopis stealing, butter or destroying any demon sent to kill Krishna by his evil uncle Kansa.
+
+Ralf WaldmannRalf Waldmann (14 July 1966 – 10 March 2018) was a Grand Prix motorcycle road racer. He was born in Hagen, Germany.
+
+In 1996, Waldmann finished second to Max Biaggi in the 250cc world championship. In the 1997 season, he gave Biaggi a strong challenge, winning four races and finishing only two points behind the Italian.
+
+Waldmann died on 10 March 2018 in Ennepetal, Germany of a suspected heart attack at the age of 51.
+
+Garech BrowneThe Hon. Garech Domnagh Browne (25 June 1939 – 10 March 2018) was an Irish arts patron. He was a member of the titled family of Oranmore and Browne in the West of Ireland. He was a wealthy patron of Irish arts, mainly towards traditional Irish music. He was often known by the Irish designation of his name, "Garech de Brún". He was born in Chapelizod, Republic of Ireland.
+
+Browne stated that he would rather have not been born, and considers it "frightful to bring anyone into this world". Browne was a friend and patron of British artist Francis Bacon and in January 2017 was featured in the BBC documentary "Francis Bacon: A Brush with Violence."
+
+Browne died at his estate in the mountain of Luggala in Wicklow Mountains, Ireland on 10 March 2018 at the age of 78.
+
+Camillo RuiniCamillo Ruini (; born 19 February 1931) is an Italian cardinal of the Catholic Church. He served as Vicar General of the Diocese of Rome from 1991 to 2008. He was elevated to the cardinalate in 1991.
+
+In June 1986 the Pope John Paul II named him secretary-general of the Italian bishops' conference. From 1988 to 2011 he was a consultor of the Congregation for Bishops.
+
+Darío Castrillón HoyosDarío del Niño Jesús Castrillón Hoyos (4 July 1929 – 18 May 2018) was a Colombian cardinal of the Catholic Church. He was Prefect of the Congregation for the Clergy from 1996 to 2006. He was the president emeritus of the Pontifical Commission "Ecclesia Dei" having served from 2000 until his retirement in 2009. He was elevated to the cardinalate in 1998.

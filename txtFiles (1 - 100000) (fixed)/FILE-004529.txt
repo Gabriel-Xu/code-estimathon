@@ -1,0 +1,79 @@
+Born in Wayne, Pennsylvania, to Italian parents, she first studied at the Curtis Institute of Music in Philadelphia, with Eufemia Giannini-Gregory, and later at the Accademia di Santa Cecilia in Rome, Italy, with Mercedes Llopart and Luigi Ricci.
+
+She made her operatic debut in Spoleto, Italy, in 1955, as Norina in Donizetti's "Don Pasquale". Shortly after, she appeared in a television production of Puccini's "Madama Butterfly", which made her an overnight sensation throughout Italy. She quickly appeared in other television productions ("Falstaff", "La sonnambula", "Lucia di Lammermoor", "La figlia del reggimento", "La serva padrona") and was invited to sing at most of the major opera houses of Italy (Rome, Milan, Naples, Venice, Parma, etc.). As her reputation grew, she was invited to sing outside Italy, notably at the Aix-en-Provence Festival, the Salzburg Festival and the Vienna State Opera.
+
+She made her American debut at the Chicago Lyric Opera in 1957, as Mimi in "La bohème", opposite the great Swedish tenor Jussi Bjorling. Her Metropolitan Opera debut in New York took place on November 14, 1959, as Violetta in "La traviata", a part that quickly became her signature role. She sang at the Metropolitan Opera for seventeen seasons to great acclaim in roles such as Lucia ("Lucia di Lammermoor"), Gilda ("Rigoletto"), Mimi ("La bohème"), Marguerite ("Faust"), Juliet ("Romeo and Juliet"), Manon ("Manon"), the four heroines in "Les contes d'Hoffmann", etc. She also sang in San Francisco, Los Angeles, Philadelphia, etc., while making several appearances on American television.
+
+She pursued a successful international career as well, singing in Monte Carlo, London, Berlin, Stockholm, Mexico City, Buenos Aires, etc. She remained very popular in Italy and performed there often and hosted her own television program "The Anna Moffo Show" from 1960 to 1973. She also appeared in movie versions of opera such as "La traviata" (1968) and "Lucia di Lammermoor" (1971), directed by her husband Mario Lanfranchi, as well as a few non-operatic movies.
+
+Her career was cut short by vocal problems in the mid 1970s but she remained active in the opera world as a board member of the Metropolitan Opera Guild and by hosting galas and giving occasional masterclasses. Moffo died in New York City of a stroke after a decade long battle with breast cancer at the age of 73. She is remembered as one of the most glamourous opera stars of her era.
+
+A versatile and prolific recording artist she left a vast discography including opera, operetta, musical, art songs, pop songs, lieder, etc.
+
+EntrepreneurAn entrepreneur is a person who organizes a business to benefit from an opportunity, rather than working as an employee. Entrepreneurs play a key role in any economy. These are people who have the skills and initiative necessary to anticipate current and future needs and bring good new ideas to market.
+
+Entrepreneurs who are successful in taking on the risks of a startup are rewarded with profits, fame and continued growth opportunities. Those who fail suffer losses and become less important in the markets. Many fail, lose money, and close the business. The entrepreneur assumes the risks and rewards of the venture and is usually the sole proprietor, a partner or the owner of the majority of shares in an incorporated venture. As the main decision maker the entrepreneur monitors and controls the business activities.
+
+According to Joseph Schumpeter (1883 - 1950) entrepreneurs regard profit as a standard for measuring achievement or success. He discovered that they:Entrepreneurship is sometimes categorized among the factors of production, along with land/natural resources, labor and capital. An entrepreneur combines these to manufacture goods or provide services. He or she typically creates a business plan, hires labor, acquires resources and financing, and provides leadership and management for the business.
+
+Entrepreneurs commonly face many obstacles when building their business. Given the riskiness of a new venture, the acquisition of capital funding is particularly challenging, and many entrepreneurs deal with it by bootstrapping.
+
+While some entrepreneurs are lone players struggling to get small businesses off the ground on a shoestring, others take on partners armed with greater access to capital and other resources.
+
+Economists have never had a consistent definition of "entrepreneur" (the word "entrepreneur" comes from the French verb "entreprendre", meaning "to undertake"). Though the concept of an entrepreneur existed and was known for centuries, the classical and neoclassical economists left entrepreneurs out of their formal models:They assumed that perfect information would be known to fully rational actors, leaving no room for risk-taking or discovery. It wasn't until the middle of the 20th century that economists seriously attempted to incorporate entrepreneurship into their models.
+
+Three thinkers were central to the inclusion of entrepreneurs: Joseph Schumpeter, Frank Knight and Israel Kirzner. Schumpeter suggested that entrepreneurs – not just companies – were responsible for the creation of new things in the search of profit. Knight focused on entrepreneurs as the bearers of uncertainty and believed they were responsible for risk premiums in financial markets. Kirzner thought of entrepreneurship as a process that led to discovery.
+
+QBasicQBasic is a programming language made by Microsoft which was included with Windows 95 and MS-DOS. QBasic is a more limited version of QuickBasic, released in 1985. While today considered almost obsolete, it is still a popular language for beginners and especially for educational purposes.
+
+An example Hello World program in QBasic:PRINT "Hello, World!"
+
+Scratch (programming language)Scratch is a block-based visual programming language and vector/raster graphics editor for children designed to create things such as games, animations, art, and stories. It allows them to explore and experiment with the ideas of computer programming by using "blocks" that are put together to make simple code. There is also a discussion page with multiple forums mainly used for chatting and help with coding.
+
+Although made for children 8-16, Scratch can be used to produce simple or complex programs. Some notable users who push the boundaries of what scratch can do include: Griffpatch, -Myths-, TimMcCool, Will_Wam, and World_Languages.
+
+Scratch is translated into 40+ languages and is used in homes, schools, and after-school clubs in nearly every country in the world. Scratch is often used in teaching coding, computer science, and computational thinking. Teachers also use it as a tool across many other subjects, including math, science, history, geography, and art. The Scratch Team is an organization that helps maintain, manage, and help keep Scratch safe. They also do helpful tutorials for coding help and support. Scratch is free to use.
+
+The area where the user can interact is called the "stage area". The "stage area" features all of the animations, graphics, drawings, and other visual features. The list of sprites on screen are placed below the stage area to show a list of sprites that are usable for the program. The stage is organized through x and y coordinates, with the center coordinate (0, 0) in the center of the stage. The stage is 480 pixels wide and 360 pixels tall, with a range between x=-240 to x=240 in width and a range between y=-180 and y=180 in height.
+
+From left to right, in the upper left area of the screen, there is a "stage area", featuring the results (i.
+
+e., animations, turtle graphics, etc., everything either in small or normal size, full-screen also available) and all sprites thumbnails listed in the bottom area. The stage uses x and y coordinates, with 0,0 being the stage center. The stage is 480 pixels wide, and 360 pixels tall, x:240 being the far right, x:-240 being the far left, y:180 being the top, and y:-180 being the bottom.
+
+PonytailA ponytail is a common hairstyle. It is a tied back section of hair on the scalp. It is held by a hair tie or clip, and hangs freely from that point. They are worn by people of any gender.
+
+Volkswagen PassatVolkswagen Passat is a car produced by Volkswagen in 1973. It entered its seventh generation in 2010.
+
+The Volkswagen Passat Mk4 is the fourth generation of the Volkswagen Passat. The Mk4 replaced the Mk3 in 1993, and was replaced by the Mk5 in 1996.
+
+The Volkswagen Passat Mk5 is the fifth generation of the Volkswagen Passat. The Mk5 replaced the Mk4 in 1996, and was replaced by the Mk6 in 2005.
+
+The Volkswagen Passat Mk6 is the sixth generation of the Volkswagen Passat. The Mk6 replaced the Mk5 in 2005, and was replaced by the Mk7 in 2010.
+
+The Volkswagen Passat Mk7 is the seventh generation of the Volkswagen Passat. The Mk7 replaced the Mk6 in 2010. This is the current generation of the Volkswagen Passat.
+
+Volkswagen Golf VariantVolkswagen Golf Variant is a car produced by Volkswagen since 1993. It entered its fourth generation in 2009.
+
+Northanger AbbeyNorthanger Abbey was the first completed novel written by Jane Austen. It is a coming-of-age novel and a satire of Gothic novels. Even though "Northanger Abbey" the first of Austen's novels completed in full, it was published after Austen's death in 1817 with "Persuasion".
+
+A seventeen-year-old girl, Catherine Morland, travels with her rich relatives, Mr. and Mrs. Allen, to Bath in England. Innocent and inexperienced, Catherine Morland is a plump country girl with no friends in the city. At first, she is disappointed, because she does not have anyone to dance with at the ball. Then she meets an exciting gentleman, Mr. Tilney. She falls in love with him, but the next day, he has disappeared. She is upset and sad. Then she meets a flirtatious girl named Isabella. This makes her happier. She does not yet know all the evil intentions of her new friend.
+
+Isabella introduces Catherine to the fun of reading gothic novels. But Catherine believes they are true. She does not understand the difference between reality and fiction. Then she is introduced to Isabella's brother John Thorpe, who finds himself falling in love with her. He thinks Catherine likes him too. Catherine then meets Henry Tilney again, and is introduced to Miss Eleanor Tilney, his sister. She is a sensible, intelligent lady, who is much different from Isabella. Catherine also meets Miss Tilney's father, General Tilney.
+
+Isabella joyfully tells Catherine of her engagement to Catherine's brother, James Morland. Later, John Thorpe proposes to Catherine, but she does not realise he is asking her to marry him. Later, when Isabella tells her that John is in love with her, she is really surprised and says no immediately. Then Eleanor Tilney invites Catherine to Northanger Abbey. Catherine there learns that the gothic novels are wrong, and that Northanger Abbey is a perfectly normal place, and is not haunted.
+
+Catherine listens to General Tilney's conversations, and suspiciously thinks that perhaps he has murdered his wife, because he avoids talking about her. She persuades Eleanor Tilney to take her to Mrs. Tilney's room, but when General Tilney comes, she rushes away in fear. Catherine later goes again, but this time is found by Henry Tilney. She accidentally reveals her suspicions to Henry, who does not get angry at her. Then, running to her room crying, she is worried that Mr. Tilney does not like her any more. Later, Eleanor Tilney takes her to an open stage coach to immediately go home. Catherine is frightened and surprised, and thinks it is all because of her mistaken thoughts of General Tilney and his wife. When she goes home, she is sullen and quiet.
+
+Henry Tilney then visits her house and asks her to marry him, even though General Tilney said no. He explains that at first, John Thorpe, who had thought Catherine would marry him soon, had lied to General Tilney that she was rich. General Tilney then tries to make her marry Henry, but later met John Thorpe again, after Catherine had said she would not marry him. He angrily tells General Tilney another lie, that Catherine is penniless. General Tilney, horrified, rudely made Catherine go home. Catherine's parents say they have to wait until General Tilney says yes.
+
+Finally, Eleanor marries a charming man who is very rich, and this makes the General so happy he says that Henry can marry Catherine. Later, he finds out Catherine is not as poor as he had thought, so he is even happier. At last, Catherine and Henry are married.
+
+LexemeLexeme is a term in linguistics. They are units of meaning, independent of any inflectional endings, or whether it is one word or several. "Come in" is a lexeme; so is "raining cats and dogs". The largest English dictionaries have about half a million lexemes. "The true figure is undoubtedly a great deal higher".
+
+In the English language, "run", "runs", "ran" and "running" are forms of the same lexeme, conventionally written as RUN.
+
+A similar concept is the lemma (or citation form). It is the form of a lexeme which is chosen to represent the lexeme, for example, RUN instead of the other forms. Lemmas are used in dictionaries as the headwords. Other forms of a lexeme are usually listed later in the entry. So all headwords in a dictionary are lexemes.
+
+A "lexicon" is made of lexemes.
+
+PhonemePhonemes are the units of sound (speech) which distinguish one word from another in a particular language. In most varieties (accents and dialects) of spoken English there are about 23 consonantal phonemes and 21 vowel phonemes (altogether 44 phonemes), but only 26 letters in writing. To see all the phonemes in English, the IPA, has a unique letter for every phoneme, unlike the English alphabet.

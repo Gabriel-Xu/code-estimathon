@@ -1,0 +1,245 @@
+Nucleolar protein of 40 kDa is a protein that in humans is encoded by the ZCCHC17 gene.
+
+Nucleolar protein with MIF4G domain 1 is a protein that in humans is encoded by the NOM1 gene.
+
+Nucleolar RNA helicase 2 is an enzyme that in humans is encoded by the DDX21 gene.
+
+Nucleolar transcription factor 1 is a protein that in humans is encoded by the UBTF gene.
+
+Nucleolin is a protein that in humans is encoded by the NCL gene.
+
+Nucleolus and neural progenitor protein is a protein that in humans is encoded by the NEPRO gene.
+
+Nucleolus organizer regions (NORs) are chromosomal regions crucial for the formation of the nucleolus.
+
+Nucleolysin TIAR is a protein that in humans is encoded by the TIAL1 gene.
+
+Nucleomorphs are small, vestigial eukaryotic nuclei found between the inner and outer pairs of membranes in certain plastids.
+
+Nucleophilic abstraction is a type of an organometallic reaction which can be defined as a nucleophilic attack on a ligand which causes part or all of the original ligand to be removed from the metal along with the nucleophile.
+
+Nucleophilic epoxidation is the formation of epoxides from electron-deficient double bonds through the action of nucleophilic oxidants.
+
+Nucleophilic epoxidation methods represent a viable alternative to electrophilic methods, many of which do not epoxidize electron-poor double bonds efficiently.
+
+Nucleoplasmin-3 is a protein that in humans is encoded by the NPM3 gene.
+
+Nucleoplasmin, the first identified molecular chaperone is a thermostable acidic protein with a pentameric structure.
+
+Nucleoporin 107 (Nup107) is a protein that in humans is encoded by the NUP107 gene.
+
+Nucleoporin 133 (Nup133) is a protein that in humans is encoded by the NUP133 gene.
+
+Nucleoporin 153 (Nup153) is a protein which in humans is encoded by the NUP153 gene.
+
+Nucleoporin 155 (Nup155) is a protein that in humans is encoded by the NUP155 gene.
+
+Nucleoporin 160 (Nup160) is a protein that in humans is encoded by the NUP160 gene.
+
+Nucleoporin 188 (Nup188) is a protein that in humans is encoded by the NUP188 gene.
+
+Nucleoporin 205 (Nup205) is a protein that in humans is encoded by the NUP205 gene.
+
+Nucleoporin 35 (Nup35) is a protein that in humans is encoded by the NUP35 gene.
+
+Nucleoporin 43 (Nup43) is a protein that in humans is encoded by the NUP43 gene.
+
+Nucleoporin 50 (Nup50) is a protein that in humans is encoded by the NUP50 gene.
+
+Nucleoporin 54 (Nup54) is a protein that in humans is encoded by the NUP54 gene.
+
+Nucleoporin 85 (Nup85) is a protein that in humans is encoded by the NUP85 gene.
+
+Nucleoporin 88 (Nup88) is a protein that in humans is encoded by the NUP88 gene.
+
+Nucleoporin 93 (Nup93) is a protein that in humans is encoded by the NUP93 gene.
+
+Nucleoporin GLE1 is a protein that in humans is encoded by the GLE1 gene on chromosome 9.
+
+Nucleoporin-like 2 is a protein that in humans is encoded by the NUPL2 gene.
+
+Nucleoporin NDC1 is a protein that in humans is encoded by the TMEM48 gene.
+
+Nucleoporin p58/p45 is a protein that in humans is encoded by the NUPL1 gene.
+
+Nucleoporin p62 (p62) is a protein complex associated with the nuclear envelope.
+
+Nucleoporins are a family of proteins which are the constituent building blocks of the nuclear pore complex (NPC).
+
+Nucleoporins are the main components of the nuclear pore complex (NPC) of eukaryotic cells.
+
+Nucleoproteins are any proteins that are structurally associated with nucleic acids, either DNA or RNA.
+
+Nucleorhabdovirus is a genus of viruses in the family Rhabdoviridae, order Mononegavirales..
+
+Nucleoside analogs are nucleosides which contain a nucleic acid analog and a sugar.
+
+Nucleoside analogs may also be used to treat viral infections.
+
+Nucleoside and nucleotide analogs can be used in therapeutic drugs, include a range of antiviral products used to prevent viral replication in infected cells.
+
+Nucleoside diphosphate kinase 3 is an enzyme that in humans is encoded by the NME3 gene.
+
+Nucleoside diphosphate kinase B is an enzyme that in humans is encoded by the NME2 gene.
+
+Nucleoside diphosphate-linked moiety X motif 6 is a protein that in humans is encoded by the NUDT6 gene.
+
+Nucleoside phosphoramidites are derivatives of natural or synthetic nucleosides.
+
+Nucleoside phosphoramidites were first introduced in 1981 by Beaucage and Caruthers.
+
+Nucleosides are glycosylamines that can be thought of as nucleotides without a phosphate group.
+
+Nucleoside-specific porin (the tsx gene of Escherichia coli) is an outer membrane protein, Tsx, which constitutes the receptor for colicin K and Bacteriophage T6, and functions as a substrate-specific channel for nucleosides and deoxy-nucleosides.
+
+Nucleoside transporters (NTs) are a group of membrane transport proteins which transport nucleoside substrates like adenosine across the membranes of cells and/or vesicles.
+
+Nucleoside triphosphates also serve as a source of energy for cellular reactions and are involved in signaling pathways.
+
+Nucleoside triphosphates cannot be absorbed well, so they are typically synthesized within the cell.
+
+Nucleosome assembly protein 1-like 1 is a protein that in humans is encoded by the NAP1L1 gene.
+
+Nucleosome assembly protein 1 like 3 is a protein that in humans is encoded by the NAP1L3 gene.
+
+Nucleosome assembly protein 1-like 4 is a protein that in humans is encoded by the NAP1L4 gene.
+
+Nucleosome assembly protein 1 like 5 is a protein that in humans is encoded by the NAP1L5 gene.
+
+Nucleosome is technically the consolidation of a nucleosome core and one adjacent linker DNA; however, the term nucleosome is used freely for solely the core.
+
+Nucleosome Remodeling Factor (NURF) is an ATP-dependent chromatin remodeling complex first discovered in Drosophila melanogaster (fruit fly) that catalyzes nucleosome sliding in order to regulate gene transcription.
+
+Nucleosome-remodeling factor subunit BPTF is a protein that in humans is encoded by the BPTF gene.
+
+Nucleosome Repeat Length (NRL) is the average distance between the centers of neighboring nucleosomes.
+
+Nucleostemin regulates the cell cycle and affects cell differentiation, decreasing in amount as this differentiation progresses.
+
+Nucleosynthesis is the process that creates new atomic nuclei from pre-existing nucleons, primarily protons and neutrons.
+
+Nucleosynthesis of lithium is important in the study of chemical abundances in the universe.
+
+Nucleosys was announced to be disbanding.
+
+Nucleosys was a video game developer based in Argentina specializing in the adventure genre.
+
+Nucleotide analogs are nucleotides which contain a nucleic acid analog, a sugar, and one to three phosphate groups.
+
+Nucleotide-binding oligomerization domain-containing protein 2 (NOD2), also known as caspase recruitment domain-containing protein 15 (CARD15) or inflammatory bowel disease protein 1 (IBD1), is a protein that in humans is encoded by the NOD2 gene located on chromosome 16.
+
+Nucleotide exchange factor SIL1 is a protein that in humans is encoded by the SIL1 gene.
+
+Nucleotide exchange factors (NEFs) are proteins that stimulate the exchange (replacement) of nucleoside diphosphates for nucleoside triphosphates bound to other proteins.
+
+Nucleotide excision repair is a DNA repair mechanism.
+
+Nucleotide excision repair is a major pathway for repairing UV light-induced DNA damage in most organisms.
+
+Nucleotide excision repair (NER) is a particularly important excision mechanism that removes DNA damage induced by ultraviolet light (UV).
+
+Nucleotides are involved in numerous biochemical reactions and pathways within the cell as substrates, cofactors, and effectors.
+
+Nucleotides are the basic building blocks of DNA and RNA.
+
+Nucleotide sugar metabolism is particularly well-studied in yeast, fungal pathogens, and bacterial pathogens, such as E. coli and Mycobacterium tuberculosis, since these molecules are required for the synthesis of glycoconjugates on the surfaces of these organisms.
+
+Nucleotide sugars act as glycosyl donors in glycosylation reactions.
+
+Nucleotide sugars are the activated forms of monosaccharides.
+
+Nucleotomy is a surgical procedure for removal of tissue surrounding a herniated disk.
+
+Nucleus accumbens-associated protein 1 is a protein that in humans is encoded by the NACC1 gene.
+
+Nucleus and Trainor are generally accorded recognition as the founders of bioengineering as an industry in Australia.
+
+Nucleus CMS is an open-source blog management software package written in PHP, with a MySQL backend.
+
+Nucleus Films is a UK-based independent DVD and Blu-Ray distribution label and private limited company, founded in 2003 by researcher and writer Marc Morris and film director Jake West.
+
+Nucleus is a downloadable game on the PlayStation Store, also known as Bacterius on the Japanese PSN.
+
+Nucleus Limited began as a private company in Sydney, Australia, in 1965.
+
+Nucleus makes use of a callback function which has led to a plugin system in multiple languages.
+
+Nucleus Process Model adds space domain partitioning for task and module isolation on SOCs with either a Memory Management Unit (MMU) or Memory Protection Unit (MPU), such as those based on ARMv7/8 Cortex-A/R/M cores.
+
+Nucleus proprius can be found in the gray matter in all levels of the spinal cord.
+
+Nucleus proprius (NP), along with the substantia gelatinosa of Rolando are involved in sensing pain and temperature.
+
+Nucleus Research is an information technology research firm specializing in investigative research and the return on investment (ROI) analysis of technology deployments.
+
+Nucleus RTOS is a real-time operating system (RTOS) offered by the Embedded Software Division of Mentor Graphics, a Siemens Business, supporting 32 and 64 bit embedded platforms.
+
+Nucleus RTOS was first released in 1993.
+
+Nucleus Software Exports Limited (NSE: NUCLEUS) is an Indian global IT products and solutions company serving the Banking and Financial Services sector for the past 32 years.
+
+Nucleus was a British-European advocacy group, the forerunner to British Influence (sometimes The Center for British Influence).
+
+Nucleus was based in London, with additional operations in Brussels.
+
+Nucleus was unaffiliated with any political party, and was a partner in both the British Brussels Network, along with Business for New Europe, the British Chamber of Commerce in Belgium, and the Institute of Chartered Accountants in England and Wales, and the pan-European EuropAssociation.
+
+Nuclides that have the same mass number are called isobars.
+
+Nuclides that have the same neutron excess are called isodiaphers.
+
+Nuclino is a cloud-based team collaboration software which allows teams to collaborate and share information in real-time.
+
+Nuclino is web-based and currently does not offer mobile apps for Android or iOS.
+
+NUCMC is the abbreviation for the National Union Catalog of Manuscript Collections.
+
+Nuco Inc. is the developer of the Nuco enterprise blockchain platform and a founding member and director of the Enterprise Ethereum Alliance.
+
+NuComm International was a Canadian-based provider of customer relationship and call center services.
+
+Nucor Corporation is a producer of steel and related products headquartered in Charlotte, North Carolina.
+
+Nucor is North America's largest recycler of any material and recycled 16.
+
+9 million tons of scrap in 2015.
+
+Nucras caesicaudata, the bluetailed sandveld lizard or bluetail scrub lizard, is a wall lizard in the family of true lizards (Lacertidae).
+
+Nucras is a genus of African lacertid lizards, commonly called sandveld lizards.
+
+Nucs, or nucleus colonies, are small honey bee colonies created from larger colonies.
+
+Nuctemeron Descent is the third full length studio album by the blackened death metal band Abominator.
+
+Nucula atacellana, or the cancellate nut shell clam, is a marine bivalve mollusc in the family Nuculidae.
+
+Nucula certisinus is a saltwater nut clam, a marine bivalve mollusc in the family Nuculidae.
+
+Nucula delphinodonta, or the dolphin-tooth nut shell clam, is a marine bivalve mollusc in the family Nuculidae.
+
+Nucula dunedinensis is a saltwater nut clam, a marine bivalve mollusc in the family Nuculidae.
+
+Nucula gallinacea is a saltwater nut clam, a marine bivalve mollusc in the family Nuculidae.
+
+Nucula hartvigiana is a saltwater nut clam, a marine bivalve mollusc in the family Nuculidae.
+
+Nucula is a genus of very small saltwater clams.
+
+Nuculana acuta, or the pointed nut clam, is a marine bivalve mollusc in the family Nuculanidae.
+
+Nuculana concentrica, or the concentric nut clam, is a marine bivalve mollusc in the family Nuculanidae.
+
+Nuculana minuta, or the minute nut clam, is a marine bivalve mollusc in the family Nuculanidae.
+
+Nuculana tenuisulcata, or the sulcate nut clam, is a marine bivalve mollusc in the family Nuculanidae.
+
+Nuculanidae is a family of small saltwater clams, marine bivalve molluscs in the order Nuculanoida.
+
+Nucula nitidulaformis is a saltwater nut clam, a marine bivalve mollusc in the family Nuculidae.
+
+Nucula nitidula is a saltwater nut clam, a marine bivalve mollusc in the family Nuculidae.
+
+Nuculanoida is an order of very small saltwater clams, marine bivalve molluscs in the subclass Protobranchia.
+
+Nucula proxima, or the Atlantic nut clam, is a marine bivalve mollusc in the family Nuculidae.

@@ -1,0 +1,179 @@
+Nigel Howard Adkins (born 11 March 1965) is an English football manager and former footballer. He was most recently the manager of Hull City.
+
+Adkins played for Tranmere Rovers, Wigan Athletic and Bangor City.
+
+Adkins' career as a manager started with Bangor City. From 1996 to 2006 he worked for Scunthorpe United as a physiotherapist. He worked for Scunthorpe United as a main coach for four years. In 2010, Adkins became the main coach of Southampton. In March 2013, Adkins became a main coach of Reading.
+
+10th Army (German Empire)The 10th Army () was an army level command of the German Empire in World War I.
+
+The 10th Army was formed 1 January 1915. The army was stationed on the Eastern Front where it fought against the Russian Empire. It was dissolved in January 1919.
+
+Bizarro (Six Flags Great Adventure)Medusa (previously known as Bizarro) is a floorless steel roller coaster located at Six Flags Great Adventure.
+
+ZhuhaiZhuhai (, ) is a city in Guangdong, China. It is in the Pearl River Delta. It borders Jiangmen to the northwest, Zhongshan to the north, and Macau to the south. Zhuhai was one of the original Special Economic Zones established in the 1980s. Zhuhai is one of China's popular tourist destinations, being called the Chinese Riviera. Most people in the city are migrants who speak Mandarin. Its northern part, Xiangzhou district is now part of the Guangzhou-Shenzhen built-up area, the biggest built-up area in the world. The area had more than 44,478,513 people in 2010. It includes Shenzhen, Dongguan, Foshan, Zhongshan, Macao, the main part of Guangzhou, and small parts of Jiangmen and Huizhou.
+
+Simone LaudehrSimone Laudehr (born 12 July 1986 in Regensburg, Bavaria, West Germany) is a German association football midfielder/winger. She currently plays for 1. FFC Frankfurt. Laudehr is also a member of the Germany women's national football team. She was part of a team who won a bronze medal at the 2008 Summer Olympics.
+
+WingerThe word Winger can refer to:UEFA Women's Champions LeagueThe UEFA Women's Champions League is the female version of the UEFA Champions League. From 2001 to 2009, the competition was called the UEFA Women's Cup. It was formed in 2001. The team of 1. FFC Frankfurt has won the most titles.
+
+The final of the UEFA Women's Cup was played on two legs. Below are the results of the finals:The final of the UEFA Women's Champions League was played on one leg. Below are the results of the finals:Umeå IKUmeå IK is a women's association football club that is from Umeå, Sweden. It was founded in 1917 It was started as a as a general sports club.
+
+The club won the Swedish national championship in 2000, 2001, 2002, 2005, 2006, 2007 and 2008.
+
+It has also won 2 UEFA Women's Champions League titles. The team's colours are black and yellow.<
+
+br>Olympique Lyonnais FémininOlympique Lyonnais Féminin (also called Olympique Lyonnais, Lyon or OL) is a women's association football club from Lyon, France. It is the most successful club in the history of Division 1 Féminine with thirteen league titles. The club has been the female section of Olympique Lyonnais since 2004. Lyon currently play in the Division 1 Féminine and are the defending champions, having won the league for nine consecutive seasons. As of 27 June 2015, UEFA rates the club as number 1 in Europe.
+
+Official websiteCommunity of İskenderpaşaCommunity of İskenderpaşa is a Sufistic community in Turkey. When Mehmed Zahid Kotku was commisioned as imam in Mosque of İskenderpaşa, it started. When he died, the community's leader was Mahmud Esad Coşan. Now, this community's leader is Muharrem Nureddin Coşan.
+
+This community trained very famous politicians. For example. Necmettin Erbakan, Turgut Özal, Recai Kutan, Korkut Özal, Cevat Ayhan, Ahmet Tekdal, Akif Gülle, Hasan Hüseyin Ceylan, Temel Karamollaoğlu, Nevzat Yalçıntaş .
+
+First normal formFirst normal form (1NF) is a property of a relational model, specifically tables. Within a table that is in first normal form, each row has columns that are each represent one thing and contain one element. Additionally, there are no repeated columns in the table.
+
+First normal form is a minimum criterion of database normalization.
+
+Second normal formSecond normal form (2NF) is a property of a relational model, specifically tables that is a criterion of database normalization.
+
+The first criterion of being second normal form is that the table be first normal form.
+
+Within a table that is in second normal form, the data in each columns in each row are dependent on each row's entire primary key. A primary key is one or more columns in a row that is used to identify and index that row of the table. Columns that are not related to every column in the primary key are removed. Only columns that are related to all columns in the primary key are retained.
+
+Third normal formThird normal form is a property of a relational model, specifically tables that is a criterion of database normalization.
+
+The first criterion of being third normal form is that the table be second normal form.
+
+Within a table that is in third normal form, the data in each column in each row are dependent only on columns that are part of the primary key. A primary key is one or more columns in a row that is used to identify and index that row of the table. Columns that are not related to any column in the primary key are removed.
+
+City carCity car is a term used for an automobile that is shorter than a typical subcompact car, in the A-segment group. They're also referred to as an urban car because they're intended for short distances. The most common city cars are the Fiat 500, the Chevrolet Spark and Ford Ka (only sold outside the US).
+
+Bradford West GwillimburyBradford West Gwillimbury is a town in Simcoe County, Ontario, Canada. It was founded in 1991 when the Town of Bradford was merged with parts of the Townships of West Gwillimbury and Tecumseth. According to the Canada 2011 Census, the town had a population of 28,077.
+
+Two highways run through the town: Highway 9 and Highway 400.
+
+Simcoe CountySimcoe County is part of Central Ontario, Canada. It is north of the Greater Toronto Area, between Lake Simcoe and Georgian Bay. It is part of the Golden Horseshoe area. The county covers . In 2011, it had a population of 277,614. It was named by John Graves Simcoe, the first Lieutenant Governor of Upper Canada, for his father John Simcoe.
+
+Agriculture and manufacturing are a big part of Simcoe County's economy. Honda Canada is one of the county's biggest employers.
+
+The County has sixteen municipalities:The cities of Barrie and Orillia are both in Simcoe County but they are politically independent of the county.
+
+Collingwood, OntarioCollingwood is a town in Simcoe County, Ontario, Canada. It is on Nottawasaga Bay at the southern end of Georgian Bay. It covers an area of 33.
+
+46 square miles (12.
+
+92 square miles). According to the Canada 2011 Census, it had a population of 19,241. The town is popular for recreational activities, like skiing and hiking.
+
+Collingwood was incorporated as a town in 1858. It was named after Cuthbert Collingwood, 1st Baron Collingwood, who was a British naval officer. In the late 1970s, several industrial and manufacturing companies built factories in the town.
+
+Prince Edward County, OntarioPrince Edward County is a county in Ontario, Canada. It is in Southern Ontario near the eastern end of Lake Ontario. The Bay of Quinte is north and east of the county. The county covers 1,050.
+
+45 square kilometers (405.
+
+58 square miles). According to the 2011 census, the county had a population of 25,258.
+
+Prince Edward County is a single-tier municipality, which means it is not divided into townships and cities. There are several unincorporated communities in the county, including Picton, where the county government is based.
+
+The Picton Pirates of the Empire B Junior C Hockey League play in Piction. The Wellington Dukes of the Ontario Junior Hockey League play in Wellington.
+
+Prince Edward County is popular with tourists. Because it is on a lake, water sports like canoeing and sailing are very popular. The Sandbanks Provincial Park is near Picton; it is the world's largest fresh water sand bar and dune system.
+
+Ontario Highway 62Ontario Highway 62 is a provincial highway in Ontario, Canada. It starts at Highway 33 in Prince Edward County. It then heads north through Hastings County. It ends in Hastings Highlands, where the highway merges with Highway 127. Highway 62 also passes through Belleville, Madoc, and Bancroft. It is 165.
+
+8 kilometers (103 miles) long.
+
+Ontario Highway 34Ontario Highway 34 is a provincial highway in Ontario, Canada. It starts at Highway 417 near Vankleek Hill. It continues northeast through the Ottawa Valley. It ends in Hawkesbury. It is 16.
+
+9 kilometers (10.
+
+5 miles) long. It travels through mostly rural areas.
+
+Manitoba Highway 10Manitoba Highway 10 is a provincial highway in the western part of Manitoba, Canada. It is long. It goes from south to north. It is the longest highway in Manitoba.
+
+The highway starts at the International Peace Garden along the border with North Dakota, near the Manitoba town of Boissevain. It runs through several towns to Flin Flon at the boundary with Sasatchewan, where it goes on as Saskatchewan Highway 167. Some of the other cities and towns it passes through are Brandon, Ethelbert, and Cranberry Portage.
+
+Between Dauphin and The Pas, Highway 10 is part of the Northern Woods and Water Route.
+
+Government of ManitobaThe government of Manitoba has three parts. The head of state, Elizabeth II, is represented by the Lieutenant Governor of Manitoba. The Lieutenant Governor is appointed by the Governor General of Canada, with the advice of the Prime Minister of Canada.
+
+Manitoba has a unicameral legislature, which is called the Legislative Assembly of Manitoba. It has fifty-seven members, who are elected from single-member districts (meaning that only one member is elected from each district). The largest party in the legislature forms the executive branch. The party leader of the largest party becomes the Premier of Manitoba.
+
+As of 2015, the most recent general election in Manitoba was on October 4, 2011. The New Democratic Party of Manitoba won a majority of seats. On October 19, 2009, Greg Selinger became the Premier.
+
+New Democratic Party of ManitobaThe New Democratic Party of Manitoba (NDP) is a social democratic political party in Manitoba, Canada. It is the provincial wing of the federal New Democratic Party (NDP). It was formed from the Manitoba Co-operative Commonwealth Federation. In 1961, the national Co-operative Commonwealth Federation (CCF) merged with the Canadian Labour Congress to form the NDP. The Manitoba wing of the CCF took the New Democratic Party name on November 4, 1961.
+
+The NDP formed a minority government after winning 28 out of 57 seats in the 1969 general election. Edward Schreyer became premier. In the 1973 general election, the NDP won 31 seats and formed a majority government. The party was the largest party in the assembly until the 1988 general election. After that election, the party won only 12 seats.
+
+The party was returned to government in the 1999 general election and formed the government after that.
+
+2011 Manitoba general electionThe 40th general election of Manitoba was on October 4, 2011. It was to elect members of the Legislative Assembly of Manitoba. The New Democratic Party (NDP) won 37 out of 57 seats, the Progressive Conservative Party (PCP) won 19 seats. The Liberal Party won one seat. The Green Party and the Communist Party both ran candidates but none were elected.
+
+Since they had a majority of seats in the Legislative Assembly, the NDP formed the government, with Greg Selinger as Premier. The PCP formed the official opposition.
+
+List of political parties in ManitobaThis is a list of political parties that are active in the province of Manitoba, Canada.
+
+These are parties that used to exist in Manitoba but don't any longer. Some merged with other parties in the province.
+
+Manitoba Liberal PartyThe Manitoba Liberal Party is a political party in Manitoba, Canada. The party developed in the 1880s from the Provincial Rights Party. The Liberal party won the 1915 general elections winning 40 seats out of 57 in the Legislative Assembly. This was the largest victory in Manitoba history. However, in the 1922 general elections, the Liberals lost power to the United Farmers of Manitoba. Support for the Liberal party declined in the decades after this election. From 1932 to 1961, the party merged with the Progressive Party of Manitoba as the Liberal-Progressive Party. In 1961 it changed its name back to the Liberal Party.
+
+In the 1981 general elections, the party failed to win any seats at all for the first time in its history.
+
+Progressive Conservative Party of ManitobaThe Progressive Conservative Party of Manitoba (or PCP) is the one of the right-wing political parties in Manitoba, Canada. The party was founded in 1882. It formed the government for the province between 1899 and 1915. It lost power in the 1915 general election because of a scandal about the building of the Manitoba Legislative Building.
+
+During the 20th century, the PCP formed the provincial government several times. After the 1988 general election, the party formed a minority government and remained in power for several years. In the Manitoba general election, 1999, it lost power to the New Democratic Party. In the 2011 general election, the PCP formed the opposition in the Legislative Assembly, with eight seats.
+
+On July 30, 2012, Brian Pallister became the party leader. He is also the Leader of the Opposition in the Legislative Assembly. After the 2016 elections, the PCP won a majority government and Pallister became the Premier of Manitoba.
+
+Legislative Assembly of ManitobaThe Legislative Assembly of Manitoba is the unicameral assembly of the legislature of Manitoba, Canada. There are fifty-seven members, all from single-member constituencies. Each is elected in provincial general elections in a first-past-the-post voting system. The assembly meets in the Manitoba Legislative Building in Winnipeg.
+
+The Premier of Manitoba is usually the leader of the largest party in the Legislative Assembly. The Speaker of the Legislative Assembly of Manitoba is the presiding officer of the legislature.
+
+Lieutenant Governor of ManitobaThe Lieutenant Governor of Manitoba is the representative of the Canadian monarch, Queen Elizabeth II in the government of Manitoba. The Manitoba lieutenant governor is appointed in the same way as the other Canadian lieutenant governors. Most of the lieutenant governor's roles are ceremonial, such as giving provincial awards and decorations.
+
+The office of Lieutenant Governor of Manitoba was created in 1870, when Manitoba became a province. The first lieutenant governor was Adams George Archibald, from 1870 to 1872.
+
+Premier of ManitobaThe Premier of Manitoba is the head of government for the province of Manitoba, Canada. The Premier is appointed by the Lieutenant Governor of Manitoba, who represents the Queen. The Premier is usually the head of the largest party in the Legislative Assembly of Manitoba. The Premier then appoints the Cabinet of Manitoba.
+
+The current Premier of Manitoba is Heather Stefanson of the Progressive Conservative Party. She was sworn in on November 2, 2021 becoming the first female premier of Manitoba.
+
+List of Manitoba general electionsThis is a list of the general elections to the Canadian province of Manitoba's Legislative Assembly. The number of seats has increased over time, to the present 57. Usually a general election is held every four years. The most recent election was in 2016.
+
+The table below shows the total number of seats won by the major political parties at each election. The winning party's total is shown in bold. Full details on any election are linked via the year of the election at the start of the row.
+
+Until the 1879 election, political parties were not active in the province. However, some candidates declared their support for (or opposition to) the administration of the time. Full details on any election are linked via the year of the election at the start of the row.
+
+Ambroise ParéAmbroise Paré (1510-1590) was an important French surgeon of the 16th century. He caused a major change in how medicine was practiced. Unlike surgeons before him, he cared about his patients. He worked to promote healing and minimize a patient's pain. His said "I dressed him, God cured him." Paré was a royal surgeon to several French kings including Henry II. He considered by many to be the father of modern surgery.
+
+Paré was born about 1510 in France. His father was a country artisan. As a youth he was an apprentice to a barber. Then he trained as a barber-surgeon in Paris. This was at the Hôtel-Dieu de Paris hospital.
+
+There were three levels of those who practiced medicine. Physicians were at the top and were the only ones who could be members of the Faculty of Medicine. Master surgeons were the next group. Paré belonged to the lowest group, the barber-surgeons. At the time wars were being fought all around him. Battlefield medicine was brutal and dirty. Firearms were a new weapon on the battlefield and were causing new and different wounds. Shrapnel, shot and bullets were a new problem for surgeons. They also believed gunpowder was poisonous. To stop the bleeding, they poured boiling oil over the wound. This burned an already suffering soldier.
+
+In 1536, Paré was a young war surgeon just getting started on the battlefield. He ran out of oil to seal soldiers' wounds after amputations. He made up a mix of egg yolks, oil of roses and turpentine. He applied this to several soldier's wounds. The next morning he was surprised to see those soldiers with the mix he made up were much better than the soldiers who had been scalded. He used ligatures to tie off arteries during amputations to stop bleeding.
+
+In 1552, Paré became the official royal surgeon. He was surgeon to four French kings: Henry II, Francis II, Charles IX and Henry III.
+
+Paré wrote his first book, "Methods of Treating Wounds", in 1545. He wrote it in French because he did not speak Latin. In 1575 he published his collected works. He was severely criticized by the Faculty of Physicians. This was the top school of physicians in France. Paré was called an ignorant fraud by Etienne Gourmelen, the dean of the Faculty. He stated no books on medicine could be published except through the Faculty of Physicians. Paré had the support of the king so his books sold without the Faculty. He wrote three more books. Paré wrote his own story titled "The Apology and Treatise of Ambroise Paré".
+
+List of English Football League managersThere are 92 association football teams in the top four tiers of English football. Each team has a manager or head coach. The Premier League and Football Leagues are the only fully professional football leagues in England. The Premier League has 20 clubs at the top of the English football league system. The other 72 clubs are split into the three divisions of the Football League: the Championship, League One, and League Two.
+
+Some of these managers were chosen as caretaker managers before the main job. A caretaker's start date is written in italics. Some managers have had more than one time in charge at their current club, however their time as manager is counted from the date of their latest club. Only one manager has spent more than 10 years in his current job. This list includes every manager currently managing a club in the Premier League and The Football League, in order of the date that they took up their job.‡ indicates player-manager1981 Manitoba general electionThe Manitoba general election of November 17, 1981 was held to elect members to the Legislative Assembly of Manitoba, Canada. The New Democratic Party won the election. They won 34 out of 57 seats. The Progressive Conservative Party won the remaining 23 seats. The Manitoba Liberal Party didn't win any seats for the first time in its history. The Progressive Party (which ran for the first time), the Communist Party, and Western Canada Concept Party also ran candidates in the election. None of these parties won any seats.
+
+Howard Pawley of the New Democratic Party became premier.
+
+1999 Manitoba general electionThe Manitoba general election of September 21, 1999 was held to elect members to the Legislative Assembly of Manitoba, Canada. The New Democratic Party won the election. They won 32 out of 57 seats. The Progressive Conservative Party won 24 seats. The Manitoba Liberal Party won one seat. The Manitoba Party, the Green Party, the Libertarian Party, and the Communist Party all ran candidates as well, but none won any seats. Each of those parties got less than 1% of the total vote.
+
+The New Democratic Party formed the government for the first time since losing the 1988 general election. Gary Doer became premier.
+
+RhyniaRhynia is a genus of Early Devonian fossil land plants. Only one species is known, "R. gwynne-vaughanii". The fossils are the sporophyte generation of a vascular plant. "Rhynia" had anatomical features more advanced than those of the bryophytes.
+
+Productive efficiencyIn economics, productive efficiency is a situation in which an economy is not able to produce any more of one good without reducing the production of another good. As resources are limited, it is not possible for more units of a good to be produced without taking away the resources used for producing another good. The concept of productive efficiency can be shown on a production possibility frontier (PPF), where all points on the curve are productively efficient.
+
+Productive efficiency refers to the maximum amount of output that an economy can produce at a certain point in time. However, if firms in the economy were to improve on their production methods and increase productivity, it is possible for the PPF to shift outwards, thus allowing more goods to be produced than before.
+
+Productive inefficiency happens when factors of production (i.
+
+e. land, labor, capital or enterprise) are not used to its maximum. For example, labor in the form of workers may be sitting and not doing any work. If the worker were to be used to produce more output than before, then having the worker not doing any work would be productively inefficient.
+
+Allocative efficiency is a special type of productive efficiency in which the right amount of goods is produced to benefit society in the best way.
+
+Productive efficiency can be shown either by using a production possibility frontier (PPF) diagram, or by using the marginal cost and average total cost curves.
+
+Assuming that the economy only produces 2 goods – guns and butter. Points B, C and D on the diagram are considered to be productively efficient as it is not possible to produce more of either good without having to reduce the production of the other. For example, if the economy is producing at point D, the only way to produce more butter is to reduce the production of guns, thus reaching point C.

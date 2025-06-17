@@ -1,0 +1,113 @@
+Lead author Sylvia S. Lee conducted the work as a postdoctoral researcher at the Cary Institute of Ecosystem Studies. Lee, now with the Environmental Protection Agency, comments, "Around the world, treated and untreated wastewater entering surface waters contains pharmaceuticals and illicit drugs that originate from human consumption and excretion, manufacturing processes, or improper disposal. We were interested in revealing how amphetamine exposure influences the small plants and animals that play a large role in regulating the health of streams."
+
+Lee and her collaborators measured concentrations of pharmaceutical and illicit drugs at six stream sites along an urban-to-rural gradient in Baltimore, Maryland. Numerous drugs, including amphetamine, were detected in stream sites, with illicit drug levels highest in the most urban streams. Sampling was performed in 2013 and 2014. Suburban and urban fieldwork focused on the Gwynns Falls watershed, which is part of the Baltimore Ecosystem Study Long-Term Ecological Research program. The two rural streams were located in Oregon Ridge watershed, the closest forested region.
+
+Field sampling was then followed up with an artificial stream experiment to determine how amphetamine – a biologically active, highly addictive, and widely used drug – affects stream life. In recent years, there has been an increase in the use of amphetamine medications in the treatment of conditions like attention-deficit hyperactivity disorder. At the same time, stimulants like methamphetamine, ecstasy, and cocaine are also used illicitly.
+
+Co-author Emma J. Rosi-Marshall, a freshwater ecologist at the Cary Institute, comments, “We have every reason to suspect that the release of stimulants to aquatic environments is on the rise across the globe, yet little is known about the ecological consequences of this pollution. We found that when artificial streams were exposed to amphetamine at a concentration similar to what we found in parts of the Gwynns Falls watershed, there were measurable and concerning effects to the base of the aquatic food web.”
+
+After recreating natural stream attributes in the Cary Institute’s Artificial Stream Facility, four streams received a target amphetamine concentration of 1 μg L-1 and four streams were maintained as controls. Researchers monitored ecosystem effects over three weeks. Among their findings: in streams with the amphetamine addition, the growth of biofilms was significantly suppressed, the composition of bacterial and diatom communities changed, and aquatic insects emerged earlier.
+
+The field component of this study is one of the first to report amphetamine in wastewater-impacted environments at concentrations approaching 1 μg L-1. The laboratory component confirms that amphetamine is present in the Gwynns Falls watershed at concentrations that have the potential to affect stream ecosystem structure and function.
+
+Rosi-Marshall concludes, "As society continues to grapple with aging wastewater infrastructure and escalating pharmaceutical and illicit drug use, we need to consider collateral damages to our freshwater resources. More work is needed on the ecological fate of these pollutants and the threat they pose to aquatic life and water quality. Ultimately, solutions will lie in innovations in the way we manage wastewater."
+
+In addition to Lee and Rosi-Marshall, the paper's research team included graduate student Alexis M. Paspalof (University of Nebraska–Lincoln), environmental chemist Daniel D. Snow (University of Nebraska–Lincoln), PhD candidate Erinn Richmond (Monash University), and microbial ecologist John J. Kelly (Loyola University Chicago). Funding was provided in part by the Wallace Genetic Foundation, the Baltimore Ecosystem Study Long-Term Ecological Research program, the Hudson River Foundation, and the Polgar Foundation.
+
+Occurrence and Potential Biological Effects of Amphetamine on Stream CommunitiesSylvia S. Lee, Alexis M. Paspalof, Daniel D. Snow, Erinn K. Richmond, Emma J. Rosi-Marshall, and John J. Kelly. Environmental Science & Technology . DOI: 10.
+
+1021/acs.
+
+est.
+
+6b03717http://pubs.
+
+acs.
+
+org/doi/full/10.
+
+1021/acs.
+
+est.
+
+6b03717Disclaimer: The views expressed in this article are those of the authors and do not necessarily reflect the views or policies of the U.
+
+S. Environmental Protection Agency. ||||| Potent pharmaceuticals flushed into the environment via human and animal sewage could be a hidden cause of the global wildlife crisis, according to new research. The scientists warn that worldwide use of the drugs, which are designed to be biologically active at low concentrations, is rising rapidly but that too little is currently known about their effect on the natural world.
+
+Studies of the effect of pharmaceutical contamination on wildlife are rare but new work published on Monday reveals that an anti-depressant reduces feeding in starlings and that a contraceptive drug slashes fish populations in lakes.“
+
+With thousands of pharmaceuticals in use globally, they have the potential to have potent effects on wildlife and ecosystems,” said Kathryn Arnold, at the University of York, who edited a special issue of the journal Philosophical Transactions of the Royal Society B. ”Given the many benefits of pharmaceuticals, there is a need for science to deliver better estimates of the environmental risks they pose.”
+
+She said: “Given that populations of many species living in human-altered landscapes are declining for reasons that cannot be fully explained, we believe that it is time to explore emerging challenges,” such as pharmaceutical pollution.
+
+Research published in September revealed half of the planet’s wild animals had been wiped out in the last 40 years. In freshwater habitats, where drug residues are most commonly found, the research found 75% of fish and amphibians had been lost.
+
+A few dramatic examples of wildlife harmed by drug contamination have been discovered previously, including male fish being feminised by the synthetic hormones used in birth-control pills and vultures in India being virtually wiped out by an anti-inflammatory drug given to the cattle on whose carcasses they feed. Inter-sex frogs have also recently been found in urban ponds contaminated with wastewater.
+
+Vultures in India were virtually wiped out by an anti-inflammatory drug given to the cattle on whose carcasses they feed. Photograph: Adrian Page/AlamyBut because the pharmaceuticals are not designed to kill – unlike pesticides – the damage caused to wildlife can be more subtle.
+
+In one of the new studies, Tom Bean at the University of York and colleagues, showed that the common antidepressant fluoxetine, at the low levels expected in the environment, led starlings to feed less often during the key foraging times of sunrise and sunset. “Importantly, fluoxetine is not the only pharmaceutical, or indeed the only antidepressant, to be detected in the environment,” he said. “Mixtures of pharmaceuticals could potentially be more potent.”
+
+Another new study, led by Karen Kidd at the University of New Brunswick, showed synthetic oestrogen used in the birth control pill not only wiped out fathead minnows in lakes used for experiments in Ontario, but also seriously disrupted the whole ecosystem. The lakes’ top predator – trout – declined by 23-42%, due to the loss of the minnow and other prey, while insects increased as they were no longer being eaten by the minnows.
+
+Amphibians are suffering the hardest in the global biodiversity decline and Cecilia Berg, at Uppsala University, and colleagues reported that a number of hormonally active pharmaceuticals harm reproduction in amphibians at concentrations that occur in natural waters.
+
+The most environmentally dangerous drugs are identified in a paper by Anette Küster and Nicole Adler, both at Germany’s Federal Environment Agency. “For human medicinal products, hormones, antibiotics, [painkillers], antidepressants and [anti-cancer drugs] indicated an environmental risk,” they said. For veterinary drugs, hormones, antibiotics and parasiticides were highlighted.
+
+Pharmaceuticals can contaminate the environment through discharges from drug factories, as well as through sewage. Professor Joakim Larsson, at the University of Gothenburg, found that drug levels in effluents can even exceed those found in the blood of people taking medication.
+
+Larsson cited antibiotic pollution coming from factories in China, India, Pakistan, Korea, Denmark, Norway and Croatia. “Although pollution from manufacturing is less widespread, discharges that promote the development of drug-resistant microorganisms can still have global consequences.” He also documented antidepressant pollution from factories in Switzerland, Israel and Spain and “narcotic opioid” pollution in the US.
+
+The use of pharmaceuticals is rising with increases in the human population and the livestock it keeps. Environmental exposure is also rising as sewage is increasingly used to irrigate or fertilise farmland. In the US, for example, about 4m tonnes of dry sewage biosolids are applied to land each year.
+
+Sally Gaw, at the University of Canterbury, and colleagues warned that even less is known about the effect of pharmaceutical pollution in the oceans. “This is a critical knowledge gap given the significant increase in coastal human populations around the globe and the growth of coastal megacities, together with the increasing importance of coastal [fisheries] around the world.” |||||Mr Agnew has led the party in Northern Ireland since 2011 and is an assembly member for North Down.
+
+Born in Dundonald in 1979, he studied philosophy at university, but said he was turned off by a "negative political landscape"  in Northern Ireland.
+
+He joined the Greens after meeting the then leader John Barry at a protest march against the Iraq invasion.
+
+Writing on his website, he said: "I was passionate about social justice but I did not see politicians in Northern Ireland representing my views."
+
+He unsuccessfully contested the  Northern Ireland Assembly election in 2007, in East Belfast, where he took 2.
+
+2% of the vote.
+
+However, it was a breakthrough election for the party in Northern Ireland with Brian Wilson taking its first assembly seat in North Down.
+
+Mr Agnew, who had previously worked with the homeless for five years, became Mr Wilson's research officer.
+
+In 2009, Mr Agnew stood unsuccessfully for the Green Party in the European election and, a year later, he contested his first general election, standing for North Down.
+
+He was elected as an MLA for North Down in May 2011 and his first motion in the assembly was on fracking.
+
+Recently, Mr Agnew tried to amend the controversial Welfare Reform Bill and joined with Sinn Féin and the SDLP in signing a petition of consent that meant the bill had to get cross-community support - ensuring it not go through.
+
+Mr Agnew once said in a newspaper interview that he sits in the "naughty corner" in the assembly - a reference to his position on the backbenches with parties such as the TUV and UKIP.
+
+A film buff, he has appeared in a movie called I Wanted to Talk to You Last Night, made by Belfast director Michael MacBroom, a personal friend.
+
+He has also appeared as a singer for a band called The Killing Spree.
+
+Mr  Agnew has been a member of Amnesty International and Friends of the Earth and is passionate about animal welfare issues.(
+
+CNN)Despite a shared passion for food, we come from very different backgrounds. To look at us, you might not think we have much in common; one of us is a veteran Marine from New Orleans, the other a tattooed New Yorker with Mexican roots. But together these different perspectives strengthen our shared work both as chefs and as advocates. That's why last summer, when we were offered a chance to join the international relief and development organization Oxfam on a trip to Haiti as part of its GROW campaign, we jumped at the opportunity. GROW is Oxfam's global campaign to shift how our food is grown, sold and distributed by promoting smarter investment in sustainable agriculture models that will ensure everyone has enough to eat now and in the future. Oxfam invited us to Haiti to meet some of the Haitian farmers and chefs who are planting seeds of hope in a country that has faced more obstacles than any community should rightly be expected to overcome. Oxfam hoped we could  learn about the inspiring work being done in Haiti and share our own experience with sustainable food systems. You don't often hear stories of hope from Haiti. In the rare moments when news from the country makes its way to the United States, it's almost always about crisis. The challenges Haiti faces were obvious when we visited one of the largest remaining camps for people who are still -- five years later -- displaced as a result of earthquakes that devastated the country in 2010. Extreme levels of poverty and hunger and a lack of economic opportunity are all ongoing and serious issues. But during our short visit, we saw a different Haiti. Almost everywhere we went, we met problem-solvers who were innovative, creative and full of hope. They are working to build a stronger Haiti that can prosper and thrive. Oxfam is working in Haiti to empower farmers with tools and sustainable models of production that will help them build thriving farms and businesses that feed their communities. It also advocates for changes to policies that make it more difficult for Haitian farmers to thrive. We saw the inspiration in the eyes of women farmers who were beginning to chart their own course for the first time, reaping the benefits from the System of Rice Intensification, a groundbreaking way to grow rice that improves the quality of harvests and yields more rice while using less water, fertilizer, and other expensive inputs. We felt the ingenuity of the lush urban gardens that seemed to have sprouted up from nowhere in places previously destroyed by the earthquake. We cooked jambalaya with produce bought from those gritty urban farmers, most of whom had lost spouses, siblings or parents in the earthquake. The gardens offer the prospect of a new way to earn a living -- growing fresh, healthy food for their community. We tasted the hope in the delicious meals we shared with young chefs who had just graduated from Haiti's Ecole Hoteliere -- their ambition and optimism the same as any chef you'd meet in New York or New Orleans or Paris. We cooked for them and ate the local dishes they prepared. Their food showcased a rich culinary tradition comparable to any food capital in the world. We danced and sang late into the night at the Carnaval des Fleurs until our ears rang and our throats were hoarse. The innovation, ingenuity and hope we saw can create the foundations of a Haiti known for its food, culture and beauty rather than its poverty.  This was the constant theme we heard throughout our trip. Together, Haitian people can lift themselves up and build a better future for their country. (Find out more at www.
+
+oxfamamerica.
+
+org/grow.)
+
+Spurs fans were hurt as they struggled to enter the Westfalenstadion before the last-16 game, with entrances temporarily closed.
+
+Dortmund police used pepper spray to try to control the Spurs fans.
+
+Uefa's disciplinary body has charged Dortmund with blocking stairways and will hear the case on 19 May.
+
+The congestion developed as supporters were redirected by police towards a different entrance into the stadium shortly before kick-off.
+
+Tottenham say this created "a potentially dangerous situation" and condemned the use of pepper spray as "unnecessary and unacceptable".
+
+Dortmund police said the late arrival of Spurs fans had created unexpected pressure on the entrances, which had to be temporarily closed.
+
+Martin Cloake, co-chairman of the Tottenham Hotspur Supporters' Trust, told the Press Association: "It's one of the worst experiences I've had to get into a ground."
+
+Spurs lost the game 3-0, with the second leg to be played at White Hart Lane on Thursday.

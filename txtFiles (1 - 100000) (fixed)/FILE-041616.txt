@@ -1,0 +1,377 @@
+It defines an extensible architecture based on the C#, exposing a declarative syntax to describe the dependencies between build-able modules.
+
+It defines an Indian as a person who belongs to an Indian Tribe, which in turn is a group that "is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians."
+
+It defines an interface between a camera and a host processor.
+
+It defines a script language that allows the creation of complex macros.
+
+It defines a serial bus and a communication protocol between the host (source of the image data) and the device (destination of the image data).
+
+It defines a set of Component Object Model coding contracts between hosting programs like Internet Explorer or Microsoft Office Binder and hosted documents from programs like Microsoft Word, Microsoft Excel and Adobe Reader.
+
+It defines a set of objects, ECMAScript standard compliant, that executing in the client application give the client's device location through the consulting of Location Information Servers, which are transparent for the application programming interface (API).
+
+It defines a simple roadmap for a core mission area, business service, or enterprise service.
+
+It defines a situation in which the existence or identity of a thing (or situation) depends on the co-existence of at least two conditions which are opposite to each other, yet dependent on each other and presupposing each other, within a field of tension.
+
+It defines a software categorization in the field of software engineering.
+
+It defines a standard interface between a Windows TCP/IP client application (such as an FTP client or a web browser) and the underlying TCP/IP protocol stack.
+
+It defines a standard storing raster (bit-mapped) image data, either uncompressed or compressed using CCITT Group 4 compression.
+
+It defines a "temporary inactive well status" as not having produced for two (non-horizontal wells) or eight (horizontal wells) statutorily defined reporting periods or one that has produced "less than 100,000 cubic feet of natural gas or 15 barrels of crude oil."
+
+It defines a video decoder and the associated bitstream syntax.
+
+It defines a virtual machine, known as Dis, that can be implemented on any real machine, provides Limbo, a type-safe language that is compiled to portable byte code, and, more significantly, it includes a virtual operating system that supplies the same interfaces whether Inferno runs natively on hardware or runs as a user program on top of another operating system.
+
+It defines a wireless communications protocol stack that enables hardware operating in the 2.
+
+4 GHz ISM band to communicate by establishing standard rules for co-existence, data representation, signaling, authentication, and error detection.
+
+It defines both JDF files and JMF, a job messaging format based on XML over HTTP.
+
+It defines "Braking devices of wheeled agricultural or forestry tractors".
+
+It defines "Certain components and characteristics of wheeled agricultural or forestry tractors".
+
+It defines certain international laws that strive to provide better protection for victims of internal armed conflicts that take place within the borders of a single country.
+
+It defines "Certain parts and characteristics of wheeled agricultural or forestry tractors".
+
+It defines culture and barbarism and how it is discussed in the light of the Islamic doctrine.
+
+It defines details of data that need to be exchanged between software applications in order to support different processes commonly applied at utilities.
+
+It defines "Direction indicator lamps for motor vehicles and their trailers".
+
+It defines "Driver-perceived noise level of wheeled agricultural or forestry tractors".
+
+It defines "Driver's seat on wheeled agricultural or forestry tractors".
+
+It defines for itself a fourfold mission to evangelize others, worship God, disciple believers, and show compassion.
+
+It defines foul play as "anything a player does within the playing enclosure that is against the letter and spirit of the Laws of the Game".
+
+It defines genocide in legal terms, and is the culmination of years of campaigning by lawyer Raphael Lemkin.
+
+It defines how locally executable scripts may be used in a web page.
+
+It defines how the network identifies the terminal for billing and security purposes.
+
+It defines humanitarian protections for prisoners of war.
+
+It defines incremental price premiums and penalties applied to sugar above 96 degrees polarization.
+
+It defines infrastructure common to most desktop applications, making Swing applications easier to create.
+
+It defines "Installation of lighting and light-signaling devices on wheeled agricultural and forestry tractors".
+
+It defines itself as an organized group of students striving to become a community of disciples of Jesus Christ by being evangelized and evangelizing.
+
+It defines itself as a "platform to defend freedom of expression and to resist censorship."
+
+It defines itself as moderate Islamist.
+
+It defines itself both as a classical liberal and libertarian party.
+
+It defines its goals as "Marxist, patriotic, and anti-imperialist."
+
+It defines many new concepts like remote pointcuts, which are similar to traditional remote method calls, since execution is performed on a remote host.
+
+It defines many standard fields (data elements) which remain the same in all systems or networks, and leaves a few additional fields for passing network-specific details.
+
+It defines Mauritius as a sovereign democratic State which shall be known as the Republic of Mauritius.
+
+It defines "Maximum design speed of and load platforms for wheeled agricultural or forestry tractors".
+
+It defines "Measures to be taken against the emission of pollutants from diesel engines for use in wheeled agricultural or forestry tractors".
+
+It defines mechanical properties for fasteners that range from M1.
+
+6 to 100 in diameter.
+
+It defines message structures to support the required data interchanges.
+
+It defines molecular determinants for subfamily-specific assembly of alpha-subunits into functional tetrameric channels.
+
+It defines "Mopeds-Measurement method for moment of inertia".
+
+It defines "motor vehicle headlamps which function as main-beam and/or dippedbeam headlamps and to incandescent electric filament lamps for such headlamps.".
+
+It defines numeric types and arithmetic functions for use with synthesis tools.
+
+It defines one "common electronic language" to be talked by the automation systems throughout the mine.
+
+It defines "Operating space, access to the driving position and the doors and windows of wheeled agricultural or forestry tractors".
+
+It defines passenger hand-holds on two-wheel motor vehicles.
+
+It defines project-specific activities, deliverables and timelines for a vendor providing services to the client.
+
+It defines protective devices intended to prevent the unauthorized use of two or three-wheel motor vehicles.
+
+It defines protocols and practices for OAM (Operations, Administration, and Maintenance) for paths through 802.
+
+1 bridges and local area networks (LANs).
+
+It defines "Rear-mounted roll over protection structures of narrow-track wheeled agricultural and forestry tractors".
+
+It defines "Rear-view mirrors for wheeled agricultural or forestry tractors".
+
+It defines "Retro-reflectors for motor vehicles and their trailers".
+
+It defines "Roll over protection structures mounted in front of the driver's seat on narrowtrack wheeled agricultural and forestry tractors".
+
+It defines "Roll-over protection structures of wheeled agricultural or forestry tractors (static testing)".
+
+It defines "Safety glazing and glazing materials on motor vehicles and their trailers".
+
+It defines situations with no information as black, and those with perfect information as white.
+
+It defines "Speed limitation devices or similar speed limitation on-board systems of certain categories of motor vehicles".
+
+It defines speedometers for two or three-wheel motor vehicles.
+
+It defines standard attachment points to be manufactured into cars, enabling compliant child safety seats to be quickly and safely secured.
+
+It defines statutory markings for two or three wheel motor vehicles.
+
+It defines "Steering equipment of wheeled agricultural or forestry tractors".
+
+It defines tags that control how written words, numbers, and sentences are audibly reproduced by a computer.
+
+It defines "the basis on which rest the rules of international law for the protection of the victims of armed conflicts."
+
+It defines the basis, structures and organization of government, the relationship between the different constitutional organs, and lays out the fundamental rights of Finnish citizens, and individuals in general.
+
+It defines the boundary within the basin between the Silurian and the Devonian periods.
+
+It defines the braking of two or three-wheel motor vehicles.
+
+It defines: the coded representation of the spatio-temporal positioning of audio-visual objects as well as their behavior in response to interaction (scene description); the coded representation of synthetic two-dimensional (2D) or three-dimensional (3D) objects that can be manifested audibly or visually; the Extensible MPEG-4 Textual (XMT) format - a textual representation of the multimedia content described in MPEG-4 using the Extensible Markup Language (XML); and a system level description of an application engine (format, delivery, lifecycle, and behavior of downloadable Java byte code applications).
+
+It defines the company's ethical strategies and describes the image of the company.
+
+It defines "the component type-approval of lighting and lightsignalling devices on wheeled agricultural or forestry tractors".
+
+It defines the conduct and responsibilities of belligerent nations, neutral nations, and individuals engaged in warfare, in relation to each other and to protected persons, usually meaning non-combatants.
+
+It defines the DNS protocol, a detailed specification of the data structures and data communication exchanges used in the DNS, as part of the Internet Protocol Suite.
+
+It defines the document structure with a list of legal elements and attributes.
+
+It defines the dogma of the Immaculate Conception of the Blessed Virgin Mary.
+
+It defines "The end-outline marker lamps ,front position (side) lamps,rear position (side) lamps and stop lamps for motor vehicles and their trailers".
+
+It defines the fundamental political principles, establishing the structure, procedures, powers and duties of the government, structure of the judiciary and legislature, and spells out the fundamental rights and duties of citizen.
+
+It defines "the installation, location, operation and identification of the controls of wheeled agricultural or forestry tractors".
+
+It defines the level 4 (or session layer in the OSI model) for X.
+
+25 communications, specifically call establishment and X.
+
+3 parameter negotiation.
+
+It defines the limit of solid solubility in an equilibrium diagram.
+
+It "defines the mapping of character codes to the glyph index values used in the font."
+
+It defines the obligations with which highly polluting industrial and agricultural activities must comply.
+
+It defines the physical and electrical interfaces of a two-wire data bus and a data protocol to support an aircraft's avionics local area network.
+
+It defines the policy and priority applied to a packet when traversing a hop (such as a router) in a DiffServ network.
+
+It defines the posterior pole during early embryogenesis.
+
+It defines the rules for accessing the distributed data, but it does not provide the actual application programming interfaces (APIs) to perform the access.
+
+It defines the security functional and assurance requirements for the construction and evaluation of separation kernels while yet providing some latitude in the choices available to developers.
+
+It defines the service interface that is implemented by the Common Management Information Protocol (CMIP) as specified in ITU-T Recommendation X.
+
+711, ISO/IEC International Standard 9596-1.
+
+It defines the set of generic atomic and compound functions and the set of rules how to combine them.
+
+It defines the southwestern extension of the bay Rekvedbukta, at the southeast side of the island.
+
+It defines the stakeholders view of the product/service to be developed, specified in terms of the stakeholders key needs and features.
+
+It defines the stands for two-wheel motor vehicles.
+
+It defines the start of the Northgrippian age in the Holocene epoch.
+
+It defines the type approval of motor vehicles and their trailers.
+
+It defines the type approval of two or three-wheel motor vehicles.
+
+It defines the type of properties each can have, how they can be organized into cells containing patterns made by these shapes and defines how each can be placed relative to each other.
+
+It defines the western side of the outer part of Woodfjorden, and the northern side of the outer part of Liefdefjorden.
+
+It defines thirty characteristics required of a UHID.
+
+It defines threshold where ship's crew should be able to return to port without requiring passengers to evacuate.
+
+It defines treasure specifically as "anything of any value hidden in the soil" and worth as little as 10 rupees (16 cents; 10 pence).
+
+It defines two coordination types: Atomic Transaction (AT) for individual operations, and Business Activity (BA) for long running transactions.
+
+It defines various interactions between window managers, utilities, and applications, all part of an entire desktop environment.
+
+It defines ways to describe most of the common 3D features and objects found in cities (such as buildings, roads, rivers, bridges, vegetation and city furniture) and the relationships between them.
+
+It defines what is a forest offense, what are the acts prohibited inside a Reserved Forest, and penalties leviable on violation of the provisions of the Act.
+
+It defines who is, and who is not recognized as an "Indian".
+
+It definitively places him in Richard the Lionhearted's reign.
+
+It defrauded many shareholders leading to the arrest and incarceration of several executives, and the closing of the firm in 1996.
+
+It degrades fatty acids and benzoate in syntrophic association with hydrogen-using microorganisms.
+
+It degrades in the presence of water and alkali, and produces toxic chloride fumes if exposed to acids or acidic fumes.
+
+It degrades water quality to the point it passes acceptable drink water and irrigation standards.
+
+It delegates some permitting, monitoring, and enforcement responsibility to U.
+
+S. states and the federally recognized tribes.
+
+It deliberately enhances space charge forces by operating at low energies but relatively high currents.
+
+It delimits Onslow Bay to the west from Raleigh Bay to the east.
+
+It delineates the basic function of that state's government.
+
+It delineates the boundary within which a home owner can have a reasonable expectation of privacy and where "intimate home activities" take place.
+
+It delivered a blend of mainstream search results plus a layer of more relevant search results influenced by the Black community.
+
+It delivered a new classical explanation of the Phillips curve relationship between unemployment and inflation.
+
+It delivered its last ship in 1979.
+
+It delivered its report in 1963 and was dissolved in 1967.
+
+It delivered moderate commercial success and aided in Suicidal's transition from a punk metal band to a thrash metal one.
+
+It delivered products to customers' homes within a 30-minute window of their choosing.
+
+It delivers about 70 new ships in a year by Hyundai Mipo Dockyard.
+
+It delivers a deep sound when is beaten against the soil.
+
+It delivers a global Cloud Telephony Platform which provides end to end telephony services embedded and managed within the Salesforce Platform.
+
+It delivers a markedly trimmed down, pop-oriented, and somewhat cynical direction for the band following the perniciously optimistic and progressively influenced previous album, Ra.
+
+It delivers an artistic program of performances, workshops, commissions and education projects across Australia and abroad.
+
+It delivers an electric shock aimed at temporarily disrupting muscle functions and/or inflicting pain without causing significant injury.
+
+It delivers an international, biennial festival and organizes other events to promote disability and deaf arts from a variety of cultural perspectives.
+
+It delivers an unconventional story, written by Borden Chase, that sometimes crosses into film noir, as a colorful cast of supporting characters help or hinder the protagonist during the unfolding of its central mystery.
+
+It delivers a range of government payments and services for retirees, the unemployed, families, carers, parents, people with disabilities, Indigenous Australians, students aged 16-24, apprentices and people from diverse cultural and linguistic backgrounds, and provides services at times of major change.
+
+It delivers a wide range of undergraduate and postgraduate degrees, part-time courses for professionals, and tailor-made programs for commercial organizations.
+
+It delivers Canada's participation in multinational efforts to control driftnetting and other forms of illegal, unregulated and unreported fishing in the North Pacific Ocean.
+
+It delivers cargo around northern Africa and Europe to as far north as Oulu, Finland.
+
+It delivers community programs and advisory services to its members.
+
+It delivers courses in Kingdom theology at undergraduate and postgraduate levels.
+
+It delivers cytosolic peptides into the endoplasmic reticulum (ER), where they bind to nascent MHC class I molecules.
+
+It delivers degrees in finance, audit, marketing, wealth management, public management and tourism management.
+
+It delivers double-degrees, in collaboration with foreign universities, in law, engineering, aeronautics, energy engineering, architecture, business management and political sciences.
+
+It delivers educational programming to over 44 million homes nationwide, and reaches over 40% of US households.
+
+It delivers education through eight colleges based at several campuses in Sydney, Brisbane and Melbourne, as well as through online study.
+
+It delivers environmental information worldwide to the United States Air Force (USAF), the Army, Unified Combatant Commands, the Intelligence Community, and the Department of Defense.
+
+It delivers individualized education programs to students in Years 7 to 12 whose special circumstances prevent them from attending regular schooling.
+
+It delivers less-oxygenated blood to the right atrium, as do the superior and inferior vena cavae.
+
+It delivers medical care on behalf of the Government of Prince Edward Island's Department of Health and Wellness and is governed by a board of directors appointed by the Minister of Health and Wellness.
+
+It delivers music news, music videos, spotlights on new music, artist information, and live performances of artists.
+
+It delivers nearly all its services through electronic systems and the internet.
+
+It delivers news and sport from the borough of Solihull and south Birmingham.
+
+It delivers online, classroom, and blended online/classroom programs.
+
+It delivers products by mail, including electric toothbrush replacement heads and toothpaste on a subscription basis every three months.
+
+It delivers programming intended to heighten cultural awareness and to spread information that is relevant to its target communities, and to offer listeners a wide variety of shows that demonstrate the station's commitment to provide a distinctive alternative to commercial and mainstream BBC output.
+
+It delivers Quabbin water to Wilbraham, South Hadley fire district #1, and Chicopee.
+
+It delivers razor blades on a monthly basis and offers additional grooming products for home delivery.
+
+It delivers risk management services to individuals, companies and organizations for the protection of assets, personnel and know-how.
+
+It delivers services and software for sending and receiving global SMS (Short message service) and MMS messages.
+
+It delivers services at national level and local level through a network of regional offices throughout England and Wales.
+
+It delivers steroids over a 30-day period prior to dissolving, and has been shown to improve outcomes of surgery.
+
+It delivers support services to patients and carers, provides educational resources and funds research into the development of Huntington's disease treatments.
+
+It delivers the British Columbia Ministry of Education curriculum from Junior-Kindergarten to Grade 12.
+
+It delivers undergraduate and postgraduate degrees in the areas of fashion, textiles, communication design, industrial design, accessory design, and design for play (design for play is offered only as an MA program).
+
+It delivers video and audio on request to users over a computer network, including the Internet.
+
+It delved into the backstories of several prominent characters on the show, and was purportedly written by town witch Tabitha Lenox.
+
+It delves into European style melodic prog/power metal with keyboards.
+
+It delves into the backstory of Bobby, and also features a major turning point in Dean's search for self-worth.
+
+It delves into the controversial Wolf reintroduction in Yellowstone issue, as well as environmentalism and conservationism in general from a Christian perspective.
+
+It delves into the found footage genre which is generally a subgenre in horror where the lines between reel and real become difficult to distinguish.
+
+It delves into the lives of domestic house helps in a fictional Taifa Estate (Loresho Ridge) and their everyday drama as it revolves around the families they work for and activities within the neighborhood.
+
+It delves into the personal genetic history of Siddhartha Mukherjee's family, including mental illness.
+
+It delves into the relationship between a democratically elected government, the military and big business.
+
+It demanded all individuals engaged in armed actions against authorities in these states immediately disarm and all differences had to be resolved through dialog.
+
+It demanded a tribute of a virgin once a year.
+
+It demanded full equality between men and women.
+
+It demanded India to boycott 2013 CHOGM summit in Sri Lanka.
+
+It demanded its immediate implementation and welcomed the visit of the United States Secretary of State Colin Powell to the region and efforts by envoys from Russia, the United States, European Union and United Nations Special Coordinator to bring about a durable resolution to the conflict in the Middle East.
+
+It demanded more radical reforms of the government of Northern Ireland than the Northern Ireland Civil Rights Association it came from.
+
+It demanded Somali parties fulfill their obligations to the agreements they signed and ensure the safety of United Nations personnel and those of international organizations, as well as requesting the Secretary-General to enforce from inside Somalia the arms embargo imposed in Resolution 733 alongside Member States.
+
+It demanded that all Member States should: (a) prevent the import of all products and commodities from Yugoslavia or any activities by their nationals to promote such exports; (b) prevent the sale of all products and commodities to Yugoslavia, except for humanitarian need; (c) not make available any commercial, industrial, or public utility, funds or financial resources to Yugoslavia; (d) deny permission to aircraft to take off from, land or overfly their territory if it is destined to land or has arrived from Yugoslavia, except on humanitarian grounds; (e) prohibit the maintenance servicing or engineering of aircraft in or operated by Yugoslavia; (f) reduce the level of diplomatic and consular staff in Yugoslavia; (g) limit participation in sporting events in the country; (h) suspend scientific, technical and cultural exchanges and visits.

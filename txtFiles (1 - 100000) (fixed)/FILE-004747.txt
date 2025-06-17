@@ -1,0 +1,115 @@
+In tuning, sharp can also mean "slightly higher in pitch". If the same note is played on two instruments, and one is slightly higher, it is too sharp compared to the other.
+
+In Unicode, the sharp symbol (♯) is at code point U+266F. Its HTML entity is &#9839;. The double sharp symbol () is at U+1D12A. Some fonts do not show these symbols.
+
+Theoretical keyIn music theory, theoretical keys or impossible keys are keys with key signatures that contain one or more double-flats or double-sharps.
+
+Double-flats and double-sharps are used in music as accidentals, but they are rarely placed in the key signature (in music that uses equal temperament), because it would make reading the key signature very difficult.
+
+For example, the key of G major is rarely used to write music down, because its key signature has an F. An equal-tempered scale of G major has exactly the same notes as the A major scale. Key pairs like this are called enharmonically equivalent. So the theoretical key of G major is usually written with the key signature of A major.
+
+A piece of Western music usually has a home key, and a passage within it may modulate to another key, which is usually closely related to the home key. (Usually, close to the original around the circle of fifths.) When the key is near the top of the circle (a key signature of zero or few accidentals), the writing of both keys is easy- a small number of extra sharps or flats is added. But if the home key is near the bottom of the circle (a key signature with many accidentals), enharmonic equivalence may need to be used because simply adding accidentals will result in a key with too many accidentals to be easy to play or write in.
+
+In each of the bottom three places on the circle of fifths the two enharmonic equivalents "can" both be written without double-sharps or double-flats and so do not classify as 'theoretical keys':But when a relative key is on the opposite side of the circle from its home key, then in theory modulating to that key would involve adding so many sharps or flats that double-sharps and double-flats would have to be written in the key signature. The following keys (six of them are the parallel major/minor keys of those above) would require up to seven double-sharps or double-flats:For example, if a piece in E major were to modulate up a fifth to B major, which is next to it on the circle and on the same side of the circle, the notation is clear and simple; an extra sharp is added to make five sharps. If it was modulated again, it would become F major, written with six sharps. The next modulation, to C has seven sharps. But the next modulation would be to a theoretical key of G which would need an eighth sharp- for the previous F note to become F in the key signature. To avoid theoretical keys, the new section would usually be written in the enharmonically equivalent key signature of A major.
+
+President of ChileThe President of Chile is the chief of state and the head of government in the country. Under the current Constitution (adopted in 1980), the President is elected by popular (by many people) vote, for a period of four years. Immediate re-election is not permitted. The period (previously it was of six years) allows the elections of Presidents to be adjusted in time.
+
+The President has a seat in the Palacio de La Moneda (La Moneda Palace), in the capital of Chile, Santiago.
+
+The current president of Chile is Gabriel Boric.
+
+There are three living former Chilean presidents:The most recent death of a former President, was Sebastián Piñera on February 6, 2024, who served in the office from 2010 until 2014 and again from 2018 to 2022.
+
+Japanese Regional LeaguesJapanese Regional Leagues is a football league which is fourth division in Japan.
+
+Süper LigSüper Lig is a football league which is top division in Turkey.
+
+K League 1The K League 1, known as the K League Classic until 2017, is a football league which is the top division in South Korea. It is part of the K League.
+
+Swiss Super LeagueSwiss Super League is a football league which is top division in Switzerland.
+
+The teams competing in the 2022-23 season areBelgian First Division AThe Belgian First Division A (in the past known as the Belgian First Division and Belgian Pro League, and as the Jupiler Pro League for sponsorship reasons) is a men's football league which is the top division in Belgium.
+
+New Zealand men's national football teamThe New Zealand national football team is the national football team of New Zealand. They are commonly known as the All Whites. In New Zealand, football is often called soccer in spoken English.
+
+In the 2010 FIFA world cup, the All whites played in group F, along with Italy, Paraguay and Slovakia.
+
+The All Whites played Slovakia to start off with and drew 1-1. The All Whites then played Italy, and surprisingly also drew 1-1, taking all of New Zealand by surprise. NZ then played Paraguay as the deciding match, in this game, Paraguay and New Zealand drew 0-0. This is the first world cup where New Zealand has scored a goal and the first world cup where NZ is undefeated.
+
+The All whites have so much help by the fans, Ricki Herbert and Neil Emblen so I would like to celebrate them for all they have done and support.
+
+Aron NimzowitschAron Nimzowitsch (7 November 1886 – 16 March 1935) was a Jewish Latvian-born Danish chess grandmaster, and a very influential chess writer. He was the foremost figure amongst the "hypermoderns".
+
+He wrote an important text on chess strategy called "My system: a chess treatise", which is still highly regarded. It is a foundation of modern positional chess, and has been read by most chess masters since then. In it he reacted against the more classical views of Siegbert Tarrasch. Later he wrote "Chess praxis" (1929), a collection of his games showing his ideas in practice.
+
+Nimzowitsch was the subject of a chess biography by English grandmaster Ray Keene, which was translated into Russian in 1986.
+
+Yoji MizuguchiYoji Mizuguchi (born 20 July 1944) is a former Japanese football player and manager. He has played for Yanmar Diesel.
+
+Dale's Supermarket SweepDale's Supermarket Sweep (also Supermarket Sweep) is a UK game show based on the American Supermarket Sweep TV show format. Originally hosted by Dale Winton, it ran for exactly between 1993 & 2001 and then revived 12 February and 31 August 2007 on ITV and then it hosted on ITV2 with Rylan Clark-Neal this time as host since 2019. Between 1993 & 2001 it was filmed at Central's Lenton Lane studios. As of 2007 it is filmed at Maidstone Studios.
+
+The Sims Bustin' OutThe Sims Bustin' Out is a 2003 life simulation game released for the PlayStation 2, Xbox, Nintendo GameCube, Game Boy Advance, and N-Gage. It is part of "The Sims" game series. It is the second "Sims" game to be released on a console.
+
+GoliathGoliath () was a Philistine warrior in the Old Testament. He was the champion of the warriors of town of Gath. The name refers to Greek name Alyattes.
+
+Goliath was unusually large. His height was said to be "six cubits and a span" - some 290 cm - and he fought as armoured charioteer. The Bible describes how he challenged the Israelite warriors for single-handed duel, but nobody dared to fight with him.
+
+David, who was fourteen years old at this time, finally answered to challenge. He was skilled on use of sling, and he found out a way how he could win him. He accurately slung a stone on Goliath's forehead, just below his helmet. The stone knocked Goliath out. He fell to the ground. David then ran to unconscious Goliath, pulled his sword off the scabbard, and cut his head off. Seeing a fourteen-year-old boy killing their champion, the Philistine army demoralized.
+
+The Dead Sea Scrolls say Goliath's height was a more credible "four cubits and a span", in modern measurements 202 cm. At the era when man's average height was some 160 cm, he would still have looked like a giant.
+
+SukoróSukoró is a holiday resort in Hungary on the north coast of Lake Velencei and at the south base of Velencei Hills. The victory at Pákozd-Sukoró in the Hungarian Revolution of 1848 established the reputation of the village. The war council before the battle was held in the protected Calvinist Church of Sukoró.
+
+Cyprus (island)Cyprus is a Mediterranean island off the coasts of Syria and Turkey. It is the third-largest island in the Mediterranean Sea; Sicily and Sardinia are larger. It is slightly larger than Puerto Rico. Geographically, it is part of Asia and in the Middle East, but for political reasons, it is sometimes counted as being part of Europe. Cyprus was part of the Byzantine Empire for hundreds of years. The Greek god Aphrodite was from Cyprus. There are two states on the island:These states are separated by a buffer zone, which is controlled by the United Nations. In addition to the two countries, there are Akrotiri and Dhekelia, two territories on the south zone which are under British control, and which are used as military bases.
+
+The island has been Greek for thousands of years of recorded history, many empires have ruled Cyprus. They include Assyria, ancient Egypt Persia, Alexander the Great, the Roman Empire, the Byzantines, Arab caliphates for a short period, France, the Republic of Venice and the Ottoman Empire. Cyprus is often described as an 'unsinkable aircraft carrier' due to its strategic position in the Eastern Mediterranean.
+
+KápolnásnyékKápolnásnyék is a village in Fejér county, Hungary.
+
+The excavations in the surroundings revealed Bronze-Age artefacts, proving that the area was already populated in ancient times.
+
+The name of the settlement originates from the name of the Nyék tribe (coming to Hungary during the settlement of Hungarian tribes). The first residents probably belonged to a subgroup of the tribe. When István I. defeated Koppány, Nyék became a land of the queen. The name of the settlement is mentioned first in 1193 as Neck. Later the names Kápolnás Nyék, Káposztás Nyék, and Fertőfő Nyék are used to mention this rather insignificant place located between Buda and Fehérvár, which is south of the commercial route. As a border village Kápolnásnyék suffered from double taxation during the Turkish occupation (both Hungary and the Turkish Empire collected taxes). Therefore the population of the village decreased considerably and it even became uninhabited during the Turkish campaign of 1543. People returned to the village in 1772.
+
+During the 19 century Upper and Lower Nyék were differentiated, even after 1861, when the Southem Railway was built. It is mentioned as an independent village first in 1871, to which Pettend was attached in 1898. Mihály Vörösmarty was born here.
+
+The present appearance of the village was formed in the 1930s, when it became a commercial and service background for the booming tourism of Lake Velencei. The phone system, the gendarme patrol, local medical care, the railway station and the mill were established in this period. The settlement was damaged in World War II, when the majority of the population also died. The village was also behind in development, compared to other settlements of the region and it became a part of Velence by the 1970s. Kápolnásnyék declared its independence in 1990 and has gone though considerable development since then. It once again became the background for the tourism of Lake Velencei, where commercial service facilities are established and the infrastructure is developing rapidly.
+
+AreopagiticaAreopagitica is a book written by English poet John Milton in 1644. He wrote it to protest against censorship. Its full title is "Areopagitica: A speech of Mr. John Milton for the liberty of unlicensed printing to the Parliament of England". Today, his book is called a tract. In the tract, Milton tries to defend the freedom of expression. Today, many people see it as one of the best defenses of the freedom of press ever written.
+
+The tract is named after a speech by Isocrates, a Greek orator of the 5th century. The Areopagus is a hill in Athens, where many councils and tribunals were held. Isocrates wanted to restore one of these tribunals when he wrote the speech. In the speech,Milton argued that the Licensing Order of 1643 should be abolished; censorship had not been part of Greek or Roman societies. Milton uses many passages from the Bible to strengthen his argument. Milton had been censored himself when he tried to publish tracts which were in favor of allowing people to get divorced.
+
+In "Areopagitica", Milton argues that the status that was there before had worked best: By this law, all publications needed an authors name or that of a publisher. According to Milton, it is easy to find the authors or the publishers with this system. So if anything libelous is published, the books can still be destroyed after the fact.
+
+DefamationDefamation is saying or writing something about another person that hurts their reputation. Usually, when people use the word "defamation", it means that the statement is not true. In this case, it is against the law. A statement that is defamation is called "defamatory".
+
+In order to be defamatory, a statement has to claim to be a fact instead of an opinion. For example, saying, "Mr. Jones is mean" cannot be defamatory, because it is someone's opinion. However, if someone says, "Mr. Jones steals candy from children", then the statement is defamatory "if" it is not true, because it would be a fact, not an opinion.
+
+If a defamatory statement is written, such as in a book or in a newspaper, it is called libel. If it is spoken out loud, it is called slander. Somebody who is the victim of defamation can sue the person who wrote or said it.
+
+Defamation is a tool of bullying.
+
+Defamation laws are not the same in every country. In most countries it is a civil wrong or tort. In some it is a crime. In many countries the burden of proof is on the person claiming that somebody is defaming them. This means they have to prove that the thing that was said about them is false. However, in England, it is the other way around. If somebody claims that a statement is defamation, the person who made the statement has to prove the statement is true.
+
+Seikima-IISeikima-II (read as "seikimatsu", which means "The End of the Century") is a Japanese heavy metal band formed by Damian Hamada in 1982.
+
+Their music could be described as similar to the music of other heavy metal bands like Iron Maiden and Judas Priest.
+
+Northern United StatesThe Northern United States, commonly referred to as the American North or simply the North, can be a geographic or historical term and definition.
+
+Geographically, the term includes the U.
+
+S. states and regions of the United States of America that are located across the northernmost part of the country. It includes, but is not limited to, states along the Canada–United States border.
+
+The United States Census Bureau divides some of the northernmost United States into the Midwest Region and the Northeast Region. The Census Bureau also includes the northernmost states of the Northwestern United States, that are, within the West Region.
+
+Before 19th century westward expansion, the "Northern United States" was considered the present day New England region. By the 1830s it corresponded to the present day Northeastern United StatesDuring the American Civil War, the Northern United States meant the ones that remained in the United States of America, called the Union states. In this context, "The North" is the Union and "The South" is the states that seceded from the U.
+
+S. to form the Confederate States of America. However, some slave-holding states that remained in the Union may be counted on either side.
+
+RadicalRadical, from Late Latin "radicalis" "of roots" and from Latin "radix" "root", may refer to:Extremism, political standpoints that are perceived as revolutionary or extremeRachel CarsonRachel Louise Carson (born May 27, 1907 – died April 14, 1964) was an American marine biologist and nature writer. Carson worked for 15 years as a biologist, scientist and editor in the U.
+
+S. Bureau of Fisheries and then the United States Fish and Wildlife Service. Her books were very important in helping the environmental movement grow. She was famous for writing "Silent Spring". She also wrote a set of three books about the ocean and what lives in and around it."
+
+Silent Spring" caught the attention of many Americans. Before this not many worried about environmental problems and conservation. The book looked at problems with DDT and other pesticides (chemicals that kill pests, like mosquitoes and flies). It was thought these pesticides were safe, but they were actually causing many birds to die. DDT stayed in insects and fish which were eaten by birds. The birds then laid eggs with thin shells that would break. Some birds, like the Bald Eagle almost disappeared from the United States. In her book Carson said that without changes in how we use pesticides, there may not be birds left at some time in the future. Instead of hearing birds sing in the spring, it would be quiet, and that is how the book got its title.
+
+This book led to a change in the national pesticide policy and a ban on DDT and some other pesticides. This new grassroots environmental movement, inspired by the book, led to the creation of the Environmental Protection Agency. After her death, Carson was awarded the Presidential Medal of Freedom by Jimmy Carter. There is a National Wildlife Refuge in Maine named after her.

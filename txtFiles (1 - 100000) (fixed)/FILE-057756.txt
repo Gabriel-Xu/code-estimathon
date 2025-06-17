@@ -1,0 +1,403 @@
+RDF functionality in OpenLink Virtuoso was developed entirely through SQL/PSM, combined with custom datatypes (e.
+
+g., ANY for handling URI and Literal relation objects), sophisticated indexing, and flexible physical storage choices (column-wise or row-wise).
+
+RDF is a local form of process variation, meaning that two neighboring transistors may have significantly different dopant concentrations.
+
+RDF is widely used as a radio navigation system, especially with boats and aircraft.
+
+RDFLib is a Python library for working with RDF, a simple yet powerful language for representing information.
+
+RDFRA was founded in 1992 and is responsible for representing and furthering the interests of active service members of the Irish Reserve Defense Forces, which is made up of the Army Reserve (AR) and Naval Service Reserve (NSR).
+
+RDF systems can be used with any radio source, although the size of the receiver antennas are a function of the wavelength of the signal; very long wavelengths (low frequencies) require very large antennas, and are generally used only on ground-based systems.
+
+RDF systems can be used with any radio source, although very long wavelengths (low frequencies) require very large antennas, and are generally used only on ground-based systems.
+
+RDF was adopted as a W3C recommendation in 1999.
+
+RDF was important in combating German threats during both the World War II Battle of Britain and the long running Battle of the Atlantic.
+
+RDGLDGRN (pronounced Red Gold Green) is an American band based out of Reston, Virginia, a suburb of Washington, D.
+
+C..
+
+RDGLDGRN released their debut self-titled full-length album in September 2013.
+
+R Dhanarajan is an Indian football player hailing from Palghat, Kerala and currently plays for East Bengal F.
+
+C. as a defender.
+
+RD has won three Religion Newswriters Association (RNA) awards for Excellence in Religion Commentary and Analysis, a Wilbur Award for outstanding work by secular communicators on religion, and a Science for Religion Writers award from the American Association for the Advancement of Science (AAAS).
+
+RDI (born 16 December 1932) is an English cartoonist, illustrator and children's writer.
+
+RDI has diverse research affiliations, and multiple community and government linkages related to its rural development mandate.
+
+RDI is located in Brandon, Manitoba, Canada.
+
+RD included handling aircraft at other stations around southern Ontario and assisting with aircraft being serviced or modified at other locations such as Avro where aircraft were modified for postwar use.
+
+R&D intensity varies, in general, according to a firm's industry sector, product knowledge, manufacturing, and technology, and is a metric that can be used to gage the level of a company's investment to spur innovation in and through basic and applied research.
+
+R&D investment is increasing, but the GCC is only beginning to build an important R&D base.
+
+Rdio also offered social networking features, such as the ability to share songs, albums, and playlists with others on Rdio and social networks such as Facebook and Twitter.
+
+Rdio's library had content from the four major record labels, as well as the Merlin Network and the aggregators BFM Digital, Catapult, CD Baby, Finetunes, INgrooves, and The Orchard.
+
+Rdio was an online music streaming service that offered ad-supported free streaming and ad-free subscription streaming services in 85 countries.
+
+RDI REIT plc is a property investment business.
+
+RDI's aggressive marketing strategy received national attention after it was revealed that the company targeted the elderly with deceptive practices, including repeated solicitations and using misleading letterhead and language.
+
+RD is a traditional format.
+
+RDI Video Systems claimed that the system would be entirely voice-activated, and would have an artificial intelligence on par with HAL 9000 from 2001: A Space Odyssey.
+
+RDI Video Systems was a video game company founded by Rick Dyer originally as "Advanced Microcomputer Systems", and was well known for its Laserdisc video games, beginning with the immensely popular Dragon's Lair.
+
+R Diwakaran is an Indian Cinematographer,Director who primarily works in Tamil, Malayalam and Telugu Film Industry.
+
+RdlD RNA (regulator detected in LDR-D) is a family of small non-coding RNAs which repress the protein LdrD in a type I toxin-antitoxin system.
+
+RDL is an XML application primarily used with Microsoft SQL Server Reporting Services.
+
+RDL is usually written using Visual Studio, although there are also third-party tools; it may also be created or edited by hand in a text editor.
+
+RDL was incorporated in 1989.
+
+RDMA is only possible with network adapters that support RDMA in hardware.
+
+RDMA is provided by either the Transmission Control Protocol (TCP) with RDMA services (iWARP) that uses existing Ethernet setup and therefore no need of huge hardware investment, RoCE (RDMA over Converged Ethernet) that does not need the TCP layer and therefore provides lower latency, or InfiniBand.
+
+R&D management is the discipline of designing and leading R&D processes, managing R&D organizations, and ensuring smooth transfer of new know-how and technology to other groups or departments involved in innovation.
+
+RDMA over Converged Ethernet (RoCE) is a network protocol that allows remote direct memory access (RDMA) over an Ethernet network.
+
+RD Mathur (full name and details unknown) was an Indian cricket player who played for Gwalior.
+
+R D Memorial High School (RDMHS) is a high school located in the suburb of Naigaon, Mumbai, India.
+
+RDM has been designed to utilize multi-core computers, networking (local or wide area), and on-disk or in-memory storage management.
+
+RDM has support for both non-SQL (record and cursor level database access) and SQL database design and manipulation capabilities.
+
+RDMHS offers kindergarten to high school education.
+
+RDM is a form of software development classified as iterative and incremental development.
+
+RDM is highly portable and is available on Windows, Linux, Unix and several real-time or embedded operating systems.
+
+RDM Server implements multi-user locking, hot database backup, and a fully ACID-compliant transaction logging system with automatic crash recovery.
+
+RDM Server is an embeddable, heterogeneous, client/server database management system supporting both C/C++ and SQL APIs for programming flexibility.
+
+R-DNA technology uses palindromic sequences and leads to the production of sticky and blunt ends.
+
+RDNS merged with RSL Care in 2015, and in 2017 the organization adopted its current name to honor two pioneers of Australian healthcare, William Kinsey Bolton and Janet Clarke.
+
+RDNS (Royal District Nursing Service of South Australia) was established in 1894.
+
+RDNS SA (Royal District Nursing Service South Australia) is a not-for-profit community health and care provider in Adelaide, Australia.
+
+RDoc also provides the engine for creating Ruby ri data files, providing access to API information from the command line.
+
+RDoc and ri are currently maintained by Eric Hodel and Ryan Davis.
+
+RDoc can produce usable documentation even if the target source code does not contain explicit comments as it will still parse the classes, modules, and methods, and list them in the generated API files.
+
+RDoc, designed by Dave Thomas, is an embedded documentation generator for the Ruby programming language.
+
+RDoc is included as part of the Ruby core distribution.
+
+R. dominica are usually reddish brown to dark brown in coloration, vary in sizes, elongated and cylindrical when viewing through a cross-section.
+
+R. Don Cook is the organ area coordinator and the university carillonneur at Brigham Young University (BYU).
+
+R. Doraikkannu (born 28 March 1948) is an Indian politician and incumbent member of the Tamil Nadu Legislative Assembly from the Papanasam constituency.
+
+R. Doraisamy, also known as Challenger Dorai, is an Indian politician and was a member of the 14th Tamil Nadu Legislative Assembly from the Coimbatore South constituency.
+
+RDO stands for "RPM Distribution of OpenStack".
+
+R. Doug Lewis has served as Executive Director of the Election Center since 1994.
+
+R. Dovid Shlomo Novoseller acted as Av Beth Din of Felshtin from 1917 to 1928.
+
+RDP also worked for Indian independence.
+
+R.
+
+D. Parker Collegiate offers courses in mathematics (divided into Consumer Math, Applied Math, and Precalculus), English, Science (Biology, Chemistry, and Physics), Social Studies and a number of optional courses typical of Canadian high schools.
+
+R.
+
+D. Parker Collegiate was named after the [at the time] Vice President of Inco, Ralph D. Parker, also located in Thompson.
+
+RD Patel (dates unknown) played cricket for Tanganyika/Tanzania between 1957 and 1968, and also played three first-class matches in the 1960s.
+
+RDP evolved out of the League of Radical Congressmen, which had been founded in 1939 by former Communist International leader M.
+
+N. Roy.
+
+RDP servers are built into Windows operating systems; an RDP server for Unix and OS X also exists.
+
+RDP was against the industrial strike that took place at the time.
+
+RDP was dissolved in 1948, to give place to the Radical Humanist movement.
+
+R.
+
+D. Raja is an Indian film producer, creative producer, lyricist and movie promotion consultant who primarily works in the Tamil film Industry also known for his films produced in Tamil cinema through his production company, 24AM Studios.
+
+R. D. Rajpal School is a located in the heart of Dwarka, India.
+
+RDRAND is available in Ivy Bridge processors and is part of the Intel 64 and IA-32 instruction set architectures.
+
+RDRAND (previously known as Bull Mountain) is an instruction for returning random numbers from an Intel on-chip hardware random number generator which has been seeded by an on-chip entropy source.
+
+R&D received around C$11m per year in funding from the Canadian government.
+
+R. D. R. Hill was a West Indian cricket umpire.
+
+R. D. Robb (born March 31, 1972) is an American actor who appeared as Schwartz in the 1983 film A Christmas Story.
+
+RD (Ruby Document) is a lightweight markup language for writing Ruby-related documents.
+
+RDS-127 is a drug which is used in scientific research.
+
+RDS-2 was a plutonium only device with an estimated yield of 38 kt.
+
+RDS-2 was first secretly tested on September 24, 1951 at a soviet test site in Kazakhstan.
+
+RDS-3T was a modernized version of the RDS-3.
+
+RDS-3 was the third atomic bomb developed by the Soviet Union in 1951, after the famous RDS-1 and RDS-2.
+
+RDS Arena is a multi-purpose sports stadium, owned by the Royal Dublin Society (RDS) and located in the Dublin suburb of Ballsbridge, Ireland.
+
+RDS carries games in the French language from all timeslots.
+
+R.
+
+D. Schelleng obtained a patent for the production of Compacted graphite iron in 1965.
+
+RDSEED is similar to RDRAND and provides higher level access to the entropy hardware.
+
+R.
+
+D. Singh (Ripudaman Singh Aulakh) (born 7 June 1954) is an Indian athletics coach from Hanumangarh, Rajasthan.
+
+RDS is an ISO 9001:2008 Certified Institute.
+
+RDS is based on CCR (Concurrency and Coordination Runtime): a .
+
+NET-based concurrent library implementation for managing asynchronous parallel tasks.
+
+RDS is Microsoft's implementation of thin client, where Windows software, and the entire desktop of the computer running RDS, are made accessible to a remote client machine that supports Remote Desktop Protocol (RDP).
+
+R&D Sport is a Japanese racing team currently competing in the Super GT series.
+
+RDT is now included as part of the Helix Community project.
+
+RDTs are suitable for preliminary or emergency medical screening and for use in medical facilities with limited resources.
+
+RDU 98.
+
+5FM is a student radio station operating from the University of Canterbury in New Zealand.
+
+RDU began in 1976 on 1413kHz which is now occupied by Radio Ferrymead.
+
+RDU helps determine the inmate's custody level, mental health classification, and educational program needs before he is sent to another facility.
+
+R. dulitensis from Borneo and Sumatra is probably another close relative.
+
+RDV 01 Crystal was a research vessel of the Royal Navy.
+
+RDV Sports, Inc. is a Michigan corporation set up by Richard DeVos to purchase the NBA franchise, the Orlando Magic.
+
+R&D was charged with working with individuals, organizations and governments in Canada and abroad to promote the human and democratic rights defined in the United Nations' Universal Declaration of Human Rights (1948).
+
+RD was recognized by the speaker as a Legislative Council group.
+
+RDX is a military grade explosive which had been used in several terrorist attacks on Indian targets, including the Ayodhya train bombing in June 2000.
+
+RDX is stable in storage and is considered one of the most energetic and brisant of the military high explosives.
+
+R. Dyke (first name and dates unknown) was an English first-class cricketer for Epsom who was active in the 1810s and is recorded in one match in 1819, totalling 8 runs with a highest score of 8.
+
+RE1-Silencing Transcription factor (REST), also known as Neuron-Restrictive Silencer Factor (NRSF), is a protein which in humans is encoded by the REST gene, and acts as a transcriptional repressor.
+
+RE1-silencing transcription factor (REST) is reported to repress the expression of this gene in insulin-secreting beta cells.
+
+RE-2000 is a studio album released in 1999 by the Washington, D.
+
+C.-
+
+based go-go band Rare Essence.
+
+RE-201, commonly known as the Space Echo, is an audio analog delay effects unit produced by the Roland Corporation.
+
+RE2 is a software library for regular expressions via a finite-state machine using automata theory, in contrast to almost all other regular expression libraries, which use backtracking implementations.
+
+RE2/R21 trains terminate at Landquart, but hourly S8 trains continues to Rhazuns.
+
+RE2/R21 trains terminate at Landquart, but two trains per hour continue to Chur and beyond.
+
+RE2 was implemented and is used by Google.
+
+Re3 Group is a waste technology company that has developed industrial-scale autoclaving, with a dual autoclave plant in Limerick, Ireland.
+
+RE44, is a carbonaceous asteroid from the central region of the asteroid belt, approximately 4 kilometers in diameter.
+
+RE5R01A was a 5-speed automatic transmission from Nissan Motors for use in rear wheel drive vehicles with longitudinal engines.
+
+RE64 is a trans-Neptunian object in the scattered disk located in the outermost region of the Solar System, approximately 600 kilometers in diameter.
+
+Rea also briefly coached Super Rugby team, the Brumbies before returning to London to coach the Broncos.
+
+Rea also made regular appearances for Ireland in the English limited-overs competitions (the NatWest Trophy and Benson & Hedges Cup).
+
+Rea and his friends are scattered around the world.
+
+REA arranged transport and delivery via existing railroad infrastructure, much as today's UPS or DHL companies use roads and air transport.
+
+Reabotis was a genus of moths of the Noctuidae family.
+
+Rea briefly served as the co-anchorman on the nightly news at WWHO, the Columbus UPN affiliate.
+
+Rea Brook Valley is a country park, and Local Nature Reserve located in the town of Shrewsbury in Shropshire and is recognized nationwide as an important site for wildlife.
+
+Reaccreditation per school is required every three years.
+
+Reach: 40 Black Men Speak on Living, Leading and Succeeding is a book of personal essays edited by Ben Jealous and Trabian Shorters.
+
+REACH, a backronym that stands for the Representatives for Equal Access to Community Health-care, is a network of over 100 professionals, students and individuals that collaborate on health-care projects in Ghana.
+
+Reachability is a fundamental problem that appears in several different contexts: finite- and infinite-state concurrent systems, computational models like cellular automata and Petri nets, program analysis, discrete and continuous systems, time critical systems, hybrid systems, rewriting systems, probabilistic and parametric systems, and open systems modeled as games.
+
+Reachable by the A82 road, tourists partake in kayaking, whitewater rafting, and fishing.
+
+Reach also collaborates in several projects with the Judicial System of Canada.
+
+Reachback, in Berne's lexicon, is the period of time during which an impending event begins to influence an individual's behavior, including his level of stress.
+
+Reachback is a psychological term coined by Eric Berne.
+
+Reach Canada is a Non Governmental Organization that helps people with all types of disabilities obtain a lawyer referral.
+
+Reach casting also allows an experienced caster to pitch curved casts in order to get the lures into difficult places.
+
+Reach casting is most commonly used in fishing freshwater streams for trout although the reach cast is also used in some saltwater fishing where one can stand in the shallows and there is a consistent current moving in one direction.
+
+Reach Credit Union is headquartered in Menlo Park, California with offices in NC, PA and FL.
+
+Reached a career high ranking of world number 34 in doubles in November 2017.
+
+Reached finals in Wimbledon Juniors 1993 and won the Italian Junior world championship in Bonfiglio Milano in 1993.
+
+Reached Horizons is the first 'Best-Of' album by the Brazilian power metal band Angra, released on Oct 24, 2012, via SPV/Steamhammer.
+
+Reached is a 2012 young adult dystopian novel by Allyson Braithwaite Condie and is the final novel in the Matched Trilogy.
+
+REACH entered into force on 1 June 2007, with a phased implementation over the next decade.
+
+Reacher is a mobile X-Band satellite ground terminal (SGT) acquired by the British Ministry Of Defense, it is designed to replace all medium and large legacy SGTs used in the land environment.
+
+Reaches 2.
+
+5 meters' height and has reddish or yellow flowers.
+
+Reach for Glory is a 1962 British film adaptation of John Rae's 1961 novel, The Custard Boys, directed by Philip Leacock.
+
+Reach for Infinity is a 2014 science fiction anthology edited by Jonathan Strahan.
+
+Reach for Me is a 2008 American comedy-drama film directed by Levar Burton.
+
+Reach for Me is the ninth studio album by Australian-born Irish singer and composer Johnny Logan, released in March 2001.
+
+Reach for the Rainbow (RFTR), and is a registered charity serving children and young adults with developmental and physical disabilities in Ontario, Canada founded in 1983 by Donna Trella.
+
+Reach for the Sky is a 1956 British biographical film about aviator Douglas Bader, based on the 1954 biography of the same name by Paul Brickhill.
+
+Reach for the Sky is the fourth full-length album by the American glam metal band Ratt.
+
+Reach for the Sky is the seventh studio album by the rock group the Allman Brothers Band, released in 1980.
+
+Reach for the Stars was an American game show which briefly aired on NBC weekday mornings at 10:00 beginning January 2, 1967 for a total of 65 episodes.
+
+Reach for the Stars was very strongly influenced by the board game Stellar Conquest.
+
+Reach for the Top (also known simply as Reach) is a Canadian academic quiz competition for high school students.
+
+Reach for Tomorrow is a collection of science fiction short stories by British writer Arthur C. Clarke.
+
+Reach Foundation (Reach) is a youth Not-for-profit organization established by AFL Brownlow Medalist and 2010 Melbournian of the Year Jim Stynes OAM and film director Paul Currie in 1994.
+
+Reach has performed and recorded in various genres, including pop, R & B, Motown/soul, gospel, rock, classic rock, country (contemporary and traditional), contemporary Christian, classical and jazz music, but is perhaps best known for his work in jazz, combining jazz piano stylings with Sinatra-style vocals.
+
+Reach High (Jeffrey Cain, Jerry Corbett) - 4:03 06.
+
+Reachin' Back is the fourth studio album by singer-songwriter, Regina Belle.
+
+Reaching #12 on Billboard's album chart, it stands as Smokey's second most successful solo album.
+
+Reaching #1 on both the Billboard Hot 100 chart and the Easy Listening chart, it was the title song for Sinatra's 1966 album Strangers in the Night, which became his most commercially successful album.
+
+Reaching #23 on the Billboard Hot 100, it remains the band's highest charting album in the United States.
+
+Reaching 351.
+
+5 meters out into Bramble Bay it is the largest timber pier in Brisbane and one of the longest recreational piers in Australia.
+
+Reaching $9 billion in assets, Florida Community Bank has grown to become the fourth-largest independent Florida-based bank with 54 banking centers.
+
+Reaching #9 on the UK Singles Chart and #3 in the U.
+
+S., "Emotional Rescue" became popular enough to feature on all of the band's later compilation albums.
+
+Reaching a career high of 20 in European Circuit in 2012, Shruti is a first Indian to win silver in the Slovakia Junior Open.
+
+Reaching a commercial and critical peak in the 1990s, alternative rock acts are still popular today and AAA radio is a common format.
+
+Reaching a height after the widespread cattle raid by Karamojong in 1987, the UPA rebellion was eventually ended through the mediation of the Teso Commission.
+
+Reaching a height of 1,302 meters above sea level, it is the highest summit in the canton of Jura.
+
+Reaching a height of 1,445 meters above sea level, it is the highest summit in the canton of Solothurn.
+
+Reaching a height of 1,962 meters above sea level, it is the highest summit of the chain located between Lake Maggiore and Lake Lugano, which also includes Monte Lema.
+
+Reaching a height of 232 meters, it is the 12th tallest building in the country.
+
+Reaching a height of 2,863 meters above sea level, the Wandfluhhorn is the highest summit of the Bosco/Gurin valley.
+
+Reaching a height of 305 meters above sea level, the jagged rocks of the Bastei were formed by water erosion over one million years ago.
+
+Reaching a height of 912 meters above sea level, it is the highest point of the canton.
+
+Reaching a height of 996 meters above sea level, it is the highest point of the canton of Thurgau.
+
+Reaching a height of approximately 880 meters and accessed through a challenging walk, the craggy summit offers expansive views of southern Tasmania, particularly the Huon Valley and the Channel region.
+
+Reaching a height of only 6 - 8 inches and preferring moderate or diffuse light, it is commonly used in terrariums and novelty planters.
+
+Reaching a maximum depth of 48 meters in the deepest point, and with many areas of the north half featuring depths in excess of 20 meters, it is deeper than Kejimkujik Lake, Nova Scotia's largest natural lake, and Lake Ainslie, Nova Scotia's second largest lake.
+
+Reaching an acceptable medium with the Common Pleas and Exchequer of Pleas proved to be the downfall of all three courts; with several courts of near-identical jurisdiction, there was little need for separate bodies, and the superior courts of Westminster were merged by the Supreme Court of Judicature Act 1873 into a single High Court of Justice.
+
+Reaching an acceptable medium with the King's Bench and Exchequer of Pleas proved to be the downfall of all three courts; with several courts of near-identical jurisdiction, there was little need for separate bodies, and the superior courts of Westminster were merged by the Supreme Court of Judicature Act 1873 into a single High Court of Justice.
+
+Reaching an elevation of 1761 feet (537 meters), a thousand feet above the glacial till that fills the Puget Lowland, they form a prominent landmark visible around the region.
+
+Reaching a peak in popularity in the early 80s, the band has continued a long-running successful career.
+
+Reaching a peak of number five in the US on the Alternative Songs chart, it is the band's highest-peaking single on that chart to date.
+
+Reaching a peak position of four on the Canadian country airplay chart, it remains the group's only top ten hit.
+
+Reaching a peak position of number 67 on the US Billboard Hot 100, the single remained on the chart for a total of 8 weeks.
+
+Reaching a peak position of number 7 on the US Billboard Hot Rap Songs, the single remained on the chart for a total of 11 weeks.

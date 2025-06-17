@@ -1,0 +1,15 @@
+AGROVOC (a portmanteau of agriculture and vocabulary) is a multilingual controlled vocabulary covering all areas of interest to the Food and Agriculture Organization of the United Nations (FAO), including food, nutrition, agriculture, fisheries, forestry and the environment.
+
+AGROVOC is made available by FAO as an RDF/SKOS-XL concept scheme and published as a linked data set aligned to 18 other vocabularies.
+
+A growbag is a large plastic bag filled with a growing medium and used for growing plants, usually tomatoes or other salad crops.
+
+A grow box is a partially or completely enclosed system for raising plants indoors or in small areas.
+
+AgroWeb Network collaborates with the European System of Cooperative Research Networks in Agriculture.
+
+AgroWeb Network has twenty seven member countries.
+
+AgroWeb Network is maintained by institutions and individuals operating in their respective countries.
+
+A grow house is a property, usually located in a suburban residential neighborhood, that is primarily used for the production of marijuana, it may be used for the production of other plants such as Psilocybin mushrooms.

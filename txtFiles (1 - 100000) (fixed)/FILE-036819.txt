@@ -1,0 +1,71 @@
+IBM 557 Alphabetic Interpreter (photo) allowed holes in punched cards to be interpreted and the punched card characters printed on any row or column, selected by a control panel.
+
+IBM 738 was IBM's first core memory unit to use transistorized sense amplifier circuits.
+
+IBM-932 contains 7-bit ISO 646 codes, and Japanese characters are indicated by the high bit of the first byte being set to 1.
+
+IBM 941, each could store 16 decimal numbers with ten digits plus sign.
+
+IBM-942 includes the same double-byte codes as IBM-932 (those from Code page 301) but includes additional single-byte extensions.
+
+IBM-949 should not be confused with Windows code page 949 (IBM-1363), which is Microsoft's Unified Hangul Code, a different extension of EUC-KR, nor with plain EUC-KR (IBM-970).
+
+IBM acquired Holosofx in 2002.
+
+IBM Airline Control Program, or ACP, is a discontinued operating system developed by IBM beginning about 1965.
+
+IBM AIX has an updating running processes list as part of the topas and topas_nmon commands.
+
+IBM all but completed its move out of IBM Plaza as of early 2006, taking up space in the new Hyatt Center building closer to Union Station.
+
+IBM also aided in the development of the model.
+
+IBM also configured the 7040 (or 7044) as an input-output processor attached to a 7090, in a configuration known as a directly coupled multiprocessing system.
+
+IBM also distributed other systems in source code form.
+
+IBM also implemented the Common Event Infrastructure, a unified set of APIs and infrastructure for the creation, transmission, persistence and distribution of a wide range of business, system and network Common Base Event formatted events.
+
+IBM also noted that the company holds numerous U.
+
+S. patents (some of which have also been filed in Europe) on its mainframe hardware technologies to protect its ongoing billions of dollars in new mainframe technology investments, that the vendors did not seek and did not pay for licenses to those patents, and that IBM should not be required to support infringement of its own patents.
+
+IBM also offers PTFs for z/OS 1.
+
+6, z/OS 1.
+
+7, and DB2 V8 to enable zIIP usage.
+
+IBM also provided E with OS/2.
+
+IBM also released a version of the Microsoft BASIC compiler for the PC, concurrently with the release of PC DOS 1.
+
+10 in 1982.
+
+IBM always offered its magnetic disk drives for sale but did not offer them with original equipment manufacturer (OEM) terms until 1981.
+
+IBM and 3M are among the corporations that have commissioned her engraved and etched-glass awards.
+
+IBM and other corporations are also adapting similar business models to expand into new markets.
+
+IBM announced and introduced the 1800 Data Acquisition and Control System on November 30, 1964, describing it as "a computer that can monitor an assembly line, control a steel-making process or analyze the precise status of a missile during test firing.".
+
+IBM announced in September 2002 that it would no longer manufacture new 3745s, but IBM continues to support the hardware by providing worldwide maintenance service, by providing microcode releases and by supporting the associated software including NCP (Network Control Program) and the virtual telecommunications access method (VTAM).
+
+IBM announced its System/36 Office Automation (OA) strategy in 1985.
+
+IBM announced the System/38 in 1978.
+
+IBM announced the transfer of NetRexx 3.
+
+00 source code to the Rexx Language Association (RexxLA) on June 8, 2011.
+
+IBM announced three different levels of OS/360, generated from the same tapes and sharing most of their code.
+
+IBM API Management enables users to create, assemble, manage, secure and socialize web application programming interfaces (APIs).
+
+IBM API Management (IBM APIM) is an API Management platform for use in the API Economy.
+
+IBM Assembly Language Processor (ALP) is an assembler written by IBM for 32 bit OS/2 Warp (OS/2 3.
+
+0), which was released in 1994.

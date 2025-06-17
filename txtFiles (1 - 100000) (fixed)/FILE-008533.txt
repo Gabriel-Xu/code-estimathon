@@ -1,0 +1,97 @@
+Other Justices said Georgia's use of the death penalty was "discriminatory". They wrote that black defendants seemed more likely to get the death penalty than whites. This would violate the Fourteenth Amendment, which says that the states must give every person "the equal protection of the laws." If a certain group, like black people, is more likely to get the death penalty just because of their race, they are not being treated equally under the laws.
+
+After "Furman", all of the states stopped using the death penalty so they could change their capital punishment laws. They wanted these new laws to make sure the death penalty would not be given in an arbitrary or discriminatory way. By early 1975, thirty states had passed new death penalty laws that they thought would satisfy the Supreme Court and let them use the death penalty in a constitutional way."
+
+Gregg" started out as five separate cases in five different states: "Gregg v. Georgia", "Proffitt v. Florida", "Jurek v. Texas", "Woodson v. North Carolina", and "Roberts v. Louisiana".
+
+After the "Furman" decision, the states of Georgia, Florida, Texas, North Carolina, and Louisiana changed their death penalty laws to obey the Supreme Court's decision in "Furman". After this, the five defendants in these cases Troy Leon Gregg, Charles William Proffitt, Jerry Jurek, James Tyrone Woodson, and Stanislaus Roberts were each convicted of murder. Each was sentenced to death. Each defendant appealed to their state's Supreme Court. Each of the five state Supreme Courts said the death sentences were fair and legal.
+
+Next, the defendants asked the United States Supreme Court to decide whether their death sentences were constitutional. In "Furman", the Court had ruled that the death penalty was "sometimes" cruel and unusual punishment. These five defendants were asking the Supreme Court to rule that the death penalty was "always" cruel and unusual punishment. If the Court ruled this way, it would make the death penalty unconstitutional in the entire United States. The death penalty would be illegal in every state in the country.
+
+The Supreme Court agreed to hear the cases, but they combined them all into one case. This one case is usually called "Gregg v. Georgia", because the entire name of the case is very long.
+
+The United States Supreme Court was trying to answer a few legal questions in "Gregg". The most important were:The Court ruled 7-2 that the death penalty is not always cruel and unusual punishment. (The two Justices who disagreed, William Brennan and Thurgood Marshall, had already said in "Furman" that they thought capital punishment was "always" cruel and unusual.)
+
+The Court set out two rules that state laws have to include to make sure their death penalty sentencing laws are constitutional:Specifically, the Court said that Georgia's, Florida's, and Texas's new death penalty laws met these requirements. This meant these laws were constitutional, and these states could go back to executing people.
+
+The Court ruled that North Carolina's and Louisiana's new laws did not meet the requirements, because they made the death penalty mandatory (required in all cases) for some crimes. This meant these laws were still unconstitutional.
+
+The Supreme Court's ruling in "Gregg" was important for several reasons:Proof-of-work systemA proof-of-work (POW) system is a system where finding a solution to a given problem is difficult and/or expensive, but verifying the solution to the given problem is simple and/or cheap.
+
+Find the positive integer whose sha256 hash value is:To find this integer, you must compute the sha256 value for every integer starting with zero until you find the right value. While each individual computation is trivial and cheap, cumulatively the work adds up and becomes time consuming and expensive. To successfully reproduce the given hash value, you must do some work.
+
+Find some data whose sha256 hash value begins with at least 8 leading zeros:In the first example, the problem required the original value as proof that work had been done. In this example, it does not matter what the data is, only that it produces a hash value with the given constraints. Finding this data is difficult, but once found, it is trivial to verify by running it through sha256.
+
+University of BarisalUniversity of Barisal ( also known as Barisal University or simply BU), is a public university located in Barisal, a city in southern Bangladesh. It is the only general public university in Barishal division and the country's 33rd public university. It was established in 2011 and started educational activities on 25 January 2012.
+
+Ineffective assistance of counsel (United States)Ineffective assistance of counsel means that a lawyer (counsel) did not help their client defend themselves during a trial. "Ineffective assistance of counsel" is a complaint that a person can make if they have been convicted of a crime, and they want to argue that their trial was not fair."
+
+Ineffective" means that something, or someone, did not work the way it should have. "Assistance" means "help." "Counsel" is a legal word for "lawyer." So by making a complaint of "ineffective assistance of counsel," a person is saying "my defense attorney did not help me enough."
+
+The Sixth Amendment to the United States Constitution says: "the accused shall enjoy the right ... to have the assistance of counsel for his defence." When a person says they had ineffectiveness of counsel, they are saying their lawyer was so bad that they did not receive this right to a lawyer.
+
+Unfortunately, the Sixth Amendment only said that people had the right to have a lawyer. It did not give any more details about this right. Here are some examples of things it did not say:The Supreme Court tried to answer some of these questions in a case called "Strickland v. Washington", . In this case, the court ruled that there were two things a defendant would have to show in order to prove that they had ineffective assistance of counsel. This became known as the "Strickland test":This second part was important. After "Stirickland", the states' appeals courts ruled that convictions were legal even in cases where the defense attorney:There was an important reason why these cases did not qualify as "ineffective assistance of counsel." The prisoners who brought the cases to the Supreme Court could not prove the second piece of the "Strickland test." They could not prove that if they had different lawyers, their trials would have turned out differently. There was so much evidence against them, and they were so obviously guilty, that the appeals courts decided having a different lawyer would not have made any difference. No lawyer could have saved these cases, the state courts basically said.
+
+The issue of ineffective counsel is important in the debate over capital punishment in the United States. The University of Michigan Law School keeps a list of people who have been exonerated from death row. The list counts "exonerations" as cases where "a person who has been convicted of a crime is officially cleared based on new evidence of innocence."
+
+According to the list, between 1989 and 2015, 116 people have been exonerated from death row. Over one out of every four of these people were exonerated because an appeals court ruled they had received ineffective assistance of counsel.
+
+Barisal Sadar UpazilaBarisal Sadar () is an Upazila of Barisal District in the Division of Barisal, Bangladesh.
+
+The population of Barisal Sadar Upazila is 527,017. Males are 52.
+
+72% of the population, and females 47.
+
+28%. The population density is about 1625 people per km².
+
+PeristalsisPeristalsis is a process of contraction and relaxation of the muscle around parts of the alimentary canal. Peristalsis is also a series of contractions that pass from the mouth to the stomach.
+
+The most familiar example of this is in the oesophagus. In the oesophagus, peristalsis pushes the ball of food down the oesophagus. The smooth muscle of the oesophagus contracts and relaxes in sequence, and this pushes the ball of food down the oesophagus.
+
+The muscle is worked by a nervous mechanism called the "migrating motor complex". This works in one direction only, and also works in the lower regions of the digestive system.
+
+Institut supérieur de l'aéronautique et de l'espaceThe Institut supérieur de l'aéronautique et de l'espace (ISAE-SUPAERO; ) is a renowned graduate engineering school in France. It is in a campus of the University of Toulouse (South France).
+
+Its different curricula lead to the following French & European degrees :Academic activities and industrial applied research are performed mainly in French and English languages. Students from a lot of nationalities participate to the different curricula at SUPAERO.
+
+Most of the 1600 graduate engineer students at ISAE-SUPAERO live in dedicated residential buildings nearby research labs and metro public transports.
+
+The school results from the "École nationale supérieure de l'aéronautique et de l'espace" (created In 1909) and the "École nationale supérieure d'ingénieurs de construction aéronautique" (created in 1946).
+
+Admission to the "Supaero engineering Programme" implemented at ISAE is possible after two/three year scientific undergraduate studies and requires success to either:The "Supaero Programme" typically lasts three years and results in a master's degree, augmented with international experience. Thus undergraduate studies + the Supaero Programme account for more than a cumulated 300 ECTS credits as applicable in the European education system.
+
+However, graduate students enrolled in the TIME double degree procedure are required to spend two-years at ISAE and spend two years in the TIME-partner institute for a total of four years resulting in a double master's degree.
+
+Research activities at ISAE relate to the following topics:Libertarian Party (Spain)The Libertarian Party (Spanish: Partido Libertario or P-LIB) is a Spanish political party. It was formed in 2009. It is currently led by Juan Pina.
+
+The party believes in classical liberalism and that government should stay out of economics. They also believe in objectivism. They believethat governments should only be able to protect people from violence, theft, fraud, and other actions that go against people's rights. The party is open to some more libertarian and anarcho-capitalism ideas. There are two groups within the party; the Objectivist and Radicals. Most party members aren't involved with these groups.
+
+The party took part in the 2011 Spanish general election in Madrid and Zaragoza. They received about 7,000 votes to the Senate and over 2,000 (0.
+
+01 %) to the Congress.
+
+European CanadiansEuropean Canadians (sometimes called Euro-Canadians) are Canadians with ancestry from Europe. As of 2011, there were 25,186,890 European Canadians in Canada.
+
+The French were the first Europeans to live in Canada permanently. Hélène Desportes was the first "white" person born in New France. She was born in 1620.
+
+In 2006, most European Canadians had English ancestry (21.
+
+03%). Other common ancestries were French (15.
+
+82%), Scottish (15.
+
+11%), Irish (13.
+
+94%), German (10.
+
+18%) then Italian (4.
+
+63%). However, 32.
+
+22% of people said they had Canadian ancestry. Because of this, some people think the numbers for the English and French ancestry are too low.
+
+Most European Canadians are Christian. A small number of them are Jews, Deists, Agnostics, Atheists, Muslims, Bahá'ís, Paganists/Wiccas and Unitarian Universalists. Most also speak English and French.
+
+Latin American CanadiansLatin American Canadians are Canadians with ancestry from Latin America. They may also be called "Latino Canadian" and "Latin Canadian". As of 2011, there were 381,280 Latin American Canadians in Canada.
+
+Most Latin American Canadians speak two or more languages. They usually speak Spanish and/or Portuguese along with English and French.

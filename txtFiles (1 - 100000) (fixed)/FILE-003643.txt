@@ -1,0 +1,95 @@
+Squidward is not happy with his boring life. He always wants to be famous and well-known by everyone. He wants to show everyone about his talent as a musician or painter, even though he has no talent on either of them. He enjoys plays the clarinet. However, he has to work as a cashier at the Krusty Krab restaurant. Squidward hates working at the Krusty Krab, because he dislikes his greedy boss Mr. Krabs and is annoyed that he has to work with SpongeBob.
+
+Squilliam FancysonAfro-AsiansAfro-Asian or Blasian, means a person of mixed race. Black African and East Asian.
+
+Ethiopians went to South Arabia in the 2nd century and the 4th century. By 532 AD they had invaded Yemen. After this, many more Africans came to South Arabia as slaves; men were usually traded and the women were kept as servants for the Arab leaders. Mixed race children were more valuable in South Arabia. Two such children became Princes of the Abbassids. At this time, the Arabian army, known as the Sabaens, moved to Ethiopia. In Iraq, Bantu-speaking Africans were called Zanj. The large number of Zanj slaves working in bad conditions in Iraq lead to the famous Zanj Rebellion over fifteen years (869-883 AD). African rebels took over many of Iraq's cities forcing Arabs to flee to African nations such as Kenya, Somalia and Tanzania. Today someone of African and Arab descent is considered Afro-Arab.
+
+A former slave by the name of Najah seized power in the 10th century and established the Banu Najah dynasty, the first royal Afro-Asian family.
+
+As early as 1100 AD, African slaves were brought to India by Arab merchants in medieval times from the Bantu-speaking parts of eastern Africa. These Africans became known as Siddi or Habshi, Arabic word meaning Black African. Today, marriage has made the Siddi population in India much smaller. Someone of Indian and African background is considered an Indo-African. In South Asia, there are over 15,000 individuals who identify as Afro-Asian.
+
+In 1882, the Chinese Exclusion Act was passed and Chinese workers who chose to stay in the U.
+
+S. could no longer be with their wives who stayed behind in China. Because White Americans looked at Chinese labor workers as stealing jobs, they were treated badly. Many Chinese men settled in black communities and in turn married black women.
+
+Tiger Woods, a famous golf player, is of white, black, Native American, Chinese and Thai descent; his mother being half Thai and his father being half African-American. R&B singer Amerie is another famous Afro-Asian-American, with her mother Korean and her father being black. Hines Ward, an NFL football player who currently plays for the Pittsburgh Steelers, is also an Afro-Asian.
+
+As of the census of 2000, there were 106,782 Afro-Asian individuals in the United States.
+
+In the 1860s, Chinese people were imported for labor and trade. It became more common for a Chinese man to marry a black woman since there was more black women than Chinese women. According to the 1946 Census, 12,394 Chinese were located between Jamaica and Trinidad. 5,515 of those who lived in Jamaica were Chinese-Jamaican and another 3,673 were Chinese-Trinidadians living in Trinidad. In Guyana and Haiti, there is also a very small percentage within the minority who are of Asian descent.
+
+Haitian painter Edouard Wah was born to a Haitian mother and Chinese father.
+
+The UK has a large mixed race population, which is about 1.
+
+4% of the population (or around 850,000 people). The largest groups are mixed Whites and Black and mixed Whites and Asians. However, there are over 70,000 UK citizens that are mixed race and do not fit the above descriptions, a large percentage of these are Afro-Asian. Famous Afro-Asian Britons include Naomi Campbell, David Jordan.
+
+Adam MickiewiczAdam Bernard Mickiewicz (; 24 December 179826 November 1855) was a heavily influential national Polish Romantic poet, generally regarded as the greatest figure in Polish literature, especially known for his epic poem "Pan Tadeusz". At the later phase of his life he was also a political activist, an ideologue and a Messianic philosopher who lectured Slavic languages at Collège de France.
+
+Adam Mickiewicz was born on 24 December 1798, either at his paternal uncle's estate in Zaosie (now Zavosse) near Navahrudak (in Polish, "Nowogródek") or in Navahrudak itself in what was then part of the Russian Empire and is now Belarus.
+
+In many literary critics' opinion, Mickiewicz is among the most important writers such as Johann Wolfgang von Goethe, George Byron and Homer.<
+
+poem>::::Lithuania, my country! You are as good health:Altaic languagesAltaic is a language system that includes the Turkic languages, Mongolic, and the Tungusic languages. That is probably the meaning attributed to "Altaic" by most general linguists.
+
+It has disputed language families, but only a few linguists still believe that it existed. It supposedly had 66 languages that are now spoken by about 348 million people, mostly in and around Central Asia and northeast Asia.
+
+However, since the publication of Gustaf John Ramstedt's "Einführung" in 1952–1957, most Altaicists have included Korean in Altaic. Since the publication of Roy Andrew Miller's "Japanese and the Other Altaic Languages" in 1971, some also included Japanese (Nicholas Poppe) or Japonic, consisting of Japanese and Ryukyuan.
+
+A few linguists (such as (Street 1962)) even count Ainu with the Altaic languages but as part of a node including Korean and Japanese, in contrast to a Turkic-Mongolic-Tungusic node, with Korean-Japanese-Ainu and Turkic-Mongolic-Tungusic, in turn, forming a higher-level node.
+
+The core version of Altaic, consisting of Turkic, Mongolic, and Tungusic, is sometimes referred to as "Micro-Altaic," and the expanded version, including Korean and sometimes Japanese, is referred to as "Macro-Altaic," but even the core version is very controversial.
+
+Mongolian languageThe Mongolian language (, "Mongol kele", Cyrillic: Монгол хэл, "Mongol khel") is the best-known member of the Mongolic language family and the language of most of the residents of Mongolia, where it is officially written with the Cyrillic alphabet and of around three million Mongolian speakers in the "Inner Mongolia Autonomous Region" of China, where it is officially written with the traditional Mongolian script. It is also spoken in some areas in the Russian Far East and Kyrgyzstan. The majority of speakers in Mongolia speak the Khalkha (or "Halh") dialect, while those in China speak one of many Inner Mongolian dialects.
+
+RC2In cryptography, RC2 is a symmetric-key block cipher. Designed by Ronald Rivest in 1987. ""RC"" stands for "Rivest Cipher", or alternatively, "Ron's Code".
+
+RC2 is a 64-bit block cipher with a variable key size and using 18 rounds.
+
+Rounds are arranged as a source-heavy feistel network, with 16 rounds of one type called ""mixing rounds"" interleaved by two rounds of another type called ""mashing rounds"".
+
+The 18 rounds are performed using the following interleaved sequence:RC2 uses "key-expansion algorithm" by which an expanded key consisting of 64 (16-bit words) is produces depending in a complicated way on every bit of the supplied ""variable-length"" input key. A mixing round consists of four applications of the ""mix-up"" transformation, as shown in the diagram. A round is ""mashed"" by adding to it one of the 16-bit words of the expanded key ().
+
+RC2 is susceptible to a related-key attack using 2 chosen-plaintext attacks (Kelsey "et al.", 1997).
+
+The development of RC2 was sponsored by Lotus, who were seeking a custom cipher be exported as part of their Lotus Notes software, after evaluation by the NSA. The NSA suggested a couple of changes, which Ronald Rivest incorporated. After further negotiations, the cipher was approved for export in 1989.
+
+Along with RC4, RC2 with a 40-bit key size was treated under US export regulations for cryptography. Now all 40-bit encryption algorithms are obsolete because they are dangerously susceptible to brute force attacks.
+
+Initially, the details of the algorithm were kept secret — proprietary to RSA Security — but on 29 January 1996, source code for RC2 was anonymously posted to the Internet on the Usenet forum, sci.
+
+crypt. A similar post had occurred earlier with RC4. It is unclear whether the poster had access to the specifications or whether it had been reverse engineered.
+
+1999 East Timorese crisisThe 1999 East Timorese crisis was a conflict. Militia who did not like the independence in East Timor started the conflict when they attacked civilians. These attacks led to more violence all over the country. Most of the violence occurred in the capital Dili.
+
+The violence started after the result of an election was independence from Indonesia. About 1400 people are thought to have died. An UN force (InterFET) made up mainly of people from the Australian Defence Force was sent to East Timor to establish and maintain peace.
+
+In 1999, there was a lot of pressure on Indonesia. Therefore, the Indonesian government decided to hold a vote. In this referendum it asked the people of East Timor, whether they wanted to stay with Indonesia or become independent. Portugal had done some lobbying. The referendum was held on August 30. In it, a clear majority (78.
+
+5%) of people voting said they would prefer to become independent. The alternative proposal would have been to stay with Indonesia, but to have many freedoms as an "autonomous province", called Special Autonomous Region of East Timor (SARET).
+
+Directly after the referendum, violence broke out. The violence came from Indonesian soldiers and from a special East Timorese pro-integration militia which was supported by Indonesia. These troops became violent and terrorised the population. They did not like how the people had voted. About 1400 Timorese people were killed. 300.
+
+000 had to flee to West Timor to live as refugees. Most of the infrastructure of the country, including houses, watering systems, and the electricity was destroyed. Noam Chomsky said: "In one month, this massive military operation murdered some 2,000 people, raped hundreds of women and girls, displaced three-quarters of the population, and demolished 75 percent of the country's infrastructure."
+
+On 20 September 1999 the Australian-led peacekeeping troops of the International Force for East Timor (INTERFET) came to the country. This ended the violence. Activists in Portugal, Australia, the United States, and elsewhere pressured their governments to take action. US President Bill Clinton eventually threatened Indonesia, that the IMF loans would be stopped. Indonesia was in deep economic troubles already. The Indonesian government agreed to withdraw its troops and allowed a multinational force into Timor to stabilize the area. It was clear that the UN did not have sufficient resources to fight the paramilitary forces directly. Instead, the UN authorised the creation of a multinational military force known as INTERFET (International Force for East Timor), with Security Council Resolution 1264. 23 nations sent troops, about 11,000 people in total. The force was led by Major-General Peter Cosgrove. Troops landed in East Timor on 20 September 1999.
+
+Ohio Is for LoversOhio Is for Lovers is a single released by Hawthorne Heights it came from their first album "The Silence in Black and White".
+
+The lyrics are one of the main reasons why the band are considered to be emo. It contains the lyrics "cut my wrists and black my eyes" more than once.
+
+Some people take this literally, but the singer has explained its only a figure of speech the band is against self harming.
+
+The song was charted #34 in America.
+
+The album "The Silence in Black and White" later contained a DVD including the making of "Ohio is for lovers". It shows a spider, and also shows JT in a room alone looking miserable. There's also a young girl, followed by an adult woman, then later an older woman in the Ohio is for lovers music video.
+
+Lady GodivaLady Godiva (; about 980 – 1067) was an Anglo-Saxon noblewoman. She was married to Earl Leofric and frequently donated to the church, and was highly religious. There are legends that say that she rode naked through the streets of Coventry in England.
+
+Lady Godiva was the wife of Earl Leofric of Mercia. The Earl’s taxes were very high, and people in Coventry were very upset about it. Lady Godiva begged her husband to lower the taxes many times, but he never agreed to. Finally, the Earl told Lady Godiva that if she rode through the streets completely naked, he would lower the taxes. Lady Godiva sent a message through town that told everyone to close their shutters and stay indoors. Then, she rode through town only clothed by her hair. The Earl gave in and lowered the taxes of the town. However, a tailor named Tom drilled a hole through his shutters, and caught a glimpse of Lady Godiva. He was struck blind, some think from heaven, and some think the town “took care of him” themselves. There were many celebrations to remember Lady Godiva’s courage.
+
+ScandalA scandal is a very public incident which involves a claim of wrong-doing, shame, or moral offence. A scandal may be about a real event, an untrue event (often called a false allegation) or a mixture of both. Something which is a scandal can be described as scandalous.
+
+Scandals may be told by whistleblowers, who have access to secrets and allow them to go public. A well-known scandal was the Watergate scandal, in which US President Richard Nixon was found to be supporting and hiding illegal burglaries.
+
+Untrue claims often lead to a loss of respect for that person, and can destroy their careers. Sometimes an attempt to cover up a scandal creates a bigger scandal when the cover-up does not succeed.

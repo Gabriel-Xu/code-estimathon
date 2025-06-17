@@ -1,0 +1,219 @@
+The software is typically used for open access repositories for scholarly and/or published digital content and as a digital library.
+
+The software is typically used to manage host protected area (HPA) and device configuration overlay (DCO) features and is broadly similar to the hdparm for Linux.
+
+The software is unavailable for purchase, and the user community has been removed from the company's website.
+
+The software is used by a number of research projects around the world.
+
+The software is used by designers for modeling 3D graphics for games and simulations - most notably it is used by the scenery creators at Laminar Research on the X-Plane (simulator).
+
+The software is used by libraries to create discovery layers or institutional repositories; by museums and archives to highlight digital collections; and by other information retrieval projects.
+
+The software is used by online marketers to convert website visitors into subscribers and customers.
+
+The software is used by over 30 automotive manufacturers (General Motors, Toyota, Honda, Ford, etc.), over 60 suppliers, and over 150 research labs and universities.
+
+The software is used by radiation engineers around the world.
+
+The software is used by technical writers to create manuals in various formats.
+
+The software is used for project intake, prioritization and approval; project visibility and communication; and resource capacity planning and tracking.
+
+The software is used for the calculation of flow rates, pore-water pressures, and pumping rates associated with regional groundwater flow.
+
+The software is used in a range of different engineering industries to determine optimal tool paths to reduce time and manufacturing costs as well as reduce tool loads and produce smooth surface finishes.
+
+The software is used in many industries, including those who employee freelancers and hourly workers.
+
+The software is used in more than 3,500 salons in ten countries around the world.
+
+The software is used mainly by electronic design engineers and electronic technicians to create electronic schematics and electronic prints for manufacturing printed circuit boards.
+
+The software is used mainly by electronic design engineers and technicians to create schematics and electronic prints for manufacturing printed circuit boards.
+
+The software is used most often by students in computer science classes to design and experiment with digital circuits in simulation.
+
+The software is used primarily by hydrogeologists to simulate groundwater flow and contaminant transport.
+
+The software is used to arrange key words in context from a corpus of several million words of naturally occurring text.
+
+The software is used to burn an ISO 9660 image file to CD or DVD and can create an ISO image from folders.
+
+The software is used to design, train and deploy neural network (supervised learning and unsupervised learning) models to perform a wide variety of tasks such as data mining, classification, function approximation, multivariate regression and time-series prediction.
+
+The software is used to manipulate and visualize data.
+
+The software is used to sync with all devices with Zune functionality including the Zune 4, 8, 16, 30, 80, 120, Zune HD, Windows Phone 7, and Microsoft Kin.
+
+The software is used to track objects that include car, van, truck, motorcycle, cargo, boat, bicycle, people, pet and mobile.
+
+The software is used to view either live or recorded statistics covering metrics such as CPU load averages or network utilization for many nodes.
+
+The software is using the IntelliCAD engine commonly used by other CAD developers worldwide but further enhanced with extra functions such as drawing shortcut commands and symbols database that supports productivity.
+
+The software is usually adapted to the distribution and then packaged into software packages by the distribution's maintainers.
+
+The software is usually based on client/server where several clients (teller stations) are networked to a server which communicates to the mainframe via a dedicated line or satellite.
+
+The software is very portable; the source code, available free through netlib, has been compiled on everything from laptops to Crays.
+
+The software is widely used in the production of Broadway and other live entertainment shows, and across a number of educational and arts institutions.
+
+The software is written and maintained by a group of students that are members of FIRST teams across the world.
+
+The software is written in Java and data is stored in extensible mark-up language XML.
+
+The software is written in Java and runs on any system that supports Java 1.
+
+6 or later.
+
+The software is written in PHP and uses the MySQL database server.
+
+The software is written in the Java programming language.
+
+The software is written in the Tcl/Tk language, and it runs under BSD, Linux, Mac OS X, Solaris, Windows and all other platforms that support Tcl/Tk.
+
+The software is written to run on 32-bit and 64-bit versions of Microsoft Windows.
+
+The software is written to run on Microsoft Windows, Apple OS X or Linux using Java.
+
+The software is written using Open CASCADE in C++ for the engine (geometry, topology, viewers, data management, ...), Java for the GUI and data are stored in extensible mark-up language XML.
+
+The software is written using Python.
+
+The software it markets is also called Kinetica.
+
+The software itself could be run in a browser and published alongside the software was a book and courseware.
+
+The software itself is shared under the GNU Lesser General Public License (LGPL).
+
+The software itself may be limited in functionality or be time-limited, or it may remind the user that payment would be appreciated.
+
+The software lets users discover independently owned points of interest in the United States and Canada.
+
+The software libraries that shipped with OPENSTEP are a superset of the original OpenStep specification, including many features from the original NeXTSTEP.
+
+The software library wv, also known as wvware or by its previous name mswordview, is a set of free software programs licensed under the GNU General Public License which can be used for viewing and/or converting files in the Microsoft .
+
+doc format to plain text, LaTeX, html or other formats.
+
+The software licensing component of this strategy enables software companies and device vendors to simultaneously protect their applications and embedded software from unauthorized copying, distribution, and use, and capture new revenue streams through creative pricing and packaging models.
+
+The software life cycle is typically divided up into stages going from abstract descriptions of the problem to designs then to code and testing and finally to deployment.
+
+The software listed here is but a fraction of all such packages on the market.
+
+The software makes sure that any variations don't result in un-harmonic tunes.
+
+The software makes use of advanced searching methods to determine the critical failure surface.
+
+The software manages information, decisions, processes and applications for over 10,000 customers.
+
+The software may also be used as an add-on to the Microsoft Excel.
+
+The software may also display ads for Exact Advertising programs such as FunGameDownloads and PhotoGizmo.
+
+The software may also recommend script changes.
+
+The software may be a local application designed for individual use (e.
+
+g. the Lightning extension for Mozilla Thunderbird, Microsoft Outlook without Exchange Server, or Windows Calendar) or may be a networked package that allows for the sharing of information between users (e.
+
+g. Mozilla Sunbird, Windows Live Calendar, Google Calendar, or Microsoft Outlook with Exchange Server).
+
+The software may be downloaded from its official website, and requires the Java Virtual Machine to be installed on the user's computer.
+
+The software may be specific to a single role playing game system, or flexible enough to be applied to multiple game models.
+
+The software may be updated by downloading the update directly on the PlayStation 3, downloading it from the user's local Official PlayStation website to a PC and using a USB storage device to transfer it to the PlayStation 3, or installing the update from game disks containing update data.
+
+The software may generate two types of revenue: one is for the display of the advertisement and another on a "pay-per-click" basis, if the user clicks on the advertisement.
+
+The software may implement advertisements in a variety of ways, including a static box display, a banner display, full screen, a video, pop-up ad or in some other form.
+
+The software may need to be modified slightly in some cases to work with the test bench but careful coding can ensure that the changes can be undone easily and without introducing bugs.
+
+The software may not be used for any other purpose.
+
+The software may or may not support slicing a single large file in order to span it but all disk spanners can divide numerous files that are smaller than one blank disk's capacity across many disks.
+
+The software may send telecommands to actuators, computer systems, or other devices.
+
+The software measurement standards written by CISQ enable IT and business leaders to measure the risk IT applications pose to the business and estimate the cost of ownership.
+
+The software might require Mac OS 9 or other versions of the classic Mac OS that can't run on Apple's current Intel machines.
+
+The Software Murders is a 1990 TV film featuring Simon Dutton as Simon Templar, the crimefighter also known as The Saint.
+
+The software name originally stood for Statistical Package for the Social Sciences (SPSS), reflecting the original market, although the software is now popular in other fields as well, including the health sciences and marketing.
+
+The software needs to be first downloaded and installed on a laptop or a desktop computer and subsequently installed on a mobile device.
+
+The software of Evolution@Home is not the first to simulate this, but previous simulations were hampered by lack of memory (needed for looking at large populations) and lack of computing power (needed for observing long-term evolution and many different parameter combinations).
+
+The software offers several helpful functions for scanning pictures.
+
+The software offers the ability for users to scan content on a computer (such as files, images, video, and web browser history) for objectionable content, along with a key logging component that allows parents to be notified if certain words are being typed.
+
+The software of Highsoft is offered as source-available on GitHub, free for personal use.
+
+The software of that time ran under Unix and Fortran, which by the late 1990s had been superseded by newer multimedia-oriented systems based on C++, and support for the older Antics was discontinued in 1998.
+
+The software of TIFRAC were written in a series of commands of 0's and 1's.
+
+The software only reached beta stage.
+
+The software operates as a standalone service or be integrated into existing IT systems.
+
+The software operates locally rather than as a cloud application.
+
+The software operates much like a virtual/digital library for user-submitted content, and is moddable with skins.
+
+The software operates on the target computer much like other forms of illegal spyware, whereas it is unknown to the operator that the software has been installed and is monitoring and reporting on their activities.
+
+The software, originally developed for the intelligence community, allows users to load data from XML files, databases, RSS feeds, web services, HTML files, Microsoft Word, PowerPoint, Excel, CSV, Adobe PDF, TXT files, etc. and analyze it with a variety of visualizations and tools.
+
+The software, originally released as Easy Media Creator, represents an updated version of the previous Easy CD Creator series.
+
+The software, originally written by Chris Hall and Richard Clayton (who had previously been the co-founders and principal programmers of Locomotive Software), first appeared in 1995.
+
+The software or Web application produces a .
+
+tax file, which must then be uploaded to the CRA independently to constitute a tax filing.
+
+The software package contains several solvers and two post-processors and is available for Microsoft Windows, Mac OS X and Unix/Linux computers in 32-bit and 64-bit versions.
+
+The software package could be purchased on cassette tape or floppy disk.
+
+The software package has been developed and is maintained by Christopher Sneden, University of Texas at Austin.
+
+The software package is under active development and new features are released often.
+
+The software package was developed by members of the Consultative Group on Sustainable Development Indicators (CGSDI), and has been applied to quite a number of indicator sets, inter alia to the Millennium Development Goals indicators and the United Nations Commission on Sustainable Development indicators.
+
+The software package was renamed to "iGrafx FlowCharter 2003".
+
+The software part of the business became part of Accelrys, Inc. in 2010.
+
+The software, part of the Dynamics 365 product line, was first on general release in November 2016, initially branded as Dynamics 365 for Operations.
+
+The software part which consisted of a multitrack audio sequencer, a virtual mixing console and various digital effects was developed by Intelligent Devices.
+
+The software patent debate is the argument about the extent to which, as a matter of public policy, it should be possible to patent software and computer-implemented inventions.
+
+The software performs a battery of in silico tests to estimate the impact of the variant on the gene product / protein.
+
+The software performs both static and dynamic analysis of complex piping and skeletal structures, and runs on Microsoft Windows platform.
+
+The software permits backups in standard .
+
+zip files or a proprietary format, the latter of which includes an encryption option.
+
+The software permitted people to communicate asynchronously; as with email, the producer and the viewer did not need to be online at the same time; but as with remote desktop software, it was possible to provide detailed demonstrations of computer-based tasks.
+
+The software pioneered the commercial implementation of parallel computation for solving extremely electrically large problems using modest computational resources.
+
+The software places a small icon atop image thumbnails that appear on a webpage.
+
+The software platform consists of interrelated components that control diverse, multi-vendor hardware pools of processing, storage, and networking resources throughout a data center.

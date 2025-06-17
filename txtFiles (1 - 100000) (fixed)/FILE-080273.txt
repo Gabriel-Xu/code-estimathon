@@ -1,0 +1,249 @@
+The Toolbox includes a set of simple 'Hand Tools'; conversion of measurements and map co-ordinates; measuring the volume of stacked logs, slope, basal area; and a survey tool.
+
+The Toolbox Inventory tool is recognized in the A Standard for Valuing Commercial Forests in Australia, as a suitable tool to undertake inventory for the purposes of the Standard.
+
+The Toolbox is useful for the study and simulation of: Classical arm-type robotics: kinematics, dynamics, and trajectory generation.
+
+The Toolbox Murders is a 1978 crime mystery slasher thriller film directed by Dennis Donnelly, and written by Ann Kindberg, Robert Easter, and Neva Friedenn.
+
+The Toolbox provides functions for manipulating and converting between datatypes such as: vectors;homogeneous transformations; roll-pitch-yaw and Euler angles and unit-quaternions which are necessary to represent 3-dimensional position and orientation.
+
+The Toolbox ROM was embedded inside a CHRP script in the System Folder called "Mac OS ROM", along with a short loader stub and a copy of the Happy Mac icon suitable for display from Open Firmware.
+
+The Toolbox uses a very general method of representing the kinematics and dynamics of serial-link manipulators.
+
+The toolbox was first released for MATLAB in 1990.
+
+The Toolbox was included in the 2009 CSIRO publication Agroforestry for Natural Resource Management.
+
+The Toolbox was the replacement for the GEOS Configure app.
+
+The tool by which the JFACC tasks assets is called an air tasking order (ATO).
+
+The tool can also be extended easily.
+
+The tool can also be used for functional testing, although that is not what it is designed for.
+
+The tool can also be used to extract data from damaged or corrupt PDF documents.
+
+The tool can be modified and redistributed under the terms of the GNU General Public License.
+
+The tool can be used as a smoke test or fuzzer for a library API to catch serious problems like crashes or program hanging.
+
+The tool can be used through Google's website or a Firefox extension.
+
+The tool can perform many graphing calculator functions.
+
+The tool can syntax-aware compare text files and folders quickly, do 3way merge.
+
+The tool combines an ax and an adze in one head, similar to that of the cutter mattock, with a rigid handle of wood, plastic, or fiberglass.
+
+The tool consists of a hook attached to the end of an insulated rod.
+
+The tool consists of sharpened, high-carbon steel wire bristle tips that are designed with a forward-angle bend, i.
+
+e., the shank of the wire is bent in the direction of tool rotation.
+
+The tool consists of two straight edges joined by two arms which allow them to move closer or further away while always remaining parallel to each other.
+
+The tool could be used stand-alone or be integrated with other applications like project management software, customer support and accounting to name just a few.
+
+The tool, created by Valve Corporation, was used to create over 50 animated shorts for its Source games, including Team Fortress 2, the Left 4 Dead series, and Half-Life 2.
+
+The tool created output streams based on interpreting data provided via multiple input sources.
+
+The tool division would merge with Baker International in 1987 to form Baker Hughes, the world's third-largest oil-services company.
+
+The Toolebuc Formation is a geological formation that extends from Queensland across South Australia and the Northern Territory in Australia, whose strata date back to the Albian stage of the Early Cretaceous.
+
+The Toolebuc Formation is one of the richest known sources of Mesozoic vertebrate fossils in Australia, with notable collecting areas situated around the towns of Richmond, Julia Creek, Hughenden and Boulia.
+
+The tooled leather book binding of the St Cuthbert Gospel represents a simple carpet page in another medium, and the few surviving treasure bindings - metalwork book covers or book shrines - from the same period, such as that on the Lindau Gospels, are also close parallels.
+
+The Toolern Creek Trail is a shared use path for cyclists and pedestrians, which follows the Toolern Creek in the outer western suburb of Melton in Melbourne, Victoria, Australia.
+
+The Toolesboro Mound Group, a National Historic Landmark, lies nearby.
+
+The tool eventually gained popularity through mail order catalogs.
+
+The Tooleybuc Bridge is an heritage-listed road bridge across the Murray River located at 222 Main Road, Tooleybuc in the Murray River Council local government area of New South Wales, Australia.
+
+The tool focuses on modeling.
+
+The tool for ramming the contents within an ual is also made of wood.
+
+The tool groups several video production management applications, providing ingest control and playout of video feeds from an accompanying video server.
+
+The tool has a mild bias towards building Delphi projects, but it supports a range of compilers making it suitable for building projects in many languages [2].
+
+The tool has an internal computer that shuts off the voltage at a certain level that is adjusted by the operator of the tool.
+
+The tool has a wooden handle and a curved blade.
+
+The tool has become a way to both transform content, but also visualize, review and approve content from anywhere, rather than just batch processing to final file destinations.
+
+The tool has been available also for the Russian language (since 2015) and the Czech language (since 2017).
+
+The tool has been designed as an open architecture for model checking.
+
+The tool has been developed by Bruno Blanchet.
+
+The tool has been developed in collaboration between the Design and Analysis of Real-Time Systems group at Uppsala University, Sweden and Basic Research in Computer Science at Aalborg University, Denmark.
+
+The tool has been included with so-called "network-scrounging cards", which are Chinese USB Wi-Fi adapters that promise Internet access "for free".
+
+The tool has been lauded as "one of the most important free-speech tools on the Internet" by Wired, and as the "best performing" circumvention tool by Harvard University in a 2007 study; a 2011 study by Freedom House ranked it fourth.
+
+The tool has been noted for its speed and simplicity.
+
+The tool has been since been used to gather community input by media organizations, including The Associated Press and Slate Magazine, as well as political and government offices, including the White House Office of Science and Technology Policy.
+
+The tool has been used in several feature length movies.
+
+The tool has been used to develop the code of Wikipedia, Facebook, and GitHub. PostCSS is a top-favored CSS tool among npm users.
+
+The tool has been written in Bourne shell, to allow for portability.
+
+The tool has the ability to build queries regardless of whether the target's name is known.
+
+The tool has the ability to query at least one database, NYMROD, which appears to be a database of names.
+
+The tool has three main components: carbon - a Twisted daemon that listens for time-series data whisper - a simple database library for storing time-series data (similar in design to RRD) graphite webapp - A Django webapp that renders graphs on-demand using Cairo library.
+
+The tool has two versions: a free version that can be downloaded free of charge (Free Edition) and a full version that can be purchased after a trial period (Professional Edition).
+
+The toolholder or machine taper itself is held by the drawbar and applies force to the spindle, especially when spinning at low speeds.
+
+The Toolijooa railway station is a closed railway station on the South Coast railway line in New South Wales, Australia.
+
+The tool includes both script editors and graphical tools which work with objects and features of the server.
+
+The tooling and design were later sold to Egypt, and the Hakim was produced there during the 1950s and early 1960s.
+
+The tooling and know-how was sold to BAIC.
+
+The tooling and processes are the same between the two, only the terminology is different: in blanking the punched out piece is used and called a blank; in piercing the punched out piece is scrap.
+
+The tooling for the first generation Saab 9-5 was sold to BAIC and with help from Saab engineers they will develop new models for production under the Senova brand.
+
+The tooling of a turret punch uses a large number of standard punch tools: holes of varying sizes, straight edges, commonly-used notches or mounting holes.
+
+The tool is able to discover vulnerabilities and their impact, and detect affected IoT devices.
+
+The tool is also used as a stand-alone checker by individual users like writers, editors, bloggers, lawyers.
+
+The tool is an ArcMap extension provided by Criterion Planners of Portland Oregon to support urban and regional scenario planning, with an emphasis on measuring the sustainability of scenarios to find the most robust preferred alternative.
+
+The tool is an extension to Eclipse, the most widely used open source integrated development environment.
+
+The tool is available in multiple sizes and tube diameters.
+
+The tool is available online, installed and on smartphone.
+
+The tool is available on multiple platforms and is free software.
+
+The tool is built on top of Microsoft .
+
+NET.
+
+The tool is capable of attack reconstruction: when a property cannot be proved, an execution trace which falsifies the desired property is constructed.
+
+The tool is capable of evaluating reachability properties, correspondence assertions and observational equivalence.
+
+The tool is capable of verifying and showing information to existing visible signatures in PDF documents.
+
+The tool is commonly used within project management and allows large numbers of ideas stemming from brainstorming to be sorted into groups, based on their natural relationships, for review and analysis.
+
+The tool is designed to help develop systems which often feature large numbers of networked computers providing control and feedback.
+
+The tool is included by default in all releases after Ubuntu 8.
+
+04, and can be installed on Ubuntu 8.
+
+04.
+
+The tool is leveled according to the accuracy of the device and projects a fixed red or green beam about the horizontal and/or vertical axis.
+
+The tool is mainly a parser compatible with most kind of logs thanks to the flexible patterns.
+
+The tool is now being used in 11 countries, mostly in sub Saharan Africa.
+
+The tool is one of the seven Value Stream Mapping tools as defined by Hines and Rich.
+
+The tool is open-source software, released under the GNU General Public License.
+
+The tool is provided as freeware on the ARIS Community webpage.
+
+The tool is pulled down and outward, releasing the locking mechanism.
+
+The tool is sometimes made of plastic or glass.
+
+The tool is still being developed with additional plug-ins.
+
+The tool is used as compensation for its short tongue.
+
+The tool is used by the World Bank and partner governments to measure and evaluate critical governance challenges within the public sector.
+
+The tool is used in metalwork applications as diverse as home repair, automotive repair and shipboard preservation.
+
+The tool is used to develop Universal Windows Platform apps.
+
+The tool is used to identify targets, such as al-Qaeda couriers, who move between GSM cellular networks.
+
+The tool is written in the Ruby programming language and the Rakefiles (equivalent of Makefiles in Make) use Ruby syntax.
+
+The toolkit allowed children to construct digital mobile creatures known as "Zooks", which compete in a variety of computer-generated games.
+
+The toolkit also includes a discriminative reordering model, a simple language model and a tuning tool using minimum error rate training.
+
+The toolkit also includes a standalone disk imaging program called FTK Imager.
+
+The toolkit also provides an API on which to develop other localization tools.
+
+The Toolkit for Conceptual modeling (TCM) is a collection of software tools to present specifications of software systems in the form of diagrams, tables, trees, and the like.
+
+The toolkit has been implemented using the Free Pascal compiler, meaning it is written in the Object Pascal language.
+
+The toolkit has largely been expanded by Ullrich von Bassewitz and other contributors.
+
+The toolkit implements advanced features of information visualization like TreeMaps, an adapted visualization of trees based on the SpaceTree, a focus+context technique to plot Hyperbolic Trees, a radial layout of trees with advanced animations (RGraph) and other visualizations.
+
+The toolkit includes newly developed speech recognition technology for the development of automatic speech recognition systems.
+
+The toolkit is free and open-source software distributed under the Eclipse Public License, which is approved by the Open Source Initiative.
+
+The Toolkit is funded by the National Institute of Health's National Human Genome Research Institute (NHGRI) with co-funding by the Office of Behavioral and Social Sciences Research (OBSSR) and the National Institute on Drug Abuse (NIDA).
+
+The toolkit is intended to facilitate development with as few dependences as possible.
+
+The toolkit is published under a license called "RWTH ASR License", which is derived from the QPL.
+
+The toolkit is written in standard C++ using OpenGL, and runs on a variety of operating systems including Microsoft Windows, macOS, Linux, IRIX, Solaris and FreeBSD.
+
+The toolkit made use of widgets and produced ANSI C code.
+
+The toolkit provides leading-edge segmentation and registration algorithms in two, three, and more dimensions.
+
+The toolkit was originally used by the Xfce desktop environment before the switch to the GTK+ toolkit.
+
+The tool, known as Codescope, is licensed by Corbis.
+
+The tool may allow the user to select elements for the narrative, or it may combine them randomly, a specific variation known as a random plot generator.
+
+The tool may also be used to automate maintenance of SQL Server databases and updates to multidimensional cube data First released with Microsoft SQL Server 2005, SSIS replaced Data Transformation Services, which had been a feature of SQL Server since Version 7.
+
+0.
+
+The tool may be able to identify patients who do not need to be admitted to hospital after a UGIB.
+
+The tool mimics free hand drawing.
+
+The tool monitors and displays in real-time all file system activity on a Microsoft Windows operating system.
+
+The tool normally consists of little more than a sturdy stick which has been shaped or sharpened and perhaps hardened by being placed temporarily in a fire.
+
+The tool not only give relevant program analysis, but it also organizes the steps of change propagation.
+
+The tool offers a native GUI application, a command line, and addins for Visual Studio 2005 and Visual Studio 2008.
+
+The tool offers data visualization, sentiment analysis, influencer identification and geolocation, among other features that help users uncover important insights through social media data quickly and easily.

@@ -1,0 +1,61 @@
+In some stories, dwarfs are mean, living under bridges, and having a bad reputation for stealing treasure. One example is the Norwegian Troll. It is an ugly and foolish creature who tells lies. It causes problems everywhere it goes. That is how the Internet troll got its name. In Robert Louis Stevenson's story, "Strange Case of Dr. Jekyll and Mr. Hyde," Edward Hyde is described as "a dwarf."
+
+On the other hand, J. R. R. Tolkien's hobbits and the munchkins in The Wizard of Oz are likeable, honest, good and smart.
+
+VanirThe Vanir are one of the two tribes of deities in Norse mythology, the other being the Æsir. Native to Vanaheimr, the Vanir are peace-loving gods, associated with nature and fertility, while the Æsir were chaotic and warlike. Members of the Vanir include:A number of them live in Asgard alongside the Æsir as a token of goodwill following the war between the two tribes, which resulted in them uniting into a single pantheon. The goddess Freyja receives half of those slain in battle as a share of power between the two clans.
+
+Mole (unit)Mole is the SI unit used to measure how many molecules or atoms there are. One mole is around 600 sextillion molecules. Scientists use this number because 1 gram of hydrogen is around 1 mole of atoms.
+
+The exact value of one mole is . This number comes from experiments with carbon because it's easy to work with.
+
+Anything can be measured in moles, but it is not practical for most tasks because the value is so massive. For example, one mole of grapefruits would be as big as the earth.
+
+Because different molecules and atoms do not have the same mass, one mole of one thing does not weigh the same as one mole of something else. Atoms and molecule mass is measured in amu. One amu is equal to one gram per mole. This means that if an atom has a mass of one amu, one mole of this atom weighs one gram.
+
+Moles = mass (g) / Relative mass (grams per mole)Example: How many moles are there in 20 grams of hydrogen?
+
+A value of 1 can be used for hydrogen's relative mass, although the correct value is slightly larger. So: moles = mass/relative mass = 20/1 = 20 moles.
+
+Moles = concentration (mol/dm) x volume (dm)Example: How many moles are there in 100cm of 0.
+
+1M HSO?
+
+1 dm is the same as 1000 cm, so the value in cubic centimetres needs to be divided by 1000. 100/1000 x 0.
+
+1 = 0.
+
+01 moles.
+
+A methane molecule is made from one carbon atom and four hydrogen atoms. Carbon has a mass of 12.
+
+011 u and hydrogen has a mass of 1.
+
+008 u. This means that the mass of one methane molecule is 12.
+
+011 u + (4 × 1.
+
+008u), or 16.
+
+043 u. This means that one mole of methane has a mass of 16.
+
+043 grams.
+
+A mole can be thought of as two bags of different sized balls. One bag contains 3 tennis balls and the other 3 footballs. There is the same number of balls in both bags but the mass of the footballs is much larger. It is a different way to measure things. Moles measure the number of particles, not the mass. So both bags contain three moles.
+
+A mole is simply a unit of the number of things. Other common units include a dozen, meaning  12, and a score, meaning 20. Similarly, a mole refers to a specific quantity-- its distinguishing feature is that its number is far larger than other common units. Such units are typically invented when existing units can not describe something easily enough. Chemical reactions typically take place between molecules of varying weights, meaning measurements of mass (such as grams) can be misleading when compared the reactions of individual molecules. On the other hand, using the absolute number of atoms/molecules/ions would also be confusing, as the massive numbers involved would make it all too easy to misplace a value or drop a digit. As such, working in moles allows scientists to refer to a specific quantity of molecules or atoms without resorting to excessively large numbers.
+
+The SI units for molar concentration are mol/m. However, most chemical writing uses mol/dm, or mol dm, which is the same as mol/L. These units are often written with a capital letter M (pronounced "molar"), sometimes preceded by an SI prefix, for example, millimoles per litre (mmol/L) or millimolar (mM), micromoles/litre (µmol/L) or micromolar (µM), or nanomoles/L (nmol/L) or nanomolar (nM).
+
+The absolute yield of a chemical reaction mostly stated in moles (called the "molar yield").
+
+PlesiosaurusPlesiosaurus was a large fossil marine reptile, a genus in the order Plesiosauria.
+
+The first specimen discovered by Mary Anning in 1820-21 was missing its skull. She found it on the 'Jurassic Coast' of Lyme Regis, Dorset, England. In 1823 she found another one, this time complete with its skull. The name "Plesiosaurus" was given by the Rev. William Conybeare."
+
+Plesiosaurus" was a predator, living mostly on fish and belemnites. It would swim through schools of fish and use its long neck and sharp teeth to snap them up."
+
+Plesiosaurus" was a fairly typical member of its order, and measured around 3 to 5 metres (10 to 16 ft) in total length. The snout was short, but the jaws were able to open very wide, and had a series of conical teeth in sockets. The neck was quite long, and the short tail was used for steering. Like all plesiosaurs, it used its large paddles to swim.
+
+Only two species are known, and the genus existed for about 25 million years from the beginning of the Jurassic period.
+
+Scientists have wondered whether ancient reptiles like pleisiosaurs were warm-blooded or cold-blooded. Scientists from the University of Plymouth studied many animals of different sizes from insects to whales that dive and hold their breath. They found that larger animals can hold their breath longer than smaller animals because they can store more oxygen. They also found this difference was much bigger for warm-blooded animals than for cold-blooded animals. They said this could be why whales became so large. They think since plesiosaurs were also large, like whales, they were more likely to be warm-blooded than cold-blooded.

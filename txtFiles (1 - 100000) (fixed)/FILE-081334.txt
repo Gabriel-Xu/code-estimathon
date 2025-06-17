@@ -1,0 +1,471 @@
+The windows have a single pane on the bottom, with multi-light units above.
+
+The windows have balconies built over pillars with intricate carved decorations.
+
+The windows have multiple vertical panes with a single-pane light on top.
+
+The windows have shouldered architrave lintels, and the front entry has flanking sidelight windows and pilasters topped by a similar architrave.
+
+The windows have the remains of good-quality Decorated Gothic tracery that suggests they were added in the latter part of the 13th century.
+
+The windows have timber lintels under a painted stone dripmould.
+
+The windows have vertical panes set above a single light.
+
+The window sill of the window frame sits on the window sill of the wall opening; The lowermost, interior trim work on a window; Meets the dictionary definition of a shelf "A flat, usually rectangular structure composed of a rigid material, such as wood, glass, or metal, fixed at right angles to a wall or other vertical surface and used to hold or store objects."
+
+The window sills and lintels are also poured concrete.
+
+The Windows Imaging Format (WIM) is a file-based disk image format.
+
+The windows include more than 12,000 individual lights of leaded green glass.
+
+The \windows\inf directory contains several such .
+
+inf files.
+
+The windows in the gable ends are very narrow.
+
+The windows in the nave have a Y tracery.
+
+The window size may vary dynamically depending on network traffic.
+
+The Windows Library for JavaScript (abbreviated as WinJS) is an open source JavaScript library developed by Microsoft.
+
+The Windows, Linux, and macOS versions of BattleBlock Theater were released on Steam on May 15, 2014.
+
+The Windows Live brand was phased out during August 2012, when Microsoft released Windows 8 to manufacturing.
+
+The Windows Live for TV team blog has not been updated for a year, while the WPF/XBAP technology used in Windows Live for TV was deprecated by Microsoft in Windows Media Center SDK 5.
+
+3.
+
+The Windows Media Center name was created with the release of a Windows XP product edition, Windows XP Media Center Edition, geared towards this ecosystem.
+
+The Windows Media SDK is replaced by Media Foundation.
+
+The Windows Media support is limited to the features available before the release of Windows Media Player 10.
+
+The Windows Mobile 6.
+
+1 operating system includes Office Mobile along with HTML email through Microsoft Outlook Mobile.
+
+The Windows NT family, from 3.
+
+1 through 6.
+
+0 featured text-based installation that prompted users to a GUI wizard in the final steps.
+
+The Windows NT kernel is known as a hybrid kernel.
+
+The Windows NT series DDK includes a struct NT_TIB in winnt.
+
+h that documents the subsystem independent part.
+
+The Windows NT startup process is the process by which Windows NT 4.
+
+0, Windows 2000, Windows XP and Windows Server 2003 operating systems initialize.
+
+The windows of the cathedral of St. Bavon in Ghent were painted from his designs, and he is said to have worked at the miniatures in the Grimani Breviary now in the library of St. Mark at Venice.
+
+The windows of the house are predominantly narrower with rounded tops, and there are horizontal bands of decorative brickwork at several levels.
+
+The windows of the second and sixth bays have pediments, while the others have frieze and molded cornice.
+
+The windows of the second story, set quite close to the cornice, are completely plain.
+
+The Windows of the World is the title of the eighth studio album by Dionne Warwick, released August 1967 when the title cut was in the Top 40.
+
+The windows on either side have louvered shutters.
+
+The windows on either side of the altar were created by Henry Holiday in 1925.
+
+The windows on the altar in the center depict the rise of Jesus Christ.
+
+The windows on the second floor were designed slightly wider than the others to compensate for the optical foreshortening.
+
+The windows on the top floor are larger than those on the lower two.
+
+The windows on the upper stories are framed with round arches and pilasters which form arcades.
+
+The Windows, OS X and Linux editions require XCOM: Enemy Unknown to play; Enemy Within was released for Xbox 360 and PlayStation 3 as part of the Commander Edition bundle with Enemy Unknown.
+
+The windows peeking out of the roof are round portholes.
+
+The Windows Phone 7 version offers Leaderboard and Achievement support as a title for Xbox LIVE enabled games.
+
+The Windows Phone 8X by HTC (codenamed Accord) is a smartphone that was announced by HTC Corporation on September 19, 2012.
+
+The Windows Phone Marketplace allows users to download XAP files to an SD Card and install them manually.
+
+The Windows Phone version of the game was published by Electronic Arts and released on the Windows Phone Store in April 2012.
+
+The Windows Phone version was released on 22 March 2014.
+
+The Windows port has not been updated since 2011, however.
+
+The Windows port was based on the Sega 32X version, and was made using Kinesoft's Exodus game technology, which was later used to make the Windows port of Earthworm Jim: Special Edition.
+
+The Windows Registry is typically used as the persistent store for device settings.
+
+The windows retain nineteenth-century wood one-over-one double-hung sash and operable louvered shutters.
+
+The windows, roads, stairs and other shapes can be perceived as opening out in seemingly impossible ways and positions.
+
+The Windows Runtime application platform, present in Windows 8 and Windows Phone 8, makes use of the CLI metadata format to describe component interfaces for code written in any of the supported programming languages.
+
+The Windows scripts are written in VBScript while the Linux script is written in the Python programming language.
+
+The Windows SDK includes C++/WinRT; it was introduced in version 10.
+
+0.
+
+17134.
+
+0 (Windows 10, version 1803).
+
+The Windows Server version of CHKDSK is RAID-aware and can fully recover data in bad sectors of a disk in a RAID-1 or RAID-5 array if other disks in the set are intact.
+
+The Windows Service offering the acceptor side of NTLMSSP has been removed from Windows Vista and Windows Server 2008 in favor of the newer Kerberos authentication protocol.
+
+The Windows shell, as it is known today, is an evolution of what began with Windows 95, released in 1995.
+
+The Windows shell is the graphical user interface for the Microsoft Windows operating system.
+
+The Windows software trace preprocessor (abbreviated WPP; the preprocessor and related support tools are known as WPP Software Tracing) is a preprocessor that simplifies the use of WMI event tracing to implement efficient software tracing in drivers and applications that target Windows 2000 and later operating systems.
+
+The Windows startup process is the process by which Microsoft's Windows series of operating systems initializes.
+
+The Windows SUBST command is available in supported versions of the command line interpreter CMD.
+
+EXE.
+
+In Windows NT, SUBST uses DefineDosDevice?! to create the disk mappings.
+
+The window's surface is usually structured like a honeycomb made of convex lenses.
+
+The Windows System Assessment Tool (WinSAT) is a module of Microsoft Windows Vista, Windows 7, Windows 8 and Windows 10 that is available in the Control Panel under Performance Information and Tools (except in Windows 8.
+
+1 & Windows 10).
+
+The windows that are not top-level are used for buttons, textboxes, etc.
+
+The window sticker was named after Almer Stillwell "Mike" Monroney, United States Senator from Oklahoma.
+
+The Windows utility SISContents is able to convert various file formats.
+
+The Windows version 1.
+
+0, subtitled Recon, was first released on July 4, 2002.
+
+The Windows version allows annotating and saving unfinished PDF forms, FDF import/export, converting to text, highlighting and drawing.
+
+The Windows version also included scripting options for the Aurora toolkit.
+
+The Windows version also includes Cloanto's Amiga Explorer networking software, which allows access to Amiga resources (including virtual floppy, hard disk and ROM image files) from the Windows Desktop.
+
+The Windows version also includes new scripting options for the Aurora toolkit.
+
+The Windows version does not need a server operation system, but ran even on Windows 95 or Windox XP home.
+
+The Windows version does not support co-op.
+
+The Windows version holds a score of 86/100, based on 12 critics.
+
+The Windows Version is available for iOS management (iPhone, iPad, and iPod Touch) and Android devices management.
+
+The Windows version is distributed for free as binary version under the terms and conditions of the NMM Non-Commercial License (NMM-NCL).
+
+The Windows version of Amiga Forever includes a "player" software developed by Cloanto which seamlessly uses "plugins" such as WinUAE as emulation engines, while relying on its own user interface for configuration and authoring.
+
+The Windows version of IOzone uses Cygwin.
+
+The Windows version of the game was also met with criticism from players, when it was revealed that the game would not support dedicated servers among a litany of other changes.
+
+The Windows version of the game was included in the MS Windows Entertainment Pack.
+
+The Windows version of the game was less well-received, with criticism directed at numerous technical issues.
+
+The windows version of the program allows analysis of unreinforced slopes, slopes with tiebacks, as well as slopes reinforced with nails or geogrids using the Bishop, Janbu simplified, and Spencer methods.
+
+The Windows version of this program has been discontinued in favor of other applications (Phoenix Labs encourage current PeerGuardian users to migrate to PeerBlock which is based on PeerGuardian 2).
+
+The Windows version runs well on Linux under Wine.
+
+The Windows version suffered from a variety of problems, including delays in publication (it was a complete rewrite by a new author, in Turbo Pascal for Windows, rather than the original C), an unpopular attempt at copy protection and the World Wide Web's impact on bulletin board systems.
+
+The Windows version supports both 32-bit and 64-bit operation.
+
+The Windows versions use a BASIC syntax expanded to include many Windows functions, and the statements can be combined with calls to the Windows API.
+
+The Windows version was added to a list of supported games on GameRanger on May 31, 2014, which allows for continued online play.
+
+The Windows version was available to download from online games distribution sites as well as from the official website in November 2010.
+
+The Windows version was released in April 1997, the Mac version in June and the PlayStation version in November.
+
+The Windows version was released in North America on September 1, 2016, and in Europe on September 2, 2016.
+
+The Windows version was released in one day later after the release of the Xbox version in North America.
+
+The Windows version was released on Steam on 15 September 2014.
+
+The Windows version was released worldwide via Steam on November 17, 2017.
+
+The Windows version was subject to significant criticism for technical and performance issues that rendered it unplayable for some users, prompting Warner Bros. to temporarily withdraw it from sale.
+
+The Windows Vista and Windows Server 2008 TCP/IP stack supports the strong host model for both IPv4 and IPv6 and is configured to use it by default.
+
+The Windows wait cursor (known as the hourglass cursor until Windows Vista) is a cursor that indicates that an application is busy performing an operation.
+
+The windows were built by Reis and Reis of Munich, Germany and installed by Frederick Thornley of New York.
+
+The windows were considered to have extraordinary quality and beauty, and the firm's work was virtually unequaled in the Pacific Northwest.
+
+The windows were enlarged on the second floor and a full roof (originally side gabled and changed to hipped with dormers after 1900) was added plus a front porch along with pillar columns.
+
+The windows were of plain lintel construction with lugsills on the sides.
+
+The Windows XP implementation of the IPX/SPX protocol stack adds NetBIOS support.
+
+The Windows XP version uses the newer SAPI 5.
+
+The window system was implemented using the Flavors object-oriented extension to Lisp Machine Lisp.
+
+The window tax was a property tax based on the number of windows in a house.
+
+The Window to Luna Park (Italian: La finestra sul Luna Park) is a 1957 Italian drama film directed by Luigi Comencini.
+
+The window was closed at midnight on 31 August 2012.
+
+The window was closed at midnight on 31 August 2015.
+
+The window was commissioned by the Worshipful Company of Grocers, whose own arms appears next to the royal arms.
+
+The Window Washers is a silent animated short subject produced by Fables Studios, and one of the Aesop's Fables cartoons started by animator Paul Terry.
+
+The window will be closed at midnight on 31 August 2013.
+
+The window will close at midnight on 31 August 2010.
+
+The window will close at midnight on 31 August 2011.
+
+The window will close at midnight on 31 August 2012.
+
+The window will close at midnight on 31 August 2014.
+
+The window will close at midnight on 31 January.
+
+The wind played a role in a large fire which Twain claimed to have accidentally set.
+
+The windposts will be spaced along the walls of the building at regular intervals as calculated by the engineer to suit the required loadings.
+
+The wind power and solar photovoltaics (PV) industries provide good examples of this.
+
+The wind power company is a joint venture between Akbar Brothers, Debug Group, Hayleys, and Hirdaramani Group.
+
+The wind power developer Wind Capital Group was founded in 2005 by Missouri native Tom Carnahan.
+
+The wind prevented the larger British vessels from getting into the fray.
+
+The wind pump is a grade II listed building.
+
+The windpump is a Grade II listed building and a scheduled ancient monument.
+
+The windpump was built in 1890 and added to the National Register of Historic Places in 1979.
+
+It was deemed notable as " one of the best preserved historic windmills in New Mexico," although it was not then functioning and was in need of repair.
+
+The wind resource potential in NSW is very good, yet this potential has remained largely untapped.
+
+The WindRider 10 (also WindRider Tango) is a trimaran sailboat manufactured by WindRider LLC, designed by Mark Balogh and WindRider LLC and introduced in 2002.
+
+The design features an adjustable seat and a kick-up aluminum rudder.
+
+The WindRider 16 is a small trimaran sailboat launched by WindRider LLC in 1995 for 1-3 adults.
+
+The Windrider is a flying wing design type of fixed-wing aircraft.
+
+The Windrider walkalong glider is a commercially available toy airplane designed to be flown by controllable slope soaring.
+
+The Wind River Agency Blockhouse, also known as the Trout Creek Blockhouse, was built in 1871 on the Wind River Indian Reservation.
+
+The Wind River Agency Blockhouse was placed on the National Register of Historic Places on December 23, 2000.
+
+The Wind River Formation is a geologic formation in Wyoming.
+
+The Wind River is a river in Yukon, part of the Peel River watershed.
+
+The Wind River is best known for its old-growth forests of Coast Douglas-fir and Western Hemlock.
+
+The Wind River meridian, established in 1875, is one of the principal meridians for Wyoming.
+
+The Windrose Site is a 19th-century Potawatomi village site in Kankakee County, Illinois.
+
+The Windrow Formation is a geologic formation in Minnesota.
+
+The Windrunner M96 is a bolt-action, magazine-fed rifle designed by American firearms designer William Ritchie and manufactured by his company, EDM ARMS.
+
+The Windrunner M96 was featured in an article on .
+
+50 BMG rifles in the January 2003 issue of Law Enforcement Technology.
+
+The Windrunner rifle was also provided under private label to CheyTac in 2001 and sold as the CheyTac Intervention in .
+
+408 and .
+
+375 Cheytac.
+
+The Windrush scandal is a 2018 British political scandal concerning people who were wrongly detained, denied legal rights, threatened with deportation, and, in around 63 cases, wrongly deported from the UK by the Home Office.
+
+The winds are predominantly from the southwest in the Northern Hemisphere and from the northwest in the Southern Hemisphere.
+
+The Windsbacher Knabenchor (Windsbach Boys Choir) is a German choir of boys and young men in Windsbach, Germany.
+
+The Windscale piles were a pair of graphite-moderated nuclear reactors on the northwest coast of England in Cumberland (now Sellafield, Cumbria).
+
+The "Winds Code" is a confused military intelligence episode relating to the 1941 attack on Pearl Harbor, especially the advance-knowledge debate claiming that the attack was expected.
+
+The Winds Code was an instruction from Tokyo to Japanese legations worldwide that diplomatic relations were in danger of being ruptured.
+
+The wind section alternated throughout the symphony either doubling the string section, enriching the tempo and solos void of virtuosity.
+
+The windshear caused the aircraft to halt its descent while already over the threshold.
+
+The winds he creates are felt throughout the other circles of Hell.
+
+The windshield frame often warped with age as did the body - though to a much lesser degree - while the vacuum-plated chrome plastic parts tended to turn black.
+
+The windshield from the Croma can also be used on the 9000.
+
+The windshield (North America) or windscreen (Commonwealth English) of an aircraft, car, bus, motorbike or tram is the front window.
+
+The windshield washer system helps to remove dirt or dust from the windshield when it is used in concert with the wiper blades.
+
+The winds must not be directly associated with a tropical cyclone, or a hurricane warning will be issued.
+
+The Winds of Change and Other Stories is a collection of short stories by American writer Isaac Asimov, published in 1983 by Doubleday.
+
+The Winds of Dune is a science fiction novel written by Brian Herbert and Kevin J. Anderson, set in the Dune universe created by Frank Herbert.
+
+The Winds of Green Monday was a 1965 Australian TV play by Michael Noonan.
+
+The Winds of Jarrah is a 1983 Australian film adapted from a Mills & Boon novel.
+
+The Winds of Kitty Hawk is a 1978 American made-for-television biographical film directed by E. W. Swackhamer about the Wright brothers and their invention of the first successful powered heavier-than-air flying machine.
+
+The Winds of Sinhala is a historical novel, written by Sri Lankan novelist Colin De Silva, and published in 1982.
+
+The Winds of War also includes segments of documentary footage, narrated by William Woodson, to explain major events and important characters.
+
+The Winds of War and War and Remembrance, in which she appeared as actor Robert Mitchum's on-screen love interest, Pamela Tudsbury.
+
+The Winds of War covers the period 1939 to 1941, and War and Remembrance continues the story of the extended Henry family and the Jastrow family starting on 15 December 1941 and ending on 6 August 1945.
+
+The Winds of War is a 1983 miniseries, directed and produced by Dan Curtis, that follows the book of the same name written by Herman Wouk.
+
+The Windsor-1-2 District includes that part of the Windsor County town of Springfield not included in Windsor-1-1.
+
+The Windsor-1-2 Representative District is a two-member state Representative district in the U.
+
+S. state of Vermont.
+
+The Windsor-2 District includes all of the Windsor County towns of Cavendish, and Weathersfield.
+
+The Windsor-3 District includes all of the Windsor County town of Windsor.
+
+The Windsor-4 District includes all of the Windsor County towns of Hartland, and West Windsor.
+
+The Windsor-5 District includes all of the Windsor County towns of Reading, and Woodstock.
+
+The Windsor-6-2 District includes that part of the Windsor County town of Hartford not included in Windsor-6-1.
+
+The Windsor and Eton Express was founded on August 1, 1812 by Charles Knight Snr and his son, Charles Knight Jnr.
+
+The Windsor and four-in-hand knots are authorized for use by all services of the Canadian Forces.
+
+The Windsor Arms Apartments is an historic five-story, 42-unit apartment building located at 150 Argyle Avenue in Ottawa, Ontario.
+
+The Windsor Beauties are a famous collection of paintings by Sir Peter Lely, painted in the early to mid-1660s.
+
+The Windsor Board of Education (WBOE) was a school district in Windsor, Ontario, Canada.
+
+The Windsor Bridge or Windsor Town Bridge, an iron and granite arch bridge over the River Thames, is located between the towns of Windsor and Eton in the English county of Berkshire.
+
+The Windsor by-election, 1942, was a by-election held for the British House of Commons constituency of Windsor in Berkshire on 30 June 1942.
+
+The Windsor Castle Act (1848) was a piece of UK legislation that attempted to reform the land use and rights surrounding Windsor Castle, in Berkshire, notable for its role in creating the Home Park around the modern castle.
+
+The Windsor Castle is a Grade II listed public house at 114 Campden Hill Road, dating from 1826.
+
+The Windsor Castle is a Grade II listed public house at 114 Campden Hill Road near Holland Park, London.
+
+The Windsor Charity Classic was a golf tournament on the Canadian Tour.
+
+The Windsor Cinema (formerly Windsor Theater and Gardens and Windsor Twin Cinema) is located at 98 Stirling Highway, Nedlands, Western Australia.
+
+The Windsor City Council is the governing body of Windsor, Ontario, Canada.
+
+The Windsor City Hall consists of 2 buildings both situated in the Windsor's City Hall Square.
+
+The Windsor City Hall is currently home to the Windsor City Council and office of the mayor in Windsor, Ontario, Canada.
+
+The Windsor-class attack transport was a class of nine US Navy attack tranports.
+
+The Windsor Court Hotel is a luxury hotel in the Central Business District of New Orleans, Louisiana.
+
+The Windsor decision held that the Federal Government was required to provide the same benefits to same-sex couples who were married under state law as to other married couples.
+
+The Windsor District includes all of Windsor County.
+
+The Windsor Express and Richmond Advertiser, established in 1843, was the first known permanent newspaper in the Hawkesbury and Hawkesbury River district in New South Wales.
+
+The Windsor facility was closed and parts of the collection were later auctioned locally.
+
+The Windsor Festival International String Competition is a music competition held in the United Kingdom for performers of violin, cello, and viola.
+
+The Windsor Formation is a geologic formation in Newfoundland and Labrador.
+
+The Windsor Fratmen are a Canadian football team based in Windsor, Ontario, Canada.
+
+The Windsor Free Festival was a British Free Festival held in Windsor Great Park from 1972 to 1974.
+
+The Windsor Gotfredsons were a minor league professional ice hockey team and one of the four founding members of the International Hockey League in 1945.
+
+The Windsor Guildhall is the town hall of the town of Windsor, in the English county of Berkshire.
+
+The Windsor Hotel is a heritage-listed building in South Perth, Western Australia.
+
+The Windsor Hotel is an historic structure located at 843 4th Avenue in San Diego's Gaslamp Quarter, in the U.
+
+S. state of California.
+
+The Windsor Hotel (opened 1878, closed 1981) in Montreal, Quebec, Canada, is often considered to be the first grand hotel in Canada, and for decades billed itself as "the best in all the Dominion".
+
+The Windsor Hotel was located at 575 Fifth Avenue (at the corner of East 47th Street) in Manhattan, New York.
+
+The Windsor Institute is a school in Hampton, New Hampshire, United States.
+
+The Windsor International Film Festival (WIFF) is a cultural, not-for-profit organization whose mission is to recognize and celebrate the art of cinema by showcasing Canadian and International films and filmmakers.
+
+The Windsor is a contributing property within the National Register Americus Historic District.
+
+The Windsor is notable for being Australia's only surviving grand 19th century city hotel and only official "grand" Victorian era hotel.
+
+The Windsor is sited to take advantage of patrons visiting Perth Zoo, coming via ferry along the Swan River.
+
+The Windsor is situated on Bourke Hill in the Parliament Precinct on Spring Street, and is a Melbourne landmark of high Victorian architecture.
+
+The Windsor is the unofficial state soil of the U.
+
+S. state of Connecticut, although it exists as part of the geological make up of landmasses across the globe, including in the UK.
+
+The Windsor knot, also referred to as a Full Windsor or as a Double Windsor to distinguish it from the half-Windsor, is a method of tying a necktie.
+
+The Windsor knot, compared to other methods, produces a wide symmetrical triangular knot.
+
+The Windsor knot is especially suited for a spread or cutaway collar that can properly accommodate a larger knot.
+
+The Windsor knot was invented to emulate the Duke's wide knot with ties made from normal thickness cloth.
+
+The Windsor Lodge Trout Lake BC has a restaurant and bar and there is also a gas station/convenience store located within Trout Lake City.

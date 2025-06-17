@@ -1,0 +1,95 @@
+Batman vs. Teenage Mutant Ninja Turtles is a 2019 animated crossover superhero movie, directed by Jake Castorena, written by Marly Halpern-Graser, and produced by Warner Bros. Animation, DC Entertainment, and Nickelodeon. The movie is an adaptation of the six-issue inter-company crossover comic book miniseries "Batman/Teenage Mutant Ninja Turtles" by James Tynion IV and Freddie Williams II. The story focuses on Batman, Robin and Batgirl teaming up with the Teenage Mutant Ninja Turtles, in order to save Gotham City from chaos at the hands of both Shredder and Ra's al Ghul with their sect: the Foot Clan and the League of Assassins. The movie itself features the voices of Troy Baker, Darren Criss, Eric Bauza, Cas Anvar and Andrew Kishino.
+
+The movie is the first collaboration between Warner Bros. and Nickelodeon, and was devised for the direct-to-video market. It was released on both Blu-ray and Digital HD on June 4, 2019. It was well-liked, and grossed over $3.
+
+8 million from sales.
+
+Warner Bros. Animation was considering adaptations of "Batman/Teenage Mutant Ninja Turtles" and "Wonder Woman" as possible direct-to-video movies. The animated adaptation of the miniseries was officially announced in February 2019 to be in production and was released later in the spring.
+
+The initial announcement revealed Troy Baker would reprise his roles as both Batman from "" video game and various Lego video games and movies, and the Joker from "", "", and the "Batman Unlimited" series, making Baker the first actor to portray both characters in the same property. The movie also features Darren Criss and Eric Bauza reprising their roles as Raphael and Leonardo, while Kyle Mooney and Baron Vaughn voice Michelangelo and Donatello, respectively. Rachel Bloom voices Batgirl and Cas Anvar voices Ra's al Ghul. In addition, Tom Kenny, John DiMaggio, Carlos Alazraqui and Tara Strong reprise their roles as the Penguin, Mr. Freeze, Bane, Harley Quinn and Poison Ivy from various DC properties. Other key cast members of the movie were revealed a month later, which consists of Ben Giroux as Robin, Andrew Kishino as the Shredder, Keith Ferguson as both Baxter Stockman and Two-Face, Brian George reprising his role as Alfred Pennyworth from "", and Jim Meskimen as both Commissioner James Gordon and the Scarecrow.
+
+The first trailer was released on March 12, 2019. The movie had its world premiere at WonderCon Anaheim 2019 on March 31. The movie was later released to Digital on May 14 on 4K Ultra HD Combo Pack and Blu-ray Combo Pack on June 4, 2019."
+
+Batman vs. Teenage Mutant Ninja Turtles" was well-liked. Based on 13 reviews collected on Rotten Tomatoes, the movie has an approval rating of 100% with an average rating of a 7.
+
+47/10.
+
+The movie earned $3,898,811 from domestic home video sales.
+
+Color modelA color model is a mathematical model describing the way to represent colors as numbers, usually as three or four values. These values are called color components or color channels. When the model is linked to a description of how to interpret the components (viewing conditions, etc.), the resulting set of colors is called "color space."
+
+The color models can be additive or subtractive. Additive and subtractive color models are opposite.
+
+In additive color models, such as RGB, white is the combination of all primary-colored lights, and black is the absence of any light. Other colors are a mix of different strength of primary colors.
+
+Subtractive color models "subtract" or mask colors from white background of the paper. The ink reduces the reflected white light. White light minus red leaves cyan, white light minus green leaves magenta, and white light minus blue leaves yellow. Such color models are used in printing. An example of such a model is CMYK color model.
+
+Media that emit light (such as television) use color mixing with primary colors of red, green, and blue, each of which stimulates one of the three types of the eye's color receptors. This is called "RGB" color model. Mixtures of light of these primary colors cover a large part of the human color space.
+
+RYB (an abbreviation of red–yellow–blue) is an additive color model that uses red, yellow, and blue pigments as primary colors in art and applied design. The RYB color model underpinned the color curriculum of the Bauhaus.
+
+It is possible to achieve a large range of colors seen by humans by putting cyan, magenta, and yellow transparent dyes/inks on a white background. These are the "subtractive" primary colors. Often a fourth ink, black, is added to improve reproduction of some dark colors. This is called the "CMY" or "CMYK" color model.
+
+The cyan ink absorbs red light but transmits green and blue, the magenta ink absorbs green light but transmits red and blue, and the yellow ink absorbs blue light but transmits red and green. The white substrate reflects the transmitted light back to the viewer.
+
+A number of color models exist in which colors are fitted into conic, cylindrical or spherical shapes, with neutral (gray) colors running from black to white along a central axis, and hues (tints) corresponding to angles around the perimeter. Models of this type date back to the 18th century, and continue to be developed in the most modern models.
+
+Different color theorists have designed unique color 3D shapes. Many are in the shape of a sphere. The color spheres invented by Phillip Otto Runge and Johannes Itten are typical examples and prototypes for many other color solid schematics.
+
+HSL and HSV are both cylindrical, with hue, their angular dimension, starting at the red primary color at 0°, passing through the green primary at 120° and the blue primary at 240°, and then going back to red at 360°. In each, the central vertical axis comprises the "neutral", "achromatic", or "gray" colors, ranging from black at lightness 0 or value 0, the bottom, to white at lightness 1 or value 1, the top.
+
+In an attempt to create an intuitive color mixing model, computer graphics pioneers at PARC and NYIT developed the HSV model in the mid-1970s. It was formally described by Alvy Ray Smith in the August 1978 issue of "Computer Graphics". In the same issue, Joblove and Greenberg described the HSL model—whose dimensions they labeled "hue", "relative chroma", and "intensity"—and compared it to HSV.
+
+These models were useful not only because they were more intuitive than raw RGB values, but also because the conversions to and from RGB were extremely fast to compute: they could run in real time on the hardware of the 1970s. Consequently, these models and similar ones have been used in image editing and graphics software since then.
+
+Another influential older cylindrical color model is the early-20th-century Munsell color model. Albert Munsell began with a spherical model in his 1905 book "A Color Notation", but he wished to separate color-making attributes into separate dimensions, which he called "hue", "value", and "chroma. A"fter taking careful measurements of human perception, he realized that no symmetrical shape would fit. So he reorganized his system into a blob.
+
+Munsell's system became extremely popular. The de facto reference for American color standards—used not only for specifying the color of paints and crayons, but also electrical wire, beer, and soil color—because it was organized on human perception measurements. It specified colors in an easily learned and systematic triple of numbers. The color chips sold in the "Munsell Book of Color" covered a wide gamut and remained stable over time (rather than fading). The trouble with the Munsell system for computer graphics applications is that its colors are not specified via any set of simple equations, but only by its measurements: effectively a lookup table.
+
+The Swedish Natural Color System, widely used in Europe, takes a similar approach to the Ostwald bi-cone. Because it attempts to fit color into a familiar shape based on "phenomenological" instead of photometric or psychological characteristics, it suffers from some of the same drawbacks as HSL and HSV: in particular, its lightness dimension differs from perceived lightness, because it forces colorful yellow, red, green, and blue into a plane.
+
+Reciprocity (cultural anthropology)Reciprocity is the practice of exchanging things with others for mutual benefit, especially privileges granted by one country or organization to another.
+
+Scooby-Doo (movie)Scooby-Doo is a 2002 American comedy mystery movie based on the "Scooby-Doo" franchise.
+
+It was directed by Raja Gosnell and starred Freddie Prinze, Jr., Sarah Michelle Gellar, Matthew Lillard, Linda Cardellini and Rowan Atkinson. It got bad reviews but was a box office hit and started a .
+
+At a toy factory, Mystery Inc. has unmasked the Luna Ghost. The group except for Shaggy and Scooby quit. Two years later, they all got a letter from Emile Mondavarious to visit Spooky Island and solve a mystery there.
+
+Many fans didn't like how adult-oriented the humor is but they did like Matthew Lillard's performance of Shaggy, which is why Casey Kasem picked Lillard as his successor for the cartoons.
+
+Scooby-Doo 2: Monsters UnleashedScooby-Doo 2: Monsters Unleashed is a 2004 American comedy mystery movie based on the "Scooby-Doo" franchise and a sequel to the 2002 movie.
+
+It was directed by Raja Gosnell and starred Freddie Prinze, Jr., Sarah Michelle Gellar, Matthew Lillard and Linda Cardellini. It got both bad reviews and didn't make enough money. A planned third film (which was set to be released in 2006) was cancelled because of that.
+
+Mystery Inc. attended the grand opening of the Coolsonian Criminology Museum, home of all the costumes unmasked by the group.
+
+David DunnDavid Dunn is a fictional character. He first appeared in a 2000 movie called "Unbreakable".
+
+David Dunn was a football player who quit and became a security guard in Philadelphia.
+
+David Dunn has been portrayed by Bruce Willis in all three of his appearances.
+
+Unbreakable (movie)Unbreakable is a 2000 American psychological superhero thriller mystery movie. It is set in Philadelphia, Pennsylvania and was directed by M. Night Shyamalan. It stars Bruce Willis and Samuel L. Jackson.
+
+WhitehawkWhitehawk is a suburb of Brighton in the city of Brighton and Hove on England's south coast. It consists of a large housing estate developed by the council in the 1930s. In the late 1960s, five high rise flats were built in the suburb's northern end, known as the Swanborough flats. Beginning in the late 1970s, a major redevelopment of the estate took place. The estate lies in a valley and is partly surrounded by Brighton's Race Course. Whitehawk is the name given to a Neolithic camp situated at the top of Whitehawk Hill. The camp was inhabited some 5500 years ago.
+
+Stanley SchumacherStanley Stanford Schumacher (June 12, 1933 – October 10, 2020) was a Canadian politician and lawyer. He was born in Hanna, Alberta. He was a member of the Progressive Conservative Party. Schumacher was a member of the Parliament of Canada between 1968 to 1979. He was also a member of the Legislative Assembly of Alberta between 1986 to 1997.
+
+Schumacher died on October 10, 2020 in Drumheller, Alberta at the age of 87.
+
+Raimundo GarciaRaimundo García (27 May 1936 – 13 October 2020) was an Argentine chess master. He was born in Buenos Aires.
+
+García won at Mar del Plata 1962 ("Torneo Latino-americano"), and was Argentine Champion in 1963.
+
+In 1963 he won a match against Samuel Schweber (3 : 2) in Buenos Aires, tied for 7-9th at Fortaleza 1963 (zonal, Rossetto won), and took 10th at Buenos Aires 1964 (Paul Keres won).
+
+Garcia died on 13 October 2020 in Buenos Aires, aged 84.
+
+Oscar PannoOscar Roberto Panno (born 17 March 1935) is an Argentine chess Grandmaster. Panno was the first top world chess player born in South America. Panno won the 2nd World Junior Chess Championship in 1953. Panno was born in Buenos Aires.
+
+Panno has several successes at the tournaments at Mar del Plata. He won the international tournaments in 1954 and 1969 (shared with Miguel Najdorf), and the open tournaments in 1986, 1988, and 1994.
+
+Panno played eleven times for Argentina in Chess Olympiads (1954–58, 1962, 1966–70, 1976, 1986–88, 1992). The 1954 Olympiad team won the silver medal, while the 1958 and 1962 teams won the bronze medal.
+
+Ab Krook

@@ -1,0 +1,173 @@
+The older two, the British imperial system and the closely related US customary system use the foot as a measure of length, the pound as a measure for weight, and the second as a measure for time. They use other units as well. The number of smaller units that make the bigger units in these two systems varies: For example, there are 12 inches in a foot and 16 ounces in a pound.
+
+The newest and most used of the three systems is the metric system or SI system which use 10, 100 or 1000 of a smaller unit to make a bigger one. For instance, there are 100 centimetres in one metre or 1000 grams in one kilogram. This system uses the metre for length and kilogram for mass.
+
+The common, non-metric measurement of time does not follow this pattern. The second is the basis for time measurement, and it is based on the sexagesimal system: 60 seconds make one minute, and 60 minutes make one hour.
+
+The property of the thing being measured is given as a number of units of measure. The number only has sense when the unit of measurement is also given. By that number it represents a measurement of something.
+
+For example, The Eiffel Tower in Paris, France is tall. That is, the distance from the top to the bottom of the Eiffel Tower is 300 metres. The property of the Eiffel Tower being measured is a distance. The number measured is 300. 300 of what? The unit of measurement is the metre.
+
+Standards are usually special objects used to make measurements. A metre stick is an example of a standard. When you measure something with a metre stick, you can compare that measurement to anything else that is also measured with a metre stick. This makes measurement easier and comparisons between measurements easier.
+
+Science, medicine and engineering use smaller units of measurement to measure small things with less error. It is easy to measure large things using larger units of measurement. Astronomical measurements like the width of a galaxy use light years and parsecs.
+
+Small measurements like the mass of an atom use special units of measurement.
+
+There are many different standards and units used all over the world. Some became less used during the 19th and 20th centuries.
+
+The metric system is a system of measurement used in most of the world. It is also called the International System of Units, or SI.
+
+Units of measure in the metric system include:Imperial units were defined in the United Kingdom in 1824. These units were based on similar units that were in use before 1824. Imperial units were used in countries that were part of the British Empire. While many of these countries, including the United Kingdom, have officially adopted SI, the older system of units are still used.
+
+US customary units are the official units used in the US. These are similar to the British imperial units and also based on the units used in the United Kingdom from before American Independence. Some of the units are different to the British ones. For example, there are 20 imperial fluid ounces in an imperial pint, but 16 US fluid ounces in a US pint. Additionally, the US fluid ounce is slightly bigger than the imperial fluid ounce. The result is that US pints and gallons are smaller than imperial pints and gallons. In the United States, the metric system has been legal for trade since 1866 but other measurements such as the gallon, inch, and the pound are still widely used.
+
+Imperial and US units of measurement include:The ounces for weight and volume are different. Even when measuring water, the number of ounces of weight is not the same as the number of fluid ounces.
+
+The unit of time is the second. The minute (60 seconds) and hour (60 minutes or 3600 seconds) are larger units. A day is defined as 24 hours, but the Earth’s rotation has slowed. The difference is corrected at the end of some years with what is called a leap second. A week (7 days) and month are also standard units.
+
+A unit of measurement that applies to money is called a unit of account. This is normally a currency issued by a country. For instance, the United States use dollars. Each dollar is 100 cents. The United Kingdom uses pounds. Each pound is 100 pennies or pence. The European Union uses the Euro. There are 100 cents in the Euro.
+
+The units for electricity, magnetism and radiation were mostly invented in the 19th century when scientists learned how to measure them. Most were originally given imperial systems, but it is usual to use metric systems for them today.
+
+United States customary unitsU.
+
+S. customary units is the main system of units of measurement used to measure things in the United States and U.
+
+S. territories (except in Puerto Rico and Guam, where the metric system is also officially used and is dominant). The system of Imperial units, on which the U.
+
+S. customary units are based, is very similar but there are some differences.
+
+Length or distance units include the inch, foot, yard and mile.
+
+Land units include square miles (2589998.
+
+47032 square meter) and acres (4046.
+
+8726 square meter).
+
+Common volume units are the teaspoon, tablespoon (3 teaspoons), fluid ounce (two tablespoons), cup (8 ounces), pint (2 cups, or 16 fluid ounces), quart (2 pints, or 32 fluid ounces), US gallon (16 cups, 128 fluid ounces, or 3.
+
+8 liters).
+
+A barrel is the unit to measure oil.
+
+Temperature is measured in degrees Fahrenheit (°F). Here is a formula to convert from °C to °F: formula_1Units of weight and mass include the pound (453.
+
+6 grams), which contains 16 ounces. This should not be confused with the British pound which is a type of money. The different uses of the word "pound" can cause confusion. Different sizes of ounce are also in use.
+
+Some people have been trying to replace these units with the metric system since the 1820s. Much infrastructure in the United States and British Empire was built in past centuries using the old measures. During the 20th century some sectors such as science, medicine and the military of the United States converted to metric but Americans still use the old units for daily purposes. On the other hand, world trade is conducted using the metric system and except for the US, the world uses the metric system for almost all purposes.
+
+UranusUranus is the seventh planet from the Sun in our Solar System. Like Neptune, it is an ice giant. It is the third largest planet in the solar system.
+
+The planet is made of ice, gases and liquid metal. Its atmosphere contains hydrogen (H), helium (He) and methane. The temperature on Uranus is near the top of its atmosphere. Its small solid core (about 55% the mass of Earth) is probably about .
+
+The planet is tilted on its axis so much that it is sideways. The cause of this is not known for certain. It has five big moons, many small ones, and a small system of 13 planetary rings.
+
+The distance between Uranus and the Sun is about 2.
+
+8 billion km. Uranus completes its orbit around the Sun in 84 earth years. It completes a spin around its axis in 17 hours and 14 minutes. This means there are about 43,000 Uranian days in one Uranian year.
+
+Uranus was discovered in 1781. This planet can be seen with the naked eye under perfect conditions. John Flamsteed saw it decades earlier but mistook it for a star (34 Tauri).
+
+Near the solstice, one pole faces the Sun continuously and the other faces away. Only a narrow strip around the equator has a rapid day–night cycle, with the Sun low over the horizon. Each pole gets around 42 years of continuous sunlight, followed by 42 years of darkness.
+
+Uranus is named after Uranus, the Greek name of the Sumerian god Anu, who was a god of the sky.
+
+Uranus has been observed many times through a telescope, and even through the naked eye, but was mistaken for a star due to its slow orbit. Sir William Herschel observed Uranus on 13 March 1781 from the garden of his house at 19 New King Street in Bath, Somerset, England (now the Herschel Museum of Astronomy), and first reported it (on 26 April 1781) as a comet. With a homemade 6.
+
+2-inch reflecting telescope, Herschel "engaged in a series of observations on the parallax of the fixed stars."
+
+Herschel wrote in his journal: "In the quartile near ζ Tauri ... either [a] Nebulous star or perhaps a comet." On 17 March he noted: "I looked for the Comet or Nebulous Star and found that it is a Comet, for it has changed its place." When he presented his discovery to the Royal Society, he continued to assert that he had found a comet, but also implicitly compared it to a planet:Herschel notified the Astronomer Royal Nevil Maskelyne of his discovery and received this reply from him on 23 April 1781: "I don't know what to call it. It is as likely to be a regular planet moving in an orbit nearly circular to the sun as a Comet moving in a very eccentric ellipsis. I have not yet seen any coma or tail to it."
+
+Although Herschel continued to say this new object was a comet, other astronomers had already begun to think otherwise. Finnish-Swedish astronomer Anders Johan Lexell, working in Russia, was the first to calculate the orbit of the new object. Its nearly circular orbit led him to a conclusion that it was a planet rather than a comet. Berlin astronomer Johann Elert Bode described Herschel's discovery as "a moving star that can be deemed a hitherto unknown planet-like object circulating beyond the orbit of Saturn". Bode concluded that its near-circular orbit was more like a planet's than a comet's.
+
+The object was soon widely accepted as a new planet. By 1783, Herschel acknowledged this to Royal Society president Joseph Banks: "By the observation of the most eminent Astronomers in Europe it appears that the new star, which I had the honour of pointing out to them in March 1781, is a Primary Planet of our Solar System." In recognition of his achievement, King George III gave Herschel an annual stipend of £200 on condition that he move to Windsor so that the Royal Family could look through his telescopes ().
+
+In 1986, NASA's "Voyager 2" visited Uranus. This is the only space probe that tried to investigate the planet from a short distance. The spacecraft studied the atmosphere of the planet.
+
+Uranus has 27 known moons. They are named for characters from the works of Shakespeare and Alexander Pope. The five biggest moons are Miranda, Ariel, Umbriel, Titania and Oberon. More moons are likely to be discovered.
+
+Uranus is covered in blue clouds. The top clouds, made of methane, are difficult to see. Lower clouds are thought to be frozen water. There are also violent storms. Wind speeds can reach . Scientists are studying the clouds to try to understand the storms on the planet.
+
+The planet Uranus has a system made of 13 rings, which is far fewer than the rings of Saturn but more than those around Jupiter and Neptune. The rings of Uranus were discovered in 1977. More than 200 years ago, William Herschel also reported observing rings, but modern astronomers do not believe that he saw them, because they are very dark and faint. Two additional rings were discovered in 1986 in images taken by Voyager 2, and two outer rings were found in 2003–2005 by the Hubble Space Telescope. The rings are probably mainly composed of frozen water.
+
+The rings of Uranus are thought to be relatively young, not more than 600 million years old. The Uranian ring system probably began from the collisional fragmentation of moons that once existed around the planet. After colliding, the moons probably broke up into many particles, which survived as narrow, optically dense rings only in zones of maximum stability.
+
+The ring system of Uranus has thirteen distinct rings. In order of increasing distance from the planet they are: 1986U2R/ζ, 6, 5, 4, α, β, η, γ, δ, λ, ε, ν, μ rings. They can be divided into three groups: nine narrow main rings (6, 5, 4, α, β, η, γ, δ, ε), two dusty rings (1986U2R/ζ, λ) and two outer rings (μ, ν). The rings of Uranus consist mainly of macroscopic particles and little dust, although dust is known to be present in 1986U2R/ζ, η, δ, λ, ν and μ rings.
+
+In addition to these well-known rings, there may be numerous optically thin dust bands and faint rings between them. These faint rings and dust bands may exist only temporarily. Some of them became visible during a series of ring plane-crossing events in 2007. A number of dust bands between the rings were observed in forward-scattering geometry by "Voyager 2". All rings of Uranus show azimuthal brightness variations.
+
+The rings are made of an extremely dark material. The rings are slightly red in the ultraviolet and visible parts of the spectrum and grey in near-infrared. They show no identifiable spectral features. The chemical composition of the ring particles is not known. However, they cannot be made of pure water ice like the rings of Saturn because they are too dark, darker than the inner moons of Uranus. This shows that they are probably a mixture of the ice and a dark material. The nature of this material is not clear, but it may be organic compounds considerably darkened by the charged particle irradiation from the Uranian magnetosphere. The rings' particles may consist of a heavily processed material which was initially similar to that of the inner moons.
+
+As a whole, the ring system of Uranus is unlike either the faint dusty rings of Jupiter or the broad and complex rings of Saturn, some of which are composed of very bright material—water ice. However, there are similarities with some parts of the latter ring system; the Saturnian F ring and the ε ring are both narrow, relatively dark and are shepherded by a pair of moons. The newly discovered outer rings of Uranus are similar to the outer G and E rings of Saturn. Narrow ringlets existing in the broad Saturnian rings also resemble the narrow rings of Uranus. In addition, dust bands observed between the main rings of Uranus may be similar to the rings of Jupiter. In contrast, the Neptunian ring system is quite similar to that of Uranus, although it is less complex, darker and contains more dust. The Neptunian rings are also positioned further from the planet.
+
+Uranus revolves around the Sun once every 84 Earth years. Its average distance from the Sun is roughly 3 billion km (about 20 AU). The intensity of sunlight on Uranus is about 1/400 that on Earth. Its orbital elements were first calculated in 1783 by Pierre-Simon Laplace. With time, discrepancies began to appear between the predicted and observed orbits, and in 1841, John Couch Adams first proposed that the differences might be due to the gravitational tug of an unseen planet. In 1845, Urbain Le Verrier began his own independent research into Uranus's orbit. On September 23, 1846, Johann Gottfried Galle found a new planet, later called Neptune, at nearly the position predicted by Le Verrier.
+
+The rotational period of the interior of Uranus is 17 hours, 14 minutes, clockwise (retrograde). As on all giant planets, its upper atmosphere experiences very strong winds in the direction of rotation. At some latitudes, such as about two-thirds of the way from the equator to the south pole, visible features of the atmosphere move much faster, making a full rotation in as little as 14 hours.
+
+1. Uranus rotates at an angle of about 82 degrees compared to the general planetary system. It is tilted about 82 degrees compared to the Solar System as a whole. It is almost on its side compared with the other planets.
+
+2. The difference between its minimum and maximum distance from the Sun is 1.
+
+8 AU, larger than that of any other major planet.
+
+The obvious suggestion made is that the planet had a collision after its addition to the Solar System.
+
+UniversityA university is a higher learning institution. The word "university" comes from the Latin "universitas magistrorum et scholarium", roughly meaning "community of teachers and scholars". Students can go to university to get an academic degree. Unlike the schooling they have done before, the courses at university are specialised. A person studying biology at university has many courses about biology and fewer courses in other fields such as languages or history. To get a higher degree, people must do some research.
+
+Not all subjects are offered at universities. Mainly, universities offer courses which are about knowledge. They usually do not offer courses in practical trades. In some cases such as law, where there are both knowledge and practical issues, the university does mainly the theoretical side of the subject. Practical qualifications are done elsewhere.
+
+The universities were born in Europe during the Middle Ages. The first institution of this type was the University of Bologna, which later became a model for other centres of education.
+
+At first, the universities had formed themselves according to the model of the professional groups and like almost everything in the Middle Ages, they remained tied to the Catholic Church. At the beginning, they had worked to teach the so-called "seven liberal arts" (the "trivium" and the "quadrivium"):That earliest division caused the present divisions between literary and scientific fields. From one point of view, the world's oldest university is Qarawiyyin university. However, teaching religion is not the definition used by most people. A university should in theory teach every subject.
+
+The university is generally regarded as a formal institution that has its origin in the Medieval Christian tradition. European higher education took place for hundreds of years in cathedral schools or monastic schools ("scholae monasticae"). There, monks and nuns taught classes: evidence of these dates back to the 6th century.
+
+The Universities of Paris and Oxford were founded by members of the church. Later universities were founded by kings.
+
+In the early medieval period, most new universities were founded from pre-existing schools, usually when these schools became mainly sites of higher education. Pope Gregory VII promoted the concept of modern university as his 1079 Papal Decree. He ordered the establishment of cathedral schools, which eventually turned into the first European universities.
+
+A university can include several campuses or different places where classes are taught by professors. In each campus there are several faculties and university schools (mainly for teaching), and also laboratories, departments and institutes of research. Many campuses also have housing for students in buildings called dormitories and structures like libraries, study rooms and gymnasiums for students that live there. Each school offers many courses that students take to earn a degree. The person with the highest right to control and to command in a university is the rector, who governs the university with the help of the party of vice-rectors and of other organs such as the social council and the governing body.
+
+There is a group of notable universities called the Ivy League. They are:Some other universities are:There are also institutions of technology who provide course offerings primarily in scientific and technological studies. Some examples are:ValueValue is how much something is worth. Often the best way to find the value of something is to use the price that it can be sold for. However Oscar Wilde wrote that 'people know the price of everything but the value of nothing'- in other words true value does not depend on money alone.
+
+In math, a value is a number which is concrete, something everyone can agree upon. However people may disagree on the value of water, depending if you live in a desert or next to a river. Disagreements on the value of things can create fights between nations, political parties, religions, etc.
+
+VolapükVolapük (pronounced in English, in Volapük) is a constructed language created in 1880 by Johann Martin Schleyer. Schleyer was a Catholic priest from Germany. He felt that God had told him in a dream to make an international language. The name "Volapük" comes from the words "vol" (world) and "pük" (language). Volapük conventions took place in 1884, 1887, and 1889. The aim was to help people from different cultures speak to each other.
+
+Volapük became less popular after 1887 when Esperanto was published. Part of the reason for this was that Esperanto is easier to learn with a simpler grammar. There are believed to only be 20-30 Volapük speakers in the world today.
+
+The vocabulary of Volapük is mostly English, with some words from German and French. The grammar is based on Indo-European languages.
+
+Volapük was created by Johann Martin Schleyer. He first wrote about his idea in 1887. He published a book about Volapük in 1880. The book was translated into ten languages. Soon, people started creating Volapük clubs in Europe.
+
+The language started to become popular. People published books and journals in Volapük. However, not everybody liked the language. The American Philosophical Society thought that Volapük was too complex.
+
+Below is the Lord's Prayer written in Volapük.<
+
+poem></poem>VocabularyThe vocabulary a person uses is all the words that person knows and uses. In general, a person who is five knows about 4,000 to 5,000 words. Adults who have gone to college may know 20,000 words. A hearing vocabulary and reading vocabulary are bigger than a speaking vocabulary or writing vocabulary, as people understand some words that they do not use.
+
+The number of words in a language is more than the words listed in one dictionary. One dictionary may have a list of 500,000 (half a million) words. Another dictionary may have some other words that the other dictionary does not have. Adding up all the words in those dictionaries, there are about 750,000 words in English. There may be more words than that.
+
+The most used words are short words. That is true in all languages. The 50 most common words in English have fewer than seven letters. Half of these words have fewer than four letters.
+
+The vocabulary of a language is always changing. New words are made or words change their meaning. Words about computers, like "download" are new to the English language. The new word "bling" came from hip hop. Words like "cool" have developed new meanings.
+
+Vegetable oilVegetable oils are triglyceride oils made from plants. They are used in food and for cooking. In past centuries they were much used as fuel in oil lamps. Some kinds of plant oils that people use are palm oil, maize, olive, peanut, rapeseed, soy, and sunflower.
+
+Margarine is an artificial butter made from vegetable oil.
+
+VerbA verb is a kind of word (part of speech) that tells about an action or a state. It is the main part of a sentence: every sentence has a verb. In English, verbs are the only kind of word that changes to show past or present tense.
+
+Every language in the world has verbs, but they are not always used in the same ways. They also can have different properties in different languages. In some other languages (Chinese & Indonesian, for example) verbs do not change for past and present tense. This means the definition above only works well for English verbs.
+
+There are sixteen verbs used in . They are: "be, , , , go, see, , , , , , , , , , ."
+
+The word "verb" originally comes from "*were-", a Proto-Indo-European word meaning "a word". It comes to English through the Latin "verbum" and the Old French "verbe".
+
+In simple sentences, the verb may be one word: "The cat "sat" on the mat". However, the verb may be a phrase: "The cat "will sit" on the mat".
+
+Verbal phrases can be extremely difficult to analyse: "I'm afraid I will need to be going soon". There seem to be three verbal phrases here, which mean something like "Sorry, I must go soon".
+
+In English and many other languages, verbs change their form. This is called inflection. Most English verbs have six inflected forms (see the table), but "be" has eight different forms.

@@ -1,0 +1,143 @@
+Served by the Strathspey railway, it was the last station before the junction at Craigellachie, where the line met the Great North of Scotland line that ran from Keith to Elgin.
+
+Served by the Vale of Neath railway, the station lay at the other end of the 2497 yard Abernant Tunnel from Merthyr Tydfil.
+
+Served by the Wapakoneta City School District, the zip code for Saint Johns is 45884.
+
+Served by trains on what is now known as the Heart of Wessex Line, it was two miles from the village it served, at Holywell, just south of Evershot Tunnel.
+
+Served by two bridges connecting Yeongdo District to the south, Nampo-dong is also accessible by Nampo Station subway.
+
+Served by Via Rail's The Canadian three times per week in each direction, the station is unusually located on a branch of the main line, meaning that trains must either reverse into or out.
+
+Served Cold with co-author Danita Carter.
+
+Served during World War II at Canton, Battle of Makin, and Iwo Jima.
+
+Served for several years with the 76th Air Army in the Leningrad Military District.
+
+Served his apprenticeship at Mirecourt before returning to London where he spent 36 years working for W.
+
+E. Hill & Sons.
+
+Served his apprenticeship under his father Frank at the workshop of W.
+
+E. Hill & Sons before joining the RAF for the war years.
+
+Served in an Artillery regiment in the 1948 War.
+
+Served in combat in the Mediterranean theater until 1 November 1943 when most of the personnel were withdrawn and reassigned to Fifteenth Air Force.
+
+Served in junior diplomatic posts in Canada until 1944.
+
+Served in nightclubs and bars, it is a popular drink among Britain's younger population.
+
+Served in the Baltic campaign in 1854 (1st campaign) but not in 1855 (2nd campaign).
+
+Served in USPHS 1953-1998, on active duty 1958-1960 and 1974-1998.
+
+Served mostly by a shuttle train and having low passenger numbers, the station and branch were considered for closure several times.
+
+Served on routes to Asia until laid up in Germany during the 1914-1918 War.
+
+Served on the Yankton School Board for 21 years and was the former President of the South Dakota Trial Lawyers.
+
+Served until March 1776, near Williamsburg, Virginia.
+
+Served warm and sliced, with butter, it was first recorded in 1780 in the spa town of Bath in southwest England.
+
+Served with a hot and sweet chili sauce.
+
+Served with dry ice, an orchid, and some 151 proof alcohol aflame in the volcanic center, the drink gives the appearance of a mysterious tropical island.
+
+Served with milk or Amasi (sour milk).
+
+Served with soup, stew or a pepper sauce with fish.
+
+Served with United States Navy, 1943-1946.
+
+Serve hot and foamy in a mug with optionally whipped cream on top and a ginger biscuit.
+
+Serve In Silence is the fourth full-length studio album by Filipino rock band Wolfgang.
+
+Serve Jah is the tenth album by Jamaican artist Luciano.
+
+Serve Loud! and Lucky Bastards.
+
+Serve Loud! is the fourth studio album by the Dutch rockband Peter Pan Speedrock.
+
+Servel was an American manufacturer of heating and cooling appliances, founded in 1922.
+
+Server 2003 is a server operating system produced by Microsoft and released on April 24, 2003.
+
+Server Admin is one of the remote administration/configuration tools for Mac OS X Server.
+
+Server administration is almost fully automatic and never required the technician to look over it accept for schedule maintenance.
+
+Server admin uses TCP ports 311, 660, and 687, although the Apple Firewall has been known to block the program unless you open up both TCP and UDP ports.
+
+Server and each connected client must create special type of neural network called Tree Parity Machine then compute outputs of their neural networks and exchange them in an iterative manner through the public channel.
+
+Server, and shipped on products from May 1998 through February 2006.
+
+Server-based Certificate Validation Protocol (SCVP) is an Internet protocol for determining the path between a X.
+
+509 digital certificate and a trusted root (Delegated Path Discovery) and the validation of that path (Delegated Path Validation) according to a particular validation policy.
+
+Server-based gaming, or SBG, is a solution employed by video lotteries and casinos to operate Video Lottery Terminals (VLTs) and Electronic Gaming Machines (EGMs), the latter commonly referred to as slot machines.
+
+Server based systems, which are designed to automatically remove metadata at the network gateway.
+
+Server centric gaming combines classic video poker and video lottery with features of a modern client-server computer network.
+
+Server centric gaming is a term used in the fields of video lottery and casino gaming.
+
+Server centric systems can be divided into Server Based Gaming (SBG) and Server Supported Gaming (SSG).
+
+Server computers may use a serial port as a control console for diagnostics.
+
+Server consolidation can help more applications use HiperSockets.
+
+Server Core is a minimalistic Microsoft Windows Server installation option, debuted in Windows Server 2008.
+
+Server Core provides a server environment with functionality scaled back to core server features, and because of limited features, it has reduced servicing and management requirements, attack surface, disk and memory usage.
+
+Server emulators exist for many online games.
+
+Server Faces (RSF) is an open source web programming framework written in Java, developed at the Center for Applied Research in Educational Technologies (CARET) at the University of Cambridge.
+
+Server family has additional features, most notably the introduction of Active Directory, which in the years following became a widely-used directory service in business environments.
+
+Server-Free backup functionality (with DATAMOVER TYPE=SCSI) were included in IBM Tivoli Storage Manager version 5.
+
+1, 5.
+
+2, and 5.
+
+3, but not in 5.
+
+4 or later, but (DATAMOVER TYPE=NAS) are supported in 5.
+
+4 and later.
+
+Server-Gated Cryptography (SGC), also known as International Step-Up by Netscape, is a defunct mechanism that was used to step up from 40-bit or 56-bit to 128-bit cipher suites with SSL.
+
+Server has written several books about Hollywood cinema and pulp fiction.
+
+Server-host interaction is assured through RPC calls.
+
+Server Interface Pod (SIP) is a proprietary hardware unit developed by Dell and Avocent.
+
+Server is a brand name for a group of server operating systems released by Microsoft.
+
+Server is a software suite available for scientists to integrate, analyze, and share biomedical research data.
+
+Serverless code can be used in conjunction with code deployed in traditional styles, such as microservices.
+
+Serverless computing is a cloud-computing execution model in which the cloud provider acts as the server, dynamically managing the allocation of machine resources.
+
+Serverless computing still requires servers, hence it is a misnomer.
+
+Serverless currently supports Node.
+
+js and Python runtimes.

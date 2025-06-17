@@ -1,0 +1,201 @@
+The Alpide belt includes Indonesia and southeast Asia, through the Himalayas, and ends in the Alps. The belt also includes other European and Asian mountain ranges. The Himalayas contain the highest mountains in the world, including Mount Everest, at of elevation.
+
+Mountain ranges outside of these two systems include the Arctic Cordillera, the world's northernmost mountain system. If the definition of a mountain range includes underwater mountains, then the ocean ridges form the longest continuous mountain system on Earth, with a length of .
+
+Many mountain ranges have sub-ranges within them. It can be thought of as a parent-child relationship. For example, the Appalachian Mountains range is the parent of its own ranges, two of which are the White Mountains and the Blue Ridge Mountains. The White Mountains are a child of the Appalachians, and there are also children of the Whites, like the Sandwich Range and the Presidential Range.
+
+The position of mountains influences climate, such as rain or snow. When air masses move up and over mountains, the air cools producing precipitation (rain or snow). As the air descends on the leeward side, it warms again and is drier, having been stripped of much of its moisture. Often, a rain shadow will occur on the leeward side of a range.
+
+Mountain ranges are always being eroded. Erosion is at work while the mountains are being uplifted and long after until the mountains are reduced to low hills and plains. The basins next to an eroding mountain range are filled with sediments which are buried and turned into sedimentary rock.
+
+The early Cenozoic uplift of the Rocky Mountains of Colorado are an example. As the uplift was occurring some of mostly Mesozoic sedimentary strata were removed by erosion and spread as sand and clays across the Great Plains to the east. This mass of rock was removed as the range was actively undergoing uplift.
+
+Straight edgeStraight edge (Often called sXe) is a lifestyle without drugs, tobacco, or alcohol. Some followers of "straight edge" also abstain from illegal or casual sex.
+
+For some, no drug use includes caffeine which is a stimulant drug. Some will accept drugs such as codeine or morphine for medical reasons.
+
+Some followers of straight edge will not use Ny-Quil or Day-Quil because they contain alcohol.
+
+Those straight edgers who quit casual or illegal sex would not have one-night stands and will wait until they are in a committed relationship to have sex.
+
+Some cities have associated straight edge as gang affiliation, but advocates call it a way of life such as being a vegetarian.
+
+RouenRouen is a commune. It is the prefecture of Upper Normandy and the Seine-Maritime department.
+
+First settlements in that region were from the 6th century before Christ.
+
+The Romans founded Rotomagus about 100 A.
+
+D..
+
+Since 384 Rouen is the seat of a bishop.
+
+In 841 the Vikings conquered Rouen. It became the capitol of the Duchy of Normandy.
+
+In 1204 the Frensh king reconquered Rouen.
+
+In 1419 the English crown (Henry IV. of England) conquered the city in the 100-year War between France and England. On May, 30th of 1431 Jeanne D'Arc (the Virgin of Orleans) was burned in Rouen.
+
+In 1494 the French got the city back.
+
+In 1834 the railway connection Paris-Rouen was opened.
+
+Rouen was occupied by the Germans in the Franco-German War of 1870 to 1873 and in both World Wars. In the World War II many buildings were destroyed.
+
+Rouen has an oceanic climate ("Cfb" in the Koeppen climate classification). It has a great marine harbor 60 km from the city. Tourism, transportation, the colleges and the university are most important economic factors.
+
+The university of Rouen has about 40,000 students.
+
+MicrocodeMicrocode is the name for a number of instructions or data structures which are involved in implementing higher-level machine language in many processors, especially microprogrammed ones. Microcode is on memory that is very fast to access. When a machine level instruction needs to be executed, microcode tells the processor what electronic circuits should be used. When a new processor is designed, an engineer also writes the microcode for the instructions of machine language. This is called Microprogramming, the resulting code is called a microprogram.
+
+In early processors, each instruction was hard-wired. This has several drawbacks, the most obvious is that correcting an error in processor design means that the processor needs to be replaced.
+
+A processor should add two values, which are in registers A and B.
+
+Items 1-3, as well as 5-6, can be coded as one instruction. It is also possible to hard-wire the logic needed for this operation. This has the benefit of being faster, but the drawback that it no longer allows changes that might be needed later on.
+
+The concept of microprogramming was developed by Maurice Wilkes in 1951, using diode matrices for the memory element.
+
+Computational complexity theoryComputational complexity theory is a part of computer science. It looks at algorithms, and tries to say how many steps or how much memory a certain algorithm takes for a computer to do. Very often, algorithms that use fewer steps use more memory (or the other way round: if there is less memory available, it takes more steps to do). Many interesting algorithms take a number of steps that is dependent on the size of the problem.
+
+Complexity theory also looks at how a problem changes if it is done for more elements. A problem of constant complexity class is the only class in which this is not true. A problem with constant complexity takes the same number of steps to complete no matter the size of the input or the number of elements it is computed on. Broadcasting a message can be thought of as a problem of constant complexity. No matter how many people need to receive a message, all can listen on to one single broadcast with no extra broadcasts needed.
+
+Mowing the lawn can be thought of as a problem with linear complexity. Mowing an area that is double the size of the original takes twice as long.
+
+Suppose you want to know which of your friends know each other. You have to ask each pair of friends whether they know each other. If you have twice as many friends as someone else, you have to ask four times as many questions to figure out who everyone knows. Problems that take four times as long when the size of the problem doubles are said to have quadratic complexity.
+
+This is often the complexity for problems that involve looking things up, like finding a word in a dictionary. If the dictionary is twice as big, it contains twice as many words as the original to compare to. Looking something up will take only one step more. The algorithm to do lookups is simple. The word in the middle of the dictionary will be either before or after the term that needs to be looked up, if the words do not match. If it is before, the term needs to be in the second half of the dictionary. If it is after the word, it needs to be in the first half. That way, the problem space is halved with every step, until the word or definition is found. This is generally known as logarithmic complexityThere are problems that grow very fast. One such problem is known as the Travelling salesman problem. A salesman needs to take a tour of a certain number of cities. Each city should only be visited once, the distance (or cost) of the travelling should be minimal, and the salesman should end up where he started. This problem has exponential complexity. There are n factorial possibilities to consider. Adding one city (from n to n+1) will multiply the number of possibilities by (n+1). Most of the interesting problems have this complexity.
+
+AverageAn average is the "normal" number of a group of numbers made by mixing the group of numbers.
+
+In math, an average is called a mean. It can be found by adding the numbers, then dividing the answer by the number of numbers there were. There are other kinds of mean, and other things that are sometimes thought of as "average" such as median or mode (statistics).
+
+In some sports, such as cricket and baseball, averages are used to tell how good a player is (such as batting average). Sporting averages have special rules for how to find them.
+
+Fluminense FCFluminense Football Club () or Fluminense, is a football club in the city of Rio de Janeiro, Brazil, based in the neighbourhood of Laranjeiras since its foundation, in 1902, making it the oldest football club of Rio de Janeiro.
+
+RomanizationRomanization, or Latinization, is how words from languages that normally do not use the Latin alphabet are converted into Latin letters. That allows people who do not know the original writing system to read the sounds of the language. Romanization is one way to show the pronunciation of the language's words.
+
+There are often several ways to romanize a language. For the Russian language, the Soviet Union invented several systems, and the United Nations and the International Organization for Standardization invented two of the others. There are also several methods for Arabic, Japanese, and Chinese. Some romanization systems are based on the writing system of the original language, some are based on speech in the original language, and some are based on both. In other words, some romanization systems are based on transliteration, and others are based on transcription.
+
+DiasporaDiaspora (, literally, "a scattering or sowing of seeds") is used (without capitals) to refer to any people or racial group living outside their traditional homelands, emigrating and being scattered in distant places and making a new community. It was first used in the Septuagint to mean the scattering of Jews after the capture of Jerusalem by the Babylonians in 586 BC.
+
+AngersAngers is a city in the west of France. Around 160,000 inhabitants live inside the city and 300,000 live in the metropolitan area.
+
+It is the capital of the historical province called Anjou. Today, the name of Anjou is Maine-et-Loire. The inhabitants of Angers and of Anjou are called 'angevins'.
+
+The city existed before the Roman Empire. After the Roman conquest, the city was called Juliomagus. Angers was an important French city during the Middle-Ages. There is one of the bigger castles of Europe in the city.
+
+It is now the 16th city of France (for its population). It is an economic center, a touristic and cultural town. Many festivals happen every year in the city (film festival 'Premiers plans', street festivals 'Tours de scène' and the famous 'Accroches-coeurs'). It has many museums. The museum of Beaux-Arts (a famous Art museum) and "Apocalypse Tapestry" (the oldest and largest collection of medieval tapestries in the world) are very famous.
+
+There are two universities. More than 17,000 students go to the 'Université d'Angers' (a state university) and 12,000 go to the 'Université Catholique de l'Ouest' (a private catholic university). The 'École supérieure des sciences commerciales d'Angers' is one of the most prestigious business school in France.
+
+Angers is twinned with:ToulonToulon is a city in the south of France. It has about 170,000 people. Toulon is the prefecture of Var. Toulon is the third biggest city of the region Provence-Alpes-Côte d'Azur after Marseille and Nice. It is the main base of the Mediterranean Sea fleet of the French Navy. It is from the Italian border.
+
+GrenobleGrenoble is a French commune in the Alpine foothills. It is the prefecture of the Isère department in the Auvergne-Rhône-Alpes region.
+
+It has an oceanic climate ("Cfb" in the Koeppen climate classification).
+
+It is an important centre for scientific research in France.
+
+A campus of the École nationale de l'aviation civile (French civil aviation academy) is in Grenoble. Grenoble School of Management is also in the city, as well as the Université Grenoble-Alpes.
+
+Grenoble is twinned with:SequenceA sequence is a word meaning "a set of related events, movements or items that follow each other in a particular order".
+
+It is used in mathematics and other disciplines. In ordinary use, it means a series of events, one following another. In maths, a sequence is made up of several things put together, one after the other. The order that the things are in matters. For example, both (Blue, Red, Yellow) and (Yellow, Blue, Red) are sequences, but they are not the same. Sequences made up of numbers are also called progressions.
+
+There are two kinds of sequences. One kind is finite sequences, which have an end. For example, (1, 2, 3, 4, 5) is a finite sequence. The other kind is infinite sequences, which means that they keep going and never end. An example of a sequence that is infinite is the sequence of all even numbers, bigger than 0. This sequence never ends: it starts with 2, 4, 6, and so on, and one can always keep on naming even numbers.
+
+If a sequence is finite, it is easy to say what it is: one can simply write down all the things in the sequence. This does not work for an infinite sequence. So another way to write down a sequence is to write a rule for finding the thing in any place one wants. The rule should tell us how to get the thing in the "n"-th place, where "n" can be any natural number. This means that a sequence is really a special kind of function with natural numbers as its domain. We sometimes write a sequence as formula_1, where formula_2 stands for the "n"-th term of the sequence.
+
+For example, the rule could be that the thing in the "n"-th place is the number 2×"n" (2 times n). This tells us what the whole sequence is, even though it never ends. The first number is 2×1, which is 2. The second number is 2×2, or 4. If we want to know what the 100-th number is, we can simply calculate 2×100 and get 200. No matter which thing in the sequence we want, the rule can tell us what it is.
+
+In an arithmetic progression, the difference between a term and the term before it is always a constant.
+
+Example: formula_39 - 4 = 5, 14 - 9 = 5, 19 - 14 = 5, 24 - 19 = 5, and so on.
+
+So if one takes the first term as "a" and the constant difference as "D", then the general formula for arithmetic sequence is formula_4, where "n" is the number of term.
+
+In a geometric progression, the ratio between a term and the term before it is always constant.
+
+Example: formula_56/3 = 2, 12/6 = 2, 24/12 = 2, 48/24 = 2, and so on.
+
+So if one takes "a" to be the first term and "r" to be the ratio, then the general formula for geometric progression is formula_6, where "n" is the number of term.
+
+In a harmonic progression, the difference between the reciprocal of a term and the reciprocal of the term before it is a constant.
+
+Example: formula_7formula_8, and so on.
+
+A series is the sum of all the terms of a sequence.
+
+The general formula for calculating the sum of arithmetic sequence isformula_9That of a geometric sequence is formula_10, if the sequence is infinite, andformula_11, if it is finite.
+
+Here, "a" is the first term, "d" is the common difference in arithmetic sequence, "r" is the ratio in geometric sequence and "n" is the number of term.
+
+Aix-en-ProvenceAix-en-Provence is a city in the south of France. About 150,000 people live there.
+
+AmiensAmiens is a city in Somme in the former province of Picardy in northern France. About 145,000 people live there. The Treaty of Amiens was signed there.
+
+Le MansLe Mans is a commune. It is found in the Pays de la Loire region in the Sarthe department in the west of France.
+
+Le Mans is a city in France. It has about 143,000 inhabitants. It takes about one hour to go to Paris by TGV.
+
+Le Mans is twinned with:ToursTours is a city on the Loire River in the centre of France. It has about 143,000 inhabitants. It is the prefecture (administrative headquarters) of the department of Indre-et-Loire and is one of the 22 French metropolis.
+
+Nancy, FranceNancy is a commune. It is the prefecture of the Meurthe-et-Moselle department in the Grand Est region. It was formerly the capital of the old Duchy of Lorraine.
+
+Nancy has an oceanic climate ("Cfb" in the Koeppen climate classification).
+
+Nancy is twinned with:LimogesLimoges ( or "Limòtges") is a city and commune, the capital (prefecture) of the Haute-Vienne department and the historical capital of the old Limousin region in west-central France. It is also the capital of the "arrondissement" of the same name.
+
+Limoges is known for its medieval and Renaissance enamels on copper, for its 19th-century porcelain and for its oak barrels which are used for Cognac and Bordeaux production.
+
+The city of Limoges is near the western limits of the Massif Central, in the centre of the Haute-Vienne department. The Vienne river flows through the city.
+
+Limoges is at about from Paris, from Toulouse, from Bordeaux and from Marseille.
+
+The "commune" has an area of . Its average altitude is ; at the city hall, the altitude is .
+
+The "commune" of Limoges is surrounded by the "communes":The climate of Limoges, in the Köppen climate classification, is Cfb - Oceanic climate with template summers.
+
+The average amount of precipitation for the year in Limoges is . The month with the most precipitation on average is October with of precipitation. The month with the least precipitation on average is February with an average of .
+
+The average temperature for the year in Limoges is . The warmest month, on average, is July with an average temperature of . The coolest month on average is January, with an average temperature of .
+
+The inhabitants of Limoges are known, in French, as " Limougeauds" (women: "Limougeaudes").
+
+With a population of 134,577, Limoges has a population density of inhabitants/km.
+
+Evolution of the population in LimogesLimoges forms, together with other 8 "communes", the urban area of Limoges with a population of 183,860 inhabitants (2013) and an area of . This urban area is the centre of the metropolitan area of Limoges, formed by 96 "communes", with a population of 283,050 inhabitants (2013) and an area of .
+
+Limoges is the prefecture of the Haute-Vienne department, the capital of the "arrondissement" of Limoges and the administrative centre () of 9 cantonsIt is part of the intercommunality "Limoges Métropole" ().
+
+Limoges is twinned with:Clermont-FerrandClermont-Ferrand is a "commune" in the Puy-de-Dôme department in the Auvergne-Rhône-Alpes region in central-southern France.
+
+It is the prefecture of the department and the capital of the "arrondissement" of Clermont-Ferrand and the historical capital of the region of Auvergne.
+
+The modern city was born from the union of two separate towns, Clermont and Montferrand. This union has been imposed by Louis XIII in 1630 (Edict of Troyes) and was confirmed by Louis XV.
+
+While Montferrand was founded in the early twelfth century by the Counts of Auvergne on the model of fortified cities in the Southwest, Clairmont is much older, as it existed in ancient times. The earliest mention of the existence of Clairmont contained in the work of Strabo, the early first century. The city was then known Nemossos described as a "metropolis of Arvernes." She later took the name of Augustonemetum then Arverni.
+
+To the west of Clermont-Ferrand, there is a plateau where is the "Chaîne des Puys", a chain of dormant volcanoes including the "Puy de Dôme". To the north of the city is the plain de "Limage", a large plain in the Auvergne region in the valley of the Allier river.
+
+Clermont-Ferrand has an area of , and its average altitude is ; at the city hall, the altitude is .
+
+The distances from Clermont-Ferrand to other cities are:Clermont-Ferrand is surrounded by the "communes":The climate of Clermont-Ferrand is an oceanic climate, Cfb (Marine West Coast Climate) in the Köppen climate classification.
+
+The average temperature for the year in Clermont-Ferrand, at an altitude of , is . The warmest month, on average, is July with an average temperature of . The coolest month on average is January, with an average temperature of .
+
+The average amount of precipitation for the year in Clermont-Ferrand is . The month with the most precipitation on average is May with of precipitation. The month with the least precipitation on average is January with an average of .
+
+The inhabitants of Clermont-Ferrand are known, in French, as "Puydômois" (women: "Puydômoises").
+
+With a population of 141,365, Clermont-Ferrand has a population density of inhabitants/km.
+
+Evolution of the population in Clermont-FerrandClermont-Ferrand forms, together with other 16 "communes", the urban area of Clermont-Ferrand with a population of 264,704 inhabitants (2013) and an area of . This urban area is the centre of the metropolitan area of Clermont-Ferrand, formed by 184 "communes", with a population of 475,694 inhabitants (2013) and an area of .
+
+Clermont-Ferrand is the prefecture of the Puy-de-Dôme department since 1790. It is also the capital of the "arrondissement" of Clermont-Ferrand and the administrative centre () of six cantons:It is part of the intercommunality "Clermont Auvergne Métropole".
+
+Clermont-Ferrand is twinned with:VilleurbanneVilleurbanne is a city in France. About 130,000 people live there.
+
+Exile on Main St.

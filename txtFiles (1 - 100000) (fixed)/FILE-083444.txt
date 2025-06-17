@@ -1,0 +1,203 @@
+This protein is regarded as a CDK-like kinase (Clk) with homology to mitogen-activated protein kinases (MAPKs).
+
+This protein is related to inflammation and asthma because in these cases, there are increased levels of ECP in the body.
+
+This protein is remotely related to microsomal glutathione S-transferase.
+
+This protein is responsible for aspects of bone and cartilage growth.
+
+This protein is responsible for regulating the RAS-mediated cell growth signaling pathway.
+
+This protein is similar to phosphatidic acid phosphatase type 2A (PPAP2A) and type 2B (PPAP2B).
+
+This protein is similar to the mouse stargazin protein, mutations in which have been associated with absence seizures, also known as petit-mal or spike-wave seizures.
+
+This protein is specific for the kidney.
+
+This protein is stored in the zymogen granules of the nuclear envelope and functions by cleaving DNA in an endonucleolytic manner.
+
+This protein is the 9th member out of 14 ZIP family proteins, which is a membrane androgen receptor (mAR) coupled to G proteins, and also classified as a zinc transporter protein.
+
+This protein is the catalytic member of a 16 subunit protein kinase complex which contains equimolar ratios of 4 subunit types.
+
+This protein is the largest member of the LTBP family possessing unique regions and with most similarity to the fibrillins.
+
+This protein is the ligand for MLP/C_MPL, the product of myeloproliferative leukemia virus oncogene.
+
+This protein is the prototype of the Pseudomonas phage F116 holin (F116 Holin) family (TC# 1.
+
+E.
+
+25), which is a member of the Holin Superfamily II.
+
+This protein is the rate-limiting enzyme in the synthesis of cytosine nucleotides, which play an important role in various metabolic processes and provide the precursors necessary for the synthesis of RNA and DNA.
+
+This protein is therefore important in regulating DNA repair.
+
+This protein is the target of many antidepressant medications of the SSRI and tricyclic antidepressant classes.
+
+This protein is thought to be an endogenous regulator of KATP channels.
+
+This protein is thought to be involved in centrosomal or ciliary functions.
+
+This protein is thought to be involved with cellular proliferation and may play a role in leukemogenesis.
+
+This protein is thought to play a regulatory role in keratinocyte proliferation and it may also be a regulator for rRNA transcription.
+
+This protein is thought to play a role in nervous system development and maintenance.
+
+This protein is thought to play a significant role in the signal transduction of hematopoietic cells.
+
+This protein is thought to serve as a direct link between the regulation of transcription and the cell cycle.
+
+This protein is upregulated by interferon-alpha but does not contain the antiviral activity of a similar myxovirus resistance protein 1.
+
+This protein is very similar to the family member hnRPH.
+
+This protein is widely expressed throughout vertebrate species.
+
+This protein kinase activation presumably allows cells to resist unfavorable environmental conditions.
+
+This protein kinase has been reported to be involved in many different cellular functions, such as B cell activation, apoptosis induction, endothelial cell proliferation, and intestinal sugar absorption.
+
+This protein kinase is expressed solely in the brain and spinal cord and its localization is restricted to neurons.
+
+This protein lacks any similarity to other interleukin 1 ligands.
+
+This protein lacks one amino acid of the conserved heme binding site.
+
+This protein lacks the propeptide region and the metalloproteinase and disintegrin-like domains, which are typical of the ADAMTS family, but contains other ADAMTS domains, including the thrombospondin type 1 motif.
+
+This protein, like CD209, efficiently binds both intercellular adhesion molecule 3 (ICAM3) and HIV-1 gp120, and enhances HIV-1 infection of T cells.
+
+This protein, like its mouse homolog, is likely a GPI-anchored cell surface molecule.
+
+This protein likely has an inhibitory effect on receptor tyrosine kinase signaling and, in particular, on insulin receptor signaling.
+
+This protein likely localizes to the endoplasmic reticulum.
+
+This protein localizes at cell junctions and may link cell adhesion structures to the actin cytoskeleton.
+
+This protein localizes to cytoplasmic filaments.
+
+This protein localizes to mitochondria, and functions to induce apoptosis.
+
+This protein localizes to mitochondria and is probably involved in mitochondrial translation or the biogenesis of the large subunit of the mitochondrial ribosome.
+
+This protein localizes to the centriolar sub-distal appendages that are associated with the older of the two centrioles after centrosome duplication.
+
+This protein localizes to the centrioles.
+
+This protein localizes to the centrosome and recruits proteins to the pericentriolar matrix (PCM) to ensure proper centrosome and mitotic spindle formation, and thus, uninterrupted cell cycle progression.
+
+This protein localizes to the endoplasmic reticulum and is known to dehydrogenate 3-methylindole, an endogenous toxin derived from the fermentation of tryptophan, as well as xenobiotic substrates, such as naphthalene and ethoxycoumarin.
+
+This protein localizes to the endoplasmic reticulum (ER) and interacts with lectin chaperones calreticulin and calnexin (CNX) to modulate folding of newly synthesized glycoproteins.
+
+This protein localizes to the endoplasmic reticulum; its substrate has not yet been determined.
+
+This protein localizes to the inner mitochondrial membrane and involved in heme A biosynthesis.
+
+This protein localizes to the inner mitochondrial membrane and is exposed to the intermembrane space.
+
+This protein localizes to the mitochondria, as well as the nucleus, where it carries out nuclear fragmentation as part of caspase-independent apoptosis.
+
+This protein localizes to the nuclear matrix.
+
+This protein localizes to the nucleus and the cytoplasm.
+
+This protein localizes to the periphery of cells and may function in the assembly or regulation of proteins in the cornified envelope.
+
+This protein localizes with a speckled pattern in the nucleus, and could be involved in the formation of splicesome via the RE and RS domains.
+
+This protein may act as a transcriptional regulator and is thought to be involved in some of the developmental abnormalities observed in patients with partial trisomy 2p.
+
+This protein may act to disengage RNA polymerase II from TAR during transcriptional elongation.
+
+This protein may also hamper mitogen-induced cell cycle progression when abnormally or prematurely expressed.
+
+This protein may also play a role in anti-coagulation.
+
+This protein may also play a role in the transport of phospholipids into mitochondrial membranes.
+
+This protein may be a transcriptional repressor rather than a transcriptional activator.
+
+This protein may be involved in brain development and function.
+
+This protein may be involved in endosomal trafficking, microtubule dynamics, or both functions.
+
+This protein may be involved in epithelial differentiation and carcinogenesis.
+
+This protein may be involved in regulating cell shape in certain tissues.
+
+This protein may be involved in the assembly and stabilization of actin-filaments and likely plays a role in modulating cell adhesion, cell morphology and cell motility.
+
+This protein may be involved in the control of cytoskeletal organization.
+
+This protein may be involved in the coordination of the activities of the secretory pathway and the actin cytoskeleton.
+
+This protein may be involved in the tropism and binding of pathogenic organisms.
+
+This protein may be regulated by tumor necrosis factor-alpha and play a role in enhancement of protein synthesis and the inflammation process.
+
+This protein may be secreted by cells.
+
+This protein may bind hydrophobic ligands and inhibit cysteine proteinases.
+
+This protein may form oligomeric complexes with family members.
+
+This protein may form the receptor for S4 colicins in Escherichia coli.
+
+This protein may function as a tumor suppressor.
+
+This protein may function in lymphatic hyaluronan transport and have a role in tumor metastasis.
+
+This protein may function in the central nervous system.
+
+This protein may function in the inhibition of casein kinase and as a cytokine.
+
+This protein may function in vesicle trafficking, membrane fusion, protein complex assembly and cell motility.
+
+This protein may have a proliferative effect and play a role in cancer development or progression.
+
+This protein may have a tumor suppressor function.
+
+This protein may have important functions in the extracellular matrix.
+
+This protein may interfere with the conversion of active, GTP-bound Rho to the inactive GDP-bound form by RhoGAP.
+
+This protein may participate in the regulation of visual phototransduction or in the integration of photoreceptor metabolism.
+
+This protein may play a role in cardiovascular development, axon guidance, and tumorigenesis.
+
+This protein may play a role in coordinating the early steps of cytochrome c oxidase (COX; also known as complex IV) subunit assembly and, in particular, the synthesis and assembly of the COX I subunit of the holoenzyme.
+
+This protein may play a role in tumorigenesis.
+
+This protein may play important roles in inflammation and in the regeneration of skeletal muscle.
+
+This protein may play some biological role in the host defense system on the mucous membrane independently of or in cooperation with other substances in airway mucous or bronchial secretions.
+
+This protein may possess carbohydrate or IgE-binding activities.
+
+This protein may serve as a link between the cornified envelope and desmosomes as well as intermediate filaments.
+
+This protein may tightly associate or interact with the pyruvate dehydrogenase complex.
+
+This protein member also interacts with presenilin.
+
+This protein might be involved in signaling in some cases of breast cancer.
+
+This protein, most commonly found in the brain, is essential for normal cognitive development and female reproductive function.
+
+This protein normally restrains muscle growth, ensuring that muscles do not grow too large.
+
+This protein occurs in the cell wall of the fungus and is involved in the host-pathogen interaction and induces both cell necrosis and phytoalexin synthesis which is one of the first plant defense-related events.
+
+This protein, of 200-220 kDa, is a neuronal cell adhesion molecule with a strong implication in cell migration, adhesion, neurite outgrowth, myelination and neuronal differentiation.
+
+This protein participates in attenuating transcription from the mitochondrial genome; this attenuation allows higher levels of expression of 16S ribosomal RNA relative to the tRNA gene downstream.
+
+This protein participates in DNA replication and may play a role in modulating chromatin formation and contribute to the regulation of cell proliferation.
+
+This protein phosphorylates specific tyrosine residues in other proteins.

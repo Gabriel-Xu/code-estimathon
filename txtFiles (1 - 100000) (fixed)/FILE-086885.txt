@@ -1,0 +1,3 @@
+While ERCs are initially funded by the NSF, they are expected to be self-sustaining within 10 years of being founded.
+
+While eRF1 recognizes stop codons, eRF3 facilitates the release of the polypeptide chain through GTP hydrolysis.

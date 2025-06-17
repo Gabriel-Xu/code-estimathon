@@ -1,0 +1,155 @@
+Kinorhynchans are segmented, limbless animals. Their body has a head, neck, and a trunk. The trunk has eleven segments. They do not have external cilia, but have a number of spines along the body, and up to seven circles of spines around the head. These spines are used for movement. They can pull back the head and push forward; then they can grip the substrate with the spines, and draw up the body.
+
+The body wall is a thin layer with a tough cuticle. It is moulted several times during growth. This layer is a syncytium, with nuclei, but no cell membranes.
+
+The spines are hollow and covered by cuticle. The head is completely retractable, when is covered by a set of neck plates.
+
+The nervous system is a ventral nerve cord, with one ganglion in each segment, and an anterior nerve ring surrounding the pharynx. This is the common arrangement for invertebrates. Some species have simple ocelli (eye-spots) on the head, and all species have tiny bristles on the body as touch receptors.
+
+There are two sexes that look alike. A pair of gonads are in the mid-region of the trunk, and open to pores in the final segment. In most species, the sperm duct has two or three spiny structures that presumably help in copulation. The larvae are free-living.
+
+Their closest relatives may be the phyla Loricifera and Priapulida. Together they are the Scalidophora.
+
+Phylum KinorhynchaLoriciferaLoricifera is a recently discovered ecdysozoan phylum of marine animals. The phylum includes the first animals known to exist in a completely anoxic environment (no oxygen at all). The phylum was described in 1983 by Reinhardt Kristensen.
+
+They are a phylum of very small animals which live in sediment. There are now twenty-two described species, in eight genera. In addition, there are about 100 more species which have been collected, but not yet described. Their size ranges from 100 µm to about 1 mm.
+
+Their habitat is in the spaces between marine gravel to which they attach themselves. They are among the most recently discovered groups of Metazoans. They attach themselves quite firmly to the gravel, and this explains why they remained undiscovered for so long. The first specimen was collected in the 1970s, and later described in 1983. They are found at all depths of water, in different sediment types, and in all latitudes. They have not yet been found in the fossil record.
+
+These animals have a protective outer case called a lorica. Protected by the lorica, the animals have a head, mouth and digestive system. Development is usually direct, though there are larvae in some species. The animals have two sexes as adults. There are some complex and flexible life cycles with different forms of parthenogenetic reproduction.
+
+Their closest relatives are thought to be the Kinorhyncha and Priapulida, with whom they share some characteristics. Together they make up the clade Scalidophora.
+
+Three species of Loricifera have been found in the sediments at the bottom of the L'Atalante basin in the Mediterranean Sea. The 'surface' of this basin is 3,500 meters down. They are the first multicellular organisms known to spend their entire lives in an oxygen-free environment. It is thought they are able to do this because they rely on organelles which, unlike normal mitochondria, do not use oxygen for their energy cycle. They are able to do this because they use hydrogenosomes to get their energy rather than mitochondria.
+
+The newly reported animals complete their life cycle in the total absence of light and oxygen, and they are less than a millimetre in size. They were collected from the deep basin where they live in a nearly salt-saturated brine. This brine, because of its density, does not mix with the waters above. As a result, the brine is completely anoxic, and high in ammonia. Also, due to the action of sulphate reducers, it contains sulphide at a high concentration. In the brine, the abundance of cells is not high. Extremophiles predominate, including members of the deep-sea hydrothermal vent community of archaea and bacteria. Eukaryotes are also found in l'Atalante, including ciliates (45%), dinoflagellates (21%) and choanoflagellata (10%).
+
+This article incorporates CC-BY-2.
+
+0 text from referencesSaturation (chemistry)The term saturation in chemistry is used in several ways:SulphideA sulphide (sulfide in US English) is an anion of sulphur in its lowest oxidation number of -2. Sulphide is also a term for thioethers, a common type of compound which are known for their bad odours (example: HS = hydrogen sulphide).
+
+The dianion S exists only in strongly alkaline aqueous solutions.
+
+SulphateIn chemistry, a sulphate (sulfate in US English) is a salt of sulphuric acid. The sulphate ion is a group of atoms with the formula SO and two negative charges. It consists of a central sulphur atom surrounded by four equivalent oxygen atoms. It occurs when sulfuric acid is deprotonated twice. If it is only deprotonated once, the hydrogen sulfate ion is made.
+
+L'Atalante basinThe L'Atalante basin is a very salty 'lake' at the bottom of the Mediterranean Sea.
+
+It is about 190 km (~120 miles) west of the island of Crete. It is called a 'lake' because, though it is under more than two miles of water, it is almost completely separate from the sea above it. Its huge salt content prevents the waters mixing. Sometimes these lakes are called "brine pools". They are found in many oceans; there is one in the Gulf of Mexico.
+
+L'Atalante is only one of several such lakes underneath the normal waters of the Mediterranean. When the Strait of Gibraltar was closed, about six million years ago, the Mediterranean dried up and became a huge salt lake, rather like the Dead Sea and the Great Salt Lake are today. Then it dried out completely, leaving an enormous amount of salt. When the Straight of Gibraltar opened again about five million years ago, water from the Atlantic Ocean rushed in to form the Mediterranean we see today. Even today, the Atlantic feeds the Mediterranean with water, because the evaporation from the 'Med' is greater than is provided by its rivers. With its huge supply of salt underneath, and the constant evaporation, the Med is a high salt sea compared with the Atlantic.
+
+The L'Atalanta lake and its neighbours the Urania and Discovery lakes are about 35,000 years old. They were formed by salt deposits dissolving out of the Mediterranean Ridge and collecting in deep depressions at the bottom of the Med. L'Atalante is the smallest of the three. Its surface begins at about below sea level.
+
+L'Atalante's salinity (salt content) is near saturation, at 36.
+
+5%, about eight times more than seawater. This prevents the water in the brine pool from mixing with the 'normal' seawater above. Without mixing, oxygen from above can't get into the brine pool. The basin's water is completely anoxic: it has no oxygen.
+
+Between the normal water and the brine is a short (1.
+
+5 metres) boundary zone called a halocline. The salt content rises sharply there, and oxygen reduces towards zero. This halocline between the seawater above and the brine below has many bacterial and archaeal cells: they are chemoautotrophs, which feed on ammonia from the brine but cannot function without some oxygen. Certain methane oxidizers and haloarchaea are found only in the halocline.
+
+Below, in the brine, the number of cells is much lower than in the halocline. Extremophiles are most common, including some of the deep-sea hydrothermal vent archaea and bacteria. Eukaryotes are also found in l'Atalante, mostly ciliates (45%), dinoflagellates (21%) and choanoflagellata (10%).
+
+The dark grey anoxic sediments at the bottom of L'Atalante lake are covered with a loose black layer. Microbes found in the sediments are almost all (90%) various species of "Bacillus". In 2010, three metazoan species, all in the Loricifera phylum, were discovered living in the sediment, the first multicellular lifeforms known to live entirely without oxygen.
+
+Tactical votingTactical voting happens when a person votes for someone other than their favorite candidate in a way to either help their favorite or achieve some other goal. This may happen in national or local elections, or even in elections for clubs and homeowner associations.
+
+Say 5 people are running as candidates for board members, but only 3 will be elected. For the following situations except the last, let's say you get 1 vote.
+
+Another common situation happens in primary elections, where members of one party may temporarily 'cross over' to the other party to support a candidate who is getting fewer votes, hoping their favorite will face weak competition in the main election. This type of negative voting is popular but often considered unethical.
+
+Many experts question tactical voting in that it can undermine a democratic outcome. That is, ethical voters may believe it more important how a candidate wins than who wins. Others feel the end justifies the means. Most researchers tend to frown on tactical voting.
+
+Queensberry (band)Queensberry were a German girl group that was started at the German version of Popstars in 2008. They split in 2013.
+
+Strait of GibraltarThe Strait of Gibraltar is the only water passage between the Atlantic Ocean and the Mediterranean Sea. It is between Europe and Africa; on one side is the southern tip of Spain and Gibraltar, and on the other is northern Morocco and Ceuta. The distance between the Rock of Gibraltar and Morocco is only 7.
+
+7 nautical miles (14.
+
+24 kilometers, 8.
+
+9 miles) at its narrowest point.
+
+The water depth ranges between 300 and 900 meters.
+
+Hurricane FranHurricane Fran was a hurricane during the 1996 Atlantic hurricane season. This storm caused over $3 billion in damage. It killed 20-30 people. Fran struck North Carolina as a strong Category 3 hurricane with winds of . The name Fran was later retired and replaced by Fay for the 2002 Atlantic season.
+
+Hurricane Fran started from a tropical wave that moved off the western coast of Africa, entering the Atlantic Ocean, on August 22. The low pressure area became a tropical depression on August 23. Little changed for several days. By August 26, the storm had been disorganized.
+
+On August 27, the storm grew into a tropical storm and was named Fran. On August 29, the storm intensified into a category 1 hurricane. The interaction with Hurricane Edouard led to weakening and the storm took a northwestward direction. When Edouard was gone, the storm grew into a category 1 hurricane again.
+
+Fran grew in early September. By September 3, it the winds were at . The system started to develop an eye. By September 5, winds were at 120 mph (195 km/h) and its pressure was 946 mbar.
+
+On September 6, the storm hit North Carolina with winds of . Once on land, the storm rapidly weakened. It moved through Virginia. It died on September 8.
+
+A Hurricane Watch was issued in the Lesser Antilles in late August. As Fran moved away, the watch was ended.
+
+Type 1 diabetesType 1 diabetes, also called diabetes mellitus type 1, is an autoimmune disease that results in high blood sugar. This is because the body cannot create enough of the hormone insulin. People with type 1 diabetes need to take insulin injections to stay healthy. If they do not get enough insulin, they can become very sick or even die. People with type 1 diabetes are at increased risk of of diseases involing blood vessels such as stroke, heart disease or gangrene. About 15% of people with diabetes have type 1.
+
+Type 1 diabetes is a condition caused by a lack of insulin in the body. Insulin is a hormone produced by cells in the pancreas. Insulin is responsible for moving sugars out of the blood and into cells to be used by the body for energy. If insulin is not made, the body will search for other ways to get the sugars needed to feed the body's cells, including breaking down muscle and fat, leading to a loss of weight.
+
+Insulin is not being produced in the pancreas due to an autoimmune condition attacking its cells. The body's immune system mistakenly attacks the cells responsible for producing insulin in the pancreas, the beta cell. The beta cells are damaged in a way that prevents them from producing more insulin. As more and more of these cells are damaged, less insulin is produced in the body. This means that more sugar remains in the bloodstream rather than being moved into cells. This high blood sugar causes the symptoms seen in type 1 diabetes.
+
+The disease is thought to be strongly linked to genetic factors, but the trigger that starts the autoimmune disease is not currently known.
+
+In the past, type 1 diabetes was generally thought to be a disorder in children and teenagers. However, it's now been found that adults can be diagnosed with the disease.
+
+Although type 1 diabetes can now be diagnosed at any age, it is one of the most common chronic conditions in children and young adults. Being diagnosed at ages 5–7 or at the start of puberty is particularly common. Type 1 diabetes is also slightly more common in boys.
+
+Cases of type 1 diabetes have been increasing across the world for several decades. Approximately 1 in 300 people are diagnosed with type 1 diabetes by the age of 18 in the United States.
+
+In type 1 diabetes, symptoms generally develop over a few days or weeks, though may take longer in adults. The main symptoms are:Nausea, vomiting and heavy breathing are more serious symptoms that occur at a later stage in the disease.
+
+People with type 1 diabetes may have to deal with both short-term and long-term complications, particularly if the disease is not well managed.
+
+Hypoglycaemia is when blood sugar levels decrease to below normal. This is most commonly due to overuse of medications for diabetes type 1 like insulin, poor diet control, and rigorous exercise. The risk of suffering from low blood sugar is increased by drinking alcohol. This may lead to various other symptoms, including confusion, loss of consciousness, clumsiness, seizures or death.
+
+Diabetic ketoacidosis (DKA) is a very serious complication of type 1 diabetes. It is a medical emergency and requires rapid medical attention to prevent further damage to a patient, if left untreated it can potentially lead to death. DKA occurs when there is not enough insulin in the body to supply sugars to the body's cells. In order to give its cells enough energy to survive, the body begins to produce acidic ketone bodies which are then used to feed energy to the cells.
+
+If too many ketone bodies build up the blood becomes acidic, damaging the body and leading to the symptoms:If diabetes is not treated, even mildly raised blood sugar levels can damage nerves, organs and blood vessels in the body.
+
+There is no known cure for diabetes. Instead, treatment is designed to help keep blood sugar levels normal in order to reduce the chances of complications developing as the disease progresses. There are two main method that are combined to manage diabetes type 1:Type 1 diabetes occurs due to the bodies inability to produce its own insulin. To counter this, insulin can be injected into the blood manually. When diabetes is first diagnosed, a plan should be made for insulin treatment in order to not under or overdose, which can lead to serious complications. A diabetic should monitor their own blood sugar levels continuously to know whether they need a dose of insulin to lower their blood sugar.
+
+There are different kinds of insulin that can be taken:Eagle Mountain (Minnesota)Eagle Mountain is the highest point in Minnesota, at 2,301 feet (701 m). It is located in northern Cook County. It is a Minnesota State Historic Site.
+
+Al FrankenAlan Stuart "Al" Franken (born May 21, 1951) is a former United States Senator from Minnesota. He is a member of the Minnesota Democratic–Farmer–Labor Party, which affiliates with the national Democratic Party. Before he was a Senator, Franken was a writer and actor on "Saturday Night Live".
+
+Franken was also a left-wing pundit and has written several books on politics. His second cousin was actor Steven Franken.
+
+On December 7, 2017, Franken announced in an address before the Senate that he would be resigning from his office following sexual harassment claims.
+
+Minneapolis–Saint PaulMinneapolis-Saint Paul is the most populous urban area in the state of Minnesota, United States, and is made up of over 200 cities and townships. Built around the Mississippi, Minnesota and St. Croix rivers, the area is also nicknamed the Twin Cities for its two largest cities, Minneapolis and Saint Paul.
+
+Arrowhead RegionThe Arrowhead Region is in the northeastern part of the U.
+
+S. state of Minnesota. It got its name from its pointed shape. The mainly rural region is 27,636 km² (10,670 sq mi) of land area and comprises Carlton, Cook, Lake and St. Louis Counties. At the 2020 census 252,943 people lived there.
+
+Misquah HillsThe Misquah Hills are a range of large hills or small mountains in northeastern Minnesota, in the United States. They are located in or near the Boundary Waters Canoe Area Wilderness within Superior National Forest. They contain Eagle Mountain, the highest point in Minnesota at .
+
+Sawtooth Mountains (Minnesota)The Sawtooth Mountains are low ridges on the North Shore of Lake Superior in the U.
+
+S. state of Minnesota. They extend about 30 miles (50 km) from Carlton Peak near Tofte on the west, to Grand Marais on the east.
+
+Leaf Hills MorainesThe Leaf Hills Moraines, sometimes called the Leaf Mountains, are a range of hills in west-central Minnesota. The lands typically rises to a height of to above the surrounding farmland throughout the duration of its range, occasionally reaching higher than .
+
+Minnesota Democratic–Farmer–Labor PartyThe Minnesota Democratic–Farmer–Labor Party (DFL) is a major political party in the U.
+
+S. state of Minnesota. It was created on April 15, 1944, when the Minnesota Democratic Party and the Farmer–Labor Party merged. Hubert Humphrey was a major part in this merger. The party is affiliated with the national Democratic Party. Both members of the party and non-members in Minnesota often use "DFLer" instead of "Democrat".
+
+List of United States senators from MinnesotaMinnesota was admitted to the Union on May 11, 1858.
+
+As of July 7, 2009, Minnesota has had 40 senators serve in the US Senate.
+
+Governor of MinnesotaThe Governor of Minnesota is the chief executive of the U.
+
+S. state of Minnesota, leading the state's executive branch. Thirty-nine different people have been governor of the state. State governors are elected to office by popular vote. The current governor of Minnesota is Democratic Tim Walz.
+
+The governor has a cabinet consisting of the leaders of various state departments. The governor appoints these department heads, who are usually called commissioners. Cabinet-level departments include:The Minnesota Governor's Residence is located in Saint Paul, at 1006 Summit Avenue.
+
+Okutama, TokyoOkutama has an area of 225.
+
+63 km². Mount Kumotori, Tokyo's highest peak at 2017 m, divides Okutama from the Okuchichibu region of the neighboring Saitama and Yamanashi Prefectures. Tokyo's northernmost and westernmost points lie in Okutama, as does Lake Okutama, an important source of water for Tokyo, located above the Ogōchi Dam in the town.
+
+Flag of MinnesotaThe Flag of Minnesota is the state seal on a blue background. The flag that people use now was made in 1957 and the state seal on the flag was changed in 1983. In the past, people used a different flag that looked like the one that Minnesota uses now, but it had different colors on the front and back of the flag. Some people don't like the flag because they think it is too complicated and they think it should be simpler.
+
+Seal of Minnesota

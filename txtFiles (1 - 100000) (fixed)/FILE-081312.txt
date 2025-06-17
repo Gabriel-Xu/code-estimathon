@@ -1,0 +1,337 @@
+The widget can sometimes also include the ability to rearrange the selected values.
+
+The widget hides non-essential settings or information and thus makes the dialog less cluttered.
+
+The widget rewarded users with rare tracks, videos, pictures and interviews as fans "level up" their widgets.
+
+The widgets are written in lisp, using the cl-who meta-language.
+
+The widgets can directly retail music and physical products and contains all the user's featured items, mixes and media.
+
+The widgets wrap ncurses functionality to make writing full screen curses programs faster.
+
+The Widgiemooltha Komatiite is a formation of komatiite in the Yilgarn Craton of Western Australia.
+
+The Widhat al-Qa'idah group responded by claiming that they were the legitimate leadership of the Iraqi Communist Party (Central Command), and declared Mahmud expelled from the party.
+
+The Widikum people are an ethnic group of Cameroon.
+
+The Widi were an indigenous Australian people of Western Australia.
+
+The Widmer End newsletter is run by local residents to inform, entertain and promote community cohesion.
+
+The Widmerpool Gulf is a name given to a sedimentary basin that existed as an area of open water during the Early Carboniferous (Tournaisian Age).
+
+The Widnes by-election of 1971 took place on 23 September, following the death of the Labor MP James MacColl on 17 June of that year, and produced a victory for the incumbent Labor Party.
+
+The Widnes Vikings are an English professional rugby league club based in Widnes, Cheshire that plays in the Super League, the top tier of European rugby league.
+
+The Widnes Vikings competed in the Championship in the 2011 season and was their first full season under new head coach Denis Betts.
+
+The Widnes Vikings competed in the Co-operative Championship in 2009.
+
+The Widnes Vikings competed in the Co-operative Championship in 2010.
+
+The Widonids and the Rogonids competed for control of the Breton March through much of the ninth century.
+
+The Widonids, Guidonids or Vitone were an Italian family of Frankish origin prominent in the ninth century.
+
+The Widow and Her Hero is a novel by the Australian author Thomas Keneally set in Australia during World War II.
+
+The widow attempted a peaceful resolution, but when Dorino refused to negotiate she sent her uncle to petition the Ottoman Sultan Mehmed II for help.
+
+The Widow Couderc (French: La veuve Couderc) is a 1971 French drama film based on the novel of the same name by Georges Simenon.
+
+The widowed Lady Caryll married secondly, Francis Sempill, 2nd Jacobite Lord Sempill.
+
+The Widowed Wife is a 1767 comic play by William Kenrick.
+
+The Widow from Chicago is a 1930 American pre-Code crime drama film released by First National Pictures, a subsidiary of Warner Bros. and directed by Edward F. Cline.
+
+The widow has to admit that the pictures by her deceased spouse sell much better, only for him to suddenly appear alive.
+
+The Widowing of Mrs. Holroyd is a play by the English writer D. H. Lawrence.
+
+The Widow in Scarlet is a 1932 American Pre-Code crime film directed by George B. Seitz.
+
+The Widow (Italian:La vedova) is a 1939 Italian drama film directed by Goffredo Alessandrini and starring Isa Pola, Leonardo Cortese and Osvaldo Valenti.
+
+The Widow Jones was an 1895 New York City stage musical comedy.
+
+The Widowmaker has become a popular event, both on the local riding circuit, and nationally with pro-riders.
+
+The Widowmaker hill climb is an outdoor motorcycle sport event held annually and sometimes semi-annually in Croydon, Utah, United States.
+
+The Widowmaker is a 1990 made-for-television film starring Annabelle Apsion, Alun Armstrong, David Morrissey and Kenneth Welsh.
+
+The widow of a heroic officer is assaulted by an unrevealed comrade in arms and an investigation takes place to determine his identity.
+
+The widow of a slain police officer, she rose through the ranks of the Manila Police Department, and in 1983 won an award for arresting three murder suspects on Mindoro Island.
+
+The Widow of Bath is a crime thriller novel by the Scottish author Margot Bennett, published in 1952.
+
+The widow, often known as the "dowager", usually moves into the dower house from the larger family house on the death of her husband if the heir is married, and upon his marriage if he was single at his succession.
+
+The Widow's Assassin is a Big Finish Productions audio drama based on the long-running British science fiction television series Doctor Who.
+
+The Widow's Bane added two members, Jimson Crockett and Abracham Lynch.
+
+The Widow's Investment is a 1914 American silent short drama film starring Charlotte Burton, Sydney Ayres, Jack Richardson, Perry Banks, Edith Borella, Caroline Cooke, Vivian Rich, and Harry Van Meter.
+
+The Widow's Might is a 2009 American independent Christian film set in modern-day Texas and the Old West.
+
+The Widow's Might is a lost 1918 American comedy silent film directed by William C. deMille and written by Marion Fairfax.
+
+The Widows of Eastwick is the final novel by John Updike, author of the Pulitzer-prize winning "Rabbit" series.
+
+The Widow's Tears is an early Jacobean era play, a comedy written by George Chapman.
+
+The widows that were left found their situation deplorable.
+
+The Widow Valley Mountains are a mountain range in Lassen County, California.
+
+The widow was paid to move out, and Peter spent a week as Kist's houseguest.
+
+The width and depth of the foreland basin is determined by the flexural rigidity of the underlying lithosphere, and the characteristics of the mountain belt.
+
+The width and depth of the trochanteric fossa varies taxonomically.
+
+The width from Left Molar to Right Molar or Measured Molar Value (MMV) can be calculated by using the S.
+
+I of incisors and multiplying by 100.
+
+The width from Left Premolar to Right Premolar or Measured Premolar Value (MPV) can be calculated by using Sum of Incisal Widths (S.
+
+I) of incisors and multiplying it by 100.
+
+The width, length and depth of ocean pools varies and often depends on their location on the coastline.
+
+The width of a narrow cut can also affect the maximum loading gage.
+
+The width of each twinette compartment is typically almost as great as the width of the sleeping car it is in, with a corridor (occupying the remaining width) running down one side of the car.
+
+The width of Haverstraw Bay is approximately 3.
+
+4 miles (5.
+
+5 kilometers).
+
+The width of his powers led to frequent clashes with the longer established courts, and in 1622 he was warned sharply not to "intermeddle" with cases which were properly the business of those courts.
+
+The width of the address bus determines the amount of memory a system can address.
+
+The width of the belt is 1/15 the width of the flag.
+
+The width of the bevel also can vary depending on the desired effect.
+
+The width of the black border is individually variable.
+
+The width of the blade is constant from the teeth to the back.
+
+The width of the blue strip equals 1/10 of a flag's total width, and the yellow stripes width equals 1/30 of the flag's width.
+
+The width of the Gaussian is a sigma value, a hyper-parameter which can be manually defined and manipulated to suit the application.
+
+The width of the inner wall varies around the perimeter, with the widest section to the south.
+
+The width of the lapels is one of the most changeable aspects of the jacket, and narrow peak lapels on single-breasted jackets became popular during the 2000s.
+
+The width of the Lualaba river is about 440 m, while the main span of the bridge is 70 meters, and has a single 5-meter-wide lane for all traffic, including dual-gage rails.
+
+The width of the middle section along the H axis is twice the coercivity of the material.
+
+The width of the nave was based on the medieval models to be found throughout Ireland and England.
+
+The width of the product ion spectrum peaks is related to the kinetic energy release distribution for the dissociation process.
+
+The width of these clouds is generally less than 300 feet (91.
+
+44 meters) thick.
+
+The width of the stripes, from top to bottom, are 67+4+4+25.
+
+The width of this power was later considered again in the cases of Actors and Announcers Equity Association v Fontana Films, Commonwealth v Tasmania (the Tasmanian Dam Case), Re Dingjan; Ex parte Wagner, and New South Wales v Commonwealth (the WorkChoices Case).
+
+The Width of Waters is a novel by the American writer Alfred Kern.
+
+The width ranges from 80 meters to 120 meters.
+
+The widths are measured from occlusal grooves of both premolars and molars.
+
+The widths of the bands are directly proportional to energy production, utilization and losses.
+
+The widths of the properties were comparatively narrow.
+
+The width, to be covered by the exhibition between Anson Road and the sea is 530 yards and between the main entrance opposite McCallum Street and the sea is 270 yards.
+
+The Widyabal were an indigenous Australian people of the state of New South Wales.
+
+The Wieboldt-Rostone House is a house that was built in 1933.
+
+The Wiechel projection is an azimuthal, equal-area projection, and a novelty map presented by William H. Wiechel in 1879.
+
+The Wiedemann Wysocki Award is an annual award given by the American Association for Justice to members who have made significant efforts to advance the organization's political outreach projects and priorities.
+
+The Wiedenbeck-Dobelin Warehouse is located in Madison, Wisconsin.
+
+The Wiedenest Formation is a geologic formation in Germany.
+
+The Wiegand interface is a de facto wiring standard which arose from the popularity of Wiegand effect card readers in the 1980s.
+
+The WIEGO network was founded in April 1997 by a group of ten activists, researchers, and development practitioners, based around the globe, who worked on the informal economy and articulated a shared concern that the working poor, especially women, in the informal economy were not well understood, valued, or supported in policy circles or by the international development community.
+
+The WIEGO secretariat is currently located at the Hauser Center for Nonprofit Organizations at the Kennedy School of Government at Harvard University.
+
+The Wiehltal Bridge is a highway bridge on the A 4 motorway between Cologne and Olpe over the Wiehltal valley at Engelskirchen (Oberbergischer Kreis), North Rhine-Westphalia, Germany.
+
+The Wieland Brewery Building is a historic building located on Mineral Street in Tonopah, Nevada.
+
+The Wieland-Gumlich aldehyde has been used in the industrial synthesis of alcuronium chloride (Alloferin) via dimerization.
+
+The Wieland-Gumlich aldehyde reverts to strychnine in a single reaction using malonic acid, acetic anhydride and sodium acetate in acetic acid.
+
+The Wielingen class is a class of four multi-functional frigates built for the Belgian Navy.
+
+The Wielkopolska Chronicle (or Chronicle of Greater Poland, Polish: Kronika wielkopolska) is an anonymous medieval chronicle describing supposed history of Poland from legendary times up to the year 1273.
+
+The Wienbibliothek preserves 500,000 books, 2,000 newspapers and magazines, 300,000 posters, 500,000 autographs, notable bequests and legacies, and one of the most important music collections in the world.
+
+The Wiener derby, or Vienna derby is an association football local derby match between city rivals FK Austria Wien and SK Rapid Wien from the Austrian capital city of Vienna (Wien).
+
+The Wienerfelder Messe (Vienna Pop-Mass) is a popmass written by Thomas Raber.
+
+The Wiener Film genre was in production between the 1920s and the 1950s, with the 1930s as its high period.
+
+The Wiener filter grades smoothly between linear components that are dominated by signal, and linear components that are dominated by noise.
+
+The Wiener-Hopf factorization gives the transition probability kernel in the discrete time case.
+
+The Wiener Internationale Gartenschau 74 (English: Vienna International Garden Show 74), often shortened to WIG 74, was a garden festival held in Vienna, Austria.
+
+The Wiener Library is a research library at Tel Aviv University which focuses on the Nazi era and the Holocaust.
+
+The Wiener Lokalbahnen (WLB) are a transportation company in Greater Vienna, Austria.
+
+The Wiener Oboe is named after its origins in Vienna (German: Wien) and, besides the more common Conservatoire oboe, is the only other type of modern oboe in use today.
+
+The Wienerschnitzel Wiener Nationals is a Dachshund racing event featuring Dachshunds and is held in California.
+
+The Wiener Singakademie is a choir in Vienna, Austria.
+
+The Wiener Sport-Club, commonly referred to as WSC, was established in 1883 in Vienna, Austria and is one of the country's oldest athletics clubs.
+
+The Wiener Stadtliga is an Austrian Landesliga conference, one of the fourth-highest soccer leagues in Austrian football.
+
+The Wienerwald forms the natural border to the east and gives the quarter its second name, "The Quarter Over the Wienerwald".
+
+The Wiener Wolf mascot when portrayed on the Uncle Dick's Funhouse afternoon show.
+
+The Wien is a river that flows through the city of Vienna.
+
+The wierde is part of a cluster of wierdes along the eastern bank of the Hunze.
+
+The wierde on which the village is built dates from around the year 0 and is still clearly visible.
+
+The Wierickerschans Fort is a part of the Old Dutch Waterline or "Oude Hollandse Waterlinie".
+
+The Wieringerrandmeer project between the Wieringermeer and Wieringen is still under discussion with the province of North Holland.
+
+The Wiesbach is a 44.
+
+4-kilometre-long river, which rises in the North Palatine Uplands (Rhineland-Palatinate) and flows into the Nahe near Grolsheim in the county of Mainz-Bingen (also in Rhineland-Palatinate).
+
+The Wiesbadener Kurier (also known as the WK) is a regional, daily newspaper published by the Wiesbadener Kurier GmbH & Co. Verlag und Druckerei KG for the area in and around the state capital of Hesse, Wiesbaden in Germany.
+
+The Wiesbadener Tagblatt (also known as the WT) is a regional, daily newspaper for the area in and around the state capital of Hesse, Wiesbaden in Germany.
+
+The Wiesbaden manifesto is a document written and signed by members of the Monuments, Fine Arts and Archives (MFAA) organization rejecting the plundering and removal of cultural items as spoils of war.
+
+The Wiesbaden Phantoms are an American football team from Wiesbaden, Germany.
+
+The Wiesbaden Region (German: Regierungsbezirk Wiesbaden) was one of three administrative regions (along with Darmstadt Region and Kassel Region) from which the state of Hesse was formed in 1945.
+
+The Wiese family occupied Clayton Farm until 1981, when Jeff Wiese reached an agreement with the Bordertown and District Agricultural Museum to lease an area of 3.
+
+48 hectares of land containing an outstanding collection of historic buildings.
+
+The Wiese is a right-hand tributary of the Rhine which has its source in Feldberg and flows into the Rhine in Basel, Switzerland.
+
+The Wiesel Armored Weapons Carrier (AWC) is a German light air-transportable armored fighting vehicle, more specifically a lightly armored weapons carrier.
+
+The Wiesel has been used in several of the Bundeswehr's missions abroad (UNOSOM II, IFOR, SFOR, KFOR, TFH, ISAF).
+
+The Wiesental, named after the river Wiese, is a valley in the Southern Black Forest.
+
+The Wiesental was one of the first industrialized regions of the former grand dutchy of Baden and an important production location for the textile industry.
+
+The Wieskirche was added to the UNESCO World Heritage List in 1983 and underwent extensive restoration between 1985 and 1991.
+
+The Wiesner Building is also known to the Massachusetts Institute of Technology community as Building E15.
+
+The WIFA is making efforts to revive the tournament.
+
+The WIF domain binds to the wnt ligand since it inhibits it.
+
+The wife agrees to the proposal and proves to be quite capable with a plow.
+
+The wife and descendants of an enfranchised Indian would also be enfranchised, and would no longer be considered members of the former tribe, unless they were to regain Indian status through another marriage.
+
+The wife and suitors then go to comical lengths to hide their intentions from Dr Fossil.
+
+The wife declares her intention to commit suicide in protest, and the complications arising from this set up the rest of the play's action.
+
+The wife is more idiosyncratic in her thinking.
+
+The wife is not named.
+
+The wife of a British aristocratic politician, who is neglected by her husband, resists an attempt to break them up.
+
+The wife of Abu Sayyaf, Umm Sayyaf was captured and is currently held by U.
+
+S. Forces in Iraq.
+
+The wife of a company's chairman stages her own kidnapping in order to gain money.
+
+The wife of actor Karunas, Grace has often sung in films featuring her husband.
+
+The wife of a Jacksonian Baron is styled a 'Baronne,' in the French usage, not a Baroness.
+
+The wife of a Jordan prince will usually take the title and style of her husband.
+
+The wife of a local doctor won a naming contest with the name "Glennwanis Hotel", a suggestion combining "Glennville" and "Kiwanis".
+
+The wife of a Lord receives the courtesy title 'Lady Placename', but the husband of a Lady, who holds a feudal barony in her own right, is just plain Mr. 'Surname'.
+
+The wife of a Member of Parliament pressures a jockey to throw The Derby.
+
+The wife of a politician is found dead at a country inn.
+
+The wife of a Saxon prince will usually take the title and style of her husband.
+
+The Wife of Auchtermuchty is characterized by physical humor and wry observations on the relationship between husband and wife.
+
+The wife of British guitarist David Gilmour, Polly Samson, purchased the building in late 2015.
+
+The wife of former Enron executive and convicted felon Andrew Fastow, she was the second former Enron executive to go to prison after Enron collapsed due to fraud in December 2001.
+
+The Wife of Forty Years (German:Die Frau von vierzig Jahren) is a 1925 German silent drama film directed by Richard Oswald and starring Diana Karenne, Vladimir Gajdarov and Sig Arno.
+
+The wife of Gaius Julius Pisibanus, suffect consul in 141, is somehow related to Papus, either as his sister or his daughter.
+
+The wife of Garry Shider, Linda sang background on many P-Funk products.
+
+The wife of Governor Tim Pawlenty, she was First Lady of Minnesota from 2003 to 2011.
+
+The wife of Jefferson County sheriff Abner Killough was struck in the breast by a stray shot while sitting on her porch.
+
+The wife of main character Leopold Bloom, she roughly corresponds to Penelope in the Odyssey.
+
+The Wife of Monte Cristo is a 1946 American adventure film directed by Edgar G. Ulmer starring John Loder and Lenore Aubert.
+
+The wife of Phinehas is an unnamed character in the Hebrew Bible.
+
+The wife of Prime Minister Ole Anton Qvam, she was also a former chairman of the Norwegian Association for Women's Rights.
+
+The wife of producer Pandro S. Berman convinced him to create a film with Presley in the last role.
+
+The wife of Reccared I subscribed to the canons of the Third Council of Toledo as "I, Baddo, glorious queen" (ego Baddo, gloriosa regina).

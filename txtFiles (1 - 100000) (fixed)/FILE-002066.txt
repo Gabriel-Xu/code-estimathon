@@ -1,0 +1,21 @@
+The current flowing in an electrical or electronic circuit can suddenly increase when a component part fails. This can cause serious damage to other components in the circuit, or create a fire hazard. To protect against this, a fuse or a device called a "circuit breaker" can be wired into a circuit. The circuit breaker will open, or "break", the circuit when the current in that circuit becomes too high, or the fuse will "blow". This gives protection.
+
+The standard return for electrical and electronic circuits is the earth ground. When an electrical or electronic device fails, it may open the return circuit to the earth ground. The user of the device could become a part of the device's electrical circuit by providing a return path for the electrons through the user's body instead of the circuit's earth ground. When our body becomes part of an electrical circuit, the user can be seriously shocked, or even killed by electrocution.
+
+To prevent the danger of electrical shock and the possibility of electrocution, ground fault interrupts devices detect open circuits to earth ground in attached electrical or electronic devices. When an open circuit to earth ground is detected, the G.
+
+F.
+
+I. device immediately opens the voltage source to the device. G.
+
+F.
+
+I. devices are similar to circuit breakers but are designed to protect humans rather than circuit components.
+
+Short circuits are circuits that get back to the power source unused or with the same power as put out. Using these usually blow a fuse but sometimes they don't. Doing this with a battery can cause electrical fires.
+
+QuizA quiz is a type of game in which players (as individuals or in teams) try to answer questions correctly. Quizzes are also used in education and similar fields to improve the growth of someone's knowledge, abilities, and/or skills.
+
+Quizzes are usually scored in points. Many quizzes are designed for people to determine the winner of a group of participants - usually the participant with the highest score.
+
+John Hancock

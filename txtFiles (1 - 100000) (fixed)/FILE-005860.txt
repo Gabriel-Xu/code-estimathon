@@ -1,0 +1,139 @@
+The band gap energy of semiconductors tends to decrease with increasing temperature. When temperature increases, the amplitude of atomic vibrations increase, leading to larger interatomic spacing. The interaction between the lattice phonons and the free electrons and holes will also affect the band gap a little. The relationship between band gap energy and temperature can be described by Varshni's empirical expression,In a regular semiconductor crystal, the band gap is fixed owing to continuous energy states. In a quantum dot crystal, the band gap is size dependent and can be altered to produce a range of energies between the valence band and conduction band. It is also known as quantum confinement effect.
+
+Band gaps also depend on pressure. Band gaps can be either direct or indirect, depending on the electronic band structure.
+
+Classically, the ratio of probabilities that two states with an energy difference "ΔE" will be occupied by an electron is given by the Boltzmann factor:where:At the Fermi level (or chemical potential), the probability of a state being occupied is ½. If the Fermi level is in the middle of a band gap of 1 eV, this probability is "e" or about 2.
+
+0⋅10 at the room-temperature thermal energy of 25.
+
+9 meV.
+
+Electrons can be excited by light as well as by heat. The band gap determines what portion of the solar spectrum a photovoltaic cell absorbs. A luminescent solar converter uses a luminescent medium to downconvert photons with energies above the band gap to photon energies closer to the band gap of the semiconductor comprising the solar cell.
+
+In photonics band gaps or stop bands are ranges of photon frequencies where, if tunneling effects are neglected, no photons can be transmitted through a material. A material exhibiting this behaviour is called a "photonic crystal".
+
+Similar physics applies to phonons in a phononic crystal.
+
+Deal or No Deal (UK game show)Deal or No Deal is the British version of the game show franchise of the same name. It is presented by Noel Edmonds, and produced by Endemol. It began showing in 2005. Players can win £250,000 (US$388,800). The odds of winning it is only 4 in 1715 (1 in 429, or 2 in 858). This is because a player might take a offer from the banker.
+
+The show is on Channel 4 at 4p.
+
+m. on weekdays. It runs for 60 minutes, including adverts.
+
+Before the game starts, different amounts of money are packed randomly into 22 suitcases. A player is selected, and the case that they have is randomly selected.
+
+In front of the player is a game board with all the possible amounts that could be in his/her box. The player then opens 5 boxes. Five possible amounts that could be in the player's box are gone. Based on the amounts left (that could be in the players box), the "banker" may make an offer to buy the box from the player. The offer depends on the possible amounts that could be in the player's box according to what is left on the board. So if there are high amounts that are on the board (that could be in the person's box), the banker will pay more to buy the box. He might offer £10,000 instead of £3,500 or £1500. The player may take the offer by saying "deal" of refuse it by saying "no deal".
+
+The player then opens 3 more boxes, and the banker will make another offer. If after 6 offers, the player says "no deal", they win whatever is in their box. If they says "deal" at an offer, the player takes home the offer. The game ends, but they play on to see what would have happened otherwise.
+
+Channel 4 axed the series in 2016. It ended with a special "Deal or No Deal on Tour" series from 12 to 23 December 2016.
+
+Moves Like Jagger"Moves Like Jagger" is a dance pop single released by American pop rock band Maroon 5 on June 22, 2011 internationally and digitally. The single features pop singer-songwriter Christina Aguilera and was produced by Shellback, Benny Blanco, and Ari Levine. The song was later put on the Maroon 5 album "Hands All Over" in July 2011 for the re-release. The song peaked at number-one on the Billboard Hot 100 singles' chart for four weeks and number-one on the Billboard Digital Songs chart for three weeks. The song did not feature on the fourth studio album "Overexposed."
+
+The song's lyrics refer to a male protagonist's ability to impress a female with his dance moves, which he compares to those of The Rolling Stones frontman Mick Jagger. The song received a positive critical appreciation, many of them complimented the vocal chemistry between Levine and Aguilera and labeled it "an irresistible summer hit".
+
+The music video for "Moves Like Jagger" was directed by Jonas Åkerlund and filmed in Los Angeles, California on July 8, 2011. On July 9, Aguilera posted an image of herself from the video shoot via Twitter, saying, "Always great to see Jonas Akerlund. He created the perfect feel for the song. Expect a fun video." The image showed Aguilera performing with a band in front of a background of the American flag. Four shirtless images of Levine from the shoot were also released online the same day. More images from the video shoot were released online on July 11, showing Levine and Aguilera performing in front of an American and British-themed backdrop with confetti falling from the ceiling. Another image showed Aguilera performing in front of a black backdrop with her name "Christina" shown in pink. Rolling Stones frontman Mick Jagger made an appearance in the video "via archive footage." The music video premiered on August 8 on E!
+
+David WalliamsDavid Edward Williams (born 20 August 1971), known professionally as David Walliams, is a British actor, comedian and writer. He is best known for his partnership with Matt Lucas on the BBC sketch comedy series "Little Britain" (2003–2006) and "Come Fly With Me" (2010–2011).
+
+Born on 20 August 1971 in Wimbledon, London to Peter, a London Transport engineer, and Kathleen Williams, a lab technician, Williams was brought up in Banstead, Surrey. His parents appeared on "The Friday Night Project" when he was the guest star on the show.
+
+He was educated at Collingwood Boys' School in Wallington (now Collingwood School) and the independent Reigate Grammar School (where he was a contemporary of Robert Shearman).
+
+He was a member of the National Youth Theatre, where he met Matt Lucas. Williams studied drama at the University of Bristol from 1989 to 1992, one year below Simon Pegg.
+
+Williams changed his name to Walliams () when he joined the actors' trade union, Equity, as there was already a member named David Williams. This was spoofed in a mock interview on "Rock Profile", when Robbie Williams was continuously referred to as 'Robbie Walliams'.
+
+Walliams was also a judge for BGT(Britain's Got Talent). In September 2011, he swam the entire 140 mile length of the River Thames, raising over £1,000,000 for a charity called Sport Relief.
+
+Walliams has bipolar disorder. He was married to Lara Stone from 2010 until their divorce in 2015. The couple's son, Alfred, was born on 6 May 2013.
+
+LutonLuton is a large town in Bedfordshire, England. It is about north of London. It is on the M1 motorway and has mainline trains from King's Cross and St Pancras stations. It is an industrial town which has diversified from its original base as a manufacturer of hats and cars. It is also famous for its airport which serves flights across Europe. Its fine communications means it has many people who commute to work in London. It has a population of 213,052 (mid-2019 estimate).
+
+Luton was started in about the 6th century by the Saxons, based by the River Lea. It has a history of industry: making hats and Vauxhall cars for example.
+
+Luton is a unitary authority, which means it is governed locally by its own council, Luton Borough Council. It is represented by two members of parliament.
+
+Its football club is in the English football league and play at Kenilworth Road. Their nickname is 'The Hatters'. They are called this because of Luton's history of making straw hats.
+
+Luton town has a large immigrant population, which consists mainly of people of Pakistani and Bengali origin.
+
+SuperbaseIn chemistry, a superbase is an extremely strong base. It is a compound that has a high affinity for protons.
+
+Hydroxide ion is the strongest base possible in water (aqueous) solutions, but superbases are much stronger than aqueous bases. Such bases are useful in organic synthesis and are fundamental to physical organic chemistry.
+
+Superbases have been described and used since the 1850s. Reactions involving superbases often require special techniques since they are destroyed by water, carbon dioxide, and oxygen in the air. Inert atmosphere techniques and low temperatures minimize these side reactions.
+
+IUPAC defines superbases simply as a "compound having a very high basicity, such as lithium diisopropylamide".
+
+ArgyriaArgyria or argyrosis is a disease caused by being exposed to too much silver. People with this condition may have a change in skin color to blue or "greyish". A study has said that having argyria makes it harder to see without light.
+
+Windows Task ManagerWindows Task Manager is a task manager application. It is part of the Microsoft Windows NT family of operating systems. Windows Task Manager gives detailed information about computer performance and applications that are currently running. It also gives information about processes and CPU usage, commit charge and memory information, network activity and statistics, logged-in users, and system services. The application can be used to set process priorities, processor affinity, forcibly terminating (ending) processes. In Windows XP only, the application can be used to shut down, restart, hibernate or log off from Windows.
+
+Chemical speciesA chemical species is one of a group of atoms, molecules, molecular fragments, ions, etc., made to go through to a chemical process or to a measurement. Generally, a chemical species can be defined as an ensemble of chemically identical molecular entities that can explore the same set of molecular energy levels on a defined time scale. Chemists also use chemical species to mean a set of chemically identical atomic or molecular structural units in a solid array.
+
+For example, when molecules of NaCl dissolve in water we don't really have any NaCl as such in the solution. We have Na and Cl ions because NaCl dissociates. We say the species present in solution are Na(aq) and Cl(aq). In this case, the species present in solution are the ions. In other cases, where the molecules don't dissolve in water, we would have molecular species in solution rather than ionic species.
+
+In supramolecular chemistry, chemical species are those supramolecular structures whose interactions and associations are brought about by forming or breaking intermolecular bonds. Studying these actions is the main topic of supramolecular chemistry.
+
+Task managerA task manager is a computer program that is used to show information about the processes and programs running on a computer. Task managers also show the general status of the computer. They can be used to terminate (end) processes and programs, as well as change the processes priority. An example of a task manager is Windows Task Manager.
+
+Blind spot (vision)A blind spot is a part of the visual field our brains get no information from. It is the place in the visual field that corresponds to the lack of light-detecting photoreceptor cells where the optic nerve passes through the optic disc of the retina. Since there are no cells to detect light on the optic disc, a part of the field of vision is not perceived. The brain fills in with surrounding detail with information from the other eye, so the blind spot is not normally perceived.
+
+Although all vertebrates have this blind spot, cephalopod eyes, which are superficially similar, do not. In them, the optic nerve approaches the receptors from behind, so it does not create a break in the retina.
+
+The first documented observation of the phenomenon was in the 1660s by Edme Mariotte in France. At the time it was generally thought that the point at which the optic nerve entered the eye should actually be the most sensitive portion of the retina; however, Mariotte's discovery disproved this theory.
+
+As to why the blind spot is normally not seen, there are two theories. One, less favoured, is that it is simply ignored by the brain. The other is that they are 'filled in' by the brain with information from surrounding areas. Perception theorists have generally favoured this second hypothesis. The filling-in works with quite complex and unusual visual patterns, suggesting an active brain process works to mimic patterns surrounding the blind spot.
+
+These natural blind spots are present only in the eyes of vertebrates. Cephalopods have their optic nerves attached to the back of the retina, so they are not a problem. The vertebrate eye is illogical because light must go through and past the nerve fibres before getting to the retina.
+
+This comes about because vertebrate eyes are outgrowths from the brain; they grow outward from the embryological tissue which forms the brain.
+
+Lo BarnecheaLo Barnechea is a commune and city of Santiago Province. According to the Chilean census in 2002, Lo Barnechea has an area of and 74,749 people live there..
+
+Incubus (1966 movie)Incubus is an American horror movie. It is black and white. It was released in 1966 and a restored copy of the movie was released in 2001. Leslie Stevens directed the movie and William Shatner starred in it. The actors in the movie did not speak in English. They spoke in Esperanto. The movie was called "Inkubo" in Esperanto. "Incubus" was lost for many years, but an old copy was found in France. The movie was filmed in 18 days in California during 1965. "Incubus" did not become popular and was only distributed in France. Some people believe the movie is cursed because of all of the bad things that happened to the actors and crew. Several of them died by murder or suicide, or had other bad things happen to them, after making the movie.
+
+Supramolecular chemistrySupramolecular chemistry is area of chemistry that studies the relationship and linking molecules into bigger systems. It focuses on the chemical systems made up of a discrete number of assembled molecular subunits or components. The study of non-covalent interactions is crucial to understanding many biological processes from cell structure to vision that rely on these forces for structure and function. Biological systems are often the inspiration for supramolecular research.
+
+Chondroitin sulfateChondroitin sulfate is a sulfated glycosaminoglycan (GAG). It is a chain of alternating sugars (N-acetylgalactosamine and glucuronic acid). It is usually found attached to proteins as part of a proteoglycan. A chondroitin chain can have over 100 individual sugars, each of which can be sulfated in variable positions and quantities. Chondroitin sulfate is an important structural component of cartilage and provides much of its resistance to compression. Along with glucosamine, chondroitin sulfate has become a widely used dietary supplement for treatment of osteoarthritis. It is commonly extracted from shark cartilage.
+
+Chondroitin sulfate was originally isolated well before chemists learned its structure. So, its name changed over time. Early researchers identified different types of the substance with letters."
+
+Chondroitin sulfate B" is an old name for dermatan sulfate, and it is no longer classified as a form of chondroitin sulfate."
+
+Chondroitin", without the "sulfate", has been used to describe a type with little or no sulfation. However, this distinction is not used by all.
+
+The name "chondroitin sulfate" sounds like a salt with a sulfate counter-anion. This is not the case. The sulfate is attached to the sugar with a covalent bond. Since the molecule has multiple negative charges at physiological pH, a cation is present in salts of chondroitin sulfate. Commercial preparations of chondroitin sulfate typically are the sodium salt. Barnhill et al. have suggested that all such preparations of chondroitin sulfate be referred to as "sodium chondroitin" regardless of their sulfation status.
+
+Chondroitin sulfate chains are unbranched polysaccharides of variable length containing two alternating monosaccharides: D-glucuronic acid (GlcA) and N-acetyl-D-galactosamine (GalNAc). Some GlcA residues are epimerized into L-iduronic acid (IdoA); the resulting disaccharide is then referred to as dermatan sulfate.
+
+Chondroitin sulfate chains are linked to hydroxyl groups on serine residues of certain proteins. Exactly how proteins are selected for attachment of glycosaminoglycans is not understood. Glycosylated serines are often followed by a glycine and have neighboring acidic residues. But this does not always predict glycosylation.
+
+Attachment of the GAG chain begins with four monosaccharides in a fixed pattern: Xyl - Gal - Gal - GlcA. Each sugar is attached by a specific enzyme, allowing for multiple levels of control over GAG synthesis. Xylose begins to be attached to proteins in the endoplasmic reticulum, while the rest of the sugars are attached in the Golgi apparatus.
+
+Each monosaccharide may be left unsulfated, sulfated once, or sulfated twice. In the most common case, the hydroxyls of the 4 and 6 positions of the N-acetyl-galactosamine are sulfated, with some chains having the 2 position of glucuronic acid. Sulfation is mediated by specific sulfotransferases. Sulfation in these different positions gives specific biological activities to chondroitin GAG chains.
+
+Chondroitin's functions depend largely on the properties of the overall proteoglycan of which it is a part. These functions can be broadly divided into structural and regulatory roles. Some proteoglycans have both structural and regulatory roles (see versican).
+
+Chondroitin sulfate is a major component of extracellular matrix, and is important in maintaining the structural integrity of tissue. This function is typical of the large aggregating proteoglycans: aggrecan, versican, brevican, and neurocan, collectively termed the lecticans.
+
+As part of aggrecan, chondroitin sulfate is a major component of cartilage. The tightly packed and highly charged sulfate groups of chondroitin sulfate generate electrostatic repulsion that provides much of the resistance of cartilage to compression. Loss of chondroitin sulfate from the cartilage is a major cause of osteoarthritis.
+
+Chondroitin sulfate readily interacts with proteins in the extracellular matrix due to its negative charges. These interactions are important for regulating many cellular activities. The lecticans are a major part of the brain extracellular matrix, where the chondroitin sugar chains function to stabilize normal brain synapses as part of perineuronal nets. The levels of chondroitin sulfate proteoglycans are vastly increased after injury to the central nervous system where they act to prevent regeneration of damaged nerve endings. Although these functions are not as well characterized as those of heparan sulfate, new roles continue to be discovered for the chondroitin sulfate proteoglycans.
+
+In cortical development, chondroitin sulfate is expressed by the Sub Plate and acts as a stop signal for neurons migrating from the Ventricular Zone. Neurons stopping here may then be programmed for further migration to specific layers in the cortical plate.
+
+Chondroitin is in dietary supplements used as an alternative medicine to treat osteoarthritis and also approved and regulated as a symptomatic slow-acting drug for this disease (SYSADOA) in Europe and some other countries. It is commonly sold together with glucosamine. Chondroitin and glucosamine are also used in veterinary medicine.
+
+Red Bull X2010Red Bull X2010 is a fictional car in the PlayStation 3 video game "Gran Turismo 5" that can go over 400 km/h, and over 6G's. It laps the Nürburgring in less than 4 minutes. Adrian Newey designed it.
+
+Ireland (disambiguation)Ireland may refer to:BanbasaBanbasa is the smallest town in Champawat district in Uttarakhand, India. The famous shri Purnagiri temple is only 35 km from here. It is near the Nepal border (Gaddachoki-Banbasa).
+
+Velar consonantA velar consonant is a consonant that is pronounced with the back part of the tongue against the soft palate, also known as the velum, which is the back part of the roof of the mouth. Velar consonants in English are , and .
+
+These are the velar consonants in the IPA.
+
+George ChurchGeorge Church (born August 28, 1954) is an American molecular geneticist. He was one of the people who set out to analyse the human genetic code, the sequence of genes in human DNA.
+
+Church is Professor of Genetics at Harvard Medical School, Professor of Health Sciences and Technology at Harvard and MIT, and a core faculty member at the Wyss Institute for Biologically Inspired Engineering at Harvard University.

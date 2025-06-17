@@ -1,0 +1,185 @@
+In general relativity, an event horizon is the part of a black hole where light cannot escape. Imagine the black hole to be like a ball that you could see in a large spot of emptiness. The event horizon would then be an outer bubble that surrounds that ball, the space between the ball and the larger bubble would be the event horizon. If an object goes past the event horizon, it can never get away from it. Light that is emitted from inside of the event horizon near the black hole can never reach an observer on the other side. If an observer saw an object fall into a black hole, it would look like the object was stuck at the event horizon forever. The reason this happens is because of the gravity of the black hole slows down time around it, making it look like the object will take an infinite amount of time to reach it.
+
+NanosecondA nanosecond (ns) is one billionth of a second. It is equal to 10 seconds.
+
+One nanosecond contains 1000 picoseconds. 1000 nanoseconds is equal to one microsecond. Ten nanoseconds are sometimes called a shake.
+
+Some things that take between one nanosecond and ten nanoseconds are listed belowMicrosecondA microsecond (sometimes shortened to μs) is one millionth of a second. This page lists times between 10 seconds (1 microsecond) and 10 seconds (10 microseconds).
+
+One microsecond contains 1000 nanoseconds. There are 1000 microseconds in one millisecond.
+
+MillisecondA millisecond (sometimes shortened to 'ms') is one thousandth of a second. This page lists times between 10 seconds and 10 seconds (1 milli<nowiki>second</nowiki> to 10 milliseconds).
+
+One millisecond contains 1000 microseconds. There are 1000 milliseconds in one second.
+
+The basic interval, in time manners, in most of the programming languages is 1 millisecond . e.
+
+g. the command delay() in C++. Others use second interval.
+
+DecasecondA decasecond is equal to ten seconds. It can be written mathematically as 10 seconds.
+
+HectosecondA hectosecond is equal to 100 seconds. It can be written as 10 seconds. There are ten hectoseconds in one kilosecond, which is one thousand seconds. There are ten decaseconds in one hectosecond. There are 864 hectoseconds in one day (24 hours).
+
+KilosecondA kilosecond is one thousand seconds. It can be written as 10 seconds. It is equal to 16 minutes, 40 seconds. There are 86.
+
+4 kiloseconds in one day (24 hours).
+
+MegasecondA megasecond is one million seconds. This page lists times between 10 seconds and 10 seconds, which is about 11.
+
+6 days and 0.
+
+0317 years.
+
+One megasecond contains 1000 kiloseconds. There are 1000 megaseconds in one gigasecond.
+
+Ten megaseconds is equal to 115.
+
+74 days. 100 megaseconds is equal to 3.
+
+2 years.
+
+GigasecondA gigasecond (symbol: Gs) is one billion seconds. That is about 31.
+
+7 years. It can be written as 10 seconds.
+
+3.
+
+16 Gs is about 1 century (100 years). 31.
+
+6 Gs is about 1 millennium (1000 years).
+
+This page lists times of between 1 and 1000 gigaseconds, or between 31.
+
+7 and 31,700 years.
+
+Terasecond and longerA terasecond (symbol: Ts) is one trillion seconds. That is about 31,700 years. It can be written as 10 seconds.
+
+Here is a list of time spans longer than 1 terasecond:Here are some examples of events that take this long:PicosecondA picosecond is a standard unit of measuring time. It is equal to 10 of a second. It is one trillionth, or one millionth of one millionth of a second, or 0.
+
+000000000001 seconds.
+
+One picosecond contains 1000 femtoseconds. There are 1000 picoseconds in one nanosecond.
+
+FemtosecondA femtosecond is one billionth of one millionth, or one quadrillionth of a second. It can be written as 10 second. Even shorter than this is an attosecond.
+
+AttosecondAn attosecond (as) is a very short period of time. It is equal to one quintillionth of a second (or 0.
+
+000000000000000001 seconds). It can also be written as 10 seconds. Because it can be hard to think about how short this period of time is, on this page is a list of descriptions of periods of time longer than 1 attosecond, but shorter than one femtosecond (which is 10 seconds). This should help when thinking about periods of time that have different orders of magnitude.
+
+Orders of magnitude (time)An order of magnitude describes the link between two amounts. The difference between each step is usually 10, with each order being either 10 times greater or 10 times smaller than the next amount. This makes the scale easy to manipulate using logarithms. For time, the difference between the smallest limit of time, the Planck time, and the next order of magnitude is larger than 10.
+
+sure! A second is 1 sec a minute is 60 sec a hour is 60 min a day is 24 hour a week is 31 days a month is 7 weeks a year is 12 months a millennium is 1000 years a megaennium is 1000 millenniums a Quettaennium is 10³⁰ secLycée ThiersThe Lycée Thiers is a public secondary school in the city center of Marseille and obtains the best results of the academy of Aix-Marseille. It is considered one of the most demanding in France.
+
+The law of May 1, 1802 decided the creation of 45 secondary schools in France. The "Lycée de Marseille" was opened on December 22, 1802. Under Napoléon III, it was called "Lycée Impérial". In 1930, it took the name of "Lycée Thiers."
+
+The Lycée Thiers is constituted by a college of 400 pupils and a lycee of 1900 pupils, with 980 pupils studying in the "classes préparatoires aux grandes écoles" (classes to prepare students for entrance to the élite "grandes écoles")!
+
+Mauritania national football teamMauritania national football team is the national football team of Mauritania.
+
+Mauritius national football teamMauritius national football team is the national football team of Mauritius.
+
+Morocco national football teamMorocco national football team is the national football team of Morocco. They achieved fourth place at the 2022 FIFA World Cup.
+
+Mozambique national football teamMozambique national football team is the national football team of Mozambique.
+
+Namibia national football teamNamibia national football team is the national football team of Namibia.
+
+Niger national football teamNiger national football team is the national football team of Niger.
+
+Nigeria national football teamNigeria national football team is the national football team of Nigeria.
+
+The following players were called up for the friendly matches against Algeria and Tunisia in Austria on 9 and 13 October 2020 respectively.<
+
+br>"Caps and goals current as of 17 November 2019 after the match against Lesotho."
+
+Réunion national football teamRéunion national football team is the national football team of Réunion.
+
+Rwanda national football teamRwanda national football team is the national football team of Rwanda.
+
+São Tomé and Príncipe national football teamSão Tomé and Príncipe national football team is the national football team of São Tomé and Príncipe.
+
+Senegal national football teamSenegal national football team is the national football team of Senegal.
+
+Seychelles national football teamSeychelles national football team is the national football team of Seychelles.
+
+Sierra Leone national football teamSierra Leone national football team is the national football team of Sierra Leone.
+
+Somalia national football teamSomalia national football team is the national football team of Somalia. They have never qualified for the World Cup or the African Cup of Nations.
+
+Sudan national football teamSudan national football team is the men's national football team of Sudan. Since 2019, there is also a women's national football team of Sudan. Both teams have played in the Africa Cup of Nations.
+
+Eswatini national football teamEswatini national football team is the national football team of Eswatini.
+
+Tanzania national football teamTanzania national football team is the national football team of Tanzania.
+
+Togo national football teamTogo national football team is the national football team of Togo.
+
+Tunisia national football teamTunisia national football team is the national football team of Tunisia.
+
+Uganda national football teamUganda national football team is the national football team of Uganda.
+
+Zambia national football teamZambia national football team is the national football team of Zambia.
+
+Zanzibar national football teamZanzibar national football team is the national football team of Zanzibar.
+
+Zimbabwe national football teamZimbabwe national football team is the national football team of Zimbabwe.
+
+Star Trek IV: The Voyage HomeStar Trek IV: The Voyage Home was the fourth movie set in the Star Trek universe. It was made in 1986 by Paramount Pictures. James T. Kirk and his crew have to travel back in time in a Klingon space ship to save the Earth.
+
+Anguilla national football teamAnguilla national football team is the national football team of Anguilla.
+
+Anguilla is currently 198th out of 203 in the FIFA World Rankings.
+
+Antigua and Barbuda national football teamAntigua and Barbuda national football team is the national football team of Antigua and Barbuda.
+
+Barbados national football teamBarbados national football team is the national football team of Barbados.
+
+Belize national football teamBelize national football team is the national football team of Belize.
+
+Bermuda national football teamBermuda national football team is the national football team of Bermuda.
+
+British Virgin Islands national football teamBritish Virgin Islands national football team is the national football team of British Virgin Islands.
+
+Canada national soccer teamThe Canada national soccer team can refer to:Cayman Islands national football teamCayman Islands national football team is the national football team of Cayman Islands.
+
+Costa Rica national football teamCosta Rica national football team is the national football team of Costa Rica.
+
+Cuba national football teamThe Cuba national football team is the national football team of Cuba.
+
+Dominica national football teamDominica national football team is the national football team of Dominica.
+
+Dominican Republic national football teamDominican Republic national football team is the national football team of Dominican Republic, and is controlled by the Dominican Football Federation. The team has never featured globally. Football is a popular sport in the country recently, where the main sport is baseball. The Dominican assembly made history when in October 2010 a scandalous thrashed 17-0 British Virgin Islands, with the biggest victory in the history of the CONCACAF.
+
+El Salvador national football teamEl Salvador national football team is the national football team of El Salvador.
+
+French Guiana national football teamFrench Guiana national football team is the national football team of French Guiana.
+
+Grenada national football teamGrenada national football team is the national football team of Grenada.
+
+Guadeloupe national football teamGuadeloupe national football team is the national football team of Guadeloupe.
+
+Allan Ramsay (artist)Allan Ramsay (13 October 1713 – 10 August 1784), was a Scottish portrait-painter. Allan Ramsay was descended from the lowland Clan Ramsay.
+
+Norfolk HouseNorfolk House, at 31 St James's Square, London, was built in 1722 for the Duke of Norfolk. It was a royal residence for a short time only, when Frederick, Prince of Wales, father of King George III of the United Kingdom, lived there 1737-1741, after his marriage in 1736 to Princess Augusta of Saxe-Gotha, daughter of Frederick II, Duke of Saxe-Gotha. King George III was born in the house, which was offered to the royal couple by the 9th Duke of Norfolk.
+
+Kensington PalaceKensington Palace is a royal residence set in Kensington Gardens, in the Royal Borough of Kensington and Chelsea in London, England. It has been a residence of the British Royal Family since the 17th century. Today, it is the main residence of The Duke and Duchess of Gloucester; the Duke and Duchess of Kent; and Prince and Princess Michael of Kent. Kensington Palace is also used on an unofficial basis by Prince Henry, as well as his cousin, Zara Phillips.
+
+Sandringham HouseSandringham House is in Norfolk, England. It has been in the British royal family since Albert, Prince Consort bought it for Edward VII of the United Kingdom.
+
+Like Balmoral, it is the private property of the monarch of the United Kingdom, not an official, government owned, building. This meant that when Edward VIII abdicated in 1936 the new king, George VI, had to buy the properties from his brother.
+
+York Cottage is in the grounds of Sandringham Estate.
+
+Royal LodgeRoyal Lodge is a house in Windsor Great Park, half a mile north of Cumberland Lodge and south of Windsor Castle in Berkshire. It was the Windsor residence of Queen Elizabeth the Queen Mother from 1952 until her death there in 2002. Since 2004 it has been the official residence of Prince Andrew, Duke of York.
+
+Holyrood PalaceThe Palace of Holyroodhouse, also known as Holyrood Palace, has served as the main home of the Kings and Queens of Scotland since the fifteenth century.
+
+The Palace stands in Edinburgh, at the bottom of the Royal Mile. The Palace of Holyroodhouse is the official home in Scotland of the British monarch, who spends time at the Palace at the beginning of the summer.
+
+Holyrood is an anglicisation of the Scots "Haly Ruid" (Holy Cross).
+
+It was founded as a monastery by David I of Scotland in 1128.
+
+Pope Benedict XVI visited Queen Elizabeth II on 16th September 2010 on his first day of his Official Papal visit to the United Kingdom. He then went on to say mass at Glasgow's Beallahouston Park.
+
+Chlorophytum comosum

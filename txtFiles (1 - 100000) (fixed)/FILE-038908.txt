@@ -1,0 +1,175 @@
+In computing, MakeModes is an application which is used to generate data which allows RISC OS computers to produce display output compatible with various computer monitors.
+
+In computing, massively parallel refers to the use of a large number of processors (or separate computers) to perform a set of coordinated computations in parallel (simultaneously).
+
+In computing, memory latency is the time (the latency) between initiating a request for a byte or word in memory until it is retrieved by a processor.
+
+In computing, memory refers to the computer hardware integrated circuits that store information for immediate use in a computer; it is synonymous with the term "primary storage".
+
+In computing, Microsoft Binary Format (MBF) was a format for floating-point numbers used in Microsoft's BASIC language products, including MBASIC, GW-BASIC and QuickBasic prior to version 4.
+
+00.
+
+In computing, Microsoft Dynamics is a line of enterprise resource planning (ERP) and customer relationship management (CRM) software applications.
+
+In computing, Microsoft's Windows Vista and Windows Server 2008 introduced in 2007/2008 a new networking stack named Next Generation TCP/IP stack, to improve on the previous stack in several ways.
+
+In computing, Microwindows is a windowing system which is full featured enough to be used on a PC or a PDA.
+
+In computing, mii-tool is a program used on Unix-like systems to query and modify Network Interface Controller (NIC) parameters (e.
+
+g.: speed and duplex).
+
+In computing, MIMD (multiple instruction, multiple data) is a technique employed to achieve parallelism.
+
+In computing, minimalism refers to the application of minimalist philosophies and principles in the design and use of hardware and software.
+
+In computing, MISD (multiple instruction, single data) is a type of parallel computing architecture where many functional units perform different operations on the same data.
+
+In computing, mkstemp is a POSIX function for creating a temporary file (a computer file which usually ceases to exist when the program, which opened the file, closes it or terminates).
+
+In computing, MOESI is a full cache coherency protocol that encompasses all of the possible states commonly used in other protocols.
+
+In computing, more is a command to view (but not modify) the contents of a text file one screen at a time.
+
+In computing, Mosh (mobile shell) is a tool used to connect from a client computer to a server over the Internet, to run a remote terminal.
+
+In computing, Motif refers to both a graphical user interface (GUI) specification and the widget toolkit for building applications that follow that specification under the X Window System on Unix and Unix-like operating systems.
+
+In computing, move is a command in various DOS, OS/2, Microsoft Windows and ReactOS command-line interpreters (shells) such as COMMAND.
+
+COM, cmd.
+
+exe, 4DOS/4NT and Windows PowerShell.
+
+In computing, multi-touch is technology that enables a surface (a trackpad or touchscreen) to recognize the presence of more than one or more than two points of contact with the surface.
+
+In computing, naming schemes are often used for objects connected into computer networks.
+
+In computing, NaN, standing for not a number, is a numeric data type value representing an undefined or unrepresentable value, especially in floating-point calculations.
+
+In computing, Native capacity refers to the uncompressed storage capacity of any medium that is usually spoken of in compressed sizes.
+
+In computing, netsh, or network shell, is a command-line utility included in Microsoft's Windows NT line of operating systems beginning with Windows 2000.
+
+In computing, netstat (network statistics) is a command-line network utility tool that displays network connections for the Transmission Control Protocol (both incoming and outgoing), routing tables, and a number of network interface (network interface controller or software-defined network interface) and network protocol statistics.
+
+In computing, Network Security Services (NSS) comprises a set of libraries designed to support cross-platform development of security-enabled client and server applications with optional support for hardware TLS/SSL acceleration on the server side and hardware smart cards on the client side.
+
+In computing, network virtualization or network virtualisation is the process of combining hardware and software network resources and network functionality into a single, software-based administrative entity, a virtual network.
+
+In computing, ntsysv is a command in some old versions of the Red Hat family of Linux distributions (notably Red Hat Linux) and some of their derivatives (e.
+
+g. some versions of Mandrake Linux) which provides a CUI for editing and customizing the behavior of sysvinit.
+
+In computing, object code or object module is the product of a compiler.
+
+In computing, object identifiers or OIDs are an identifier mechanism standardized by the International Telecommunications Union (ITU) and ISO/IEC for naming any object, concept, or "thing" with a globally unambiguous persistent name.
+
+In computing, octuple precision is a binary floating-point-based computer number format that occupies 32 bytes (256 bits) in computer memory.
+
+In computing, one form of out-of-band management is sometimes called lights-out management (LOM) and involves the use of a dedicated management channel for device maintenance.
+
+In computing, on the fly CD writers can read from one CD and write the data to another without saving it on a computer's memory.
+
+In computing, on the X Window System, X11 color names are represented in a simple text file, which maps certain strings to RGB color values.
+
+In computing, Open Database Connectivity (ODBC) is a standard application programming interface (API) for accessing database management systems (DBMS).
+
+In computing, Open Data Protocol (OData) is an open protocol which allows the creation and consumption of queryable and interoperable RESTful APIs in a simple and standard way.
+
+In computing, OProfile is a system-wide statistical profiling tool for Linux.
+
+In computing, Oracle Application Development Framework, usually called Oracle ADF, provides a Java framework for building enterprise applications.
+
+In computing, Oracle Coherence is a proprietary Java-based in-memory data grid, designed to have better reliability, scalability and performance than traditional relational database management systems.
+
+In computing, Oracle Identity Manager (OIM) enables enterprises to manage the entire user life-cycle across all enterprise resources both within and beyond a firewall.
+
+In computing, Oracle SOA Suite is a part of the Oracle Fusion Middleware family of software products.
+
+In computing, OverlayFS is a union mount filesystem implementation for Linux.
+
+In computing, Page Size Extension (PSE) refers to a feature of x86 processors that allows for pages larger than the traditional 4 KiB size.
+
+In computing, page zooming is the ability to zoom in and out a document or image at page level.
+
+In computing (particularly, in programming), undefined value is a condition where an expression does not have a correct value, although it is syntactically correct.
+
+In computing, particularly in the context of the Unix operating system and its workalikes, fork is an operation whereby a process creates a copy of itself.
+
+In computing, PC Card is a configuration for computer parallel communication peripheral interface, designed for laptop computers.
+
+In computing, PEEK and POKE are commands used in some high-level programming languages for accessing the contents of a specific memory cell referenced by its memory address.
+
+In computing, petascale refers to a computer system capable of reaching performance in excess of one petaflops, i.
+
+e. one quadrillion floating point operations per second.
+
+In computing, Philip's Music Writer or PMW, formerly known as Philip's Music Scribe or PMS, is a music scorewriter written by Philip Hazel.
+
+In computing, plain text is the data (e.
+
+g. file contents) that represent only characters of readable material but not its graphical representation nor other objects (images, etc.).
+
+In computing, pmset is a command line utility to manipulate power management settings under the Darwin and macOS operating systems.
+
+In computing, Posadis is a GPL-licensed DNS server for Microsoft Windows and Unix that uses a zone file format that is compatible with BIND zone files.
+
+In computing, POST is a request method supported by HTTP used by the World Wide Web.
+
+In computing, prebinding, also called prelinking, is a method for optimizing application load times by resolving library symbols prior to launch.
+
+In computing, privilege is defined as the delegation of authority over a computer system.
+
+In computing, procedural generation is a method of creating data algorithmically as opposed to manually.
+
+In computing, process migration is a specialized form of process management whereby processes are moved from one computing environment to another.
+
+In computing, process substitution is a form of inter-process communication that allows the input or output of a command to appear as a file.
+
+In computing, proportional set size (PSS) is the portion of main memory (RAM) occupied by a process and is composed by the private memory of that process plus the proportion of shared memory with one or more other processes.
+
+In computing, protected mode, also called protected virtual address mode, is an operational mode of x86-compatible central processing units (CPUs).
+
+In computing, pushd and popd are commands used to work with the command line directory stack.
+
+In computing, quadruple precision (or quad precision) is a binary floating-point-based computer number format that occupies 16 bytes (128 bits) in with precision more than twice the 53-bit double precision.
+
+In computing, Quark is an operating system kernel used in MorphOS.
+
+In computing, quirks mode refers to a technique used by some web browsers for the sake of maintaining backward compatibility with web pages designed for Internet Explorer 5 and earlier, instead of strictly complying with W3C and IETF standards in standards mode.
+
+In computing, rebooting is the process by which a running computer system is restarted, either intentionally or unintentionally.
+
+In computing, recursion termination is when certain conditions are met and a recursive algorithm stops calling itself and begins to return values.
+
+In computing, Red Hat Satellite is a systems-management product by the company Red Hat which allows system administrators to deploy and manage Red Hat Enterprise Linux (RHEL) hosts.
+
+In computing, redirection is a form of interprocess communication, and is a function common to most command-line interpreters, including the various Unix shells that can redirect standard streams to user-specified locations.
+
+In computing, regsvr32 (Microsoft Register Server) is a command-line utility in Microsoft Windows operating systems for registering and unregistering DLLs and ActiveX controls in the Windows Registry.
+
+In computing, RELAX NG (REgular LAnguage for XML Next Generation) is a schema language for XML - a RELAX NG schema specifies a pattern for the structure and content of an XML document.
+
+In computing, remote direct memory access (RDMA) is a direct memory access from the memory of one computer into that of another without involving either one's operating system.
+
+In computing, rename refers to the altering of a name of a file.
+
+In computing, ren (or rename) is a command in various CP/M, MP/M, DOS, OS/2 and Microsoft Windows command line interpreters (shells) such as COMMAND.
+
+COM, cmd.
+
+exe, 4DOS, 4NT and Windows PowerShell.
+
+In computing, replace is a command used on MS-DOS, FreeDOS, Microsoft Windows, and ReactOS that is used to replace one or more existing files or add new files to a target directory.
+
+In computing, Resource Directory Description Language (RDDL) is an extension of XHTML Basic 1.
+
+0.
+
+In computing, retained mode rendering is a style for application programming interfaces of graphics libraries, in which the libraries retain a complete model of the objects to be rendered.
+
+In computing, ROM Mark or BD-ROM Mark is a serialization technology designed to guard against mass production piracy or the mass duplication and sale of unauthorized copies of pre-recorded Blu-ray Disks.
+
+In computing, route is a command used to view and manipulate the IP routing table in both Unix-like and Microsoft Windows operating systems.

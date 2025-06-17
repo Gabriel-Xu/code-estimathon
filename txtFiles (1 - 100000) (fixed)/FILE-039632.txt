@@ -1,0 +1,51 @@
+In mathematics, a Segal category is a model of an infinity category introduced by Hirschowitz & Simpson (1998), based on work of Graeme Segal in 1974.
+
+In mathematics, a semifield is an algebraic structure with two binary operations, addition and multiplication, which is similar to a field, but with some axioms relaxed.
+
+In mathematics, a semiperfect magic cube is a magic cube that is not a perfect magic cube, i.
+
+e., a magic cube for which the cross section diagonals do not necessarily sum up to the cube's magic constant.
+
+In mathematics, a sequence of discrete orthogonal polynomials is a sequence of polynomials that are pairwise orthogonal with respect to a discrete measure.
+
+In mathematics, a set of simultaneous equations, also known as a system of equations or an equation system, is a finite set of equations for which common solutions are sought.
+
+In mathematics, a sheaf of planes is the set of all planes that have the same common line.
+
+In mathematics, a slender group is a torsion-free abelian group that is "small" in a sense that is made precise in the definition below.
+
+In mathematics, a sober space is a topological space X such that every irreducible closed subset of X is the closure of exactly one point of X: that is, this closed subset has a unique generic point.
+
+In mathematics, a spherical polyhedron or spherical tiling is a tiling of the sphere in which the surface is divided or partitioned by great arcs into bounded regions called spherical polygons.
+
+In mathematics, a strange nonchaotic attractor (SNA) is a form of attractor which, while converging to a limit, is strange, because it is not piecewise differentiable, and also non-chaotic, in that its Lyapunov exponents are non-positive.
+
+In mathematics, a strong prime is a prime number with certain special properties.
+
+In mathematics, a structure on a set is an additional mathematical object that, in some manner, attaches (or relates) to that set to endow it with some additional meaning or significance.
+
+In mathematics, a stuck unknot is a closed polygonal chain that is topologically equal to the unknot but cannot be deformed to a simple polygon by rigid motions of the segments.
+
+In mathematics, a subalgebra is a subset of an algebra, closed under all its operations, and carrying the induced operations.
+
+In mathematics, a subbundle U of a vector bundle V on a topological space X is a collection of linear subspaces Ux of the fibers Vx of V at x in X, that make up a vector bundle in their own right.
+
+In mathematics, a super-Poissonian distribution is a probability distribution that has a larger variance than a Poisson distribution with the same mean.
+
+In mathematics, a Suslin algebra is a Boolean algebra that is complete, atomless, countably distributive, and satisfies the countable chain condition.
+
+In mathematics, a ternary cubic form is a homogeneous degree 3 polynomial in three variables.
+
+In mathematics, a ternary equivalence relation is a kind of ternary relation analogous to a binary equivalence relation.
+
+In mathematics, a ternary operation is an n-ary operation with n = 3.
+
+In mathematics, a ternary quartic form is a degree 4 homogeneous polynomial in three variables.
+
+In mathematics, a topological abelian group, or TAG, is a topological group that is also an abelian group.
+
+In mathematics, a topological module is a module over a topological ring such that scalar multiplication and addition are continuous.
+
+In mathematics, a topological semigroup is a semigroup which is simultaneously a topological space, and whose semigroup operation is continuous.
+
+In mathematics a topological space is countably compact if every countable open cover has a finite subcover.

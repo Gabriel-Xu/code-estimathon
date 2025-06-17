@@ -1,0 +1,253 @@
+Kerby showed that this rank correlation can be expressed in terms of two figures: the percent of data that support a stated hypothesis, and the percent of data that do not support it. The Kerby simple difference formula states that the rank correlation can be expressed as the difference between the proportion of favorable evidence ("f") minus the proportion of unfavorable evidence ("u").
+
+Suppose a coach trains long-distance runners for one month using two methods. Group A has 5 runners, and Group B has 4 runners. The hypothesis is that method A produces faster runners. The race to assess the results finds that the runners from Group A do indeed run faster, with the following ranks: 1, 2, 3, 4, and 6. The slower runners from Group B thus have ranks of 5, 7, 8, and 9.
+
+The analysis is done on pairs, a member of one group compared to a member of the other group. For example, the fastest runner in the study is a member of four pairs: (1,5), (1,7), (1,8), and (1,9). All four of these pairs support the hypothesis, because in each pair the runner from Group A is faster than the runner from Group B. There are a total of 20 pairs, and 19 pairs support the hypothesis. The only pair which does not support the hypothesis are the two runners with ranks 5 and 6, because in this pair, the runner from Group B had the faster time. By the Kerby simple difference formula, 95% of the data support the hypothesis (19 of 20 pairs), and 5% do not support (1 of 20 pairs), so the rank correlation is r = .
+
+95 - .
+
+05 = .
+
+90.
+
+The maximum value for the correlation is r = 1, which means that 100% of the pairs favor the hypothesis. A correlation of r = 0 indicates that half the pairs favor the hypothesis and half do not. An effect size of r = 0 describes "no relationship" between group membership and the members' ranks.
+
+Physical disabilityA physical disability is a condition that limits the way the body works. For example, a physical disability may limit the way a part of the body grows, moves, or does what it is supposed to do.
+
+A congenital disability is a disability that a baby has when they are born, or had before they were born. These disabilities used to be called "birth defects."
+
+The most common congenital disability is congenital heart disease - problems in the way the heart grows and works. In 2013, 34.
+
+3 million people around the world had congenital heart disease. Congenital heart disease also causes more deaths than any other congenital disability. In 2013, it caused 323,000 deaths.
+
+Other examples of congenital disabilities include:Some types of congenital disabilities are genetic. This means the disability was "inherited," or passed down to a person, through their parents' genes.
+
+Examples of inherited physical disabilities include:Acquired disabilities are disabilities that people get ("acquire") after they are born. Often they are caused by injuries or illnesses. Examples of acquired physical disabilities include:There have been many famous people with physical disabilities. Below are some examples.
+
+Leaders and politiciansActorsSingersOther famous peopleTachometerA tachometer is a sensor that measures the rotation speed of an object, for example a wheel or shaft. There are different methods to do so (for example, mechanical, optical, or magnetic). Most tachometers display the measurement in revolutions per minute.
+
+Plain view doctrineThe plain view doctrine allows law enforcement officers to collect evidence or contraband found in plain view while they are lawfully present. It is an exception to items spelled out in a search warrant and to the Fourth Amendment protection against unreasonable searches and seizures. The doctrine is based on the United States Supreme Court decision "Horton v. California". The court held that the Fourth Amendment does not prohibit warrantless seizures of any evidence which is in plain view.
+
+There are three conditions, all of which must be satisfied, in order to uphold a seizure under the plain view doctrine:In order for an officer to seize an item, the officer must have probable cause to believe the item is evidence of a crime or is contraband. The police may not move objects to get a better view. In "Arizona v. Hicks" (1987), the officer was found to have acted unlawfully. While investigating a shooting, the officer moved—without probable cause—stereo equipment to record the serial numbers. They also seized three weapons and a stocking-cap mask. The court granted the defendants motion to suppress all the evidence that had been seized because his Fourth Amendment rights had been violated. The plain view doctrine has also been expanded to include the sub doctrines of plain feel, plain smell, and plain hearing.
+
+In committing crimes, criminals routinely use computers and mobile devices. The courts have so far allowed law enforcement a broad authority to examine all files on computers in search of illegal materials.
+
+Phil GartsidePhilip Andrew Gartside (April 1952 – 10 February 2016) was an English businessman. He was born in Leigh, Lancashire. Gartside was chairman of Bolton Wanderers Football Club from 1999 through 2015.
+
+Gartside died in Cheshire from cancer on 10 February 2016. He was aged 63.
+
+André van den HeuvelAndré van den Heuvel (4 June 1927 – 9 February 2016) was a Dutch actor. He appeared in more than 55 movies and television shows between 1957 and 2008. He was born in Tegelen, Netherlands. He was known for his roles in "Lifespan" (1976), "Rubens" (1977), "Dag Dokter!" (1978) and in "De rode zwaan" (1999).
+
+Van den Heuvel died in Amsterdam on 9 February 2016 from complications from a stroke. He was aged 88.
+
+New York metropolitan areaThe New York metropolitan area is the city and suburbs of New York City. It includes Long Island and the Mid- and Lower Hudson Valley in the state of New York. It also includes north and central New Jersey, three counties in western Connecticut and five counties in northeastern Pennsylvania.
+
+The New York metropolitan area is the most populous in US. This includes the numbers defined by both the Metropolitan Statistical Area (20.
+
+1 million residents) and the Combined Statistical Area (23.
+
+6 million residents). It is also one of the most populous built-up areas in the world, and the single largest in North America.
+
+Warrant (law)A warrant is a writ that permits someone to take a specific legal action. Most often the writ is from a judge. It is used by law enforcement to take actions such as searching for evidence, making an arrest or seizing property.
+
+In the United States, in order for police and other law enforcement personnel to search for evidence, they need a warrant. They must also have probable cause (a good reason to believe they will find evidence of a crime). A search warrant must be signed by a judge or magistrate. The officer must provide a sworn statement of fact called an affidavit. If the judge or magistrate believes the affidavit establishes probable cause, he or she approves the warrant. A warrant is usually for a specific period of time and spells out exactly what the officers may search for and seize.
+
+In many cases an arrest warrant is not needed. If a police officer personally sees someone committing a crime, the officer may arrest that individual without a warrant. An officer may also arrest someone if they have probable cause to believe the person had committed or were about to commit a crime. For example, a police officer is notified a bank has just been robbed and is given a description of the suspect. The single robber left in a dark blue Ford Mustang. The officer stops a dark blue Ford Mustang with bags of money on the back seat (in plain sight) and the driver matches the description. The officer believes he has probable cause and arrests the driver.
+
+If the person is in his (or her) own home and the crime is not a serious one, an officer needs an arrest warrant.
+
+In the European Union a European Arrest Warrant (EAW) is most often used between member countries in place of a lengthy extradition process. These came into effect on 1 January 2004. Since that time they are used to arrest dangerous criminals who flee across borders in Europe.
+
+In Japan, an officer may arrest a person they believe may have committed a crime. They can detain the person for up to 48 hours. The police are required to inform the person why they were arrested. During the 48 hour period, the person may be brought before a prosecutor if the police have enough evidence. If the prosecutor believes the evidence is enough, they request a warrant of detention before a judge within 24 hours. The defendant appears before the judge when the warrant is requested. The case may be dropped for lack of evidence either before the prosecutor or before the judge.<
+
+br>Prince William County, VirginiaPrince William County is a county in Virginia. As of the 2020 census, the population was 482,204.
+
+2015 Washington, D.
+
+C., mass murderThe 2015 Washington, D.
+
+C., mass murder occurred on May 14, 2015. Three members of the Savopoulos family (Savvas, Amy, and their son, Philip) were murdered at their home in Washington, D.
+
+C.. Their housekeeper, Veralicia Figueroa, was also murdered. The victims were held hostage for nineteen hours, from May 13. Ten-year-old Philip was tortured in order to coerce $40,000 in cash from the family.
+
+The killers restrained the victims with duct tape before killing them. They then set the house on fire. All the victims had been hit with something, and Philip was also stabbed.
+
+The Savopouloses were an upper-class family. They lived in the Woodley Park neighborhood of Northwest Washington. Savvas Savopoulos was the CEO and President of American Iron Works. This is a construction company that helped build the Verizon Center.
+
+The murder victims are:The family left behind two teenage daughters, Abigail and Katerina Savopoulos.
+
+Greater Mexico CityGreater Mexico City refers to the conurbation around Mexico City. The official name is Mexico City Metropolitan Area ("Área Metropolitana de la Ciudad de México"). It is made up of the Federal District itself and 41 surrounding municipalities of the states of Mexico and Hidalgo.
+
+The Mexico City Metropolitan Area is defined to be integrated by:TizayucaTizayuca is a city and one of the 84 municipalities of Hidalgo, in central-eastern Mexico. It covers an area of 92.
+
+5 km².
+
+As of 2005, the municipality had a total population of 56,573.
+
+La Paz (disambiguation)La Paz is the administrative capital of Bolivia.
+
+La Paz may also refer to:La Paz Municipality, MexicoLa Paz is a municipality in the State of Mexico, Mexico. Its municipal seat is the town of Los Reyes Acaquilpan. It is located on the dividing line between Mexico State and the eastern edge of the Federal District and is part of the Greater Mexico City area. The area was part of a region called "Atlicpac" which in Nahuatl means 'above or at the edge of water.' The current city's/municipality's glyph symbolizes water.
+
+San Mateo PiñasSan Mateo Piñas is a town and municipality in Oaxaca, Mexico. The municipality covers an area of 211.
+
+8 km².
+
+It is part of the Pochutla District in the east of the Costa Region.
+
+As of 2005, the municipality had a total population of 2,647.
+
+San MateoSan Mateo, Spanish for Saint Matthew, is the name for many places:San Mateo Río HondoSan Mateo Río Hondo is a town and municipality in Oaxaca, Mexico. It is part of the Miahuatlán District in the south of the Sierra Sur Region.
+
+Charles C. CampbellCharles C. "Hondo" Campbell (1948 – February 8, 2016) was an American general. He was the 17th Commanding General in the United States Army Forces Command (FORSCOM). He previously served as FORSCOM’s Deputy Commanding General and Chief of Staff from April 26, 2006 to January 8, 2007. He assumed his Commanding General assignment January 9, 2007, and completed it June 3, 2010. He was born in Shreveport, Louisiana.
+
+Campbell died in Shreveport on February 8, 2016, from a heart attack. He was aged 68.
+
+Violette VerdyViolette Verdy (born Nelly Armande Guillerm; 1 December 1933 – 8 February 2016) was a French ballerina, choreographer, teacher, and writer. She worked as a dance company director in France and the United States. She was a Distinguished Professor of Music (Ballet) at the Jacobs School of Music at Indiana University, in Bloomington, Indiana. She was an artistic director of the Paris Opera Ballet and Boston Ballet, and the recipient of two medals from the French government. She was born in Pont-l'Abbé, France.
+
+Verdy died in Bloomington, Indiana from heart failure on 8 February 2016. She was aged 82.
+
+Kingdom of MysoreThe kingdom of Mysore was a kingdom in southern India. It was founded by the Wadiyar dynasty in 1399. They ruled from 1399 to 1947. The last ruler was Tipu Sultan. At first they ruled as vassals of the Vijayanagara Empire from 1399 to 1565. From 1565 to 1761 they were independent rulers. From 1761 to 1796 they ruled in name only. The actual power was with Hyder Ali and his son Tipu Sultan. When Tipu Sultan died at the hands of the British, they ruled from 1799 to 1947 as British allies.
+
+Brain injuryBrain injury means that the brain has been hurt in some way. Many different things can hurt the brain. For example, brain injuries can happen before a baby is even born. These are called congenital brain injuries.
+
+A physical injury (trauma) can also hurt the brain (for example, if a person hits their head in a car accident). These types of brain injuries are called traumatic brain injuries.
+
+Many medical problems can also injure the brain. For example, the brain can get injured if it does not get enough oxygen (for example, during a stroke).
+
+All brain injuries are different. Some are mild (not very bad); some are severe (very bad). Some are temporary (they get better); some get better slowly over time; and some never get better. Also, since the brain controls every part of the body, the symptoms of brain injury can be very different for different people. This depends partly on what part of the brain was injured, and how badly.
+
+Congenital brain injuries are caused by something that damages a fetus's brain during a woman's pregnancy.
+
+For example, a fetus can get a congenital brain injury if:Traumatic brain injuries (TBI) are caused by a physical injury to the brain. They can happen when the head suddenly hits an object very hard, like in a car accident. They can also happen when something - like a bullet or knife - goes through the head and into the brain.
+
+Traumatic brain injury is one of the most common causes of disability everywhere in the world. It is more common in developing countries. All over the world, about 10 million people are affected by TBI every year.
+
+Experts estimate that the most common causes of TBI in the world are:War and violence are often much more common causes of TBI in certain parts of the world. In the past, these places have included Sub-Saharan Africa, Latin America, and the Middle East.
+
+Traumatic brain injury has become one of the most common types of injuries in soldiers serving in Iraq and Afghanistan. The United States Department of Defense says that 22% of all injuries from these wars are traumatic brain injuries.
+
+Some traumatic brain injuries are mild and can get better with time, like a concussion. Others are more serious, especially if they cause bleeding or swelling in the brain.
+
+Another major type of brain injury is a hypoxic brain injury. This happens when the brain does not get enough oxygen. This can happen for many reasons, like:The brain can also be injured by many other things. Some examples are:The signs and symptoms of a brain injury depend on many things.
+
+A "diffuse" injury hurts the entire brain. For example, if a person is drowning, and cannot breathe, no part of their brain will get oxygen. If this lasts long enough, the entire brain will be injured by not having enough oxygen.
+
+A "focal" injury hurts just part of the brain. For example, in some strokes, a person has a blood clot that blocks the blood flow to just part of their brain. If the person gets good medical treatment, just that part of their brain may be injured.
+
+This is important because different parts of the brain control different things. When a person has a focal brain injury, their symptoms will depend on what part of the brain was injured. For example, if a part of the brain that controls speech was injured, the person may have trouble speaking.
+
+A brain injury's symptoms may also depend on how bad the injury was.
+
+For example, brain injuries can cause changes or problems in a person's thinking, senses, feelings, or ability to move. However, some people might have mild problems in these areas, while other people might have more serious problems:There are many different treatments that may help people with brain injuries. For example:H.
+
+264/MPEG-4 AVCH.
+
+264 or MPEG-4 Part 10, Advanced Video Coding is a way to code videos in order to make them smaller.
+
+It can be used for both lossy compression and lossless compression, though it is usually used for lossy compression. H.
+
+264 is used in many places including Blu-Ray players, as well as videos streamed through sites like Youtube. It is also used in some TV broadcasts.
+
+H.
+
+264 has a successor called HEVC.
+
+Dominique D'OnofrioDominique D'Onofrio (18 April 1953 – 12 February 2016) was an Italian footballer, coach and later chairman. He was born in Castelforte, Italy. He played for R.
+
+R.
+
+F.
+
+C. Montegnée during the 1970s. He was the head coach of Standard de Liège for almost ten years.
+
+D'Onofrio died on 12 February 2016 from a heart attack while on a trip in Buenos Aires. He was aged 62.
+
+August P. MardesichAugust Paul "Augie" Mardesich (February 11, 1920 – February 8, 2016) was an American politician from the state of Washington. He was a member of the Democratic Party. He was born in San Pedro, California. Mardesich served as a member of the Washington House of Representatives from 1950 through 1963. He also served as a member of the Washington Senate from the 38th district from 1963 through 1978.
+
+Mardesich died in Mill Creek, Washington from dementia on February 8, 2016. He was aged 95.
+
+Eliseo PradoEliseo Prado (17 September 1929 – 10 February 2016) was an Argentine football forward. He played for Argentina in the 1958 FIFA World Cup. He also played for Club Atlético River Plate. He was born in Buenos Aires.
+
+Prado died of complications from Alzheimer's disease in Buenos Aires on 10 February 2016. He was aged 86.
+
+Honda (Colombia)Honda is a city in the Tolima Department in Colombia. In 2015, about 35,000 people lived there. The city was founded in 1539, and has city status since 1830. Together with Libano it is the seat of the Roman Catholic diocesese Libano-Honda.
+
+Rithvik DhanjaniRithvik Dhanjani is an Indian television actor. He played Arjun Digvijay Kirloskar in "Pavitra Rishta". He won the Indian dance reality show "Nach Baliye 6" with his partner Asha Negi and also the host of Zee Rishtey Awards. In June 2012, Dhanjani entered "Jhalak Dikhhla Jaa 5" as Wild Card entry and came in third place.
+
+I Will Never Let You Down"I Will Never Let You Down" is a song by British recording artist Rita Ora. It was first planned as lead single for her upcoming second studio album. But it was later released as a buzz single. It was written and produced by Calvin Harris. The single was released on 31 March 2014.
+
+The song debuted at number one on the UK Singles Chart making it Ora's fourth overall UK number-one single.
+
+The music video features twin dancers Polly Duniam and Sophie Duniam.
+
+Character encodingGiven a number of characters of an alphabet, a character encoding is a function that will map each character to a number. This number must be unique and is called code point. In this context, a character is the minimal unit of text that has a semantic value: In alphabets that use letters, this is usually a letter. Early systems, like the telegraph only have a part of all the letters possible. They have only uppercase letters, numbers, and a few extra characters (punctuation, spacing, newline..). The flag alphabet ships use is even more restricted.
+
+The Elements of StyleThe Elements of Style is an American English how-to-do-it writing style guide. It lists brief guidelines for writing simple English. The book ran to many reprints.
+
+The original was composed by William Strunk Jr. in 1918, and was published by Harcourt in 1920. It had eight "elementary rules of usage", ten "elementary principles of composition", "a few matters of form", a list of 49 "words and expressions commonly misused", and a list of 57 "words often misspelled".
+
+E. B. White much enlarged and revised the book for publication by Macmillan, in 1959. That was the first edition of the so-called "Strunk & White", which "Time" called in 2011 "one of the 100 best and most influential books written in English since 1923".
+
+The first printing of the 1959 edition sold about two million copies. In the following four decades, more than ten million copies of the three printings (1959 edition, 1972 edition, and 1988 edition) have been sold.
+
+Amniotic sacThe amniotic sac holds a fetus while it is developing during pregnancy. The amniotic sac is filled with amniotic fluid, which protects the fetus.
+
+The amniotic sac starts to form and fill with amniotic fluid just days after a woman gets pregnant. At first, the amniotic fluid is made from the mother's plasma (the liquid part of her blood).
+
+At first, the amniotic fluid is made mostly of water with electrolytes (salts). However, by the 12th to the 14th week of pregnancy, proteins, carbohydrates, lipids, phospholipids, and urea are all in the amniotic fluid. These things help the fetus grow.
+
+As the fetus gets bigger, more amniotic fluid gets created. By the time the baby is born, there is about one liter of amniotic fluid in the amniotic sac.
+
+The amniotic fluid is very important in protecting the fetus and helping the fetus grow:After the fetus is about four months old, when the kidneys start to work, the amniotic fluid serves another important purpose. The fetus swallows amniotic fluid. This fluid passes through the fetus's digestive system and urinary system and gets urinated out into the amniotic fluid. This helps the fetus "practice" swallowing, digesting, and urinating before being born.
+
+The amniotic sac has two layers, which have two different jobs. The inside layer holds in the fetus and the amniotic fluid. The outside layer attaches to the umbilical cord, so that blood and oxygen from the mother can get through the amniotic sac and to the fetus.
+
+A sample of amniotic fluid can show whether a fetus has certain genetic disorders or infections. A test called an amniocentesis can take a sample of amniotic fluid with a needle and study it for problems.
+
+When a woman starts to give birth, the amniotic sac should break and the amniotic fluid will leak out the woman's vagina. This is often called the time when a woman's "water breaks." Doctors call it "rupture of membranes."
+
+Once the baby is born, the amniotic sac is pushed out of the woman's vagina in the afterbirth, along with the placenta.
+
+A recordIn the Domain Name System, an A record is something that changes a domain name into a 32-bit IP address (or "IPv4 address"). A domain can have many A records, for example, the domain "example.
+
+com" could have an A record for "www.
+
+example.
+
+com" that points to the IP "127.
+
+0.
+
+0.
+
+1", and another A record for "mail.
+
+example.
+
+com" that points to the IP "127.
+
+0.
+
+0.
+
+2".
+
+AAAA recordIn the Domain Name System, an AAAA record is something that changes a domain name into a 128-bit IP address (or "IPv6 address"). A domain can have many AAAA records, for example, the domain "example.
+
+com" could have an AAAA record for "www.
+
+example.
+
+com" that points to the IP "2001:0db8:0000:0000:0000:0000:3257:9652", and another AAAA record for "mail.
+
+example.
+
+com" that points to the IP "2001:0db8:0000:0000:0000:0000:3257:9653".
+
+The domain name RFCAizawlAizawl is the capital city of the state of Mizoram in India. It has a population of 293,416 according to the census of 2011. It is the largest city in the state. The population of Aizawl is mostly ethnic Mizo people. The people are mostly Christian.
+
+Aizawl is located in the northern part of Mizoram. It is 1,132 metres (3715 ft) above sea level. In the summer the temperatures range from , and in the winter .
+
+Mapp v. OhioMapp v. Ohio, 367 U.
+
+S. 643 (1961), was a landmark decision in criminal procedure. The United States Supreme Court ruled that evidence obtained in violation of the Fourth Amendment may not be used at trial in a state court.

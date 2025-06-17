@@ -1,0 +1,81 @@
+Beaudin died on 18 May 2019, at the age of 80.
+
+Jonathan MillerSir Jonathan Wolfe Miller (21 July 1934 – 27 November 2019) was a British theatre and opera director, actor, author, television presenter and medical doctor. He was born in St John's Wood, London. He first became well-known in the early 1960s in the comedy revue "Beyond the Fringe" with Peter Cook, Dudley Moore and Alan Bennett.
+
+Miller started directing operas in the 1970s. His best-known production was probably his 1982 "Mafia"-styled "Rigoletto" set in the 1950s. He was an associate director at the National Theatre and later ran the Old Vic Theatre. He was a writer and presenter of many BBC documentaries.
+
+Miller was married to Rachel Collet from 1956 until his death. The couple had three children.
+
+Miller died at his home in Camden, London of Alzheimer's disease-related problems on 27 November 2019. He was 85.
+
+Side effect (computer science)A part of a program with a side effect performs a noticeable action other than giving back a value. Examples include showing a picture on a computer screen, or checking what year it is. Code with side effects can be harder to understand without any context, and the order of instructions more important for code with side effects.
+
+In functional programming, programmers try to avoid side effects when they can, so it is easier to prove that a program will always do what it is supposed to. In some functional languages, like Standard ML, Scheme, or Scala, side effects are not restricted, but programmers still try to use them less. In Haskell, actions with side effects must be stated explicitly—this makes it easier to tell what code does or does not have them.
+
+Mars Climate OrbiterThe Mars Climate Orbiter was a space probe. It was launched by NASA on 11 December 1998 to study the Martian climate and Martian atmosphere. However, on 23 September 1999, communication with the spacecraft was lost, when the spacecraft was about to enter orbit. Because the computer software was working with non-SI units instead of the SI units. The spacecraft entered Mars on an orbit that brought it too close to the planet. However, what happened with the probe is still unknown, either it was destroyed in the atmosphere or entered in an orbit around the Sun after leaving the Martian atmosphere.
+
+Glauco SansoviniGlauco Sansovini (20 May 1938 – 21 May 2019) was a Sammarinese politician. He served as one of the Captains Regent of San Marino together with Marco Conti from 1 April 2010 to 1 October 2010. He was born in Rocca San Casciano, Italy.
+
+Sansovini died on 21 May 2019 in Borgo Maggiore, a day after his 81st birthday.
+
+Neville LederleNeville Lederle (25 September 1938 – 17 May 2019) was a South African racing driver. He raced in two Formula One World Championship Grand Prix. His two F1 appearances were in the and South African Grand Prix. He scored a single F1 championship point. He was born in Theunissen, Orange Free State.
+
+Lederle died at his home in Knysna on 17 May 2019, at the age of 80.
+
+Scala (programming language)Scala is a general-purpose programming language—a language that is designed for solving all kinds of problems, not just a specific one.
+
+It provides support for functional programming, and is statically typed. It is designed to fix some problems with Java, and to be concise—to be able to express a lot with only a little bit of code.
+
+Scala code is supposed to be compiled into Java bytecode, so Scala code can be run on a Java Virtual Machine (JVM). Scala has language interoperability with Java—Scala code can be used in Java programs, and the other way around.
+
+William Wyatt BibbWilliam Wyatt Bibb (2 October 1781 – 10 July 1820) was a United States Senator from Georgia. He was the first Governor of the U.
+
+S. state of Alabama. Bibb County, Alabama, and Bibb County, Georgia, are named for him.
+
+He was a member of the Democratic-Republican political party. Bibb served as governor of the Alabama Territory from August 1817 to December 1819, and as the first elected governor of the state of Alabama from December 1819 to his death on July 10, 1820.
+
+ShispareShispare is a mountain in the Karakoram range, in Pakistan. It is the 38th highest mountain in the world. The first people to reach the top were H. Bleicher, L. Cichy, M. Grochowski, J. Holnicki-Szulc, A. Mlynarczyk, H. Oberhofer, and J. Poreba, in 1974.
+
+Piet BlauwPieter Marinus "Piet" Blauw (30 September 1937 – 16 May 2019) was a Dutch politician and farmer. He was a member of the People's Party for Freedom and Democracy (VVD). He became a member of the House of Representatives in 1981, serving until 1998. He born in Alkmaar, North Holland.
+
+Blauw died on 16 May 2019 in Veendam, Groningen. He was 81.
+
+TEC-9The Intratec TEC-9, also called a TEC-DC9, KG-99, or AB-10, is a blowback-operated semi-automatic pistol.
+
+Artemis programThe Artemis program is an international human space-flight program. The goal is to return humans to the Moon by the year 2025. It will involve the first woman and thirteenth man to land on the moon. It is led by the United States and planned by the National Aeronautics and Space Administration (NASA). It will be the first lunar landing since Apollo 17 in 1972, which was the final lunar mission of the Apollo program. The Artemis program began in December 2017. It was created by bringing together many programs that had been started since 2009 by the United States as it tries to return to the moon. As a result of Artemis, the United States hopes that there will always be humans on the moon. One day the program might take humans to Mars and other places in the Solar System. As well as NASA, the Artemis program work is done by companies and other international organisations like European Space Agency.
+
+Artemis 1 was a flight that landed in December 2022.
+
+Artemis 3 is supposed to happen in 2026, according to media (2023's first quarter).
+
+Khwe languageKhwe (also rendered "Kxoe, Khoe"; or ) is a dialect continuum of the Khoe family of Namibia, Angola, Botswana, South Africa, and parts of Zambia, with some 8,000 speakers.
+
+Information commissionerAn information commissioner is a government-appointed person who controls a country's laws regarding data. In the United Kingdom these are laws such as the Data Protection Act.
+
+Value (computer science)A value is a piece of information that can be used by a program. A group of values is sometimes called a type.
+
+Manual labourManual labor is labor done "by hand". This means that it is physical work done by people. Examples of labor that is not manual include work done by machines, work done by animals, or work that is more focused on thinking, planning, or giving information to other people. While manual labor is often done with the hands, it does not always have to be—crushing grapes by walking on them is also an example of manual labor.
+
+Artemis 1Artemis 1 (previously known as Exploration Mission-1 and before that Space Launch System-1) was an uncrewed flight of the Space Launch System and the second flight of the Orion Multi-Purpose Crew Vehicle. It was launched on 16th November, 2022, at 1:47 AM EST, from LC-39B in KSC, Florida. The flight ended on 11 December; The space capsule landed in the Pacific Ocean.
+
+New Mexico TerritoryThe Territory of New Mexico was an organized incorporated territory of the United States that existed (with varying boundaries) from September 9, 1850, until January 6, 1912, when the remaining extent of the territory was admitted to the Union as the State of New Mexico, making it the longest-lived organized incorporated territory of the United States, lasting approximately 62 years.
+
+Kongur TaghKongur Tagh is a mountain in the Pamir range, in China. It is also known as Kongkoerh. It is the 37th highest mountain in the world. The first people to reach the top were Peter Boardman, Chris Bonington, Alan Rouse, and loe Tasker, in 1981.
+
+Muztagh AtaMuztagh Ata is a mountain in the Kunlun range, in China. It is also known as Muztagata. The name means "Father of Ice Mountain". It is the 43rd highest mountain in the world. The first people to reach the top were three members of Chinese and Soviet expedition, in 1956.
+
+Kongur TiubeKongur Tiube is a mountain in the Pamir range, in China. It is also known as Jiubie. It is the 47th highest mountain in the world. Some consider it to be a sub-peak of Kongur Tagh instead of an independent mountain.
+
+Carlton, NottinghamshireCarlton is a suburb to the east of the city of Nottingham, Nottinghamshire, England.
+
+Richard Beckinsale, actor and father of actresses Samantha Beckinsale and Kate Beckinsale, was born in Carlton in 1947.
+
+Clifton, NottinghamshireClifton is a former village and historic manor, which now forms part of the south western suburbs of the city of Nottingham, Nottinghamshire, England, United Kingdom.
+
+Doug Wilson (rugby union)Douglas Dawson Wilson (30 January 1931 – 18 May 2019) was a New Zealand rugby union player. He was born in Whanganui, North Island. Wilson played for the provisional teams Canterbury and Wellington. He played for the New Zealand national rugby union team. He played 14 matches, including two internationals, and scored five tries and one drop goal.
+
+Wilson died at Kowhainui Hospital in Whanganui on 18 May 2019. He was 88.
+
+Judith KerrJudith Kerr, OBE (surname pronounced ; 14 June 1923 – 22 May 2019) was a German-born British writer and illustrator. She was known for her "Mog" series and "The Tiger Who Came to Tea". She also wrote novels for young adults such as "When Hitler Stole Pink Rabbit", which gave a child's-eye view of the Second World War.
+
+Kerr was born in Berlin, but moved to the United Kingdom before the Nazis rose to power because Kerr's father, openly a Nazi critic, was scared for his family's safety. Kerr later became a naturalized British subject.

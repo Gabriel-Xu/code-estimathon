@@ -1,0 +1,417 @@
+Web implementors typically use AJP in a load-balanced deployment where one or more front-end web servers feed requests into one or more application servers.
+
+Web indexing (or Internet indexing) refers to various methods for indexing the contents of a website or of the Internet as a whole.
+
+WebInfo is a Finnish search engine and web directory such as Spreto specialized in the Finnish content.
+
+Web information system, or web-based information system, is an information system that uses Internet web technologies to deliver information and services, to users or other information systems/applications.
+
+Web intelligence is the area of scientific research and development that explores the roles and makes use of artificial intelligence and information technology for new products, services and frameworks that are empowered by the World Wide Web.
+
+Web Intents allow two web applications to communicate with each other, without either of them having to actually know what the other one is.
+
+Web Intents consists of a discovery mechanism and a very light-weight RPC system between web applications, modeled after the Intents system in Android.
+
+Web Intents was an experimental framework for web-based inter-application communication and service discovery.
+
+Web interface that allows users to analyze NASA's gridded data from various satellite and surface observations.
+
+Web interoperability is producing web pages viewable with standard compatible web browsers, various operating systems such as Windows, Macintosh and Linux, and devices such as personal computers (PCs), PDAs, mobile phones and tablets based on the latest web standards.
+
+Web is a 1947 American film noir crime film directed by Michael Gordon starring Ella Raines, Edmond O'Brien, William Bendix and Vincent Price.
+
+Web is a collaborative album by Bill Laswell and Terre Thaemlitz, released on January 24, 1995 by Subharmonic.
+
+WEB is a computer programming system created by Donald E. Knuth as the first implementation of what he called "literate programming": the idea that one could create software as works of literature, by embedding source code inside descriptive text, rather than the reverse (as is common practice in most programming languages), in an order that is convenient for exposition to human readers, rather than in the order demanded by the compiler.
+
+W.
+
+E.
+
+B. is an American prime time drama series that aired on NBC for five episodes from September 13 until October 5, 1978.
+
+Web is a science fiction novel written by the English science fiction author John Wyndham.
+
+Web is a software suite developed by Russian anti-malware company Doctor Web.
+
+WEBIST achieved a fast popularity in 2007 and its maturity along of the subsequent years, reaching a stable conference-size.
+
+WEBIST has technical sessions, tutorial talks, poster sessions and keynote lectures.
+
+Web is the global information system.
+
+Webit enables business opportunities at global scale and ignites further the growth of the local ecosystems, inspires and empowers them and creates a platform for dialog between policy makers, enterprise and entrepreneurs.
+
+Webit Global Series of events were created in 2008 by Plamen Russev, Bulgarian entrepreneur, philanthropist and Chairman of Webit Foundation.
+
+Webit is a global series of events gathering from 1,000 to 10,000 attendees from over 110 countries at different location in the world like Sofia, Istanbul, Dubai, Singapore and New Delhi.
+
+Webix is a JavaScript and HTML5 framework for developing cross-platform HTML5 and CSS3 compatible applications.
+
+WEBJ (1240 AM) is the oldest radio station in Brewton, Alabama, United States, going on air in 1947.
+
+Webjay was a web-based playlist service launched in early 2004.
+
+Webjet Limited (ASX: WEB) is a digital travel business spanning both global consumer markets (through B2C) and wholesale markets (through B2B).
+
+Webjet Ltd's Registered Office is located in Melbourne, Victoria (Australia).
+
+Web Junkie is a 2013 American-Israeli documentary film co-written, directed and produced by Hilla Medalia and Shosh Shlam.
+
+Webkinz are toy animals that each come with a Secret Code that allows access to the Webkinz World website.
+
+Webkinz was updated in 2015 to Webkinz X, making it more kid friendly.
+
+WebKit is a browser engine used in Google's Chrome browser and other products.
+
+WebKit is also the basis for the experimental browser included with the Amazon Kindle e-book reader, and for the default browser in Apple iOS, BlackBerry Browser in OS 6 and above, and Tizen mobile operating systems.
+
+WebKit is available under a BSD-form license with the exception of the WebCore and JavaScriptCore components, which are available under the GNU Lesser General Public License.
+
+WebKit's C++ application programming interface (API) provides a set of classes to display web content in windows, and implements browser features such as following links when clicked by the user, managing a back-forward list, and managing a history of pages recently visited.
+
+WebKit's HTML and JavaScript code was originally a fork of the KHTML and KJS libraries from KDE, and has now been further developed by individuals from KDE, Apple, Google, Nokia, Bitstream, BlackBerry, Igalia, and others.
+
+Weblate is a free web-based translation tool with tight version control integration.
+
+Webley Inc. is a company providing speech-driven unified communications solutions.
+
+Webley is a left-handed batsman who bowls slow left-arm orthodox.
+
+Webley is famous for the revolvers and automatic pistols it supplied to the British Empire's military, particularly the British Army, from 1887 through both World War I and World War II.
+
+Webley is privately held and headquartered in Bannockburn, Illinois.
+
+Webley played five further first-class matches for Somerset in 2003, the last of which came against Derbyshire.
+
+Webley proceeded to play Minor counties cricket for Suffolk in 2005, before facilitating a move back south where he represented Dorset in Minor counties cricket from 2006 to 2007.
+
+During the summer of 2007, he took up the role as a Teacher at Kimbolton School, and is Master in Charge of Cricket.
+
+Webley produced handguns and long guns from 1834 to 1979, when the company ceased to manufacture firearms and instead focused on producing air pistols and air rifles.
+
+Webley-Smith has a career high WTA singles ranking of 240, achieved on 7 November 2011.
+
+Webley-Smith has won 4 ITF singles titles and 20 ITF doubles titles.
+
+Web life is a concept, that proposes that the World Wide Web (Web) has, or could, evolve into an entity worthy of consideration as a life form in its own right; a new posthuman species consisting of just one isolated member.
+
+WebLOAD is load testing tool, performance testing, stress test web applications.
+
+Weblo allows access from the public and each profile page is edited and maintained by fans.
+
+Weblocks has an active development and user community.
+
+Weblocks is an advanced web framework for Common Lisp.
+
+WebLogic was a company (from 1995 to 1998) credited with creating the first J2EE application server, the WebLogic Application Server.
+
+Weblogs.
+
+com is a website created by UserLand Software and later maintained by Dave Winer.
+
+Weblogs, Inc. was a blog network that published content on a variety of subjects, including tech news, video games, automobiles and pop culture.
+
+Weblo is an online database of virtual domains, locations, property and, most prominently, celebrities across all fields of entertainment, politics and culture including actors, singers, models, politicians and athletes.
+
+Webloyalty is an online marketing company, part of Affinion Group, that runs reward programs 'Shopper Discounts & Rewards' and 'Complete Savings'.
+
+WebMacro can also be used to generate arbitrary text output from templates (one of its uses is automated code generation).
+
+WebMacro is a framework for developing Java Servlets.
+
+WebMacro is open source software.
+
+WebMacro keeps program source code absolutely separate from presentation HTML code.
+
+WebMacro was initially created and designed by Justin Wells at Semiotek Inc. in the mid-2000, when the project was taken over by a team at SourceForge.
+
+Webmail (or web-based email) is any email client implemented as a web application running on a web server.
+
+WebMaker CMS is a UK-based company which markets an online website builder package called WebMaker CMS, a website builder.
+
+WebMaker is sold by the UK marketing agency, Insight Group, based in Bracknell, Berkshire, UK.
+
+Web mapping is the process of using the maps delivered by geographic information systems (GIS) in World Wide Web.
+
+Webmasters can add and customize a gadget to their own business or personal web site, a process called "syndication".
+
+Webmasters of sites listed in the directory were allowed and encouraged to include a banner on their home page to announce its TOP 5% status.
+
+Webmasters often hire outsourced or offshore firms to perform website promotion for them, many of whom provide "low-quality, assembly-line link building".
+
+Webmasters use this method to build up a community of returning visitors to a website.
+
+WebMathematics Interactive (WMI) is an open source mathematics software.
+
+WebMatrix enables developers to build websites using built-in templates or popular open-source applications, with full support for ASP.
+
+NET, PHP, Node.
+
+js and HTML5.
+
+WebMatrix is a free, cloud-connected website builder and HTML editor for Windows, geared towards web development.
+
+WEB members also held consciousness raising sessions and organized protests of their local art institutions.
+
+WEB members in Chicago organized the first women artists' conference there, Artists Meet in Spring 1973.
+
+West-East Bag laid the foundation for a series of cooperatively run women's galleries, starting with A.
+
+I.
+
+R. Gallery in 1972.
+
+Webmention enables authors to keep track of who is linking to, referring to, or commenting on their articles.
+
+Webmention is a W3C recommendation that describes a simple protocol to notify any URL when a website links to it, and for web pages to request notifications when somebody links to them.
+
+Webmention was originally developed in the IndieWebCamp community and published as a W3C working draft on January 12, 2016.
+
+Web Messaging or cross-document messaging, is an API introduced in the WHATWG HTML5 draft specification, allowing documents to communicate with one another across different origins, or source domains while rendered in a web browser.
+
+Web Metrics are intended to measure activity on web sites in a site centric fashion.
+
+WebMinder was a content blocking system implemented in the UK by Brightview Internet Services and used on their ISPs such as Madasafish, Global Internet and Waitrose.
+
+WebMinder was a two-stage process using Cisco's Web Cache Communication Protocol version 2 (WCCPv2).
+
+WebMinder was retired after BT's purchase of the Brightview Group in 2007, and the ISP's using it were moved to BT's Cleanfeed system.
+
+Webmin is a web-based system configuration tool for Unix-like systems, although recent versions can also be installed and run on Windows.
+
+WebM initially supported VP8 video and Vorbis audio streams.
+
+WebM is an audiovisual media file format.
+
+WebML (Web Modeling Language) is a visual notation and a methodology for designing complex data-intensive Web applications.
+
+Webmonkey had content applicable to both advanced users and newer internet users interested in the underlying technologies of the web.
+
+Webmonkey was an online tutorial website composed of various articles on building webpages from backend to frontend.
+
+Webnation is a television show about technology that is aired on CP24 in Toronto, Canada.
+
+Web navigation refers to the process of navigating a network of information resources in the World Wide Web, which is organized as hypertext or hypermedia.
+
+Web Networks is a non-profit organization based in Toronto, Canada that provides website services to socially committed organizations.
+
+Webnodes CMS is a semantic content management system (CMS) for publishing content to web sites, web shops, intranets, extranets and community sites.
+
+Web notes are a type of United States currency named after the "web printing production" method of printing on continuous rolls of paper.
+
+WebObject's hallmark features are its object-orientation, database connectivity, and prototyping tools.
+
+Web of Angels is a novel by John M. Ford.
+
+Web of Angels is often considered a proto-cyberpunk novel, predating the publication of William Gibson's 1984 cyberpunk novel Neuromancer by four years.
+
+Web of Danger is a 1947 American action film directed by Philip Ford and written by David Lang and Milton Raison.
+
+Web of Deception is a 1994 TV movie directed by Richard A. Colla.
+
+Web of Dharma is a 2002 album by American pop punk/horror punk Graves, featuring ex-singer of Misfits, Michale Graves.
+
+Web of Dreams was written in 1990 by V. C. Andrews ghostwriter Andrew Neiderman.
+
+Web of Evil is a publication of Quality Comics, which began in November 1952.
+
+Web of Evil is considered by writer Nicky Wright to be an inferior imitation of Exciting Comics' style horror comics.
+
+Web of Evil themes include #1 (morphine use), #5 (electrocution), #14 (old witch swipe), #17 (opium drug propaganda), and #18 (acid-in-face story).
+
+Web of Indian Life (1904) is a book written by Sister Nivedita.
+
+Web of Lies is a 2009 television movie about a cybersecurity specialist accused of fraud.
+
+Web of Life is a Canadian nature television series which aired on CBC Television from 1959 to 1963.
+
+Web of Magic (also printed as Avalon: Quest for Magic) is a series of twelve young adult fantasy novels created by Robert Mandell, loosely based on his animated series Princess Gwenevere and the Jewel Riders, and written by American author Rachel Roberts between 2001 and 2010.
+
+Web of Mimicry is an independent record label currently based in San Francisco, California founded by Trey Spruance of Mr. Bungle and Secret Chiefs 3.
+
+Web of Scarlet Spider is the name of a short-lived comic book series starring the Scarlet Spider.
+
+Web of Science and ADS indexing makes research software more discoverable.
+
+Web of Science (previously known as Web of Knowledge) is an online subscription-based scientific citation indexing service originally produced by the Institute for Scientific Information (ISI), now maintained by Clarivate Analytics (previously the Intellectual Property and Science business of Thomson Reuters), that provides a comprehensive citation search.
+
+Web of Science reports 20 papers in peer-reviewed journals, with over 200 citations.
+
+Web of Spider-Man is the name of two different monthly comic book series starring Spider-Man that have been published by Marvel Comics since 1985, the first volume of which ran for 129 issues between 1985 and 1995, and the second of which ran for 12 issues between 2009 and 2010.
+
+Web of Stories is an online collection of thousands of autobiographical video-stories.
+
+Web of Stories is based in London.
+
+Web of Stories, originally known as Science Archive, was set up to record the life stories of scientists.
+
+Web of Suspicion is a 1959 British crime film from the Danziger Brothers, directed by Max Varnel, and starring Philip Friend and Susan Beaumont.
+
+Web of the Spider is a color remake of Margheriti's previous film Castle of Blood."
+
+Web of the Week" by Steinkrug Publications."
+
+In 1994, hundreds of European artists, activists and pranksters adopted and shared the same identity.
+
+Webology is an international peer-reviewed academic journal in English devoted to the field of the World Wide Web and serves as a forum for discussion and experimentation.
+
+Webon is a village in Kalewa Township, Kale District, in the Sagaing Region of western Burma.
+
+Web operations teams are tasked with a variety of responsibilities, including: The deployment of web applications The monitoring, error isolation, escalation, and repair of problems Performing performance management, availability reporting, and other administration Configuring load-balancing and working with content delivery networks to improve the reliability and reduce the latency of the system.
+
+WebORB is an integration server developed and maintained by Midnight Coders Incorporated.
+
+We Borrow Your Husband?
+
+WebOS is a Linux operating system for smart devices, and formerly a mobile operating system.
+
+Webots can stream a simulation on web browsers using WebGL.
+
+Webots includes a set of sensors and actuators frequently used in robotic experiments, e.
+
+g. proximity sensors, light sensors, touch sensors, GPS, accelerometers, cameras, emitters and receivers, servo motors (rotational & linear), position and force sensor, LEDs, grippers, gyros, compass, etc.
+
+Webots is a professional robot simulator widely used for educational purposes.
+
+Webots is used in several online robot programming contests.
+
+Webots offers the possibility to take PNG screen shots and to record the simulations as MPEG (Mac/Linux) and AVI (Windows) movies.
+
+Webots uses the ODE (Open Dynamics Engine) for detecting of collisions and simulating rigid body dynamics.
+
+Webots worlds are stored in cross-platform .
+
+wbt files which format is based on the VRML language.
+
+We Bought a Zoo.
+
+We Bought a Zoo (2011), Ginger & Rosa (2012), and Maleficent (2014), in which she portrayed Princess Aurora.
+
+We Bought a Zoo is a 2011 American family comedy-drama film loosely based on the 2008 memoir of the same name by Benjamin Mee.
+
+We Bought a Zoo, which was later adapted into a film starring Matt Damon.
+
+We bought Beatle wigs.
+
+Webpack is an open-source JavaScript module bundler.
+
+Webpack provides code on demand using the moniker code splitting.
+
+Webpack takes modules with dependencies and generates static assets representing those modules.
+
+Web page designers often label a single list of questions as an "FAQ", such as on Google.
+
+com, while using "FAQs" to denote multiple lists of questions such as on United States Treasury sites.
+
+Web page publishers insert a script into their pages which calls the IntelliTXT platform when a viewer views the page.
+
+Web pages and other hypertext documents often have a large amount of information that precedes the main content; while sighted mouse-users can "skip" past it to the desired content, other users may find they have to repeatedly move to the next link until they reach the page's main content.
+
+Web pages and textual documents are broken down into their different constituents, presented as tables in these views.
+
+Web pages are accessed and transported with the Hypertext Transfer Protocol (HTTP), which may optionally employ encryption (HTTP Secure, HTTPS) to provide security and privacy for the user.
+
+Web pages are built from simple widgets which are analogous to GUI widgets used in most application toolkits.
+
+Web pages are primarily text documents formatted and annotated with Hypertext Markup Language (HTML).
+
+Web pages authored using hypertext markup language (HTML) may contain multilingual text represented with the Unicode universal character set.
+
+Web pages can be processed, compressed, and transferred to the PDA for viewing by the Plucker viewer.
+
+Web pages can be re-rendered completely or partially in response to DOM events.
+
+Web pages, which are the building blocks of websites, are documents, typically composed in plain text interspersed with formatting instructions of Hypertext Markup Language (HTML, XHTML).
+
+Web Parts are equivalent to Portlets, but don't necessarily require a web portal such as SharePoint to host them.
+
+Web Parts can be used as an add-on ASP.
+
+NET technology to Windows SharePoint Services.
+
+WebPC was a short-lived personal computer designed by Dell Computer for the consumer market.
+
+Web performance also leads to less data traveling across the web, which in turn lowers a website's power consumption and environmental impact.
+
+Web performance optimization (WPO), or website optimization is the field of knowledge about increasing web performance.
+
+Web performance refers to the speed in which web pages are downloaded and displayed on the user's web browser.
+
+Web PI 2.
+
+0's options are populated dynamically at runtime from Microsoft's servers, allowing installation options to be updated without the need to download newer versions of the Web PI itself.
+
+Web PI 3 installs additional tools for web development including IIS Developer Express, SQL Server Compact and DotNetNuke.
+
+Web PI features an offline mode where products can be downloaded to a local cache on a machine where internet access is available and then use these cached files on a different machine later.
+
+Web Piston I.
+
+C.
+
+E. (Information, Community, Entertainment) is a social networking platform used to build highly customized online, interactive communities.
+
+Web Piston is a privately held organization that was started in Tampa Bay, Florida in 1998 by CEO, Ricardo Lasa.
+
+Web Piston is a Software & Web Hosting company that created and supports three major products/service, the Web Piston Site Builder, Web Piston I.
+
+C.
+
+E. & Frupee.
+
+WebPlus is now only available as the paid-for version.
+
+Web Portal contains standard-based portlets.
+
+Web portal CzechStartups.
+
+org is an online platform for startup companies that fosters the communication between startups, investors and infrastructure (incubators and accelerators) and startup environment in the Czech Republic.
+
+Web portals directly connected to the studies enables instant feedback and information to the participants.
+
+Web projects are based on TCP/IP (Transfer Control Protocol/Internet Protocol) technology and concern the transfer of static and dynamic content.
+
+Web-published work will be collected in print issues.
+
+Web publishers could also implement a button to allow tapping of content directly from their site.
+
+WEBQ (1240 AM) is a radio station broadcasting a country music format.
+
+WEBQ-FM (102.
+
+3 FM) is a radio station licensed to Eldorado, Illinois, United States.
+
+WebRamps, a research project to assist wheelchair users and people confined to hospital beds in shopping through remote able-boded surrogates.
+
+Web Rating Points factor multiple measures of Internet usage to provide a more comprehensive picture to web advertisers and attempts to standardize web analytics in India.
+
+WEBrick is a Ruby library providing simple HTTP web servers .
+
+WEBrick was primarily written by Masayoshi Takahashi and Yuuzou Gotou, with contributions from other developers via the open source model of software development.
+
+Webrings usually have a moderator who decides which pages to include in the webring.
+
+We Bring the Noise!. Following the success of "The Logical Song", it was released 18 months later in the United Kingdom in November 2002.
+
+We Bring the Noise! is the eighth studio album by German hard dance group Scooter, released on 11 June 2001 by Sheffield Tunes in Germany.
+
+We bring together rationalist speakers, writers, thinkers, activists, supporters, and well-wishers, with the goal of promoting rationalism and freethinking in Kerala and in the larger global environment.
+
+Webroot Inc. is a private American company that provides Internet security for consumers and businesses.
+
+Webroot Internet Security Complete is a computer security software program for Microsoft Windows users that combine SaaS cloud protection with traditional antivirus and antispyware desktop technologies.
+
+WebRoots Democracy is a youth-led think tank based in London which focuses on the intersection of technology and political participation.
+
+Webroot Window Washer was a tool designed to protect user's privacy by permanently deleting all traces of web browsing history and other personal information files on a computer running Microsoft Windows.
+
+WebRTC Gateway connects between WebRTC and an established VoIP technology such as SIP.
+
+WebRTC (Web Real-Time Communication) is a free, open-source project that provides web browsers and mobile applications with real-time communication (RTC) via simple application programming interfaces (APIs).
+
+WebRTC (Web Real-Time Communication) is an API definition drafted by the World Wide Web Consortium (W3C) that supports browser-to-browser applications for voice calling, video chat, and messaging without the need of either internal or external plugins.
+
+Web Rule Language (WRL) is a rule-based ontology language for the Semantic Web.
+
+Webs, being continuous, can be made at far higher speeds and do not have the start-stop issues of discrete sheet processing.

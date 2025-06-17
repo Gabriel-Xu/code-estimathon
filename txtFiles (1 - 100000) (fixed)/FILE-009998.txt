@@ -1,0 +1,33 @@
+In statistical physics, Glauber dynamics is a way to simulate the Ising model (a model of magnetism) on a computer. It is a type of Markov Chain Monte Carlo algorithm.
+
+In the Ising model, we have say N particles that can spin up (+1) or down (-1). Say the particles are on a 2D grid. We label each with an x and y coordinate. Glauber's algorithm becomes:This tries to approximate how the spins change over time. The fancy term is that it is part of nonequilibrium statistical mechanics, which roughly studies the time-dependent behavior of statistical mechanics.
+
+The algorithm is named after Roy J. Glauber, Nobel Prize winner and a Harvard physicist who worked at Los Alamos.
+
+Tropical Storm Danas (2019)Tropical Storm Danas (International Code: 1905, Joint Typhoon Warning Center: WP062019, Philippine Atmospheric, Geophysical and Astronomical Services Administration: Falcon) is the 5th named tropical cyclone in the 2019 Pacific typhoon season.
+
+On July 11, a low-pressure zone was formed near the Mariana Islands, and the US Naval Research Laboratory gave it a tropical disturbance number of 98W. At 8 o'clock on the morning of July 14, the Japan Meteorological Agency upgraded it to a tropical depression. At this point the system moves to the approximate west. At 8 pm, the Joint Typhoon Warning Center gave its development rating "low". At 8 o'clock on the morning of July 15, the Japan Meteorological Agency issued a gale warning, and the Central Meteorological Bureau of Taiwan upgraded it to a tropical depression, given the number TD10 . At 3 pm, the Joint Typhoon Warning Center upgraded the rating to "Medium". At 10 pm, the Hong Kong Observatory upgraded it to a tropical depression.
+
+At 6:30 am on July 16, the Joint Typhoon Warning Center upgraded the rating to "High" and issued a tropical cyclone warning. The Joint Typhoon Warning Center raised the system to a tropical depression at 2:40 pm, giving the number 06W. At 3 pm on the same day, the Japan Meteorological Agency upgraded it to a tropical storm, giving the international number 1905 and named it "Danas", followed by the China National Meteorological Center, the Central Meteorological Bureau of Taiwan, and PAGASA also upgraded it to a tropical storm. The Joint Typhoon Warning Center was upgraded to a tropical storm late that night.
+
+On July 19, the JMA reported that Danas has reached its peak wind speeds with continuous winds of 85 km/h (50 mph). Later that day, Danas began to weaken. On July 20, around 13:00 UTC, Danas made landfall on South Korea as a minimal tropical storm, before weakening into a tropical depression soon afterward. The weakening trend also accelerated on July 20 due to the drop in sea temperature to 23 degrees Celsius near landfall. The Republic of Korea Meteorological Administration downgraded Danas to a tropical depression at 11 am and stopped issuing announcements. At 12:45 UTC on July 21, Danas transitioned into an extratropical low in the Sea of Japan, and the JMA issued their final advisory on the storm.
+
+On July 15, the system was enhanced to a tropical depression. At 11 pm, the Philippine Atmospheric Geophysical and Astronomical Services Administration issued the No. 1 storm signal to the northern part of Isabela Province, Cagayan Province and the Bataan Islands. As Denas continued to approach Luzon, the Philippine Atmospheric Geophysical and Astronomical Services Administration issued a second storm signal to the northern part of Cagayan Province at 5 pm on the 16th.
+
+PAGASA cancelled all storm signals for the Philippines on July 18th.
+
+Danas brought heavy rainfall to many western parts of Japan including nearly all of Kyushu.
+
+In addition, the amount of rain that fell in the last 24 hours exceeded 350 mm in various places in Goto, and reaches the rainfall for July 1 month in normal years, and it has become the largest since July.
+
+On July 20, around 13:00 UTC, Danas made landfall on South Jeolla Province, South Korea as a minimal tropical storm. It caused heavy rain across the country but damages were unknown. Locally heavy rainfall will continue across much of South Korea and southwest Japan through Sunday night, with additional rainfall of 50-100 mm (2-4 inches) in many locations.
+
+Fort William, IndiaFort William was the fort that was granted (Britishers were allowed to construct it on the grounds of Bengal) to the Britishers by the Nawab of Bengal for their short termed loyalty and sincerity they showed towards the Nawab.
+
+Tuvan People's RepublicTuvan People's Republic was a partially recognized state that existed from 1921 to 1944. After 1944 it became part of the Soviet Union. Until 1926, it was also known as People's Republic Tannu-Tuva. Only two states recognized the it: the Soviet Union and Mongolia. Even when it existed, it was seen as a puppet state of the Soviet Union. Its economy was largely based on nomads raising and selling cattle. The republic was between the Siberian part of Russia, and Mongolia. The capital was the city of Kyzyl. Since 1992, the territory is known as the Tuvan Republic. It is a self-governing part inside the Russian state.
+
+Grizzy and the LemmingsGrizzy & the Lemmings () is a French computer-animated television series produced by Studio Hari with the participation of France Télévisions, Cartoon Network and Boomerang. It is a silent comedy focusing on a grizzly bear, named Grizzy, having to deal with the group of the eponymous lemmings, who he is irritated by. The show has no real dialogue, as characters will speak gibberish. The three-dimensional designs are by Bertrand Gatignol for the characters and Édouard Cellura for the sets.
+
+The series was announced on June 22, 2015, and debuted internationally in the fall of 2016. It was renewed for a second season on July 5, 2017, which is stated to air on a number of channels around the globe in 2018. Season 1 was released for Netflix on July 15, 2019. In 2019, Hari Productions (Studio Hari) announced the development of the third season, titled Grizzy & the Lemmings World Tour. Season 3 came out in 2021 ended in October 8, 2022.
+
+The Movie was released by January 7, 2007, was distributed by Paramount Pictures and produced by Nickelodeon Movies, Studio Hari, France Televisions and Boomerang

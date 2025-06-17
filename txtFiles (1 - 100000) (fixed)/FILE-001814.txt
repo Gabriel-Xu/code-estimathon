@@ -1,0 +1,59 @@
+A number of fictional characters have been named Spike, including:A number of cartoon dogs have been named Spike:As a place name, Spike may refer to:In sports, Spike may refer to:WhorlWhorl is a type of spiral pattern.
+
+Other meanings of whorl include:FlywheelA flywheel is a heavy disk or wheel that is attached to a rotating shaft. Flywheels are used for storage of kinetic energy. The momentum of the flywheel causes it to not change its rotational speed easily. Because of this, flywheels help to keep the shaft rotating at the same speed. This helps when the torque applied to the shaft changes often. Uneven torque can change the speed of rotation. Because the flywheel resists changes in speed, it decreases the effects of uneven torque. Engines which use pistons to provide power usually have uneven torque and use flywheels to fix this problem.
+
+It takes energy to get a wheel (any wheel) to rotate. If there is little friction (good bearings) then it will keep rotating a long time. When energy is needed, it can be taken from the wheel again. So it is a simple mechanical means of storing energy. The amount of energy stored is a function of the weight and the speed of rotation - making a heavier wheel rotate faster takes more energy. Another factor is the radius (size) because the farther from the axis a part of the wheel is, the more energy it takes to make is rotate. These three factors can be represented by M (mass), formula_1 (angular velocity), and R (radius). Combining the two equations below gives formula_1MR/4. A fly-wheel is not just any wheel, but specifically designed to store energy. So it should be heavy and/or rotate fast. For example, some buses have a fly-wheel that is used for stopping and starting. When the bus stops (e.
+
+g. for a traffic light), the fly-wheel is connected to the wheels, so the rotational energy is transferred to it, so the bus will slow down while the fly-wheel speeds up. Then, when the bus has to start driving again, it is connected again and the energy is transferred back. Of course, you wouldn't want to lug a heavy wheel around on a bus, so it is made of a lighter material that can withstand extremely fast rotation.
+
+The kinetic energy of a rotating flywheel isWhere the moment of inertia of center mass is equal towhere formula_5 is the moment of inertia of the mass about the center of rotation and formula_1 (omega) is the angular velocity in radian units.
+
+The flywheel has been used since ancient times, the most common traditional example being the potter's wheel. In the Industrial Revolution, James Watt contributed to the development of the flywheel in the steam engine, and his contemporary James Pickard used a flywheel.
+
+In the world of venture capital, the term "flywheel" is used to represent the recurrent, margin-generating heart of a business.
+
+Potter's wheelA potter's wheel, also known as the potter's lathe, is a machine used in the shaping of round ceramic wares.
+
+However, the name potter's lathe is also used for the machine used for another shaping process, turning, which is similar to that used for the shaping of metal and wood articles. The wheel may also be used during the process of trimming excess body from dried wares and for applying incised decoration or rings of colour.
+
+Many early ceramics were hand-built using a simple coiling technique in which clay body was rolled into long threads that were then pinched and beaten together to form the body of a vessel. In the coiling method of construction, all of the energy required to form the main part of a piece is supplied directly by the hands of the potter. This changed with the introduction of the fast-wheel, early forms of which used energy stored in the rotating mass of the heavy stone wheel itself.
+
+In Ancient Egyptian mythology, the god Chnum was said to have formed the first humans on a potter's wheel.
+
+The way in which clay is shaped on a potter's wheel seems, even today, to have a magical quality to it; the clay body has the appearance of being a living thing that is being created or shaped by the potter. The potter and clay have long served as a metaphor for creation, and for the relationship of God to humankind:The "Rubaiyat of Omar Khayyam" make sustained use of this metaphor. In FitzGerald's translation, a number of quatrains are collected into a "Book of Pots", in which the pots engage in theological speculation:And, strange to tell, among that Earthen Lot<br>Some could articulate, while others not:<br>And suddenly one more impatient cried–<br>“Who is the Potter, pray, and who the Pot?”<
+
+br>Another said–“Why, ne'er a peevish Boy,<br>“Would break the Bowl from which he drank in Joy;<br>“Shall He that made the vessel in pure Love<br>“And Fancy, in an after Rage destroy?”<
+
+br>None answer'd this; but after Silence spake<br>A Vessel of a more ungainly Make:<br>“They sneer at me for leaning all awry;<br>“What! did the Hand then of the Potter shake?”
+
+Nikolai RubinsteinNikolai Grigoryevich Rubinstein (born Moscow, 2 June 1835; died Paris, 23 March 1881) was a Russian pianist and composer. He was the younger brother of Anton Rubinstein and a close friend of Pyotr Ilyich Tchaikovsky.
+
+The Rubinstein family were middle-class Jewish people. Like his brother Anton, Nikolai soon showed great talent as a pianist. The family spent some time in Europe including three years in Berlin where they made friends with Mendelssohn and Meyerbeer.
+
+Anton founded (started) the famous Conservatoire in St Petersburg where students could study music. Nikolai co-founded the Conservatoire in Moscow with Prince Nikolai Petrovitch Troubetzkoy. Both brothers were directors of the Conservatoires they had founded.
+
+During his lifetime Nikolai Rubinstein was thought of as one of the greatest pianists of his time. As pianists the two brothers were very different. Anton was very fiery like Franz Liszt. Nikolai was quieter and more thoughtful, preferring lyrical Romantic music.
+
+Anton liked to compose in the same way as composers from Western Europe. He was critical of Russian composers like Mily Balakirev and others from the group called The Mighty Handful who tried to make their music very Russian. Nikolai was much more broad-minded. He supported Balakirev and his group. He was a great friend of Tchaikovsky and encouraged him much more than his brother Anton had done. Nevertheless, he still criticised Tchaikovsky’s . He said he would not play it until Tchaikovsky had changed it. Tchaikovsky refused to change it. Years later Nikolai decided he liked it after all.
+
+Although Nikolai wanted to be a successful composer he was aware that he was not a great one. When asked why he did not compose more he once replied that his brother “composed enough music for three”.
+
+Nikolai died in Paris while on his way to Nice where he had wanted to improve his health. He always liked his food and on his deathbed he ate twelve oysters. Tchaikovsky wrote his "Piano Trio in A minor" in Rubinstein's memory.
+
+Among his most popular works are his "Tarantella" in G minor and the "Fantasia on a Theme by Schumann", both for piano solo.
+
+Okinawan languageThe Okinawan language (沖縄口, "Uchināguchi") is a Ryukyuan language that is spoken in the Okinawa Islands of Japan.
+
+Most linguists say that it branched off from Proto-Japonic, which is the ancestor of Japanese and the Ryukyuan languages. The Japanese government says Okinawan is a dialect of Japanese because of politics.
+
+When a group of people called the Yayoi came into the Ryukyu Islands, they brought over a language called Proto-Japonic. This language over time turned into the modern Ryukyuan languages. Proto-Japonic was also spoken in mainland Japan, which turned into Japanese, meaning Japanese and the Ryukyuan languages are related/have the same origin.
+
+Okinawan and other Ryukyuan languages were discriminated by Japan during the Meiji period, making the number of speakers go down. Before that, Okinawan was the official language of the Ryukyu Kingdom.
+
+Okinawan belongs to the Ryukyuan languages. It is in the northern group with both Kunigami and Amami. Sometimes, Kunigami is listed as a dialect of Okinawan but that view is rare.
+
+Most older Okinawans speak Okinawan while younger Okinawans speak Japanese. This is why UNESCO lists Okinawan and the other Ryukyuan languages as “endangered”, meaning it’s possible for the language to die out in the future.
+
+There are many sound changes between Japanese (Standard) and Okinawan (Shuri-Naha variety):Japanese “o” - Okinawan “u” (Okinawa = Uchinaa)Japanese “k” - Okinawan “ch” (Okinawa = Uchinaa)Japanese “mi” - Okinawan “nn” (minato = nnatu)Similar sound changes are in other Ryukyuan languages. Kunigami also uses “u” instead of Japanese “o”.
+
+ImbolcImbolc is a festival belonging to Brigid, the Celtic goddess who, in later times, became famous as a Christian saint. Her festival on February 1 or 2 was known as "Imbolc" or "Oimelc". "Imbolc" or "Imbolg" means 'in the belly' - bol meaning belly in Welsh and bolg meaning belly in Irish Gaelic - refers to the pregnant ewes. "Oimelc" Gaelic refers to the lactation of the ewes. Lactation is the flow of milk that happens when the baby lambs are born in the spring, and Gaelic languages are those spoken in countries like Ireland and Scotland.

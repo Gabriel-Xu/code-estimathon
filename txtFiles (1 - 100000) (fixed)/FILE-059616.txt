@@ -1,0 +1,325 @@
+Serverless is developed by Austen Collins and maintained by a full-time team.
+
+Serverless is the first framework that was originally developed for building applications exclusively on AWS Lambda, a serverless computing platform provided by Amazon as a part of the Amazon Web Services.
+
+Server Monitor is Apple's IPMI-based tool for communicating with a remote baseboard management controller (BMC) that implements their lights-out management (LOM) system.
+
+Server Name Indication (SNI) is an extension to the TLS computer networking protocol by which a client indicates which hostname it is attempting to connect to at the start of the handshaking process.
+
+ServerNet is a switched fabric communications link primarily used in proprietary computers made by Tandem Computers, Compaq, and HP.
+
+Server Normal Format (SNF) is a bitmap font format used by X Window.
+
+Server Pooling (RSerPool) is a computer protocol framework for management of and access to multiple, coordinated (pooled) servers.
+
+Server products received full updates for at least 5 years after their release.
+
+Server Push is not a notification mechanism from server to client.
+
+Server replaced Christopher Meloy.
+
+Server response time measurements are collected to identify the presence and cause of any potential application bottlenecks.
+
+Server Routing Protocol (SRP) is the proprietary network protocol used to transfer data between a BlackBerry Enterprise Server and the Research In Motion BlackBerry infrastructure.
+
+Servers and computers are to be grouped, to meet the operational and management needs, and in those groups, you can monitor resources, service status, and even operate and manage jobs executed on monitored servers.
+
+Servers and matchmaking was provided through a proprietary client.
+
+Servers are available on the market the same way as laptops or desktops are available and can be purchased by individual already pre-configured.
+
+Servers are daisy-chained using a special purpose cable which is included with new servers.
+
+Servers are located in Troy NY and VA.
+
+Server selection is based upon health checks which includes the ability for the user to write specialized health check requests.
+
+Server-sent events (SSE) is a technology enabling a browser to receive automatic updates from a server via HTTP connection.
+
+Servers for the Open Source game BZFlag often use names ending in .
+
+bz.
+
+Server-side applications do not require developer knowledge of HTML, HTTP, or JavaScript.
+
+Server-side code is written in Java and deployed as Java class files or Java Archive (JAR) files.
+
+Server-side handlers typically perform database CRUD operations before piggy-backing the updated content into the aforementioned Loader.
+
+Server Side Includes are useful for including a common piece of code throughout a site, such as a page header, a page footer and a navigation menu.
+
+Server Side Includes (SSI) is a simple interpreted server-side scripting language used almost exclusively for the Web.
+
+Server-side scripting also enables the website owner to hide the source code that generates the interface, whereas with client-side scripting, the user has access to all the code received by the client.
+
+Server-side scripting is a technique used in web development which involves employing scripts on a web server which produce a response customized for each user's (client's) request to the website.
+
+Server-side scripting is distinguished from client-side scripting where embedded scripts, such as JavaScript, are run client-side in a web browser, but both techniques are often used together.
+
+Server-side scripting is often used to provide a customized interface for the user.
+
+Server-side software is typically used by enterprises to protect their customers and employees who use internal or private web-based systems from being pharmed and phished, while browser add-ins allow individual users to protect themselves from phishing.
+
+Servers include OpenGroupware.
+
+org, SOGo, the Citadel system and eGroupWare.
+
+Servers insert the MIME header at the beginning of any Web transmission.
+
+Servers must carry lit shots or drinks carefully when delivering to tables.
+
+Server Somanna is a 1993 Indian Kannada film directed by K. Vasu.
+
+Server-specific keys issued by trusted authorities are merged into the keyfile along with the trusted root certificates.
+
+Server sprawl is a term used in the information technology industry.
+
+Server Sundaram is an upcoming Indian Tamil-language comedy film that was taken in parts of Colombo, Sri Lanka and Male, Maldives.
+
+Server supported gaming (SSG) is a solution employed by video lotteries and casinos to operate Video Lottery Terminals (VLTs) and Electronic Gaming Machines (EGMs), the latter commonly referred to as slot machines.
+
+Server-Supported Signatures (SSS).
+
+Server support for it has been included in releases of UW IMAP since 2006, Panda IMAP, and Messaging Architects Netmail.
+
+Servers were opened in Taiwan and Hong Kong in May 2005, Japan in September 2005, Malaysia in October 2005, Thailand in November 2005, the Philippines in January 2006, and North America in November 2013.
+
+Servers which run large applications, such as LAMP stacks, often log every request: in the face of bulky logs, log rotation provides a way to limit the total size of the logs retained while still allowing analysis of recent events.
+
+Server Technology, Inc. offers power distribution products and solutions for data centers, telecommunication equipment and remote administration.
+
+Server Update Services (WSUS), previously known as Software Update Services (SUS), is a computer program developed by Microsoft Corporation that enables administrators to manage the distribution of updates and hotfixes released for Microsoft products to computers in a corporate environment.
+
+Server vendor members include Cray, Dell Technologies, Hewlett Packard Enterprise, Huawei, IBM, and Lenovo.
+
+Serverware Group plc was a software company formed in November 1983 following a management buyout of Information Systems Group plc.
+
+Server was also announced.
+
+Server was released under the title of Windows Server 2003.
+
+Serves as a focal point throughout the project.
+
+Serves as the primary sales document for the project - ranking stakeholders have a 1-2 page summary to distribute, present, and keep handy for fending off other project or operations runs at project resources.
+
+Serves most of British Columbia including Vancouver Island.
+
+Servet A. Duran (1920 - 1996) was a Materials Science Professor at Washington State University (WSU) in Pullman, Washington, from the mid-1950s to the early 1980s.
+
+Serveta were a Spanish scooter manufacturer who were in production between 1954 and 1989.
+
+Serve the town of San Martino in Pensilis.
+
+Servette is a district of the city of Geneva, Switzerland.
+
+Servette were forcibly relegated at the end of the season after failing to acquire a license for the 2015-16 season.
+
+Servetus argued that God condemns no one who does not condemn himself through thought, word or deed.
+
+Servetus believed strongly in the unity of God and in the Divinity of Christ, but denied that the doctrine of the trinity of persons was the way to support these two essentials of Christian doctrine.
+
+Serve underserved populations, including disadvantaged, non-reading, and limited English proficient populations and individuals with disabilities.
+
+Servia is an extinct town in Adams County, in the U.
+
+S. state of Washington.
+
+Servia is an unincorporated community in Chester Township, Wabash County, in the U.
+
+S. state of Indiana.
+
+Serviam Girls Academy is a private school in New Castle, Delaware offering classes in grades 5-8 for girls.
+
+Serviam is the second full-length album by Greek extreme metal band Rotting Christ, released in 1994.
+
+Service 4.
+
+0 is a collective term for technologies and concepts of service and support function organizations, based on new disruptive technological concepts (big data, mobility), the Internet of Things and the Internet of Services.
+
+Service-Ability: Create a Customer Centric Culture and Achieve Competitive Advantage is a book written by the customer service advocate Kevin Robson to highlight the need for organizations of all types and in all sectors to respond to the effects that increasing use of technology is having on the customer.
+
+Serviceable addressable market (SAM; also served available market) is the part of the total addressable market (TAM) that can actually be reached.
+
+Service abstraction is a design principle that is applied within the service-orientation design paradigm so that the information published in a service contract is limited to what is required to effectively utilize the service The service contract should not contain any superfluous information that is not required for its invocation.
+
+Service addresses have grown in popularity since 2009, as a method of keeping a residential address off public records, and providing better protection for those who operate a business from home.
+
+Service address providers often scan and digitize mail received for the recipient to view online.
+
+Service along the entire length of the Green Line operates 24 hours a day, 7 days a week, a rarity among light rail lines in the United States, but present on some heavy rail lines such as the New York City Subway and PATH.
+
+Service along the mainline was planned to start again in July 2010, from the California Northern interchange at Schellville, north to Windsor until delays pushed the start date to 2011.
+
+Until it ended in 2014, Valley of the Moon Commute Club operated a once-daily transbay express service to San Francisco via Schellville, Sonoma, El Verano, Boyes Hot Springs, Santa Rosa, and San Rafael.
+
+Service also connects BSU with the College of Western Idaho in Nampa.
+
+Service also extends to Oyster Bay-Buttle Lake, under an agreement with the Strathcona Regional District.
+
+Service and campaign medals have been awarded throughout the history of India as an independent state.
+
+Service and Conservation Corps are a direct descendant of the Civilian Conservation Corps (CCC) that built parks and other public facilities still in use today.
+
+Service and Conservation Corps provide a wealth of valuable conservation, infrastructure improvement and human service projects.
+
+Service and IO PEs run the full version of SuSE Linux and are used for interactive logins, systems management, application compiling and job launch.
+
+Service and light manufacturing companies outside high tech industries are popular targets.
+
+Service and low-rung manual laborers are commonly identified as being among the working poor.
+
+Service and Parts Operations (GM SPO) is a division of General Motors that supplies replacement parts, and automotive service through GM's network of Dealers.
+
+Service animals may also be referred to as assistance animals, assist animals, or helper animals depending on the country and the animal's function.
+
+Service areas were often located in separate buildings behind the house.
+
+Service at Rockridge began on May 21, 1973, following the completion of the Berkeley Hills Tunnel.
+
+Service at the intermodal hub is also provided by Amtrak (with the California Zephyr), Greyhound Lines, and U Car Share, as well as UTA local bus service.
+
+Service at the station began, along with other stations between Montgomery Street Station and the Daly City station, on November 5, 1973.
+
+16th Street Mission station has two escalator and stair banks at the northeast and southwest corners of the intersection, which lead to a mezzanine under the intersection.
+
+Service at the station began in February 1980.
+
+The station has suffered flooding during heavy rainstorms, including one in October 2009, and another in December 2014 which damaged an electrical equipment room.
+
+Service at the station began in June 1980.
+
+Service at the station began on June 11, 1980.
+
+Service at the station began on May 21, 1973 following the completion of the Berkeley Hills Tunnel, which connects it to Rockridge station.
+
+Service at the station began on May 21, 1973.
+
+In 2011, BART was criticized for spending $2 million on a wheelchair ramp at the south entrance to the station without adding curb cuts or accessible parking there.
+
+Service at the station began on November 5, 1973.
+
+24th Street Mission station has two escalator and stair banks at the northeast and southwest corners of the intersection, which lead to a mezzanine under the intersection.
+
+Service at this station began 12 August 1991.
+
+Service at this station began on November 5, 1973.
+
+Service at this station began on September 11, 1972.
+
+Service at this station is limited.
+
+Service autonomy is a design principle that is applied within the service-orientation design paradigm, to provide services with improved independence from their execution environments.
+
+Service Battalion, 22 (London) Service Battalion, 23 (Hamilton) Service Battalion and elements of Area Support Unit London were merged into one formation.
+
+Service began along this route in 1835 as part of the Baltimore and Ohio Railroad (B&O), making it one of the oldest passenger rail lines in the U.
+
+S. still in operation.
+
+Service began at Gilman on October 26, 1986, when the Illini began stopping there.
+
+Service began at Michigan City on April 26, 1981.
+
+Service began at this station in 1986, when the original Eastside MAX opened.
+
+Service began August 19, 1996.
+
+Service began in 1896, and ran at least until 1901, when service from the Worcester, Brookfield and Spencer Street Railway Company came to town.
+
+Service began in 1902 and lasted until 1961, the last line of the system to be replaced by busses.
+
+Service began in 1924 and continued until 1967, with some vestiges remaining until 1971.
+
+Service began in 1972, with the fleet consisting of 26 busses serving the city of Flint with 14 routes and hourly service.
+
+Service began in 1975 and ended in 1977.
+
+Service began in 1978, following the takeover of the struggling private National City Lines.
+
+Service began in 1982 and ended in 1985.
+
+Service began in 2007 with a route between the City Hall (Municipalidad) and a market place at Centra Sur (Southern Transfer Station).
+
+Service began in April 2013 and the trip took 20 hours, but was expected to be reduced to 6 hours by 2 September, with the home port changing from Haikou to Sanya.
+
+Service began in May 1881 and continued until the close of the 1932 season.
+
+Service began on 11 October 2012, and within 74 days the game had been downloaded more than 20 million times, making it the first South Korean game to achieve that milestone.
+
+Service began on 31 January 1903 and ended on 13 November 1949.
+
+The network of six lines spread across the town and was linked to the tramway networks of Sheffield and Mexborough & Swinton.
+
+Service began on December 1, 1855.
+
+Service began on December 12, 2012.
+
+Service began on January 1, 1984, using equipment bought from the Bellingham municipal transit system after a countywide authority was established a year earlier.
+
+Service began on July 25, 1998.
+
+There is a car-storage lot just north of the station on a lot that was purchased by the county for the proposed Foxhall Elementary School and Layhill Junior High School, neither of which were built.
+
+Service began on July 28, 1939, and was an immediate success.
+
+Service began on June 29, 2009, with free rides for the first week of service.
+
+Service began on March 27, 1976.
+
+Service began on October 1, 2007 making Valparaiso one of the smallest cities in the United States to have its own independent public transit system.
+
+Service began on September 30, 2002 and three stations on the old Boonton Line were closed, Benson Street in Glen Ridge, Rowe Street in Bloomfield, and Arlington station in Kearny.
+
+Service began September 18, 2006.
+
+Service begins at Auto Club Yard in Bloomington and serves a variety of industries Northfield to Lakeville, leased CP Rail trackage Northfield to Faribault, Minnesota via leased Union Pacific trackage Northfield to Cannon Falls, Minnesota, with service to the Great Western Industrial Park in Randolph, Minnesota.
+
+Service being restored to Lake Providence, Louisiana and the port of Lake Providence.
+
+Service between Chicago and St. Louis is now known by the umbrella term "Lincoln Service".
+
+Service between Raritan and High Bridge operates during weekdays only.
+
+Service between the CSX Transportation Eastover Subdivision at Foxville and Hasskamp was discontinued in 2005.
+
+Service bound for Long Branch and other points on the North Jersey Coast Line use one side of this island platform just east of the junction, as these trains would not be able to switch off of the main track in time to switch onto tracks at the Junction towards the Jersey Shore.
+
+Service by Emergency Rider Volunteers, or SERV, is a Blood Bikes charity based in England, whose volunteers provide a motorcycle courier service, free of charge to the National Health Service.
+
+Service by Muslims in the United States military dates back to the American Revolutionary War where records indicate that at least a few Muslims fought on the rebel side.
+
+Service Canada (French: Service Canada) is part of a Government of Canada-wide service transformation initiative aimed at responding to Canadians' expressed desire for better, more responsive, less cluttered service from Canadian governments.
+
+Service catalogs act as knowledge management tools for the employees and consultants of an enterprise, allowing them to route their requests for and about services and services related topics to the subject matter experts who own, are accountable for, and operate them.
+
+Service catalogs also allow leadership and management, for example the Chief Operations Officer (COO), to compartmentalize the enterprise into highly structured and more efficient operational units, hence the descriptive phrase: "a service-oriented enterprise."
+
+Service chain optimization is closely related to the fields of workforce management and field service management; the activity performed by field service resources is managed through the latter while being planned and optimized through the former.
+
+Service chain optimization is the application of processes and tools that embrace all functions for improving the efficiency, productivity and, eventually, the profitability of service organizations.
+
+Service chains consider the full life-cycle of service demand from early stages of forecasting, through planning, scheduling, dispatch, execution and post-analysis.
+
+Service Children's Education (SCE) is an organization of the United Kingdom government responsible for the education of the children of British Armed Forces families and Ministry of Defense (MoD) personnel serving outside of the United Kingdom.
+
+Service children's education schools also participate on a voluntary basis.
+
+Service C is one of the base services on the network, running between Ballerup and Klampenborg every 20 minutes from about 5:00 to 1:00 every day.
+
+Service Club Premises is a heritage-listed club house at 183 Wickham Terrace, Spring Hill, City of Brisbane, Queensland, Australia.
+
+Service clubs, lineage societies, and secret societies are among the fraternal organizations here listed.
+
+Service commenced in 1983 as an infill station on the short-lived CalTrain line.
+
+Service commenced on November 22, 1998.
+
+Service commenced the morning of September 12, 2011, and costs $6 per intercity trip, including transfer between two local municipal transit services.
+
+Service consists of bus rapid transit on the Mississauga Transitway, local MiWay and Toronto Transit Commission (TTC) bus routes, GO Transit express routes on the Highway 401/Highway 407 corridor and an express connection to Kipling subway station via Highway 427.
+
+Service continued over these portions of the line with a daily except Sunday local until the mid-1970s, when dam construction and bridge fires ended through service on the route between Kansas City and Springfield, Missouri.
+
+Service Control Manager (SCM) is a special system process under the Windows NT family of operating systems, which starts, stops and interacts with Windows service processes.
+
+Service Coordination is an advocacy agency supporting adults and children with developmental disabilities to get the services that allow them to fulfill their goals in life.

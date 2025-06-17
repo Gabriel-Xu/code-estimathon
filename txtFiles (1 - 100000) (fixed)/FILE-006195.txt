@@ -1,0 +1,15 @@
+The conditions that are listed in the DSM change over time. In each new version of the DSM, the APA adds conditions that it has accepted as mental illnesses since the last version was published. It may also take out conditions that are no longer thought of as mental illnesses. (For example, homosexuality was listed as a mental illness in the earlier DSMs, but was then taken out.) The APA may also change the way it describes certain conditions.
+
+When a person gets a DSM diagnosis, there are five different "axes", or categories of information that need to be included.
+
+Axis I: This is where most mental health conditions are listed. Both the name of the condition and its assigned code need to be listed. For example, types of ADHD, depression, anxiety disorders would be listed here. A person can have just one Axis I diagnosis, or more than one.
+
+Axis II: If the person has mental retardation (intellectual disability), autism or a personality disorder, it is listed here.
+
+Axis III: If the person has medical conditions, they are listed here.
+
+Axis IV: This axis records whether the person has certain kinds of "psychosocial stressors." There are few set categories of psychosocial stressors: Primary support problems (for example, family conflict); social environment problems (for example, the person has poor social skills and few friends); economic problems (like poverty or job loss); housing problems (like poor housing or homelessness); educational problems (like school failure); problems with access to healthcare services; and "other" stressors.
+
+Axis V: For this axis, a mental health professional will pick a number that sums up how much the person is affected by mental health problems, and how well they are functioning in their life. The professional uses a scale called the Global Assessment of Functioning (GAF), which explains what different numbers mean. A person's score is called his "GAF score."
+
+There are a few benefits to the DSM's multi-axial system. The five axes sum up all of the information that is most important to mental health professionals when they are treating a person. They give a snapshot of the most important things that affect a person's mental health. A full DSM diagnosis is also like a common language to mental health professionals. Even if there are different professionals, who come from different specialties or even speak different languages, they will all understand the DSM diagnosis.

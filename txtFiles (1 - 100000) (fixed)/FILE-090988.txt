@@ -1,0 +1,85 @@
+At primary analysis in May 2011, pertuzumab was shown to increase PFS significantly, with a strong trend to OS benefit. At a second interim analysis in May 2012, the OS was improved to a degree which was both statistically significant and clinically meaningful with hazard ratio (HR) 0.
+
+66 (p = 0.
+
+0008), but the median OS in patients who received pertizumab was not reached.
+
+In July 2012, the patients still on placebo were offered crossover to pertuzumab.
+
+At ESMO 2014 the CLEOPATRA researchers reported results of a final prespecified OS analysis (February 2014). This OS analysis was planned when ≥385 deaths were reported. The log-rank test, stratified by prior treatment status and geographic region, was used to compare OS between arms, applying the threshold of p ≤ 0.
+
+0456. Subgroup analyses of OS were performed for stratification factors and other key baseline characteristics.
+
+At median follow-up of 50 months (range 0 to 70 months), the statistically significant improvement in OS in favour of pertuzumab/trastuzumab/docetaxel arm was maintained (HR = 0.
+
+68, p = 0.
+
+0002). Median OS was 40.
+
+8 months in the placebo arm and 56.
+
+5 months in the pertuzumab arm, with difference of 15.
+
+7 months.
+
+The OS benefit in predefined subgroups was consistent with previous observations. It is to be noted that following the previous report of OS benefit, 48 patients in the placebo arm crossed over to the pertuzumab arm.
+
+The PFS in pertuzumab arm was 18.
+
+7 vs 12.
+
+4 months in placebo arm, HR 0.
+
+68 (p < 0.
+
+0001).
+
+Median time on study treatment was 17.
+
+4 months in pertuzumab arm vs 11.
+
+4 months in placebo group.
+
+ConclusionThe safety profile of pertuzumab/trastuzumab/docetaxel in the overall population and in patients who crossed over to the pertuzumab arm was consistent with the known safety profile of pertuzumab with more pronounced diarrhoea, rash, mucosal inflammation, pruritus, dry skin, and muscle spasm. No new safety concerns were seen with longer follow-up. There was no evidence of cumulative or late toxicity. The long-term cardiac safety profile was maintained.
+
+Dr Lica Gianni, who discussed the study results, said that CLEOPATRA is an unquestionable therapeutic success with an unquestionable clinical implication: docetaxel/trastuzumab/pertuzumab is the new standard, not an option for first-line treatment of HER2-positive metastatic breast cancer. However, adjuvant trastuzumab was administered in only 10% of the study population. Dr Gianni said that the therapeutic role and wide applicability of dual HER2-blockade with monoclonal antibodies is established but new therapeutic approaches to improve the overall results of CLEOPATRA should address the different biology and different drug sensitivity of subsets of HER2-positive tumours.
+
+Improvements can be expected by addressing key features of HER2-positive breast cancer linked to different sensitivity in term of hormone receptor status (positive vs negative), PIK3CA status (wild type vs mutant), and immune environment.
+
+The CLEOPATRA study did not allow endocrine therapy of patients with ER-positive tumours. Dual blockade of HER2 with pertuzumab/trastuzumab and concomitant endocrine therapy is feasible as shown by APHINITY study in the adjuvant setting. Dr Gianni wondered if the addition of endocrine therapy after the end of chemotherapy can increase the already large benefit observed in women with HER2-positive/ER-positive metastatic breast cancer patients enrolled in the CLEOPATRA study.
+
+The PIK3CA status can be easily assessed on tumour biopsies or liquid biopsies. Many PI3K inhibitors are available and being tested in combination with standard HER2-directed therapy. T-DM1 is similarly active in HER2-positive tumours harbouring PIK3CA mutation. Therapies tailored according to PIK3CA mutational status of HER2-positive metastatic breast cancer should be tested.
+
+Immune mechanisms and tumour lymphocyte infiltration are involved in the probability of pCR in HER2-positive breast cancer. There is a high expression of PDL1 and CTLA4 linked to residual disease in ER-negative tumours. Dr Gianni concluded that tests should be carried out to see if blocking of CTLA4 and/or PD1/PDL1 will be useful for some patients treated per the CLEOPATRA protocol.
+
+Reference ||||| In Madrid today, researchers presented new findings on the effectiveness of Perjeta (pertuzumab, Roche), a monoclonal antibody used in combination with other drugs to treat some types of breast cancer. The updated report on the CLEOPATRA trial supports that adding Perjeta to Herceptin and chemotherapy significantly extends survival in patients with Her2-overexpressing (Her2+) metastatic breast cancer.
+
+The international randomized trial, funded by Roche, included over 800 women with advanced Her2+ disease. The study participants all took Herceptin (trastuzumab, an antibody) and docetaxel (a chemotherapy, usually sold as Taxotere) and, based on the randomization, also received infusions of Perjeta or a placebo. Overall survival among women who received Perjeta was extended by nearly 16 months, as compared to the control.
+
+Over half of the women with Her2+ metastatic breast cancer who received all three drugs (Perjeta, Herceptin and chemotherapy) lived for over 4.
+
+5 years on the study. This result confirms and bolsters earlier results of CLEOPATRA study, published in the NEJM, which led to the FDA’s initial 2012 approval of Perjeta for use in metastatic breast cancer.
+
+The survival improvement is “unprecedented among studies of metastatic breast cancer,” said Dr. Sandra Swain, an oncologist and professor at Georgetown University in Washington DC. Swain, who has spoken and consulted for Roche, presented the group’s findings at the 2014 annual meeting of the European Society for Medical Oncology (ESMO).
+
+As reported in abstract form, the investigators observed no additional toxicity from the drugs beyond those previously reported. Both antibodies - Herceptin and Perjeta – can cause serious cardiac problems including heart failure. As discussed, patients who received Perjeta were more likely to develop problems from low white blood cells and diarrhea. Docetaxel, the chemotherapy “backbone” of the regimen, can cause allergic responses, neuropathy and other side effects.
+
+Despite those side effects, most patients tolerated the 3-drug combination fairly well; patients stayed on the full treatment study arm for a median of 17.
+
+4 months – essentially 1.
+
+5 years. For some patients, financial concerns may prove limiting, especially for patients who might want these drugs outside of a clinical trial setting. These are expensive medications. The antibodies alone cost between $5,000 and $6,000 each, per month.“
+
+It’s an important trial,” said Dr. Mark Moasser, a breast cancer researcher at the University of California, San Francisco. He is not involved in the Cleopatra study. His lab investigates how Her2 and related molecules keep malignant cells alive, and how survival signals might be intercepted.
+
+One problem – and why the drugs are given in combination – is that the antibodies by themselves have only moderate activity, Moasser said by phone. “To win FDA approval, the companies often combine the new drugs with highly active chemotherapies,” he said. “This leverages the full potential of the biological agents, leading to much wider use and marketability.”
+
+The percentage of breast tumors with high Her2 levels ranges between 20 and 25 percent. Since 1998, when Herceptin was first approved by the FDA for use in metastatic Her2+ breast cancer, the prognosis for patients with that condition has improved significantly. Since the mid-1990s, Her2+ tumors have changed from being one of the most difficult-to-treat and aggressive breast cancer subtypes, to one for which there are multiple therapies a patient might try.
+
+Other FDA-approved drugs that target Her2 include Kadcyla (T-DM1, what’s essentially trastuzumab linked to a toxin, emtansine, aka “super-Herceptin”) and Tykerb (lapatinib, a kinase inhibitor). The centricity of Her2 results in determining a patient’s best treatment led the American Society of Clinical Oncology and the College of American Pathologists to jointly publish new guidelines on Her2 testing in 2013.
+
+An obvious limitation is that new drugs targeting Her2 are unlikely to help the overwhelming majority of breast cancer patients whose tumor cells lack excess Her2 expression.
+
+On the other hand, some seemingly unrelated cancer forms may respond to these new agents . Already, the FDA has approved Herceptin for metastatic gastric and esophageal cancers that over-express Her2.“
+
+These drugs have implications in other cancers,” Moasser said. Besides the known over-expressing gastric and esophageal cancer subsets, there are smaller subsets of lung, endometrial, colon, bladder, salivary gland and other cancers in which Her2 is amplified, he considered. “Those tumors are not routinely being tested for Her2,” he said. “But in the world of genomic medicine where everyone’s tumor is being sequenced, this is going to change. In principle, these drugs should be effective in any HER2-amplified cancer unless proven otherwise.” |||||(CNN) -- Inter Milan moved closer to a Champions League place after crushing Parma 5-0 on Saturday following fourth-placed Lazio's shock 4-0 defeat by Siena. Claudio Ranieri's team closed to within a point of the Rome side after 17 games as Italy's Serie A program resumed following a winter break. The win left Inter five points behind defending champions AC Milan and second-placed Juventus, who travel to mid-table Atalanta and bottom side Lecce respectively on Sunday. Inter have been linked with a move for Carlos Tevez, who is widely expected to join local rivals Milan, but it was the Manchester City striker's fellow Argentine Diego Milito who hit the headlines with a first-half double at the San Siro. Who will be January's top transfer targets? Milito has failed to maintain the heights that saw him score both goals in the final of Europe's premier club competition in 2010, but the 32-year-old highlighted his value with a 13th-minute opener from compatriot Ricardo Alvarez's cross. Midfielder Thiago Motta made it 2-0 with a low shot from distance five minutes later, and Milito headed his seventh goal in all competitions this season from Maicon's cross just before halftime. Milito set up strike partner Giampaolo Pazzini in the 56th minute, and the South American's 76th-minute replacement Marcoo Faraoni sealed Inter's biggest win this season with his first touch of the ball, as the 20-year-old fired in a volley off the crossbar for his first goal in Serie A. It is the first time Inter have won five league matches in a row since Jose Mourinho departed in May 2010, and continues the club's resurgent form after a poor start to this season. The defeat left Parma in 13th, and followed 4-1 defeats by Juve and Milan earlier this season. Title hopefuls Lazio could have moved up to third place above Udinese, but went 3-0 down by halftime against Siena after goalkeeper Albano Bizzarri was sent off. Young striker Mattia Destro gave the Tuscany side the lead after only 11 minutes, and Emanuele Calaio doubled the lead on 35 with his first penalty after Franco Brienza went down in the box. Destro put the ball in the net just before the break, but the referee had already awarded a penalty after Bizzarri made contact with the 20-year-old -- and substitute keeper Juan Pablo Carrizo's first job was to retrieve Calaio's spot-kick from the back of the net. Destro, on loan from Genoa, sealed victory with nine minutes to play, heading in Cristiano Del Grosso's cross for his fifth Serie A goal this season as Siena moved up to 14th -- six points above the bottom three.

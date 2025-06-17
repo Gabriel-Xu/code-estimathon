@@ -1,0 +1,71 @@
+Determining the measures of income: the size of economic unit such as the individual, family or community; the timescale of analysis such as annual or lifetime; the well-being and externalities which arise from the expenditure.
+
+Determining the minimum amount of energy required to heat the material.
+
+Determining the minimum time required to heat the material.
+
+Determining the O/B number for VC and PAVN forces was complicated by the wide range of personnel involved, especially among VC.
+
+Determining the occurrence of pre-20th-century recessions is more difficult due to the dearth of economic statistics, so scholars rely on historical accounts of economic activity, such as contemporary newspapers or business ledgers.
+
+Determining the optimal solution is an NP-complete problem in combinatorial optimization, so in practice heuristic and deterministic methods are used to find acceptably good solutions for the VRSP.
+
+Determining the origin of the EMC effect is one of the major unsolved problems in the field of nuclear physics.
+
+Determining the phases of a diffraction pattern is crucial since the diffraction pattern of an object is its Fourier transform and in order to properly inverse transform the diffraction pattern the phases must be known.
+
+Determining the placement of Breviata and Apusomonadida and their properties is of interest for the development of the Opisthokonts in which the main lineages of Animals and Fungi emerged.
+
+Determining the proper amount of material.
+
+Determining the rate of removal of the dye from the blood stream gives a measure of liver function.
+
+Determining the relationships of both groups has been problematic.
+
+Determining the size and shape of the local government areas is the sole responsibility of the Government of New South Wales.
+
+Determining the structure of proteins is an extremely difficult and expensive process.
+
+Determining the structures of social stratification arises from inequalities of status among persons, therefore, the degree of social inequality determines a person's social stratum.
+
+Determining the substance ingested is often complicated by the body's natural processes (see ADME), as it is rare for a chemical to remain in its original form once in the body.
+
+Determining the time and location of where such trains meet is paramount in railroad engineering particularly in single track sections to avoid collisions or to allow faster trains to bypass slower service trains.
+
+Determining the true porosity of a gas filled formation has always been a problem in the oil industry.
+
+Determining the type of snake that caused a bite is often not possible.
+
+Determining the underlying organism is typically not needed.
+
+Determining the value of conserving particular species can be done through the use of evolutionary significant units, which essentially attempt to prioritize the conservation of the species which are rarest, fastest declining, and most distinct genotypically and phenotypically (Moritz 1994, Fraser and Bernatchez 2001).
+
+Determining the world's largest cities depends on which definitions of city are used.
+
+Determining tumor allelotypes increases the understanding of the underlying tumorigenesis and improves the prognosis in tumor patients.
+
+Determining what is and is not a code smell is subjective, and varies by language, developer, and development methodology.
+
+Determining when and where a train meet occurs is also a classic mathematics problem.
+
+Determining whether a complaint states a plausible claim for relief will, as the Court of Appeals observed, be a context-specific task that requires the reviewing court to draw on its judicial experience and common sense.
+
+Determining whether a name is correct is a complex procedure.
+
+Determining whether a particular reaction is conrotatory or disrotatory can be accomplished by examining the molecular orbitals of each molecule and through a set of rules.
+
+Determining which company manufactured a particular catalog and kit home may require additional research to determine the origin of that home.
+
+Determining which patents are essential to a particular standard can be complex.
+
+Determining which ships are operational or in refit can be difficult.
+
+Determining which wetlands are regulated under section 404 of the Clean Water Act or Section 10 of the Rivers and Harbors Act is termed "jurisdictional determination".
+
+Determinism suggests that only one course of events is possible, which is inconsistent with the existence of free will thus conceived.
+
+Deterministic algorithms are by far the most studied and familiar kind of algorithm, as well as one of the most practical, since they can be run on real machines efficiently.
+
+Deterministic compilation, also known as reproducible builds, is a process of compiling software which ensures the resulting binary code can be reproduced.
+
+Deterministic compilation can act as part of a chain of trust; the source code can be signed, and deterministic compilation can prove that the binary was compiled from trusted source code.

@@ -1,0 +1,337 @@
+In machine learning and information retrieval, the cluster hypothesis is an assumption about the nature of the data handled in those fields, which takes various forms.
+
+In machine learning and natural language processing, a topic model is a type of statistical model for discovering the abstract "topics" that occur in a collection of documents.
+
+In machine learning and pattern recognition, a feature is an individual measurable property or characteristic of a phenomenon being observed.
+
+In machine learning, Bayesian Program Synthesis (BPS), Bayesian Programs write (synthesize) new Bayesian programs.
+
+In machine learning, first-order inductive learner (FOIL) is a rule-based learning algorithm.
+
+In machine learning, instance-based learning (sometimes called memory-based learning) is a family of learning algorithms that, instead of performing explicit generalization, compares new problem instances with instances seen in training, which have been stored in memory.
+
+In machine learning, lazy learning is a learning method in which generalization of the training data is delayed until a query is made to the system, as opposed to in eager learning, where the system tries to generalize the training data before receiving queries.
+
+In machine learning, one aims to construct algorithms that are able to learn to predict a certain target output.
+
+In machine learning, pattern recognition and in image processing, feature extraction starts from an initial set of measured data and builds derived values (features) intended to be informative and non-redundant, facilitating the subsequent learning and generalization steps, and in some cases leading to better human interpretations.
+
+In machine learning, repeated incremental pruning to produce error reduction (RIPPER) is a propositional rule learner proposed by William W. Cohen as an optimized version of IREP.
+
+In machine learning, semantic analysis of a corpus is the task of building structures that approximate concepts from a large set of documents.
+
+In machine learning, sequence labeling is a type of pattern recognition task that involves the algorithmic assignment of a categorical label to each member of a sequence of observed values.
+
+In machine learning the random subspace method, also called attribute bagging or feature bagging, is an ensemble learning method that attempts to reduce the correlation between estimators in an ensemble by training them on random samples of features instead of the entire feature set.
+
+In machine learning, the study and construction of algorithms that can learn from and make predictions on data is a common task.
+
+In machine learning, the vanishing gradient problem is a difficulty found in training artificial neural networks with gradient-based learning methods and backpropagation.
+
+In machine learning, tree kernels are the application of the more general concept of positive-definite kernel to tree structures.
+
+In machine-processed text, there is a long-standing practice of formatting transliterations in boldface and transcriptions in Italic type, as the two forms of rendering a runic text have to be kept distinct.
+
+In machinery, it can mean any unwanted intruding object.
+
+In machines and engineering, pins are commonly used as pivots, hinges, shafts, jigs, and fixtures to locate or hold parts.
+
+In machine tools, a spindle is a rotating axis of the machine, which often has a shaft at its heart.
+
+In machine translation, it has been applied to the translation of spontaneous conversational speech among different languages.
+
+In machining, it refers to a recess in a corner.
+
+In machining jargon, where the larger context is already understood, they are usually simply called lathes, or else referred to by more-specific subtype names (toolroom lathe, turret lathe, etc.).
+
+Inmac instituted a number of trend-setting practices including customer calls being answered on the first ring.
+
+Inmac (International Minicomputer Accessories Corporation), which became a publicly traded company, was founded in 1975 in Silicon Valley.
+
+In MacMillan's words, "La Fin du jour draws its inspiration from the style of the 'thirties'; the designs and choreography are inspired by the fashion plates of an era and a way of life shattered forever by the Second World War."
+
+In Mac OS 7.
+
+6.
+
+1, Apple removed support for writing to MFS volumes, and in Mac OS 8.
+
+0 support for MFS volumes was removed altogether.
+
+In Mac OS 9 and earlier, AFP was the primary protocol for file services.
+
+In macOS, AFP is one of several file services supported, with others including Server Message Block (SMB), Network File System (NFS), File Transfer Protocol (FTP), and WebDAV.
+
+In macOS, items may be dragged onto the sidebar area of the Finder, but these do not behave as placeholders and cannot be manipulated in the below manner.
+
+In macOS Mojave, a similar Gallery view feature replaces Cover Flow in "Finder".
+
+In macOS, Outlook Express was superseded by Apple Mail.
+
+In Mac OS System 7 and later, an alias is a small file that represents another object in a local, remote, or removable file system and provides a dynamic link to it; the target object may be moved or renamed, and the alias will still link to it (unless the original file is recreated; such an alias is ambiguous and how it is resolved depends on the version of macOS).
+
+In MACOS, the concept was "the chain of life" or a "lifeline": the entire history of a living thing.
+
+In macOS, the Mach-O file format is the native executable format.
+
+In Mac OS X v10.
+
+0, the first release of macOS, it was renamed System Profiler; with the release of Mac OS X 10.
+
+7 "Lion" it was again was renamed to System Information.
+
+In Mac OS X v10.
+
+3, the currently-active pane would also be highlighted in the toolbar when it was selected.
+
+In Mac OS X v10.
+
+4, it was deprecated in favor of launchd, and kept in the system only to start system processes not yet converted to use launchd.
+
+In Mac OS X v10.
+
+4, QuickDraw has been officially deprecated.
+
+In Mac OS X v10.
+
+5 applications using QuickDraw cannot make use of the added 64-bit support.
+
+In Mac OS X v10.
+
+8, QuickDraw header support was removed from the operating system.
+
+In macroeconomics, chartalism is a theory of money which argues that money originated with states' attempts to direct economic activity rather than as a spontaneous solution to the problems with barter or as a means with which to tokenize debt, and that fiat currency has value in exchange because of sovereign power to levy taxes on economic activity payable in the currency they issue.
+
+In macroeconomics, full employment is sometimes defined as the level of employment at which there is no cyclical or deficient-demand unemployment.
+
+In macroeconomics, indivisibility of labor is the idea that labor cannot be used in continuous units but must be purchased from workers in blocks of time, such as eight hours a day or forty hours a week.
+
+In macroeconomics, particularly in the history of economic thought, the Treasury view is the assertion that fiscal policy has no effect on the total amount of economic activity and unemployment, even during times of economic recession.
+
+In macroeconomics, recursive competitive equilibrium (RCE) is an equilibrium concept.
+
+In macroeconomics, rigidities are real prices and wages that fail to adjust to the level indicated by equilibrium or if something holds one price or wage fixed to a relative value of another.
+
+In macroeconomics, SIMIC stands for Severely Indebted Middle Income Country.
+
+In macroeconomics, the balanced-growth path of a dynamic model is a trajectory such that all variables grow at a constant rate.
+
+In macroeconomics, the classical dichotomy is the idea, attributed to classical and pre-Keynesian economics, that real and nominal variables can be analyzed separately.
+
+In macroeconomics, the long run is the period when the general price level, contractual wage rates, and expectations adjust fully to the state of the economy, in contrast to the short run when these variables may not fully adjust.
+
+In macroeconomics, the triangle model employed by new Keynesian economics is a model of inflation derived from the Phillips Curve and given its name by Robert J. Gordon.
+
+In macroeconomics, the welfare cost of inflation comprises the changes in social welfare caused by inflation.
+
+In macroeconomic terms, Argentina was one of the most stable and conservative countries until the Great Depression, after which it turned into one of the most unstable.
+
+In macroeconomic terms, it is debt which is used to fund consumption rather than investment.
+
+In macroeconomic theory, general disequilibrium is a situation in which some or all of the aggregated markets, such as the money market, the goods market, and the labor market, fail to clear because of price rigidities.
+
+In macroeconomic theory, liquidity preference is the demand for money, considered as liquidity.
+
+In macrophages, filopodia act as phagocytic tentacles and pull bound objects towards the cell for phagocytosis.
+
+Inmaculada Concepcion de la Concordia (College of the Immaculate Conception of Concordia) , simply Concordia College, is a Catholic private institution of learning in Pedro Gil, Paco, Manila, in the Philippines.
+
+Inmaculada Torres (born 31 December 1971) is a Spanish former volleyball player who competed in the 1992 Summer Olympics.
+
+Inmaculada Vicent (born 9 December 1967) is a Spanish judoka.
+
+Inmaculle Naberaho (born 14 June 1973) is a Rwandan long-distance runner.
+
+Inmac was founded by Ken Eldred and Jim Willenborg, who met while in the MBA program at Stanford Business School.
+
+Inmac was the first company to sell computer-related products and accessories via direct-mail catalogs.
+
+In Madagascar 3: Europe's Most Wanted (2012), he provided Julien's singing voice in the soundtrack.
+
+In Madagascar, most of the constituencies elect one, some of them two, members of the national assembly.
+
+In Madagascar, spessartines are exploited either in their bedrock or in alluvium.
+
+In Madagascar this became a regular ritual usually once every seven years, and the custom brings together extended families in celebrations of kinship, sometimes even those with troubled relations.
+
+In Mad Blocker Alpha, players can move the blocks horizontally but not vertically and instead must rack up large combinations of blocks, to trigger chains and unlock power ups.
+
+In Madea's Class Reunion, it is revealed that Brown is actually Cora's father, so he is taking his new daughter to his family.
+
+In Madeira its natural habitat is laurisilva forest.
+
+In Madhya Pradesh, Gajdhar was a title awarded to the city architects and held an important place in the royal court and were looked upon with respect.
+
+In Madhya Pradesh, sev is used as a side ingredient in almost every chaat snack food, especially ratlami sev, which is made from cloves and chickpea flour.
+
+In Madhya Pradesh, the 108 GVK Ambulance facility was implemented in July 2009 by Honorable Chief Minister Shivraj Singh Chauhan.
+
+In Madison, Wisconsin, the town where she had been living, there was extensive news coverage about her fight against deportation.
+
+In Mad Max he created the memorable "Fifi" the bald headed chief of police, The Man From Hong Kong had him as the bumbling Aussie cop, Inspector Bob Taylor.
+
+In Madras province, as in the rest of British India, local self-governments were essentially urban in origin.
+
+In Madrid is a live CD + DVD package by the Norwegian hard rock band TNT.
+
+In Mafia Wars the players play as gangsters building their own mafia.
+
+In Magajane v Chairperson, North West Gambling Board, an important case in South African criminal procedure, Magajane sought leave to appeal against the dismissal of his constitutional challenge to the provisions of section 65 of the North West Gambling Act.
+
+In Magazine is an American print magazine and website focusing on poker, fantasy sports, and eSports (competitive videogaming).
+
+In magazine publishing, indicia refers to a piece of text traditionally appearing on the first recto page after the cover, which usually contains the official name of the publication, its publication date, information regarding editorial governance of the publication, and a disclaimer regarding disposition of unsolicited submissions.
+
+In magazines and in advertising, as well as on Internet message boards, the couple is often referred to by the portmanteau "Jarlena" (for John and Marlena) or "Jolena" (for John and Marlena).
+
+InMage is a computer software company based in the US and India.
+
+In Magellania, Jules Verne described an imaginary republic on the island.
+
+In Mage Wars Arena players take the role of powerful and experienced mages fighting in a gladiator style arena duel.
+
+In Magiam Versus is the second album by the Italian progressive rock band, Jacula.
+
+In Magiam Versus was re-released in 2007 by Black Widow Records.
+
+Inmagic, Inc. is a company based in Woburn, Massachusetts that sells information management and library services software.
+
+Inmagic, Inc. sold its special library business in October 2011, and then its knowledge management business in December 2011 to SydneyPLUS.
+
+In magic it is believed to be an effective amulet, granting the wearer a heightened sense of courage and boldness.
+
+In Magicland Dizzy the player controls Dizzy, an egg-shaped character, who is trying to save six of his friends who have been placed under spells by the Evil Wizard Zaks.
+
+In magic literature, tricks are often called effects.
+
+In magic, occultism, shamanism, and witchcraft it is used with the intention of casting a spell on an object or a person.
+
+In Magic' published by HarperCollins in 2015 and also holds two US patents in design.
+
+In magnetic resonance imaging (MRI), a visual artifact is an anomaly during visual representation.
+
+In magnetic storage, the magnetic flux or magnetization doesn't necessarily change at the boundaries of bit cells to indicate bit states.
+
+In magnetic tape recording, the sound waves vibrate the microphone diaphragm and are converted into a varying electric current, which is then converted to a varying magnetic field by an electromagnet, which makes a representation of the sound as magnetized areas on a plastic tape with a magnetic coating on it.
+
+In Magnus Wenninger's Dual Models, it is represented with intersecting infinite prisms passing through the model center, cut off at a certain point that is convenient for the maker.
+
+In Mahabharata, Dwaraka is considered as a capital city of Anarta Kingdom.
+
+In Mahabharata, five Kekaya princes were mentioned, who joined the Pandavas in Kurukshetra War.
+
+In Mahabharata, rishi Veda Vyasa came to Pandava house to get mid day meal.
+
+In Mahabharata, the Keralas rule over a kingdom which took part in the Kurukshetra War on the side of the Pandavas.
+
+In Maharashtra, Chatrapati Shivaji Raje was addressed as King or Raje.
+
+In Maharashtra, ensembles of several dozen drummers compete in festivities honoring the deity Ganesh.
+
+In Maharashtra Maratha community demands reservation in education and government services, most of farmers committed suicide belongs to Maratha caste, division of lands in small pieces makes critical condition.
+
+In Maharashtra Nethakanis are known as Netkani Caste people.
+
+In Maharashtra the Andh community comprise 474110 population (census 2011).
+
+In Maharashtra the Katkari have been designated a Particularly vulnerable tribal group (PVTG), along with two other groups included in this sub-category: the Madia Gond and the Kolam.
+
+In Maharashtra the mathadis are organized under a welfare board, set up in compliance to the Maharashtra Hamal, Mathadi and other unprotected workers (Regulation of Employment and Welfare) Act 1969.
+
+In Maharashtra the Naikda are also called Katkari, which is derived from the word kathori, which means animal skins. .
+
+In Maharashtra there are one central university, twenty three state universities and twenty-one deemed universities.
+
+In Maharashtra, these people are not been included in the list of Scheduled Tribes due to historical circumstances, but are listed as Scheduled Castes or "Nomadic Tribes".
+
+In Maharashtra, they are found mainly in the district of Thane.
+
+In Mahayana Buddhism the icchantika is a deluded person who can never attain Liberation and Nirvana.
+
+In Mahayana countries such as China and Japan, the pabbajja is preceded by a probationary period.
+
+In Maiduan languages, Maidu means "man".
+
+In Maiduguri as well 6 church-goers were killed, including the priest of the church.
+
+In main cities like Rome, Milan, Naples, Venice the last digits designate the urban postal district (usually 00 or 70 in minor provincial chief-towns).
+
+In Maine, all statewide offices except Governor are elected by the Legislature, not the general electorate.
+
+In mainframes the controller is usually either a separate device attached to a channel or integrated into the peripheral.
+
+In Mainland China, Hong Kong, Macau, Taiwan, Singapore, and other Chinese-speaking societies around the world, an honorific title is attached after the family name of an individual when addressing that person.
+
+In mainland China, it is the lingua franca of the province of Guangdong (being the majority language of the Pearl River Delta) and neighboring areas such as Guangxi.
+
+In mainland China it was first broadcast on CCTV-8 in 2006.
+
+In mainland China the API was replaced by an updated Air Quality Index in early 2012 and on 30 December 2013 Hong Kong moved to a health based index.
+
+In Mainland China, the foundation has provided funding to more than 90 tertiary institutions, 166 secondary schools, more than 40 primary schools and kindergartens, about 20 colleges, over 1650 suburban libraries and around 30 hospitals and sanatoria across 34 provinces, municipalities and autonomous regions.
+
+In Mainland China, there are 53 criminal offenses eligible for the death penalty.
+
+In mainland Europe, a commissionaire is an attendant, messenger or subordinate employed in hotels, whose chief duty is to attend at railway stations, secure customers, take charge of their luggage, carry out the necessary formalities with respect to it and have it sent on to the hotel.
+
+In mainland European heraldry, it is used as a mark of ecclesiastical dignity, especially that of cardinals, which is called the red chapeau.
+
+In mainland Europe, a round equivalent is more common.
+
+In mainland Europe, "Light On" was released as the second single from the album after a television performance of the track which entered it in the German Top 40 singles.
+
+In mainland Europe, the single was released on Les Disques Du Crepuscule.
+
+In mainland Europe, where mountain rescue is done by paid professionals, there are courses for physicians that help qualify them to be mountain rescue or expedition doctors.
+
+In main program were 29 participants from 11 countries, including, 8 grandmasters, 6 international masters and 9 masters of the FMJD.
+
+In mainstream Christianity, it also refers to his status as God the Son, the second divine person or hypostasis of the Trinity.
+
+In mainstream Christianity, the Devil (or Satan) is a fallen angel who rebelled against God.
+
+In mainstream economics, expected utility (EU) and the concept of rational agents are still being used.
+
+In mainstream economics, the concept of a market is any structure that allows buyers and sellers to exchange any type of goods, services and information.
+
+In mainstream economic theories, the labor supply is the total hours (adjusted for intensity of effort) that workers wish to work at a given real wage rate.
+
+In mainstream languages continuation-passing style primarily occurs by passing closures as callbacks (function arguments), and thus direct style more simply means that functions return a value, rather than taking a function argument.
+
+In mainstream Nicene Christianity, there is no restriction on kinds of animals that can be eaten.
+
+In mainstream parlance, the official name of "Holden 48-215" was eschewed in favor of the shortened "Holden" designation.
+
+In mainstream scientific usage, hair analysis is the chemical analysis of a hair sample.
+
+In mainstream trinitarian Christianity, God the Father is regarded as the first person of the Trinity, followed by the second person God the Son (Jesus Christ) and the third person God the Holy Spirit.
+
+In Mainz, Alban helped bishop Aureus of Mainz to regain his bishopric.
+
+In Maitland alone, 2180 homes were invaded by water.
+
+In maize, DIMBOA functions as natural defense against European corn borer larvae and many other damaging pests, including fungi and bacteria.
+
+In maize, genes in the pathway are named using the symbol bx.
+
+In Majesty, players assume the role of king in a fantasy realm called Ardania which features city sewers infested with giant rats, landscapes dotted with ancient evil castles, and soldiers helpless against anything bigger than a goblin.
+
+In Majjhima Nikaya 37, Mahamoggallana admonishes one of his successors to that office.
+
+In major areas, latex is allowed to coagulate in the collection cup.
+
+In major Asian cities such as Singapore, Kuala Lumpur, Hong Kong, Shenzhen and Seoul, an estate may range from detached houses to high density tower blocks with or without commercial facilities; in Europe and America, these may take the form of town housing, or the older-style rows of terraced houses associated with the industrial revolution, detached or semi-detached houses with small plots of land around them forming gardens, and are frequently without commercial facilities.
+
+In major cities, landline-numbers consist of a two-digit area code followed by an eight-digit inner-number.
+
+In Major Crimes, Pope is not seen and is rarely mentioned with Assistant Chief Taylor acting as the supervisor of the Major Crimes Division.
+
+In major injuries, the repair mechanisms are unable to restore the skin to its original condition.
+
+In majority Protestant countries with large scale immigration, such as the United States and Australia, suspicion or discrimination of Catholic immigrants often overlapped or conflated with nativism, xenophobia, and ethnocentric or racist sentiments (i.
+
+e. anti-Italianism, anti-Irish sentiment, Hispanophobia, anti-Quebec sentiment, anti-Polish sentiment).
+
+In majority there are lots of various casts have been living here like Sunuwar, Tamang, Bhote, Karki, Damaai, Kami, Bhujel, Thami and Shrestha.
+
+In majority this village is very popular because of its natural mines likes; Iron, Cooper, Stones Etc.

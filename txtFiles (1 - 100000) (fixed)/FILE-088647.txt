@@ -1,0 +1,241 @@
+Experimental closed-head impact injury in this study involved contact with the temporomandibular region of the head and force loading across the zygomatic arch of the skull. In the mouse, the zygomatic process and squasmosal converge over the lateral perirhinal cortex. Gross pathology observed in impact-injured mice comports with classical coup injury biomechanics as documented in analogous brain pathology after impact injuries in humans (Graham et al., 2002; Blennow et al., 2012; Johnson et al., 2013b; Jordan, 2013; Leestma and Thibault, 2014; Kenney et al., 2016; Sharp et al., 2016; Ghajari et al., 2017). Virtually all mice subjected to experimental impact in this study demonstrated transient neurobehavioural deficits that bear striking resemblance to the spectrum of concussion-related responses in humans. By contrast, and to our surprise, mice exposed to blast under conditions matched for head kinematics did not exhibit acute neurobehavioural deficits post-injury (Goldstein et al., 2012). This unexpected observation argues against the concept that kinematic variables are primary determinants of concussive phenomena (Denny-Brown and Russell, 1941; Shaw, 2002). Rather, our experimental and computational results suggest that the observed acute neurobehavioural responses to closed-head impact injury are triggered by force point loading and intraparenchymal shear stress foci in the cerebral cortex that occur before onset of gross head motion.
+
+These observations are consistent with the following postulated mechanistic sequence based on reported experimental findings. Cortical shear stresses triggered by impact elicit rapid neuronal membrane depolarization, massive glutamate release, and metabolic dyshomeostasis (Faden et al., 1989; Katayama et al., 1990; Yoshino et al., 1991) in cerebral cortex ipsilateral to injury. Released glutamate activates excitatory amino acids receptors that elicit further depolarization by altering Na+ and Ca2+ gating properties and opening voltage-sensitive ion channels that amplify transmembrane cation fluxes (Hemphill et al., 2015). These responses interfere with synaptic neurotransmission, thereby inducing transient loss of contralateral motor strength, tone, and coordination as well as impairing vegetative brain functions controlling attention, arousal, and affect. Neurophysiological function is restored following neurotransmitter reuptake and synaptic recovery, consistent with our observations of abrupt onset and rapid recovery of neurobehavioural deficits post-injury. Mechanical membrane deformation can directly open stretch-sensitive channels that produce aberrant ion fluxes (Hemphill et al., 2015) and intracellular Ca2+ dyshomeostasis (Gurkoff et al., 2012; Barkhoudarian et al., 2016). Sudden changes in local ion concentrations can trigger spreading depolarization (Dreier, 2011; Lippmann et al., 2017) and post-traumatic seizure (Annegers et al., 1998). While post-traumatic seizure was rare in our animal experiments (<1% of impact-injured mice), when present these events invariably evolved as a classical Jacksonian march noted first on the right side contralateral to left-sided impact with progression to generalized tonic-clonic seizure followed by post-ictal immobility. This pattern is consistent with a left-sided motor cortex seizure focus. Taken together, our results indicate that the transient neurobehavioural impairments triggered by impact result from disruption of cortical function rather than damage to cortical structures, and as such, agree with neuronal excitation theories of concussion (Denny-Brown and Russell, 1941; Walker et al., 1944; Shaw, 2002).
+
+Interactions between the functional and structural effects of neurotrauma are complex, dynamic, bidirectional, and dependent on a variety of injury-related factors, including type, rate, intensity, geometry, location, and biomechanics of the inciting insult. Specifically, we found that different types of neurotrauma produce varying levels of concussive functional effects. Furthermore, we observed wide variation in acute neurological responses within a single mode of head injury (i.
+
+e. impact) (Fig. 2E and F). Moreover, we found that variation in acute functional responses in our experimental animal model did not correlate with any of the measured quantitative indices that we used to assess brain injury and CTE-related sequelae (Supplementary Table 3). We interpret these findings as evidence supporting interactive linkage rather than dissociation between functional and structural consequences of neurotrauma. This point is underscored by the fact that functional effects of head injury, including neurophysiological responses underpinning concussion, are capable of potentiating structural changes and secondary alterations that lead to further brain injury and neurological sequelae. For example, sudden release of glutamate in the brain, intracellular calcium dysregulation, and spreading depolarization triggered by neurotrauma are all known precipitants of metabolic dyshomeostasis, neurotoxicity, neuronal dysfunction, and neurodegeneration (Dreier et al., 2006; Lau and Tymianski, 2010; Dreier, 2011; Hartings et al., 2011; Prins et al., 2013; Giza and Hovda, 2014; Pietrobon and Moskowitz, 2014; Lewerenz and Maher, 2015; Østergaard et al., 2015; Barkhoudarian et al., 2016; Rogers et al., 2017). From this perspective, concussion can be viewed as an observable clinical manifestation that reflects a spectrum of altered neurological functional states that may or may not be associated with antecedent structural brain injury. Moreover, the neurobiological conditions underpinning these concussive states may, ipso facto, alter ongoing metabolic, homeostatic, cellular, and electrophysiological responses, thereby modulating post-traumatic brain function and neurological sequelae.
+
+We note several unexpected findings pertinent to the origins of concussion and relationships to TBI and CTE. First, we did not detect a correlation between impact intensity (sled velocity) and acute neurobehavioural responses to mild closed-head impact injury. Second, acute responses to experimental impact injury did not correlate with TBI and CTE endpoints. Specifically, composite scores on the test battery did not correlate with quantitative endpoints of blood–brain barrier disruption, neuroinflammation, neurophysiological defects, or phosphorylated tauopathy. Finally, we observed dissociation between the mechanism of experimental neurotrauma (impact versus blast) and induction of acute neurobehavioural deficits. Mice subjected to impact injury reliably demonstrated transient concussion-like impairments, whereas mice exposed to blast with comparable head motion did not.
+
+Computational simulations revealed dramatic differences in the evolution of shear stress in the head and brain during impact compared to blast. Specifically, our results point to differences in shear (von Mises) stress as the primary driver of acute neurobehavioural impairments triggered by impact injury. Indeed, we found 7-fold larger intracerebral shear (von Mises) stress during impact compared to blast under conditions matched for head kinematics. The differences in intracerebral shear stress (and differential propensity for acute impairments) derived from distinct loading conditions in the two types of neurotrauma. For blast, airflow around the skull produces relatively uniform pressure on the head (Fig. 7F) that does not generate significant shear stress in the brain. By contrast, impact produces focally-concentrated point loading at the impact site. Non-uniform point loading on the head creates significant shear stress in the brain that persists in a focal region of the brain ipsilateral and subjacent to the impact contact zone. Focal shear persistence results from extremely low shear wave velocity in the brain (Fig. 7G). Intracerebral shear stresses predicted by impact simulation is in the order of hundreds of Pascals, a value well above reported thresholds for disruption of brain cell homeostasis (Ravin et al., 2012; Maneshi et al., 2015). Our results suggest that trauma-induced disturbances in brain function may occur in the absence of overt structural brain pathology. While focal shear stresses in the brain may be important for production of concussion-like neurobehavioural responses in an animal model of closed-head impact injury, the neurological consequences of this biomechanical perturbation may not be limited to acute brain dysfunction. Rather, our data suggest that exposure to focal shear stress may also be associated with structural brain injury and its aftermath.
+
+The differential biomechanical effects of impact and blast suggest possible substrates and mechanisms that underpin and link concussion, TBI, and sequelae. While experimental impact injury and blast exposure both trigger TBI and early CTE brain pathologies, only impact induced acute concussion-like neurobehavioural deficits. Computational simulations showed that impact induced point loading on the head and asymmetric shear stress in the brain, whereas blast exposure, under conditions matched for head kinematics, led to diffuse loading with 7-fold lower intracerebral shear stress. Our results indicate that the primary biomechanical determinant driving impact-induced acute neurological deficits is focally-concentrated shear stress that arises in the cerebral cortex before onset of gross head motion. By contrast, structural brain injury, focal pathologies, and functional sequelae correlate with slower-acting inertial forces associated with head motion (Holbourn, 1943; Goldstein et al., 2012; Ghajari et al., 2017).
+
+Shear stress within the brain is subject to localized amplification (stress concentration) due to structural anisotropy and inhomogeneities (Ommaya and Gennarelli, 1974; Gennarelli et al., 1993; Cloots et al., 2008; Ghajari et al., 2017). Specific anatomical features that contribute to stress concentration (e.
+
+g. depths of cortical sulci, grey–white matter interfaces, microvascular-brain parenchyma junctures; Fig. 8D) also represent brain structures that exhibit the greatest burden of TBI- and CTE-related neuropathology (McKee et al., 2016; Ghajari et al., 2017; Holleran et al., 2017). These same structures are also vulnerable to repeated injury, especially if subsequent neurotrauma is sustained during brain recovery (Laurer et al., 2001; Prins et al., 2013). Prior brain injury is well known to increase risk of subsequent injury, slower recovery, poorer outcomes, and in rare cases, second impact syndrome (Cantu, 1998; Guskiewicz et al., 2003; Evans, 2006; Mannix et al., 2013; Terwilliger et al., 2016).
+
+Limitations of the animal experiments include use of young adult male C57BL/6 mice subjected to a single-repeat unilateral impact at one injury intensity and evaluated exclusively in the acute-subacute period post-injury (with exception of cis-p-tauopathy that was evaluated 5.
+
+5 months post-injury). While comparing murine and human ages is fraught with complications (Spear, 2004; Flurkey et al., 2007), the selected age range represents an informed choice that balances age as a function of longevity (Hedrich, 2012), maturational comparability to the human cases and previous studies (Goldstein et al., 2012; Kondo et al., 2015), cervical and facial muscle development, skull thickness, and brain development (Kobayashi et al., 1963; Flurkey et al., 2007; Counotte et al., 2010; Hedrich, 2012; Smith et al., 2017). Importantly, white matter microglia reached adult distribution and phenotype at the selected mouse age, a factor of particular significance for the neuroinflammation analyses. The selected murine age range is consistent with sexual maturity, attainment of adult body weight and skull thickness, and completion of major brain development milestones. By these metrics, mice in this study were roughly comparable in age to the human cases. Interpretation and generalizability of our animal experiments are constrained by animal subject homogeneity (strain, genotype, age, and sex) as well as species differences in physiology, metabolism, and anatomy (skull deformability, spine stability, cervical range of motion).
+
+Another limitation of the animal model centres on the definition of concussion (Angoa-Pérez et al., 2014; Semple et al., 2015; Giza et al., 2017; McCrory et al., 2017; Wojnarowicz et al., 2017). Our working definition of concussion is based on observable neurobehavioural signs that are primarily, but not exclusively, related to neuromotor function. Impaired balance and gait are considered part of the constellation of signs associated with sports-related concussion (McCrory et al., 2017), and accordingly, were rigorously evaluated in this study. However, other prominent clinical features of concussion—cognitive impairment, amnestic deficits, disorientation, slowed reaction time, headache, emotional lability, alterations in consciousness, somnolence and sleep disturbances—were not amenable to experimental evaluation using the current version of the acute neurobehavioural response test battery. These limitations warrant caution with respect to generalizing experimental findings in laboratory animals to clinical conditions in humans. Future studies will benefit from inclusion of test battery components that are sensitive to specific alterations in cognitive, affective, and behavioural domains that are affected by concussion in humans.
+
+Additional limitations apply to the computational simulations. We considered effects on and within a computationally simplified headform, while neglecting contributions of neck and torso tethering to the body. However, with respect to the calculated timescales of interest, we observed pronounced shear stresses prior to onset of gross head motion when tethering effects would not be significant. We also assumed a simplified spherical head with concentric material layers of skull and CSF without dura or soft tissues, as well as isotropic brain composition without internal structure. We note that a more complex anatomical description would not have changed the conclusions deduced from the simulations. In addition, we only considered a single set of initial conditions for the impact and blast simulations. Future studies in which the magnitude of shear forces within a single model is systematically varied may yield additional information germane to establishing causal links between loading conditions during injury and its aftermath. Moreover, the temporal relationships between initiation and propagation of shear stress foci in the brain and onset of acute neurological responses remain to be empirically validated in vivo. Despite these caveats, the computational simulations closely agreed with experimental head kinematics and support mechanistic explanations that comport with simple biomechanical principles and clinical observations.
+
+Based on this evidence, we conclude that the mechanisms underpinning the transient concussion-like deficits observed in mice after experimental closed-head impact are triggered by fast-acting, high-amplitude shear stress fields that arise in the cerebral cortex before onset of gross head motion. Our results also suggest that concussion, TBI, and CTE represent distinct nosological entities subserved by different pathobiological mechanisms. Specifically, our findings indicate that closed-head impact injury, independent of concussion, represents a potent insult with potential to induce enduring neurophysiological dysfunction and persistent (and possibly progressive) sequelae, including CTE brain pathology. Furthermore, our findings from blast and impact support the concept that disparate types of neurotrauma with distinct injury mechanisms and differing potential for concussion can trigger convergent brain pathologies and functional sequelae.
+
+Collectively, these results raise concern that repetitive neurotrauma, independent of concussion, may induce early CTE brain pathologies, even in teenagers and young adults. Cumulative exposure to such injuries may also increase risk for other tau protein neurodegenerative diseases, including Alzheimer’s disease (Stein et al., 2015b). These considerations are important not only for understanding and differentiating concussion, TBI, and CTE, but also to inform clinical practice, return-to-play protocols, and public health policy.
+
+This study also raises many questions. How much tau pathology is clinically significant? What is the relationship of specific tau species and other molecular and cellular pathologies to latent brain disease and chronic sequelae triggered by brain injury? How do pathogenic tau proteoforms propagate through the brain and can this process be prevented or reversed? Which clinical biomarkers are best suited for diagnostic detection, endophenotype differentiation, prognostic stratification, and longitudinal monitoring of TBI and CTE? Animal models that recapitulate clinical features of concussion, TBI, and CTE provide a powerful platform to address these issues. We anticipate that answers to these questions will facilitate development of new diagnostics, therapeutics, protective equipment, and preventive measures for acute and chronic effects of impact neurotrauma.
+
+AcknowledgementsThe authors gratefully acknowledge the use of resources and facilities at and support from the Edith Nourse Rogers Memorial Veterans Hospital (Bedford, MA, USA), Boston VA Healthcare System (Jamaica Plain, MA, USA), Boston University School of Medicine (Boston, MA, USA), and Boston University Alzheimer’s Disease Center, CTE Program (Boston, MA, USA). We thank Tom Balon, Ph.
+
+D., Director, Boston University Metabolic Phenotyping and In Vivo Imaging Core, for assistance with the IVIS imaging system (NIH-NCRR, S10RR024523). The authors gratefully acknowledge resource support from Thermo Scientific (Waltham, MA), Tech Imaging (Saugus, MA), Teledyne CETAC Technologies (Omaha, NE), and Office of the Dean, Boston University School of Medicine. Work by W.
+
+C.
+
+M. and A.
+
+T.
+
+A. was performed under the auspices of the U.
+
+S. Department of Energy by Lawrence Livermore National Laboratory under Contract DE-AC52-07NA27344. Work by W.
+
+C.
+
+M. was performed, in part, while a Consulting Professor in the Department of Structural Biology, Stanford University School of Medicine. The authors also gratefully acknowledge the individuals and families whose participation and contributions made this work possible.
+
+FundingNIH F31NS077796 (C.
+
+A.
+
+T.), NIH 5T32EB006359 (C.
+
+A.
+
+T.), NIH 1F31NS080564 (A.
+
+G.
+
+B.), University of California, Berkeley Bakar Fellowship (D.
+
+K.). NIH R01AG029385 (K.
+
+P.
+
+L.), NIH R01NS32151 (R.
+
+M.
+
+R.), NIH R01NS044421 (P.
+
+K.
+
+S.), NIH-NIA Boston University Alzheimer’s Disease Center P30AG13846 and supplement 0572063345 (N.
+
+W.
+
+K.), NIH-NIA Boston University Framingham Heart Study R01AG1649, NIH-NINDS 1UO1NS086659 (A.
+
+C.
+
+M.); U.
+
+S. Department of Veterans Affairs Veterans Affairs Biorepository CSP 501 (A.
+
+C.
+
+M.), Veterans Health Administration Clinical Sciences Research and Development Merit Award I01-CX001038 (T.
+
+D.
+
+S.); U.
+
+S. Department of Defense W81XWH-13-2-0064 and VA I01 RX 002170 (A.
+
+C.
+
+M.); Peer Reviewed Alzheimer’s Research Program (DoD-PRARP) 13267017 (A.
+
+C.
+
+M.), DoD-PRARP W81XWH1310263 (L.
+
+E.
+
+G.); U.
+
+S. Department of Energy contract to Lawrence Livermore National Laboratory DE-AC52-07NA27344 (A.
+
+T.
+
+A., W.
+
+C.
+
+M.). Alzheimer’s Association NIRG-305779 (T.
+
+D.
+
+S.), European Union Seventh Framework Program EPITARGET 602102 (A.
+
+F.), Israel Science Foundation (A.
+
+F.), Canadian Institute of Health Research (A.
+
+F.), National Operating Committee on Standards for Athletic Equipment (A.
+
+C.
+
+M.), The Linden Fund (P.
+
+K.
+
+S.) Concussion Legacy Foundation (A.
+
+C.
+
+M., L.
+
+E.
+
+G.), WWE (A.
+
+C.
+
+M., L.
+
+E.
+
+G.); unrestricted gifts from the Andlinger Foundation (A.
+
+C.
+
+M.), WWE (A.
+
+C.
+
+M.), National Football League (A.
+
+C.
+
+M.); Crown Family for support of the US-Israel TBI Collaborative Research Program (A.
+
+F., L.
+
+E.
+
+G.).
+
+The views and opinions of authors V.
+
+E.
+
+A., B.
+
+R.
+
+H., N.
+
+W.
+
+K., T.
+
+D.
+
+S., and A.
+
+C.
+
+M. expressed herein should not to be construed as official positions of the Department of Veterans Affairs or the U.
+
+S. government.
+
+Conflict of interestK.
+
+P.
+
+L. and X.
+
+Z.
+
+Z. are inventors of Pin1 technology, which is licensed by Beth Israel Deaconess Medical Center (BIDMC) to Pinteon Therapeutics, Inc. (Concord, MA). K.
+
+P.
+
+L. and X.
+
+Z.
+
+Z. are equity holders and consult for Pinteon. Their interests were reviewed and managed by BIDMC in accordance with its conflict of interest policy. R.
+
+M.
+
+R. is an employee of Biogen and holds company stock. R.
+
+C.
+
+C. receives consulting remuneration from National Football League (NFL), National Operating Committee on Standards for Athletic Equipment (NOCSAE), and the Concussion Legacy Foundation. R.
+
+C.
+
+C. also receives book royalties. C.
+
+J.
+
+N. is a salaried employee of the Concussion Legacy Foundation, a tax-exempt nonprofit organization. C.
+
+J.
+
+N. has received travel reimbursement while serving on advisory boards for the NFL Players Association, Major League Lacrosse, WWE, and The Ivy League, is eligible for book royalties, and receives speaking fees and travel reimbursement for educational lectures. L.
+
+E.
+
+G. is a consultant for Rebiscan, Inc.
+
+Supplementary materialSupplementary material is available at Brain online.
+
+AbbreviationsAbbreviations CTE chronic traumatic encephalopathyLTP long-term potentiationTBI traumatic brain injuryReferences

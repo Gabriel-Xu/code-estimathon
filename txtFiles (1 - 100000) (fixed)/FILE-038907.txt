@@ -1,0 +1,323 @@
+In computing a storage violation is a hardware or software fault that occurs when a task attempts to access an area of computer storage which it is not permitted to access.
+
+In computing, a SubOS may mean several related concepts A process-specific protection mechanism allowing potentially dangerous applications to run in a restricted environment.
+
+In computing, a syllable is a name for a platform-dependent unit of information storage.
+
+In computing, a system call is the programmatic way in which a computer program requests a service from the kernel of the operating system it is executed on.
+
+In computing, a system image is a serialized copy of the entire state of a computer system stored in some non-volatile form such as a file.
+
+In computing, a system resource, or simply resource, is any physical or virtual component of limited availability within a computer system.
+
+In computing, a system virtual machine is a virtual machine provides a complete system platform which supports the execution of a complete operating system (OS).
+
+In computing, a task is a unit of execution or a unit of work.
+
+In computing, a temporary folder or temporary directory is a directory used to hold temporary files.
+
+In computing, a theme is a preset package containing graphical appearance details.
+
+In computing, a threaded binary tree is a binary tree variant that allows fast traversal: given a pointer to a node in a threaded tree, it is possible to cheaply find its in-order successor (and/or predecessor).
+
+In computing, a tiling window manager is a window manager with an organization of the screen into mutually non-overlapping frames, as opposed to the more popular approach of coordinate-based stacking of overlapping objects (windows) that tries to fully emulate the desktop metaphor.
+
+In computing, at is a command in Unix-like operating systems, Microsoft Windows, and ReactOS used to schedule commands to be executed once, at a particular time in the future.
+
+In computing, a Trojan horse, or Trojan, is any malicious computer program which misleads users of its true intent.
+
+In computing, a unique type guarantees that an object is used in a single-threaded way, with at most a single reference to it.
+
+In computing, Author Domain Signing Practices (ADSP) is an optional extension to the DKIM E-mail authentication scheme, whereby a domain can publish the signing practices it adopts when relaying mail on behalf of associated authors.
+
+In computing, autonomous peripheral operation is a hardware feature found in some modern microcontroller architectures to off-load certain tasks into embedded autonomous peripherals in order to minimize latencies and improve throughput in hard real-time applications as well as to save energy in ultra-low-power designs.
+
+In computing, a virtual address space (VAS) or address space is the set of ranges of virtual addresses that an operating system makes available to a process.
+
+In computing, a virtual desktop is a term used with respect to user interfaces, usually within the WIMP paradigm, to describe ways in which the virtual space of a computer's desktop environment is expanded beyond the physical limits of the screen's display area through the use of software.
+
+In computing, a virtual file server is a system consisting of one of more virtualized devices that store computer files such as documents, sound files, photographs, movies, images or databases.
+
+In computing, a virtual folder generally denotes an organizing principle for files that is not dependent on location in a hierarchical directory tree.
+
+In computing, a virtualization engine is the concept of giving a holistic view of all the resources in the entire network infrastructure.
+
+In computing a virtual printer is a simulated device whose user interface and API resemble that of a printer driver, but which is not connected with a physical computer printer.
+
+In computing, a visual programming language (VPL) is any programming language that lets users create programs by manipulating program elements graphically rather than by specifying them textually.
+
+In computing, a web widget is a software widget for the web.
+
+In computing, a windowing system (or window system) is software that manages separately different parts of display screens.
+
+In computing, a window is a graphical control element.
+
+In computing, a wireless intrusion prevention system (WIPS) is a network device that monitors the radio spectrum for the presence of unauthorized access points (intrusion detection), and can automatically take countermeasures (intrusion prevention).
+
+In computing, a word is the natural unit of data used by a particular processor design.
+
+In computing, a World Wide Port Name, WWPN, or WWpN, is a World Wide Name assigned to a port in a Fiber Channel fabric.
+
+In computing, a zoomed video port (often simply ZV port) is a unidirectional video bus allowing a device in a PC card slot to transfer video data directly into a VGA frame buffer, so as to allow laptops to display real-time video.
+
+In computing, bandwidth is the maximum rate of data transfer across a given path.
+
+In computing base and bounds refers to a simple form of virtual memory where access to computer memory is controlled by one or a small number of sets of processor registers called base and bounds registers.
+
+In computing based on the Java Platform, JavaBeans are classes that encapsulate many objects into a single object (the bean).
+
+In computing, batch processing refers to a computer working through a queue or batch of separate jobs (programs) without manual intervention (non-interactive).
+
+In computing, binary translation is a form of binary recompilation where sequences of instructions are translated from a source instruction set to the target instruction set.
+
+In computing, booting is starting up a computer or computer appliance until it can be used.
+
+In computing, Bounce Address Tag Validation (BATV) is a method, defined in an Internet Draft, for determining whether the bounce address specified in an E-mail message is valid.
+
+In computing, buffer underrun or buffer underflow is a state occurring when a buffer used to communicate between two devices or processes is fed with data at a lower speed than the data is being read from it.
+
+In computing, busdma is a set of application programming interfaces designed to help make device drivers less dependent on platform-specific code, thereby allowing the host operating system to be more easily ported to new computer hardware.
+
+In computing, bus mastering is a feature supported by many bus architectures that enables a device connected to the bus to initiate direct memory access (DMA) transactions.
+
+In computing, cacls and its replacement, icacls, are Microsoft Windows native command line utilities capable of displaying and modifying the security descriptors on folders and files.
+
+In computing, CHILL (an acronym for CCITT High Level Language) is a procedural programming language designed for use in telecommunication switches (the hardware used inside telephone exchanges).
+
+In computing, CHOICE is a command that allows for batch files to prompt the user to select one item from a set of single-character choices.
+
+In computing, CLISP is an implementation of the programming language Common Lisp originally developed by Bruno Haible and Michael Stoll for the Atari ST.
+
+In computing, C localization functions are a group of functions in the C programming language implementing basic localization routines.
+
+In computing, CLS (for clear screen) is a command used by the command line interpreters COMMAND.
+
+COM and CMD.
+
+EXE on DOS, OS/2 and Microsoft Windows operating systems to clear the screen or console window of commands and any output generated by them.
+
+In computing, code generation is the process by which a compiler's code generator converts some intermediate representation of source code into a form (e.
+
+g., machine code) that can be readily executed by a machine.
+
+In computing, command substitution is a facility that allows a command to be run and its output to be pasted back on the command line as arguments to another command.
+
+In computing, commit charge is a term used in Microsoft Windows operating systems to describe the total amount of virtual memory guaranteed for all processes to fit in physical memory and the page file. .
+
+In computing, Common Gateway Interface (CGI) offers a standard protocol for web servers to execute programs that execute like console applications (also called command-line interface programs) running on a server that generates web pages dynamically.
+
+In computing, comp is a command used on DOS, Microsoft Windows and related computer operating systems such as ReactOS.
+
+In computing, configuration files (or config files) are files used to configure the parameters and initial settings for some computer programs.
+
+In computing, control-\ is a control character in ASCII code, also known as the file separator (FS) character.
+
+In computing, Control-V is a key stroke with a variety of uses including generation of a control character in ASCII code, also known as the synchronous idle (SYN) character.
+
+In computing cooperative distributed problem solving is a network of semi-autonomous processing nodes working together to solve a problem, typically in a multi-agent system.
+
+In computing, copy is a command in RT-11, RSX-11, TOPS-20, OpenVMS, DOS, OS/2 and Microsoft Windows operating systems.
+
+In computing, cross-platform software (also multi-platform software or platform-independent software) is computer software that is implemented on multiple computing platforms.
+
+In computing, D3DX (Direct3D Extension) is a deprecated high level API library which is written to supplement Microsoft's Direct3D graphics API.
+
+In computing, data as a service (or DaaS) is a cousin of software as a service (SaaS).
+
+In computing, data-oriented design is a program optimization approach motivated by cache coherency, used in video game development (usually in the programming languages C or C++).
+
+In computing, data recovery is a process of salvaging (retrieving) inaccessible, lost, corrupted, damaged or formatted data from secondary storage, removable media or files, when the data stored in them cannot be accessed in a normal way.
+
+In computing, data transformation is the process of converting data from one format or structure into another format or structure.
+
+In computing, del (or erase) is a command in DOS, OS/2, Microsoft Windows and ReactOS command-line interpreters (shells) such as COMMAND.
+
+COM, cmd.
+
+exe, 4DOS, NDOS, 4OS2, 4NT and Windows PowerShell.
+
+In computing, DELTREE (short for delete tree) is a command line command in some Microsoft operating systems and FreeDOS that recursively deletes an entire subdirectory of files.
+
+In computing, deterministic memory is computer memory which contains values that can be depended on from access to access.
+
+In computing, dir (directory) is a command used for computer file and directory listing, specifically in the command line interface (CLI) of the operating systems CP/M, MP/M, DOS, OS/2, Singularity, Microsoft Windows, ReactOS, and in the DCL command line interface used on VMS, RT-11 and RSX-11.
+
+In computing, directory service or name service maps the names of network resources to their respective network addresses.
+
+In computing, diskcopy is a command used on MS-DOS, PC DOS, AmigaDOS, FreeDOS, OS/2, and Microsoft Windows for copying the complete contents of a diskette to another diskette.
+
+In computing, Download.
+
+ject (also known as Toofer and Scob) is a malware program for Microsoft Windows servers.
+
+In computing, Dynamic Data Exchange (DDE) is a method of interprocess communication under Microsoft Windows or OS/2.
+
+In computing, echo is a command in DOS, OS/2, Microsoft Windows, Unix and Unix-like operating systems that outputs the strings it is being passed as arguments.
+
+In computing, eD2k links (ed2k://) are hyperlinks used to denote files stored on computers connected to the eDonkey filesharing P2P network.
+
+In computing, end-of-file (commonly abbreviated EOF) is a condition in a computer operating system where no more data can be read from a data source.
+
+In computing, Envoy was a proprietary portable document file format marketed by WordPerfect Corporation, created as a competitor for Acrobat Pro.
+
+In computing, Equinox is a sub-project of the Eclipse project that provides a certified implementation of the OSGi R4.
+
+x core framework specification.
+
+In computing, eSATAp (also known as Power over eSATA, Power eSATA, eSATA/USB Combo, eSATA USB Hybrid Port/EUHP) is a combination connection for external storage devices.
+
+In computing, especially computational geometry, a real RAM (random access machine) is a mathematical model of a computer that can compute with exact real numbers instead of the binary numbers used by most actual computers.
+
+In computing, EXA is a graphics acceleration architecture of the X.
+
+Org Server (see also X Window System) designed to replace XAA (the XFree86 Acceleration Architecture) and to make the XRender extension more usable, with only minor changes needed to adapt XFree86 video drivers written to use XAA; it was designed by Zack Rusin and announced at LinuxTag 2005 and first released with X.
+
+Org Server version 6.
+
+9/7.
+
+0.
+
+In computing, exec is a functionality of an operating system that runs an executable file in the context of an already existing process, replacing the previous executable.
+
+In computing, exit is a command used in many operating system command-line shells and scripting languages.
+
+In computing, Expat is a stream-oriented XML 1.
+
+0 parser library, written in C. As one of the first available open-source XML parsers, Expat has found a place in many open-source projects.
+
+In computing, extract, transform, load (ETL) refers to a process in database usage and especially in data warehousing.
+
+In computing, Facelets is an open-source Web template system under the Apache license and the default view handler technology (aka view declaration language) for JavaServer Faces (JSF).
+
+In computing, FASTOPEN is an MS-DOS TSR command, introduced in version 3.
+
+3, that provides accelerated access to frequently-used files and directories.
+
+In computing, file comparison is the calculation and display of the differences and similarities between data objects, typically text files such as source code.
+
+In computing, file system fragmentation, sometimes called file system aging, is the tendency of a file system to lay out the contents of files non-continuously to allow in-place modification of their contents.
+
+In computing, file virtualization is a field of storage virtualization operating on computer file level.
+
+In computing, find is a command in the command line interpreters (shells) of DOS, OS/2, Microsoft Windows, and ReactOS.
+
+In computing, findstr is a command in the command line interpreters (shells) of Microsoft Windows and ReactOS.
+
+In computing, Flow is middleware software which allows data-integration specialists to connect disparate systems (whether on-premises, hosted or in the cloud); transforming and restructuring data as required between environments.
+
+In computing FOCAL character set refers to a group of 8-bit single byte character sets introduced by Hewlett-Packard since 1979.
+
+In computing, focus stealing is a mode error produced when a program not in focus (e.
+
+g. minimized or operating in background) places a window in the foreground and redirects all keyboard input to that window.
+
+In computing, footprint of an application software (or application footprint) provides a sense of sizing of its various constituents, and hence, is a spatial measurement, in a given context, such as disk footprint, memory footprint (a.
+
+k.
+
+a. runtime footprint), network footprint, etc.
+
+In computing, format, a command-line utility included in 86-DOS, MS-DOS, IBM PC DOS and OS/2 and Microsoft Windows operating systems, carries out disk formatting.
+
+In computing, geolocation software is software that is capable of deducing the geolocation of a device connected to the Internet.
+
+In computing, gettext is an internationalization and localization (i18n) system commonly used for writing multilingual programs on Unix-like computer operating systems.
+
+In computing, goal seeking is the ability to calculate backward to obtain an input that would result in a given output.
+
+In computing, grist is the addition of characters before and/or after a parameter to ensure uniqueness to a software interpreter.
+
+In computing, half precision is a binary floating-point computer number format that occupies 16 bits (two bytes in modern computers) in computer memory.
+
+In computing, hand coding means editing the underlying representation of a document or a computer program, when tools that allow working on a higher level representation also exist.
+
+In computing, hardening is usually the process of securing a system by reducing its surface of vulnerability, which is larger when a system performs more functions; in principle a single-function system is more secure than a multipurpose one.
+
+In computing, hardware acceleration is the use of computer hardware to perform some functions more efficiently than is possible in software running on a more general-purpose CPU.
+
+In computing, hardware-assisted virtualization is a platform virtualization approach that enables efficient full virtualization using help from hardware capabilities, primarily from the host processors.
+
+In computing, Hazelcast is an open source in-memory data grid based on Java.
+
+In computing, help is a command in various command line shells such as COMMAND.
+
+COM, cmd.
+
+exe, Bash, 4DOS/4NT, Windows PowerShell, Singularity shell, Python and GNU Octave.
+
+In computing, he was an early promoter of virtual machines, which led to work promoting UNIX and software tools at Intel headquarters during the 80386 project, and the creation of several production domain-specific languages.
+
+In computing, Hoodie is an open-source JavaScript package, that enables offline first, Front-end web development by providing a complete backend infrastructure.
+
+In computing HP Roman is a family of character sets consisting of HP Roman Extension, HP Roman-8, HP Roman-9 and several variants.
+
+In computing, HP Storage (formerly HP StorageWorks), a portfolio of Hewlett-Packard (HP) storage products, includes online storage, near-online (nearline) storage, storage networking, archiving, de-duplication, and storage software.
+
+In computing, human-readable data is often encoded as ASCII or Unicode text, rather than presented in a binary representation.
+
+In computing, IIf (an abbreviation for Immediate if) is a function in several editions of the Visual Basic programming language and ColdFusion Markup Language (CFML), and on spreadsheets that returns the second or third parameter based on the evaluation of the first parameter.
+
+In computing, Impression is a desktop publishing application for RISC OS systems.
+
+In computing, indexed color is a technique to manage digital images' colors in a limited fashion, in order to save computer memory and file storage, while speeding up display refresh and file transfers.
+
+In computing, info is a Uniform Resource Identifier (URI) scheme which enables identifiers from public namespaces to be represented as URIs, when they would otherwise have no canonical URL form, such as Library of Congress identifiers, Handle System handles, and Digital object identifiers.
+
+In computing, inline expansion, or inlining, is a manual or compiler optimization that replaces a function call site with the body of the called function.
+
+In computing, in particular compiler construction, value range analysis is a type of data flow analysis that tracks the range (interval) of values that a numeric variable can take on at each point of a program's execution.
+
+In computing, Intel Memory Model refers to a set of six different memory models of the x86 CPU operating in real mode which control how the segment registers are used and the default size of pointers.
+
+In computing, interleaved memory is a design made to compensate for the relatively slow speed of dynamic random-access memory (DRAM) or core memory, by spreading memory addresses evenly across memory banks.
+
+In computing, interleaving of data refers to the interspersing of fields or channels of different meaning sequentially in memory, in processor registers, or in file formats.
+
+In computing, internationalization and localization are means of adapting computer software to different languages, regional differences and technical requirements of a target locale.
+
+In computing, Internet Protocol Security (IPsec) is a secure network protocol suite that authenticates and encrypts the packets of data sent over an IPv4 network.
+
+In computing, interrupt latency is the time that elapses from when an interrupt is generated to when the source of the interrupt is serviced.
+
+In computing, in the Alpha instruction set architecture, PALcode (Privileged Architecture Library code) is the name used by DEC for a set of functions in the SRM or AlphaBIOS firmware, providing a hardware abstraction layer for system software, covering features such as cache management, translation lookaside buffer (TLB) miss handling, interrupt handling and exception handling.
+
+In computing, ioctl (an abbreviation of input/output control) is a system call for device-specific input/output operations and other operations which cannot be expressed by regular system calls.
+
+In computing, ipconfig (internet protocol configuration) in Microsoft Windows is a console application that displays all current TCP/IP network configuration values and can modify Dynamic Host Configuration Protocol (DHCP) and Domain Name System (DNS) settings.
+
+In computing, Jackson is a high-performance JSON processor for Java.
+
+In computing, Java 2D is an API for drawing two-dimensional graphics using the Java programming language.
+
+In computing job control refers to the control of multiple tasks or jobs on a computer system, ensuring that they each have access to adequate resources to perform correctly, that competition for limited resources does not cause a deadlock where two or more jobs are unable to complete, resolving such situations where they do occur, and terminating jobs that, for any reason, are not performing as expected.
+
+In computing, jump threading is a compiler optimization of one jump directly to a second jump.
+
+In computing, Kannel is an open source WAP gateway.
+
+In computing, kill is a command that is used in several popular operating systems to send signals to running processes.
+
+In computing, kill pill is a term given to mechanisms and technologies designed to render systems useless either by user command, or under a predefined set of circumstances.
+
+In computing, klibc is a minimalistic subset of the standard C library developed by H. Peter Anvin.
+
+In computing, label is a command included with some operating systems (e.
+
+g., DOS, OS/2 and Microsoft Windows).
+
+In computing, launchd, a unified service-management framework, starts, stops and manages daemons, applications, processes, and scripts in macOS.
+
+In computing, layout is the process of calculating the position of objects in space subject to various constraints.
+
+In computing, legacy mode is a state in which a computer system, component, or software application behaves in a way different from its standard operation in order to support older software, data, or expected behavior.
+
+In computing, linked data (often capitalized as Linked Data) is a method of publishing structured data so that it can be interlinked and become more useful through semantic queries.
+
+In computing, load balancing improves the distribution of workloads across multiple computing resources, such as computers, a computer cluster, network links, central processing units, or disk drives.
+
+In computing, ls is a command to list files in Unix and Unix-like operating systems.
+
+In computing, Maak is a utility similar to make, designed to build complex software systems while avoiding the need to recompile the entire system every time a change is made.
+
+In computing, Machine Check Architecture (MCA) is an Intel mechanism in which the CPU reports hardware errors to the operating system.

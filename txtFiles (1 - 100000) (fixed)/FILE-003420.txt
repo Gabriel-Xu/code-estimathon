@@ -1,0 +1,163 @@
+DSL supports only x86 PCs. The minimum system requirements are a 486 processor and 8 MB of RAM. DSL has been demonstrated browsing the web with Dillo, running simple games and playing music on systems with a 486 processor and 16 MB of RAM. The system requirements are higher for running Mozilla Firefox and optional add-ons such as the OpenOffice.
+
+org office suite.
+
+The current version of DSL is 4.
+
+4.
+
+5, released September 3, 2008. DSL currently includes the following software:DSL has built-in scripts to download and install Advanced Packaging Tool (APT). Once APT is enabled, the user can install packages from Debian's 'Woody' repository. Additionally, DSL hosts software ranging from large applications like OpenOffice.
+
+org and GCC, to smaller ones such as aMSN, by means of the "MyDSL" system, which allows convenient one-click download and installation of software. Files hosted on MyDSL are called "extensions". As of June 2008, the MyDSL servers were hosting over 900 applications, plugins, and other extensions.
+
+MyDSL is handled and maintained mostly by Robert Shingledecker and hosted by many organizations, such as ibiblio and Belgium's BELNET. There are 2 areas of MyDSL - regular and "testing". The regular area contains extensions that have been proven stable enough for everyday use and is broken down into different areas such as "apps", "net", "system", and "uci" ("Universal Compressed ISO" - Extensions in .
+
+uci format are mounted as a separate filesystem to minimize RAM usage). The "testing" area is for newly submitted extensions that theoretically work 'as advertised', but may have any number of bugs.
+
+The standard flavour of DSL is the Live CD. There are also other versions available.
+
+A Live USB of Damn Small Linux can be created manually or with UNetbootin.
+
+Swamp bluesSwamp blues is a type of blues music. It is based on the Louisiana blues, but has a more laid back and relaxed feel.
+
+Swamp blues is often linked to J. D. "Jay" Miller's, recording studio in Crowley, Louisiana. Miller released lots of swamp blues recordings on his own labels, as well as on more well known labels. Showing the impact of Swamp Blues on other music, the Rolling Stones played a version of Slim Harpo's "I'm a King Bee," and Neil Young recorded Slim Harpo's "Rainin' In My Heart."
+
+Book of Odes (Bible)Odes () is a book of the Bible that is only found in Eastern Orthodox Bibles. The chapters are prayers and songs from the Old and New Testaments.
+
+Chapters of this book as presented by Rahlfs are:1975–76 NHL seasonThe 1975–76 NHL season was the 59th season of the National Hockey League. Eighteen teams each played 80 games. The Montreal Canadiens set records in wins with 58 and points with 127, beginning a four-year stretch where they would dominate the league in the regular season and win four straight Stanley Cup titles."
+
+Note: GP = Games played, W = Wins, L = Losses, T = Ties, Pts = Points, GF = Goals for, GA = Goals against, PIM = Penalties in minutes"<br>"Note: Teams that qualified for the playoffs are highlighted in bold""Note: GP = Games played; G = Goals; A = Assists; Pts = Points"The two-time defending Stanley Cup Champions, the Philadelphia Flyers, once again made it to the finals, but lost in four games to the Montreal Canadiens.
+
+Montreal Canadiens vs. Philadelphia FlyersCommunes of the Mayenne departmentThere are 261 communes in the Mayenne department in France, all included in the following list:AhuilléAhuillé is a commune of 1662 people (2006). It is found in the region Pays de la Loire in the Mayenne department in the northwest of France.
+
+AlexainAlexain is a commune of 402 people (1999). It is found in the region Pays de la Loire in the Mayenne department in the northwest of France.
+
+Ambrières-les-ValléesAmbrières-les-Vallées is a commune of 2,903 people (1999). It is found in the region Pays de la Loire in the Mayenne department in the northwest of France.
+
+AmpoignéAmpoigné is a former commune of 421 people (1999). It is found in the region Pays de la Loire in the Mayenne department in the northwest of France. On 1 January 2018, it was merged into the new commune of Prée-d'Anjou.
+
+AndouilléAndouillé is a commune of 2,310 people (2006). It is found in the region Pays de la Loire in the Mayenne department in the northwest of France. It is twinned with the village of Farnsfield, Nottinghamshire.
+
+Argenton-Notre-DameArgenton-Notre-Dame is a former commune of 181 people (1999). It is found in the region Pays de la Loire in the Mayenne department in the northwest of France. On 1 January 2019, it was merged into the new commune of Bierné-les-Villages.
+
+ArgentréArgentré is a commune of 2487 people (2007). It is found in the region Pays de la Loire in the Mayenne department in the northwest of France.
+
+Aron, MayenneAron is a commune of 1550 people (1999). It is found in the region Pays de la Loire in the Mayenne department in the northwest of France.
+
+ArquenayArquenay is a commune of 508 people (1999). It is found in the region Pays de la Loire in the Mayenne department in the northwest of France.
+
+Assé-le-BérengerAssé-le-Bérenger is a commune of 329 people (1999). It is found in the region Pays de la Loire in the Mayenne department in the northwest of France.
+
+AstilléAstillé is a commune of 547 people (1999). It is found in the region Pays de la Loire in the Mayenne department in the northwest of France.
+
+Athée, MayenneAthée is a commune of 488 people (1999). It is found in the region Pays de la Loire in the Mayenne department in the northwest of France.
+
+AvertonAverton is a commune of 601 people (1999). It is found in the region Pays de la Loire in the Mayenne department in the northwest of France.
+
+Azé, MayenneAzé is a former commune of 2,999 people (1999). It is found in the region Pays de la Loire in the Mayenne department in the northwest of France. On 1 January 2019, it was merged into the new commune of Château-Gontier-sur-Mayenne.
+
+La BaconnièreLa Baconnière is a commune of 1,194 people (1999). It is found in the region Pays de la Loire in the Mayenne department in the northwest of France.
+
+Bais, MayenneBais is a commune of 1487 people (1999). It is found in the region Pays de la Loire in the Mayenne department in the northwest of France.
+
+BalléeBallée is a former commune of 719 people (2004). It is found in the region Pays de la Loire in the Mayenne department in the northwest of France. On 1 January 2017, it was merged into the new commune of Val-du-Maine.
+
+Ballots, MayenneBallots is a commune of 1036 people (1999). It is found in the region Pays de la Loire in the Mayenne department in the northwest of France.
+
+Bannes, MayenneBannes is a commune of 118 people (1999). It is in Pays de la Loire in the Mayenne department in northwest France.
+
+La Bazoge-MontpinçonLa Bazoge-Montpinçon is a commune of 525 people (1999). It is found in the region Pays de la Loire in the Mayenne department in the northwest of France.
+
+La Bazouge-de-ChemeréLa Bazouge-de-Chemeré is a commune of 504 people (2006). It is found in the region Pays de la Loire in the Mayenne department in the northwest of France.
+
+La Bazouge-des-AlleuxLa Bazouge-des-Alleux is a commune of 262 people (1999). It is in Pays de la Loire in the Mayenne department in northwest France.
+
+BazougersBazougers is a commune of 933 people (1999). It is found in the region Pays de la Loire in the Mayenne department in the northwest of France.
+
+Beaulieu-sur-OudonBeaulieu-sur-Oudon is a commune of 401 people (1999). It is found in the region Pays de la Loire in the Mayenne department in the northwest of France.
+
+Beaumont-Pied-de-Bœuf, MayenneBeaumont-Pied-de-Bœuf is a commune of 198 people (2004). It is found in the region Pays de la Loire in the Mayenne department in the northwest of France.
+
+BelgeardBelgeard is a commune of 335 people (1999). It is found in the region Pays de la Loire in the Mayenne department in the northwest of France.
+
+BiernéBierné is a former commune of 665 people (2005). It is found in the Pays de la Loire region in the Mayenne department in the northwest of France. On 1 January 2019, it was merged into the new commune of Bierné-les-Villages.
+
+Le Bignon-du-MaineLe Bignon-du-Maine is a commune in the Pays de la Loire region in the Mayenne department in northwest France. In 1999, 304 people lived in it.
+
+La BigottièreLa Bigottière is a commune of 331 people (1999). It is found in the region Pays de la Loire in the Mayenne department in the northwest of France.
+
+BlandouetBlandouet is a former commune of 157 people (1999). It is found in the region Pays de la Loire in the Mayenne department in the northwest of France. On 1 January 2017, it was merged into the new commune of Blandouet-Saint Jean.
+
+La Boissière, MayenneLa Boissière is a commune of 111 people (1999). It is found in the region Pays de la Loire in the Mayenne department in the northwest of France.
+
+Bonchamp-lès-LavalBonchamp-lès-Laval is a commune of 5232 people (2007). It is found in the region Pays de la Loire in the Mayenne department in the northwest of France.
+
+Bouchamps-lès-CraonBouchamps-lès-Craon is a commune of 514 people (1999). It is in the region Pays de la Loire in the Mayenne department in the northwest of France.
+
+In its territory flows the Jouanne river.
+
+BouèreBouère is a commune of 321 people (2004). It is found in the region Pays de la Loire in the Mayenne department in the northwest of France.
+
+BouessayBouessay is a commune of 563 people (1999). It is found in the region Pays de la Loire in the Mayenne department in the northwest of France.
+
+Boulay-les-IfsBoulay-les-Ifs is a commune of 168 people (1999). It is found in the region Pays de la Loire in the Mayenne department in the northwest of France.
+
+Le Bourgneuf-la-ForêtLe Bourgneuf-la-Forêt is a commune of 1537 people (1999). It is in Pays de la Loire in the Mayenne department in northwest France.
+
+BourgonBourgon is a commune of 587 people (1999). It is found in the region Pays de la Loire in the Mayenne department in the northwest of France.
+
+Brains-sur-les-MarchesBrains-sur-les-Marches is a commune of 229 people (1999). It is found in the region Pays de la Loire in the Mayenne department in the northwest of France.
+
+BrecéBrecé is a commune of 830 people (1999). It is found in the region Pays de la Loire in the Mayenne department in the northwest of France.
+
+Tinker Bell (movie)Tinker Bell is a Disney movie based on the character from "Peter Pan". It was released on DVD and Blu-ray Disc on October 28, 2008. Unlike the other two Disney movies of Peter Pan, this movie was animated completely using computer animation. This was also the first time that the Disney version of Tinker Bell talked. The original name of the movie was "Tinker Bell and the Ring of Belief".
+
+The movie was directed by Bradley Raymond.
+
+The movie's soundtrack was released on October 14, 2008, a week before the DVD release and contains songs from and inspired by the movie.
+
+Disney Fairies: Tinker Bell is an adventure game loosely based on the movie.
+
+In April 2008, Disney announced that the movie will be released on DVD and Blu-ray Disc on October 28, 2008. Contrary to the previous announcement of the suspension of direct-to-video sequels, they also announced three direct-to-DVD sequels to follow this movie, also digitally animated:The movie saw an exclusive theatrical release at the El Capitan Theatre between September 19 and October 2nd. It was also premiered on Disney Channel in November as part of "New in November."
+
+Woolfardisworthy, TorridgeWoolfardisworthy is a village in the Torridge district in the English county of Devon.
+
+The name of the village is a local curiosity, as its pronunciation (and occasional spelling) differs to how one may try to pronounce it. On local signs, the village is sometimes marked as Woolsery alongside the original name. This is due to the pronunciation of the village's name being /ˈwʊlzərɨ/ ("Woolz'ry").
+
+There is another (smaller) village of the same name in the Mid Devon district.
+
+Guadalcanal campaignThe Guadalcanal Campaign was fought between August 7, 1942, and February 9, 1943, in the Pacific theatre of World War II. This campaign, which was a decisive and strategically important campaign of World War II, was fought on the ground, at sea, and in the air between Allied forces against Imperial Japanese forces. The fighting took place on and around the island of Guadalcanal in the southern Solomon Islands, and was the first major offensive launched by Allied forces against the Empire of Japan.
+
+On August 7, 1942, Allied forces, mainly from the United States, started landings on the islands of Guadalcanal, Tulagi, and Florida in the southern Solomons with the aim to make supply routes between the U.
+
+S., Australia, and New Zealand safer.
+
+The Battle of Guadalcanal was one of the first long campaigns in the Pacific.
+
+On 7 December 1941, Japanese forces attacked the neutral United States Pacific Fleet at Pearl Harbor, Hawaii. The attack killed almost 2,500 people and damaged much of the US battleship fleet, starting a war between the two nations next day. The initial goals of Japanese leaders were to destroy the US Navy, seize lands rich in natural resources, and establish strategic military bases to defend Japan's empire in the Pacific Ocean and Asia. To do this, Japanese forces captured the Philippines, Thailand, Malaya, Singapore, Burma, the Dutch East Indies, and many small islands. Joining the U.
+
+S. in the war against Japan were the rest of the Allied powers, several of whom, including the United Kingdom, Australia and the Netherlands had also been attacked by Japan.
+
+The naval battle of the Coral Sea prevented a quick Japanese conquest of Australia and the Battle of Midway reduced Japan's carrier forces.
+
+The Allies chose the southern Solomon Islands including Guadalcanal, as the first target. The Imperial Japanese Navy (IJN) had occupied Tulagi in May 1942 and had constructed a seaplane base nearby. Allied concern grew when, in early July 1942, the IJN began constructing a large airfield at Lunga Point on Guadalcanal. From there, Japanese long range bombers would threaten the East Coast of Australia. By August 1942, the Japanese had about 900 naval troops on Tulagi and nearby islands and 2,800 people on Guadalcanal. These bases would protect Japan's major base at Rabaul, threaten Allied supply and communication lines and establish base for attacks against Fiji, New Caledonia and Samoa.
+
+The Japanese planned to send 45 fighters and 60 bombers to Guadalcanal. In 1942 these aircraft could provide air cover for Japanese naval forces advancing into the South Pacific.
+
+The Allied plan to invade the southern Solomons was thought of by U.
+
+S. Admiral Ernest King, Commander in Chief, United States Fleet. He wanted to take the islands away from the Japanese. With Roosevelt's agreement, King also wanted to invade Guadalcanal. Because the United States supported Great Britain's idea of defeating Germany before Japan, the Pacific war had to compete for troops and resources with the European war.
+
+Therefore US Army General George C. Marshall was against King's proposed attacks and asked who would command the operation. King replied that the Navy and Marines would do it themselves and instructed Admiral Chester Nimitz to plan the attacks. King won the argument with Marshall and the invasion went ahead.
+
+The Guadalcanal attack would be carried out in at the same time as an Allied offensive in New Guinea under Douglas MacArthur. The goal was to capture the Admiralty Islands and the Bismarck Archipelago, including the major Japanese base at Rabaul. Eventually they would take the Philippines. The U.
+
+S. Joint Chiefs of Staff put Vice Admiral Robert L. Ghormley in command on 19 June 1942, to direct the attack in the Solomons.
+
+Admiral Chester Nimitz, based at Pearl Harbor, was the overall Allied commander in chief for Pacific forces.
+
+In preparation for the attack in the Pacific in May 1942, the U.
+
+S. 1st Marine Division moved from the United States to New Zealand. Other Allied land, naval and air force units were sent to other Pacific islands. The attack was codenamed "Operation Watchtower", with the date set for 7 August 1942.
+
+At first, the attacks were planned just for Tulagi and the Santa Cruz Islands, and not Guadalcanal. When the Allies discovered the Japanese airfield on Guadalcanal, its capture was added to the plan and the Santa Cruz operation was dropped. The Japanese knew Allied forces were moving but thought they were going to Australia and perhaps Port Moresby in New Guinea.

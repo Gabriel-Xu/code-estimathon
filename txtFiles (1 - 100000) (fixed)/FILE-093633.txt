@@ -1,0 +1,27 @@
+With confidence in the company at an all-time low, Google seems to have given up on waiting for Nest. Alphabet's main division is now marching into smart home territory on its own with products like Google OnHub and Google Home. So where does Nest go from here? Does Alphabet try to salvage Nest? Does Nest get sold?
+
+With Fadell gone, the new CEO at Nest is Marwan Fawaz. Fawaz is currently on the technical advisory board at security company ADT, maybe it's his job to get Nest's "Flintstone" security product out the door. Reports say Alphabet had been putting pressure on Nest to release Flintstone this year.
+
+Previously at Google, Fawaz was in charge of Motorola's "Home" Business—the set top box and cable modem division—in 2012. Under his watch, Motorola's Home division was sold off to Arris for $2.
+
+35 billion. On Fawaz's own LinkedIn page, he only describes his role at Motorola as "Manag[ing] the M&A transaction and divestiture of the business to Arris Communications, Inc." Fawaz's own words, combined with the short, six-month lifespan of the Home division at Google, suggests that selling the division was his primary focus.
+
+Is Fawaz working on a similar plan for Nest? Is he pounding a "For Sale" sign into the lawn of Nest's smart home right now? Fadell himself said Alphabet was entering a "fiscal discipline era," and Alphabet does seem to be "spring cleaning" its companies lately. Robotics company Boston Dynamics is reportedly up for sale already, and the entire robotics division built up by Andy Rubin seems to be in jeopardy. Is Nest up on the chopping block?
+
+No one ever said all of Alphabet's bets were going to be sure things. Alphabet is a company full of companies. Sometimes, companies fail. ||||| This essay originally appeared in Data Sheet, Fortune’s daily tech newsletter. Sign up here.
+
+UPDATE, June 8: In response to this column, a Nest spokesperson noted that the company’s thermostat line was updated three times during 2015. The latest, its third generation, reached 1 million units sold in half the time as its predecessor. Nest’s revenue has grown at least 50% year over year since it first shipped products four-and-a-half years ago, he said.
+
+Nest revenue has grown in excess of 50% year over year since it began shipping products 4.
+
+5 years ago.
+
+When I was a cub reporter on the business desk of a prominent New York wire service, I learned to pay particular attention to corporate disclosures that came Friday afternoon—a surefire sign that the company wanted to downplay or bury the coverage as much as possible. Naturally, my ears perked right up when Google (goog) last Friday disclosed that one of its high-level executives, Nest co-founder and CEO Tony Fadell, is moving into an “advisory” role at Google’s parent company, Alphabet.
+
+If you read Fadell’s blog post about the development, his departure sounds amicable, and less sudden than the timing of the announcement warrants—in the works for six months. It may simply have been the time he agreed to stay as part of Google’s takeover in January 2014. He’s certainly got plenty to keep him busy, including the smart go-kart startup, Actev Motors, which he co-founded and introduced to the world at the New York toy fair early this year.
+
+But hints that all was not going according to plan surfaced months ago, and the number of key managers taking flight has to be unsettling for Nest employees.
+
+The crux of the matter: Since Google plunked down $3.
+
+2 billion for the smart thermostat company, the team hasn’t done much extraordinarily new while apparently spending a whole lot of money in the process. Consider that Nest has made at least two acquisitions—the $555 million buyout of video specialist Dropcam and smart home “hub” maker Revolv, which it absorbed for an undisclosed sum. Yet, it hasn’t managed a breakout product since its original device. And when Google decided to introduce its next-big-thing device for home automation—the voice-controlled, Amazon Echo-killer Google Home, which will eventually be able to control thermostats along with other household appliances—the product didn’t originate with the Nest division, which seems like the natural parent for such an effort.

@@ -1,0 +1,63 @@
+Oracle Secure Global Desktop (SGD) software provides secure access to both published applications and published desktops running on Microsoft Windows, Unix, mainframe and System i systems via a variety of clients ranging from fat PCs to thin clients such as Sun Rays.
+
+Oracle Service Bus, aka OSB, is an Enterprise Service Bus implementation by Oracle.
+
+Oracle Service Bus transforms architectures by connecting, mediating, and managing interactions between services and applications.
+
+Oracles is the first full-length studio album by Italian technical death metal band Fleshgod Apocalypse.
+
+Oracle's JDeveloper IDE provides easy integration of these functionalities provided by the Mapping Workbench.
+
+Oracle's Messaging Server could potentially be the most widely deployed commercial email server on the planet, with claims of 150 million mailboxes deployed worldwide (mostly by ISPs, telcos, universities, government, and cable TV broadband providers).
+
+Oracles often operate separately from the system under test.
+
+Oracle Solaris 11, released in November, 2011, includes only the Xorg server (X.
+
+Org 1.
+
+10.
+
+3).
+
+Oracle SQL Developer is an Integrated development environment (IDE) for working with SQL in Oracle databases.
+
+Oracle's spirituality school offers courses, conferences, and retreats which focus on the five primary religions (Hinduism, Judaism, Buddhism, Christianity, and Islam), indigenous wisdom traditions, New Age philosophies, peace-building, social justice, and sustainability.
+
+Oracle's stated purpose is to serve as "An Advocate for Peace and a Vanguard for Conscious Evolution," and its formal mission statement is an adaptation of Thomas Jefferson's Act for Establishing Religious Freedom.
+
+Oracle State Park is adjacent.
+
+Oracle StorageTek SL8500 is an enterprise-class robotic tape library.
+
+Oracle stores data logically in tablespaces and physically in datafiles associated with the corresponding tablespace.
+
+Oracle Streams can be set up in homogeneous (all Oracle databases) or heterogeneous (non-Oracle and Oracle databases) environments.
+
+Oracle Streams is the flow of information either within a single database or from one database to another.
+
+Oracle's version does not include value of the acquisition.
+
+Oracle TDE addresses encryption requirements associated with public and private privacy and security mandates such as PCI and California SB 1386.
+
+Oracle Team USA 17 is an AC72 class catamaran of Oracle Team USA that successfully defended the 2013 America's Cup.
+
+Oracle Team USA defended the America's Cup by a score of 9 to 8.
+
+Oracle Text is search engine and text analysis software developed and sold by Oracle Corporation.
+
+Oracle TopLink is mapping and persistence framework for Java (programming language) developers.
+
+Oracle uses that current group to write the redo log entries.
+
+Oracle Virtual Desktop Infrastructure (VDI) software is a desktop virtualization product that provides desktop virtualization to replace personal computers with virtual machines (VMs) on a server.
+
+Oracle VM Server for x86 can be freely downloaded through Oracle Software Delivery Cloud.
+
+Oracle VM Server for x86 features fully tested and certified Oracle Applications stack in an enterprise virtualization environment.
+
+Oracle VM Server for x86 incorporates the free and open-source Xen hypervisor technology, supports Windows, Linux, and Solaris guests and includes an integrated Web based management console.
+
+Oracle VM Server for x86 is the server virtualization offering from Oracle Corporation.
+
+Oracle VM VirtualBox (formerly Sun VirtualBox, Sun xVM VirtualBox and Innotek VirtualBox) is a free and open-source hypervisor for x86 computers currently being developed by Oracle Corporation.

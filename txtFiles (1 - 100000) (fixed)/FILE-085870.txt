@@ -1,0 +1,161 @@
+Variable lymphocyte receptors (VLRs) belong to the Leucine-rich repeat (LRR) family and mediate adaptive immune responses in the jawless vertebrates, lampreys and hagfish.
+
+Variable mapping resolutions are obtainable by adjusting the amount of sequence overlap between probes, or the amount of known base pairs between probe sequences, as well as probe length.
+
+Variable Message Format, abbreviated as "VMF" and documented in MIL-STD-6017, is a communications protocol used in communicating tactical military information.
+
+Variable Name Length is how many characters of a variable name are used to determine uniqueness.
+
+Variable nebulae are reflection nebulae that change in brightness because of changes in their star.
+
+Variable number of tandem repeat locus (VNTR locus) is any DNA sequence that exist in multiple copies strung together in a variety of tandem lengths.
+
+Variable obscuration by a protoplanetary disk is unlikely on the basis that the star is not actively accreting and lacks the infrared excess associated with an inner disk.
+
+Variable-order Bayesian network (VOBN) models provide an important extension of both the Bayesian network models and the variable-order Markov models.
+
+Variable or pleomorphic in shape and similar to Actinomyces and Nocardia, Rothia was only defined as a genus in 1967.
+
+Variable or running costs are those which depend on the use of the car, like fuel or tolls.
+
+Variable pitch fans are also used in some other applications, such as industrial.
+
+Variable pricing is a pricing strategy for products.
+
+Variable Rate Technology refers to a technology that is used to enable the Variable Rate Application of materials in Precision agriculture.
+
+Variable refrigerant flow (VRF), also known as variable refrigerant volume (VRV), is an HVAC technology invented by Daikin Industries, Ltd. in 1982.
+
+Variable renewable energy (VRE) is a renewable energy source that is non-dispatchable due to its fluctuating nature, like wind power and solar power, as opposed to a controllable renewable energy source such as hydroelectricity, or biomass, or a relatively constant source such as geothermal power or run-of-the-river hydroelectricity.
+
+Variable retention also aids in emulation of natural disturbances by leaving behind some residual structure from previous stand which is typical for stand replacing disturbances Traditional silviculture systems such as clearcut, patch cut, shelterwood, etc.
+
+Variable retention is a relatively new silvicultural system that retains forest structural elements for at least one rotation in order to preserve environmental values associated with structurally complex forests.
+
+Variable rules approaches are commonly employed for the analysis of data in sociolinguistic research, especially in studies that aim to investigate how reflexes of linguistic change through time appear in the shape of structured variation patterns within a speech community.
+
+Variables are prefixed by V (V01-V99), counters by C (C0-C9).
+
+Variables are properties an object knows about itself.
+
+Variables are unsupported.
+
+Variables can "vary" - for example, be high or low.
+
+Variable Shunt Reactors are used in high voltage energy transmission systems to stabilize the voltage during load variations.
+
+Variable Shunt Reactors (VSR) have been developed and introduced on the market.
+
+Variables included in the calculation are aircraft velocity, target velocity, target elevation, distance to target, forces on the projectile (drag, gravity), and others.
+
+Variables in computer programming are frequently given long names to make them relatively descriptive of their use, whereas variables in mathematics often have terse, one- or two-character names for brevity in transcription and manipulation.
+
+Variables in programming may not directly correspond to the concept of variables in mathematics.
+
+Variables often measured or derived include net radiation, sensible heat flux, latent heat flux, ground heat storage, and fluxes of trace gasses important to the atmosphere, biosphere, and hydrosphere.
+
+Variable speed is one good feature only available on all electric versions, that allows for slowing down of the grinding speed to keep the tooling in contact with the floor.
+
+Variable Speed (VFD) Fire Pump Controller is a fire pump controller that is able to vary the speed of the motor depending on the demand of the fire pump, resulting in the ability to hold a constant discharge pressure.
+
+Variable Star is a 2006 novel written by Spider Robinson based on the surviving seven pages of an eight-page 1955 novel outline by the late Robert A. Heinlein.
+
+Variable star observer David Levy recommends that amateur observers monitor it once a week to observe changes in brightness.
+
+Variable stars are designated using a variation on the Bayer designation format of an identifying label (as described below) combined with the Latin genitive of the name of the constellation in which the star lies.
+
+Variable State Ltd (doing business as Variable State) is a British independent video game developer established in January 2014 by Jonathan Burroughs and Terry Kenny, who are based in London, England and Dublin, Ireland respectively.
+
+Variables that can be measured by cytometric methods include cell size, cell count, cell morphology (shape and structure), cell cycle phase, DNA content, and the existence or absence of specific proteins on the cell surface or in the cytoplasm.
+
+Variables that influence female intrasexual competition include: genetic quality of males, ovarian hormones and hormonal variations and interpersonal dynamics.
+
+Variable Stinkweed Opercularia volubilis Benth.
+
+Variable storage buffers, installed to accommodate variations in transmission delay between nodes, are made large enough to accommodate small time (phase) departures among the nodal clocks that control transmission.
+
+Variable structure control (VSC) is a form of discontinuous nonlinear control.
+
+Variables with storage class extern, which include variables declared at top level without an explicit storage class, are static in the first meaning but not the second.
+
+Variable telescopic sights can be used if the operator wants more flexibility to shoot at varying ranges, or when a wide field of view is required.
+
+Variable valve lift (VVL) is an automotive piston engine technology which varies the height a valve opens in order to improve performance, fuel economy or emissions.
+
+Variable valve timing (VVT) is a system for varying the valve opening of an internal combustion engine.
+
+Variadic templates are supported by C++ (since the C++11 standard), and the D programming language.
+
+Varia di Palmi is a Catholic festival that takes place on the last Sunday of August, in Palmi, Italy, in honor of the city's patron saint and protector, the Virgin Mary, known as Our Lady of the Sacred Letter.
+
+Varia is a genus of moths of the Noctuidae family.
+
+Varials is an American metalcore band from Philadelphia, Pennsylvania, formed in October of 2013.
+
+Varian Associates split into three companies in 1999: Varian Medical Systems, Varian, Inc. and Varian Semiconductor.
+
+Variance Films and GoDigital will continue to operate as divisions of Amplify, merging digital rights and distribution automation processing under GoDigital's corporate sister, ContentBridge.
+
+Variance Films is a privately held film distribution company founded in 2008 that uses an innovative model of self-distribution combined with select elements of traditional theatrical distribution to allow filmmakers to achieve quality theatrical releases for their films.
+
+Variance in the length of SSLPs can be used to understand genetic variation between two individuals in a certain species.
+
+Variance is an online music and entertainment magazine, co-founded by Jonathan Robles in 2010 and based in Tulsa, Oklahoma.
+
+Variance is the third album by electronic musician Jega, released on 20 July 2009 by Planet Mu.
+
+Variance risk premium is a phenomenon on the variance swap market, of the variance swap strike being greater than the realized variance on average.
+
+Variances can be computed for both costs and revenues.
+
+Variance with muzzle velocities affects precision in range, and the further a weapon shoots, the more significant these variances become.
+
+Varian Data Machines was a division of Varian Associates which sold minicomputers.
+
+Varian Inc. had its corporate headquarters in Palo Alto, California, and offices in Australia, the Benelux countries, Brazil, Canada, China, Germany, France, Italy, Japan, Korea, Russia, Sweden, Taiwan, the United Kingdom, and the United States.
+
+Varian, Inc. was one of the largest manufacturers of scientific instruments for the scientific industry.
+
+Varian is a supplier of tubes and digital detectors for X-ray imaging in medical diagnostics, dentistry, veterinary care, scientific, security, industrial inspection including high-energy X-ray technology for cargo screening.
+
+Varian Johnson (born in 1977) is an American writer, who writes contemporary young adult literature.
+
+Varian Medical Systems employs more than 6,600 people at manufacturing sites in North America, Europe, and China and approximately 70 sales globally.
+
+Varian Medical Systems (VAR) of Palo Alto, California, USA, is a radiation oncology treatments and software maker.
+
+Varian Semiconductor Equipment Associates, Inc. was a supplier of ion implantation equipment used in the fabrication of semiconductor chips.
+
+Varian Semiconductor was founded in 1971 as Extrion Corporation in Peabody, Massachusetts.
+
+Varian's War (aka Varian's War: The Forgotten Hero) is a 2001 joint Canadian/American/United Kingdom film made-for-television drama.
+
+Varian's War stars William Hurt, heading an all-star ensemble cast of Julia Ormond, Matt Craven, Maury Chaykin, Alan Arkin and Lynn Redgrave.
+
+Variant Call Format (VCF) specifies the format of a text file used in bioinformatics for storing gene sequence variations.
+
+Variant covers became more common during the "speculator boom" of the 1990s, when more collectors became interested in the storage and preservation of their comic books with the goal of future financial gain rather than reading the comics themselves.
+
+Variant forms are Elsinga and Elzenga.
+
+Variant forms included the Coolus helmet, Montefortino helmet, and Imperial helmet.
+
+Variant forms include Eckard, Eckhard, Eckhart, Eckart.
+
+Variant forms of Mac Torcaill are Mac Thorcaill and Mac Thurcaill; the feminine forms of these two names are Nic Thorcaill, Nic Thurcaill, Bean Mhic Thorcaill, Bean Mhic Thurcaill, Mhic Thorcaill, and Mhic Thurcaill.
+
+Variant forms of the island's name are Fonofono and Lom lom.
+
+Variant forms of the name include Ragnomar, Raginmar, Ragnimir, Raginmir, and Reginmar.
+
+Variant Freja was the most popular name for baby girls born in Denmark in 2009 and was the 52nd most popular name in Sweden in 2009 for baby girls.
+
+Variant is a data type in certain programming languages, particularly Visual Basic, OCaml, Delphi and C++ when using the Component Object Model.
+
+Variant is a young adult suspense novel by Robison Wells.
+
+Variant Mylie was ranked as the 861st most popular name for baby girls born in the United States in 2007 and 836th in 2008, but was not ranked in the top 1,000 in 2009 or 2010.
+
+Miley was also used as a masculine given name for a character named Miley Byrne played by Mick Lally in the Irish drama series Glenroe.
+
+Variant name is a term used to specify the name of a geographic feature that is not the primary name used for that feature.

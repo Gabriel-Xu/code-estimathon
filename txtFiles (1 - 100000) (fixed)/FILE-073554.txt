@@ -1,0 +1,317 @@
+The Microsoft Open Specification Promise (or OSP) is a promise by Microsoft, published in September 2006, to not assert its patents, in certain conditions, against implementations of a certain list of specifications.
+
+The Microsoft Password Change Notification Service (PCNS) enables synchronization of password changes in Active Directory to Microsoft Identity Integration Server (MIIS 2003), ILM 2007 and FIM 2010 or the Microsoft Enterprise Single Sign-On Service (ENTSSO).
+
+The Microsoft Plus! product was first announced on January 31, 1994 under the internal codename "Frosting".
+
+The Microsoft Puzzlehunt is a quasi-annual Microsoft tradition started in 1999.
+
+The Microsoft Puzzlehunt takes place over a weekend at the Microsoft campus in Redmond, Washington, usually lasting approximately 31 hours from beginning to end.
+
+The Microsoft Reaction Card, developed by Microsoft in 2002 by Joey Benedek and Trish Miner, is a method used to check the emotional response and desirability of a design or product.
+
+The Microsoft Research team employs more than 1,000 computer scientists, physicists, engineers, and mathematicians, including Turing Award winners, Fields Medal winners, MacArthur Fellows, and Dijkstra Prize winners.
+
+The Microsoft Security Development Lifecycle is a software development process used and proposed by Microsoft to reduce software maintenance costs and increase reliability of software concerning software security related bugs.
+
+The Microsoft Semblio SDK is built on the .
+
+NET Framework 3.
+
+5, and is intended to provide developers with tools for packaging and distribution of rich interactive learning material, such as e-books containing images, audio, and video.
+
+The Microsoft Services team provides a wide range of consulting and support services for consumers, partners and businesses.
+
+The Microsoft Store offers Signature PCs and tablets like the Microsoft Surface and from third parties such as HP, Acer, Dell, Lenovo, and VAIO without demos or trialware (pre-installed free trials of certain third-party software that expire after a limited time).
+
+The Microsoft Student Partners is a worldwide recognizable program to sponsor students majoring in disciplines related to technology.
+
+The Microsoft text-to-speech voices are speech synthesizers provided for use with applications that use the Microsoft Speech API (SAPI) or the Microsoft Speech Server Platform.
+
+The Microsoft to Turbine transition was completed in spring 2005.
+
+The Microsoft Translator API is integrated across multiple consumer, developer, and enterprise products; including Bing, Microsoft Office, SharePoint, Microsoft Edge, Microsoft Lync, Yammer, Skype Translator, Visual Studio, Internet Explorer, and Microsoft Translator apps for Windows, Windows Phone, iPhone and Apple Watch, and Android phone and Android Wear.
+
+The Microsoft Visual Basic team still maintains compatibility for Visual Basic 6.
+
+0 applications on Windows Vista, Windows Server 2008 including R2, Windows 7, Windows 8, Windows 8.
+
+1, Windows Server 2012, Windows 10 and Windows Server 2016 through its "It Just Works" program.
+
+The Microsoft Visual Programming Language is distinguished from other Microsoft programming languages such as Visual Basic and C#, as it is the only Microsoft language that is a true visual programming language.
+
+The Microsoft Visual Studio Debugger is a debugger that ships along with all versions of Microsoft Visual Studio.
+
+The Microsoft Web Platform Installer is a tool to install applications on a WIMP-system.
+
+The Microsoft Windows and Mac OS X versions are titled Activision Anthology: Remix Edition, and include the most games.
+
+The Microsoft Windows and Mac OS X versions were released November 30, 2010 and December 14, 2010, respectively via Steam.
+
+The Microsoft Windows and Mac OS X versions were released October 26, 2010 and December 14, 2010 respectively, via Steam.
+
+The Microsoft Windows and OS X versions were developed by Raven Software, and the Xbox and GameCube versions by Vicarious Visions and published by LucasArts with the OS X version was published by Aspyr.
+
+The Microsoft Windows and Wii versions of the game were released on November 12.
+
+The Microsoft Windows and Wii versions were released in November 2010.
+
+The Microsoft Windows code page number is 10000.
+
+The Microsoft Windows file extension for this data format is '.
+
+dds'.
+
+The Microsoft Windows, Linux and OS X versions were released in March 2016, and the PlayStation 4 and Xbox One versions in July 2016.
+
+The Microsoft Windows operating system supports a form of shared libraries known as "dynamic-link libraries", which are code libraries that can be used by multiple processes while only one copy is loaded into memory.
+
+The Microsoft windows platform specific Cryptographic Application Programming Interface (also known variously as CryptoAPI, Microsoft Cryptography API, MS-CAPI or simply CAPI) is an application programming interface included with Microsoft Windows operating systems that provides services to enable developers to secure Windows-based applications using cryptography.
+
+The Microsoft Windows, PlayStation 3, PlayStation 4, PlayStation Vita, and Xbox One version was also announced.
+
+The Microsoft Windows port of game was released in February 2011.
+
+The Microsoft Windows release is not available in Europe.
+
+The Microsoft Windows version features slightly cut-down graphics compared to the PlayStation version but doesn't require a 3D accelerator video card.
+
+The Microsoft Windows version has sold over 700,000 copies according to SteamSpy.
+
+The Microsoft Windows version, however, was delayed until April 15, 2008.
+
+The Microsoft Windows version of Pirates! was released on November 22, 2004, is also available through the online GameTap video game service.
+
+The Microsoft Windows version of the game is a point-and-click adventure game, whereas the 6th generation consoles received a 3D platformer.
+
+The Microsoft Windows version of the game was released by Buena Vista Games on August 26, 2003.
+
+The Microsoft Windows version, released in 2000, was developed by Hoplite Research and published by On Deck Interactive, a division of Gathering of Developers.
+
+The Microsoft Windows version was developed by AWE Games.
+
+The Microsoft Windows version was released in North America and Australia on September 23, and in Europe on September 24.
+
+The Microsoft Windows version was released on 15 November 1999, while a differently built game for PlayStation was released on 17 August 2000.
+
+The Microsoft Windows version was released on November 2007.
+
+The Microsoft Windows version was released on October 22, 2009.
+
+The Microsoft Windows version was released through the Steam network on August 26, 2008, and then in game stores on September 2.
+
+The Microsoft Xbox controller, with its shoulder triggers that mimic actual triggers such as those found on guns, has become popular for shooting games.
+
+The Microsoft Xbox was released in many editions other than its famous green and black color.
+
+The microsomal and mitochondrial variants are membrane-bound, while bacterial and those from erythrocytes and other animal tissues are water-soluble.
+
+The microspheric test begins with a short planispiral stage, later chambers spreading successively from flabeilliform (fan-shaped) to reniform (kidney-shaped) and finally annular.
+
+The microspores are 25 to 30 micrometers long.
+
+The microspores are 36 to 43 micrometers long.
+
+The microspores divide by mitosis to produce pollen grains.
+
+The microspores, which are spiny and covered in tubercles, are 28 to 31 micrometers long.
+
+The Microstromatales are order of fungi in the class Exobasidiomycetes.
+
+The microstructure in turn receives its properties from the rate at which the wire is cooled.
+
+The Microsystems Technology Office (MTO) is one of seven current organizational divisions of DARPA, an agency responsible for the development of new technology for the United States Armed Forces.
+
+The MicroTAC introduced an innovative new "flip" design, where the "mouthpiece" folded over the keypad, although on later production the "mouthpiece" was actually located in the base of the phone, along with the ringer.
+
+The microtectonic structure can be used to determine the shear sense in shear zones and their associated rocks, usually mylonites.
+
+The Microtel Inn & Suites brand is a chain of franchise hotels with over 300 locations.
+
+The Micro-Term Ergo Series can emulate a variety of terminals but the most common terminal emulation is vt100.
+
+The Microtheliopsidaceae are a family of fungi with an uncertain taxonomic placement in the class Dothideomycetes.
+
+The Microthyriaceae are a family of fungi with an uncertain taxonomic placement in the class Dothideomycetes.
+
+The Microthyriales are an order of sac fungi.
+
+The Microtransat Challenge is a competition to design and build an autonomous sailboat under 4 meters in length, which is capable of crossing the Atlantic Ocean without human interaction.
+
+The Microtus species are also found in North America, Europe, Scandinavia, Slovenia, Asia, and Western Russia.
+
+The MicroVAX family used processors that implemented the VAX instruction set architecture (ISA) and was succeeded by the VAX 4000.
+
+The MicroVAX was a family of low-cost minicomputers developed and manufactured by Digital Equipment Corporation (DEC).
+
+The microvilli that constitute the brush border have enzymes for this final part of digestion anchored into their apical plasma membrane as integral membrane proteins.
+
+The microviridins are a class of serine protease inhibitors produced by various genera of cyanobacteria.
+
+The Microvision is the first handheld game console that used interchangeable cartridges.
+
+The Microvision's combination of portability and a cartridge-based system led to moderate success, with Smith Engineering grossing $15 million in the first year of the system's release.
+
+The Microvision was designed by Jay Smith, the engineer who would later design the Vectrex gaming console.
+
+The microwave active compositions are used for validating the microwave energy distribution in the microwave heat processing chambers.
+
+The microwave auditory effect, also known as the microwave hearing effect or the Frey effect, consists of audible clicks induced by pulsed/modulated microwave frequencies.
+
+The microwave heat distribution is the distribution (allocation) of the heat release inside the microwave absorptive material irradiated with high intensive microwaves.
+
+The Microwave Humidity Sounder was designed and developed by Astrium EU in Portsmouth, UK, under contract to EUMETSAT.
+
+The microwave systems operator-maintainer supervises, installs, operates, and maintains microwave communications systems, and associated antennas, multiplexing, and communication security equipment.
+
+The Microweiseinae are a subfamily of Coccinellidae, the lady beetles.
+
+The Microwriter is a hand-held portable word-processor with a chording keyboard.
+
+The Microzarkodina apparatus probably consisted of 15 or 17 elements: four P, two or four M and nine S elements.
+
+The MICS is highly comparable to the Demographic and Health Survey (DHS) and the technical teams developing and supporting the surveys are in close collaboration.
+
+The Mictaw Formation is a geologic formation in Quebec.
+
+The MIC was created to promote and preserve motorcycling and the U.
+
+S. motorcycle industry.
+
+The MIC was established in 1991 for schools that sponsor women's gymnastics teams, but do not have women's gymnastics as a sponsored sport in their primary conferences.
+
+The MIC was incorporated in 1970, but the association has roots extending back to the early days of motorcycling when it existed under other names since 1914.
+
+The mid-12th-century Yunjing and other rime tables incorporate a more sophisticated and convenient analysis of the Qieyun phonology.
+
+The mid-1930s saw hunger marches from Brynmawr to County Hall in Newport.
+
+The mid-1960s through the early 1970s was associated with large musical, political, lifestyle, and counterculture changes.
+
+The mid-1980s saw an almost new line-up, with Chaos remaining the only original member.
+
+The mid 1980s saw a significant increase in private forest development, with the introduction of EU funded grant schemes aimed at encouraging private land owners, mainly farmers, to become involved in forestry.
+
+The mid-1990s found Billy in Santa Fe, New Mexico, focusing on developing his original music.
+
+The mid-2005 population estimate for the parish was 460, decreasing to 427 at the 2011 Census.
+
+The Mid-2011 Telangana protests refers to a chain of protests and mass resignations following the Million March incident in the Indian state of Andhra Pradesh.
+
+The mid-20th-century art movement Fluxus had a strong association with Rutgers University.
+
+The mid-20th century saw a decline in Manchester's industrial importance, prompting a depression in social and economic conditions.
+
+The mid-20th century was characterized by new biological treatments, such as antibiotics.
+
+The mid-60s hits Clark covers on the album include "Elusive Butterfly"; its original artist and writer Bob Lind has called Clark's recording his favorite version despite its omission of a verse.
+
+The mid 90s saw 98FM and 96.
+
+5 merge into one company.
+
+The Mid-America Air Museum is an aerospace and aircraft museum located in Liberal, Kansas, at the Liberal Mid-America Regional Airport.
+
+The Mid-America All-Indian Center is an American museum dedicated to the history and culture of Native Americans.
+
+The Mid-America Arts Alliance (MAAA), headquartered in Kansas City, Missouri, is one of six not-for-profit regional arts organizations funded by the National Endowment for the Arts (NEA).
+
+The Mid-America Center is an arena and convention center located in Council Bluffs, Iowa, just five minutes from downtown Omaha, Nebraska.
+
+The Mid-America Council of the Boy Scouts of America offers programs in 58 counties in Nebraska, Iowa and South Dakota.
+
+The Mid-America Council was formed from a merger of the Covered Wagon Council and the Southwest Iowa Council in 1965.
+
+The Mid-America Emmy Awards are a division of the National Academy of Television Arts and Sciences.
+
+The Mid-America Geographical Union (MAGU) is the Geographical Union (GU) for rugby union teams playing in Kansas, Missouri, Nebraska, Oklahoma, Parts of Arkansas and South Dakota as a member of USA Rugby.
+
+The Mid-America League operated in only four cities which were not served by Major or Minor League Baseball teams and is not affiliated with either.
+
+The Mid-America Men's Volleyball Intercollegiate Conference (MAMVIC) is an NAIA men's volleyball-only conference.
+
+The Mid-American Air Museum is the largest aircraft museum in Kansas, and the fifth-largest in the United States.
+
+The MidAmerica Nazarene Pioneers are the athletic teams of MidAmerica Nazarene University.
+
+The Mid-American Collegiate Hockey Association (MACHA) is an ACHA club hockey league comprising colleges and universities in the Midwest.
+
+The Mid-American Conference consists of twelve full-time members, with Temple University holding an affiliate membership for football.
+
+The Mid-American Conference first sponsored football in 1973.
+
+The Mid-American Conference Men's Soccer Awards are the annual awards given to the top coach, the best player, and the best freshman in the Mid-American Conference (MAC) during the NCAA Division I men's soccer season as voted on by the conference's head coaches.
+
+The Mid-American Conference Player of the Year that season, Fisher made several big shots during the Flashes' run to the tournament.
+
+The Mid-American Conference sponsors 23 sports, 11 men's and 12 women's.
+
+The Mid-American Conference Women's Soccer Tournament is the conference championship tournament in women's soccer for the Mid-American Conference (MAC).
+
+The Mid American Stock Car Series is a traveling Sportsman Series in the Midwestern United States.
+
+The Mid America Off Road Association (MAORA) is an American off road racing sanctioning.
+
+The Mid-America Regional Council (MARC) serves as the Council of Governments and the Metropolitan Planning Organization for the area.
+
+The Mid-America version of the NWA United States Tag Team Championship was a professional wrestling tag team championship and promoted by the National Wrestling Alliance (NWA)'s NWA Mid-America territory from 1962 until 1976.
+
+The Mid-America version was in use for 20 years, the second longest of any of the NWA World Tag Team Championships of that era, only behind the Central States version.
+
+The Mid-America version was primarily defended in the Tennessee/Alabama territory, occasionally also being defended in surrounding states.
+
+The Mid-Am was the first new USGA championship in 19 years, since the U.
+
+S. Senior Women's Amateur was added in 1962.
+
+The Mid and East Lothian Miners' Association (MELMA) was a trade union representing coal miners in parts of the Lothian area of Scotland.
+
+The mid and hind tibiae are creamy white.
+
+The mid and late 20th century saw a sharp increase in the publication of annuals, to report scientific results and provide overview, both in ever more specialized topics and in popular summary.
+
+The mid and late eighties brought new stores online outside of the Puget Sound area, and the corporate name changed to Zumiez pronounced Zoom-eez.
+
+The Mid and West Lothian Labor Federation was a trade union representing coal and shale miners in the West Lothian area of Scotland.
+
+The Mid-Anglia Constabulary was the territorial police force responsible for law enforcement in the East of England, from 1965 to 1974.
+
+The Mid-Antrim Museums Service is a local history museum service in County Antrim in Northern Ireland.
+
+The Mid Armagh by-election, 1891 was a parliamentary by-election held for the United Kingdom House of Commons constituency of Mid Armagh on 17 December 1891.
+
+The Midas free-tailed bat (Mops midas) is a species of bat scientifically classified in the order Chiroptera and the family Molossidae.
+
+The Midas is a British made kit car initially using Mini running gear.
+
+The MIDAS or Migraine Disability Assessment Test is a test used by doctors to determine how severely migraines affect a patient's life.
+
+The Midas Touch is a 1940 British thriller film directed by David MacDonald and starring Barry K. Barnes, Judy Kelly, Frank Cellier and Bertha Belmore.
+
+The Midas Touch is a 1997 film directed by Peter Manoogian, starring Trever O'Brien.
+
+The Midas Touch is a 2013 Hong Kong comedy film directed by Andrew Fung and starring Chapman To and Charlene Choi as talent managers.
+
+The Mid-Atlantic accent, or Transatlantic accent, is a consciously acquired accent of English, intended to blend together the "standard" speech of both American English and British Received Pronunciation.
+
+The Mid-Atlantic Air Museum (MA'AM) is membership supported museum and aircraft restoration facility located at Reading Regional Airport in Reading, Pennsylvania.
+
+The Mid-Atlantic, also called Middle Atlantic states or the Mid-Atlantic states, form a region of the United States generally located between New England and the South Atlantic States.
+
+The Mid Atlantic Arts Foundation (MAAF), headquartered in Baltimore, Maryland, is one of six not-for-profit regional arts organizations funded by the National Endowment for the Arts (NEA).
+
+The Mid-Atlantic Bight is a coastal region running from Massachusetts to North Carolina.
+
+The Mid-Atlantic Championship was a professional golf tournament on the Web.
+
+com Tour played at TPC Potomac at Avenel Farm.
+
+The Mid-Atlantic Collegiate Hockey is an ACHA Division 2 Southeast Region club hockey league in the east coast of the USA.
+
+The Mid-Atlantic District is one of 17 districts of the Barbershop Harmony Society (formerly known as SPEBSQSA or the Society for the Preservation and Encouragement of Barbershop Quartet Singing in America).
+
+The Mid-Atlantic Emmy Awards are a division of the National Academy of Television Arts and Sciences.
+
+The Mid-Atlantic Gap is a geographical term attributed to an undefended area beyond the reach of land-based RAF Coastal Command antisubmarine (A/S) aircraft during the Battle of the Atlantic in the Second World War.
+
+The Mid-Atlantic has played an important role in the development of American culture, commerce, trade, and industry.

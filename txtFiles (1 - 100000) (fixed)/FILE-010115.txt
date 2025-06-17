@@ -1,0 +1,67 @@
+Efficiency (statistics)In the comparison of statistical procedures, efficiency is a measure of an estimator's quality. This would be about the estimator of an experimental design, or of a hypothesis testing procedure. Basically, a more efficient estimator, experiment, or test needs fewer observations than a less efficient one to get a given performance.
+
+Method of moments (statistics)In statistics, the method of moments is a method of estimation of population parameters.
+
+Suppose that the problem is to estimate formula_1 unknown parameters formula_2 describing the distribution formula_3 of the random variable formula_4. Suppose the first formula_1 moments of the true distribution (the "population moments") can be expressed as functions of the formula_6s:Suppose a sample of size formula_8 is drawn, and it leads to the values formula_9. For formula_10, letbe the "j"-th sample moment, an estimate of formula_12. The method of moments estimator for formula_13 denoted by formula_14 is defined as the solution (if there is one) to the equations:The method of moments is simple and gets consistent estimators (under very weak assumptions). However, these estimators are often biased.
+
+IPhone 11The iPhone 11 is a smartphone sold by Apple Inc. It replaced the iPhone X that was released in 2018. The iPhone 11 has two rear camera lenses but still has a 6.
+
+1-inch screen, like the X. It is available in purple, white, yellow, green, black, and PRODUCT(RED) finishes, with 64 GB, 128 GB, and 256 GB storage options. The starting price is US $699. It is the least expensive 2019 iPhone model, when compared to the iPhone 11 Pro and iPhone 11 Pro Max.
+
+FightAIDS@HomeThe FightAIDS@Home project uses the technique of distributed computing to find a way to eradicate the HIV.
+
+FightAIDS@Home has been running since 2002 and joined World Community Grid on 21 November 2005.
+
+The project uses the World Community Grid distributed computing platform that uses the well-known Berkeley Open Infrastructure for Network Computing distributed computing platform.
+
+Andy EtchebarrenAndrew Auguste "Andy" Etchebarren (June 20, 1943 – October 5, 2019) was an American professional baseball player and minor league manager. He played as a catcher in Major League Baseball (MLB) for a total of 15 seasons for the Baltimore Orioles (1962 and 1965–75), California Angels (1975–77) and Milwaukee Brewers (1978).
+
+Etchebarren died on October 5, 2019 in Santee, California at the age of 76.
+
+Santee, CaliforniaSantee is a suburban city in San Diego County, California, with a population of 60,037 at the 2020 census.
+
+Marcello GiordaniMarcello Giordani (born Marcello Guagliardo; 25 January 1963 – 5 October 2019) was an Italian operatic tenor.
+
+He sang leading roles of the Italian and French repertoire in opera houses throughout Europe and the United States. He worked with the New York Metropolitan Opera, where he sang in over 240 performances from the time of his debut there in 1993. He founded the Marcello Giordani Foundation to help young opera singers.
+
+Giordani died on 5 October 2019 in Augusta, Sicily from a heart attack at the age 56.
+
+Ella VogelaarCatharina Pieternella "Ella" Vogelaar (23 December 1949 – 7 October 2019) was a Dutch politician. She was a member of the Labour Party (PvdA) and trade union leader. Vogelaar was born in Steenbergen, Netherlands. She was the Minister for Housing, Communities and Integration from February 2007 through November 2008.
+
+Vogelaar killed herself on 7 October 2019 in Utrecht at the age of 69.
+
+Black, IllinoisBlack is an unincorporated community in Edwards County, Illinois, in the United States.
+
+Adair, IllinoisAdair is an unincorporated census-designated place in McDonough County, Illinois, in the United States. It had a population of 212 in 2020.
+
+Adams Corner, IllinoisAdams Corner is an unincorporated community in Wabash County, Illinois.
+
+PlayStation 5The PlayStation 5 (also known by the abbreviated name PS5) is the fifth home video game console made by Sony Computer Entertainment. It was released at the end of 2020. Most games from the PlayStation 4 work with it. There are two versions of the console, one with a Blu-ray optical disc drive that costs $500. The second version costs $400 and does not have the disc drive. On the version with no disc drive, games can only be bought and downloaded from the PlayStation Store.
+
+As of January 2023, over 30 million PlayStation 5 consoles have been sold.
+
+Generally considered one of the best non gaming feature of PS5 is it's streaming capability. Netflix, Hulu, Disney+, and other streaming platforms are available on PlayStation 5.
+
+Remote Play is another feature of PS5. Using remote play you can play PS5 games on other compatible devices like PCs and mobile phone.
+
+John B. GoodenoughJohn Bannister Goodenough (July 25, 1922 – June 25, 2023) was an American professor and solid-state physicist. He was a professor of mechanical engineering and materials science at The University of Texas at Austin. He is known for his creation of the lithium-ion battery, which is used on cellphones such as iphones.
+
+In 2014, he won the Charles Stark Draper Prize for his works to the lithium-ion battery. In 2019, he was awarded the Nobel Prize in Chemistry with M. Stanley Whittingham and Akira Yoshino. At age 97, he is the oldest person to win a Nobel prize. His other works also focus on the field of magnetism.
+
+He was a Professor at The University of Texas at Austin. During his time there, he has worked on research on ionic conducting solids and electrochemical devices. He wanted to study to fix materials for batteries to help create electric vehicles and help end the use of fossil fuels. Goodenough discovered the polyanion class of cathodes. They showed that positive electrodes having polyanions, sulfates, create higher voltages than oxides because of the inductive effect of the polyanion.
+
+In 2011, Goodenough was honored with the National Medal of Science by President Barack Obama.
+
+Goodenough was born in Jena, Germany, to American parents. During and after graduating from Yale University, Goodenough was a U.
+
+S. military meteorologist in World War II. He got a Ph.
+
+D. in physics from the University of Chicago. He became a researcher at MIT Lincoln Laboratory, and later the head of the Inorganic Chemistry Laboratory at the University of Oxford. He was married to Irene Wiseman from 1954 until her death in 2016.
+
+Goodenough turned 100 in July 2022.
+
+Goodenough died on June 25, 2023 in Austin, Texas at the age of 100.
+
+M. Stanley WhittinghamM. Stanley Whittingham (born 22 December 1941) is an English-American chemist. He is currently a professor of chemistry and director of both the Institute for Materials Research and the Materials Science and Engineering program at Binghamton University, part of the State University of New York. He was awarded the Nobel Prize in Chemistry in 2019.
+
+Cession

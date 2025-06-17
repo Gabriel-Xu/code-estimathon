@@ -1,0 +1,5 @@
+A similar situation occurs when scientists measure a physical property, say the weight of a piece of metal, or the speed of light. If we weigh an object with sensitive equipment we will get minutely different results. No system of measurement is ever perfect. We get a series of estimates, each one being a measurement. These are samples, with a certain degree of error. Statistics is designed to describe error, and carry out analysis on this kind of data.
+
+There are different kinds of samples:The way the sampling is obtained, along with the sample size, will have an impact on how the data is viewed.
+
+If a population has obvious sub-populations, then each of the sub-populations needs to be sampled. This is called "stratified sampling". Stratified sampling is also known as "stratified random sample". Stratified sampling is often represented as proportion, such as percent (%).

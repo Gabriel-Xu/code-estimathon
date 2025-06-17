@@ -1,0 +1,101 @@
+The running time of the restored film is seventeen seconds; the accompanying cylinder contains approximately two minutes of sound, including twenty-three seconds of violin music, encompassing the film's soundtrack.
+
+The running time of the series is reported as 360 minutes (6 hours) on the IMDb page, but the actual running time of the series, both on VHS tape and DVD, is approximately 160 minutes.
+
+The running times varied, with the first episode aired in a 15-minute time-slot, the second and third episodes aired in a 20-minute time-slot, and the fourth and fifth episodes aired in a 30-minute time-slot.
+
+The running time was 100 minutes.
+
+The running titles are in small uncials while the incipits and explicits are in capitals.
+
+The Runningwater Formation is a geologic formation in Nebraska.
+
+The Runnymede-class large landing craft are powered watercraft in the United States Army.
+
+The Runnymede Trust is a race equality think tank founded in 1968 by Jim Rose and Anthony Lester, with aim of acting as an independent source for generating intelligence for a multi-ethnic Britain through research, network building, leading debate and policy engagement.
+
+The run-off between Prime Minister Yulia Tymoshenko and opposition leader Viktor Yanukovych followed on February 7, 2010.
+
+The runoff election featured Democratic Minority Leader of the Louisiana House of Representatives John Bel Edwards and Republican Senator David Vitter, as they were the top two vote getters in the primary.
+
+The run off election took place on December 2, 2008.
+
+The run-off election was June 10, 2017.
+
+The runoff election was won by Cissy Lizarraga.
+
+The runoff election was won by Janice Hahn.
+
+The runoff from the southern slopes of the Deosai Mountains forms a tributary that joins the Shiugo River, which then merges with the Dras River.
+
+The runoff had been invoked in 1949 and it would have been useful again.
+
+The runoff is then filtered by soil, microbes and vegetation before either being utilized by the tree or discharged into a storm drain system.
+
+The run-off occurred on December 9, 2003 where Gavin Newsom was elected mayor of San Francisco.
+
+The runoff primary election was held August 22.
+
+The runoff primary election was held August 23.
+
+The runoff primary election was held August 24.
+
+The runoff primary election was held August 24.
+
+The Republican Party candidates, for the first time in Oklahoma history, swept all statewide races, and currently control all eleven statewide offices for the first time ever.
+
+The runoff primary election was held August 25.
+
+The runoff primary election was held August 27.
+
+The Runoffs is regarded as the "Olympics of Amateur Road Racing."
+
+The run-off was between favorite, novelist Mario Vargas Llosa leading a coalition of economically liberal parties collectively known as the Democratic Front and political underdog Alberto Fujimori of the populist and more moderate Cambio 90.
+
+The runoff was devised by race broadcaster Channel 7 and the race promoters, the Australian Racing Drivers' Club (ARDC) for extra television time.
+
+The runoff was necessary as neither Chambliss nor Martin, the two major party candidates, had won a majority of the vote in the first round.
+
+The runoff was necessary this year, with Luke Appling the winner.
+
+The Run of the Country is a 1995 American romantic drama film directed by Peter Yates.
+
+The runology pioneer Johannes Bureus was a religious Christian, but he also thought that the Christian influence had replaced the runic alphabet with the Latin alphabet.
+
+The Run originates near the town of Weebosch and flows in a general northeast direction towards Veldhoven.
+
+The run-out groove of side two on the LP contains unintelligible speech.
+
+The run queue may contain priority values for each process, which will be used by the scheduler to determine which process to run next.
+
+The run scored by the batting team as a penalty to the bowling team, when this occurs.
+
+The run's mouth is at Rock Creek near the Trostle Farm along the Sachs Road, site of a hospital east of Round Top, Pennsylvania.
+
+The runtime allows MVEL expressions to be executed either interpretively, or through a pre-compilation process with support for runtime bytecode generation to remove overhead.
+
+The runtime can be launched one of three ways.
+
+The runtime creates exactly one RCW for each COM object, regardless of the number of references that exist on that object.
+
+The runtime environment implements the execution model, built-in functions, and other fundamental behaviors of a programming language.
+
+The run time is 111 minutes.
+
+The runtime is 19 minutes.
+
+The runtime is 21 minutes.
+
+The runtime is 50 minutes.
+
+The runtime is 60 minutes.
+
+The runtime is 64 minutes, and DVD copies have been distributed by the Falcon Studios.
+
+The runtime is 70 minutes.
+
+The runtime is built on Node.
+
+js.
+
+The runtime library may implement a portion of the runtime environment's behavior, but if one reads the code of the calls available, they are typically only thin wrappers that simply package information, and send it to the runtime environment or operating system.

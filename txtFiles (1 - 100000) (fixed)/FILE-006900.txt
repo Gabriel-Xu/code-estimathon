@@ -1,0 +1,163 @@
+Next, Euler observed that (except at the endpoints of the walk), whenever one enters a vertex by a bridge, one leaves the vertex by a bridge. In any walk of the graph, the number of times one enters a vertex equals the number of times one leaves it. If every bridge has been crossed exactly once, it follows that, for each land mass (except for the ones chosen for the start and finish), the number of bridges touching that land mass must be "even". This is because if there are n bridges, it is crossed exactly 2n times. However, all four of the land masses in the original problem are touched by an "odd" number of bridges (one is touched by 5 bridges, and each of the other three are touched by 3). There are at most two masses which can be the endpoints of a walk. So the proposition of a walk crossing each bridge once leads to a contradiction.
+
+In modern language, Euler shows that whether a walk through a graph crossing each edge once is possible or not depends on the degrees of the nodes. The degree of a node is the number of edges touching it. Euler shows that a necessary condition for the walk is that the graph be connected and have exactly zero or two nodes of odd degree. This result stated by Euler was later proved by Carl Hierholzer. Such a walk is now called an "Eulerian path" or "Euler walk". If there are nodes of odd degree, then any Eulerian path will start at one of them and end at the other. Since the graph representing the historical Königsberg has four nodes of odd degree, it cannot have an Eulerian path.
+
+Euler's work was presented to the St. Petersburg Academy on August 26, 1735. It was published as "Solutio problematis ad geometriam situs pertinentis" (The solution of a problem relating to the geometry of position) in the journal "Commentarii academiae scientiarum Petropolitanae" in 1741. It is available in English in The World of Mathematics.
+
+In the history of mathematics, Euler's solution of the Königsberg bridge problem is considered to be the first theorem of graph theory. Graph Theory is a subject now generally regarded as a branch of combinatorics.
+
+Two of the seven original bridges were destroyed during the bombing of Königsberg in World War II. Two others were later demolished. They were replaced by a modern highway. The three other bridges remain, although only two of them are from Euler's time (one was rebuilt in 1935). Thus, as of 2000, there were five bridges in Kaliningrad.
+
+In terms of graph theory, two of the nodes now have degree 2, and the other two have degree 3. Therefore, an Eulerian path is now possible, but since it must begin on one island and end on the other, it is impractical for tourists.
+
+The HeatThe Heat is a 2013 police comedy which stars Sandra Bullock and Melissa McCarthy. Bullock plays a Special Agent and the latter plays a detective. This comedy is set in Boston.
+
+San (river)San is a river in southeastern Poland. It is 443.
+
+3 km long.
+
+List of Latin phrases (Q)Map coloringMap coloring is a term used for two different concepts: In geography and mapmaking it is used to say that colors are assigned to certain areas on a map. Examples of this are coloring that show the countries or divisions of a country, but also to visualize other data, for example the altitude. The other use is in mathematics: There it is used to describe the problem of finding the minimal number of colors needed to color a given map.
+
+Color is very useful to show different features on a map. Typical uses of color include showing different countries, different temperatures, or different kinds of roads.
+
+Displaying the information in different colors can affect the understanding or feel of the map. In many cultures, certain colors have certain meanings. For example, red can mean danger, green can mean nature, and blue can mean water, which can be confused with the sea.
+
+Mapmakers may also use colors that are related to what they are mapping. For example, when mapping where it rains more or less, they may use different shades of blue. For a map of wildfires, they may use yellows, reds, and oranges. Carefully choosing colors is important so the map is easy to read and understand. Also, the mapmaker must take into account that many people have impaired color vision, and colors must be used such that these readers can see their differences.
+
+Q.
+
+E.
+
+D.
+
+Q.
+
+E.
+
+D. is an acronym or initialism of the Latin phrase , which means "what was to be demonstrated". In other words, Q.
+
+E.
+
+D. means "something was to be proven, and now it has been done".
+
+In the European Renaissance, scholars often wrote in Latin. The phrases "Q.
+
+E.
+
+D." was often used at the end of mathematical or philosophical proofs."
+
+Q.
+
+E.
+
+D." is used in many languages, including:Five color theoremThe Five color theorem is a theorem from Graph theory. It states that any plane which is separated into regions, such as a map, can be colored with no more than five colors. It was first stated by Alfred Kempe in 1890, and proved by Percy John Heawood eleven years later. Kempe also tried to prove it, but his proof failed. There are two restrictions which are placed on the maps: First, a country must be contiguous, there must be no exclaves, and secondly, countries that only touch in one point can be colored with the same color.
+
+There is also a four color theorem, which is stronger, and much more difficult to prove.
+
+Silence procedureSilence procedure (French: "procédure d'approbation tacite") is a decision-making tactic or process used in international political contexts. The procedure is based on the Latin phrase "qui tacet consentire videtur" which means "he who is silent is taken to agree" or "silence means consent".
+
+The silence procedure is used to enhance the process of consensus-building. It is used by many international groups, including NATO, and the European Union (EU).
+
+In the contexts of such multi-party groups, silence signifies a willingness to work together to limit the possible causes of paralysis.
+
+Ahumada MunicipalityAhumada is one of the 67 municipalities of Chihuahua, in northern Mexico. The municipal seat is Villa Ahumada. The municipality covers an area of 17,131.
+
+5 km².
+
+As of 2005, the municipality had a total population of 11,727.
+
+Villa AhumadaVilla Ahumada (officially Miguel Ahumada) is the seat of the Ahumada Municipality in the Chihuahua, Mexico. It had 8,753 inhabitants (2005). It is located along Highway 45, about south of Ciudad Juárez and north of the city of Chihuahua.
+
+Municipalities of CoahuilaGeneral Cepeda MunicipalityGeneral Cepeda is a one of the 38 municipalities of Coahuila, in north-eastern Mexico. The municipal seat is General Cepeda. The municipality covers an area of 3517 km².
+
+As of 2005, the municipality had a total population of 11,284.
+
+ProvidencialesProvidenciales is the main tourist island in the Turks and Caicos Islands. It is also where most of the people in the country live, with a population of about 32,000. The island has an area of .
+
+Grace Bay is where most of the resorts are. The first resort was Club Med. It opened in 1984. Blue Hills, Five Cays, and The Bight were the original villages.
+
+Vortex (Kings Island)Vortex is a steel roller coaster at Kings Island in Mason, Ohio. It was designed and built by Arrow Dynamics. It cost $4 million. The ride officially opened to the public on April 11, 1987. When it opened, Vortex was the tallest, full-circuit roller coaster with the highest drop in the world. It was also the first one where riders are upside down six times.
+
+Vortex is where The Bat used to be. The Bat was the world's first suspended roller coaster. There have been more than 38 million rides on Vortex. It is one of the most popular attractions at Kings Island.
+
+Michelle CreberMichelle Nicole Creber (born September 7, 1999) is a Canadian voice actress, actress and singer who is best known for voicing Apple Bloom, as well as the singing voice for Sweetie Belle in . She released her first solo album titled "Timeless: Songs of a Century" on August 28, 2012. The album features popular musicians from the brony community. She also hosts her own Internet radio show called Saturday Night Songs, on the brony media network "Everfree Network".
+
+Bangladesh national cricket team statistics and recordsThis is a page list of records and statistics of the Bangladesh Cricket Team.
+
+Bangladesh played their first test match on 10 November 2000. It was against India. The records in test matches for Bangladesh are written in this section.
+
+Hundreds aren't shown here because almost ten players have one.
+
+As total 6 Players in Bangladesh National Cricket Team got 5 wickets 1 time so in this list those are not counted.
+
+Only Enamul Haque Jr got a 10 wicket in a match and that is the one and only 10 wicket figure in a match.
+
+Bangladesh played their 1st One-Day International against a full member of ICC (Pakistan) on 31 March 1986. The records in One Day Internationals are written here.
+
+Full Table at ESPNcricinfoFull Table at ESPNcricinfoFull Table at ESPNcricinfoFull Table at ESPNcricinfoFull Table on ESPNcricinfoFull Table at ESPNcricinfoFull Table at ESPNcricinfoShakib Al HasanShakib Al Hasan ()(born 24 March 1987) is a Bangladeshi international cricketer and politician. He is an all-rounder and a member of perliament. He bats left-handed in the middle order. He is a slow left-arm orthodox bowler. He played for Bangladesh at under-19 level, at Youth level at 2005-2006. He made his One Day International (ODI) debut against Zimbabwe in August 2006. He made his test debut the May 2007 against India. In 2023, After Tamim Iqbal stepped down as captain, Shakib was made the captain of Bangladesh national cricket team and is leading Bangladesh as a Captain in the 2023 Cricket World Cup.
+
+Shakib Al Hasan is also a businessman. His company name is Fiesta Event Management Limited.
+
+Shakib Al Hasan completed secondary and higher secondary education at the Bangladesh Krira Shikkha Protishtan (BKSP) and obtained graduation in BBA from American International University-Bangladesh (AIUB).
+
+Shakib's father is Khondoker Masroor Reza and his mother is Shirin Reza.
+
+He married Umme Ahmed Shishir, a Bangladeshi American on 12 December 2012. The couple met in 2010 while Shakib was playing county cricket for Worcestershire in England. They had their first daughter Alayna Aubrey Hasan on 8 November 2015, their second daughter Errum Hasan on 24 April 2020 and their first son Eyzah Al Hasan on 16 March 2021.
+
+Tamim IqbalTamim Iqbal Khan popularly known as Tamim Iqbal () (born 20 March 1989) is a Bangladeshi cricketer. Tamim made his One Day International and Test debut at 2007. He is a left-handed opening batsman and was the captain of Bangladesh national cricket team from March 2020 to August 2023.
+
+Mashrafe MortazaMashrafe Bin Mortaza () (born 5 October 1983 in Narail District, Jessore) is a Bangladeshi cricketer and politician. He made his test dubut in the national side in late 2001 against Zimbabwe without playing a One Day International. Mortaza captained his country in one Test and seven One Day Internationals (ODIs) between 2009 and 2010. He is the captain of Dhaka Gladiators.
+
+Mortaza was born in the Narail District of Bangladesh. He completed his Secondary School Certificate (SSC) from "Narail Government High School" in 2001 and Higher Secondary School Certificate (HSC) from "Narail Victoria College" in 2003. Then he got himself admitted into Department of Philosophy at the Jahangirnagar University in 2003-04 for his bachelor's degree.
+
+Mortaza married Sumona Haque Sumi in 2006. Both they have a son and daughter.
+
+Mohammad AshrafulMohammad Ashraful () (born 7 July 1984) is a Bangladeshi international cricket player. He was the captain of national side during 2008-2010. Ashraful captained his country in 13 Tests. But lost in 12 and one ended draw. He also captained 38 One Day Internationals (ODIs) of which Bangladesh won eight. Ashraful scored the fastest fifty in the test among any batsman of the world, also scored the fastest fifty in the ODI and twenty20 international comparing any Bangladeshi batsman. He is the youngest test centurion.
+
+Marianne FaithfullMarianne Evelyn Gabriel Faithfull (born 29 December 1946) is an English singer and actress who has had many hit songs, solo and with other singers. Her singing career began around 1964. Faithfull was born in Hampstead, London, and is of Austrian ancestry.
+
+In 2006, Faithfull was diagnosed with breast cancer. She had surgery later the same year and has recovered. In 2007, she said she was diagnosed with hepatitis C in 1995. In April 2020, during the 2019–20 coronavirus pandemic, it was reported that Faithfull was being treated in hospital for COVID-19.
+
+Matlock (TV series)Matlock is an American television drama crime/mystery show. It starred Andy Griffith as defense attorney Ben Matlock. The show was broadcast on ABC and on NBC. The show was set in Atlanta, Georgia. It ran from September 1986 through May 1995. The show had 9 seasons and 195 episodes. The show had several spin-offs such as "Jake and the Fatman" and "".
+
+Peter HaskellPeter Abraham Haskell (October 15, 1934 – April 12, 2010) was an American actor. He was mostly known for guest-starring in many famous shows such as "Columbo", "Matlock", "Barnaby Jones", "Frasier", "The Mary Tyler Moore Show", "Medical Center", and in "Dr. Kildare".
+
+Haskell was born on October 15, 1934 in Boston, Massachusetts. He studied at Buckingham Browne & Nichols and at Harvard University. Haskell was married to Annie Compton from 1960 until they divorced in 1974. Then he was married to Dianne Tolmich from 1974 until his death in 2010. He had two children, a daughter and son. Haskell died on April 12, 2010 from unknown causes in Northridge, California, aged 75.
+
+Humoral immunityThe humoral immune system is a part of the immune system which defends the body against invading organisms and other foreign material.
+
+The humeral part is done by macromolecules outside the cells. These may be secreted antibodies, complement proteins, or certain antimicrobial peptides. Their job is to attack bacteria (and other foreign substances) which are loose in the blood stream or other fluids. In older medicine, these fluids were called "humors". Both the more primitive innate immune system, and the later acquired or adaptive immune system of vertebrates, have humoral components.
+
+The humoral immune system contrasts with the cell-mediated immunity. That involves the activation of phagocytes, antigen-specific cytotoxic T-lymphocytes, and the release of various cytokines in response to an antigen.
+
+The main cells that make it work are the B cells, which create and secrete antibodies that seek out the invaders and attach to them. Once the invader is coated in antibodies, this targets the invader for destruction by other parts of the immune system. Before the B cell can create antibodies, it first needs T helper cells to 'teach' the B cell about details of the incoming invader. This is a key part of the adaptive immune system, and the reference attached here summarizes the process.
+
+The production of antibodies tailor-made to combat particular bacteria is the most important element, but there are a number of other humeral defenses from the more primitive innate immune system.
+
+Andrew ShawAndrew Shaw (born July 20, 1991 in Belleville, Ontario) is a Canadian former professional ice hockey player. He played parts of 10 seasons in the National Hockey League (NHL). He played for the Chicago Blackhawks and Montreal Canadiens.
+
+He began his hockey career with the Niagara IceDogs of the OHL and played for them for 2 seasons. He also played for the Owen Sound Attack for 1 season. He entered the draft on 2011 and he was drafted with the 139th overall by the Chicago Blackhawks in the 2011 NHL Entry Draft.
+
+He was assigned to the Rockford IceHogs, the farm team of the Blackhawks. He was called up to the Blackhawks during the 2011-12 NHL season. On January 5, 2012, he got in his first-ever NHL fight on the second shift of his first NHL game. He returned to the game after receiving stitches and score the first goal of his NHL career on his first shot of his first game against Ilya Bryzgalov of the Philadelphia Flyers. On June 24, 2013, He won the Stanley Cup with the Blackhawks after they defeated the Boston Bruins 4 games to 2 in the 2013 Stanley Cup Finals.
+
+On April 26, 2021, Shaw announced his retirement from playing professional ice hockey. He said that he suffered too many concussions and doctors told him to retire.
+
+Allison CroweAllison Crowe (November 16, 1981, British Columbia) is a Canadian singer, songwriter, guitarist and pianist. Most of the songs she records are written by Crowe. She is known as well for releasing cover versions of certain songs. She is known for releasing independent albums. Cover songs include the Beatles' "Let it Be" and "Imagine" from John Lennon. Her distinctive voice is often compared against that of Mahalia Jackson. She appeared in a cameo role in the 2013 movie "Man of Steel".
+
+Moore's lawMoore's law is that the number of transistors on integrated circuits doubles about every two years. Intel executive David House said the period was "18 months". He predicted that period for a doubling in chip performance: a combination of the effect of more transistors and their being faster.
+
+The law is named after Intel co-founder Gordon Moore, who described the trend in his 1965 paper.
+
+The paper stated that the number of components in integrated circuits had doubled every year from the invention of the integrated circuit in 1958 until 1965 and predicted that the trend would continue "for at least ten years". His prediction has proved very accurate. The law is used in the semiconductor industry to guide long-term planning and to set targets for research and development.
+
+The capabilities of many digital electronic devices are strongly linked to Moore's law: processing speed, memory capacity, sensors and even the number and size of pixels in digital cameras. All of these are improving at (roughly) exponential rates as well.
+
+This exponential improvement has greatly increased the effect of digital electronics in the world economy. Moore's law describes a driving force of technological and social change in the late 20th and early 21st centuries.
+
+This trend has continued for more than half a century. Intel stated in 2015 that the pace of advancement has slowed. Brian Krzanich, CEO of Intel, announced that "our cadence today is closer to two and a half years than two".
+
+Shahriar NafeesShahriar Nafees Ahmed () (born 25 January 1986) is a Bangladeshi cricketer. He is a left-handed opening batsman. He made his One Day International (ODI) debut for Bangladesh in 2005. The opposition team was England. In 2005 he played his first Test.
+
+Mushfiqur RahimMohammad Mushfiqur Rahim () (born 1 September 1988) is a Bangladeshi cricketer and the captain of his national team. He made his Test debut in 2005, at the age of 16. Rahim trained at the Bangladesh Institute of Sports. At the next year he made his ODI debut. At the end of 2011 he was given the captain of his national side.
+
+Habibul Bashar

@@ -1,0 +1,327 @@
+The open source DAP firmware Rockbox has added support for reading RM containers as of 6 July 2009, although only certain formats used in RM files are playable.
+
+The Open Source Definition is a document published by the Open Source Initiative, to determine whether a software license can be labeled with the open-source certification mark.
+
+The Open Source Developers' Conference (OSDC) was a non-profit conference for developers of open-source software.
+
+The open source edition does not support any MAPI-based Outlook users, while the community edition supports three Outlook users.
+
+The open source edition was released in July 2010.
+
+The Open Source Enterprise (OSE) is a United States Government organization dedicated to open-source intelligence that was established by Assistant Deputy Director of National Intelligence for Open Source (ADDNI/OS), Eliot A. Jardines.
+
+The open source fangame Enigma has been praised in reviews.
+
+The open source framework is extensible through plug-ins and is focused on building research and clinical software prototypes.
+
+The Open Source Geospatial Foundation (OSGeo), is a non-profit non-governmental organization whose mission is to support and promote the collaborative development of open geospatial technologies and data.
+
+The Open Source Hardware Association (OSHWA) is a non-profit organization that advocates for open-source hardware.
+
+The open source implementation of 802.
+
+11s has been integrated to Linux kernel by Cozybit.
+
+The open-source implementation of a diskless shared-root cluster is known as Open-Sharedroot.
+
+The Open Source Information System (OSIS) is the former name of an American unclassified network serving the U.
+
+S. intelligence community with open source intelligence.
+
+The Open Source Initiative approved the GNU AGPLv3 as an open source license in March 2008 after the company Funambol submitted it for consideration through its CEO Fabrizio Capobianco.
+
+The Open Source Initiative (OSI) has certified it as an open-source license, but the Debian project judged version 1.
+
+1 to be incompatible with the DFSG.
+
+The Open Source Initiative (OSI) is a non-profit organization dedicated to promoting open-source software.
+
+The open source Javolution library addresses these concerns for the Java platform and native applications.
+
+The open-source Kmc-Subset137 Project implements the protocol described in "ERTMS/ECTS; On-line Key Management FFFIS" UNISIG SUBSET-137 ver1.
+
+0.
+
+0.
+
+The Open-Source Lab book has been covered extensively by the media.
+
+The Open-Source Lab: How to Build Your Own Hardware and Reduce Research Costs by Joshua M. Pearce was published in 2014 by Elsevier.
+
+The open source library provides a simple C language application programming interface (API) to access and parse UNISIG SUBSET 137 messages.
+
+The Open Source Maturity Model (OMM) is a methodology for assessing Free/Libre Open Source Software (FLOSS) and more specifically the FLOSS development process.
+
+The open-source model is a decentralized software-development model that encourages open collaboration.
+
+The open-source movement in software began as a response to the limitations of proprietary code.
+
+The open-source movement was started to spread the concept/idea of open-source software.
+
+The open-source nature of Lightbox encouraged developers to modify and fork the code, resulting in plugins such as Colorbox, Magnific Popup, Slimbox or Thickbox.
+
+The Open Source Observatory and Repository (OSOR) is an online project launched by the European Commission under the IDABC program, to support the distribution and re-use of software developed by or for public sector administrations across Europe, connecting EU services and Member States.
+
+The Open Source Order of the Golden Dawn (OSOGD) is an esoteric community of magical practitioners, many of whom come from pagan backgrounds.
+
+The open-source OS Haiku, a complete reimplementation of BeOS, is designed to start up where BeOS left off.
+
+The Open Source Physics Project is an extension of the Physlet Project.
+
+The open source platform behind the software allows third-party developers and freelance programmers to substantially modify the code, as well as create new independent plugins and themes for SkaDate.
+
+The open source project to build Apache Kudu began as internal project at Cloudera.
+
+The Open Source Routing Machine or OSRM is a C++ implementation of a high-performance routing engine for shortest paths in road networks.
+
+The Open Source Seed Initiative (OSSI) is an organization that developed and maintains a mechanism through which plant breeders can designate the new crop varieties they have bred as open source.
+
+The open-source Small Device C Compiler (SDCC) supports the processor.
+
+The open source software application creates a real-time statistical graphic with sound from contributions to Wikipedia from around the world.
+
+The open-source software movement arose to clarify copyright, licensing, domain, and consumer issues.
+
+The open-source software movement is a movement that supports the use of open-source licenses for some or all software, a part of the broader notion of open collaboration.
+
+The open-source software movement is commonly cited to have a diversity problem that reflects that gender disparity in computing but in general is assumed to be even more severe or different in some ways.
+
+The Open Source Software World Challenge (OSSWC) is the annual competition hosted by the Ministry of Knowledge and Economy of Korea.
+
+The open-source solution is free while the professional and enterprise solutions are advanced hosted solutions (SaaS).
+
+The open source squid cache and commercial NetCache were both based on the Harvest object cache.
+
+The open source version, Group-Office Community, is licensed under the AGPL, and is available via SourceForge.
+
+The open-source version includes a basic tools set sufficient for most testing purposes (Record on all browsers, Playback on all browsers, HTML playback reports, JUnit Style playback reports, Suites and batch run, Parallel playback of tests), whereas the Pro version includes further features such as test distribution and report customization.
+
+The open source version is available for free download on GitHub, with plugin modules available to extend and expand its core functionality, including ResellerClub integration, Envato integration, LDAP authentication, MSG91 SMS integration, and Facebook social login.
+
+The open-source version is released under the Lesser GNU General Public License and was maintained until 2013.
+
+The Open Source version is still available, even if only for historic interest.
+
+The open source version of Kittyhawk is available on a public website hosted by Boston University.
+
+The open source version was released as Open BlueDragon (OpenBD) in December 2008.
+
+The open source web application framework Ruby on Rails was initially created for internal use at 37signals, before being publicly released in 2004.
+
+In February 2014, the company adopted a new strategy, focusing entirely on its flagship product, the software package also named Basecamp, and renaming the company from 37signals to Basecamp.
+
+The open source XSB implementation includes an interface to the Java programming language.
+
+The open space below reveals the reinforced concrete frames that were formed in the shape of a figure 8.
+
+The Open Space Council holds an annual conference - typically in May - where over 400 people gather to discuss current events and topics in land conservation.
+
+The open space here was once a street called Columbine Street which was named after lieutenant-general Francis Columbine who was a deputy governor.
+
+The open space of the Pardee Homestead retains its rural characteristics and consists primarily of lawn, gardens and a large open field located East of the house.
+
+The open space park is located at southwest corner of the intersection of Thompson Boulevard and Palm Street in downtown Ventura.
+
+The Open Space Preserve is on the west side of the County Park, also bordered by Los Altos Hills, Monte Bello Open Space Preserve, and the Permanente Quarry.
+
+The open spaces are managed by Westminster City Council and private resident and business associations.
+
+The open spaces around the woodlands are open to grass and include for football pitches and a children's playground.
+
+The open space section of the park includes two formal gardens, a rose garden and a cherry blossom garden.
+
+The open spaces of Kensington Gardens, Hyde Park, Green Park, and St. James's Park together form an almost continuous "green lung" in the heart of London.
+
+The Open Spaces Society is a campaign group that works to protect public rights of way and open spaces in the United Kingdom, such as common land and village greens.
+
+The Open Space Theater was created by Charles Marowitz and Thelma Holt in 1968.
+
+The Open Speech Repository provides some freely usable, prerecorded WAV files of Harvard Sentences in American and British English, in male and female voices.
+
+The open standard interfaces supported by WAS are common across all platforms provided the version and release levels are aligned.
+
+The OpenStreetCam app supports using an ODB-II dongle plugged into the vehicle in addition to GPS to improve the accuracy of the positions of images.
+
+The OpenStreetMap Foundation is a company limited by guarantee, registered in England and Wales on 22 August 2006.
+
+It is a non-profit foundation whose aim is to support and enable the development of freely-reusable geospatial data.
+
+The open-string notes form a C major chord, which is the triad (C,E,G) having the root note C, the major third (C,E), and the perfect fifth (C,G).
+
+The open structure of free schools is intended to encourage self-reliance, critical consciousness, and personal development.
+
+The OPENSTUDIO Archive lives in a Github repository and contains SVG files and info to retrieve 5 years of meta-data.
+
+The OPENSTUDIO platform was active from 2005 to 2008.
+
+The Open Sud de France (formerly known as the Grand Prix de Tennis de Lyon) is a professional tennis tournament played on indoor hard courts.
+
+The openSUSE Project is a community project to create, promote, improve and document the openSUSE Linux distribution.
+
+The Open SynBio community will set standards and expectations of the participants and their "science to market" process and the community will work collaboratively with downstream stakeholders (e.
+
+g., investors and business advisors) to ensure public safety and general availability of new synthetic biology applications.
+
+The Open Systems Adapter (OSA) is a network controller for IBM z/Architecture, ES/9000 and S/390 mainframes.
+
+The Open Tarragona Costa Daurada is a tennis tournament held in Tarragona, Spain since 2006.
+
+The "open" team plays in the Connecticut Soccer League, the top state league in Connecticut.
+
+The Open Technology Fund (OTF) is a U.
+
+S. Government funded program created in 2012 at Radio Free Asia to support global Internet freedom technologies.
+
+The Open Technology Institute (OTI) is the technology program of the New America Foundation.
+
+The Open Telecommunications infrastructure includes switching products, content and services, and management systems.
+
+The Open Theater was an experimental theater group active from 1963 to 1973.
+
+The open top permits smoke from the central hearth to escape; temperature and draft can be controlled by a flap that increases or decreases the size of the opening.
+
+The Open Training and Education Network, often abbreviated OTEN, is an Open education service offered by TAFE NSW.
+
+The Open Training Platform initiative regroups partners from all UN agencies (FAO, ILO/ITC, ITU, UNESCO, the UNITAR, UNV, WHO and UNEP), worldwide development practitioners and agencies, as well as regional and local NGOs and CBOs.
+
+The Open Tram - All of the tram was open to the elements.
+
+The Open Trot for horses age four and older was first run in 1985.
+
+The Open Unified Process (OpenUP) is a part of the Eclipse Process Framework (EPF), an open source process framework developed within the Eclipse Foundation.
+
+The Open University, in collaboration with the BBC, also created a series of audio walks around historic locations in Scotland, with narration from Oliver.
+
+The Open University of Sudan (OUS) is a public university based in Khartoum, Sudan that provides bachelor and postgraduate courses through distance education.
+
+The Open University of Tanzania (OUT) is a distance learning public university in Tanzania.
+
+The Open University of the Pamantasan ng Lungsod ng Maynila, headquartered at the Gusaling Don Pepe Atienza at Intramuros, Manila, has operated a continuing education program for working adults and professionals in its partner institutions and agencies in and out of the country.
+
+The Open University (OU) is a public distance learning and research university, and one of the biggest universities in the UK for undergraduate education.
+
+The Open University provides input into programs and supplementary materials written by OU Business School academics.
+
+The OpenUP began with a donation to open source of process content known as the Basic Unified Process (BUP) by IBM.
+
+The OpenURL standard is designed to enable linking from information resources such as abstracting and indexing databases (sources) to library services (targets), such as academic journals, whether online or in printed or other formats.
+
+The Open V33 Grand Lyon was a golf tournament on the European Tour which was played annually from 1992 to 1994.
+
+The open ventilation and the sturdiness offered by a hamper has made it suitable for the transport of food, hence the use of the picnic hamper.
+
+The OpenVera language reference manual (LRM) can be obtained at no cost, but modifications to the language must go through Synopsys.
+
+The OpenVera language was used as the basis for the advanced verification features in the IEEE Std.
+
+The open verdict is an option open to a coroner's jury at an inquest in the legal system of England and Wales.
+
+The Open Verification Methodology (OVM) is a documented methodology with a supporting building-block library for the verification of semiconductor chip designs.
+
+The OpenVMS equivalent is show default.
+
+The OpenVNet adds a Network Virtualization layer on top of the existing physical network and enables data center network administrators to tremendously simplify the creation and operation of multi-tenant networks.
+
+The OpenVNet project started in April 2013.
+
+The Open Voting Consortium (OVC) is a non-profit advocacy group dedicated to the development, maintenance, and delivery of trustable and open voting systems for use in public elections.
+
+The OpenVPX Industry Working Group has provided new standards which will replace VME and VXS standards in future defense designs.
+
+The Openwall Project maintains a list of several algorithms with their reference source code in the public domain.
+
+The open walls allowed for temporary seating to be in place during the games.
+
+The Open was canceled in 2018.
+
+The Open was first played in 1904 and takes place toward the end of each year.
+
+The Open was played, like the 1873 tournament, during the R&A autumn meeting at St Andrews and many members of the club were playing golf among the competitors.
+
+The open water area is 91 hectares, making it largest area of water in West Yorkshire.
+
+The open water areas have rafts of yellow and white water-lily.
+
+The open water competitions were held from 3 February to 5 February near Rotorua in Lake Okataina and Lake Rotoma whilst the swimming and synchronized swimming competitions were carried out from 5 June to 8 June in Christchurch at the QEII Leisure Center.
+
+The open water event at the Olympics was a 10-kilometer race, which typically lasts around two hours.
+
+The open water includes ponds which were dug to attract wildfowl, a stretch of the Dilham Canal and dykes.
+
+The Open Water Swimming competition at the 2009 World Aquatics Championships were held from July 21 to 25 at the beach of Ostia in Rome.
+
+The open water swimming course was held in the Olympic Rowing Basin on Notre Dame Island, and not in a river.
+
+The open water swimming events at the 2007 World Aquatics Championships were held from 18 March to 25 March, at St. Kilda Beach near Melbourne, Australia.
+
+The Open Web Application Security Project (OWASP), an online community, produces freely-available articles, methodologies, documentation, tools, and technologies in the field of web application security.
+
+The Open Web Application Security Project (OWASP) listed XML External Entity attacks as 4th on their 2017 Top 10 Web Security Risks.
+
+The OpenWebGlobe virtual globe can have several data categories like image data, elevation data, points of interest, vector data, and 3D objects.
+
+The OpenWebNet protocol allows a "high-level" interaction between a remote unit and Bus SCS of MyHome domotic system.
+
+The OpenWebNet protocol is disclosed on MyOpen community.
+
+The Open Weekend and Half Share, and television shows such as Famous in 12.
+
+The Openweight Hardcore Championship, also known as the Global Hardcore Crown, had a unique stipulation attached to it: if the challenger was smaller than the champion, and lasted for 15 minutes, they would win the title.
+
+The open-wheeled, winged, single-seater cars have generally been similar to those in Formula One, though there are important differences.
+
+The Open Window Institute for Arts and Digital Sciences (formerly the Open Window School of Visual Communication) is an accredited private higher education provider.
+
+The Open Window is a work by the French artist Pierre Bonnard, painted in 1921.
+
+The open-world assumption is closely related to the monotonic nature of first-order logic: adding new information never falsifies a previous conclusion.
+
+The open-world assumption (OWA) codifies the informal notion that in general no single agent or observer has complete knowledge, and therefore cannot make the closed-world assumption.
+
+The open world design lets players freely roam Anywhere City, the setting of the game.
+
+The open world design lets players freely roam Liberty City, consisting of three main islands.
+
+The open world design lets players freely roam New Bourdeaux's open landscape.
+
+The open world design lets players freely roam San Andreas, which includes open countryside and the fictional city of Los Santos (based on Los Angeles).
+
+The open world design lets the player freely roam Bullworth.
+
+The open world design lets the player freely roam Vice City, consisting of two main islands.
+
+The Open World Forum (Forum mondial du libre) is a non-commercial community annual event on open source innovation.
+
+The open world map of Los Angeles is the size of all three cities from the previous installment combined.
+
+The open world of Far Eden is subject to exploration and the collection of resources.
+
+The OpenWorm project is also contributing to develop Geppetto, a web-based multi-algorithm, multi-scale simulation platform engineered to support the simulation of the whole organism.
+
+The OpenXPKI project aims at creating an enterprise-grade Open Source PKI software.
+
+The open youth Laser 4.
+
+7 competition at the 2006 Asian Games in Doha was held from 5 to 12 December 2006.
+
+The openZIM project is sponsored by Wikimedia CH, and supported by the Wikimedia Foundation.
+
+The Opera Album is Andrea Bocelli's fourth studio album, released in 1998.
+
+The opera also enjoyed a British provincial tour.
+
+The opera, and his singing translation of it, were immediate successes with San Francisco audiences.
+
+The Opera Australia Orchestra (based in Sydney, New South Wales, Australia) is a full-time salaried orchestra, and a wholly owned subsidiary of Opera Australia.
+
+The Opera Awards is an singing competition, for professional Australian opera singers.
+
+The Opera Band is the debut album by Amici Forever released in 2004.
+
+The Opera Barga Festival also promotes contemporary music.
+
+The Opera Barga Festival is an annual opera festival held in July in the town of Barga, Italy.
+
+The opera, based on Hans Christian Andersen's tale The Nightingale, is set in three acts, told from the point of view of a Chinese fisherman.
+
+The opera became a huge success and is considered by many music critics to be Storace's best composition.

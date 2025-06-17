@@ -1,0 +1,193 @@
+Pentaerythritol tetranitrate (PETN), also known as PENT, PENTA, TEN, corpent, penthrite (or — rarely and primarily in German — as nitropenta) is one of the most powerful high explosives known. It has a relative effectiveness factor (R.
+
+E. factor) of 1.
+
+66. PETN can be used as a plastic explosive. PETN can also be use as a drug to treat certain heart conditions, such as angina pectoris. In this context, it helps widening blood vessels, which is known as vasodilatation. PETN is among the most widely used substances for vasodilatation.
+
+Dan (rank)A Dan is a measure of advanced rank, often used in martial arts and the board game go. It usually ranges from 1 to 10, with higher numbers indicating greater skill. In martial arts, it is used for black belts only. In go or shogi, players of 1 Dan or above can be considered "masters". Dan literally means "step" in Japanese.
+
+Usually, the belt of a Dan martial artist will have a number of strips according to the person's rank.
+
+This table shows how to call dan in Japanese.
+
+Go and shogi players are usually called by their dan by media like NHK and Asahi Shinbun.
+
+Dan (disambiguation)The term "dan" might refer to:DeinotheriumDeinotherium was a large proboscidean related to modern elephants. Their downward curving tusks are notable. They are known from the middle Miocene to the early Pleistocene. "Dinotherium" is put in its own family (the Deinotheriidae) in the Proboscidea.
+
+There were several species of "Deinotherium" that lived in parts of Africa, Asia and Europe. The "Deinotherium" was larger than today’s elephants.
+
+The way "Deinotherium" used its curious tusks has been much debated. It may have rooted in soil for underground plant parts like roots and tubers, pulled down branches to snap them and reach leaves, or stripped soft bark from tree trunks.
+
+It helps to remember that the Miocene was much warner and wetter than today, and that the Africa of the Miocene had rather different fauna from today. "Deinotherium" was a creature of muddy tropical rivers and forests, not the dry savannahs of today. It also lived in southern Europe and east to the Indian Subcontinent.
+
+Deinotherium fossils have been uncovered at several of the African sites where remains of prehistoric hominid relatives of modern humans have also been found.
+
+TiruchirappalliTiruchirappalli is a city in the Indian state of Tamil Nadu. Its name in Tamil means "town of the respected Chira (name of a Jain monk)". It is also often called Trichy or Tiruchi. It was also called Trichinopoly by the British.
+
+Tiruchirappalli is the administrative headquarters of Tiruchirapalli District. It is the fourth-largest municipal corporation in Tamil Nadu. About 10,67,912 people lived there in 2008. It is a very old city with many important temples, monuments, churches and mosques. The famous temples being Rockfort Temple, Srirangam Temple, Thiruvanaikkovil Temple, Samayapuram Temple, Nachiyar Kovil etc. Nearby, Woraiyur, the old Trichy, is where the early Chola kings had their capital city, until about 850. There are picnic / sightseeing spots in and around trichy like Kallanai (Grand Anaicut) built by Karikala Cholan, Mukkombu.
+
+Power-on self testThe POST, in most computers, is a self-test that checks the OS(s) available and boots from the OS selected. POST stands for "Power On Self Test". Computers that have an operating system perform a POST before loading the OS, and many imbedded systems also do a POST.
+
+A POST usually checks the crucial, files, folders, and components. Once the POST is completed, a selected OS will take control and finish the startup process.
+
+If the POST fails, usually a BSOD displays (Blue Screen of Death, most commonly) and offers recovery options such as safe mode.
+
+LKGC (Last Known Good Configuration) reverts to the last non-problematic, successful bootup. It is similar to System Restore, but its primary function is to allow the user to use the computer normally, unlike System Restore, which does not guarantee a fix. Also, LKGC is unrevertable, unless you successfully bootup again.
+
+System Restore works by allowing the user to open a wizard, then select a "restore point". The user must restart for the point to take effect, but the system will start as normal.
+
+System Repair is typically found on the hard disk of your computer and contains options that can be used to fix the system. However, in serious cases, the OS may need to be reinstalled.
+
+Kill screenA kill screen is a screen that prevents progress from the player. The screens in some games stop the game with gibberish or otherwise impossible figures. In "Pac-Man", at a certain level the screen overflows and spreads fruits and ghosts across the arcade machine's screen.
+
+These are games that have integer overflow.
+
+Regular expressionA regular expression (abbreviated regexp or regex) is a way to describe sets of characters using syntactic rules. Many programming languages use or support regular expressions. A regular expression is then used by a special program or part of a programming language. This program will either generate a parser that can be used to match expressions or it will match such expressions itself. A simple use case for this is to find all words or phrases in a text that match a certain pattern. In one case, the 'pattern' might just be a word, but in more complex cases, there might be rules that say that the word needs to start with an uppercase letter, or that only certain letters are allowed.
+
+A regular expression processor is used for processing a regular expression statement in terms of a grammar in a given formal language, and with that examines a text string.
+
+A few examples of what can be matched with regular expressions:Regular expressions can be much more complex than these examples. Many regular expression languages also support "wildcard" characters. A more complex example might be t0 validate a date. Some months have 31 days, others have 30; February has 29 in some cases (leap years). So a use case migt be to validate a date.
+
+Doktor Martinus Luther (1911)Doktor Martinus Luther (translated: "Doctor Martinus Luther") is a 1911 German movie about the life of Martin Luther. This movie is a silent movie. It starred Hermann Litt as Luther.
+
+Die Wittenberger NachtigallDie Wittenberger Nachtigall () is a 1913 German movie about the life of Martin Luther. It is a silent movie. It starred Rudolf Essek as Luther.
+
+Historical mistakes are the reason that the movie was forbidden for the youth.
+
+Disput u noćiDisput u noći (translated: "Dispute in the Night") is a 1976 movie. The movie was made in Yugoslavia.
+
+The movie is about a dispute between Desiderius Erasmus and Martin Luther. So the movie shows parts of the life of Martin Luther.
+
+Martin Luther (1923 movie)Martin Luther is a 1923 silent movie about the life of Martin Luther. The movie starred Karl Wüstenhagen as Luther.
+
+1986 Pacific hurricane seasonThe 1986 Pacific hurricane season officially started May 15, 1986 in the eastern Pacific, and June 1, 1986 in the central Pacific, and lasted until November 30, 1986. These dates usually contain the period of each year when most tropical cyclones form in the northeastern Pacific Ocean.
+
+The number of storms this season was slightly above average. There were eight tropical storms, and six hurricanes. However, the number of major hurricanes was below average with three.
+
+On May 22, a tropical depression (a large and organized cloud mass) formed. It took a rare southeast track. On May 24, the depression made a lope strengthened into Tropical Storm Agatha. Agatha headed almost due north. On May 25, reached minimal hurricane strength and turned to the east-southeast. Agatha weakened back to a tropical storm and then a tropical depression as it continued paralleling the coast of Mexico. Agatha restrengthened into a tropical storm for 12 hours on May 28 and 29 before dissipating for good that same day.
+
+At midday on July 16, a tropical depression formed. It acquired gale-force winds 12 hours later and was named Estelle. On July 18, it intensified into a hurricane. In an environment that favored an increase of the storm's winds, Estelle continued strengthening, and became the first major hurricane of the season on July 20. Estelle's forward motion increased to close to 20 knots. Estelle's path took it towards a potential landfall on the Big Island. Due to a shearing environment from a trough, Estelle weakened as it continued approaching Hawaii. A possible recurve never materialized, and the cyclone continued its path towards the Hawaiian Islands.
+
+The hurricane veered to west and passed south of the islands. Estelle weakened to a tropical storm on July 23. Early on July 25, Tropical Storm Estelle weakened to a depression. The tropical cyclone weakened two days later.
+
+Due to its rapid motion, Estelle kept pace with a large swell of water that it generated. In combination with a high spring tide and peripheral winds generated by Estelle, huge waves crashed on the shores of the Big Island on the afternoon of July 22. The high waves washed away five beachfront homes and severely damaged dozens of others in Vacation Land. The total damage was around 2 million (1986 USD) dollars. On Maui, waves washed away a dirt road on the eastern part of the island between Kipahulu and Kaupo.
+
+After Estelle passed by the islands, moisture related to the tropical cyclone caused heavy rainfall in the Ka'u and Puna districts on the Big Island. After Estelle dissipated, its moisture continued to spread over the islands, causing significant rainfall and thunderstorms over the archipelago. The only deaths reported were two drownings on Oahu that occurred on July 23.
+
+A cloud mass became a tropical depression late on the September 27 roughly 200 miles southwest of Guatemala. Paralleling the Mexican coastline, the system became a tropical storm late on the 29th, about 350 miles west-southwest of Acapulco. It steadily intensified, peaking with winds of 100 mph. This made Paine a Category 2 hurricane, Paine entered the Gulf of California on the evening of October 1. The hurricane increased its motion, crossing the coast near San Jose (Boca del Rio) while still a hurricane. The system moved rapidly across Mexico, bringing significant rains from west Texas across Oklahoma and Kansas into the Mid-Mississippi Valley. Flooding was reported, with the worst flood begin near Oklahoma City, the capital of the US State of Oklahoma.
+
+The next tropical cyclone originated as a tropical disturbance which moved westward offshoreNicaragua. During the early afternoon of the 15th, ship reports indicated the formation of a tropical depression near 10.
+
+2N 92.
+
+7W. The cyclone moved at a quick pace to the west- northwest south of a warm-core ridge. Early on the morning of the 16th, Roslyn became a tropical storm. By the morning of the October 17, it had developed into a hurricane south of Acapulco.
+
+Roslyn began to recurve within a few hundred miles of Manzanillo. Striking Mazatlán as a marginal hurricane on the 20th, the remains of the system caused heavy rains along the Middle Texas coast. It later moved northward through the Mississippi Valley, spreading light to moderate rainsalong its path and then started to spread rains across the Southern United States. Click here for the storm total rainfall graphic for Roslyn.
+
+On August 3, a tropical depression organized in the open ocean. Twelve hours later, it strengthened into Tropical Storm Georgette before weakening to a depression 6 hours later. It then accelerated to a very rapid speed of 20-39 knots. Due to its fast speed, Georgette could not maintain a closed circulation, and the tropical storm degenerated into a non-cyclonic disturbance. The disturbance kept up its rapid forward motion, crossed the dateline, and entered the western Pacific.
+
+Five days later, Georgette reformed into a depression in the western part of the Pacific Ocean. As was customary, it kept its name. It eventually strengthened into a minimal typhoon (a hurricane in the West Pacific). It began to interact with a typohoon in the west Pacific, and thus cased it to dissipate.
+
+The following names were used for named storms that formed in the eastern Pacific in 1986. No names were retired, so it was used again in the 1992 season. This is the same list used for the 1980 season. Storms were named Orlene, Paine, and Roslyn for the first time in 1986, although Orlene had been used on the old four-year lists. No central Pacific names were used; the first name used would have been Oka. Names that were not assigned are marked in gray.
+
+1985 Pacific hurricane seasonThe 1985 Pacific hurricane season was an event in tropical cyclone meteorology. It officially started on May 15, 1985 in the eastern Pacific, and on June 1, 1985 in the central Pacific, and lasted until November 30, 1985. These dates conventionally delimit the period of each year when most tropical cyclones form in the northeastern Pacific Ocean.
+
+At the time, the 1985 season was the most active on record in the eastern north Pacific (breaking a short-lived record set in 1983), with 25 tropical cyclones forming. Of those, 22 attained tropical storm intensity, 12 reaching hurricane intensity and 8 becoming major hurricanes by reaching Category 3 or higher on the Saffir-Simpson Scale. In addition, three additional systems formed in the central north Pacific, of which one became a hurricane and another became a typhoon before re-crossing the international dateline.
+
+Despite the activity, there were few notable systems this year. The only cyclone to make landfall was Hurricane Waldo, which caused damage in Mexico. Elsewhere, surf from Hurricane Pauline caused damage in Hawaii and either Pauline or the following system sank a sailing vessel.
+
+Hurricane Pauline caused heavy surf along the Big Island, which washed debris up onto roads. There was no damage reported. It threatened the islands enough to prompt a hurricane watch, which means winds of 74 mph or higher are possible during the next 36 hours. However, the hurricane turned away.
+
+Rick was the strongest storm of the season, and at the time had the second strongest winds recorded in a tropical cyclone in the Central Pacific. It may also have contributed to the sailing vessel being overdue.
+
+Terry was a powerful major hurricane that formed by the 15th of September. It became a major hurricane fours days later on the 19th, but it did not affect land while doing so. It eventually dissipated due to hostile conditions on the 24th, without ever impacting land.
+
+Tropical Depression Twenty Three-E formed from a disturbance on October 7. In an environment over warm waters (86 °F), it rapidly intensified, reaching Tropical Storm intensity the same day it formed. Waldo moved towards the Mexican coast. Just after peaking as a Category 2 hurricane on the hurricane scale, Waldo made landfall southwest of Culiacán. Waldo rapidly dissipated over land. Major damage, but no deaths were reported in Mexico. It was the season's lone landfall.
+
+The first recorded twenty-second storm of a season formed October 25. It strengthened into Tropical Storm Xina early October 27. Xina began to start tracing out a huge oblong loop beneath an anticyclone. Xina peaked as a minimal major hurricane on October 29. As it finished the loop and left the cover of the anticyclone, Xina started falling apart. Cool waters took their toll on the cyclone, and Xina dissipated on November 5.
+
+Had the list of names not been extended, Xina would have been named "Alpha" instead. However, the anticipated exhaustion of the old list was averted, meaning that the east Pacific has never exhausted its list. Xina stayed at sea, and no casualties or damages were reported.
+
+The following names were used for named storms that formed in the eastern Pacific in 1985. No names were retired, so it was used again in the 1991 season. The name "Dolores" was misspelled as "Delores" in 1991. This is the same list used for the 1979 season, except for the added names. Storms were named Kevin, Linda, Marty, Nora, Olaf, Pauline, Rick, Sandra, Terry, Vivian, Waldo, and Xina for the first time in 1985. Names that were not assigned are marked in gray.
+
+One name from the Central Pacific list was used – Nele. It was the first usage for this name. One storm, Typhoon Skip, formed in the central Pacific but did not receive a name until it reached the west Pacific, therefore only Nele was used from the central Pacific list.
+
+Later during the '80s, the added names were made a permanent part of the Eastern Pacific lists, and other names were added for even-numbered years.
+
+Had the names not been added, this season would have been the first Pacific or Atlantic hurricane season to exceed the list, and had to have used a Greek letter named storm. This would not occur until the 2005 Atlantic hurricane season, which saw an unprecedented 28 storms and 6 Greek names.
+
+Coordination geometryCoordination geometry is a way of showing how atoms are put in molecules. Molecules can be arranged different ways. They can be in a cube, a line, a triangle, a pyramid, or other shapes.
+
+TriclinicA triclinic crystal is shaped almost like a rectangle. It is slightly bent, though. Copper sulfate makes triclinic crystals. It is the least symmetric (meaning that both sides are not very similar).. In the triclinic system, the crystal is described by vectors of unequal length, as in the orthorhombic system.
+
+Crystal structureIn crystallography, the crystal structure is how the atoms (or ions or molecules) are arranged in a crystalline material. Crystals occur naturally from the way the chemical bonds of the atoms connect. Symmetric repeating patterns occur in 3-D space in the crystal.
+
+The crystal structure and symmetry cause many physical properties, such as cleavage (how the crystal splits) how it conducts electricity, and its optical properties..
+
+The crystal structure of a chemical is the shape of the crystal at the molecular level. There are several shapes of crystals. Sodium chloride is cubic. Copper sulfate is triclinic. Most things, even metals, have crystal structures. Some crystals fit more atoms in them than others, and these crystals usually weigh more.
+
+Each type of crystal structure has a unit cell, which is a small pattern of points that repeats through the whole crystal. For example, in a primitive cubic crystal, the unit cell is the eight corners of a cube. When many unit cells are next to each other, you get a crystal.
+
+Aliens of the DeepAliens of the Deep is a 2005 documentary movie, directed in part by James Cameron and filmed in the IMAX 3D format. It was produced by Walden Media and Buena Vista Pictures. Cameron worked with NASA scientists to explore the Mid-Ocean Ridges, under water chains of mountains in the Atlantic and Pacific oceans that are home to some of the planet's more unusual forms of life.
+
+Cameron joins up aboard the Russian research ship, "Akademik Mstislav Keldysh", with a group of NASA scientists, as well as some Russian marine biologists, to investigate ten hydrothermal vents in both the Atlantic and Pacific. The vents have their own unique ecosystem, which support diverse organisms such as giant tube worms, swarms of blind white crabs, and vast amounts of shrimp which are capable of "seeing" water that is heated by the vents. These creatures do not need sunlight like other organisms, and instead get their energy from the vents. They are able to survive in the superheated and sulfurous water. Because of this, the documentary suggests that this is what life beyond Earth might look like. As some alien ecosystems are likely to be a lot harsher than a typical terrestrial ecosystem, these exotic vents provide an insight into some of the forms that alien life might take.
+
+The documentary shows Cameron's passion for exploring the oceans, as well as his interest in extraterrestrial life. It also shows the technology used to reach such depths.
+
+The movie is similar to Cameron's earlier documentary, "Ghosts of the Abyss" (2003), which involves him journeying to the wreck of the RMS "Titanic". It too was filmed in the 3-D IMAX format.
+
+HazardA hazard is something that can be dangerous. Fire, Explosives and Fuel are all examples of hazards. Many chemicals can be a hazard. There are ways to get rid of hazardous things. There are different types of hazards; some can catch things on fire; some can burn skin; some can irritate the eyes, etc.
+
+The term 'hazard' is used in driving instruction, and in some traffic-related laws. It simply means 'something a motorist should notice and drive accordingly'. For example, children playing on the pavement (U.
+
+S. = sidewalk; Austr. = footpath) are a potential hazard. If any go into the actual road, then they are a real hazard, and motorist should do whatever is safe.
+
+Risk and Safety StatementsRisk and Safety Statements are codes that show the hazards of certain chemicals. There are certain R (risk) phrases and S (safety) phrases. For example, R34 states that the chemical may cause burns. S36 says to wear protective clothing.
+
+Okinawa PrefectureThe capital city is Naha which is on the island of Okinawa.
+
+Okinawa is a grouping of many islands along the border at the edge of the East China Sea and the Pacific Ocean from Kyūshū to Taiwan. It is the southernmost prefecture in Japan.
+
+Okinawa Prefecture has eleven cities. Okinawan names are in parentheses.
+
+These are the towns and villages in each district.
+
+National Parks are established in about 19% of the total land area of the prefecture."
+
+Naminouegū" was the chief Shinto shrine ("ichinomiya") of the Ryukyu Islands. In 1890, the shrine was recognized in the system of State Shinto. It is among the ranked, nationally significant shrines or which includes five sanctuaries.
+
+Gunma PrefectureIn the Meiji period, Gunma was created from land which was in Keno Province and Kōzuke Province.
+
+Gunma is in the northwestern part of the Kantō Plain. It is mostly mountainous.
+
+Gunma shares northern borders with Niigata Prefecture and Fukushima Prefecture. The prefecture's eastern border is shared with Tochigi Prefecture. To the west lies Nagano Prefecture. Saitama Prefecture is south of the prefecture.
+
+There are twelve cities in Gunma Prefecture:Towns and villages in each district:National Parks are established in about 14% of the total land area of the prefecture."
+
+Ichinomiyanukisaki jinja" is the chief Shinto shrines ("ichinomiya") in the prefecture.
+
+Kagoshima PrefectureKagoshima Prefecture is made from the old provinces of Ōsumi and Satsuma, including the northern part of the Ryukyu Islands.
+
+During the Sengoku period and Edo period, Ōsumi was controlled by the Shimazu clan of Satsuma.
+
+This region played a key role in the Meiji Restoration. Important historical figures from Kagoshima are Saigo Takamori and Tōgō Heihachirō.
+
+Kagoshima borders Kumamoto Prefecture and Miyazaki Prefecture. It is in the southern part of Kyushu facing the Pacific Ocean.
+
+National Parks are established in about 9% of the total land area of the prefecture."
+
+Kagoshima jinja", "Hirasaki jinja" and Nitta Hachiman-gū are the chief Shinto shrines ("ichinomiya") in the prefecture.
+
+Osaka PrefectureOsaka prefecture was created by merging the area of Kawachi Province, Izumi Province and Settsu Province.
+
+In 1994, the Kansai International Airport opened. This is one of the main international airport hubs of Japan.
+
+Osaka Prefecture has borders with Hyōgo Prefecture and Kyoto Prefecture in the north. Nara is east of Osaka. Wakayama Prefecture shares the prefecture's southern border. The west faces Osaka Bay.
+
+The flows through the prefecture.
+
+Thirty-three cities are located in Osaka Prefecture:National Parks are established in about 11% of the total land area of the prefecture."
+
+Hiraoka jinja", "Ōtori jina", and "Sumiyoshi taisha" are the chief Shinto shrines ("ichinomiya") in the prefecture.
+
+Convention on the Elimination of All Forms of Discrimination against Women

@@ -1,0 +1,301 @@
+It uses the aforementioned appellation in order to distinguish itself from its better known splinter group, the Communist Party of the Philippines.
+
+It uses the Allentown zip code of 18104.
+
+It uses the Allwinner SoC (system on chip) and as such is mostly covered by the linux-sunxi port.
+
+It uses the AMD X399 chipset.
+
+It uses the Anna Nickel 1-m telescope at the Lick Observatory, situated on the summit of Mount Hamilton, east of San Jose, California, USA.
+
+It uses the applique technique.
+
+It uses the ARM Cortex-M 32-bit RISC ARM processor core as a 32-bit ARM-microcontroller.
+
+It uses the assumptions of Ueli Maurer's bounded-storage model as the basis of its secrecy.
+
+It uses the assumption that good game-specific move ordering causes a program to search the most likely moves early.
+
+It uses theater seats which tilt forward, backward, and to the side in synchronization with onscreen motion, as well as air blasts, tactile effects, and other technology.
+
+It uses the auto-tune effect in several lines, as well as Jock Jams-esque sports arena chanting.
+
+It uses the bar-lines found in conventional musical scores to indicate durational periods during which performers, who may include actors, singers, dancers, poets as well as musicians, are given instructions, which may include conventional musical scoring or improvisational guidelines (see: musical improvisation).
+
+It uses the basic xD-Picture Card manufactured by Olympus.
+
+It uses the Battelsystem ruleset for large scale battles.
+
+It uses the Bing search engine.
+
+It uses the Blink layout engine.
+
+It uses the block cipher output block to form the block cipher key of the next round, thereby creating a keystream generator that can be used as a synchronous stream cipher.
+
+It uses the BOINC volunteer computing platform (a form of distributed computing, similar to SETI@home).
+
+It uses the Box2D Physics Engine, which allows objects created in a simple click and drag fashion to interact realistically.
+
+It uses the brand name Meme Mahangu to market some products.
+
+It uses the British curriculum for Nursery through Year 13.
+
+It uses the Bullet physics engine.
+
+It uses the Cabal library together with (by default) a curated version of the Hackage repository.
+
+It uses the CATH database as a source of structures for each protein and reports the range of differences in the structures based on their superposition and reports a maximum RMSD.
+
+It uses the chalky water of the local Chiltern Hills, which has high levels of minerals and salts.
+
+It uses the chanson N'aray je jamais mieulx by Robert Morton as the source of its cantus firmus, and also contains unique visual and musical references to dice.
+
+It uses the classic family sitcom formula to change perceptions of Muslims.
+
+It uses the coLinux kernel to run, Xming to run X Window, PulseAudio for sound, and has the option of either using a stripped down version of KDE or Xfce.
+
+It uses the color, shape, texture and size of objects as well as their context and relationships to draw conclusions and inferences, similar to a human analyst.
+
+It uses the combined efforts of hundreds of ordered monks and thousands of householder disciples.
+
+It uses the computer's cameras for "seeing" and microphones to "listen" as the inputs.
+
+It uses the concepts of classes, objects, and inheritance.
+
+It uses the Core Data API to store information internally but can import and export to the genealogy standard GEDCOM format.
+
+It uses the C# programming language to develop applications for WinForms and ASP.
+
+NET.
+
+It uses the Creative Commons copyright.
+
+It uses the ctl mechanism to join differing time group data sets.
+
+It uses the curriculum of Queensland, Australia.
+
+It uses the d20 Modern rules.
+
+It uses the Dark Alliance Engine.
+
+It uses the DBGp debugging protocol.
+
+It uses the device mapper and dm-crypt infrastructure to provide transparent encryption of file systems stored in disk partitions or within ordinary files.
+
+It uses the digits 0, 1, 2 and 3 to represent any real number.
+
+It uses the double wishbones from the Lada Niva and a 5.
+
+7 liter Chevrolet engine and transmission and steering rod from Ford Scorpio.
+
+It uses the Drums zip code of 18222.
+
+It uses the DS's touch screen as the primary controller for maneuvering the monkey around the level, although D-pad control is also supported.
+
+It uses the Easton zip code of 18040.
+
+It uses the EE network via an MVNO agreement signed in March 2014 as well as using the spectrum BT won in the 2013's 4G auction.
+
+It uses the EGO Engine.
+
+It uses the Emmaus zip code of 18049.
+
+It uses the EMV chip and PIN system and may be co-branded with various national debit card schemes such as the German Girocard or Italy's PagoBancomat.
+
+It uses the energy that is stored in the electrochemical gradient of sodium (Na+) by allowing Na+ to flow down its gradient across the plasma membrane in exchange for the countertransport of calcium ions (Ca2+).
+
+It uses the Euphoria game engine, that determines animations dynamically rather than depending on canned animations.
+
+It uses the existing Domain Name System to allow the connected radio receiver to look up web resources based on their broadcast parameters, such as the station identifier received within the broadcast signal.
+
+It uses the existing Eclipse Web Tools Project to provide developers with PHP capabilities.
+
+It uses the extended SMTP command ATRN, similar to the ETRN command but available for dynamically assigned IP addresses.
+
+It uses the famous name of the Odeon cinema circuit first introduced in Britain in 1930.
+
+It uses the file extension .
+
+dfont.
+
+It uses the file extension FCW for its files.
+
+It uses the four-note system of notation pioneered by William Little and William Smith.
+
+It uses the framework of A Christmas Carol but moves the setting of the story from Christmas to Independence Day.
+
+It uses the Fujifilm X-mount and is a successor to the Fujifilm X-T1.
+
+It uses the Fujifilm X-mount and is a successor to the Fujifilm X-T2.
+
+It uses the Fuzion role-playing system, and is called Artesia: Adventures in the Known World.
+
+It uses the gas volume measured by the gas meter in measuring conditions and other parameters such as gas pressure and temperature.
+
+It uses the Gecko 1.
+
+9.
+
+2 engine (compared to 1.
+
+9.
+
+1 in FF 3.
+
+5), which improves compliance with web standards.
+
+It uses the GNOME 3 desktop environment by default but it can also employ the Cinnamon, MATE, KDE Plasma 5, Deepin, and Xfce desktops.
+
+It uses the GNOME desktop environment (also Ubuntu Unity user interface is included since 2011) and is distributed as an installable Live CD.
+
+It uses the GNU Parted libraries and is built with the Qt toolkit.
+
+It uses the GoldSrc engine, but has some unique gimmicks added to it that cannot (or rarely) be found in other modifications.
+
+It uses the Go standard library for its HTTP functionality.
+
+It uses the Graphics Device Interface to display the calculated orbit as it progresses.
+
+It uses the GTK+ toolkit.
+
+It uses the H.
+
+323 protocol for videoconferencing, and is interoperable with OpenH323-based clients such as Ekiga, OpenH323, and Internet Locator Service (ILS) as reflector.
+
+It uses the historical texts Records of the Grand Historian and Book of Han as its source material.
+
+It uses the historical trial of the liberal Mughal prince Dara Shikoh by his brother Aurangzeb as an allegory for the state of Pakistan at the time of the 1998 nuclear tests.
+
+It uses the HTTP protocol.
+
+It uses the human DNA sequence to develop protein and antibody drugs.
+
+It uses the hydraulic equivalent of a mechanical lever, and was also known as a Bramah press after the inventor, Joseph Bramah, of England.
+
+It uses the idea of system integration to create an environment for engineers.
+
+It uses the id Tech 3 game engine and is set in the fictional universe of Iron Grip.
+
+It uses the Internet to send one-to-one and group messages, which can include files, voice notes, images and videos, and make one-to-one voice and video calls.
+
+It uses the IUCN and CBD definitions of protected areas to determine whether a site should be included in the WDPA.
+
+It uses the JEL classification codes for classifying papers by subject.
+
+It uses the kernel of FreeBSD combined with a GNU based userland and glibc.
+
+It uses the King James Version of the Bible and worshippers sing psalms, hymns and paraphrases without musical accompaniment.
+
+It uses the Klingerstown, Pennsylvania ZIP Code of 17941.
+
+It uses the LaTeX library to render equations and symbols, then Sprites to optimize the delivery of images to the page.
+
+It uses the Lehighton ZIP code of 18235.
+
+It uses the LGPL.
+
+It uses the libgda generic database API, so it can use MySQL, Postgres, Sqlite, etc.
+
+It uses the linear predictive coding algorithm LPC-10 at 2.
+
+4 kilobits/second.
+
+It uses the linear predictive coding algorithm LPC-10 at 2.
+
+4 kilobits/second to digitize voice, and the "Key Distribution Center" (KDC) for key management.
+
+It uses the LLVM compiler infrastructure to compile Python to CPU and GPU machine code.
+
+It uses the ll with diaeresis centered over the letters.
+
+It uses the Loongson I (Longxin) CPU.
+
+It uses the Lua scripting language.
+
+It uses the Lucene Java search library at its core for full-text indexing and search, and has REST-like HTTP/XML and JSON APIs that make it usable from most popular programming languages.
+
+It uses the M8A1 scabbard.
+
+It uses the Mahanoy City zip code of 17948.
+
+It uses the mailing addresses of nearby Sharpsburg and Newnan.
+
+It uses the main riff from the David Bowie song "Fame", released earlier the same year.
+
+It uses the Markovian model results, in conjunction with a simulation model, to predict future conditions and recommend work.
+
+It uses the Matchbox window manager and the GTK-based Hildon framework as its GUI and application framework.
+
+It uses the Mediabase Country Singles chart as its source.
+
+It uses the melodic and main rhythmic structures of traditional Akan music, but is played with Western instruments.
+
+It uses themes and characters from fairy tales, including Cinderella, Little Red Riding Hood, Rapunzel, Snow White, Sleeping Beauty, and Goldilocks.
+
+It uses the messaging assets that IBM acquired from Outblaze, a Hong Kong-based online application service provider.
+
+It uses the MiKTeX or TeX Live distributions.
+
+It uses the Montagu and Outeniqua courses as well as The Links for the first three rounds, with the final round played on the Montagu course.
+
+It uses the MooTools library internally to manipulate user interface elements.
+
+It uses the MPICH2 platform and normal 10-T gigabit ethernet.
+
+It uses the MPI standard for parallelization.
+
+It uses the Multimedia Class Scheduler Service (MMCSS), a new service that prioritizes real time multimedia processing, to reserve the resources required for the playback, without any tearing or glitches.
+
+It uses the MySQL database (version 4 or higher).
+
+It uses the native HTMLMediaElement properties, methods and events, normalizes them into an API, and provides a plugin system.
+
+It uses the natural tensile or compressive strength of the metal the ring is made of, usually surgical stainless steel, niobium, or titanium, to hold the bead tightly in place.
+
+It uses the NES Zapper light gun and is a capture the flag-style game played with paintball guns loaded with simulated paintballs.
+
+It uses the NES Zapper to destroy ships and gain powerups.
+
+It uses the new Security Support Provider, CredSSP, which is available through SSPI in Windows Vista.
+
+It uses the Nikon F mount.
+
+It uses the official chart produced by the Recording Industry Association of New Zealand.
+
+It uses the "One MacBook per student" educational philosophy, and is affiliated with Kikokushijo Academy in Setagaya.
+
+It uses the open source Android operating system (OS).
+
+It uses the OpenSSL encryption library extensively, as well as the TLS protocol, and contains many security and control features.
+
+It uses the OpenStreetMap (OSM) map database for its primary displays, but is an independent app and not endorsed by the OpenStreetMap Foundation.
+
+It uses the Openwave web browser.
+
+It uses the "Orbit Reconstruction, Simulation and Analysis" framework to optimize the search strategies that are used to find near-Earth objects.
+
+It uses the original high school building at the corner of Main (NY 207) and Erie streets, just across from the Harness Racing Museum & Hall of Fame and next to the Orange County Government Center, as its main offices.
+
+It uses the Paasche Index Formula.
+
+It uses the parameter of labor intensity to figure out the distinctive characteristics of a service.
+
+It uses the Parsec compiler to compile the simulation protocols.
+
+It uses the peer review as an evaluation system.
+
+It uses the Pentax K mount.
+
+It uses the phone's camera to allow the user to shoot photographs, to which it applies a number of software filters to make the images look as though they were taken with a vintage film camera.
+
+It uses the pilot-link libraries to communicate with Palm devices.
+
+It uses the Piper Navajo for this purpose.
+
+It uses the Pittston zip code of 18640.
+
+It uses the Pixi.
+
+js library for rendering.
+
+It uses the Plan 9 network file protocol, 9P, rather than a special-purpose IPC mechanism.

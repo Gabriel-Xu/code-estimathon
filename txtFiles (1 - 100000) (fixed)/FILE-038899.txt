@@ -1,0 +1,23 @@
+In computer science, pattern-directed invocation programming languages are programming languages in which procedures are invoked indirectly by specifying a pattern for a set of procedures as opposed to specifying one directly by name, pointer, URL, etc.
+
+In computer science, pattern matching is the act of checking a given sequence of tokens for the presence of the constituents of some pattern.
+
+In computer science, Performance Application Programming Interface (PAPI) is a portable interface (in the form of a library) to hardware performance counters on modern microprocessors.
+
+In computer science, persistence refers to the characteristic of state that outlives the process that created it.
+
+In computer science, persistent memory is any method or apparatus for efficiently storing data structures such that they can continue to be accessed using memory instructions or memory APIs even after the end of the process that created or last modified them.
+
+In computer science, pointer swizzling is the conversion of references based on name or position to direct pointer references.
+
+In computer science, predication is an architectural feature that provides an alternative to conditional branch instructions.
+
+In computer science, "priority inversion" is a problematic scenario in scheduling in which a high priority task is indirectly preempted by a lower priority task effectively "inverting" the relative priorities of the two tasks.
+
+In computer science, program derivation is the derivation of a program from its specification, by mathematical means.
+
+In computer science, programming by demonstration (PbD) is an end-user development technique for teaching a computer or a robot new behaviors by demonstrating the task to transfer directly instead of programming it through machine commands.
+
+In computer science, programming by example (PbE), also termed programming by demonstration or more generally as demonstrational programming, is an end-user development technique for teaching a computer new behavior by demonstrating actions on concrete examples.
+
+In computer science, program optimization or software optimization is the process of modifying a software system to make some aspect of it work more efficiently or use fewer resources.

@@ -1,0 +1,7 @@
+Living things are made of millions of tiny self-contained components called cells. Inside each cell are long and complex molecules called deoxyribonucleic acid, known for short as DNA. Some DNA stores information for making proteins. The bits of DNA which do this are known as genes. People look different from each other mainly because they have different versions of the human set of genes.
+
+However, a large part of DNA (more than 98% for humans) is non-coding DNA. These sections do not serve as patterns for protein sequences. What it does is code for important non-protein information. Examples are various important RNA molecules, and "scaffolding" bits and pieces like centromeres and telomeres.
+
+Every cell in the same living thing has the same DNA, but only some of it is used in each cell. For instance, some genes that tell how to make parts of the liver are switched off in the brain. What genes are used can also change over time. For instance, a lot of genes are used by a child early in pregnancy that are not used later.
+
+A person has two copies of each gene, one from their mother, and one from their father. There can be several types of a single gene, which give different instructions: one version might cause a person to have blue eyes, another might cause them to have brown. These different versions are known as "alleles" of the gene.

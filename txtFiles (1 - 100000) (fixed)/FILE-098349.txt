@@ -1,0 +1,115 @@
+Materials and Methods We compiled and analyzed data from 47 lion populations representing the best available knowledge of the species from the past two decades (23, 25) (Dataset S1). Population estimates were obtained by diverse methods, including total count, individual identifications, total or sample inventory using calling stations, radio telemetry, photo databases, transects, spoor counts, and density estimates based on direct observations corrected for patrol effort (20, 22, 24, 38). We excluded population estimates that were based on extrapolation of lion densities in adjacent areas and unpublished guesstimates by experts. There is a wide discrepancy between populations regarding the intensity of monitoring: some have only been monitored two times during the period of our study, others have been monitored more regularly, and a few are monitored annually. We used a Bayesian state space model to estimate the growth rate-λ of each population (39). Theoretically, a hierarchical approach could be used to explain the growth rate of each population with hyperparameters (40, 41) describing, for example, broad geographic location (southern, East, or West Central Africa), human population density, whether the reserve is fenced, conservation efforts, or governance scores (23). What is often referred to as “borrowing strength” by modeling parameters in the data model as random variables at the group level drawn from a hyper-distribution would allow a more informative posterior parameter estimate than a separate analysis of each dataset (42⇓–44). However this approach was ill suited for this analysis, because populations were not exchangeable since populations with small amounts of data were not random draws from the overall distribution of lambda (Fig. S1): growing populations are well-monitored, whereas declining populations are often poorly monitored. Two-thirds of the populations that are missing more than one-half of the data are declining, whereas two-thirds of the populations missing less than one-half of the data are increasing. Thus, a posthoc analysis confirmed that posterior median estimates of population growth rates were positively correlated with the number of years of data in each time series (P < 0.
+
+05). A hierarchical approach would, therefore, bias the posterior estimates of growth rate toward the information-rich growing populations and thus, provide spurious inferences about overall population dynamics, because the model would attempt to fit the data from the declining populations by increasing individual random effects without capturing any biological mechanisms. Our process model assumes that true population size at time t (N t ) follows a log-normal distribution of the deterministic prediction of the median population size at time t (μ t ) with a stochastic process error on the log scale-σ proc . The deterministic prediction results from exponential growth with rate-λ: { μ t = log ( λ ⋅ N t − 1 ) N t ∼ log normal ( μ t , σ proc ) . We link this process model to census data with an observation model, where the count of lions at time t (Nobs t ) is Poisson-distributed, with mean-ψ t itself drawn from a Gamma-distribution with mean equal to the prediction of the process model and an SD for observation error σ Nobs . This hierarchical formulation allows the uncertainty in the data to exceed the variance of the Poisson parameter-ψ t (45): { α t = N t 2 σ N obs 2 β t = N t σ N obs 2 ψ t ∼ Γ ( α t , β t ) N obs t ∼ Poisson ( ψ t ) . For each population, we ran six Monte Carlo Markov Chains (100,000 iterations thinning by 10 after adapting and updating for 50,000 iterations) with JAGS (46) and R (47) and checked convergence (48). Forty-seven unweighted posterior density distributions of growth rate (one per population) were summed across three sets to provide geographic conservation-relevant estimates of demographic trends. The four African regions defined by the IUCN regional lion conservation strategies (33, 34) constituted three sets after we lumped West and Central Africa because of similar genetic characteristics and conservation threats. We estimated the projected probability of decline over T years by 33% [ p 0.
+
+33 T = P ( λ T < 0.
+
+67 ) ] and 50% [ p 0.
+
+5 T = P ( λ T < 0.
+
+5 ) ] for each population (without making inferences on true population size N), with T equal to 5, 10, 20, or 30 y. Because the IUCN Red List mandates an appraisal of species’ population trends over the longer time period of three generation lengths (GLs) or 10 y (49), we also calculated p 0.
+
+33 T and p 0.
+
+50 T , where T = 3 × GL. GL = 7 is defined by GL = R span × Z + age of first reproduction, where age of first reproduction is 3.
+
+5 y (50), R span = 12 [the number of years that females are reproductive (50)], and Z = 0.
+
+29 [a constant calculated as the slope of the linear regression between GL and R span for 221 mammalian species (51)] as recommended by the IUCN. Two populations are presented separately from any grouping: the Gir populations in India and Niassa Reserve in Mozambique, which is considered an outlier (Discussion).
+
+Acknowledgments We acknowledge the contribution of E. Sogbohossou, M. Hoffmann, C. Breitenmoser-Wursten, U. Breitenmoser, M. Becker, B. Croes, S. Dell, M. Dricuru, R. Groom, A. Loveridge, S. Miller, L. Petracca, A. Battistoni, H. Robinson, T. Tende, P. Trethowan, P. Tumenta, M. Venktraman, P. White, L. Bertola, C. Winterbach, C. Hilton-Taylor, H. Andrén, and F. Chiozza. The maps benefited from the Geographical Information System expertise of Michelle Moeller.
+
+Footnotes Author contributions: H.
+
+B., G.
+
+C., K.
+
+N., P.
+
+H., P.
+
+F., and C.
+
+P. designed research; H.
+
+B., G.
+
+C., K.
+
+N., P.
+
+H., P.
+
+F., L.
+
+T.
+
+B.
+
+H., D.
+
+W.
+
+M., and C.
+
+P. performed research; G.
+
+C. and C.
+
+P. contributed new reagents/analytic tools; H.
+
+B., G.
+
+C., K.
+
+N., P.
+
+H., P.
+
+F., and C.
+
+P. analyzed data; and H.
+
+B., G.
+
+C., K.
+
+N., P.
+
+H., P.
+
+F., L.
+
+T.
+
+B.
+
+H., D.
+
+W.
+
+M., and C.
+
+P. wrote the paper.
+
+The authors declare no conflict of interest.
+
+This article is a PNAS Direct Submission. C.
+
+C. is a guest editor invited by the Editorial Board.
+
+See Commentary on page 14753.
+
+This article contains supporting information online at www.
+
+pnas.
+
+org/lookup/suppl/doi:10.
+
+1073/pnas.
+
+1500664112/-/DCSupplemental. ||||| Photo Advertisement Continue reading the main storyFive months after a lion named Cecil was shot and killed in Zimbabwe by a Minnesota dentist, the Obama administration has decided to place lions in Africa under the protection of the Endangered Species Act, an action that will set a higher bar for hunters who want to bring lion trophies into the United States.
+
+Lions in central and West Africa will be listed as endangered, according to the Fish and Wildlife Service, which announced the change on Monday. Lions in southern and East Africa will be classified as threatened, with a special rule that prods countries to regulate sport hunting of lions in ways that promote conservation.

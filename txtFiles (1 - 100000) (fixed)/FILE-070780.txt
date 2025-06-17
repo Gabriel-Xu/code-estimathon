@@ -1,0 +1,135 @@
+The game uses a set of algorithms developed by Jordan Fisher to create procedurally generated levels that can be adaptive to player skill level, in game character abilities, and alteration of game physics.
+
+The game uses a similar game engine to Westwood's Command & Conquer: Red Alert.
+
+The game uses a strategic map screen of Arulco where player may issue high level strategic orders for their troops, such as traveling or prolonged training.
+
+The game uses a third-person view and can be played in 3D.
+
+Silent Hill: Downpour received mixed reviews from gaming critics.
+
+The game uses a variety of motions enabled by mobile device touchscreens to simulate actions in real life, such as looking around the device, turning keys, and activating switches.
+
+The game uses basic puzzles to reinforce pieces of Florence's life as players progress through her story.
+
+The game uses both a browser game and a downloadable real-time strategy client.
+
+The game uses both free-to-play and freemium models and is supported by micropayments, which can be used to purchase heroes, visual alterations for the heroes in the game, and mounts.
+
+The game uses both screens, as well as the touch capabilities.
+
+The game uses built-in features of iOS, such as the touch keyboard, and was released simultaneously with iOS version 5, incorporating new features such as cloud storage via iCloud to play the game across multiple devices.
+
+The game uses button mashing as the main part of gameplay, but in three events it isn't used (archery, diving) or is slow-paced (swimming).
+
+The game uses Canadian football rules, but is not officially licensed by either the Canadian Football League or the players' association.
+
+The game uses cards based on Capcom and SNK characters from a variety of earlier games.
+
+The game uses cel shaded graphics.
+
+The game uses cel shading to mimic the distinctive style of the original.
+
+The game uses CGA graphics based on the FAST (Fluid Animation Software Technology) engine.
+
+The game uses colorful double-sided triangular playing tiles called trangs.
+
+The game uses dedicated multiplayer servers.
+
+The game uses different physics and AI for three kinds of racing.
+
+The game uses elements from The Sims 2: Seasons and The Sims 3: Seasons.
+
+The game uses elements of Steampunk and Noir fiction mixed with Fantasy elements.
+
+The game uses elements of the film Congo to tell a side story following the exploits of Butembo Kabalo (played by Steven Anthony Jones), the only survivor of the first Travicom expedition in search of diamonds in the Congo jungle.
+
+The game uses Epic Games' Unreal Engine.
+
+The game uses full motion capture actors to record the voices and movements of the characters.
+
+The game uses "geopolitical maps from National Geographic for more than 50 countries".
+
+The game uses Howard Shore's score to the films as its soundtrack.
+
+The game uses motion capture to replicate the cast's movements.
+
+The game uses multiple smartphone or tablet devices, connected via wifi or bluetooth, to enter a shared game of up to two to four players.
+
+The game uses new age messages throughout its soundtrack.
+
+The game uses officers that have special abilities that help the player.
+
+The game uses one deck and the object is to clear three peaks made up of cards.
+
+The game uses Origin's RealSpace engine, which was first used in their earlier flight simulator Strike Commander.
+
+The game uses Palladium's Megaversal system, which is also used by the multi-genre game Rifts and the horror game Beyond the Supernatural, among others.
+
+The game uses password save.
+
+The game uses passwords to track progress.
+
+The game uses "player projection" technology to capture the player's shape and form, dynamically incorporate them into the in-game environment, and tailor routines for the player.
+
+The game uses playing cards and Poker mechanics to resolve scenes and situations.
+
+The game uses QuickTime VR-like panoramas in a first person camera mode.
+
+The game uses raster graphics, rather than vector graphics which were used for the first and third Atari arcade games based on the Star Wars franchise.
+
+The game uses realistic 2-dimensional physics for both space and atmospheric travel, affecting both the movement of ships and player-fired weaponry.
+
+The game uses Saber Interactive's internal Saber3D Engine.
+
+The game uses short video clips from the movies and a number of the voice actors, including the hobbits and wizards.
+
+The game uses similar mechanics to The Simpsons: Tapped Out, with the addition of space missions and arcade-style combat fights.
+
+The game uses simple pixel art and 8-bit sound to replicate the style of 1980s arcade games.
+
+The game uses six twelve-sided dice.
+
+The game uses stealth mechanics inspired by Metal Gear Solid, allowing the player to plan courses of action to work through levels without being detected by guards, dogs, and automated security turrets to reach specific objectives.
+
+The game uses Steppenwolf's "Born to Be Wild" as its theme song.
+
+The game uses TAGES, and therefore installs a driver on the system for copy protection.
+
+The game uses text, images and sounds to guide the player through a set of puzzles, which the in-game protagonist, Anna, needs to solve to escape from an unknown island.
+
+The game uses the AGDS Engine.
+
+The game uses the Amiga's AGA display.
+
+The game uses the built-in MIDI ports on the Atari ST for networking.
+
+The game uses the camera to allow a virtual pet to interact with people and objects in the real world.
+
+The game uses the conventional rules of chess with the addition that when a piece is attacked by a piece of the same type but opposite color (for example, a black queen attacking a white queen) it is paralyzed and becomes unable to move, capture or give check.
+
+The game uses the d20 System and Dungeons and Dragons 3.
+
+5 edition rules.
+
+The game uses the Dungeons & Dragons license, and is set in the fictional world of Mystara.
+
+The game uses the Earthrise Engine, an engine that was to be used for the canceled Fallout Online.
+
+The game uses the engine's PS2 games and somehow for older PES engine.
+
+The game uses the following rule variations: Each suit consists of ten cards, except for trumps, which has twelve.
+
+The game uses the free-to-play and micropayment business model, similar to its predecessor.
+
+The game uses the free-to-play business model, where players can download and play the game for free.
+
+The game uses the Gamebryo engine.
+
+The game uses the Genie Engine, a 2D sprite-based game engine.
+
+The game uses the hand rankings from Brag.
+
+The game uses the Havok 2 physics engine, featuring realistic manipulation of objects in the game environment and ragdoll physics.
+
+The game uses the id Tech 3.

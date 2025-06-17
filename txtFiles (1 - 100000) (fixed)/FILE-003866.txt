@@ -1,0 +1,115 @@
+Traditionally slide rules were made out of hard wood such as mahogany or boxwood with cursors of glass and metal. At least one high precision instrument was made of steel.
+
+In 1895, a Japanese firm, Hemmi, started to make slide rules from bamboo, which had the advantages of being dimensionally stable, strong and naturally self-lubricating. These bamboo slide rules were introduced in Sweden in September, 1933 , and probably only a little earlier in Germany. Scales were made of celluloid or plastic. Later slide rules were made of plastic, or aluminum painted with plastic. Later cursors were acrylics or polycarbonates sliding on Teflon bearings.
+
+The best slide rules had numbers and scales engraved, and then filled with paint or other resin. Painted or imprinted slide rules were viewed as inferior because the markings could wear off. Nevertheless, Pickett, probably America's most successful slide rule company, made all printed scales. Premium slide rules included clever catches so the rule would not fall apart by accident, and bumpers to protect the scales and cursor from rubbing on tabletops. The recommended cleaning method for engraved markings is to scrub lightly with steel-wool. For painted slide rules, and the faint of heart, use diluted commercial window-cleaning fluid and a soft cloth.
+
+The slide rule was invented around 1620–1630, shortly after John Napier's publication of the concept of the logarithm. Edmund Gunter of Oxford developed a calculating device with a single logarithmic scale, which, with additional measuring tools, could be used to multiply and divide. The first description of this scale was published in Paris in 1624 by Edmund Wingate (c. 1593 – 1656), an English mathematician, in a book entitled "“L'usage de la reigle de proportion en l'arithmetique & geometrie”." The book contains a double scale on one side of which is a logarithmic scale and on the other a tabular scale. In 1630, William Oughtred of Cambridge invented a circular slide rule, and in 1632 he combined two Gunter rules, held together with the hands, to make a device that is recognizably the modern slide rule. Like his contemporary at Cambridge, Isaac Newton, Oughtred taught his ideas privately to his students, but delayed in publishing them, and like Newton, he became involved in a vitriolic controversy over priority, with his one-time student Richard Delamain and the prior claims of Wingate. Oughtred's ideas were only made public in publications of his student William Forster in 1632 and 1653.
+
+In 1677, Henry Coggeshall created a two-foot folding rule for timber measure, called the Coggeshall slide rule. His design and uses for the tool gave the slide rule purpose outside of mathematical inquiry.
+
+In 1722, Warner introduced the two- and three-decade scales, and in 1755 Everard included an inverted scale; a slide rule containing all of these scales is usually known as a "polyphase" rule.
+
+In 1815, Peter Roget invented the log log slide rule, which included a scale displaying the logarithm of the logarithm. This allowed the user to directly perform calculations involving roots and exponents. This was especially useful for fractional powers.
+
+The more modern form was created in 1859 by French artillery lieutenant Amédée Mannheim, "who was fortunate in having his rule made by a firm of national reputation and in having it adopted by the French Artillery." It was around that time, as engineering became a recognized professional activity, that slide rules came into wide use in Europe. They did not become common in the United States until 1881, when Edwin Thacher introduced a cylindrical rule there. The duplex rule was invented by William Cox in 1891, and was produced by Keuffel and Esser Co. of New York.
+
+Astronomical work also required fine computations, and in 19th century Germany a steel slide rule about 2 meters long was used at one observatory. It had a microscope attached, giving it accuracy to six decimal places.
+
+In World War II, bombardiers and navigators who required quick calculations often used specialized slide rules. One office of the U.
+
+S. Navy actually designed a generic slide rule "chassis" with an aluminum body and plastic cursor into which celluloid cards (printed on both sides) could be placed for special calculations. The process was invented to calculate range, fuel use and altitude for aircraft, and then adapted to many other purposes.
+
+Throughout the 1950s and 1960s the slide rule was the symbol of the engineer's profession (in the same way that the stethoscope symbolizes the medical profession). German rocket scientist Wernher von Braun brought two 1930s vintage "Nestler" slide rules with him when he moved to the U.
+
+S. after World War II to work on the American space program. Throughout his life he never used any other pocket calculating devices. Slide rules served him perfectly well for making quick estimates of rocket design parameters and other figures. Aluminum Pickett-brand slide rules were carried on five Apollo space missions, including to the moon, according to advertising on Pickett's N600 slide rule boxes .
+
+Some engineering students and engineers carried ten-inch slide rules in belt holsters, and even into the mid 1970s this was a common sight on campuses. Students also might keep a ten-or twenty-inch rule for precision work at home or the office while carrying a five-inch pocket slide rule around with them.
+
+In 2004, education researchers David B. Sher and Dean C. Nataro conceived a new type of slide rule based on "prosthaphaeresis", an algorithm for rapidly computing products that predates logarithms. There has been little practical interest in constructing one beyond the initial prototype, however.
+
+The importance of the slide rule began to diminish as electronic computers, a new but very scarce resource in the 1950s, became widely available to technical workers during the 1960s. The introduction of Fortran in 1957 made computers practical for solving modest size mathematical problems. IBM introduced a series of more affordable computers, the IBM 650 (1954), IBM 1620 (1959), IBM 1130 (1965) addressed to the science and engineering market. John Kemeny's BASIC programming language (1964) made it easy for students to use computers. The DEC PDP-8 minicomputer was introduced in 1965.
+
+Computers also changed the nature of calculation. With slide rules, there was a great emphasis on working the algebra to get expressions into the most computable form. Users of slide rules would simply approximate or drop small terms to simplify the calculation. Fortran allowed complicated formulas to be typed in from textbooks without the effort of reformulation. Numerical integration was often easier than trying to find closed form solutions for difficult problems. The young engineer asking for computer time to solve a problem that could have been done by a few swipes on the slide rule became a humorous cliché. Many computer centers had a framed slide rule hung on a wall with the note "In case of emergency, break glass."
+
+Another step toward the replacement of slide rules with electronics was the development of electronic calculators for scientific and engineering use. The first included the Wang Laboratories LOCI-2, introduced in 1965, which used logarithms for multiplication and division and the Hewlett-Packard HP-9100, introduced in 1968. The HP-9100 had trigonometric functions (sin, cos, tan) in addition to exponentials and logarithms. It used the CORDIC (coordinate rotation digital computer) algorithm, which allows for calculation of trigonometric functions using only shift and add operations. This method helped the development of ever smaller scientific calculators.
+
+The last nail in the coffin for the slide rule was the launch of pocket-sized scientific calculators. The 1972 Hewlett-Packard HP-35 was the first. Such calculators became known as "slide rule" calculators since they could perform most or all of the functions on a slide rule. At several hundred dollars, even this was considered expensive for most students. While professional slide rules could also be quite expensive, drug stores often sold basic plastic models for under $20 USD. But by 1975, basic four-function electronic calculators could be purchased for under $50. By 1976 the TI-30 offered a scientific calculator for under $25. The market for slide rules dried up quickly as small scientific calculators became affordable.
+
+One advantage of using a slide rule together with an electronic calculator is that an important calculation can be checked by doing it on both; because the two instruments are so different, there is little chance of making the same mistake twice.
+
+General information, history:How-to's:Emerson SheikMárcio Emerson Passos (born 6 December 1978) is a Brazilian-Qatari professional athlete. He is best known as a football player. He has played for Qatar national team.
+
+25||9||5||3||colspan="2"|-||2||0||32||12152||121||0||0||29||24||colspan="2"|-||181||14534||24||6||3||18||18||7||5||65||503||0||0||0||0||0||colspan="2"|-||3||00||0||0||0||0||0||0||0||0||0214||154||11||6||47||42||9||5||281||207!
+
+Total||1||0Albert NađAlbert Nađ (born 29 October 1974) is a former Serbian football player. He has played for Serbia national team.
+
+227||14142||37||0376||17!
+
+Total||44||3Hajime MoriyasuMoriyasu was born in Kakegawa on August 23, 1968. After graduating from Nagasaki Nihon University High School, he joined Japan Soccer League club Mazda (later "Sanfrecce Hiroshima") in 1987. In 1992, Japan Soccer League was folded and the club joined new league, J1 League. The club won the 2nd place in 1994 J1 League and 1995 and 1996 Emperor's Cup. In 1998, he moved to Kyoto Purple Sanga on loan. In 1999, he returned to Sanfrecce. He played 271 matches and scored 34 goals for the club until 2001. In 2002, he moved to newly was promoted to J1 League club, Vegalta Sendai. He retired end of 2003 season.
+
+On May 31, 1992, Moriyasu debuted for the Japan national team against Argentina. In 1992, he was selected the Japan for 1992 Asian Cup which held in Japan and Japan team won the champions. In 1993, he played at 1994 World Cup qualification in Doha. However Japan failed to qualify for the 1994 World Cup. It was known as the "Agony of Doha" () in Japan. He played 35 games and scored 1 goals for Japan until 1996.
+
+After the retirement, Moriyasu started coaching career at Sanfrecce Hiroshima in 2004. In 2007, he became an assistant coach for the top team. In 2010, he moved to Albirex Niigata. In 2012, he returned to Sanfrecce and became a manager. The club won the J1 League champions in 2012, 2013 and 2015. However the club results were bad in the 2017 season and he resigned in July. In October, he became a manager for Japan U-23 national team. In April 2018, he also became an assistant coach under the manager Akira Nishino for Japan national team. After the 2018 World Cup, Moriyasu became a new manager as Nishino successor. In 2019, Japan won the 2nd place at 2019 Asian Cup.
+
+357||40||25||1||52||7||434||48357||40||25||1||52||7||434||48!
+
+Total||35||1Rahman RezaeiRahman Rezaei (born 20 February 1975) is an Iranian football player. He has played for Iran national team.
+
+166||813||013||0179||8!
+
+Total||54||3Muhsin MusabahMuhsin Musabah (born 1 October 1964) is a former United Arab Emirati football player. He has played for United Arab Emirates national team.!
+
+Total||105||0Juan Sebastián VerónJuan Sebastián Verón (born 9 March 1975) is an Argentine football player. He plays for Estudiantes La Plata and Argentina national team.
+
+Claudio LópezClaudio López (born 17 July, 1974) is a former Argentine football player. He has played for Argentina national team.
+
+ValenciaLazioAméricaColorado RapidsArgentinaWagner LopesLopes was born in Franca, Brazil on January 29, 1969. He moved to Japan and signed with Japan Soccer League club Nissan Motors in 1987. From 1988 to 1990, the club won all three major title in Japan; Japan Soccer League, JSL Cup and Emperor's Cup for 2 years in a row. He moved to Hitachi (later "Kashiwa Reysol") in 1990. In 1992, Japan Soccer League was folded and the club joined new league Japan Football League (JFL). The club won 2nd place in 1994 and was promoted to J1 League. He also many scored with Careca. However he left the club due to restrictions on foreign players because the club gains Müller. Lopes joined JFL club Honda in 1995. He became a top scorer for 2 years in a row (1995-1996). He moved to J1 League club Bellmare Hiratsuka in 1997. He played with Hidetoshi Nakata and scored many goals as striker. However, he left the club end of 1998 season due to financial strain and moved to Nagoya Grampus Eight. The club won the champions at 1999 Emperor's Cup. Toward end of his career, he played for FC Tokyo (2001) and Avispa Fukuoka (2001-02). He retired end of 2002 season.
+
+In September 1997, Lopes obtained Japanese citizenship. Immediately after this, he was selected the Japan national team for 1998 World Cup qualification. At this qualification, on September 28, he debuted against South Korea. After the debut, he played 6 games and scored 3 goals at World Cup qualification and Japan won the qualify for 1998 World Cup first time Japan's history. At 1998 World Cup, he played all 3 matches. In third match against Jamaica, he assisted Masashi Nakayama goal. This goal is the first goal for Japan in the history of the World Cup. He also played at 1999 Copa América and scored 2 goals. He played 20 games and scored 5 goals for Japan until 1999.
+
+349||239||16||8||24||17||389||264349||239||16||8||24||17||389||264!
+
+Total||20||5Motohiro YamaguchiYamaguchi was born in Takasaki on January 29, 1969. After graduating from Tokai University, he joined All Nippon Airways (later "Yokohama Flügels") in 1991. The club won 1993 Emperor's Cup their first time in major title. In Asia, the club also won 1994–95 Asian Cup Winners' Cup. In 1998, the club won Emperor's Cup. However the club was disbanded end of 1998 season due to financial strain, he moved to Nagoya Grampus Eight with teammate Seigo Narazaki in 1999. The club won 1999 Emperor's Cup. He moved to J2 League club Albirex Niigata in 2003. The club won the champions in 2003 and was promoted to J1 League. In August 2005, he moved to J2 League club Yokohama FC which was founded by Yokohama Flügels supporters. The club won the champions in 2006 and was promoted to J1 League. He retired end of 2007 season. He also served as captain in all teams.
+
+In January 1995, Yamagugchi was selected the Japan national team for 1995 King Fahd Cup. At this competition, on January 6, he debuted against Nigeria. After debut, he became a regular player and he played most matches for Japan until 1998 World Cup. In 1996, he played full time in all matches at 1996 Asian Cup. At 1998 World Cup qualification in 1997, he played all matches and Japan won the qualify for 1998 World Cup first time Japan's history. At 1998 World Cup, he played full time in all 3 matches. This World Cup was his last game for Japan. He played 58 games and scored 4 goals for Japan until 1998.
+
+After the retirement, Yamaguchi became a manager for Yokohama FC as Yasuyuki Kishino successor in March 2012. He managed the club until 2014490||42||34||1||64||8||588||51490||42||34||1||64||8||588||51!
+
+Total||58||4Álvaro RecobaÁlvaro Recoba (born 17 March 1976) is an Uruguayan football player. He plays for Danubio.
+
+67||28||||||||||67||28216||65||31||8||56||13||303||8619||4||2||1||colspan="2"|-||21||5302||97||33||9||56||13||391||119!
+
+Total||69||11Roberto AbbondanzieriRoberto Abbondanzieri (born 19 August 1972) is a former Argentine football player.
+
+Appearances and goals by national team and yearRosario CentralBoca JuniorsInternacionalIndividualPark Ji-sungPark Ji-Sung (born 25 February, 1981) is a South Korean professional athlete. He is best known as an association football player. He was a member of the Korean national team.
+
+76||11||6||1||3||0||colspan="2"|-||85||1264||13||4||2||colspan="2"|-||23||2||91||1785||9||12||1||4||1||20||1||121||12225||33||22||4||7||1||43||1||297||41!
+
+Total||85||11Yoshikazu NagaiNagai was born in Saitama on April 16, 1952. After graduating from Saitama Urawa Minami High School, he joined Japan Soccer League club Furukawa Electric in 1971. The club won the league champions in 1976 and 1985/86. The club also won 1976 Emperor's Cup, 1977, 1982 and 1986 JSL Cup. He retired in 1988. He played 272 games and scored 63 goals in the league. It is the record for most appearances in Japan Soccer League Division 1. In 1976, he was selected "Japanese Footballer of the Year" awards. He was selected Best Eleven 5 times.
+
+On August 13, 1971, when Nagai was 19 years old, he debuted for the Japan national team against Iceland. He also played at 1972 Summer Olympics qualification in 1971. Although he did not play for Japan in 1972, he was selected Japan for 1974 World Cup qualification in 1973. He also played at 1974, 1978 Asian Games. In 1980, he was selected Japan for 1980 Summer Olympics qualification, Japan's failure to qualify for 1980 Summer Olympics. This qualification was his last game for Japan. He played 69 games and scored 9 goals for Japan until 1980.
+
+After retirement, Nagai became an assistant coach for Furukawa Electric (later "JEF United Ichihara") in 1988. In 1989, he became a manager for Japan U-20 national team. In 1992, he returned to JEF United Ichihara and managed until 1993. In 1996, he signed with Japan Football League (JFL) club Fukushima FC and managed in 1 season. In 1998, he signed with JFL club Albirex Niigata. The club joined new league J2 League in 1999. In 2001, he moved to Yokohama FC. In 2006, he signed with his local Nadeshiko League club Urawa Reds Ladies.
+
+In 2012, Nagai was selected Japan Football Hall of Fame.
+
+272||63272||63!
+
+Total||69||9Honda FCHonda FC is a Japanese semi-professional football club in the Japan Football League. The team's home is Hamamatsu in Shizuoka Prefecture.
+
+Tokushima VortisThe club was founded in 1955.
+
+Ehime FCThe club was founded in 1970.
+
+The Great GatsbyThe Great Gatsby is a novel by F. Scott Fitzgerald. It was first sold in 1925. The novel takes place in New York City and Long Island in New York."
+
+The Great Gatsby" is one of the most popular books in the United States. The book was number two on the Modern Library Association's list of "100 Best Novels of the 20th Century." "Time Magazine" put the book in its "TIME 100 Best English-language Novels from 1923 to 2005". A 1989 study found that 54% of the high schools that were surveyed taught "The Great Gatsby" in their English classes.
+
+The story is told by Nick Carraway, a man who moves to Long Island, New York, from the Midwest. Nick is not rich, but he lives in a rich area that has two towns called East Egg and West Egg. The "old rich" live in East Egg while the "new rich" live in West Egg. Nick lives in a small house in West Egg. Nick's next-door neighbor is Jay Gatsby. Jay is in love with Nick's cousin Daisy. However, Daisy is married to a man named Tom. The novel is about Jay and his hope that he can steal Daisy from Tom.
+
+The events of the novel happen in the summer of 1922. Nick Carraway, a man who grew up in the American Midwest, is the narrator. Nick is a World War I veteran and a Yale University graduate who wants a more exciting life. He moves to New York, to be a bonds salesman. There, he rents a house in the small community of West Egg. The person living next to him is Jay Gatsby, a strange man who also has a lot of money. Jay Gatsby also hosts many expensive parties frequently. Strangely, he never joins in his own parties. Because people don't know him, many rumors are made about Gatsby's true identity and background. Nick drives out to visit his cousin Daisy in East Egg. There, he meets her husband, Tom Buchanan. He is also introduced to her friend, Jordan Baker. Nick learns from her that Tom has been having an affair with Myrtle Wilson. Nick decides to hold his judgment.
+
+Later in the summer, Nick is invited to one of Gatsby's parties. He meets Gatsby there. Gatsby is a young and charming man. Nick learns that Gatsby was in love with Daisy many years ago. Gatsby is still in love with her. He spends many nights looking across the water from his mansion at the green light from Daisy's dock. He is hoping that he can impress Daisy with his rich lifestyle and wild parties. Gatsby grew up very poor and with little chance to move up in the world. This made Gatsby try to get much money to become a different person. If he is rich, he thinks he will be right for Daisy. Gatsby asks Nick to arrange a meeting between Daisy and himself. Nick invites them both over for tea, and they begin to fall in love again. They then start an affair with each other.
+
+After a short time, Tom notices that Daisy and Gatsby are in love. The group meets at a hotel, where Daisy is forced to choose between Gatsby and Tom. She chooses Tom, and the group begins to drive home. Along the way, Daisy is driving Gatsby's car. She accidentally hits and kills Myrtle. Gatsby tells Nick that he will take the blame in order to save Daisy. Later, Gatsby is shot dead by Myrtle's husband, George. George believes that Gatsby was the one who killed his wife. George then kills himself.

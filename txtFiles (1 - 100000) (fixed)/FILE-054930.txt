@@ -1,0 +1,279 @@
+Optical microspheres (photonic atoms) are one of the types of optical microresonators (also microcavities) employed commonly in photonic research; they provide high quality factor up to 1011.
+
+Optical multiplexers (couplers) makes different wavelength coupling into an optical fiber and different wavelength carries different information.
+
+Optical music recognition (OMR) or Music OCR is the application of optical character recognition to interpret sheet music or printed scores into editable or playable form.
+
+Optical network-on-chip (ONoC) is a new type of network on chip (NoC) for multiprocessor system-on-chip.
+
+Optical or photonic computing uses photons produced by lasers or diodes for computation.
+
+Optical PAyload for Lasercomm Science (OPALS) is a spacecraft communication instrument developed at the Jet Propulsion Laboratory that was tested on the International Space Station (ISS) from 18 April 2014 to 17 July 2014 to demonstrate the technology for laser communications systems between spacecraft and ground stations.
+
+Optical performance monitoring (OPM) is used for managing high capacity dense wavelength division multiplexing (DWDM) optical transmission and switching systems in Next Generation Networks (NGN).
+
+Optical phenomena are any observable events that result from the interaction of light and matter.
+
+Optical physicist S. Douglas Cornell resigned from his position as Executive Officer of the National Academy of Sciences to become the school's president.
+
+Optical proximity correction is an example of such an advanced mask modification; it corrects for the wave-like behavior of light when etching the nano scale features of the most modern integrated circuits.
+
+Optical reading of eVoting is Voter Verified Paper Audit Trail and guarantees the possibility of a human recount.
+
+Optical Review is a bimonthly peer-reviewed scientific journal that was established in 1994 and is published by Springer Science+Business Media in partnership with the Optical Society of Japan.
+
+Optical rotatory dispersion can be used to find the absolute configuration of metal complexes.
+
+Optical rotatory dispersion is the variation in the optical rotation of a substance with a change in the wavelength of light.
+
+Optical signals passing through the switch stage can be switched either by the optical switch module or the electronic switch module.
+
+Optical solar reflectors are a type of second surface mirror.
+
+Optical sorters are in widespread use in the food industry worldwide, with the highest adoption in processing harvested foods such as potatoes, fruits, vegetables and nuts where it achieves non-destructive, 100 percent inspection in-line at full production volumes.
+
+Optical sorting (sometimes called digital sorting) is the automated process of sorting solid products using cameras and/or lasers.
+
+Optical sound has also been used for multitrack recording and for creating effects in some musical synthesizers.
+
+Optical spectroscopic techniques in general, and laser-based techniques in particular, have a great potential for detection and monitoring of constituents in gas phase.
+
+Optical storage can range from a single drive reading a single CD-ROM to multiple drives reading multiple disks such as an optical jukebox.
+
+Optical storage differs from other data storage techniques that make use of other technologies such as magnetism, such as floppy disks and hard disks, or semiconductors, such as flash memory and RAM.
+
+Optical storage is the storage of data on an optically readable medium.
+
+Optical study of single molecules has subsequently become a widely used single-molecule experiment in chemistry, physics and biology.
+
+Optical surfaces are polished in a computer-controlled magnetorheological (MR) finishing slurry.
+
+Optical switches are optoelectronic devices which can be integrated with integrated or discrete microelectronic circuits.
+
+Optical technologies include shadow, self imaging and interferometric.
+
+Optical telecommunications have been successful in many networking domains to replace electrical telecommunications.
+
+Optical Telescope Element (OTE) is a sub-section of the James Webb Space Telescope, a large infrared space telescope scheduled to be launched early 2021.
+
+Optical tomography in industry is used as a sensor of thickness and internal structure of semiconductors.
+
+Optical tomography is a form of computed tomography that creates a digital volumetric model of an object by reconstructing images made from light transmitted and scattered through an object.
+
+Optical tomography is used mostly in medical imaging research.
+
+Optical Triangulation Sensors are commonly used to provide door mounted safety detection on swinging automatic doors.
+
+Optical turnstiles are usually a part of an access control system, which also consists of software, card readers, and controllers.
+
+Optical turnstiles operate much like regular mechanical turnstiles, except that they rely primarily on electronic (infrared) beams, and audible/visual interfaces to control entry.
+
+Optical was featured as a co-producer on two tracks.
+
+Optical waveguides are used as components in integrated optical circuits or as the transmission medium in local and long haul optical communication systems.
+
+Optical waveguides can be classified according to their geometry (planar, strip, or fiber waveguides), mode structure (single-mode, multi-mode), refractive index distribution (step or gradient index) and material (glass, polymer, semiconductor).
+
+Optical Waves in Layered Media is written as a textbook by Pochi Yeh for current optics courses in electrical engineering or applied physics.
+
+Optical wireless is the combined use of "optical" (optical fiber) and "wireless" (radio frequency) communication to provide telecommunication to clusters of end points which are geographically distant.
+
+OPTI Canada is a Calgary, Alberta based oil sands development company.
+
+Optic atrophy 3 protein is a protein that in humans is encoded by the OPA3 gene.
+
+Optic atrophy and cranial nerve damage secondary to bony expansion can result in marked morbidity.
+
+Optic disk drusen (ODD) or optic nerve head drusen (ONHD) are globules of mucoproteins and mucopolysaccharides that progressively calcify in the optic disk.
+
+Optic disk pallor refers to an abnormal coloration of the optic disk as visualized by a fundoscopic examination.
+
+Optic gliomas are usually associated with neurofibromatosis type 1 in 30% of patients.
+
+Opticians is a trade organization representing eye care providers and registered opticians in business in the UK and Republic of Ireland.
+
+Opticin belongs to class III of the small leucine-rich repeat protein (SLRP) family.
+
+Opticin is a protein that in humans is encoded by the OPTC gene.
+
+Opticin is present in significant quantities in the vitreous of the eye and also localizes to the cornea, iris, ciliary body, optic nerve, choroid, retina, and fetal liver.
+
+Opticin may noncovalently bind collagen fibrils and regulate fibril morphology, spacing, and organization.
+
+Opticks was Newton's second major book on physical science.
+
+Optic Nerve as described in the documents collected one still image every 5 minutes per user, attempting to comply with human rights legislation.
+
+Optic nerve glioma (or optic glioma), a form of glioma which affects the optic nerve, is often one of the central nervous system manifestations of Neurofibromatosis 1.
+
+Optic gliomas are usually pilocytic tumors, and can involve the optic nerve or optic chiasm.
+
+Optic Nerve is a comic book series by cartoonist Adrian Tomine.
+
+Optic Nerve is a mass surveillance program run by the British signals intelligence agency Government Communications Headquarters (GCHQ), with help from the US National Security Agency, that surreptitiously collects private webcam still images from users while they are using a Yahoo! webcam application.
+
+Optic neuritis is a demyelinating inflammation of the optic nerve.
+
+Optic neuropathy is damage to the optic nerve from any cause.
+
+Optic neuropathy is often called optic atrophy, to describe the loss of some or most of the fibers of the optic nerve.
+
+Optic pits are important because they are associated with posterior vitreous detachments (PVD) and even serous retinal detachments.
+
+Optic replacement and automation where completed in March of that year.
+
+Optics and photonics are defined as the fields of science and engineering encompassing the physical phenomena and technologies associated with the generation, transmission, manipulation, detection, and utilization of light.
+
+Optics Classification and Indexing Scheme (OCIS) is a categorization scheme used to encode the topic of an article or presentation in a 7-digit code.
+
+Optics Communications is a peer-reviewed scientific journal published by Elsevier.
+
+Optics Express is a peer-reviewed, scientific journal published by the Optical Society.
+
+Optics is the second album of the Illinois-based industrial band, I:Scintilla.
+
+Optics Letters is a biweekly peer-reviewed scientific journal published by the Optical Society of America.
+
+Optics & Photonics News is the membership magazine of The Optical Society.
+
+Optics regarding the visible spectrum, infrared, and short wavelength optics are also included.
+
+Optics Software for Layout and Optimization (OSLO) is an optical design program originally developed at the University of Rochester in the 1970s.
+
+Optic vesicles are outgrowings of the brain which make contact with the surface ectoderm and this contact induces changes necessary for further development of the eye.
+
+Optiemus Infracom, under the name BlackBerry Mobile India, and BB Merah Putih also serve as licensees of the brand, serving the Indian and Indonesian markets, respectively.
+
+OpTIIX (Optical Testbed and Integration on ISS eXperiment) is a NASA project to advance the state of the art in technology for the robotic assembly of optical systems, by assembling a 1.
+
+5-metre telescope on the International Space Station.
+
+Optik: International Journal for Light and Electron Optics, or simply Optik (German for Optics) is a scientific journal, specializing in the optics of light and electrons.
+
+Optik Records was a German hip hop label located in Berlin.
+
+Optik Software is a former game development company, best known for creating the MS-DOS game War Inc. in 1997.
+
+Optik TV provides customers access to over 630 digital channels including more than 100 in HD, while Telus Satellite TV offers over 500 digital channels including over 100 in HD.
+
+Optima Bus, LLC, formerly Chance Coach Inc., was a brand of small transit busses manufactured by North American Bus Industries.
+
+Optima is a humanist sans-serif typeface designed by Hermann Zapf and released by the D. Stempel AG foundry, Frankfurt, Germany.
+
+Optima is a Miami-based real estate investment firm led by Chaim Schochet and 2/3rd owned by the Privat Group, one of Ukraine's largest business and banking groups.
+
+Optima is a town in Texas County, Oklahoma, United States.
+
+Optima Lake was built to be a reservoir in Texas County, Oklahoma.
+
+Optimal behavior is defined as an action that maximizes the difference between the costs and benefits of that decision.
+
+Optimal cutting temperature compound (OCT compound) is used to embed tissue samples prior to frozen sectioning on a microtome-cryostat.
+
+Optimal Flexible Architecture (OFA), a standard of Oracle Corporation, encourages consistent layouts when installing and configuring the Oracle Database product on computer systems.
+
+Optimal foraging theory describes the diet selection if the food ingestion rate is the limiting factor.
+
+Optimal, Inc. changed its name from XA.
+
+net, Inc. in 2012 at the same time that it named Mike Greenfield to its advisory board.
+
+Optimal, Inc. or OptimalSocial, is a social media advertising technology company that was acquired by Brand Networks in October 2013 for $35 million.
+
+Optimality modeling is the modeling aspect of optimization theory.
+
+Optimality models are used to predict optimal behavior (ex. time spent foraging).
+
+Optimality occurs at the point in which the difference between benefits and costs for obtaining a currency via a particular behavior is maximized.
+
+Optimality Theory is popularly used for phonology, the subfield to which it was originally applied, but has been extended to other areas of linguistics such as syntax and semantics.
+
+OptimalJ was developed out of Compuware's Amsterdam offices by many of the development team responsible for the Uniface development suite.
+
+OptimalJ was first released in 2001 and was then based on Sun Microsystems' open source NetBeans IDE.
+
+Optimal Payments subsequently rebranded as Paysafe Group.
+
+Optimal production management aims to minimize work in process.
+
+Optimal starting hand standards can be very sensitive to factors such as the betting structure of a game, position, and the character of the other players, as well as the rules of the game being played.
+
+Optimal strategies exist and have been studied for the different events of track and field.
+
+Optimal strategies for patient care and policy decision making Understanding individual and group decision-making processes Outcomes of decisions, their measurement, and valuation Risk communication, risk attitudes, and judgment Methods to teach about and improve actual decisions Methods for technology assessment, literature synthesis, comparative effectiveness research and evidence-based decision making.
+
+Optimal strategies to achieve goals are studied in the branch of mathematics known as game theory.
+
+Optimal virulence is a concept relating to the ecology of hosts and parasites.
+
+Optimal was founded in 2008 by Rob Leathern and David Li, with Atul Patel as a founding board member, and had raised $5.
+
+1 million in equity and $2.
+
+5 million in debt before its acquisition.
+
+Optimal weighting methods reflect the nature of the specific network, conform to the designer's objectives and aim at minimizing information loss.
+
+Optima Signature (formerly Optima Chicago Center II) is a residential skyscraper in the Streeterville neighborhood of the Near North Side area in Chicago.
+
+Optima was inspired by classical Roman capitals and the stonecarving on Renaissance-period tombstones Zapf saw in Florence on a 1950 holiday to Italy.
+
+Optimax is a UK-based laser eye treatment specialist which has 23 locations nationwide.
+
+Optimax was established as one of the first private clinics to offer laser eye surgery.
+
+OptimFROG is a proprietary lossless audio data compression codec developed by Florin Ghido.
+
+OptimFROG is optimized for very high compression ratios at the expense of encoding and decoding speed.
+
+Optimism and hope are vital to the development of PMA.
+
+Optimism bias (also known as unrealistic or comparative optimism) is a cognitive bias that causes a person to believe that they are at a lesser risk of experiencing a negative event compared to others.
+
+Optimism bias encourages patients to undertake treatments that have only tiny chances of success, in the erroneous and irrational belief that they will be part of the tiny minority that is successful, rather than part of the vast majority who are not.
+
+Optimism bias is quite common and transcends gender, race, nationality and age.
+
+Optimism for the growth and community interest of football in Trinidad and Tobago was at an all-time high.
+
+Optimism is a mental attitude reflecting a belief or hope that the outcome of some specific endeavor, or outcomes in general, will be positive, favorable, and desirable.
+
+Optimism is the central tone of the book and it was designed to inspire its readers into replacing what they call the "law of force" with the "force of law."
+
+Optimism may also be linked to health.
+
+Optimism Monthly was a Czech not-for-profit literary magazine, which from 1995 to 2009 published poetry, prose, and art by Prague-based and international writers.
+
+Optimist Clubs demonstrate their caring attitude by carrying out the mission of the organization, "By providing hope and positive vision, Optimists bring out the best in kids."
+
+Optimistic biases are even reported in non-human animals such as rats and birds.
+
+Optimistic concurrency control (OCC) is a concurrency control method applied to transactional systems such as relational database management systems and software transactional memory.
+
+Optimistic concurrency control was first proposed by H.
+
+T. Kung and John T. Robinson.
+
+Optimistic decompression is a digital forensics technique in which each byte of an input buffer is examined for the possibility of compressed data.
+
+Optimistic decompression is used as a tool to validate JPEGs that are produced by file carving.
+
+Optimistic replication (also known as lazy replication) is a strategy for replication in which replicas are allowed to diverge.
+
+Optimistic replication does away with this in favor of eventual consistency, meaning that replicas are guaranteed to converge only when the system has been quiesced for a period of time.
+
+Optimist International is an international service club organization with almost 3,000 clubs and over 80,000 members in more than 20 countries.
+
+Optimist International's motto is "Friend of Youth" and the organization also uses the branding statement "Bringing Out the Best in Youth, in our Communities, and in Ourselves."
+
+Optimists agree that innovation may be disruptive to jobs in the short term, yet hold that various compensation effects ensure there is never a long-term negative impact on jobs, whereas pessimists contend that at least in some circumstances, new technologies can lead to a lasting decline in the total number of workers in employment.
+
+Optimists of Nine Elms, also known as The Optimists, is a 1973 British drama film starring Peter Sellers and directed by Anthony Simmons, who also wrote the 1964 novel upon which the film is based.
+
+Optimist World Championship are annual World Championship sailing regattas in the Optimist class organized by the International Optimist Dinghy Association.
+
+Optimization attempts to find the best match (the solution that has the lowest error value) in a multidimensional analysis space of possibilities.
+
+Optimization, by contrast, finds the best solution for a set of conditions.
+
+Optimization models have three parts: (1) an objective, such as "Minimize cost", (2) decision variables, which correspond to the options available to management, and (3) constraints, which describe the technical or physical requirements imposed on the options.

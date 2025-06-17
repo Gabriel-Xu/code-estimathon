@@ -1,0 +1,135 @@
+This is a list of ball games and ball sports that include a ball as a main part of the activity, usually for scoring points inside of the game.
+
+Ball sports fall within many sport categories, some sports within multiple categories, including:Games that are similar and have a common starting letter are grouped under the primary name such as bowling, football and hockey.
+
+TromsdalstindenTromsdalstinden is a mountain in Tromsø Municipality in Norway, with an elevation of 1,238 meters. The mountain is located at the southern end of the Tromsdalen valley, just southeast of the city of Tromsø. The Norwegian name Tromsdalstinden means "the peak above Tromsdalen," while the Sámi name is made up from the parts Sálaš and Oaivi, with the first word meaning a good hunting area, and the second meaning a rounded mountain without jagged peaks.
+
+The mountain is a popular hiking destination and can be summited from the suburb Tromsdalen or from Ramfjorden. The slopes up are not technically difficult, though fog and rain can make the ascent complicated for those not familiar with the terrain. Skiers usually take the Fjellheisen aerial tramway to Mount Storsteinen and begin their ascent from there.
+
+In 2003, plans to build an alpine skiing facility on the slopes of Tromsdalstinden for the 2014 Winter Olympics were proposed. However, this sparked immediate protests from some Sámi activists who claimed that Tromsdalstinden has been a Sámi sacred mountain since ancient times. The Sami Parliament enacted a resolution declaring it a holy mountain in 2004, and the plans were discontinued.
+
+While some argue that Tromsdalstinden was made a holy mountain in recent times as part of Sámi identity politics, others believe that it has been sacred at one point before Christianization. The mountain bears the significant feature of a traditional sacred mountain, dominating the landscape due to its shape and/or height. Although the classic Sámi religion is dead, the mountain remains of cultural significance to modern Sámi, and their commitment to preserving it displays its intense cultural significance to their ancestors.
+
+French alphabetThe French alphabet uses the same letters as the ISO basic Latin alphabet as well as the English alphabet, although its pronunciation is different from that of English. Some letters sometimes also have diacritics on them (e.
+
+g. Français), but letters with diacritics are considered to be a modified form of the letters without diacritics, so they are not different letters of the alphabet. The letters "k" and "w" do not appear in original French words, only in words borrowed from other languages (e.
+
+g. kangourou, wagon).
+
+If You're Gone (Matchbox Twenty song)"If You're Gone" is a 2000 song by Matchbox Twenty and is the second single from their second studio album "Mad Season". It went to number 5 in the United States, number 12 in New Zealand, number 16 in the Netherlands, number 18 in Australia, number 27 in Canada and number 50 in the United Kingdom.
+
+UK CD singleEuropean CD singleAustralian maxi-CD singleTim PaineTimothy David Paine was born 8 December, 1984 in Hobart, Australia. He was an Australian cricketer who played 35 tests and 35 one-day internationals for Australia from 2010 to 2021 including captaining them in 23 tests from 2018 to 2021. He also played for Tasmania in the Sheffield Shield.
+
+YAMLYAML (YAML Ain't Markup Language) is a human-readable data serialization format that is commonly used for configuration files and data exchange between programming languages. It is often used in conjunction with web development frameworks and other systems that need to share data.
+
+YAML was first released in 2001 by Ingy döt Net, Brian Ingerson, and Oren Ben-Kiki. It was designed to be a more user-friendly alternative to other markup languages like XML and JSON. YAML's syntax is designed to be easy to read and write, using whitespace and indentation to organize data.
+
+YAML is often used for configuration files, such as those used by web development frameworks like Ruby on Rails and Django. It is also commonly used for data exchange between programming languages, especially in systems that use different programming languages for different components.
+
+One of the key features of YAML is that it is designed to be easy for humans to read and write, while still being machine-readable. This makes it a popular choice for configuration files, as it allows developers to easily modify settings without needing to understand complex markup languages.
+
+YAML is a superset of JSON, meaning that any valid JSON document is also a valid YAML document. However, YAML adds additional features, such as support for comments, anchors and aliases, and complex data types like maps and lists.
+
+YAML has been implemented in many programming languages, including Python, Ruby, Java, and Perl. It is also supported by many text editors and IDEs, which can provide syntax highlighting and other features to make working with YAML easier.
+
+Overall, YAML is a flexible and user-friendly data serialization format that is widely used in web development, system configuration, and other areas where data needs to be exchanged between different components.
+
+YAML's syntax is designed to be simple and easy to read. It uses indentation and whitespace to organize data, rather than relying on explicit tags or markup. Here is an example of a YAML document:name: John Smithage: 35In this example, the document contains three key-value pairs, where the keys are `name`, `age`, and `email`, and the values are `John Smith`, `35` , respectively.- name: John Smith- name: Jane DoeYAML also supports more complex data structures, like maps and lists. Here is an example of a YAML document that contains a map and a list:Brad HaddinBradley James Haddin was born 23 October, 1977 in Cowra, New South Wales. He was an Australian cricketer who played 66 tests, 126 one-day internationals and 34 Twenty20 Internationals for Australia. He made his one-day international debut in January 2001 and became Australia's 400th test cricketer following the retirement of Adam Gilchrist in May 2008. He scored four test centuries (including three of them in The Ashes) and two one-day international centuries both against New Zealand. He also played for New South Wales in the Sheffield Shield. He retired from international cricket after the 2015 Ashes.
+
+DrukThe Druk (or Dzongkha: འབྲུག་) is a dragon that appears on the flag and coat of arms of Bhutan. It is an important national symbol that represents the country's identity and mythology.
+
+In Bhutanese culture, the Druk is often associated with thunder and lightning, and is considered to be a powerful and benevolent creature. According to legend, the Druk was the emblem of the founder of Bhutan, the Tibetan saint and ruler, Ngawang Namgyal.
+
+The Druk on the Bhutanese flag is depicted holding jewels that represent the wealth and prosperity of the country. Its white color represents purity and loyalty, while the snarling mouth symbolizes the strength and courage of the Bhutanese people. The overall design of the flag, which features a yellow and orange background, is said to represent the colors of Buddhism and the country's position between India and China.
+
+Overall, the Druk is an important symbol of Bhutanese identity and cultural heritage, and is deeply ingrained in the country's history and mythology.
+
+List of Gambia Twenty20 International cricketersThis is a list of Gambian Twenty20 International cricketers who have played for Gambia. Gambia played their first Twenty20 International against Eswatini on 1 December, 2022.
+
+Anlia van RensburgAnlia van Rensburg is a singer and actress, living in Cape Town, South Africa.
+
+Anlia made her TV debut in South Africa's popular TV Series, Getroud Met Rugby, playing the feisty role of Sasha Richter.
+
+Anlia's latest projects include roles in the HBO Ridley Scott TV Series, Raised by Wolves, and the local Horror film The Last Sacrament.
+
+She took part in a scene that was a reenactment for Simone Starr's episode.
+
+In 2021, Anlia signed a music record deal with AppelMusiek under the stage name, Anlia Star.
+
+In 2021, Anlia portrayed the role of Simone Starr in an episode of Locked Up Abroad. Anlia acted in productions including: Mike&Mavis, Deep Sate, Playboyz, Die Spreeus, n Man Soos My Paand Agent 2000In 2022, her single “Plaaslewe” was released.
+
+She holds an honors degree in Performing Arts and graduated Cum Laude.
+
+She sang South Africa's national anthem at Cape Town Stadium.
+
+In 2022, Anlia got engaged to SA Rugby Player EbenEtzebethPlatymantis negrosensisThe Negros forest frog ("Platymantis negrosensis") is a frog. It lives in the Philippines on Negros and Panay Islands. People have seen it between 200 and 1800 meters above sea level.
+
+This frog is about 30-50 mm long from nose to rear end. It has large disks on its toes for cimbing trees.
+
+This frog moves around at night. It climbs trees. The female frog lays eggs in fern plants that grow on trees. The eggs hatch into small froglets. They are never tadpoles.
+
+This frog is in danger because human beings change the places where it lives. Humans cut down trees in forests to get wood to build with. Humans let animals eat grass where the frog lives.
+
+Anti-environmentalismAnti-environmentalism is a political ideology where protecting the environment is not seen as necessary. Anti-environmentalists don't like strict rules that protect nature and say the Earth can take care of itself without humans getting involved. They don't like environmental groups and try to stop them from influencing politicians.
+
+Hut (dwelling)A hut is a simple shelter that is built by humans. A hut is small, and most of the time, it is less well-built than a house, but is more complex than a tent. Some indigenous peoples use huts as their permanent place of safety. A hut can be built out of many things, such as wood, grass, or fabric.
+
+The word is, many times, used by people who think homes that are uncommon in their country are primitive. Sometimes, the word "house" is used to avoid this. Often, how the hut looks is based off of tradition. The design of the hut in tropical and sub-tropical areas is meant to allow air to come inside, reducing the heat inside of the hut. Also, instead of being called a shed, something can be called a hut. The word has also been used to speak about structures that shelter climbers and backpackers. The word comes from the 1650s, from French "hutte".
+
+Huts are used by shepherds when they are moving animals from one grassland to another.
+
+They are also used by people who are traveling in rural areas.
+
+Some populations use huts during a diaspora, such as those on farms in the Amazon jungle.
+
+Huts have been built to keep items safe, to build items, and to teach when regular classrooms cannot be used.
+
+Many huts are planned to be built quick, and with a small amount of work. These huts only need a bit of understanding of architecture to be built, and do not need special tools.
+
+Sometimes, the word "hut" is used in the names of stores, to imply that it is a small place, and that it is friendly. Some stores that use the word in their name are Pizza Hut and Sunglass Hut. Buildings that sell things in a park or beach can look like huts.
+
+Cultural diffusionCulture diffusion refers to the spread of cultural traits or patterns from one society or group of people to another. This process can occur through various means, such as migration, trade, communication, or technological advancements.
+
+For example, the diffusion of Buddhism from India to other parts of Asia is an example of cultural diffusion. Another example could be the spread of American fast food chains, such as McDonald's, to different parts of the world, where they have adapted their menus to local tastes.
+
+Cultural diffusion can lead to the blending of different cultures and the creation of new cultural forms, such as creole languages or fusion cuisine. However, it can also result in the loss of traditional cultural practices and the homogenization of global cultures.
+
+Ram Chandra PoudelRam Chandra Poudel (Nepali: राम चन्द्र पौडेल; born 15 October 1944) is a politician from Nepal who is the third President of Nepal (leader) since March 2023. He used to be a senior leader of the Nepali Congress. Poudel became president on 9 March 2023.
+
+Ford Madox BrownFord Madox Brown (16 April 1821 – 6 October 1893) was a British painter. He mostly used the Pre-Raphaelite style.
+
+His best know painting is called Work. It is now in Manchester Art Gallery.
+
+He spent the last years of his life painting murals in Manchester Town Hall. They are about the importance of Christianity, commerce and the textile industry in Manchester's history.
+
+Limerick (poetry)A limerick is a funny, silly, rude, or sexual poem that has five (or four) lines. Lines 1, 2, and 5 rhyme with each other and have eight (or more) syllables. Lines 3 and 4 have a different rhyme word and have five (or more) syllables each. The poem often begins with "There was a ...", but it doesn't have to.
+
+This one is by Rudyard Kipling:A limerick by Edward Lear, who is famous for writing this kind of poem, has four lines because he combines lines 3 and 4 into one ten-syllable line:AtropaAtropa is a genus of flowering plants, in the nightshade family. They are herbaceous perennials, with large leaves, and shiny berries. These berries are particularly dangerous to children, because they look like cherries, but they are highly poisonous. Atropa species prefer temperate climates and alkaline soils. They often grow in light shade in woodlands near limestone hills and mountains. Their seeds can remain viable in the soil for long periods, germinating when the soil of sites in which plants once grew (but from which plants have long been absent) is disturbed by human activity or by natural causes, e.
+
+g. the windthrow of trees. The best-known member of the genus Atropa is deadly nightshade ("A. belladonna") - the poisonous plant "par excellence" in the minds of many. Atropa species contain chemicals that are used in medicine, such as atropine, scopolamine, and hyoscyamine. These are all tropane alkaloids that have anticholinergic, deliriant, antispasmodic and mydriatic properties. The genus is named for Άτροπος ("Atropos") - lit. 'she who may not be turned (aside)' - one of the Three Fates and cutter of the thread of life / bringer of death. They are named after her because of the extreme toxicity of "A. belladonna" and its fellow species.
+
+In some older classifications, the mandrake ("Mandragora officinarum") has been placed in the genus "Atropa", with the scientific name "Atropa mandragora".
+
+Kvaløya (Tromsø)Kvaløya is a large and mountainous island located in Tromsø Municipality in Troms county, Norway. With a total area of , it is the fifth largest island in mainland Norway. The island is connected to neighboring islands and the mainland by bridges and tunnels.
+
+Kvaløya is home to at least ten mountains higher than 700 metres and three that are over 1,000 metres, including Store Blåmann, the highest peak on the island at 1,044 metres. The island is also characterized by several small fjords, including Kaldfjorden, Ersfjorden, and Kattfjorden, which almost divide the island into two or three parts.
+
+The Rystraumen, a tidal current in the Straumsfjorden strait separating Kvaløya from the mainland, is a popular recreation area for fishing and is home to Ryøya, an island that was formerly home to a small population of musk oxen. The island is also home to Straumhella, a popular recreational area near the current.
+
+Approximately 13,000 people live on Kvaløya, with most residing on the eastern side near Kvaløysletta, which is a suburban area of the city of Tromsø, located near the Sandnessund Bridge.
+
+The west coast of Kvaløya, facing the open ocean, is the warmest part of Tromsø municipality, with the weather station at Sommarøy recording 24-hour averages of -1.
+
+9°C in January and 11.
+
+9°C in July, and a mean annual temperature of 3.
+
+9°C. Annual precipitation on the west coast of Kvaløya is approximately 940 millimetres.
+
+KvaløyslettaKvaløysletta is a neighborhood within the city of Tromsø in Tromsø Municipality, located on the eastern shore of the island of Kvaløya. It is situated about 5 kilometers northwest of the city center of Tromsø, and is connected to the island of Tromsøya by the Sandnessund Bridge. The neighborhood has a population of 8,681 people as of 2017, with a population density of 2,782 inhabitants per square kilometer.
+
+TromsøTromsø is a municipality in Troms county, Norway, with an area and a population of 77,992. The city center of Tromsø (settlement) is located on the island of Tromsøya, but the urban area also surrounds part of the nearby mainland and part of the island Kvaløya. Tromsø is known for its nice weather because it's up north but still gets warm ocean water from the Gulf Stream. Tromsø's latitude of just below 70°N means there’s an annual midnight sun and polar night depending on the season. The city has a rich Norse and Sámi heritage, with evidence of them living there since the end of the ice age. The name Tromsø is believed to come from the Old Norse name of the island Trums, which means "(strong) current." However, the first part of the name's etymology is uncertain. Tromsø is a cultural hub for the region, with several festivals taking place in the summer. Many countries used to have consulates or missions in Tromsø in the 1990s.
+
+Elliott LipinskyElliot Lipinsky (born 1986) is an attorney, author and politician from Alabama, United States.
+
+Lipinsky was born in Montgomery, Alabama in 1986. He attended Saint James School. He completed his Bachelors in History and Political Science from University of Alabama. Later, he studied law at Thomas Goode Jones School of Law.

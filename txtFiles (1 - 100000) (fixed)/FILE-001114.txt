@@ -1,0 +1,135 @@
+"Quake" was the first game that id Software released after they made "Doom" and "Doom 2." It is a very similar game to "Doom", but "Quake" is on a new game engine and has much more advanced technology. For example, "Quake" lets the player look up and down, lets the player jump, it has fully 3D graphics, and has many more options for multiplayer than "Doom" had. "Quake" is famous for its multiplayer, and it was one of the first games where lots of people played multiplayer through the internet. "Doom" also had online multiplayer through a service called DWANGO, but "Quake" made playing online more popular than ever before. Tools like QuakeWorld and QuakeSpy made it very easy for players to find other people to play against over the internet.
+
+The game's music and sound effects were done by Trent Reznor and Nine Inch Nails.
+
+In the single-player mode of "Quake," the player has to get to the end of each level. The player will usually have to find keys or switches to open all the locked doors before they can get to the exit of a level. They will also have to fight lots of monsters that try to kill the player. There are also secret areas and secret levels that the player can find. Secret areas will usually have something that helps the player win the level, like extra health or ammo. The player always has two weapons: the axe and the shotgun. More weapons can be found in the levels, including the nailgun, super nailgun, super shotgun, grenade launcher, rocket launcher, and the thunderbolt.
+
+The levels are grouped together into different episodes, and each episode has a different setting. Most levels look very Gothic or medieval, but others look more futuristic, like science fiction. There are 6 or 7 levels in each episode, but every episode also has one secret level. There is also one level that is not inside of an episode, which is the final boss level. There are four episodes in the game, and they can be finished in any order the player wants. The player can't get to the final boss without beating all four episodes, though.
+
+The game has four difficulty settings: easy, medium, hard, and nightmare. Nightmare difficulty can only be found in a secret area which is on the episode selection level. This secret area can be found in the episode 4 selection room.
+
+KunyaA kunya (Arabic:كنية) is a name which is honorably given to an Arab mother or father. Kunya is pronounced koon-ya. Parents are called by their kunyas, which consists of "abu" (father) or "umm" (mother) followed by the name of their first son or daughter. Their whole name is their name plus their kunya. For example, "Umm Ja'far Aminah" means "the mother of Ja'far, Aminah." The kunya precedes the personal name.
+
+WakeWake could mean several things:ZenZen is a Chinese school of Mahayana Buddhism. Buddhism was first brought to China from India, by Bodhidharma. It developed in China, into Zen, in the 6th century. From China it spread to Vietnam, Korea and Japan.
+
+Zen is a Japanese word translated from the Chinese word Chán, which means "meditation".
+
+Zen uses meditation to help practitioners go beyond simply thinking about Zen. The goal in Zen is to attain "satori". This Japanese word translates as "enlightenment". The practice also includes using riddles, called Koans. Koans are also designed to help the practitioner not just engage in rational thought. The traditional Japanese place to learn Zen is a Zen monastery.
+
+Japanese Zen scholars such as D.
+
+T. Suzuki became well known in the West. Suzuki spent over fifty years teaching Zen to the world with a series of books in English. In the 1960s in California, Aldous Huxley, Alan Watts, and others promoted the philosophy. From there it spread to many parts of the western world. Zen is now well established outside of Japan and China. Many Zen centers exist in the US and Europe.
+
+Zen is now associated with some design styles, like Minimalism. The Japanese gardens found at Zen monasteries in Japan are an example of this style. They are called Zen rock gardens. They are not directly part of the teachings of Zen.
+
+ScotsScots is a West Germanic language. It is sometimes called Lowland Scots or Lallans. It is not "Scottish English" but the two are similar. Scottish English is a dialect of English and Scots is a separate language. Ulster Scots is a form of Scots found in the north of Ireland. Scots is very different from the Scottish Gaelic language, which is a Celtic language.
+
+There have been disagreements about the linguistic, historical and social status of Scots. Focused broad Scots is at one end of a scale, with Scottish Standard English at the other. Scots is generally regarded as one of the ancient varieties of English, and has its own distinct variants such as Doric.
+
+Northumbrian Old English was established in what is now southeastern Scotland as far as the River Forth by the seventh century. The region was part of the Anglo-Saxon kingdom of Northumbria. Early Scots began to diverge from Northumbrian English in the twelfth and thirteenth century. There was immigration of Scandinavian-influenced Middle English-speakers from the North and Midlands of England.
+
+Later influences on the development of Scots were from Romance languages via ecclesiastical and legal Latin, Norman and later Parisian French from the Auld Alliance and Dutch and Middle Low German influences by trade and immigration from the Low Countries. Scots also includes loanwords from contact with Gaelic.
+
+From the 13th century, Early Scots spread further into Scotland through the burghs established by King David I. The growth in prestige of Early Scots in the 14th century and the decline of French in Scotland made Scots the prestige dialect in most of eastern Scotland.
+
+From 1610 to the 1690s, during the Plantation of Ulster, many Scots-speaking Lowlanders, about 200,000, settled there. In the core areas of Scots settlement, there were five or six times as many Scots as English settlers. Southern Modern English was adopted as the literary language after 1700, and "Modern Scots" is sometimes used to describe the spoken language after 1700.
+
+Mathematical analysisMathematical analysis is a part of mathematics. It is often shortened to analysis. It looks at functions, sequences and series. These have useful properties and characteristics that can be used in engineering. Mathematical analysis provides a rigorous logical foundation to calculus, which studies continuous functions, differentiation and integration. Mathematical analysis is a short version of its old name "infinitesimal analysis", with some of its key subfields including real analysis, complex analysis, differentiation equation and functional analysis.
+
+Gottfried Wilhelm Leibniz and Isaac Newton developed most of the basis of mathematical analysis.
+
+A foundational concept in mathematical analysis is the concept of limit. Limits are used to see what happens very close to things. Limits can also be used to see what happens when things get very big. For example, formula_1 is never zero, but as formula_2 gets bigger, formula_1 gets closer and closer to zero. The limit of formula_1 as formula_2 gets bigger is "exactly" zero. This is described by "The limit of formula_1 as formula_2 goes to infinity is zero", and written as formula_8.
+
+The counterpart would be formula_9. When the formula_2 gets bigger, the limit goes to infinity. It is written as formula_11.
+
+The fundamental theorem of algebra can be proven from some basic results in complex analysis. It says that every polynomial formula_12 with real or complex coefficients has a complex root (where a root is a number formula_13 satisfying the equation formula_14, and some of these roots may be the same).
+
+The function formula_15 is a line. The formula_16 shows the slope of the function and the formula_17 shows the position of the function on the ordinate. With two points on the line, it is possible to calculate the slope formula_16 with:formula_19.
+
+A function of the form formula_20, which is not linear, cannot be calculated like above. It is only possible to calculate the slope by using tangents and secants. The secant passes through two points and when the two points get closer, it turns into a tangent.
+
+The new formula is formula_21.
+
+This is called difference quotient. The formula_22 now gets closer to formula_23. This can be expressed with the following formula:formula_24.
+
+The result is called derivative or slope of f at the point formula_13.
+
+The integration is about the calculation of areas.
+
+The symbol formula_26is read as "the integral of formula_27 with respect to formula_13 from formula_29 to formula_30", and refers to the area between the x-axis, the graph of function formula_27, and the lines formula_32 and formula_33. The formula_29 is the point where the area should start, and the formula_30 where the area should end.
+
+LocustLocust are the swarming phase of certain species of short-horned grasshoppers in the family Acrididae. Such swarms are usually made of a great number of locusts. They do a lot of damage to the places where they pass, by eating the crops.
+
+These are species which breed rapidly under suitable conditions. The migratory locust is the best-known example. They become gregarious and migratory when their populations become dense enough. They form bands as nymphs and swarms as adults. Both the bands and the swarms are nomadic and rapidly strip fields and greatly damage crops. The adults are powerful fliers; they can travel great distances, consuming practically all green material wherever the swarm settles.
+
+The origin and apparent extinction of certain species of locust—some of which grew to in length—are unclear.
+
+Locusts are edible insects, and are considered a delicacy in some countries. There have been references to their consumption as food throughout history.
+
+In the Book of Joel in the Old Testament locust swarms are described as a plague.
+
+More detailed information on locusts can be found at the pages of the Australian Plague Locust Commission .
+
+GrasshopperGrasshoppers are insects with long, powerful back legs which they use for jumping. They generally live in dry habitats, such as fields, gardens and meadows, with lots of grass. They are in the suborder Caelifera, which includes locusts. There are 11,000 species, of which 10,000 are in the family Acrididae.
+
+To distinguish grasshoppers from bush-crickets or katydids, they are sometimes referred to as the "short-horned grasshopper". Species which change colour and behaviour at high population densities are called locusts.
+
+Grasshoppers prefer to eat grasses, leaves and cereal crops, but many grasshoppers are omnivorous. Many grasshoppers eat from several host plants in one day, while others stay on one host plant. One of the 8000 species of grasshopper eats only a single species of plant.
+
+Grasshoppers make good food for some. As an example, in southern Mexico, "chapulines" (grasshoppers of the genus "Sphenarium") are often eaten. They are high in protein, minerals and vitamins.
+
+They are usually collected at dusk, using lamps or electric lighting, in sweep nets. Sometimes they are placed in water for 24 hours, after which they can be boiled or eaten raw, sun-dried, fried, flavoured with spices, such as garlic, onions, chilli, drenched in lime, and used in soup or as a filling for various dishes. They are abundant in Central and Southern Mexican food and street markets.
+
+Olive oilOlive oil is a vegetable oil. It is made by getting the juice of the fruits of the olive tree. These are called olives. The oil is used in cooking, as well as cosmetics, traditional medicine, and as a fuel for oil lamps. Refined olive oil uses heat and chemicals to get the fat out of the olives.
+
+Olive oil quality is defined by some parameters that are measured by chemical analysis. One of the most important is acidity. The highest quality olive oil (Extra-Virgin) must feature an acidity lower than 0.
+
+8%.
+
+People see it as a healthy addition to their diet because of the high level of monounsaturated fats (mainly oleic acid) and polyphenols. Olive oil is popular in Mediterranean countries. It is a big part of the Mediterranean diet as a main fat source.
+
+Greece has more than a third of the world's olive trees, and is the top producer of olive oil in the world.
+
+Oil lampAn oil lamp is a lamp used for lighting by burning oil. Usually, it produces a flame by burning olive oil, or another vegetable oil, or whale oil during the 1700s and 1800s. They burned cleaner, with less smoke, than candles and other sources of light before electricity.
+
+The lamps were usually made of pottery or metal or glass. An old story in the 1001 Nights has Aladdin cleaning (rubbing the lamp) and making a Genie appear.
+
+Late in the 19th century, those lamps were mostly replaced by kerosene lamps.
+
+ConjugationConjugations are forms of verbs that are changed to agree with the subject that is doing the action described by the verb. Usually most of the word stays the same, but the endings change. Most conjugation systems follow some sort of pattern within the language.
+
+Example: French verb for 'to eat'- "manger" (stem: mang)("manger" is the infinitive of the verb. The infinitive is the un-conjugated form of the verb, literally the "to do" something form such as "to" walk, "to" play, "to" eat. In English one does not say "I like eat" one must say "I like "to" eat". In both English and French ("J'aime "manger"") the infinitive form of the verb would be used in this case.
+
+The pattern here is that the "er" is removed from the verb and replaced with a different ending depending on the subject(who's doing the eating). This pattern is good for many French conjugations, but not all, and in other languages, conjugation patterns are going to be very different.
+
+Tomáš MasarykTomáš Garrigue Masaryk (7 March 1850 - 14 September 1937) was the first President of Czechoslovakia. He led the country between years 1918 and 1935.
+
+He was a scientist, philosopher, pedagog, politician, and journalist.
+
+He studied in Brno, Vienna, and Leipzig, and he spoke many languages (Latin, French, Polish, German and English).
+
+He worked as a teacher at a university in Prague and Vienna.
+
+Some looked at him as having charisma.
+
+Edvard Beneš was the next president after him.
+
+ArachneArachne is a character from Greek mythology.
+
+She was the daughter of Idmon of Colophon, in Lydia (Greece). Her father earned his living with dyeing (coloring) cloth. She learned to be a weaver. A weaver makes cloth, or textiles, from single strands. She was good at what she did, and she claimed that her skill was greater than that of Athena. Athena was the young Greek goddess of weaving (amongst other things).
+
+Athena appeared to the girl as an old woman, and warned her not to offend the gods. Arachne did not take the advice, she wanted a weaving contest to prove her skill.
+
+Athena revealed herself, and let the contest begin. Athena wove her scene where she won over Poseidon, the god of the sea. Arachne wove scenes about Zeus being unfaithful, with different women: Leda, Europa, and Danae.
+
+Athena saw Arachne's work was without error, but she did not like the subject of Arachne's weaving. Athena lost her temper, and destroyed what Arachne had created. She also hit Arachne on the head. Arachne then realized what she had done. She ran away and hanged herself. Athena however had pity with Arachne, so before Arachne was dead, she changed the rope into a cobweb, and Arachne into a spider.
+
+Ovid tells the story in "Metamorphoses". Book 6, 5-54, 129-145. The story is typical of tragedy in Ancient Greek theatre, where pride in thinking oneself better than the gods – "ὕβρις" (hubris) – brings punishment from the gods.
+
+The Greek word for spider is "arachne" (αραχνη), from which derive the mythological woman's name, the class name Arachnida in biology, and the name for fear of spiders, arachnophobia.
+
+Arachne has made appearances in recent years in books such as The Heroes of Olympus series by Rick Riordan.
+
+ArachnophobiaArachnophobia is a fear of spiders. It is a very common phobia - many people suffer from it. People who have it often feel uncomfortable in areas where there may be spiders. The usual way of treating this is using behaviour therapy. People will be confronted with spiders; they may be required to touch spiders as big as a tarantula.
+
+PhobiaA phobia (from the ) is a strong fear about a specific thing or situation. In psychology, phobia is considered an anxiety disorder. Phobia is different than just being scared of something. The fear is so strong that it affects, and often damages, the sufferer's life. For example, the person will usually do everything they can to avoid the thing they fear. If they cannot avoid that thing, they will suffer from very strong anxiety which can damage their social relationships, their ability to work, and other areas of their everyday life.

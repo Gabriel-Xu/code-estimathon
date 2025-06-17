@@ -1,0 +1,3 @@
+NTVDM is included in all x86 versions of Windows made on NT, and let 16-bit Windows and 16-/32-bit DOS applications run. It is not included with 64-bit versions (see Limitations). ntvdm.
+
+exe helps emulate the APIs needed to run 16-bit DOS and Windows applications.

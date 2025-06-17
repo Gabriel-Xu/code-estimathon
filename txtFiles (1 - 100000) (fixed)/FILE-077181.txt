@@ -1,0 +1,461 @@
+The router plows out a precise groove into the finished product that allows all the parts to fit together.
+
+The routers are based on a Motorola 68EC030 CISC processor.
+
+The routers will only route packets into the LAN if it's destined for the LAN, and out from the LAN if it originated on the LAN.
+
+The route runs along a light rail track between Southbank and Port Melbourne, using the right-of-way of the former Port Melbourne railway line, the second railway in Australia, which opened in 1855, which was converted to light rail in 1987.
+
+The route runs along the northern Peruvian mainly through the regions called La Libertad and Lambayeque.
+
+The route runs along Whittier Boulevard from I-605 in Whittier to SR-39 in La Habra.
+
+The route runs between San Jose and Patterson, passing Mount Hamilton on the way.
+
+The route runs between the areas of Bethnal Green and Haggerston.
+
+The route runs between the Kioskplaats in the suburb of Hoboken in the South, and the Silsburg cemetery on the Deurne/Wommelgem border in the East.
+
+The route runs east from Maryland Route 348 (MD 348) at the Maryland border east of Sharptown, Maryland to an intersection with DE 1 in Midway, between Lewes and Rehoboth Beach.
+
+The route runs from an interchange at Interstate 495 (I-495) in Edgemoor north to DE 92 in Hanbys Corner.
+
+The route runs from an interchange with Interstate 80 (I-80) and I-376 in Shenango Township to an intersection with U.
+
+S. Route 62 Business (US 62 Business) and PA 718 in Sharon.
+
+The route runs from an intersection with SR 55 in Lynchburg north and east to SR 64 near Beech Grove.
+
+The route runs from an intersection with unnumbered Duncan Road, just west of DE 41, north of Prices Corner to DE 100 near Elsmere.
+
+The route runs from Cashel to Clonmel via Rosegreen, passing over junction 8 of the M8 motorway.
+
+The route runs from DE 273 in Pleasantville northeast to U.
+
+S. Route 202 (US 202) and DE 141 near the Wilmington Airport.
+
+The route runs from DE 279 and DE 896 in Newark east to DE 48 in downtown Wilmington.
+
+The route runs from DE 41 in Hockessin east to U.
+
+S. Route 13 Business (US 13 Bus.) in downtown Wilmington.
+
+The route runs from DE 4 adjacent to the Christiana Hospital in Christiana southeast to DE 273 near Hares Corner.
+
+The route runs from DE 4 near Elsmere to the Pennsylvania border near Montchanin, where it continues into Pennsylvania as State Route 3100 (SR 3100, Chadds Ford Road).
+
+The route runs from DE 9 near Delaware City north to DE 7 in Pike Creek.
+
+The route runs from Halifax to Fort Lawrence on the New Brunswick border.
+
+The route runs from Halifax to Yarmouth, along the South Shore.
+
+The route runs from Highway 104 exit 7 at Thomson Station to Glace Bay.
+
+The route runs from its junction with the N8 1 km from Kilworth for approximately 5 km until it meets the R666 road northeast of Fermoy.
+
+The route runs from its junction with the R639 and N24 at Cloughabreeda 2 km north of Cahir through Cahir town and onwards for a further 8 km to Ardfinnan, where it joins the R665 road.
+
+The route runs from its junction with the R639 at New Inn for approximately 10km until it meets the N24 in the townland of Rathkeevin, west of Clonmel.
+
+The route runs from Maryland Route 273 (MD 273) at the Maryland border near Newark east to DE 9 and DE 141 in New Castle.
+
+The route runs from Mitchelstown to Clonmel via Ballyporeen, Clogheen and Ardfinnan, passing through parts of counties Cork and Tipperary.
+
+The route runs from Nysa to Prudnik, in the Opole Voivodeship, then on to the border with the Czech Republic.
+
+The route runs from PA 841 in West Marlborough Township to U.
+
+S. Route 322 Business (US 322 Bus.) in downtown West Chester.
+
+The route runs from Ram Indra Road, in the northeast of Bangkok, south through Pradit Manuthum Rd along the Chalongrat Expressway going into the downtown district of Thong Lo.
+
+The route runs from Route 190 in the Somersville section of the Connecticut town of Somers to the town center of East Longmeadow, Massachusetts.
+
+The route runs from Santa Barbara to State Route 150 near the Ventura/Santa Barbara county line.
+
+The route runs from Shasta Dam to Interstate 5 near Shasta Lake City, California.
+
+The route runs from Sheerness to Queenborough via Halfway.
+
+The route runs from State Route 1 on the Pacific coast near Jenner to State Route 121 south of Sonoma.
+
+The route runs from State Route 58 to State Route 41.
+
+The route runs from Sydney to Louisbourg, a distance of 37 kilometers.
+
+The route runs from the border of Russia to Baku.
+
+The route runs from the capital city of Antananarivo to Toamasina, a city on the eastern coast of the Madagascar.
+
+The route runs from the city center to the west of the city, serving the Canton, Ely and Caerau districts.
+
+The route runs from the Jamaica Center transit hub and business district to Cambria Heights near the Queens-Nassau County border.
+
+The route runs from the Maryland border in the Lewisville section of Elk Township, where it continues as Maryland Route 213 (MD 213), north to PA 82 in the Doe Run section of West Marlborough Township.
+
+The route runs from the Maryland border near Burrsville, Maryland, where it continues as Maryland Route 317 (MD 317), east to DE 1 in Milford.
+
+The route runs from today's Memorial Highway to Channelside Drive.
+
+The route runs from Tzemah junction south of the Kinneret, first through the Yarmuk valley, then it rises up a steep slope into the Golan Heights and crosses it until it reaches the lowest cable-car station on Mount Hermon.
+
+The route runs from U.
+
+S. Route 13 Business (US 13 Bus.) in downtown Wilmington north to Pennsylvania Route 52 (PA 52) at the Pennsylvania border near Centerville.
+
+The route runs from U.
+
+S. Route 13 (US 13) in Bensalem Township north to PA 413 in Penndel.
+
+The route runs from U.
+
+S. Route 13 (US 13) in Boyds Corner, Delaware north to the Maryland border northwest of Newark, where it becomes the unsigned Maryland Route 896 (MD 896) briefly before heading into Pennsylvania as Pennsylvania Route 896 (PA 896).
+
+The route runs from U.
+
+S. Route 13 (US 13) in Marcus Hook north to PA 352 in Lima.
+
+The route runs from U.
+
+S. Route 322 (US 322) in West Cornwall Township, Lebanon County north to PA 183 in Bethel Township, Berks County.
+
+The route runs from U.
+
+S. Route 422 (US 422) in Myerstown, Lebanon County north to PA 443 in Pine Grove Township, Schuylkill County.
+
+The route runs in an "L" pattern and connects the town of Enfield, Connecticut to the town of East Longmeadow.
+
+The route runs in a northeast-southwest direction between DE 54 in Selbyville and DE 26 west of Millville, crossing DE 20 in Roxana.
+
+The route runs mostly along Essex Street and Avenue C from Battery Park City to Kips Bay.
+
+The route runs north-east, on the north bank of the Vaal River.
+
+The route runs southwest from downtown Boston along Tremont Street, ending at the Ruggles bus terminal and Orange Line transfer point.
+
+The route runs though suburban areas until it reaches Upper Killay where the road enters rural Gower.
+
+The route runs through bays, lakes, rivers, streams, and canals, and includes the Intracoastal Waterway running from Norfolk, Virginia, to the Florida Keys.
+
+The route runs through rural areas in northern Lehigh County, intersecting the western terminus of PA 329 in Neffs.
+
+The route runs through rural areas, passing through the towns of Greenwood, Ellendale, and Milton.
+
+The route runs through suburban areas between Newark and New Castle as a four-lane divided highway, passing through Ogletown and Christiana.
+
+The route runs through suburban areas of northern New Castle County, passing through the eastern part of Newark.
+
+The route runs through suburban areas, passing through Linwood and Aston Township.
+
+The route runs through the Central, Greater Accra and Eastern regions of Ghana.
+
+The route runs through the Gaeltacht in north-western County Donegal, forming a main coastal route in Ulster.
+
+The route runs through the Greater Accra and Eastern regions of Ghana.
+
+The route runs through the Greater Accra, Eastern, Volta, Northern and Upper East regions of Ghana.
+
+The route runs through the major cities of Decatur, Illinois and Springfield, Illinois.
+
+The route runs through the Western, Central, Greater Accra and Volta regions of Ghana.
+
+The route runs two miles (more than three kilometers) through St. George on St. George Boulevard. SR-34 was a portion of US-91 when it passed through the city, and serves as the northern part of the St. George Business Loop for I-15; Bluff St. (SR-18) from Interstate 15's Exit 6 to St. George Blvd. serves as the southern half.
+
+The route runs via Pevensey Bay, Hastings, Rye, Camber, Lydd, New Romney, Hythe and Folkestone.
+
+The route runs via Tsim Sha Tsui, Yau Ma Tei, Mong Kok, Kowloon City, San Po Kong, Ngau Tau Kok, Kwun Tong, and Sau Mau Ping.
+
+The routes are co-signed for a few kilometers heading south.
+
+The routes are co-signed heading north to Reivilo.
+
+The routes are cosigned heading south, before the R345 is given off to end at the coast at Hamburg.
+
+The routes are divided into branch routes.
+
+The routes are named after their parent highway, which leads to different loops with the same designation.
+
+The routes are not electrified and are serviced with diesel-hydraulic and diesel-mechanic DMUs.
+
+The routes are now operated by MTA Regional Bus Operations under the MTA Bus Company brand.
+
+The routes are regularly maintained.
+
+The routes are separated into primary and secondary routes, though.
+
+The routes are the result of a joint venture between the Federal Aviation Administration and the Department of Defense to provide for high-speed, low-altitude military activities.
+
+The route saw little use and was abandoned in March 1960, with the rails lifted by the end of July.
+
+The routes connect major regional hubs throughout 53 cities in three counties (King, Pierce, and Snohomish) in the Puget Sound region.
+
+The routes cover Shelby County, Tennessee and West Memphis, Arkansas.
+
+The routes, criss-crossing both countries, are primarily intended for recreational multi-day bike tours, such as cycling holidays.
+
+The routes cross into the Northern Cape before again diverging.
+
+The routes D2, D55 and D519 intersect in Borovo Naselje, connecting Vukovar to Osijek, Vinkovci and Dalj, respectively.
+
+The routes diverge just outside the town.
+
+The route's eastern terminus is at a T-intersection with U.
+
+S. Route 68 in West Liberty.
+
+The routes enter the town together where they meet the R316.
+
+The route served the central portion of the city, providing access to several government buildings in the capitol district.
+
+The route serves as a bypass of Sinton to the northeast, connecting to US 181 at both ends.
+
+The route serves as a connector between U.
+
+S. Route 68 (US 68), along its concurrency with KY 80, to Interstate 65 (I-65) on the far east side of Bowling Green.
+
+The route serves as a loop to the west of U.
+
+S. Route 641 (US 641) in the southern part of the county, serving the community of Holladay.
+
+The route serves as an alternative for traffic going east on Interstate 40 intending to turn northward on Interstate 75, which has greatly relieved congestion in downtown Knoxville.
+
+The route serves as an entryway to the Pinnacles National Park, located in the Gabilan Mountains, from both the Salinas Valley on the west and State Route 25 on the east.
+
+The route serves a state prison north of Ely.
+
+The route serves Baltimore City Community College, Coppin State College, and various nearby streets, some served by regular bus routes, and some not.
+
+The route serves Blue Jay and Twin Peaks along its way.
+
+The route serves farm areas around the southwest side of the city of Fallon.
+
+The route serves the northeastern suburbs of Philadelphia, Pennsylvania with service in Bucks County along the Delaware River to Trenton, New Jersey.
+
+The route serves the northwestern section of Philadelphia with service to Germantown, Mount Airy, and Chestnut Hill.
+
+The route serves the Thompsonville and North Thompsonville sections of Enfield, connecting them to East Longmeadow center.
+
+The route serves the village of Lime Rock.
+
+The route serves the Westfield section of the city of Middletown.
+
+The routes follow various segments of the state-maintained highway system, usually rural in character, and are mostly located in the central and southern areas of the state.
+
+The routes from each eastern terminus met at Fort Smith, Arkansas, and then continued through Indian Territory, Texas, New Mexico, Arizona, Baja California, and California ending in San Francisco.
+
+The route shared much of its track with the 501 Queen and 504 King routes, following in the path of the 501 from the Long Branch Loop along Lake Shore Boulevard West and The Queensway as far as Roncesvalles Avenue, where it turned from Queen Street on to 504 King Street tracks.
+
+The route shares much in common with the Headingley Mile (a similar crawl in LS6) but usually incorporating more pubs on the A660 road, typically those towards Leeds City Center.
+
+The route she serviced was between Le Havre and Rouen via Honfleur with secondary stops along the way.
+
+The routes include Cycle Superhighways, Quietways and the older London Cycle Network Plus, all designated by local government body Transport for London (TfL), and National Cycle Network routes designated by sustainable transport charity Sustrans.
+
+The route's Interstate designation is not signed; rather, its entire length is signed as Alaska Route 3.
+
+The routes lead you through the woods of the Veluwezoom and the municipality of Renkum and the great views over the river Rhine.
+
+The route's most important community is the town of Placentia, which is home to the province's only lift bridge.
+
+The route's name changes to Dunkirk Drive when it enters the suburb of St. Vital at the St. Vital Bridge over the Red River, and again to Dakota Street when it crosses St. Mary's Road just north of St. Vital Center.
+
+The route's northern terminus ends at Route 7.
+
+The route's northern terminus is at US-91.
+
+The route's northern terminus is the N7 at Springbok, Northern Cape.
+
+The route's number is written in white on a dark red background.
+
+The routes offered at Manchester Wall, and its 3 adjacent pillars, are superb for recreational and experienced climbers alike.
+
+The Routes of the Olive Tree were inaugurated in 1998 as thematic cultural itineraries around the theme of the olive tree.
+
+The routes operate in a loop, with no central hub.
+
+The route, spans from Sectors 8,9,10 to 11, with the core being around DAV College, Home Science College for Girls in Sector-10 and Govt.
+
+The route spans Pictou and Antigonish counties and connects Sutherlands River at Exit 27 on Highway 104 with Antigonish at Trunk 4.
+
+The route "Special Forces" on Tower 3, was put up by the Indonesian Army's Special Forces.
+
+The route specifically avoided the Port of New York, due to the lack of a rail crossing of North River (Hudson River).
+
+The routes reach Louriesfontein, where they diverge.
+
+The routes run from the Jamaica Center transit hub and business district to Rosedale, with continued service to the Green Acres Mall shopping center in Nassau County.
+
+The routes shown pass into and out of central, western, eastern, and southern zones.
+
+The route's south-eastern origin is the R355 near that route's origin at the R46 in the Western Cape.
+
+The routes started at Marist College and included the Walkway Over the Hudson State Historic Park, which the runners traversed in both directions, as well as some adjacent segments of rail trails in Dutchess and Ulster Counties.
+
+The route started approximately a decade prior to the creation of the TTC.
+
+The route started at M-106 just north of Jackson and stopped at the entrance of State Prison of Southern Michigan.
+
+The route started at the "second ferry" on the Schuylkill River, today's Market Street in Philadelphia, and went through West Chester, East Fallowfield Township, and Gap, before ending in Strasburg.
+
+The route started in 1992with an hourly service which was increased to half-hourly in 2005; new vehicles were introduced in 2009 and again in 2015.
+
+The route started in 2008 as a Dutch regional initiative in the Arnhem-Nijmegen area and then developed into a transnational route that was officially inaugurated in Arromanches on June 6, 2014 during the Normandy D-day commemorations.
+
+The route starts at a frontage road and travels east along an old alignment of U.
+
+S. Route 80 (US 80).
+
+The route starts at Jerantut, at its interchange with the Federal Route 64.
+
+The route starts at KY 109, west of Sturgis.
+
+The route starts at Melbourne University and operates via Swanston Street, St Kilda Road, Brighton Road and Glen Huntly Road to its terminus on the corner of Truganini and Koornang Roads in Carnegie.
+
+The route starts at MS 13 in the town of Lena, and it travels eastward across southern Leake County.
+
+The route starts at MS 15 south of Newton and travels southeastward.
+
+The route starts at MS 184 in the town of Meadville and travels southeastwards.
+
+The route starts at MS 28 near Georgetown, and it travels north through western Simpson County.
+
+The route starts at MS 2 and MS 15 in Blue Mountain and travels eastward from the town.
+
+The route starts at MS 2, where it travels northwestward.
+
+The route starts at MS 30 in Burton and travels northward.
+
+The route starts at MS 363, and travels north around Saltillo.
+
+The route starts at MS 613, southwest of Lucedale.
+
+The route starts at Route 105 near East Prairie.
+
+The route starts at Sungai Koyan.
+
+The route starts at Temerloh, at its interchange with the Federal Route 87.
+
+The route starts at the Alabama state line, and travels northwestward to Columbus.
+
+The route starts at the Mojave River Forks, skims the easterly and southerly sides of Lake Arrowhead and meets State Route 189, Lake's Edge Road, at the south entrance to the Lake Arrowhead mall.
+
+The route starts at U.
+
+S. Route 412 (US 412) in Cardwell.
+
+The route starts at U.
+
+S. Route 51 (US 51) in Coldwater, and it travels eastward to an interchange at Interstate 55 (I-55) on the northern edge of the town.
+
+The route starts at U.
+
+S. Route 61 (US 61) near Port Gibson, and it travels eastward.
+
+The route starts at U.
+
+S. Route 61 (US 61) south of Rolling Fork.
+
+The route starts at U.
+
+S. Route 82 (US 82) and MS 15 in Mathiston, and it travels north away from the town.
+
+The route starts at U.
+
+S. Route 84 (US 84) near Collins.
+
+The route starts in the middle of the Eifel mountains and runs initially through a valley landscape with broad river bends.
+
+The route starts in Trois-Pistoles at the junction of Route 132 and ends north of Cabano at the junction of Route 232.
+
+The route starts out further up the valley as Denholme Beck, Hewenden Beck and Hallas Beck.
+
+The route stays almost completely within the city limits of Tuscaloosa.
+
+The route still exists, and since the 1990s increased interest in long-distance hiking and cycling have made the German and Austrian stretches of the Via Claudia Augusta popular among tourists, with the result that modern signage (illustration) identifies the revitalized track.
+
+The routes to Fort William/Mallaig and Oban diverge after this station.
+
+The route stretches along the border with Hungary and Tisa River.
+
+The routes up the hill are well-trodden and easy to follow.
+
+The routes used to complete a given call through a network are identified, in advance of transmission, in routing tables maintained in each switch database.
+
+The routes were combined into a one-way pair on June 4, 1951 and kept the number M15.
+
+The routes were first introduced in September 1994 and have been modified since.
+
+The routes were from Concord Heights to Concord Hospital and from Penacook to the South End of Concord, along with service for people with disabilities and seniors.
+
+The routes were originally privately operated under the QM1 and QM1A designations by Steinway Transit Corporation and Queens Surface Corporation from 1968 to 2005.
+
+The route's western origin is the R27 at Nieuwoudtville.
+
+The routes western origin starts just north of Willowmore, from the N9.
+
+The route's western terminus is at an intersection with Maryland Route 353 (MD 353) and DE/MD 54 at the Maryland border south of Gumboro and its eastern terminus is at a dead end on the Atlantic Ocean in Bethany Beach, even though signage ends at the DE 1 intersection.
+
+The route's western terminus is the 365 at Lambert's Bay.
+
+The route's western terminus was in Centreville of Wilkinson county.
+
+The routes, which are operated by the MTA Regional Bus Operations, also follow Sedgwick Avenue and Mosholu Parkway for a short distance at their northern end.
+
+The routes which serve the lower station are 33, 72 (towards Roehampton), 209, 266, 283 (towards Barnes/London Wetland Center), 419, 485 and 609.
+
+The routes which serve the upper station are 9, 10, 27, 72 (towards East Acton), 190, 211, 220, 267, 283 (towards East Acton), 295, 391, H91, N9, N11 and N97.
+
+The route system includes the officially designated highways, urban and intercity motorways and arterial roads, and important cross-state roads that have not been declared highways.
+
+The route taken and its Yosemite Decimal System rating are given where known.
+
+The route taken by passenger trains has changed over the years and now differs considerably from the original.
+
+The route taken by the railway line closely follows the motorway except for the central section where the railway does not serve Oxford.
+
+The route taken depends on things like the nature of the demand, available resources, location and type of activity.
+
+The route takes between 8 and 31 days aided by trade winds, and covers over 2700 nautical miles.
+
+The route takes its name from the River Wensum, in whose valley the route lies.
+
+The route takes two months to walk.
+
+The Route Tenants' Defense Association (R.
+
+T.
+
+D.
+
+A.), originally called the Route Tenant-Right Association, was founded in Ballymoney in 1869.
+
+The route terminated at Parliament St in the morning, and originated at Church Street in the afternoon.
+
+The route terminates at a cul-de-sac in Lark Harbor.
+
+The route terminates at a junction with Kentucky Route 11 in Barbourville in Knox County.
+
+The route terminates in Main Street at the junction with the R356.
+
+The route that runs on the guideway is Superoute 66, run with Volvo B7TL double deck busses.
+
+The route that was built takes a more direct route to Cass and bypasses the lake.
+
+The route that was formerly the A10 is an ancient one with portions of it following the line of the Roman Road Ermine Street.
+
+The route then follows the Old Fredericton Road, running due west to a junction with Route 885 at New Canaan.
+
+The route then heads east-north-east to Stutterheim, where it crosses the N6.
+
+The route then jogs north to a class 4 chute leading to the broad and flat summit plateau.
+
+The route then led southward down the St. Croix to its junction with the Namekagon River.
+
+The route then moves away from the root by cutting corners, as ant-trails do.
+
+The route then passes the northern terminus of Route 935 continuing east through Frosty Hollow then enters Sackville where it is known as "Main Street".
+
+The route then passes through Licford and Arthurette where it crosses the Tobique River briefly merging with Route 390 from the south side to the north side continuing to follow the river east.
+
+The route then passes through the UNESCO World Heritage 'Forgotten Landscape' near Blaenavon, a key location that was so important during the Industrial Revolution.

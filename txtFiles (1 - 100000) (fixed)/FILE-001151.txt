@@ -1,0 +1,117 @@
+If the player does not play the game for a long period of time, the dog may run away, so players need to play with their dogs daily.
+
+A sequel, "Nintendogs + Cats", was released for the Nintendo 3DS in 2011.
+
+LuigiLuigi Mario is a video game character made by Nintendo. The famous game designer, Shigeru Miyamoto, made him. Luigi is the younger but taller fraternal twin brother of the Nintendo mascot, Mario. He is in many games all over the "Mario" series, almost always as an assistant to his brother Mario.
+
+The first game Luigi was in was "Mario Bros. (Game and Watch)" (1983) as a character seen working in a factory. He later appeared playable in the 1983 arcade game "Mario Bros" and was played by the second player. It was also done in "Super Mario Bros.", "Super Mario Bros. 3", "Super Mario World", and other games. The first game in which he was present as the first character was "Super Mario Bros. 2". In the Mario series, he is usually not the main character. However, he has his own games where he is the main character, like Luigi's Mansion and Mario is Missing!. He also appears in many spin-offs, such as Mario Kart, Mario Party and the Super Smash Bros. series. Luigi has also been in every show of the three DiC TV series based on the Nintendo Entertainment System and Super Nintendo Entertainment System games.
+
+At first, he was made as a copy of Mario with a green color instead of red. Later in the series, he became his own character with his own personality and abilities. As his part in the "Mario" series progressed, Luigi became taller and thinner than his brother.
+
+Nintendo called 2013 "The Year of Luigi" to mark the thirty years of the character's existence. The games released in 2013 brought attention to Luigi, such as "", "", "Dr. Luigi", and the level pack "New Super Luigi U" for "New Super Mario Bros. U". In "Super Mario 3D World", a Luigi version of "Mario Bros." called "Luigi Bros." can be unlocked.
+
+The events leading to the creation of Luigi began in 1982, during the making of "Donkey Kong". The Nintendo designer Shigeru Miyamoto had created Mario (who used to be "Jumpman") hoping that he would be able to show the character in many different pars in future games. Miyamoto had been given ideas by the game "Joust" to create a game where two players can play at the same time. This was the cause of his development of the game "Mario Bros." in 1983, with Luigi as the brother of Mario and the second playable character. The name Luigi is said to have been inspired by a pizza business near the head office of Nintendo of America in Redmond, Washington, called "Mario & Luigi's". Miyamoto noticed that the word "ruiji" means "similar" in the Japanese language and that Luigi was designed to have the same size, shape and gameplay as Mario.
+
+At first, in "Donkey Kong", Mario was a carpenter. In "Mario Bros.", Mario and Luigi were designed as Italian plumbers by Miyamoto at the suggestion of a partner. Software limits at the time—almost the same as those that gave Mario his special look in "Donkey Kong"—meant the first appearance of Luigi was limited to a simple color swap of Mario, designed to be the second player. The characters were in every way the same, other than their colors. The green color for Luigi would be one of his physical characteristics in future releases.
+
+After the success of "Mario Bros.", Luigi was shown to a wider market in 1985 with the release of the NES game "Super Mario Bros. "Once again, his part was limited to a color swap of Mario, acting as the second-player in almost the same way as "Mario Bros. "The Japan-only form of "Super Mario Bros. 2" in 1986 (released in the west as " "in the future) marked the start of Luigi becoming a separate character. As with his last appearances, Luigi was still a color swap of Mario. However, his moves were not the same. Luigi could now jump higher and a greater distance than his brother, at the cost of motion reaction and exactness.
+
+While this form of "Super Mario Bros. 2" was released in Japan, it was thought to be too hard for the American public at the time. In 1988, as a result, an alternative release was developed to be good enough as "Super Mario Bros. 2" for western players (and in the future released in Japan as "Super Mario USA"). This would play a key part in forming the current look of Luigi. The game was a conversion of "", with the art changed to be characters and places from the "Mario" series. In this release, the character of "Mama", who could jump the highest, was good enough for the model for Luigi. This caused his taller, thinner look, combined with his Mario-designed outfit and green color. There were appearances of Luigi being taller than Mario before - for example, in the 1988 Famicom Disk System game "" and before that, in a very limited 1986 anime "" (though in the anime, he had a yellow shirt and blue overalls). Licensed art for "Super Mario Bros. 3" and "Super Mario World "shows Luigi with this new look. Nintendo of Japan would not change his art differences to his look within the game until the 1992 game "Super Mario Kart". The appearance of Luigi from the "Yume Kōjō: Doki Doki Panic" version of "Super Mario Bros. 2" has been used ever since, even for games made again in which he was a palette swap to start with.
+
+Much like his appearance, Luigi's voice has changed over the years. In "Mario Kart 64", which voiced many characters for the first time, some characters had two different voices in relation to the region of the game. The North American and European versions of the game present a deep voice for Luigi, by Charles Martinet, who also voices Mario, Wario, Waluigi, and Toadsworth. The Japanese version uses a high, falsetto voice, by (then French translator at Nintendo) Julien Bardakoff. All forms of "Mario Party" present the high-pitched clips of Bardakoff from "Mario Kart 64". Luigi kept this higher voice in "Mario Party 2". In "Mario Golf", "Mario Tennis", and "Mario Party 3" his voice returned to normal. Since then, in all games but "" and "Super Smash Bros. Melee", Luigi has always had a medium-pitched voice. In "", Luigi's voice was the same high voice as in the Japanese "Mario Kart 64". In "Super Smash Bros." and "Super Smash Bros. Melee", Luigi's voice is based on Mario's voice (with clips taken from "Super Mario 64"), with a higher pitch. In "Super Smash Bros. Brawl", he has his own voice clips instead of voice clips taken from Mario.
+
+Playable only in two-player:Playable in one-player or two-player:RAIDRAID is an acronym that stands for Redundant Array of Inexpensive Disks or Redundant Array of Independent Disks. RAID is a term used in computing. With RAID, several hard disks are made into one logical disk. There are different ways this can be done. Each of the methods that puts the hard disks together has some benefits and drawbacks over using the drives as single disks, independent of each other. The main reasons why RAID is used are:It is not possible to achieve all of these goals at the same time, so choices need to be made.
+
+There are also some bad things:Most of the work on RAID is based on a paper written in 1988.
+
+Companies have used RAID systems to store their data since the technology was made. There are different ways in which RAID systems can be made. Since its discovery, the cost of building a RAID system has come down a lot. For this reason, even some computers and appliances that are used at home have some RAID functions. Such systems can be used to store music or movies, for example.
+
+A hard disk is a part of a computer. Normal hard disks use magnetism to store information. When hard disks are used, they are available to the operating system. In Microsoft Windows, each hard disk will get a drive letter (starting with C:, A: or B: are reserved for floppy drives). Unix and Linux-like operating systems have a single-rooted directory tree. This means that people who use the computers sometimes do not know where the information is stored.
+
+In computing, the hard disks (which are hardware, and can be touched) are sometimes called "physical drives" or "physical disks". What the operating system shows the user is sometimes called "logical disk". A physical drive can be split into different sections, called disk partitions. Usually, each disk partition contains one file system. The operating system will show each partition like a logical disk.
+
+Therefore, to the user, both the setup with many physical disks and the setup with many logical disks will look the same. The user cannot decide if a "logical disk" is the same as a physical disk, or if it simply is a part of the disk. Storage Area Networks (SANs) completely change this view. All that is visible of a SAN is a number of logical disks.
+
+In the computer, data is organised in the form of bits and bytes. In most systems, 8 bits make up a byte. Computer memory uses electricity to store the data, hard disks use magnetism. Therefore, when data is "written" on a disk, the electric signal is converted into a magnetic one. When data is read from disk, the conversion is done in the other direction: An electrical signal is made from the polarity of a magnetic field.
+
+A RAID array joins two or more hard disks so that they make a logical disk. There are different reasons why this is done. The most common ones are:RAID is done by using special hardware or software on the computer. The joined hard disks will then look like one hard disk to the user. Most RAID levels increase the redundancy. This means that they store the data more often, or they store information on how to reconstruct the data. This allows for a number of disks to fail without the data being lost. When the failed disk is replaced, the data it should contain will be copied or rebuilt from the other disks of the system. This can take a long time. The time it takes depends on different factors, like the size of the array.
+
+One of the reasons why many companies are using RAID is that the data in the array can simply be used. Those using the data need not be aware they are using RAID at all. When a failure occurred and the array is recovering, access to the data will be slower. Accessing the data during this time will also slow down the recovery process, but this is still much faster than not being able to work with the data at all.
+
+Depending on the RAID level however, disks may not fail while the new disk is being prepared for use. A disk failing at that time will result in losing all the data in the array.
+
+The different ways to join disks are called "RAID levels". A bigger number for the level is not necessarily better. Different RAID levels have different purposes. Some RAID levels need special disks and special controllers.
+
+In 1978, a man called Norman Ken Ouchi, who worked at IBM, made a suggestion describing the plans for what would later become RAID 5. The plans also described something similar to RAID 1, as well as the protection of a part of RAID 4.
+
+Workers at the University of Berkeley helped to plan out research in 1987. They were trying to make it possible for RAID technology to recognize two hard drives instead of one. They found that when RAID technology had two hard drives, it had much better storage than with only one hard drive. However, it crashed much more often.
+
+In 1988, the different types of RAID (1 to 5), were written about by David Patterson, Garth Gibson and Randy Katz in their article, called "A Case for Redundant Arrays of Inexpensive Disks (RAID)". This article was the first to call the new technology RAID and the name became official.
+
+RAID uses a few basic ideas, which were described in the article "RAID: High-Performance, Reliable Secondary Storage" by Peter Chen and others, published in 1994.
+
+Caching is a technology that also has its uses in RAID systems. There are different kinds of caches that are used in RAID systems:In modern systems, a write request is shown as done when the data has been written to the cache. This does not mean that the data has been written to the disk. Requests from the cache are not necessarily handled in the same order that they were written to the cache. This makes it possible that, if the system fails, sometimes some data has not been written to the disk involved. For this reason, many systems have a cache that is backed by a battery.
+
+When talking about a mirror, this is a very simple idea. Instead of the data being in only one place, there are several copies of the data. These copies usually are on different hard disks (or disk partitions). If there are two copies, one of them can fail without the data being affected (as it still is on the other copy). Mirroring can also give a boost when reading data. It will always be taken from the fastest disk that responds. Writing data is slower though, because all disks need to be updated.
+
+With striping, the data is split into different parts. These parts then end up on different disks (or disk partitions). This means that writing data is faster, as it can be done in parallel. This does not mean that there will not be faults, as each block of data is only found on one disk.
+
+It is possible to calculate different kinds of checksums. Some methods of calculating checksums allow finding a mistake. Most RAID levels that use redundancy can do this. Some methods are more difficult to do, but they allow to not only detect the error, but to fix it.
+
+Many of the ways to have RAID support something is called a "hot spare". A hot spare is an empty disk that is not used in normal operation. When a disk fails, data can directly be copied onto the hot spare disk. That way, the failed disk needs to be replaced by a new empty drive to become the hot spare.
+
+RAID works by spreading the data over several disks. Two of the terms often used in this context are "stripe size" and "chunk size".
+
+The "chunk size" is the smallest data block that is written to a single disk of the array. The "stripe size" is the size of a block of data that will be spread over all disks. That way, with four disks, and a stripe size of 64 kilobytes (kB), 16 kB will be written to each disk. The chunk size in this example is therefore 16 kB. Making the stripe size bigger will mean a faster data transfer rate, but also a bigger maximum latency. In this case, this is the time needed to get a block of data.
+
+Many controllers (and also software) can put disks together in the following way: Take the first disk, till it ends, then they take the second, and so on. In that way, several smaller disks look like a larger one. This is not really RAID, as there is no redundancy. Also, spanning can combine disks where RAID 0 cannot do anything. Generally, this is called "just a bunch of disks" (JBOD).
+
+This is like a distant relative of RAID because the logical drive is made of different physical drives. Concatenation is sometimes used to turn several small drives into one larger useful drive. This can not be done with RAID 0. For example, JBOD could combine 3 GB, 15 GB, 5.
+
+5 GB, and 12 GB drives into a logical drive at 35.
+
+5 GB, which is often more useful than the drives alone.
+
+In the diagram to the right, data are concatenated from the end of disk 0 (block A63) to the beginning of disk 1 (block A64); end of disk 1 (block A91) to the beginning of disk 2 (block A92).
+
+If RAID 0 were used, then disk 0 and disk 2 would be truncated to 28 blocks, the size of the smallest disk in the array (disk 1) for a total size of 84 blocks.
+
+Some RAID controllers use JBOD to talk about working on drives without RAID features. Each drive shows up separately in the operating system. This JBOD is not the same as concatenation.
+
+Many Linux systems use the terms "linear mode" or "append mode". The Mac OS X 10.
+
+4 implementation — called a "Concatenated Disk Set" — does not leave the user with any usable data on the remaining drives if one drive fails in a concatenated disk set, although the disks otherwise operate as described above.
+
+Concatenation is one of the uses of the Logical Volume Manager in Linux. It can be used to create virtual drives.
+
+Most modern hard disks have a standard called Self-Monitoring, Analysis and Reporting Technology (S.
+
+M.
+
+A.
+
+R.
+
+T). SMART allows to monitor certain things on a hard disk drive. Certain controllers allow to replace a single hard disk even before it fails, for example because S.
+
+M.
+
+A.
+
+R.
+
+T or another disk test reports too many correctable errors. To do this, the controller will copy all the data onto a hot spare drive. After this, the disk can be replaced by another (which will simply become the new hot spare).
+
+The setup of the disks and how they use the techniques above affects the performance and reliability of the system. When more disks are used, one of the disks is more likely to fail. Because of this, mechanisms have to be built to be able to find and fix errors. This makes the whole system more reliable, as it is able to survive and repair the failure.
+
+RAID 0 is not really RAID because it is not redundant. With RAID 0, disks are simply put together to make a large disk. This is called "striping". When one disk fails, the whole array fails. Therefore, RAID 0 is rarely used for important data, but reading and writing data from the disk can be faster with striping because each disk reads part of the file at the same time.
+
+With RAID 0, disk blocks that come after one another are usually placed on different disks. For this reason, all disks used by a RAID 0 should be the same size.
+
+RAID 0 is often used for Swapspace on Linux or Unix-like operating systems.
+
+With RAID 1, two disks are put together. Both hold the same data, one is "mirroring" the other. This is easy, fast configuration whether implemented with a hardware controller or by software.
+
+RAID Level 5 is what is probably used most of the time. At least three hard disks are needed to build a RAID 5 storage array. Each block of data will be stored in three different places. Two of these places will store the block as it is, the third will store a checksum. This checksum is a special case of a Reed-Solomon code that only uses bitwise addition. Usually, it is calculated using the XOR method. Since this method is symmetric, one lost data block can be rebuilt from the other data block and the checksum. For each block, a different disk will hold the parity block which holds the checksum. This is done to increase redundancy. Any disk can fail. Overall, there will be one disk holding the checksums, so the total usable capacity will be that of all disks except for one. The size of the resulting logical disk will be the size of all disks together, except for one disk which holds parity information.
+
+Of course this is slower than RAID level 1, since on every write, all disks need to be read to calculate and update the parity information. The read performance of RAID 5 is almost as good as RAID 0 for the same number of disks. Except for the parity blocks, the distribution of data over the drives follows the same pattern as RAID 0. The reason RAID 5 is slightly slower is that the disks must skip over the parity blocks.

@@ -1,0 +1,347 @@
+Raspcontrol is a web-based system monitoring tool designed primarily for the Raspberry Pi but is compatible with Unix like systems too.
+
+Raspcontrol is written entirely in the PHP programming language and uses no other system resources but of that used to process the PHP and the HTTP Server.
+
+Raspet was born in Washington DC and raised in Jacksonville Florida.
+
+Rasphuis was a "tuchthuis" or prison in Amsterdam that was established in 1596 in the former Convent of the Poor Clares on the Heiligeweg.
+
+Raspicious Dzanjalimodzi was the MCP shadow Finance Minister and MP for Lilongwe City South West in Malawi.
+
+Raspin also competed in two Summer Olympics, earning his best finish of ninth in the K1 event in Atlanta in 1996.
+
+RASP is designed to prepare soldiers, many of whom have just graduated Basic Training, Advanced Individual Training, and Airborne School and are still considered "fresh" recruits, for assignment to the 75th Ranger Regiment.
+
+RASP is required for all ranks.
+
+Raspletin is a lunar impact crater that is located along the southeastern inner edge of the much larger walled plain Gagarin, on the far side of the Moon.
+
+RASP-protected applications rely less on external devices like firewalls to provide runtime security protection.
+
+Raspreet Sandhu (born 15 September 1993) is an American professional footballer playing for Tampines Rovers FC as a forward or Winger.
+
+RAS protein activator like 3 is a protein that in humans is encoded by the RASAL3 gene.
+
+Ras protein-specific guanine nucleotide-releasing factor 1 is a protein in humans that is encoded by the RASGRF1 gene.
+
+Rasps are generally coarse and cannot be resharpened.
+
+RASP technology is said to improve the security of software by monitoring its inputs, and blocking those that could allow attacks, while protecting the runtime environment from unwanted changes and tampering.
+
+Raspuri is an extremely popular variety of mango in South Indian state of Karnataka especially grown in and around Bengaluru, Ramanagara, Kolar, Chikkaballapura, Tumakuru.
+
+Raspurkot is a town and Village Development Committee in Pyuthan, a Middle Hills district of Rapti Zone, western Nepal.
+
+Rasputina is an American, cello-driven band based in New York City, that is known for their unconventional and quirky music style, as well as their fascination with historical allegories and fashion, especially those pertaining to the Victorian era.
+
+Rasputina performed regularly at NYC venues such as CBGB's Gallery, Brownie's and Fez before being signed to Columbia Records in 1996, for whom they subsequently made two albums.
+
+Rasputin is a 2003 Finnish-language opera in three acts by Einojuhani Rautavaara.
+
+Rasputin is a 2010 Italian film directed by Louis Nero.
+
+Rasputin is a coming of age romantic comedy, Malayalam film directed by Jinu G. Daniel, released on 7 August 2015 .
+
+Rasputin is a mutant with substance-altering and dimension-hopping abilities.
+
+Rasputin is being produced by E.
+
+P. Varghese under the banner of Blue Moon Pictures, Executive Producer Shaju Maniyadath.
+
+Rasputin Music is the largest independent chain of record stores in the San Francisco Bay Area, California.
+
+Rasputin serves as the second archenemy of Hellboy after the Ogdru Jahad.
+
+Raspy crickets evolved the ability to produce silk independently from other insects, but their silk has many convergent features to silkworm silk, being made of long, repetitive proteins with an extended beta-sheet structure.
+
+Rasqal RDF Query Library for executing RDF queries with RDQL and SPARQL Redland Language Bindings for APIs to Redland in C#, Java, Objective-C, Perl, PHP, Python, Ruby and TclRedland is a mature set of libraries, in development since 2000 and closely conformant to the relevant W3C specifications.
+
+Rasquin is a Venezuelan film director.
+
+Rasquin is in a relationship with actress Prakriti Maduro.
+
+Rasquiz Alfred Johnson (born January 27, 1995), better known by his stage name, Raz Fresco, is a Canadian rapper and record producer from Brampton, Ontario.
+
+Rasra is the second major commercial area of the district, having a government sugar mill and a cotton weaving industry."
+
+Rasratnamala" was written by him.
+
+RAS Records, also known as Real Authentic Sound, is a reggae record label.
+
+Ras-related C3 botulinum toxin substrate 3 is a protein that in humans is encoded by the RAC3 gene.
+
+Ras-related GTP binding C, also known as RRAGC, is a protein which in humans is encoded by the RRAGC gene.
+
+Ras-related GTP-binding protein A is a protein that in humans is encoded by the RRAGA gene.
+
+Ras-related GTP-binding protein B is a protein that in humans is encoded by the RRAGB gene.
+
+Ras-related protein M-Ras, also known as muscle RAS oncogene homolog and R-Ras3, is a protein that in humans is encoded by the MRAS gene on chromosome 3.
+
+Ras-related protein Rab-10 is a protein that in humans is encoded by the RAB10 gene.
+
+Ras-related protein Rab-11B is a protein that in humans is encoded by the RAB11B gene.
+
+Ras-related protein Rab-13 is a protein that in humans is encoded by the RAB13 gene.
+
+Ras-related protein Rab-14 is a protein that in humans is encoded by the RAB14 gene.
+
+Ras-related protein Rab-15 is a protein that in humans is encoded by the RAB15 gene.
+
+Ras-related protein Rab-17 is a protein that in humans is encoded by the RAB17 gene.
+
+Ras-related protein Rab-18 is a protein that in humans is encoded by the RAB18 gene.
+
+Ras-related protein Rab-1A is a protein that in humans is encoded by the RAB1A gene.
+
+Ras-related protein Rab-1B is a protein that in humans is encoded by the RAB1B gene.
+
+Ras-related protein Rab-21 is a protein that in humans is encoded by the RAB21 gene.
+
+Ras-related protein Rab-22A is a protein that in humans is encoded by the RAB22A gene.
+
+Ras-related protein Rab-23 is a protein that in humans is encoded by the RAB23 gene.
+
+Ras-related protein Rab-25 is a protein that in humans is encoded by the RAB25 gene.
+
+Ras-related protein Rab-26 is a protein that in humans is encoded by the RAB26 gene.
+
+Ras-related protein Rab-27A is a protein that in humans is encoded by the RAB27A gene.
+
+Ras-related protein Rab-2A is a protein that in humans is encoded by the RAB2A gene.
+
+Ras-related protein Rab-31 is a protein that in humans is encoded by the RAB31 gene.
+
+Ras-related protein Rab-34 is a protein that in humans is encoded by the RAB34 gene.
+
+Ras-related protein Rab-35 is a protein that in humans is encoded by the RAB35 gene.
+
+Ras-related protein Rab-36 is a protein that in humans is encoded by the RAB36 gene.
+
+Ras-related protein Rab-37 is a protein that in humans is encoded by the RAB37 gene.
+
+Ras-related protein Rab-38 is a protein that in humans is encoded by the RAB38 gene.
+
+Ras-related protein Rab-39B is a protein that in humans is encoded by the RAB39B gene.
+
+Ras-related protein Rab-3A is a protein that in humans is encoded by the RAB3A gene.
+
+Ras-related protein Rab-3B is a protein that in humans is encoded by the RAB3B gene.
+
+Ras-related protein Rab-3C is a protein that in humans is encoded by the RAB3C gene.
+
+Ras-related protein Rab-3D is a protein that in humans is encoded by the RAB3D gene.
+
+Ras-related protein Rab-40A is a protein that in humans is encoded by the RAB40A gene.
+
+Ras-related protein Rab-4A is a protein that in humans is encoded by the RAB4A gene.
+
+Ras-related protein Rab-5A is a protein that in humans is encoded by the RAB5A gene.
+
+Ras-related protein Rab-5C is a protein that in humans is encoded by the RAB5C gene.
+
+Ras-related protein Rab-6A is a protein that in humans is encoded by the RAB6A gene located in the eleventh chromosome.
+
+Ras-related protein Rab-6B is a protein that in humans is encoded by the RAB6B gene.
+
+Ras-related protein Rab-6C is a protein that in humans is encoded by the RAB6C gene.
+
+Ras-related protein Rab-7a is a protein that in humans is encoded by the RAB7A gene.
+
+Ras-related protein Rab-7a is involved in endocytosis, which is a process that brings substances into a cell.
+
+Ras-related protein Rab-7b is a protein that in humans is encoded by the RAB7B gene.
+
+Ras-related protein Rab-8A is a protein that in humans is encoded by the RAB8A gene.
+
+Ras-related protein Rab-8B is a protein that in humans is encoded by the RAB8B gene.
+
+Ras-related protein Rab-9A is a protein that in humans is encoded by the RAB9A gene.
+
+Ras-related protein Ral-A (RalA) is a protein that in humans is encoded by the RALA gene on chromosome 7.
+
+Ras-related protein Rap-1A is a protein that in humans is encoded by the RAP1A gene.
+
+Ras-related protein Rap-1b, also known as GTP-binding protein smg p21B, is a protein that in humans is encoded by the RAP1B gene.
+
+Ras-related protein Rap-2a is a protein that in humans is encoded by the RAP2A gene.
+
+Ras-related protein R-Ras2 is a protein that in humans is encoded by the RRAS2 gene.
+
+Ras-related protein R-Ras is a protein that in humans is encoded by the RRAS gene.
+
+Ras-responsive element-binding protein 1 is a protein that in humans is encoded by the RREB1 gene.
+
+Rassach is a former municipality in the district of Deutschlandsberg in the Austrian state of Styria.
+
+Rassagoda is a village in Sri Lanka.
+
+Rassa is a census-designated place (CDP) in Lee County, Florida, United States.
+
+Rassam was four years old when his father died from a drug overdose.
+
+RASS and the Swedish Save the Children began operating a transit camp at Thonyor, near Ler, for some 280 former child soldiers.
+
+RASS became a partner of the Operation Lifeline Sudan.
+
+RASS competed with the SPLA relief wing, the Sudan Relief and Rehabilitation Association (SRRA), over access to food distribution.
+
+Rassendyl unknowingly is related to the King due to his grandmother's romantic escapades years before, and when his royal highness is incapacitated by a general who wishes to seize power, look-alike Rassendyl is recruited to impersonate him.
+
+Ras Shiloh (born Thomas Williams on January 6, 1975 in Brooklyn, United States) is a reggae artist who made From Rasta to you in 2002 and Only King Selassie I in 2007 concerning Haile Selassie I of Ethiopia the God reincarnate or the king by holy appointment of the Rastafari movement.
+
+RAS Signaling Function: perform registration, admission, bandwidth changes, status and disengage procedures between endpoints and an H.
+
+323 Gatekeeper.
+
+Rassi is an American Iranian real estate and fashion entrepreneur.
+
+Rassilon is a fictional character in the British science fiction television series Doctor Who.
+
+Rassilon led a revolution against the Pythia, eventually causing her to kill herself and send her followers to the planet Karn.
+
+Rassini is a company based in Mexico.
+
+Rasskazov (born 21 October 1941) is a Soviet former sports shooter.
+
+Rasskazov is a surname.
+
+Rasskazovka is a station being constructed on the Kalininsko-Solntsevskaya Line of the Moscow Metro, it is planned to open in 2018 as part of line's "Ramenki" - "Rasskazovka" extension.
+
+Rassling Match is a 1934 animated short film produced by the Van Beuren Studios and directed by Vernon Stallings and starring Charles J. Correll and Freeman F. Gosden as the voices of their popular radio characters, Amos 'n' Andy.
+
+RASSL's represent a GPCR-based chemogenetic tool.
+
+Rassman gained national prominence during the 2004 Presidential election when he publicly denounced the Swift Boat Veterans for Truth's campaign against Kerry.
+
+Rassman is now a retired Los Angeles County Sheriff's Department deputy sheriff and an "avid" orchid grower.
+
+Rassman recommended Kerry for a Silver Star medal, but the two did not maintain a relationship for the following 30 years.
+
+RASS merged with the SRRA in 2003 forming a unified relief organization tied to the SPLA/M, the SRRC.
+
+Ras-specific guanine nucleotide-releasing factor 2 is a protein that in humans is encoded by the RASGRF2 gene.
+
+RAS sponsored music workshops on writing, playing and promoting events.
+
+RASS remained closely tied to the SPLA-Nasir military structure and only worked in areas under the control of Riek Machar's forces.
+
+RASS staff were generally former fighters and commanders of the movement.
+
+Rasstriga is an extinct genus of insects.
+
+RAS strongly believe in advocating clean toilets for everyone.
+
+Ras suppressor protein 1 is a protein that in humans is encoded by the RSU1 gene.
+
+Rassvet represents one of the largest coal reserves in Ukraine having estimated reserves of 14.
+
+3 million tons.
+
+RASS was set up by the SPLA-Nasir/United, almost immediately after the revolt inside the 1991 Sudan People's Liberation Army against the leadership of Dr. John Garang.
+
+Rassypnaya is located on the Obshchy Syrt, a plateau in the European part of Russia that extends southwest of the Urals toward the Volga River.
+
+Rasta Business is a studio album by Jamaican reggae singer Burning Spear released 20th June 1995.
+
+RASTA Dome is a sports arena in Vechta, Germany.
+
+Rastafarian toaster Captain Rizz and keyboardist Julian "Crum" Crimmins began contributing to live dates, although neither would appear on this record.
+
+Rastafari is a studio album by American jazz trumpeter Wadada Leo Smith with the Bill Smith ensemble, which was released in 1983 on the Canadian Sackville label.
+
+Rastafari recognize the significance of Jesus Christ, due to Haile Sellassie I fulfilling the teachings and prophecy of scripture.
+
+Rasta Got Soul is reggae, dancehall artist Buju Banton's ninth studio album.
+
+Rasta is a religious movement that came out of Jamaica.
+
+Rasta is the fifth solo studio album by Jamaican reggae artist Ziggy Marley, released on April 15, 2014, on Ziggy's own label, Tuff Gong Worldwide.
+
+Rastakraut Pasta is the first full-length album by German electronic music duo of Dieter Moebius and Conny Plank.
+
+Rastakraut Pasta was reissued separately on CD in a digitally remastered, 1000 copy limited edition by the Japanese Captain Trip label on February 25, 2007.
+
+Rastaman Vibration is a reggae album by Bob Marley and the Wailers released on 30 April 1976.
+
+Rastamouse is a British animated stop motion children's TV series created by Genevieve Webster and Michael De Souza and produced by Three Stones Media/The Rastamouse Company for CBeebies.
+
+Rastan Saga Episode III is an arcade beat 'em up game released by Taito Corporation in 1991.
+
+Rasta peth a locality of Pune originally called Shivpuri Peth, was founded by and named after the family.
+
+Rasta Peth is an area located in Pune City, in Maharashtra State of the Republic of India.
+
+Rasta Revolution is a compilation album by Bob Marley & The Wailers released by Trojan in 1974.
+
+Rastar was an American film production company founded in 1966 by Hollywood producer Ray Stark, who was involved in most of its productions.
+
+Rast (born 28 August 1970) is a Swiss former racing cyclist.
+
+Rastdorf is a municipality in the Emsland district, in Lower Saxony, Germany.
+
+Raste assisted the Peshwa in their Gujarat, Malwa & Karnataka military campaigns.
+
+Raste is the surname of a family that was an important feudal family from Maratha Empire, the town of Wai, near Pune belonged to the Rastes.
+
+Rastellus is a genus of spiders in the Ammoxenidae family.
+
+Rastenfeld is a town in the district of Krems-Land in the Austrian state of Lower Austria.
+
+Raster file formats that support transparency include GIF, PNG, BMP, TIFF, and JPEG 2000, through either a transparent color or an alpha channel.
+
+Raster graphics animation works in a similar fashion to film-based animation, where a series of still images produces the illusion of continuous movement.
+
+Raster graphics editors can be compared by many variables, including availability.
+
+Raster graphics editors (see list below) are typically used to repair the appearance of the digital images and add to the digital copy of the photo where pieces of the physical photograph are torn or missing.
+
+Raster images are stored in image files with varying formats.
+
+Raster interrupts were incorporated into these video chips allowing skilled programmers to transcend these limitations.
+
+Raster Navigational Charts (RNC's) are created by the National Oceanic and Atmospheric Administration (NOAA) of the United States Government.
+
+RasterOps took on the Truevision name and retained the Indianapolis engineering team which continued producing ever more advanced products until 1999 when the company was finally acquired by its biggest competitor, Pinnacle Systems.
+
+Rasterscan is a computer game published in 1987 by Mastertronic for several 8-bit formats.
+
+Raster was a raster graphics file format used on SunOS by Sun Microsystems.
+
+Rastes built several Temples, Ghats, Palaces in Wai and Pune.
+
+Raste Wada located in Rasta Peth of Pune is one of the largest remaining Wadas.
+
+Rastey Hain Pyaar Ke is a 1963 Hindi film starring Sunil Dutt and Leela Naidu in the lead roles.
+
+Ras Thavas is a fictional character created by Edgar Rice Burroughs in his 1927 novel The Master Mind of Mars.
+
+Rasther than an independent tribe, they may have been a horde of the Gubbi Gubbi.
+
+Rast is a commune in Dolj County, Romania.
+
+Rastislav Veselko (born 29 April 1988) is a Slovak professional ice hockey player who played with HC Slovan Bratislava in the Slovak Extraliga.
+
+Rastnik is a village in Kirkovo Municipality, Kardzhali Province, southern Bulgaria.
+
+Rast (Novi Pazar) is a village situated in Novi Pazar municipality in Serbia.
+
+Rastodentidae is a taxonomic family of minute sea snails, marine gastropod molluscs in the clade Littorinimorpha.
+
+Rastoder is a Bosniak Slavic surname.
+
+Rastodon is an extinct genus of anomodonts.
+
+Rastogi, a tailor by profession, from Rampur, Uttar Pradesh, used to allure minors school girls, when they would return from school.
+
+Rastogi had been a member of the Academy of Zoology, and was a member of The Textbook evolution Committee, NCERT, New Delhi.
+
+Rastogi, had been targeting girls walking home from school since 13 years.
+
+Rastogi had superstitious beliefs of dressing in red and blue, before attempting the crime, and believed that he would not be caught by his beliefs.
+
+Rastogi is a caste from northern India.
+
+Rastogi is an alumna of Sahejmoodra Acting Academy, and had her first television roles in the series Iss Pyaar Ko Kya Naam Doon, and Crazy Stupid Ishq.
+
+Rastogi, used to assault minor school girls, in pattern execution of crime.

@@ -1,0 +1,259 @@
+The chip set consisted of the CVAX 78034 CPU, CFPA floating-point accelerator, CVAX clock chip, and the associated support chips, the CVAX System Support Chip (CSSC), CVAX Memory Controller (CMCTL), and CVAX Q-Bus Interface Chip (CQBIC).
+
+The chip set consisted of the R6000 microprocessor, R6010 floating-point unit and R6020 system bus controller.
+
+The chip set consists of the buzz ASIC, the pixel blaster and jammer (PB&J) ASIC, and associated SDRAM.
+
+The chipsets are capable of full 1080p Blu-ray and HD DVD playback with most processing being done by the integrated chipset from the motherboard and not requiring an additional video card.
+
+The chipsets are listed in chronological order.
+
+The chipsets contain a 'memory controller hub' and an 'I/O controller hub', which tend to be called 'north bridge' and 'south bridge' respectively.
+
+The chipset series uses the same silicon as AMD's previous 8-Series chipset however it is targeted at the socket AM3+ platform, including the Bulldozer line, while the 800 series is targeted at the socket AM3 platform.
+
+The chipset series was revealed in its presentation slides during the AMD Financial Analyst Day 2007 held on December 13, 2007.
+
+The chipset shipped in 3 varieties; 220, 415, and 420.
+
+The chip-sets of SZ series have two basic modifications.
+
+The chipsets production began in late 2006 with codenames RS690 and RS600, where both of them share similar internal chip design, targeting at the desktop market.
+
+The chipset supports AMD 64-bit processors (Socket 939 and Socket 754) as well as supporting Intel Pentium 4, Pentium D and Celeron processors (LGA 775 and Socket 478).
+
+The chipset supports AMD 64-bit processors (Socket 939, Socket AM2 and Socket 754) and Intel Pentium 4 LGA 775 processors.
+
+The chipset supports AMD64 processors of the Socket 939 and also of the Socket AM2.
+
+The chipset was designed for computers that run Windows NT, and therefore used ARC firmware to boot Windows NT.
+
+The Chi Psi Fraternity House is a 1935 Tudor style, stucco over wood frame structure near the University of Oregon in Eugene, Oregon.
+
+The Chips is a passenger train that operates over the Blue Mountains between Lithgow and Sydney.
+
+The chip stores the information printed on the card (such as the holder's name and date of birth) and the holder's biometric photo.
+
+The Chips were a short-lived New York City doo-wop vocal group consisting of teenage friends Charles Johnson (lead vocal), Nathaniel Epps (baritone), Paul Fulton (bass), Sammy Strain and Shedrick Lincoln (tenors).
+
+The chip was designed for AGP graphics cards.
+
+The chip was fabricated at the NASA Jet Propulsion Laboratory Microdevices Lab in Pasadena, California.
+
+The chip was recognized as Discover magazine's 1998 Invention of the Year in computer hardware and electronics.
+
+The chip was to be released in 2010 as the core of a consumer 3D graphics card, but these plans were canceled due to delays and disappointing early performance figures.
+
+The Chiquibul Cave System is one of the largest and best-known cave systems in Central America.
+
+The Chiquitano are an indigenous people of Bolivia, with a small number also living in Brazil.
+
+The Chiquitano dry forests is a tropical dry broadleaf forest ecoregion in Bolivia and Brazil.
+
+The Chiquitano ethnicity emerged among socially and linguistically diverse populations required to speak a common language by the Jesuit Missions of Chiquitos.
+
+The Chiquitano primarily live in the Chiquitania tropical savanna of Santa Cruz Department, Bolivia, with a small number also living in Beni Department and in Mato Grosso, Brazil.
+
+The Chiquitibum is a chant heard at Mexican sporting events.
+
+The Chiquito de Cibao River is a river of Puerto Rico.
+
+The Chiquito language was adopted as the means of communication among the converts, who soon numbered 50,000, representing nearly fifty tribes.
+
+The Chiquito River (Guayama, Puerto Rico) is a river of Puerto Rico.
+
+The Chiquitos were in fact well formed and powerful, of middle height and of an olive complexion.
+
+The Chiquito (Yauco, Puerto Rico) is a river of Puerto Rico.
+
+The Chirag Delhi metro station is located on the Magenta Line of the Delhi Metro.
+
+The chiral-altering ligands employed for synthesizing these acids most often have multiple Lewis basic sites (often a diol or a dinitrogen structure) that allow the formation of a ring structure involving the metal atom.
+
+The chiral isomer is far more common.
+
+The chirality of a knot is a knot invariant.
+
+The chirality of the catalyst induces a stereoselective addition, so the secondary alcohol of the product has a predictable absolute stereochemistry based on the choice of catalyst.
+
+The chirality present in the auxiliary can bias the stereoselectivity of one or more subsequent reactions.
+
+The chiral magnetic current is non-dissipative, because it is topologically protected: the imbalance between the densities of left- and right-handed chiral fermions is linked to the topology of fields in gage theory by the Atiyah-Singer index theorem.
+
+The Chire and Rivubue rivers also flooded.
+
+The Chiredzi River is a river in southeastern Zimbabwe.
+
+The Chiremba Balancing Rocks in Epworth, Harare is the main illustration on the obverse of regular banknotes of the Reserve Bank of Zimbabwe: for its emergency Bearer and Agro checks, the rocks became part of the Reserve Bank's emblem that also appeared on the obverse.
+
+The Chiricahua Mountains are home to a number of unusual geologic features associated with the Turkey Creek Caldera, some of which are protected by Chiricahua National Monument.
+
+The Chiricanu River or Chipicanu River is a tributary of the Neajlov River in Romania.
+
+The Chirinda apalis (Apalis chirindensis) is a species of bird in the family Cisticolidae.
+
+The Chirinda toad, Chrinda forest toad, Mashonaland toad or Boulenger's earless toad (Mertensophryne anotis) is a species of toad in the family Bufonidae with a restricted distribution in eastern Zimbabwe and western Mozambique.
+
+The Chiripa culture existed between the Initial Period/Early Horizon, from 1400 to 850 BC along the southern shore of Lake Titicaca in Bolivia.
+
+The Chiriqui brown mouse (Scotinomys xerampelinus), also known as the long-tailed singing mouse, is a species of rodent in the family Cricetidae.
+
+The Chiriqui harvest mouse (Reithrodontomys creper) is a species of rodent in the family Cricetidae.
+
+The Chiriqui pocket gopher (Orthogeomys cavator) is a species of rodent in the family Geomyidae.
+
+The Chirivoaia River or Apostol River is a tributary of the Miletin River in Romania.
+
+The Chirkey Dam (Chirkeisk GES) is an arch dam on the Sulak River in Dagestan, Russia.
+
+The Chirnside Park Football Club is an Australian rules football club located in Chirnside Park, Victoria.
+
+The Chiroaiu River is a tributary of the Cuejdiu River in Romania.
+
+The 'chirographa,' or fines in question, were fictitious suits, by means of which it was the custom to bar entails and convey the landed property of married women.
+
+The Chiron was first shown at the Geneva Motor Show on March 1, 2016.
+
+The Chiropractors' Association of Australia (CAA), founded in 1990, is the largest association of chiropractors and chiropractic students in Australia.
+
+The Chiroteuthidae are a family of deep-sea squid, generally small to medium in size, rather soft and gelatinous, and slow moving.
+
+The "chirp chirp" sound is named after the insect that it imitates.
+
+The chirping cisticola (Cisticola pipiens) is a species of bird in the Cisticolidae family.
+
+The "Chirping" Crickets and was also released as the A-side of a single, with "Not Fade Away" as the B-side.
+
+The chirp of the death's head hawkmoth takes approximately one-fifth of a second.
+
+The Chirruh snowtrout (Schizothorax esocinus) is a species of cyprinid fish found in the Himalyays in Pakistan, India, Afghanistan, Nepal and China.
+
+The chirruping wedgebill and chiming wedgebill (Psophodes occidentalis) were considered to be a single species until as late as 1973, when they were separated due to marked differences in their calls.
+
+The chirruping wedgebill (Psophodes cristatus) is a medium sized member of the genus Psophodes, which consists or four to five songbirds endemic to Australia.
+
+The Chisana Formation is a geologic formation in Alaska.
+
+The Chisbic River is a headwater of the Pietroasa River in Romania.
+
+The Chisca were a tribe of Native Americans living in eastern Tennessee and southwestern Virginia in the 16th century.
+
+The chisel blade can also be used to rapidly cut bricks or cinder blocks.
+
+The chiseled animals include elephants, giraffes, aurochs, wildcats, and crocodiles.
+
+The chisel is struck violently with a striking tool, usually with a sledgehammer.
+
+The chiselmouth is a close relative (Simons & Mayden 1997), as are members of the genus Siphateles.
+
+The Chishimba Fall belongs to the Monuments and Historic Sites of Zambia.
+
+The Chisholm Formation is a geologic formation in Utah.
+
+The Chisholm Shale is a geologic formation in Nevada.
+
+The Chisholms is a CBS western miniseries starring Robert Preston, which aired from March 29, 1979, to April 19, 1979; and continued as a television series from January 19, 1980, to March 15, 1980.
+
+The Chisholm Trail is a computer game released in July 1982 for the Texas Instruments TI-99/4A personal computer.
+
+The Chisholm Trail passed to the east of Duncan prior to the town's founding.
+
+The Chisholm Trail, stage coach lines, mail routes, and railroads passed through stations at Buffalo Springs and Skeleton, today known as Bison and Enid.
+
+The Chisholm Trail was a trail used in the post-Civil War era to drive cattle overland, from ranches in Texas to Kansas railheads.
+
+The Chiskiack Tribe of Native Americans lived on the south side of the York River on the grounds of the present-day Naval Weapons Station Yorktown near Yorktown until the 1630s, when conflicts with the English colonists caused them to move.
+
+The Chismon Collection is a collection of Croatian philatelic material formed by Harvey John Chismon and given to the British Library by his son Joseph Chismon in 2009.
+
+The Chismore Range is a small subrange of the Kitimat Ranges, located on the western edge of Porcher Island, British Columbia, Canada.
+
+The Chisms were not filmed during the Zapruder film because they were hidden by the "Stemmons Freeway" road sign, but they are clearly visible in many other films, photos, and slide-photos captured before, during, and after the assassination.
+
+The Chisna River is a river of Guatemala.
+
+The Chisos Formation is a geologic formation in Texas.
+
+The Chispa Summit Formation is a geologic formation in Texas.
+
+The CHISP certification is offered by the American Society of Health Informatics Managers (ASHIM) for candidates who demonstrate skills in the following core competencies: clinical, communications, compliance/legal considerations, health informatics, information analysis, medical administrative operations, and technology.
+
+The Chistopolian Highflyer is a breed of fancy pigeon.
+
+The Chiswell Islands are a group of rocky, uninhabited islands, accessible only by boat or airplane, within the Kenai Peninsula Borough of Alaska in the Gulf of Alaska.
+
+The Chiswick flyover is a short elevated section of the M4 motorway in the western approaches to London, United Kingdom.
+
+The Chitande aulonocara (Aulonocara ethelwynnae) is a species of fish in the family Cichlidae endemic to Lake Malawi.
+
+The Chita Rivera Awards for Dance and Choreography (previously titled the Fred and Adele Astaire Awards) celebrate outstanding dance and choreography in theater, both on Broadway and Off-Broadway and in film at an annual ceremony in New York City at the Skirball Center for the Performing Arts.
+
+The Chitauri are a fictional race of extraterrestrial shapeshifters appearing in American comic books published by Marvel Comics, specifically in Ultimate Marvel.
+
+The chit funds operate along similar principles.
+
+The Chithamur block is a revenue block in the Kanchipuram district of Tamil Nadu, India.
+
+The Chitharal Jain Monuments; also known as Chitharal Malai Kovil (literally Temple on the Hill), Chitharal Cave Temple or Bhagwathi Temple, Chitral; are situated on the Thiruchanattu Malai (Thiruchanattu hillocks) near Chitharal village, Kanyakumari district, Tamil Nadu, India.
+
+The Chithurst Forest Monastery, or Cittaviveka, is a monastery in the lineage of the Thai Forest Tradition of Theravada Buddhism.
+
+The Chitici River is a tributary of the Uz River in Romania.
+
+The Chitid River is a tributary of the Luncani River in Romania.
+
+The chitinases hydrolyse chitin oligosaccharides.
+
+The Chitistone Formation is a geologic formation in Alaska.
+
+The Chitlin' Fooks were a duo consisting of Carol Van Dyk, the frontwoman of Dutch alternative rock band Bettie Serveert, and Pascal Deweze of Belgian pop group Sukilove.
+
+The Chi-Town Shooters were a professional ice hockey team that played in the All American Hockey League.
+
+The Chitpavan culture, festivals, rituals and practices are still alive and intact in these house holds.
+
+The Chitragupta temple is an 11th-century temple of Surya (sun god) in the Khajuraho town of Madhya Pradesh, India.
+
+The Chitrakathi is the name of an occupational caste whose traditional livelihood was to narrate stories aided with pictures sojourning various places.
+
+The Chitral Fort is a fortification in Chitral town, Khyber Pakhtunkhwa, Pakistan.
+
+The Chitral gecko (Mediodactylus walli) is a species of gecko, a lizard in the family Gekkonidae.
+
+The Chitral Press Club of Chitral District, Khyber Pakhtun Khwa Pakistan, is a supreme representative body of journalists based in Chitral and upper Chitral.
+
+The Chitrapur Math is the holiest temple of the Chitrapur Saraswat Brahmin community, and the Maha Ganapathi Mahammaya temple is the Kuladev to the Kamaths, Bhats, Puraniks, Prabhus, Joishys, Mallyas, Kudvas and Nayak families from the Goud Saraswat Brahmin community.
+
+The Chitra River is located in southwestern Bangladesh.
+
+The chits are drawn sequentially to determine the current order of play.
+
+The Chittagong City Center (also called City Center), is a 204.
+
+2 meters (670 feet) proposed and approved 51-story tower in Agrabad Commercial Area, Chittagong.
+
+The Chittagong Club is one of the most prominent and prestigious social clubs in Bangladesh.
+
+The Chittagong Education Board started its operation in the year 1995.
+
+The Chittagong Hill Tracts conflict was a political and armed conflict between the government of Bangladesh and the Parbatya Chattagram Jana Sanghati Samiti (United People's Party of the Chittagong Hill Tracts) and its armed wing, the Shanti Bahini, over the issue of autonomy and the land rights of Jumma people, Chakma people and the other indigenous of Chittagong Hill Tracts.
+
+The Chittagong Hill Tracts, formally a single unified district was divided into three separatedistricts: Khagrachari,Bandarban, Rangamati and Bandarban during the administrative reorganization in 1984.
+
+The Chittagong Hill Tracts Regulation received the assent of the Governor General on 6 January 1900 and was published in Calcutta Gazaette on 17 January 1900.
+
+The Chittagong Hill Tracts, Sylhet, Mymensingh and North Bengal divisions are home to diverse indigenous peoples.
+
+The Chittagong Tea Auction is the main auction house of the tea industry in Bangladesh, one of the world's largest tea producers and consumers.
+
+The Chitte Building is an apartment building on the Upper West Side of Manhattan, New York City.
+
+The Chittenden-1-2 District includes all of the Chittenden County town of Charlotte plus those parts of the town of Hinesburg not included in Chittenden-1-1.
+
+The Chittenden-2 District includes all of the Chittenden County town of Williston.
+
+The Chittenden-3-10 District includes a section of the Chittenden County city of South Burlington defined as follows: "That portion of the City of South Burlington not contained in Chittenden-3-7, 3-8, or 3-9."
+
+The Chittenden-4 District includes all of the Chittenden County town of Richmond.
+
+The Chittenden-5-2 District includes all of the Chittenden County town of St. George and that part of Shelburne not included in Chittenden-5-1.
