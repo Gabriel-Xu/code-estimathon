@@ -1,1 +1,0 @@
-See the IUPAC recommendation definition as a means of coupling capillary electrophoresis to mass spectrometry in which a liquid reservoir surrounds the separation capillary and transfer capillary to the mass spectrometer.

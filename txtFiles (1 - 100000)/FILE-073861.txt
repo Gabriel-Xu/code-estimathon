@@ -1,1 +1,0 @@
-The movements of embers from a bushfire are the primary cause of spotfires, which contribute to the continued spread of a bushfire.The movements of flight controls are converted to electronic signals transmitted by wires (hence the fly-by-wire term), and flight control computers determine how to move the actuators at each control surface to provide the ordered response.

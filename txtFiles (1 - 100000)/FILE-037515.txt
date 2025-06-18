@@ -1,1 +1,0 @@
-In 1990 the Institute of Electrical and Electronics Engineers codified the results of the effort in IEEE Standard 1149.1-1990, entitled Standard Test Access Port and Boundary-Scan Architecture.

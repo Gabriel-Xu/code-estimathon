@@ -1,1 +1,0 @@
-According to the classification theorem for 2-manifolds, every compact connected 2-manifold is either a sphere, a connected sum of tori, or a connected sum of real projective planes.

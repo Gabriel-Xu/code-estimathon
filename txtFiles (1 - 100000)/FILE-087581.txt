@@ -1,1 +1,0 @@
-With this structure, drivers earn a truly regional championship.With this structure, one can use binary search to find the point closest to the start of a query interval, and then scan the array from that point forwards to list all of the points in the interval.With this subtle modification, there are in fact 96 possible solutions to the 36 Cube puzzle.
