@@ -1,1 +1,0 @@
-The basic idea is that organisms keep osmotic pressure by controlling their water and salt concentrations. There are regulators and conformers. Conformers match their environment, and regulators do things which act to keep their internal water at a standard level of saltiness.

@@ -1,1 +1,0 @@
-It lends much of the philosophy from ImageJ but aims to supersede it by having a more modern design.

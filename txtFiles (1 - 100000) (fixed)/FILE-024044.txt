@@ -1,3 +1,0 @@
-COEKG advocates expect their experience will assist in the standardization of more general electronic medical records (EMR) data exchange.
-
-COEKG implements a subset of the Continuity of Care Record (CCR) messaging protocol.

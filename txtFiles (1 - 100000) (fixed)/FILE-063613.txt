@@ -1,7 +1,0 @@
-Terraforming of Mars is a hypothetical process of planetary engineering by which the surface and climate of Mars would be deliberately changed to make large areas of the environment hospitable to humans, thus making the colonization of Mars safer and sustainable.
-
-Terraform is an infrastructure as code software by HashiCorp.
-
-Terraform is the second full-length record by Shellac, released in 1998.
-
-Terraform Realty is a real estate development and construction company, established in 1976.

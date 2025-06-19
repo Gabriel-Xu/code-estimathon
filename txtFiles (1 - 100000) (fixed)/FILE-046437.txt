@@ -1,1 +1,0 @@
-It was originally developed as a response to the first paintbrush program for the IBM PC, PCPaint, which had been released the prior year by Mouse Systems, the company responsible for bringing the mouse to the IBM PC for the first time.

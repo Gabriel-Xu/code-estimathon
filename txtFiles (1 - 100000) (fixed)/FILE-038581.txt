@@ -1,5 +1,0 @@
-In addition to simple user-record management (creating & deleting), SCIM can also be used to share information about user attributes, attribute schema, and group membership.
-
-In addition to simple, utilitarian models made of wood or a synthetic material, representational cast iron boot jacks are also available.
-
-In addition to simple web-based APIs, command-line interfaces are also provided to much of the functionality.

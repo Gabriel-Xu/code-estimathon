@@ -2,9 +2,9 @@
 // index.php
 
 // Configuration
-define('TEXT_DIR', __DIR__ . '/txtFiles (1 - 100000) (fixed)');
+define('TEXT_DIR', __DIR__ . '/txtFiles (1 - 10000)');
 define('MIN_FILE', 1);
-define('MAX_FILE', 100000);
+define('MAX_FILE', 10000);
 
 $fileContent = '';
 $error       = '';
@@ -109,7 +109,7 @@ if (isset($_GET['file'])) {
   <div class="container">
     <h1>Text Viewer</h1>
     <form method="get" action="">
-      <label for="file">File # (1–100000):</label>
+      <label for="file">File # (1-10000):</label>
       <input
         type="number"
         id="file"

@@ -1,1 +1,0 @@
-Environments that can be automated through scripting include software applications, web pages within a web browser, usage of the shells of operating systems (OS), embedded systems, as well as numerous games.

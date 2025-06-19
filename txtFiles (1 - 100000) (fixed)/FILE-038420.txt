@@ -1,9 +1,0 @@
-In a database system, the condition could simply be a query to the database, with the result set (if not null) being passed to the action part for changes to the database.
-
-In a database table transaction time is often represented by two extra table-columns StartTT and EndTT.
-
-In a data binding process, each data change is reflected automatically by the elements that are bound to the data.
-
-In a data network, the control station may designate a master station to ensure data transfer to one or more slave stations.
-
-In a data station, the DCE performs functions such as signal conversion, coding, and line clocking and may be a part of the DTE or intermediate equipment.

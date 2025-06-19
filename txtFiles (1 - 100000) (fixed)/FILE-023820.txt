@@ -1,5 +1,0 @@
-Civic application can be accessed from a server via an Internet browser (online) or using mobile devices, such as mobile phones or tablets (mobile), less often from user's local drive (offline). Non-Governmental Organizations and public national institutions are noticing the value of the civic apps and invite people working in Information Technology domain to participate in their development (e.
-
-g. in Greater Portland, Chicago, Boston, Boulder, Washington D.
-
-C, Seattle and other American cities as part of the Code For America initiative).

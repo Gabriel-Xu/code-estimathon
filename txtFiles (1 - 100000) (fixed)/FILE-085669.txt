@@ -1,7 +1,0 @@
-User created data structures can be defined in wiki documents and instances of those structures can be attached to wiki documents, stored in a database, and queried using either Hibernate query language or XWiki's own query language.
-
-User creations could be exported as .
-
-desktop files or as widgets.
-
-User Data Header (UDH) is a binary structure which may be present at the start of a short message in the Short Message Service in GSM.

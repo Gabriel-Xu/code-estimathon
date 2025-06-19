@@ -1,9 +1,0 @@
-This is also so because, since some units require quite a long time (many hours) to start up or shut down, the decisions need be taken well in advance (usually, the day before), which implies that these problems have to be solved within tight time limits (several minutes to a few hours).
-
-This is also sometimes called pargeting.
-
-This is also sometimes called single-winner voting or winner takes all.
-
-This is also sometimes known as resource-to-resource mutualism.
-
-This is also sometimes referred to as point-to-point integration because it connects two types of data directly to serve a narrow purpose.

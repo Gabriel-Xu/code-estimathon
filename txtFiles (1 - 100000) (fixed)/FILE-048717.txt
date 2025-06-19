@@ -1,7 +1,0 @@
-Knowledge-based engineering (KBE) is the application of knowledge-based systems technology to the domain of manufacturing design and production.
-
-Knowledge-based engineering or knowledge-aided design is a process of computer-aided usage of such knowledge models for the design of products, facilities or processes.
-
-Knowledge-based processors are essential for the long term success of the IPv6 network.
-
-Knowledge-based processors (KBPs) are used for processing packets in computer networks.

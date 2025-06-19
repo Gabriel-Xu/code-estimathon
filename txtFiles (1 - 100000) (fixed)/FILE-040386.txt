@@ -1,7 +1,0 @@
-In the current release (V7.
-
-1), RSCT provides coordinate response between nodes, but monitoring and communication are provided by the Cluster Aware AIX (CAA) infrastructure.
-
-In the current scenario, 3D printing process has been used in manufacturing, medical, industry and sociocultural sectors which facilitate 3D printing to become successful commercial technology.
-
-In the current scenario there is an increasing interest in the use of these large-scale macroeonometric models for theory evaluation, impact analysis, policy simulation and forecasting purposes.

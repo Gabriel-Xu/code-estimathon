@@ -1,5 +1,0 @@
-The Intel 8061 microcontroller is most notable for its use in the Ford EEC-IV automotive engine control unit.
-
-The Intel 8088, released in 1979, is a slightly modified chip with an external 8-bit data bus (allowing the use of cheaper and fewer supporting ICs), and is notable as the processor used in the original IBM PC design, including the widespread version called IBM PC XT.
-
-The Intel 8089 input/output coprocessor was available for use with the 8086/8088 central processor.

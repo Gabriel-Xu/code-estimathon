@@ -1,3 +1,0 @@
-The presence of Pu-240 limits the plutonium's use in a nuclear bomb, because the neutron flux from spontaneous fission initiates the chain reaction prematurely, causing an early release of energy that physically disperses the core before full implosion is reached.
-
-The presence of QoS, thus the presence of TID, is determined by the value set in the MSB of subtype field (bit b7) of Frame control field.
