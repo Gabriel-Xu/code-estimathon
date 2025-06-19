@@ -7,7 +7,8 @@ define('MIN_FILE', 1);
 define('MAX_FILE', 100000);
 
 $fileContent = '';
-$error = '';
+$error       = '';
+$byteCount   = null;  // ← New: will hold the file size
 
 // Handle user input
 if (isset($_GET['file'])) {
@@ -17,7 +18,7 @@ if (isset($_GET['file'])) {
         $error = "Please enter a number between " . MIN_FILE . " and " . MAX_FILE . ".";
     } else {
         // Pad with zeros to 6 digits
-        $padded = str_pad($num, 6, '0', STR_PAD_LEFT);
+        $padded  = str_pad($num, 6, '0', STR_PAD_LEFT);
         $filename = TEXT_DIR . "/FILE-{$padded}.txt";
         
         if (!is_readable($filename)) {
@@ -27,6 +28,9 @@ if (isset($_GET['file'])) {
             $fileContent = file_get_contents($filename);
             if ($fileContent === false) {
                 $error = "Failed to read file.";
+            } else {
+                // ← New: get byte count
+                $byteCount = strlen($fileContent);
             }
         }
     }
@@ -84,6 +88,11 @@ if (isset($_GET['file'])) {
       color: #c00;
       margin-bottom: 1rem;
     }
+    .byte-count {
+      font-size: 0.9rem;
+      color: #555;
+      margin-bottom: 0.5rem;
+    }
     pre {
       background: #fafafa;
       padding: 1rem;
@@ -118,6 +127,10 @@ if (isset($_GET['file'])) {
     <?php endif; ?>
 
     <?php if ($fileContent !== ''): ?>
+      <!-- NEW: display byte count -->
+      <div class="byte-count">
+        File size: <?php echo number_format($byteCount) ?> bytes
+      </div>
       <pre><?php echo htmlspecialchars($fileContent) ?></pre>
     <?php endif; ?>
   </div>
